@@ -57,6 +57,7 @@
 | leímid | We read |  |  |
 |  |  |  |  |
 | Táim | I am | taam |  |
+| Tá sibh | You are | ta shiv |  |
 | Táimid | We are | taamid |  |
 |  |  |  |  |
 | Tá ... agam | I have |  |  |
