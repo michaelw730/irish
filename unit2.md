@@ -24,10 +24,10 @@
 | How | Conas |  |  |
 | pláta | plate | plawta |  |
 | plátaí | platea | plawtee |  |
+| ANIMALS |  |  |  |
 | ainmhithe | animals | anvihe |  |
 | lacha | duck |  |  |
 | lachan | ducks |  |  |
-| sú talún | strawberry |  |  |
 | madra | dog |  |  |
 | madraí | dogs | madre |  |
 | cat | cat |  |  |
@@ -37,6 +37,8 @@
 | luch | mouse |  |  |
 | lucha | mice |  |  |
 | beír | bear |  |  |
+|  |  |  |  |
+| sú talún | strawberry |  |  |
 | tae | tea |  |  |
 | oil | ola |  |  |
 |  |  |  |  |
@@ -59,6 +61,7 @@
 | Conas atá tú | How are you? |  |  |
 |> Táim go maith, go raibh maith agat | I am well, thank you |  |  |
 | Conas atá mé | How am I? |  |  |
+| Táim go maith| I am well |  |  |
 | Slán | Goodbye 
 | Go raibh maith agat | Thank you |  |  |
 | Faílte | Welcome |  |  |

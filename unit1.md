@@ -4,8 +4,10 @@
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-| uisce | water | iska |   |
+| FRUIT |  |  |  |
 | úll | apple | ool |[Sound](https://www.focloir.ie/en/dictionary/ei/apple)
+|  |  |  |  |
+| uisce | water | iska |   |
 | arán | bread | araan |  |
 | mé | I | may |  |
 | tú | You | too |  |
@@ -13,6 +15,7 @@
 | é | he | ay |  |
 | sé | he | shay |  |
 | é | it | ay |  |
+| muid | we |
 | siad | they | shade |  |
 | tá | is | taa |  |
 | agat | at you | awgat |  |
@@ -57,7 +60,8 @@
 | leímid | We read |  |  |
 |  |  |  |  |
 | Táim | I am | taam |  |
-| Tá sibh | You are | ta shiv |  |
+| Tá tú (singular?) | You are | ta too |  
+| Tá sibh (plural?) | You are | ta shiv |  |
 | Táimid | We are | taamid |  |
 |  |  |  |  |
 | Tá ... agam | I have |  |  |
