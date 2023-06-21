@@ -40,6 +40,8 @@
 | banana | banana |  |  |
 | trata | tomato |  |  |
 | liomóid | lemon |  |  |
+| sú talún | strawberry |  |  |
+| peitseog | peach |  |  |
 |  |  |  |  |
 | FOOD |  |  |  |
 | ceapairí | sandwiches |  |  |
@@ -62,6 +64,7 @@
 | muiceoil | pork |  |  |
 | glasra | vegetable |  |  |
 | mhairteoil | beef |  |  |
+| milseáin | sweets |  |  |
 |  |  |  |  |
 | trioblóid | trouble |  |  |
 | trioblóidí | troubles |  |  |
