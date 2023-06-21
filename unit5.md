@@ -27,6 +27,7 @@
 | A úll | his apple |  |  |
 | A húll | her apple |  |  |
 | A n-úll | their apple |  |  |
+| Bhur n-úll | your apple |  |  |
 | mo phortán | my crab  |  |  |
 | Ar bportán | Our crab |  |  |
 | Do bportán (singular)| Your crab |  |  |

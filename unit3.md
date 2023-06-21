@@ -44,6 +44,8 @@
 | peitseog | peach |  |  |
 |  |  |  |  |
 | FOOD |  |  |  |
+| bia | food |  |  |
+| béile | meal
 | ceapairí | sandwiches |  |  |
 | beoir | beer |  |  |
 | béile | meal |  |  |
