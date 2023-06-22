@@ -24,6 +24,7 @@
 | buachaill | boy | byucall |  |
 | buachaillí | boys | byucally |  |
 | bean | woman | ban |  |
+|> an bhean | the woman | ban |  | | Feminine noun needs lenited
 | mná | women | mnaw? |  |
 | and | agus |  |  |
 | is | is | iss |  |
@@ -40,6 +41,11 @@
 | páista | child |  |  |
 | páistí | children |  |  |
 |  |  |  |  |
+
+## Grammar
+bean is a feminine noun, and feminine nouns are lenited after the singular definite article an.
+
+bean - an bhean
 
 ## Verbs
 
