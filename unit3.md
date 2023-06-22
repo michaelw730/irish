@@ -17,7 +17,8 @@
 | capaill | horses |  |  |
 | luch | mouse |  |  |
 | lucha | mice |  |  |
-| béir | bear |  |  |
+| béar | bear |  |  |
+| béir | bears |  |  |
 | eilifint | elephant |  |  |
 | eilifintí | elephants |  |  |
 | ulchabhán | owl | ulcawan? |  |
@@ -27,11 +28,13 @@
 | moncaí | monkey |  |  |
 | éan | bird |  |  |
 | turtar | turtle |  |  |
+| turtair | turtles |  |  |
 | coinín | rabbit |  |  |
 | sionnach | fox | shinnock |  
 | leon | lion |  |  |
 | damhán alla | spider |  |  |
 | portán | crab |  |  ||
+| tíogar | tiger |  |  ||
 | FRUIT |  |  |  |
 | úll | apple | ool |[Sound](https://www.focloir.ie/en/dictionary/ei/apple)
 | úlla | apples | oola |
@@ -67,6 +70,9 @@
 | glasra | vegetable |  |  |
 | mhairteoil | beef |  |  |
 | milseáin | sweets |  |  |
+| milseáin | sweets |  |  |
+| brocailí | broccoli |  |  |
+| stéig | steak |  |  |
 |  |  |  |  |
 | trioblóid | trouble |  |  |
 | trioblóidí | troubles |  |  |
@@ -99,7 +105,7 @@
 | Is fearr leat stobhach | You prefer stew |  |  |
 | Is toradh é an trata | The tomato is a fruit |  |  |
 | Ní maith leat liomóid | You not like lemons |  |  |
-|  |  |  |  |
+| Is fearr liom stobhach | I prefer stew |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |

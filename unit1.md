@@ -37,6 +37,7 @@
 | nuachtán | newspaper | nu-akton |  |
 | nuachtáin | newspapers | nu-aktain? |  |
 | ceapaire | sandwich | ceapora |  |
+| ceapairí | sandwiches | ceaporee |  |
 | rís | rice |  |  |
 | bainne | milk | banya |  |
 | páiste | child |  |  |

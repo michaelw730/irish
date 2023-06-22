@@ -36,7 +36,8 @@
 | capaill | horses |  |  |
 | luch | mouse |  |  |
 | lucha | mice |  |  |
-| béir | bear |  |  |
+| béar | bear |  |  |
+| béir | bears |  |  |
 |  |  |  |  |
 | sú talún | strawberry |  |  |
 | tae | tea |  |  |
