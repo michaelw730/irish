@@ -10,13 +10,13 @@
 | uisce | water | iska |   |
 | arán | bread | araan |  |
 | mé | I | may |  |
-| tú | You | too |  |
+| tú | you | too |  |
 | í | she | e |  |
 | é | he | ay |  |
 | sé | he | shay |  |
 | é | it | ay |  |
-| muid | we |
 | siad | they | shade |  |
+| muid | we |
 | tá | is | taa |  |
 | agat | at you | awgat |  |
 | fear | man | faar |  |
@@ -33,6 +33,7 @@
 | cailín | girl | ca-leen |  |
 | cailíní | girls | ca-leení |  |
 | leabhar | book | laower |  |
+| leabhair | books |  |  |
 | nuachtán | newspaper | nu-akton |  |
 | nuachtáin | newspapers | nu-aktain? |  |
 | ceapaire | sandwich | ceapora |  |
@@ -51,10 +52,13 @@ bean - an bhean
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- |----- |
+| itheann | eat |  |  |
 | ithim | I eat |  |  |
+| itheann tú | you eat |  |  |
 | itheann sé | He eats |  |  |
 | itheann sí | She eats |  |  |
 | ithimid | We eat |  |  |
+| itheann sibh | you eat | itheann shiv |  |
 | itheann siad | They eat |  |  |
 |  |  |  |  |
 | ólann | drink |
@@ -67,8 +71,8 @@ bean - an bhean
 |  |  |  |  |
 | Táim | I am | taam |  |
 | Tá tú (singular?) | You are | ta too |  
-| Tá sibh (plural?) | You are | ta shiv |  |
 | Táimid | We are | taamid |  |
+| Tá sibh (plural?) | You are | ta shiv |  |
 |  |  |  |  |
 | Tá ... agam | I have |  |  |
 | Tá ... agat | You have |  |  |
@@ -82,7 +86,7 @@ bean - an bhean
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- |----- |
 | Taím agus tá sé | I am and he is |  |  |
-| Itheann sé úll | He eats an apple |  |  |
+| Táimid agus tá na fir | We are and the men are
 | Is cailín í | She is a girl |
 | Is cailín mé | I am a girl |
 | Is bean í | She is a woman |
@@ -91,20 +95,20 @@ bean - an bhean
 | Is buachaill é | He is a boy |
 | Is buachaill mé | I am a boy |
 | Is fear mé | I am a man |
-| Tá leabhar agus nuachtán aige | He has a book and a newspaper |
-| Tá ceapaire agam | I have a newspaper
-| Tá rís aici | She has rice
 | Ólann tú bainne | You drink milk
 | Ólaim uisce | I drink water
-| Ólaann sé uisce | He drinks water
+| Ólann sé uisce | He drinks water
 | Léimid an nuachtán  | We read the newspaper
 | Léimid an nuachtáin  | We read the newspapers
 | Léann an páista | The child reads the book
 | Léann na páistí an leabhar | The children read the book
 | Léann na fir an nuachtán | The men read the newspaper
-| Táimid agus tá na fir | We are and the men are
-| Tá uisce agat | You have water
-| Itheann an buachaill agus Pól arán | The boy and Paul eat bread
 | Ithim úll | I eat an apple
 | Itheann sí úll | She eats an apple
-| Tá buachaill aica | She has a boyfriend
+| Itheann an buachaill agus Pól arán | The boy and Paul eat bread
+| Itheann sé úll | He eats an apple |  |  |
+| Tá buachaill aici | She has a boyfriend
+| Tá uisce agat | You have water
+| Tá leabhar agus nuachtán aige | He has a book and a newspaper |
+| Tá ceapaire agam | I have a newspaper
+| Tá rís aici | She has rice
