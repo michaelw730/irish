@@ -17,20 +17,20 @@
 | capaill | horses |  |  |
 | luch | mouse |  |  |
 | lucha | mice |  |  |
-| beír | bear |  |  |
+| béir | bear |  |  |
 | eilifint | elephant |  |  |
 | eilifintí | elephants |  |  |
 | ulchabhán | owl | ulcawan? |  |
 | peata | pet | pata |  |
 | rón | seal |  |  |
-| feiliecán | butterfly |  |  |
+| féileacán | butterfly |  |  |
 | moncaí | monkey |  |  |
 | éan | bird |  |  |
 | turtar | turtle |  |  |
 | coinín | rabbit |  |  |
 | sionnach | fox | shinnock |  
 | leon | lion |  |  |
-| danhán alla | spider |  |  |
+| damhán alla | spider |  |  |
 | portán | crab |  |  ||
 | FRUIT |  |  |  |
 | úll | apple | ool |[Sound](https://www.focloir.ie/en/dictionary/ei/apple)

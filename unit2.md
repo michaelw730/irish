@@ -23,7 +23,7 @@
 | God | Dia |  |  |
 | How | Conas |  |  |
 | pláta | plate | plawta |  |
-| plátaí | platea | plawtee |  |
+| plátaí | plates | plawtee |  |
 | ANIMALS |  |  |  |
 | ainmhithe | animals | anvihe |  |
 | lacha | duck |  |  |
@@ -36,12 +36,15 @@
 | capaill | horses |  |  |
 | luch | mouse |  |  |
 | lucha | mice |  |  |
-| beír | bear |  |  |
+| béir | bear |  |  |
 |  |  |  |  |
 | sú talún | strawberry |  |  |
 | tae | tea |  |  |
 | oil | ola |  |  |
-|  |  |  |  |
+| raibh | was |  |  |
+| go | to |  |  |
+| brón | sadness |  |  |
+| cáca | cake |  |  |
 |  |  |  |  |
 |  |  |  |  |
 
@@ -60,8 +63,8 @@
 |> Dia is Muire duit! | Hello to you too |  |  |
 | Conas atá tú | How are you? |  |  |
 |> Táim go maith, go raibh maith agat | I am well, thank you |  |  |
-| Conas atá mé | How am I? |  |  |
-| Táim go maith| I am well |  |  |
+| Conas atá mé? | How am I? |  |  |
+| Táim go maith | I am well |  |  |
 | Slán | Goodbye 
 | Go raibh maith agat | Thank you |  |  |
 | Faílte | Welcome |  |  |
