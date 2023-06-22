@@ -5,6 +5,7 @@
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
 | scéal | story | shcale |  |
+| maidin | morning |  |  |
 | ar maidin | in the morning |  |  |
 | leis | with him |  |  |
 | leis an | with the |  |  |
@@ -112,3 +113,31 @@
 | Tá an cóta gorm agam | I have a blue coat
 | Tá úll dearg ar an bpláta | A red apple is on the plate
 | Is maith liom feoil dorcha | I like dark meat
+| Rithim ar maidin | I run in the morning
+| Imríonn sí leis | She runs with him
+| Bailíonn na cailíní an bia | The girl collects the food
+| Leann tú an leabhar leis | You read the book with him
+| Eistim leis an scéal | I listen to the story |??
+| Déanaim an béile | I make the meal
+| Tugann sé an bia don phortán | He gives the food to the crab
+| Tá gach rud agam | I have everything
+| Tugaim gach rud duit | I give you everything
+| Briseann mo mhadra an leabhar | My dog breaks the book
+| Feicimid a héadaí | We see her clothers
+| Táim i mo chodladh | I am sleeping
+| Deir an bhean é agus cloiseann an fear é | The woman says it and the man hears it
+| Bhur bportán agus ár bportan | Your crab and our crab
+| Do mhairteoil | Your beef
+| Ár mhairteoil | Our beef
+| M' úll | My apple
+| D' arán | Your bread
+| Ár n-úll | Our apple
+| A n-úll | Their apple
+| Do phortán (singular) | Your crab
+| Bhur phortán (plural) | Your crab
+| Tá a pasta ar an bpláta | Her pasta is on the plate
+| Scríobhaim an leabhar | I write the book
+| Éistim leis an scéal | I listen to the story
+| Insíonn siad an scéal | They tell the story
+| Úsáidim é leis an mbuachaill | I use it with the boy
+| Tá tú i do chodlach | You are sleeping

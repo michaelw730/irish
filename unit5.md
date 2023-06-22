@@ -84,8 +84,9 @@
 | Is linne é | It is ours |  |  |???
 | Is linne é | He is ours |  |  |???
 | Is linne na buacahillí | The boys are ours |  |  |
-| Is liomse é | It is mine |  |  |
+| Is liomsa é | It is mine |  |  |
 | Is leatsa í | She is yours |  |  |
+| Is liomsa an mhairteoil | The beef is mine |  |  |
 | Is linne an bia | The food is ours |  |  |
 | A húll agus a úll | Her apple and his apple |  |  |
 | Mo mhairteoil agus a húll | My beef and her apple |  |  |
