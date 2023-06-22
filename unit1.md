@@ -39,7 +39,7 @@
 | ceapaire | sandwich | ceapora |  |
 | rís | rice |  |  |
 | bainne | milk | banya |  |
-| páista | child |  |  |
+| páiste | child |  |  |
 | páistí | children |  |  |
 |  |  |  |  |
 
@@ -63,11 +63,12 @@ bean - an bhean
 |  |  |  |  |
 | ólann | drink |
 | ólaim | I drink | olam
+| ólaimid | we drink | olamid
 | ólann sibh | You drink | olann shiv
 |  |  |  |  |
-| leann | read |  |  |
-| leím | I read |  |  |
-| leímid | We read |  |  |
+| léann | read |  |  |
+| léim | I read |  |  |
+| léimid | We read |  |  |
 |  |  |  |  |
 | Táim | I am | taam |  |
 | Tá tú (singular?) | You are | ta too |  
@@ -112,3 +113,5 @@ bean - an bhean
 | Tá leabhar agus nuachtán aige | He has a book and a newspaper |
 | Tá ceapaire agam | I have a newspaper
 | Tá rís aici | She has rice
+| Tá páistí agam | I have children
+|alt> Tá clann agam | I have children
