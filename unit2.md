@@ -4,26 +4,22 @@
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
+| FOOD
 | caife | coffee | cafa |  |
 | sicín | chicken |  |  |
 | good | maith/mhaith |  |  |
 | caís | cheese | cosh |  |
 | pasta | pasta |  |  |
-| toradh | fruit | towrah? |  |
-| oráiste | orange | orawshta? |  |
 | sú | juice | su |  |
 | sú oráiste | orange juice | su orawshta? |  |
 | seacláid | chocolate |  |  |
-| Béarla | English |  |  |
-| ní | not |  |  |
-| le | with |  |  |
-| romhat | in front of you/before you | rowit |  |
-| do | your |  |  |
-| duit | to you |  |  |
-| God | Dia |  |  |
-| How | Conas |  |  |
-| pláta | plate | plawta |  |
-| plátaí | plates | plawtee |  |
+| tae | tea |  |  |
+| oil | ola |  |  |
+| FRUIT
+| toradh | fruit | towrah? |  |
+| oráiste | orange | orawshta? |  |
+| sú talún | strawberry |  |  |
+| cáca | cake |  |  |
 | ANIMALS |  |  |  |
 | ainmhithe | animals | anvihe |  |
 | lacha | duck |  |  |
@@ -38,14 +34,21 @@
 | lucha | mice |  |  |
 | béar | bear |  |  |
 | béir | bears |  |  |
-|  |  |  |  |
-| sú talún | strawberry |  |  |
-| tae | tea |  |  |
-| oil | ola |  |  |
+| OTHER
+| Béarla | English |  |  |
+| ní | not |  |  |
+| le | with |  |  |
+| romhat | in front of you/before you | rowit |  |
+| do | your |  |  |
+| duit | to you |  |  |
+| God | Dia |  |  |
+| How | Conas |  |  |
+| pláta | plate | plawta |  |
+| plátaí | plates | plawtee |  |
 | raibh | was |  |  |
 | go | to |  |  |
 | brón | sadness |  |  |
-| cáca | cake |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 

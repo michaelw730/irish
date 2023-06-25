@@ -6,9 +6,14 @@
 | ------| ------- | -------- | ----- |
 | FRUIT |  |  |  |
 | úll | apple | ool |[Sound](https://www.focloir.ie/en/dictionary/ei/apple)
-|  |  |  |  |
+| FOOD |  |  |  |
 | uisce | water | iska |   |
 | arán | bread | araan |  |
+| ceapaire | sandwich | ceapora |  |
+| ceapairí | sandwiches | ceaporee |  |
+| rís | rice |  |  |
+| bainne | milk | banya |  |
+| PERSONAL
 | mé | I | may |  |
 | tú | you | too |  |
 | í | she | e |  |
@@ -19,6 +24,7 @@
 | muid | we |
 | tá | is | taa |  |
 | agat | at you | awgat |  |
+| PEOPLE
 | fear | man | faar |  |
 | fir | men |  |  |
 | buachaill | boy | byucall |  |
@@ -26,22 +32,22 @@
 | bean | woman | ban |  |
 |> an bhean | the woman | ban |  | | Feminine noun needs lenited
 | mná | women | mnaw? |  |
-| and | agus |  |  |
-| is | is | iss |  |
-| biachlár | menu | beachlor |  |
-| an biachlár | menu | an beachlor |  |
 | cailín | girl | ca-leen |  |
 | cailíní | girls | ca-leení |  |
+| the girls | na cailiní |  |  |
+| páiste | child |  |  |
+| páistí | children |  |  |
+| ITEMS
+| biachlár | menu | beachlor |  |
+| an biachlár | the menu | an beachlor |  |
 | leabhar | book | laower |  |
 | leabhair | books |  |  |
 | nuachtán | newspaper | nu-akton |  |
 | nuachtáin | newspapers | nu-aktain? |  |
-| ceapaire | sandwich | ceapora |  |
-| ceapairí | sandwiches | ceaporee |  |
-| rís | rice |  |  |
-| bainne | milk | banya |  |
-| páiste | child |  |  |
-| páistí | children |  |  |
+| OTHER
+| and | agus |  |  |
+| is | is | iss |  |
+
 |  |  |  |  |
 
 ## Grammar

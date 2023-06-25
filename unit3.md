@@ -73,12 +73,9 @@
 | milseáin | sweets |  |  |
 | brocailí | broccoli |  |  |
 | stéig | steak |  |  |
-|  |  |  |  |
+| OTHER |  |  |  |
 | trioblóid | trouble |  |  |
 | trioblóidí | troubles |  |  |
-| leabhair | books |  |  |
-| nuactaín | newspapers |  |  |
-| the girls | na cailiní |  |  |
 |  |  |  |  |
 |  |  |  |  |
 
