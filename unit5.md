@@ -11,7 +11,7 @@
 | seaicéad | jacket |  |  |
 | chulaith | suit |  |  |
 | éadaí | clothes |  |  |
-| héadaí | clothes |  |  |???
+|leniate?> héadaí | clothes |  |  |
 | pitseámaí | pyjamas |  |  |
 | léine | shirt | layna |  |
 | léinte | shirts | laynta |  |
@@ -19,7 +19,7 @@
 | hata | hat |  |  |
 | hataí | hats |  |  |
 | bríste | pair of trousers |  |  |
-| brístI | pair of trousers |  |  |
+| brístí | pair of trousers |  |  |
 | geansaí | sweater |  |  |
 |  |  |  |  |
 | raibh | was |  |  |
