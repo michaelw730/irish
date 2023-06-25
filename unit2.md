@@ -15,6 +15,7 @@
 | seacláid | chocolate |  |  |
 | tae | tea |  |  |
 | oil | ola |  |  |
+| bágún | bacon | baygun
 | FRUIT
 | toradh | fruit | towrah? |  |
 | oráiste | orange | orawshta? |  |

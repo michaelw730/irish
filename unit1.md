@@ -28,6 +28,7 @@
 | fear | man | faar |  |
 | fir | men |  |  |
 | buachaill | boy | byucall |  |
+|leniate?> mbuachaill | boy | myucall |  |
 | buachaillí | boys | byucally |  |
 | bean | woman | ban |  |
 |> an bhean | the woman | ban |  | | Feminine noun needs lenited

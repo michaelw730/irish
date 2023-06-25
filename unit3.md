@@ -33,8 +33,10 @@
 | sionnach | fox | shinnock |  
 | leon | lion |  |  |
 | damhán alla | spider |  |  |
-| portán | crab |  |  ||
+| portán | crab | porthaan |  ||
+|leniated?> bportán | crab | borthaan |  ||
 | tíogar | tiger |  |  ||
+| fia | deer | | |
 | FRUIT |  |  |  |
 | úll | apple | ool |[Sound](https://www.focloir.ie/en/dictionary/ei/apple)
 | úlla | apples | oola |
@@ -44,7 +46,9 @@
 | trata | tomato |  |  |
 | liomóid | lemon |  |  |
 | sú talún | strawberry |  |  |
-| peitseog | peach |  |  |
+| péitseog | peach |  |  |
+| péitseoga | peach |  |  |
+|leniated?> phéitseoga | peach |  |  |
 |  |  |  |  |
 | FOOD |  |  |  |
 | bia | food |  |  |
@@ -68,14 +72,16 @@
 | fion | wine |  |  |
 | muiceoil | pork |  |  |
 | glasra | vegetable |  |  |
-| mhairteoil | beef |  |  |
-| milseáin | sweets |  |  |
+| mairteoil | beef |  |  |
+| leniated?> mhairteoil | beef |  |  |
+| milseán | sweet |  |  |
 | milseáin | sweets |  |  |
 | brocailí | broccoli |  |  |
 | stéig | steak |  |  |
 | OTHER |  |  |  |
 | trioblóid | trouble |  |  |
 | trioblóidí | troubles |  |  |
+| i dtrioblóid | in trouble |  |  |
 |  |  |  |  |
 |  |  |  |  |
 
@@ -103,6 +109,8 @@
 | Is toradh é an trata | The tomato is a fruit |  |  |
 | Ní maith leat liomóid | You not like lemons |  |  |
 | Is fearr liom stobhach | I prefer stew |  |  |
+| Táim i dtrioblóid | I am in trouble |  |  |
+| Tá siad i dtrioblóid | They are in trouble |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
