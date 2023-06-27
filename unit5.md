@@ -48,10 +48,11 @@
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- |----- |
 | Caitheann | wears |  |  |
+| Caithim | I wear |  |  |
 | Caitheann tú | You wear |  |  |
 | Caitheann sé | He wears |  |  |
 | Caitheann sí | She wears |  |  |
-|  |  |  |  |
+| Caithimid | We wear |  |  |
 |  |  |  |  |
 |  |  |  |  |
 
