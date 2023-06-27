@@ -24,12 +24,12 @@
 |  |  |  |  |
 | raibh | was |  |  |
 |  |  |  |  |
+| mo phortán | my crab  |  |  |
 | A úll | his apple |  |  |
 | A húll | her apple |  |  |
-| A n-úll | their apple |  |  |
+| Ár bportán | Our crab |  |  |
 | Bhur n-úll | your apple |  |  |
-| mo phortán | my crab  |  |  |
-| Ar bportán | Our crab |  |  |
+| A n-úll | their apple |  |  |
 | Do bportán (singular)| Your crab |  |  |
 | Bhur bportán (plural) | Your crab | vur |  |
 | A mairteoil | Their beef |  |  |
@@ -48,9 +48,9 @@
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- |----- |
 | Caitheann | wears |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Caitheann tú | You wear |  |  |
+| Caitheann sé | He wears |  |  |
+| Caitheann sí | She wears |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
