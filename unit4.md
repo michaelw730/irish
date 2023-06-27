@@ -28,6 +28,6 @@
 | Tá sú ag an bportán | The crab has juice  |  |  |
 | Ithim roimh an bportán | I eat before the crab |  |  |
 | Tá madraí aige | He has dogs |  |  |
-| Is ainmbhí é an madra | The dog is an animal |  |  |
+| Is ainmhí é an madra | The dog is an animal |  |  |
 | Tá uisce ar an damhán alla | There is water on the spider |  |  |
 | Den mhairteoil | Of the beef |  |  |
