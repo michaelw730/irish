@@ -6,6 +6,7 @@
 | ------| ------- | -------- | ----- |
 | CLOTHES |  |  |  |
 | gúna | dress | goona |  |
+| gúnaí | dresses | gooni |  |
 | bróga | shoes |  |  |
 | sciorta | skirt |  |  |
 | seaicéad | jacket |  |  |

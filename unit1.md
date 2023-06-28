@@ -26,6 +26,7 @@
 | agat | at you | awgat |  |
 | PEOPLE
 | fear | man | faar |  |
+|leniate? fhear | man | aar |  |???
 | fir | men |  |  |
 | buachaill | boy | byucall |  |
 |leniate?> mbuachaill | boy | myucall |  |

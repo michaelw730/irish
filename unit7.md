@@ -81,7 +81,6 @@
 | Cá bhfuil mo bhróga? | Where are my shoes? | Caw will moh vroga |  |
 | An lacha é?  Ní hea | Is it a duck?  It is not |  |  |
 | Téimid ar maidin | We go in the morning |  |  |
-| Freagraím an bhea | I answer the woman |  |  |
-| Freagraíonn sé | He answers|  |  |
+
 |  |  |  |  |
 |  |  |  |  |
