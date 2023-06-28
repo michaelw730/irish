@@ -4,7 +4,8 @@
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-| chuisneoir | fridge |  |  |
+| cuisneoir | fridge |  |  |
+|leniated> chuisneoir | fridge |  |  | *end of sentence???
 | sa | in the |  |  |
 | ar | on |  |  |
 | ag an | has a |  |  |

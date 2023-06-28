@@ -48,7 +48,7 @@
 | sú talún | strawberry |  |  |
 | péitseog | peach |  |  |
 | péitseoga | peach |  |  |
-|leniated?> phéitseoga | peach |  |  |
+|leniated?> phéitseoga | peach | faytshoga |  |
 |  |  |  |  |
 | FOOD |  |  |  |
 | bia | food |  |  |

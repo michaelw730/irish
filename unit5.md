@@ -24,23 +24,32 @@
 |  |  |  |  |
 | raibh | was |  |  |
 |  |  |  |  |
+| POSSESSIVE |  |  |  |
+| mo | my   |  |  |
+| Do (singular)| Your  |  |  |
+| A | apple |  |  |
+| A | her |  |  |
+| Ár | Our  |  |  |
+| Bhur (plural) | Your  | vur |  |
+| A  | their  |  |  |
+|  |  |  |  |
+| m' | my |  |  |
+| d' | your |  |  |
+|  |  |  |  |
 | mo phortán | my crab  |  |  |
+| Do bportán (singular)| Your crab |  |  |
 | A úll | his apple |  |  |
 | A húll | her apple |  |  |
 | Ár bportán | Our crab |  |  |
 | Bhur n-úll | your apple |  |  |
-| A n-úll | their apple |  |  |
-| Do bportán (singular)| Your crab |  |  |
 | Bhur bportán (plural) | Your crab | vur |  |
+| A n-úll | their apple |  |  |
 | A mairteoil | Their beef |  |  |
 |  |  |  |  |
 | áta | is |  |  |
-| d' | your |  |  |
-| m' | my |  |  |
-| linne | with us |  |  |
-| liomse | is mine |  |  |???
-| liomse | with me |  |  |???
-| leatsa | is yours |  |  |
+| is liomse | is mine/with me |  |  |???
+| is leatsa | is yours |  |  |
+| is linne | is ours/with us |  |  |???
 |  |  |  |  |
 
 ## Verbs
@@ -62,33 +71,35 @@
 | CLOTHING
 | Caitheann an cailín gúna | The girl wears a dress |  |  |
 | Caitheann tú bróga | You wear shoes |  |  |
-| Tá sciorta agam | I have a skirt |  |  |
-| Tá seaicéad orm | I have a jacket on |  |  |
 | Caitheann sí an chulaith | She wears the suit |  |  |
 | Caitheann sí brístí | She wears pairs of trousers |  |  |
 | POSSESSIVE
+| Tá sciorta agam | I have a skirt |  |  |
+| Tá seaicéad orm | I have a jacket on |  |  |
 | Tá mo bhróg ag an madra | The dog has my shoe |  |  |
 | Tá ár gcótaí ag an bhfear | The man has our coats |  |  |
 | Tá a gúna aici | She has her dress |  |  |
-| Is linne an bia | The food is ours |  |  |
-| Is liomsa an leabhar | The book is mine |  |  |
 | Tá liomóid ag an mbean | The woman has a lemon |  |  |
 |  |  |  |  |
 | Tá an bhean mhaith sa nuachtán | The good woman is in the newspaper |  |  |
 | Tá an phéitseog agus na milseáin sa chuisneoir | The peaches and the sweets are in the fridge |  |  |
+| Tá glasraí ag an gcapall | The horse has a vegetable |  |  |
 |  |  |  |  |
 | Tá brón ar an gcailín | The girl is sad |  |  |
 | Ólann sí bainne riomh an mbean | She drinks milk before the woman |  |  |
 |  |  |  |  |
-| Mo mhairteoil agus a húll | My beef and her apple |  |  |
-| Tá glasraí ag an gcapall | The horse has a vegetable |  |  |
+|  |  |  |  |
+| Is liomsa é | It is mine |  |  |
+| Is liomsa an mhairteoil | The beef is mine |  |  |
+| Is liomsa an leabhar | The book is mine |  |  |
+| Is leatsa í | She is yours |  |  |
 | Is linne é | It is ours |  |  |???
 | Is linne é | He is ours |  |  |???
-| Is linne na buacahillí | The boys are ours |  |  |
-| Is liomsa é | It is mine |  |  |
-| Is leatsa í | She is yours |  |  |
-| Is liomsa an mhairteoil | The beef is mine |  |  |
 | Is linne an bia | The food is ours |  |  |
-| A húll agus a úll | Her apple and his apple |  |  |
+| Is linne na buacahillí | The boys are ours |  |  |
+| Is linne an bia | The food is ours |  |  |
+|  |  |  |  |
 | Mo mhairteoil agus a húll | My beef and her apple |  |  |
+| Mo mhairteoil agus a húll | My beef and her apple |  |  |
+| A húll agus a úll | Her apple and his apple |  |  |
 |  |  |  |  |
