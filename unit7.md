@@ -96,7 +96,7 @@
 | Cad atá ag ár bpáiste? | What does our child have? |  |  |
 | Céard atá ag ar bhfear? | What does the man have? |  |  |
 |  |  |  |  |
-| Tá sí ag féachaint ar an mbuachaill | She is looking at the bo |  |  |
+| Tá sí ag féachaint ar an mbuachaill | She is looking at the boy |  |  |
 | Ní maith liom é sin | I do not like that |  |  |
 |  |  |  |  |
 |  |  |  |  |
