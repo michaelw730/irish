@@ -45,8 +45,9 @@
 | Ritheann sí | she runs |  |  |
 | Ritheann siad | she runs |  |  |
 |  |  |  |  |
-| Imríonn sí | She plays [a game]|  |  |???
+| Imríonn sí | She plays [a game]|  |  |
 |
+| Bailím | I collect |  |  |
 | Bailíonn sí | She collects |  |  |
 |  |  |  |  |
 | Déanaim | I make |  |  |
@@ -54,6 +55,8 @@
 | Déanann siad | They make |  |  |
 |  |  |  |  |
 | Éistim | I listen |  |  |
+| Éisteann tú | You listen |  |  |
+| Éistimid | We listen |  |  |
 | Éisteann siad | They listen |  |  |
 |  |  |  |  |
 | Oibrím | I work |  |  |
@@ -134,7 +137,7 @@
 | Is maith liom feoil dorcha | I like dark meat
 |  |  |  |  |
 | Rithim ar maidin | I run in the morning
-| Imríonn sí leis | She runs with him ???
+| Imríonn sí leis | She plays with him
 | Bailíonn na cailíní an bia | The girl collects the food
 | Leann tú an leabhar leis | You read the book with him
 | Éistim leis an scéal | I listen to the story
