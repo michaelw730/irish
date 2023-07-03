@@ -19,10 +19,12 @@
 |  |  |  |  |
 | COLOURS |  |  |  |
 | dath | colour |  |  |
+| dathanna | colours |  |  |
 | geal | bright |  |  |
 | dorcha | dark | durcha |  |
 | bán | white | bawn |  |
-| bhándearg | pink | van dearg |  |
+| bándearg | pink | ban dearg |  |
+|leniated> bhándearg | pink | van dearg |  |
 | glas | green |  |  |
 | corca | purple |  |  |
 | donn | brown |  |  |
@@ -92,16 +94,19 @@
 |  |  |  |  |
 | Feicim | I see  |  |  |
 | Feicimid | We see  |  |  |
-| Feicann sibh | You see  |  |  |
+| Feiceann sibh | You see  |  |  |
 |  |  |  |  |
 | úsáideann | use |  |  |
 | Úsáidim | I use |  |  |
+| úsáideann sé | He uses |  |  |
 |  |  |  |  |
 | Snámhann sé | He swims |  |  |
 | Snámhann sí| She swims |  |  |
 | Snámhann | We swim |  |  |?? Different way?
+| Snámhaimid | We swim |  |  |
 | Snámhann siad| They swim |  |  |
 |  |  |  |  |
+| Siúlann sé | He walks |  |  |
 | Siúlann siad | They walk |  |  |
 |  |  |  |  |
 | Cloisim | I hear |  |  |
