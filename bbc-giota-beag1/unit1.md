@@ -50,10 +50,10 @@
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-|ar mhaith leat...?||Would you like...?
+|ar mhaith leat...?||Would you like...?| air why lat?
 |Ba mhaith / níor mhaith|Yes / No
 |ba mhaith liom|I would like
 |níor mhaith liom|I wouldn't like
 |siúcra|sugar
 |bainne|milk
-|briosca|a biscuit
+|briosca|a biscuit|briska
