@@ -143,3 +143,124 @@
 |rua|red haired
 |fionn|fair haired
 |sláinte!|cheers!
+
+# Lesson 9 - Today, tomorrow yesterday
+
+| Irish | English | Phonetic | Sound |
+| ------| ------- | -------- | ----- |
+|Tá Blas ann|Blas is on (at this minute)
+|bhí Blas ann|Blas was on
+|beidh Blas ann|Blas will be on
+|amárach|tomorrow
+|inniu|today
+|inné|yesterday
+|anocht|tonight
+|aréir|last night
+|maith go leor|alright/okay
+
+# Lesson 10 - Phone calls
+
+| Irish | English | Phonetic | Sound |
+| ------| ------- | -------- | ----- |
+|guthán|phone
+|uimhir ghutháinphone number
+|Cad é an uimhir ghutháin atá agat?|what's your phone number?
+|scairt ghutháin|phone call
+|cuir scairt ghutháin orm|phone me
+|ba mhaith liom labhairt le ...|I'd like to speak to ...
+|Cé atá ag caint?|who's speaking?
+|bodhrán|bodhran
+|píb uillinn|uillean pipes
+|bosca ceoil|squeeze box
+|feadóg|whistle
+|feadóg mhór|flute
+|maith thú|good on you/well done
+
+# Lesson 11 - Orders
+
+| Irish | English | Phonetic | Sound |
+| ------| ------- | -------- | ----- |
+|Tar isteach|come in
+|Druid an doras|close the door
+|Suígh síos|sit down
+|Oscail an doras|open the door
+|Druid an fhuinneog|close the window
+|Oscail an fhuinneog|open the window
+|Bí maith|be good
+|Bí ciúin|be quiet
+|Bí cúramach|be careful
+|Ná tar isteach|don't come in
+|Ná druid an doras|don't close the door
+|Ná habair sin|don't say that
+
+# Lesson 12 - Shopping
+
+| Irish | English | Phonetic | Sound |
+| ------| ------- | -------- | ----- |
+|ionta bainne|a pint of milk
+|Builín aráin|a loaf of bread
+|Stampa|a stamp
+|Punt|a pound
+|Fiche pingin|twenty pence
+|Caoga pingin|fifty pence
+|Seo duit|here you are
+|Cad é a ba mhaith leat?|What would you like?
+|Cá mhéad atá ar sin?|How much is that?
+|Ní thuigim|I don't understand
+
+# Lesson 13 - Going places
+
+| Irish | English | Phonetic | Sound |
+| ------| ------- | -------- | ----- |
+|Cá bhfuil tú ag dul?|Where are you going?
+|Tá mé ag dul go dtí ...|I'm going to ...
+|an siopa|the shop
+|an banc|the bank
+|Tá mé ag dul go dtí an siopa/an banc|I'm going to the shop/ the bank
+|an cluiche peile|the football match
+|an leabharlann|the library
+|an linn snámha|the swimming pool
+|Tuigim|I do understand
+|An dtuigeann tú?|Do you understand?
+|Le Bríd|with Bríd
+
+# Lesson 14 - In the pub
+
+| Irish | English | Phonetic | Sound |
+| ------| ------- | -------- | ----- |
+|Tá tú ag dul ...|You are going ...
+|Tá sé/sí ag dul ...|He/she is going ...
+|Tá muid/sibh/siad ...|We/you plural/they are ...
+|an teach tabhairne|The pub
+|cad é ba mhaith leat le hól?|What would you like to drink?
+|pionta|a pint
+|gloine|a glass
+|glione fíona/gloine uisce|a glass of wine/ a glass of water
+|fosta|also, as well
+|Lá Fhéile Bríde|St. Brigid's Day
+|Lúnasa|August
+|Samhain|November
+|Go ndéana a mhaith duit|you're welcome (may it do you good)
+
+# Lesson 15 - The pub
+
+| Irish | English | Phonetic | Sound |
+| ------| ------- | -------- | ----- |
+|Is mise ...|I am ....
+|Cad é mar atá tú?|How are you?
+|Tá mé go maith, go raibh maith agat|I'm fine, thank you.
+|Is maith liom ...|I like ...
+|Ar mhaith leat cupán caife?|Would you like a cup of coffee?
+|Gabh mo leithscéal|Excuse me
+|Cén t-am é?|What time is it?
+|Déan deifir|Hurry up
+|Cé mhéid atá ar sin?|How much is that?
+|Is maith sin|That's great
+|Oíche mhaith|Good night
+|ádh mór|good luck
+|Fan bomaite|Wait a minute
+|Tóg go bog é|Take it easy
+|Sláinte|cheers
+|Maith go leor|Alright
+
+ 
