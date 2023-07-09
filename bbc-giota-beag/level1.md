@@ -114,6 +114,7 @@
 |leath i ndiaidh a haon|half past one| la i nyay
 |Dean deifir. Tá muid mall|Hurry up. We're late| Jan jeffer
 |Cén t-am é?|What time is it?
+|Cén t-am?|What time?
 |ban|white|buan
 |buí|yellow| bwee
 |glas|green
@@ -129,13 +130,13 @@
 |ar a seacht a chlog|at 7 o'clock
 |ar ceathrú go dtí a (seacht)|at a quarter to (seven)
 |ar leath I ndiaidh|at half past
-|Dé Luain|Monday
-|Dé Máirt|Tuesday
-|Dé Céadaoin|Wednesday
-|Déardaoin|Thursday
-|Dé hAoine|Friday
-|Dé Sathairn|Saturday
-|Dé Domhnaigh|Sunday
+|Dé Luain|Monday| je luan
+|Dé Máirt|Tuesday | je march
+|Dé Céadaoin|Wednesday| je ceadine
+|Déardaoin|Thursday|jeardine
+|Dé hAoine|Friday| je heanya 
+|Dé Sathairn|Saturday|je sahern
+|Dé Domhnaigh|Sunday|je doughny
 |beidh ceilí ann|there will be a ceili
 |beidh diosco ann Dé Máirt|there will be a disco on Tuesday
 |beidh Blas ann|Blas will be on
@@ -149,31 +150,34 @@
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
 |Tá Blas ann|Blas is on (at this minute)
-|bhí Blas ann|Blas was on
-|beidh Blas ann|Blas will be on
-|amárach|tomorrow
-|inniu|today
-|inné|yesterday
+|bhí Blas ann|Blas was on|vee Blas on
+|beidh Blas ann|Blas will be on|bay Blas on
+|amárach|tomorrow|amwarach
+|inniu|today|in-u
+|inné|yesterday|in-ay
 |anocht|tonight
 |aréir|last night
-|maith go leor|alright/okay
+|maith go leor|alright/okay|my go lyor
 
 # Lesson 10 - Phone calls
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-|guthán|phone
-|uimhir ghutháinphone number
+|guthán|phone|guhan
+|uimhir ghutháin|phone number|ever goohan??
 |Cad é an uimhir ghutháin atá agat?|what's your phone number?
 |scairt ghutháin|phone call
-|cuir scairt ghutháin orm|phone me
+|cuir scairt ghutháin orm|phone me|koor scart..
 |ba mhaith liom labhairt le ...|I'd like to speak to ...
 |Cé atá ag caint?|who's speaking?
-|bodhrán|bodhran
-|píb uillinn|uillean pipes
-|bosca ceoil|squeeze box
-|feadóg|whistle
-|feadóg mhór|flute
+|
+|MUSICAL INSTRUMENTS
+|bodhrán|bodhran|boaran
+|píb uillinn|uillean pipes|peeb illan
+|bosca ceoil|squeeze box|boxa ceoil
+|feadóg|whistle|faadag
+|feadóg mhór|flute|faadag wore (big whistle)
+|
 |maith thú|good on you/well done
 
 # Lesson 11 - Orders
@@ -182,9 +186,9 @@
 | ------| ------- | -------- | ----- |
 |Tar isteach|come in
 |Druid an doras|close the door
-|Suígh síos|sit down
+|Suígh síos|sit down|see shees
 |Oscail an doras|open the door
-|Druid an fhuinneog|close the window
+|Druid an fhuinneog|close the window|inyug??
 |Oscail an fhuinneog|open the window
 |Bí maith|be good
 |Bí ciúin|be quiet
@@ -197,13 +201,14 @@
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-|ionta bainne|a pint of milk
-|Builín aráin|a loaf of bread
+|ionta bainne|a pint of milk|punta/pinta? bawnya
+|Builín aráin|a loaf of bread|boolyeen aran
 |Stampa|a stamp
 |Punt|a pound
-|Fiche pingin|twenty pence
-|Caoga pingin|fifty pence
-|Seo duit|here you are
+|pingin|pence
+|Fiche pingin|twenty pence|ping
+|Caoga pingin|fifty pence|ping
+|Seo duit|here you are|shaw ditch
 |Cad é a ba mhaith leat?|What would you like?
 |Cá mhéad atá ar sin?|How much is that?
 |Ní thuigim|I don't understand
@@ -214,12 +219,12 @@
 | ------| ------- | -------- | ----- |
 |Cá bhfuil tú ag dul?|Where are you going?
 |Tá mé ag dul go dtí ...|I'm going to ...
+|Tá mé ag dul go dtí an siopa/an banc|I'm going to the shop/ the bank
 |an siopa|the shop
 |an banc|the bank
-|Tá mé ag dul go dtí an siopa/an banc|I'm going to the shop/ the bank
-|an cluiche peile|the football match
 |an leabharlann|the library
 |an linn snámha|the swimming pool
+|an cluiche peile|the football match
 |Tuigim|I do understand
 |An dtuigeann tú?|Do you understand?
 |Le Bríd|with Bríd
