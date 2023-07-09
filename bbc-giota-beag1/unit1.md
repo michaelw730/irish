@@ -79,7 +79,7 @@
 |tá sé sa chuisneouir| it is on the table
 |An bhfuil sé sa chuisneoir?| Is it on the table?
 
-# Lesson 6 - Take it easy
+# Lesson 6 - Take it easy!
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
@@ -99,6 +99,47 @@
 |clár|programme||
 |seomra|room||
 |cá bhfuil seomra a hocht?|where is room eight?||
-|tóg go bog é!|take it easy||
+|tóg go bog é!|take it easy|toag go boag ay|
 |tá sé fuar|It is cold
 |An bhfuil sé fuar|Is it cold?
+
+
+# Lesson 7 - Take it easy!
+
+| Irish | English | Phonetic | Sound |
+| ------| ------- | -------- | ----- |
+|a haon a chlog|one o' clock
+|tá sé a haon a chlog|it's one o' clock
+|ceathrú i ndiaidh a haon|a quarter past one| ceahroo i nyay
+|leath i ndiaidh a haon|half past one| la i nyay
+|Dean deifir. Tá muid mall|Hurry up. We're late| Jan jeffer
+|Cén t-am é?|What time is it?
+|ban|white|buan
+|buí|yellow| bwee
+|glas|green
+|gorm|blue|gorim??
+|dubh|black|dove
+
+# Lesson 8 - Days of the week
+
+| Irish | English | Phonetic | Sound |
+| ------| ------- | -------- | ----- |
+|ceathrú go dtí|a quarter to
+|tá sé ceathrú go dtí|it's a quarter to
+|ar a seacht a chlog|at 7 o'clock
+|ar ceathrú go dtí a (seacht)|at a quarter to (seven)
+|ar leath I ndiaidh|at half past
+|Dé Luain|Monday
+|Dé Máirt|Tuesday
+|Dé Céadaoin|Wednesday
+|Déardaoin|Thursday
+|Dé hAoine|Friday
+|Dé Sathairn|Saturday
+|Dé Domhnaigh|Sunday
+|beidh ceilí ann|there will be a ceili
+|beidh diosco ann Dé Máirt|there will be a disco on Tuesday
+|beidh Blas ann|Blas will be on
+|ar leath i ndiaidh a seacht|at half past seven
+|rua|red haired
+|fionn|fair haired
+|sláinte!|cheers!
