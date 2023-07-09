@@ -423,68 +423,68 @@ Seanfhocal Chlár 6:
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-Cad é mar a d’éirigh leat? - How did you get on?
-Bain sult as an lá. - Enjoy the day.
-Éirigh ar a seacht a chlog. - Get up at 7 o’clock.
-Ith banana agus úll. - Eat a banana and an apple.
-Ól deoch uisce. - Drink a glass of water.
-Siúil go dtí an siopa. - Walk to the shop.
-Ceannaigh an nuachtán. - Buy the paper.
-Suigh síos. - Sit down.
-Léigh an nuachtán. - Read the paper.
-Amharc ar an teilifís. - Watch the TV.
-Éist le Giota Níos Mó. - Listen to Giota Níos Mó.
-
-Bain sult as an lá. - Enjoy the day.
-Bainim sult as an lá. - I enjoy the day.
-
-Éirigh ar a seacht a chlog. - Get up at 7 o’clock.
-Éirím ar a seacht a chlog. - I get up at 7 o’clock.
-
-Ith banana agus ull. - Eat a banana and an apple
-Ithim banana agus úll gach lá. - I eat a banana and an apple every day.
-
-Ól gloine uisce. - Drink a glass of water.
-Ólaim gloine uisce gach lá. - I drink a glass of water every day.
-
-Siúil go dtí an siopa. - Walk to the shop
-Siúlaim go dtí an siopa - I walk to the shop
-
-Ceannaigh an nuachtán - Buy the newspaper.
-Ceannaím an nuachtán - I buy the newspaper.
-
-Suigh síos. - Sit down.
-Suím síos. - I sit down.
-
-Léigh an nuachtán - Read the newspaper.
-Léim an nuachtán - I read the newspaper.
-
-Amharc ar an teilifís. - Watch the television.
-Amharcaim ar an teilifís. - I watch the television.
-
-Éist le Giota Níos Mó. - Listen to Giota Níos Mó.
-Éistim le Giota Níos Mó gach lá. - I listen to Giota Níos Mó every day.
-
-Seanfhocal Chlár 9:
-
-Bíonn blas ar an bheagán. - A little bit of food is very tasty.
-
-Ba mhaith liom meachán a chailleadh. - I would like to lose weight.
-
-bus eile - another bus
-an bus eile - the other bus
-briosca eile - another biscuit
-an briosca eile - the other biscuit
-ceann eile - another one
-an ceann eile - the other one
-an chéad cheann eile - the next one
-an bus eile - the other bus
-an chéad bhus eile - the next bus
-an clár eile - the other programme
-clár eile - another programme
-an chéad chlár eile - the next programme
-an chéad uair eile - the next time
-an chéad rud eile - the next thing
+|Cad é mar a d’éirigh leat? - How did you get on?
+|Bain sult as an lá. - Enjoy the day.
+|Éirigh ar a seacht a chlog. - Get up at 7 o’clock.
+|Ith banana agus úll. - Eat a banana and an apple.
+|Ól deoch uisce. - Drink a glass of water.
+|Siúil go dtí an siopa. - Walk to the shop.
+|Ceannaigh an nuachtán. - Buy the paper.
+|Suigh síos. - Sit down.
+|Léigh an nuachtán. - Read the paper.
+|Amharc ar an teilifís. - Watch the TV.
+|Éist le Giota Níos Mó. - Listen to Giota Níos Mó.
+|
+|Bain sult as an lá. - Enjoy the day.
+|Bainim sult as an lá. - I enjoy the day.
+|
+|Éirigh ar a seacht a chlog. - Get up at 7 o’clock.
+|Éirím ar a seacht a chlog. - I get up at 7 o’clock.
+|
+|Ith banana agus ull. - Eat a banana and an apple
+|Ithim banana agus úll gach lá. - I eat a banana and an apple every day.
+|
+|Ól gloine uisce. - Drink a glass of water.
+|Ólaim gloine uisce gach lá. - I drink a glass of water every day.
+|
+|Siúil go dtí an siopa. - Walk to the shop
+|Siúlaim go dtí an siopa - I walk to the shop
+|
+|Ceannaigh an nuachtán - Buy the newspaper.
+|Ceannaím an nuachtán - I buy the newspaper.
+|
+|Suigh síos. - Sit down.
+|Suím síos. - I sit down.
+|
+|Léigh an nuachtán - Read the newspaper.
+|Léim an nuachtán - I read the newspaper.
+|
+|Amharc ar an teilifís. - Watch the television.
+|Amharcaim ar an teilifís. - I watch the television.
+|
+|Éist le Giota Níos Mó. - Listen to Giota Níos Mó.
+|Éistim le Giota Níos Mó gach lá. - I listen to Giota Níos Mó every day.
+|
+|Seanfhocal Chlár 9:
+|
+|Bíonn blas ar an bheagán. - A little bit of food is very tasty.
+|
+|Ba mhaith liom meachán a chailleadh. - I would like to lose weight.
+|
+|bus eile - another bus
+|an bus eile - the other bus
+|briosca eile - another biscuit
+|an briosca eile - the other biscuit
+|ceann eile - another one
+|an ceann eile - the other one
+|an chéad cheann eile - the next one
+|an bus eile - the other bus
+|an chéad bhus eile - the next bus
+|an clár eile - the other programme
+|clár eile - another programme
+|an chéad chlár eile - the next programme
+|an chéad uair eile - the next time
+|an chéad rud eile - the next thing
 
 
 
@@ -492,269 +492,269 @@ an chéad rud eile - the next thing
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-Ithim torthaí. - I eat fruit.
-Ní ithim seacláid. - I don’t eat chocolate.
-Ithim glasraí ach ní ithim milseáin. - I eat vegetables but I don’t eat sweets.
-Ólaim uisce ach ní ólaim caife. - I drink water but I don’t drink coffee.
-Éistim le ceol ach ní éistim leis an nuacht. - I listen to music but I don’t listen to the news.
-Amharcaim ar an teilifís ach ní amharcaim ar an nuacht - I watch television but I don’t watch the news.
-Éirím go luath ar an Satharn ach ní éirím go luath ar an Domhnach. - I get up early on Saturday but I don’t get up early on Sunday.
-Tuigim. - I understand.
-Ní thuigim. - I don’t understand.
+|Ithim torthaí. - I eat fruit.
+|Ní ithim seacláid. - I don’t eat chocolate.
+|Ithim glasraí ach ní ithim milseáin. - I eat vegetables but I don’t eat sweets.
+|Ólaim uisce ach ní ólaim caife. - I drink water but I don’t drink coffee.
+|Éistim le ceol ach ní éistim leis an nuacht. - I listen to music but I don’t listen to the news.
+|Amharcaim ar an teilifís ach ní amharcaim ar an nuacht - I watch television but I don’t watch the news.
+|Éirím go luath ar an Satharn ach ní éirím go luath ar an Domhnach. - I get up early on Saturday but I don’t get up early on Sunday.
+|Tuigim. - I understand.
+|Ní thuigim. - I don’t understand.
 
-Tuigim ‘Slán’ ach ní thuigim ‘dochreidte’. - I understand ‘goodbye’ but I don’t understand ‘unbelievable’.
-Tuigim ‘coirnéal’ ach ní thuigim ‘off-side’. - I understand ‘corner’ but I don’t understand ‘off-side’.
-Tuigim Bríd ag caint Gaeilge ach ní thuigim Hiúdaí ag caint Gaeilge. - I understand Bríd speaking Irish but I don’t understand Hiúdaí speaking Irish.
-Tuigim ‘Pythagoras’ ach ní thuigim ‘Trigonometry’. - I understand ‘Pythagoras’ but I don’t understand ‘Trigonometry’.
+|Tuigim ‘Slán’ ach ní thuigim ‘dochreidte’. - I understand ‘goodbye’ but I don’t understand ‘unbelievable’.
+|Tuigim ‘coirnéal’ ach ní thuigim ‘off-side’. - I understand ‘corner’ but I don’t understand ‘off-side’.
+|Tuigim Bríd ag caint Gaeilge ach ní thuigim Hiúdaí ag caint Gaeilge. - I understand Bríd speaking Irish but I don’t understand Hiúdaí speaking Irish.
+|Tuigim ‘Pythagoras’ ach ní thuigim ‘Trigonometry’. - I understand ‘Pythagoras’ but I don’t understand ‘Trigonometry’.
 
-Ní thuigim. - I don’t understand.
-Ní shiúlaim. - I don’t walk.
-Ní cheannaím. - I don’t buy.
-Ní shuím. - I don’t sit.
+|Ní thuigim. - I don’t understand.
+|Ní shiúlaim. - I don’t walk.
+|Ní cheannaím. - I don’t buy.
+|Ní shuím. - I don’t sit.
 
 Seanfhocal Chlár 10:
 
-Is maith an t-anlann an t-ocras. - Hunger is a great sauce.
+|Is maith an t-anlann an t-ocras. | Hunger is a great sauce.
 
 # Lesson 11 - 
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-barraíocht – too much
-mórán - many
-go minic - often
-cuid mhór - a lot
-níos mó - more
-níos lú - less
-a oiread - as much / as many
-
-“Ghiorsaighe óg,’bhfuil Béarla agat?
-Leóga, muise, tá!
-Caidé mar a chuirfeá an madadh amach?
-Out the dog awa!!”
-
-“Young girl, can you speak English?
-Indeed, I can!
-How would you put the dog out?
-Out the dog awa!!”
-
-Ithim. - I eat.
-Itheann tú. - You eat.
-An itheann tú? - Do you eat?
-Tuigim. - I understand.
-Tuigeann tú. - You understand.
-An dtuigeann tú? - Do you understand?
-Téim. - I go.
-An dtéann tú? - Do you go?
-An bhfuil sé fuar? - Is it cold?
-Tá. / Níl. – Yes. / No.
-Déanaim. - I do / make.
-An ndéanann tú? - Do you do / make?
-Díolaim as. - I pay for.
-An ndíolann tú as? - Do you pay for?
-
-An dtéann tú chuig an phictiúrlann go minic? - Do you go to the cinema often?
-An dtéann tú chuig cluiche peile go minic? - Do you go to a football match often?
-An dtéann tú ag snámh go minic? - Do you go swimming often?
-An dtéann tú go Béal Feirste go minic? - Do you go to Belfast often?
-An bhfuil airgead agat? - Do you have money?
-An ndéanann tú Yoga? - Do you do Yoga?
-An ndíolann tú as na ranganna? - Do you pay for the classes?
-An ndéanann tú an dinnéar go minic? - Do you make the dinner often?
+|barraíocht – too much
+|mórán - many
+|go minic - often
+|cuid mhór - a lot
+|níos mó - more
+|níos lú - less
+|a oiread - as much / as many
+|
+|“Ghiorsaighe óg,’bhfuil Béarla agat?
+|Leóga, muise, tá!
+|Caidé mar a chuirfeá an madadh amach?
+|Out the dog awa!!”
+|
+|“Young girl, can you speak English?
+|Indeed, I can!
+|How would you put the dog out?
+|Out the dog awa!!”
+|
+|Ithim. - I eat.
+|Itheann tú. - You eat.
+|An itheann tú? - Do you eat?
+|Tuigim. - I understand.
+|Tuigeann tú. - You understand.
+|An dtuigeann tú? - Do you understand?
+|Téim. - I go.
+|An dtéann tú? - Do you go?
+|An bhfuil sé fuar? - Is it cold?
+|Tá. / Níl. – Yes. / No.
+|Déanaim. - I do / make.
+|An ndéanann tú? - Do you do / make?
+|Díolaim as. - I pay for.
+|An ndíolann tú as? - Do you pay for?
+|
+|An dtéann tú chuig an phictiúrlann go minic? - Do you go to the cinema often?
+|An dtéann tú chuig cluiche peile go minic? - Do you go to a football match often?
+|An dtéann tú ag snámh go minic? - Do you go swimming often?
+|An dtéann tú go Béal Feirste go minic? - Do you go to Belfast often?
+|An bhfuil airgead agat? - Do you have money?
+|An ndéanann tú Yoga? - Do you do Yoga?
+|An ndíolann tú as na ranganna? - Do you pay for the classes?
+|An ndéanann tú an dinnéar go minic? - Do you make the dinner often?
 
 # Lesson 12 - 
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-Creidim. - I believe.
-Creideann tú. - You believe.
-An gcreideann tú? - Do you believe?
-
-Ceannaím. - I buy.
-Ceannaíonn tú. - You buy.
-An gceannaíonn tú? - Do you buy?
-
-Bím. - I be.
-Bíonn tú. - You be.
-An mbíonn tú? - Do you be?
-An mbíonn tú ag obair gach Aoine? - Do you work every Friday?
-An mbíonn tú ag obair gach Satharn? - Do you work every Saturday?
-ar an Luan - on Mondays
-ach an Satharn agus an Domhnach - except Saturday and Sunday
-ag deireadh na seachtaine - at the weekend
-trí lá gach seachtain - three days every week
-
-An nglanann tú an carr gach Aoine? - Do you clean the car every Friday?
-Glanaim. - I clean.
-Ní glanaim. - I don’t clean.
-Glanann tú. - You clean.
-anois agus arís - now and again
-na fuinneoga - the windows
-uair sa mhí - once a month
+|Creidim. - I believe.
+|Creideann tú. - You believe.
+|An gcreideann tú? - Do you believe?
+|
+|Ceannaím. - I buy.
+|Ceannaíonn tú. - You buy.
+|An gceannaíonn tú? - Do you buy?
+|
+|Bím. - I be.
+|Bíonn tú. - You be.
+|An mbíonn tú? - Do you be?
+|An mbíonn tú ag obair gach Aoine? - Do you work every Friday?
+|An mbíonn tú ag obair gach Satharn? - Do you work every Saturday?
+|ar an Luan - on Mondays
+|ach an Satharn agus an Domhnach - except Saturday and Sunday
+|ag deireadh na seachtaine - at the weekend
+|trí lá gach seachtain - three days every week
+|
+|An nglanann tú an carr gach Aoine? - Do you clean the car every Friday?
+|Glanaim. - I clean.
+|Ní glanaim. - I don’t clean.
+|Glanann tú. - You clean.
+|anois agus arís - now and again
+|na fuinneoga - the windows
+|uair sa mhí - once a month
 
 Seanfhocal Chlár 12:
 
 Cleachtadh a dhéanann máistreacht.
 
-cleachtadh - practice
-máistreacht - a mastery, perfection
-Cleachtadh a dhéanann máistreacht. - Practise makes perfect.
-
-ár scoil - our school
-bhur lón - your (pl.) lunch
-a milseáin - their sweets
-ár bplátaí - our plates
-bhur bplátaí - your plates
-a bplátaí - their plates
+|cleachtadh - practice
+|máistreacht - a mastery, perfection
+|Cleachtadh a dhéanann máistreacht. - Practise makes perfect.
+|
+|ár scoil - our school
+|bhur lón - your (pl.) lunch
+|a milseáin - their sweets
+|ár bplátaí - our plates
+|bhur bplátaí - your plates
+|a bplátaí - their plates
 
 # Lesson 13 - 
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
 
-Glan an tábla. - Clean the table
-Tá sé glanta. - It’s cleaned.
-Déan an lón. - Make the lunch.
-Tá sé déanta. - It’s made.
-Líon isteach an fhoirm sin. - Fill in that form.
-Tá sé líonta. - It’s filled in.
-druid - close
-druidte - closed
-oscail - open
-oscailte - opened
-léigh - read
-léite - read
-caill - lose
-caillte - lost
+|Glan an tábla. - Clean the table
+|Tá sé glanta. - It’s cleaned.
+|Déan an lón. - Make the lunch.
+|Tá sé déanta. - It’s made.
+|Líon isteach an fhoirm sin. - Fill in that form.
+|Tá sé líonta. - It’s filled in.
+|druid - close
+|druidte - closed
+|oscail - open
+|oscailte - opened
+|léigh - read
+|léite - read
+|caill - lose
+|caillte - lost
 
-Tá an siopa sin druidte ach tá an siopa seo go fóill oscailte. - That shop is closed but this shop is still open
-Druid an doras sin, le do thoil, tá sé fuar. - Tá sé druidte.
-Close that door please, it’s cold. - It is closed.
-Oscail an fhuinneog, le do thoil, tá sé iontach te. - Tá sé oscailte.
-Open the window, please, it’s very warm. - It is open.Tá Bran caillte. - Bran is lost.
-Tá an leabhar leite. - The book is read.
-Tá an leabhar léite agam. - I have read the book.
-
-croí - heart, dear or love
-a ghrá - love (when speaking to someone)
-grá geal mo chroí - the bright love of my heart, my sweetheart
-mo chroí - my love
-a ruin - loved one
-rúin mo chroí - love of my heart
-a thaiscigh - my dear, darling
-
-bris - break
-briste - broken
-ith - eat
-ite - eaten
-nite - washed
-thart - over, finished
-
-grma can be text for go raibh maith agat - thank you
-eay can be text for oíche mhaith - goodnight
-sgf can be text for slán go fóill - goodbye for now
-ldt can be text for le do thoil - please
-the letter j can be text for cad é - what
-the letters an followed by the digit 8, ocht in Irish, can stand for anocht, an8 – tonight
-kwul2 can be cá bhfuil tú? - where are you?
-gao can be grá agam ort - love you
+|Tá an siopa sin druidte ach tá an siopa seo go fóill oscailte. - That shop is closed but this shop is still open
+|Druid an doras sin, le do thoil, tá sé fuar. - Tá sé druidte.
+|Close that door please, it’s cold. - It is closed.
+|Oscail an fhuinneog, le do thoil, tá sé iontach te. - Tá sé oscailte.
+|Open the window, please, it’s very warm. - It is open.Tá Bran caillte. - Bran is lost.
+|Tá an leabhar leite. - The book is read.
+|Tá an leabhar léite agam. - I have read the book.
+|
+|croí - heart, dear or love
+|a ghrá - love (when speaking to someone)
+|grá geal mo chroí - the bright love of my heart, my sweetheart
+|mo chroí - my love
+|a ruin - loved one
+|rúin mo chroí - love of my heart
+|a thaiscigh - my dear, darling
+|
+|bris - break
+|briste - broken
+|ith - eat
+|ite - eaten
+|nite - washed
+|thart - over, finished
+|
+|grma can be text for go raibh maith agat - thank you
+|eay can be text for oíche mhaith - goodnight
+|sgf can be text for slán go fóill - goodbye for now
+|ldt can be text for le do thoil - please
+|the letter j can be text for cad é - what
+|the letters an followed by the digit 8, ocht in Irish, can stand for anocht, an8 – tonight
+|kwul2 can be cá bhfuil tú? - where are you?
+|gao can be grá agam ort - love you
 
 # Lesson 14 - 
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-críochnaigh - finish
-críochnaigh an crosfhocal sin. - finish that crossword.
-ceannaigh - buy
-ceannaigh an nuachtán. - buy the newspaper.
-cóirigh – arrange or dress
-cóirigh an leaba - make the bed.
-ceartaigh - correct
-ceartaithe – corrected
-sínigh - sign
-sínithe - signed
-roghnaigh - choose
-roghnaithe - chosen
-deisigh - repair or fix
-deisithe - repaired
-
-Fuair tú scairt ghutháin; tá do ghuthán póca deisithe. - You got a phone call; your mobile phone is fixed.
-Roghnaigh an dath is fearr leat. - Choose the colour you prefer.
-Tá sé roghnaithe agam; gorm. - I have chosen it; blue.
-Sínigh an nóta scoile sin, le do thoil, a chroí. - Sign that school note, please, love.
-Tá sé sínithe agam. - I have it signed.
-Ceartaigh an obair bhaile sin le do thoil. - Correct that homework please.
-Tá an obair bhaile sin ceartaithe agam. - I have that homework corrected.
-
-faoiseamh - relief
-seal beag gairid - a short little while
-i measc mo dhaoine - among my people
-ar oileán mara - on a sea island
-ag siúl cois cladaigh - walking by the shore
-maidin is tráthnóna - morning and evening
-ó Luan go Satharn - from Monday to Saturday
-thiar ag baile - back at home, in the west
-ó chrá croí - from heart ache
-ó bhuairt aigne - from anxiety and work
-ó uaigneas duairc - from dark loneliness
-ó chaint ghontach - from hurtful talk
-
-An bhfuil an leabhar sin léite agat? - Have you read that book?
-Tá an leabhar sin léite aige. - He has read that book.
-Tá an leabhar sin léite aici. - She has read that book.
-Tá an leabhar sin léite againn - We have read that book.
-Tá an leabhar sin léite agaibh - You (pl) have read that book.
-Tá an leabhar sin léite acu - They have read that book.
-
-Och och mo mhadadh beag - Aw, my wee dog
-tá piachán i mo sceadamán - I am hoarse
-ag scairtigh ar mo mhadadh beag. – calling my wee dog.
-
-Luím ar mo leabaidh - I lie in my bed
-‘gus ní chodlaím aon néal go maidin – and I don’t sleep a wink
-ach ag meabhrú ar mo mhadadh beag – thinking of my wee dog
-a d’imigh uaim sa scarthanaigh. – who left me at daybreak.
+|críochnaigh - finish
+|críochnaigh an crosfhocal sin. - finish that crossword.
+|ceannaigh - buy
+|ceannaigh an nuachtán. - buy the newspaper.
+|cóirigh – arrange or dress
+|cóirigh an leaba - make the bed.
+|ceartaigh - correct
+|ceartaithe – corrected
+|sínigh - sign
+|sínithe - signed
+|roghnaigh - choose
+|roghnaithe - chosen
+|deisigh - repair or fix
+|deisithe - repaired
+|
+|Fuair tú scairt ghutháin; tá do ghuthán póca deisithe. - You got a phone call; your |mobile phone is fixed.
+|Roghnaigh an dath is fearr leat. - Choose the colour you prefer.
+|Tá sé roghnaithe agam; gorm. - I have chosen it; blue.
+|Sínigh an nóta scoile sin, le do thoil, a chroí. - Sign that school note, please, love.
+|Tá sé sínithe agam. - I have it signed.
+|Ceartaigh an obair bhaile sin le do thoil. - Correct that homework please.
+|Tá an obair bhaile sin ceartaithe agam. - I have that homework corrected.
+|
+|faoiseamh - relief
+|seal beag gairid - a short little while
+|i measc mo dhaoine - among my people
+|ar oileán mara - on a sea island
+|ag siúl cois cladaigh - walking by the shore
+|maidin is tráthnóna - morning and evening
+|ó Luan go Satharn - from Monday to Saturday
+|thiar ag baile - back at home, in the west
+|ó chrá croí - from heart ache
+|ó bhuairt aigne - from anxiety and work
+|ó uaigneas duairc - from dark loneliness
+|ó chaint ghontach - from hurtful talk
+|
+|An bhfuil an leabhar sin léite agat? - Have you read that book?
+|Tá an leabhar sin léite aige. - He has read that book.
+|Tá an leabhar sin léite aici. - She has read that book.
+|Tá an leabhar sin léite againn - We have read that book.
+|Tá an leabhar sin léite agaibh - You (pl) have read that book.
+|Tá an leabhar sin léite acu - They have read that book.
+|
+|Och och mo mhadadh beag - Aw, my wee dog
+|tá piachán i mo sceadamán - I am hoarse
+|ag scairtigh ar mo mhadadh beag. – calling my wee dog.
+|
+|Luím ar mo leabaidh - I lie in my bed
+|‘gus ní chodlaím aon néal go maidin – and I don’t sleep a wink
+|ach ag meabhrú ar mo mhadadh beag – thinking of my wee dog
+|a d’imigh uaim sa scarthanaigh. – who left me at daybreak.
 
 # Lesson 15 - 
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
+|
+|Bain sult as an lá. - Enjoy the day.
+|Bainfidh mé sult as an lá. – I will enjoy the day. Bainfidh mé sult as an lá.
+|Ól gloine uisce - Drink a glass of water.
+|Ólfaidh mé gloine uisce. - I will drink a glass of water.
+|Siúil go dtí an siopa. - Walk to the shop.
+|Siúlfaidh mé go dtí an siopa. - I will walk to the shop.
+|Suigh síos. - Sit down.
+|Suífidh mé síos. - I will sit down.
+|Léigh an nuachtán. - Read the newspaper.
+|Léifidh mé an nuachtán. - I will read the newspaper.
+|Amharc ar an teilifís. - Watch the television.
+|Amharcfaidh mé ar an teilifís. - I will watch the television.
+|Éist le Giota Níos Mó - Listen to Giota Níos Mó.
+|Éistfidh mé le GNM gach lá. - I will listen to Giota Níos Mó every day.
+|
+|an carr s’agam - my car
+|an carr s’agat - your car
+|an carr s’aige - his car
+|an carr s’aici - her car
+|an carr s’againn - our car
+|an carr s’agaibh - your (pl.) car
+|an carr s’acu - their car
 
-Bain sult as an lá. - Enjoy the day.
-Bainfidh mé sult as an lá. – I will enjoy the day. Bainfidh mé sult as an lá.
-Ól gloine uisce - Drink a glass of water.
-Ólfaidh mé gloine uisce. - I will drink a glass of water.
-Siúil go dtí an siopa. - Walk to the shop.
-Siúlfaidh mé go dtí an siopa. - I will walk to the shop.
-Suigh síos. - Sit down.
-Suífidh mé síos. - I will sit down.
-Léigh an nuachtán. - Read the newspaper.
-Léifidh mé an nuachtán. - I will read the newspaper.
-Amharc ar an teilifís. - Watch the television.
-Amharcfaidh mé ar an teilifís. - I will watch the television.
-Éist le Giota Níos Mó - Listen to Giota Níos Mó.
-Éistfidh mé le GNM gach lá. - I will listen to Giota Níos Mó every day.
-
-an carr s’agam - my car
-an carr s’agat - your car
-an carr s’aige - his car
-an carr s’aici - her car
-an carr s’againn - our car
-an carr s’agaibh - your (pl.) car
-an carr s’acu - their car
-
-Chífidh mé. - I will see.
-Chífidh mé thú. - I will see you.
-Déanfaidh mé. - I will do.
-Déanfaidh mé sin amárach. - I will do that tomorrow.
-Rachaidh mé. - I will go.
-Rachaidh mé ar ais amárach. - I will go back tomorrow.
-Scairtfidh mé. - I will call/shout.
-Scairtfidh mé ort amárach. - I will phone you tomorrow.
-An rachaidh tú? - Will you go?
-An rachaidh tú amach anocht? - Will you go out tonight?
-Ní rachaidh - No, I will not go out.
-Níl mé cinnte an rachaidh nó nach rachaidh. - I’m not sure if I’ll go or not.
+|Chífidh mé. - I will see.
+|Chífidh mé thú. - I will see you.
+|Déanfaidh mé. - I will do.
+|Déanfaidh mé sin amárach. - I will do that tomorrow.
+|Rachaidh mé. - I will go.
+|Rachaidh mé ar ais amárach. - I will go back tomorrow.
+|Scairtfidh mé. - I will call/shout.
+|Scairtfidh mé ort amárach. - I will phone you tomorrow.
+|An rachaidh tú? - Will you go?
+|An rachaidh tú amach anocht? - Will you go out tonight?
+|Ní rachaidh - No, I will not go out.
+|Níl mé cinnte an rachaidh nó nach rachaidh. - I’m not sure if I’ll go or not.
 
 Seanfhocal Chlár 15:
 
