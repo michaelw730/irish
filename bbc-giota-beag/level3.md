@@ -2,80 +2,77 @@
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-Bhain mé sult as an lá. - I enjoyed the day.
-Mhúscail mé ar a seacht a chlog. - I awoke at seven o’clock.
-D’ith mé banana agus úll. - I ate a banana and an apple.
-D’ol mé gloine uisce. - I drank a glass of water.
-Shiúil mé go dtí an siopa. - I walked to the shop.
-Cheannaigh mé an nuachtán. - I bought the newspaper.
-Shuigh mé síos. - I sat down.
-Léigh mé an nuachtán. - I read the newspaper.
-D’amharc mé ar an teilifís. - I watched the television.
-D’éist mé le Giota Beag Eile. - I listened to Giota Beag Eile.
-D’fhoghlaim mé Gaeilge. - I learnt Irish.
-
-ard - tall
-tanaí - thin
-
-Tá mé ard. - I am tall.
-Tá mé tanaí. - I am thin.
-
-cairdiúil - friendly
-cainteach - chatty
-dearmadach - forgetful
-
-Tá mé cairdiúil. - I am friendly.
-Tá mé cainteach. - I am chatty.
-
-Tá mé cairdiúil. - I am friendly.
-Sílim go bhfuil mé cairdiúil. - I think that I am friendly.
-
-Tá mé cainteach. - I am chatty.
-Sílim go bhfuil mé cainteach. - I think that I am chatty.
-
-Tá mé tuisceanach. - I am understanding.
-Deirtear go bhfuil mé tuisceanach. - It’s said that I am understanding.
-Deirtear go bhfuil mé iontach tuisceanach. - It’s said that I’m very understanding.
-
-This episode’s seanfhocal is:
-
-Is binn béal ina thost. - Silence is golden.
+|Bhain mé sult as an lá. | I enjoyed the day.
+|Mhúscail mé ar a seacht a chlog. | I awoke at seven o’clock.
+|D’ith mé banana agus úll.| I ate a banana and an apple.
+|D’ol mé gloine uisce. | I drank a glass of water.
+|Shiúil mé go dtí an siopa. | I walked to the shop.
+|Cheannaigh mé an nuachtán. | I bought the newspaper.
+|Shuigh mé síos. | I sat down.
+|Léigh mé an nuachtán. | I read the newspaper.
+|D’amharc mé ar an teilifís. | I watched the television.
+|D’éist mé le Giota Beag Eile. | I listened to Giota Beag Eile.
+|D’fhoghlaim mé Gaeilge. | I learnt Irish.
+|
+|ard | tall
+|tanaí | thin
+|
+|Tá mé ard. | I am tall.|
+|Tá mé tanaí. | I am thin.
+|
+|cairdiúil | friendly
+|cainteach | chatty
+|dearmadach | forgetful
+|
+|Tá mé cairdiúil. | I am friendly.
+|Tá mé cainteach. | I am chatty.
+|
+|Tá mé cairdiúil. | I am friendly.
+|Sílim go bhfuil mé cairdiúil. | I think that I am friendly.
+|
+|Tá mé cainteach. | I am chatty.
+|Sílim go bhfuil mé cainteach. | I think that I am chatty.
+|
+|Tá mé tuisceanach. | I am understanding.
+|Deirtear go bhfuil mé tuisceanach. | It’s said that I am understanding.
+|Deirtear go bhfuil mé iontach tuisceanach. | It’s said that I’m very understanding.
+|
+|This episode’s seanfhocal is:
+|Is binn béal ina thost. | Silence is golden.
 
 # Lesson 2 - 
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-Agus chomh maith leis sin - And as well as that
-Ach ar an drochuair - But unfortunately
-mar - because
-Níl mé pósta mar tá mé óg. I’m not married because I’m young.
-fosta - also, as well
-Agus rud eile dó - and furthermore / and another thing
-deoch beag - a wee drink
-Ná déan dearmad air sin. - Don’t forget about that.
-
-Seanfhocal Chlár 2 is:
-
-Níor bhris focal maith fiacail riamh. - Literally, a good word never broke a tooth.
-(So it doesn’t hurt to say a kind word about someone!)
-
-bean chéile - wife
-mo bhean chéile - my wife
-cuidiúil - helpful
-bríomhar - lively, outgoing, bubbly
-siúlóidí - walks
-agus caithfidh mise dul léi! - and I have to go with her!
-ramhar - fat
-giota beag ramhar - a little overweight
-ag siúl amach le - going out with, going steady
-gealgháireach - cheerful
-smutach - huffy, moody
-neamhspleách - independent
-tarcaisneach - sarcastic
-ó am go ham - from time to time
-sean - old
-níos sine - older
-is sine - oldest
+|Agus chomh maith leis sin | And as well as that
+|Ach ar an drochuair | But unfortunately
+|mar | because
+|Níl mé pósta mar tá mé óg.| I’m not married because I’m young.
+|fosta | also, as well
+|Agus rud eile dó | and furthermore / and another thing
+|deoch beag | a wee drink
+|Ná déan dearmad air sin. | Don’t forget about that.
+|
+|Seanfhocal Chlár 2 is:
+|
+|Níor bhris focal maith fiacail riamh. | Literally, a good word never broke a tooth.(So it doesn’t hurt to say a kind word about someone!)
+|bean chéile | wife
+|mo bhean chéile | my wife
+|cuidiúil | helpful
+|bríomhar | lively, outgoing, bubbly
+|siúlóidí | walks
+|agus caithfidh mise dul léi! | and I have to go with her!
+|ramhar | fat
+|giota beag ramhar | a little overweight
+|ag siúl amach le | going out with, going steady
+|gealgháireach | cheerful
+|smutach | huffy, moody
+|neamhspleách | independent
+|tarcaisneach | sarcastic
+|ó am go ham | from time to time
+|sean | old
+|níos sine | older
+|is sine | oldest
 
 Try to see if you remember the meaning of following:
 
@@ -94,37 +91,37 @@ Try to see if you remember the meaning of following:
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-ríomhaire - computer
-ar an ríomhaire - on the computer
-ar an idirlíon - on the internet
-suíomh - site
-suíomh idirlín - internet site
-Ponc - dot
-stríoc chun tosaigh - forward stroke
-sean - old
-níos sine - older
-is sine - oldest
-óg - young
-níos óige - younger
-is óige - youngest
-
-an duine is óige - the youngest person, the youngest one
-an duine is sine - the oldest person, the oldest one
-
-fuar - cold
-níos fuaire - colder
-te - warm or hot
-níos teo - warmer
-luath - early
-níos luaithe - earlier
-mall - late
-níos moille - later
-
-Seanfhocal Chlár 3!
-
-Mar a bhíos an cú, bíonn an coileán!
-Like father, like son. Or, indeed, like mother like daughter!
-
+|ríomhaire - computer
+|ar an ríomhaire - on the computer
+|ar an idirlíon - on the internet
+|suíomh - site
+|suíomh idirlín - internet site
+|Ponc - dot
+|stríoc chun tosaigh - forward stroke
+|sean - old
+|níos sine - older
+|is sine - oldest
+|óg - young
+|níos óige - younger
+|is óige - youngest
+|
+|an duine is óige - the youngest person, the youngest one
+|an duine is sine - the oldest person, the oldest one
+|
+|fuar - cold
+|níos fuaire - colder
+|te - warm or hot
+|níos teo - warmer
+|luath - early
+|níos luaithe - earlier
+|mall - late
+|níos moille - later
+|
+|Seanfhocal Chlár 3!
+|
+|Mar a bhíos an cú, bíonn an coileán!
+|Like father, like son. Or, indeed, like mother like daughter!
+|
 You already know:
 
 "Is binn béal ina thost!" agus "Níor bhris focal maith fiacail riamh!"
@@ -147,70 +144,67 @@ Now see if you remember what the following words mean. You can always listen bac
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-maith - good
-níos fearr - better
-is fearr - best
-
-olc - bad
-níos measa - worse
-is measa - worst
-
-beag - small
-níos lú- smaller
-is lú - smallest
-
-mór - large or big
-níos mó - bigger
-is mó - biggest
-
-ainmnigh - name
-contae - county
-club sacair - soccer club
-i Sasain - in England
-in Albain - in Scotland
-
-Ainmnigh an contae is mó in Éirinn.
-Name the biggest or largest county in Ireland.
-Agus an freagra, the answer… Corcaigh, Cork.
-
-Ainmnigh an contae is lú in Éirinn.
-Name the smallest county in Ireland.
-Agus an freagra, the answer… Contae Lú, County Louth.
-
-Ainmnigh an club sacair is fearr i Sasain.
-Name the best soccer club in England.
-
-Ainmnigh an club sacair is fearr in Albain.
-Name the best soccer club in Scotland.
-
-Ainmnigh an club sacair is measa i Sasain.
-Name the worst soccer club in England.
-
-Ainmnigh an club sacair is measa in Albain.
-Name the worst soccer club in Scotland.
-
-Seanfhocal Chlár 4:
-
-Níl aon leigheas ar an ghrá ach pósadh.
-There is no cure for love except marriage.
-leigheas - cure
-grá - love
-
-You already know:
-Is binn béal ina thost.
-Níor bhris focal maith fiacail riamh.
-Mar a bhíos an cú, bíonn an coileán.
-
-bean chéile - wife
-deirfiúr - sister
-mo bhean chéile - my wife
-mo dheirfiúr - my sister
-mo phas - my passport
-do phas - your passport
-a phas - his passport
-a pas - her passport
-
-Now see if you remember the following, without peeking at the translation:
+|maith | good
+|níos fearr | better
+|is fearr | best
+|
+|olc | bad
+|níos measa | worse
+|is measa | worst
+|
+|beag | small
+|níos lú| smaller
+|is lú | smallest
+|
+|mór | large or big
+|níos mó | bigger
+|is mó | biggest
+|
+|ainmnigh | name
+|contae | county
+|club sacair | soccer club
+|i Sasain | in England
+|in Albain | in Scotland
+|
+|Ainmnigh an contae is mó in Éirinn.|Name the biggest or largest county in Ireland.
+|Agus an freagra, the answer… Corcaigh, Cork.
+|
+|Ainmnigh an contae is lú in Éirinn.|Name the smallest county in Ireland.
+|Agus an freagra, the answer… Contae Lú, County Louth.
+|
+|Ainmnigh an club sacair is fearr i Sasain.
+|Name the best soccer club in England.
+|
+|Ainmnigh an club sacair is fearr in Albain.
+|Name the best soccer club in Scotland.
+|
+|Ainmnigh an club sacair is measa i Sasain.
+|Name the worst soccer club in England.
+|
+|Ainmnigh an club sacair is measa in Albain.
+|Name the worst soccer club in Scotland.
+|
+|Seanfhocal Chlár 4:
+|
+|Níl aon leigheas ar an ghrá ach pósadh.|There is no cure for love except marriage.
+|leigheas | cure
+|grá | love
+|
+|You already know:
+|Is binn béal ina thost.
+|Níor bhris focal maith fiacail riamh.
+|Mar a bhíos an cú, bíonn an coileán.
+|
+|bean chéile | wife
+|deirfiúr | sister
+|mo bhean chéile | my wife
+|mo dheirfiúr | my sister
+|mo phas | my passport
+|do phas | your passport
+|a phas | his passport
+|a pas | her passport
+|
+|Now see if you remember the following, without peeking at the translation:
 
 • maith / níos fearr /is fearr
 • olc / níos measa / is measa
@@ -233,25 +227,25 @@ Now see if you remember the following, without peeking at the translation:
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-liom - with me
-leat - with you
-leis - with him
-léi - with her
-
-Ba mhaith liom - I’d like
-Ba mhaith leat - You’d like
-Ba mhaith leis - He’d like
-Ba mhaith léi - She’d like
-
-dom - to me
-duit - to you
-dó - to him
-di - to her
-
-Tabhair dom an leabhar – Give me the book.
-Thug mé an leabhar duit - I gave the book to you.
-Thug mé an leabhar dó - Literally, I gave the book to him.
-Thug mé an leabhar di - Literally, I gave the book to her.
+|liom | with me
+|leat | with you
+|leis | with him
+|léi | with her
+|
+|Ba mhaith liom - I’d like
+|Ba mhaith leat - You’d like
+|Ba mhaith leis - He’d like
+|Ba mhaith léi - She’d like
+|
+|dom - to me
+|duit - to you
+|dó - to him
+|di - to her
+|
+|Tabhair dom an leabhar – Give me the book.
+|Thug mé an leabhar duit - I gave the book to you.
+|Thug mé an leabhar dó - Literally, I gave the book to him.
+|Thug mé an leabhar di - Literally, I gave the book to her.
 
 Seanfhocal Chlár 5:
 
@@ -288,142 +282,142 @@ Chífidh mé thú!
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-An dtiocfadh leat? - Could you?
-An dtiocfadh leat gar a dhéanamh? - Could you do a favour?
-An dtiocfadh leat gar a dhéanamh dom? - Could you do a favour for me?
-An dtiocfadh leat gar beag a dhéanamh dom? - Could you do a wee favour for me?
-An dtiocfadh leat an litir seo a chur sa phost - Could you post this letter
-An dtiocfadh leat mé a thógáil ón bhus? - Could you lift me/collect me from the bus?
-An dtiocfadh leat mé a thógáil ón siopa? - Could you collect me from the shop
-An dtiocfadh leat £20 punt a thógáil amach? - Could you take out £20?
-An dtiocfadh leat scairt a chur ar an gharáiste? - Could you phone the garage?
+|An dtiocfadh leat? - Could you?
+|An dtiocfadh leat gar a dhéanamh? - Could you do a favour?
+|An dtiocfadh leat gar a dhéanamh dom? - Could you do a favour for me?
+|An dtiocfadh leat gar beag a dhéanamh dom? - Could you do a wee favour for me?
+|An dtiocfadh leat an litir seo a chur sa phost - Could you post this letter
+|An dtiocfadh leat mé a thógáil ón bhus? - Could you lift me/collect me from the bus?
+|An dtiocfadh leat mé a thógáil ón siopa? - Could you collect me from the shop
+|An dtiocfadh leat £20 punt a thógáil amach? - Could you take out £20?
+|An dtiocfadh leat scairt a chur ar an gharáiste? - Could you phone the garage?
 
 Seanfhocal Chlár 6:
 
-Is fada an bóthar nach mbíonn casadh ann!
-
-bóthar - road
-casadh - a turning or a twist
-Is fada an bóthar - It’s a long road
-…nach mbíonn casadh ann - …which doesn’t have a turn or a twist
-
-An dtiocfadh leat cúpla gar a dhéanamh dom? - Could you do a couple of favours for me?
-Thiocfadh - Yes I could
-Ní thiocfadh - No, I could not
-Cad é atá ann? - What is it? In this context, what is it - you want me to do
-
-Go maire sibh bhur saol úr le chéile - May you live out your new life together.
-It’s nice to look at it as “May you have good health to live out a long life together.”
-Bainis - wedding reception
-
-Sláinte is fad saoil agaibh, teach ar bhur mian agaibh
-Talamh gan chíos agaibh, fómhar gach bliain agaibh
-Leanbh gach bliain agaibh, ón lá seo amach!
-
-Good health and long life to you both, a house of your dreams,
-Land without rent, a harvest each year,
-A child every year, from this day on!
-
-litir - letter
-an litir seo - this letter
-doras
-an doras seo - this door
-clár - programme
-an clár seo - this programme
-cárta - card
-an cárta seo - this card
+|Is fada an bóthar nach mbíonn casadh ann!
+|
+|bóthar - road
+|casadh - a turning or a twist
+|Is fada an bóthar - It’s a long road
+|…nach mbíonn casadh ann - …which doesn’t have a turn or a twist
+|
+|An dtiocfadh leat cúpla gar a dhéanamh dom? - Could you do a couple of favours for me?
+|Thiocfadh - Yes I could
+|Ní thiocfadh - No, I could not
+|Cad é atá ann? - What is it? In this context, what is it - you want me to do
+|
+|Go maire sibh bhur saol úr le chéile - May you live out your new life together.
+|It’s nice to look at it as “May you have good health to live out a long life together.”
+|Bainis - wedding reception
+|
+|Sláinte is fad saoil agaibh, teach ar bhur mian agaibh
+|Talamh gan chíos agaibh, fómhar gach bliain agaibh
+|Leanbh gach bliain agaibh, ón lá seo amach!
+|
+|Good health and long life to you both, a house of your dreams,
+|Land without rent, a harvest each year,
+|A child every year, from this day on!
+|
+|litir - letter
+|an litir seo - this letter
+|doras
+|an doras seo - this door
+|clár - programme
+|an clár seo - this programme
+|cárta - card
+|an cárta seo - this card
 
 
 # Lesson 7 - 
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-An dtiocfadh leat gar beag a dhéanamh? - Could you do a wee favour?
-An dtiocfadh liom gar beag a dhéanamh? - Could I do a wee favour?
-An dtiocfadh leis gar beag a dhéanamh? - Could he do a wee favour?
-An dtiocfadh léi gar beag a dhéanamh? - Could she do a wee favour?
+|An dtiocfadh leat gar beag a dhéanamh? - Could you do a wee favour?
+|An dtiocfadh liom gar beag a dhéanamh? - Could I do a wee favour?
+|An dtiocfadh leis gar beag a dhéanamh? - Could he do a wee favour?
+|An dtiocfadh léi gar beag a dhéanamh? - Could she do a wee favour?
+|
+|An dtiocfadh leat gar beag a dhéanamh dom? - Could you do a wee favour for me?
+|An dtiocfadh leat gar beag a dhéanamh dó?- Could you do a wee favour for him?
+|An dtiocfadh leat gar beag a dhéanamh di? - Could you do a wee favour for her?
+|An dtiocfadh liom gar beag a dhéanamh duit? - Could I do a wee favour for you?
+|
+|Is fada an lá. - It is/has been a long time.
+|Ó, is fada. - Indeed it is/has been a long time.
+|Is fada anlá ó d’ith mé pizza! - It’s a long time since I’ve eaten pizza!
+|Is fada an lá ó d’ól mé caife! - It’s a long time since I’ve drunk coffee!
+|
+|D’éirigh liom. - I passed/succeeded.
+|D’éirigh leat. - You passed/succeeded.
+|D’éirigh leis. - He passed/succeeded.
+|D’éirigh léi. - She passed/succeeded.
+|Cad é mar a d’éirigh leat? - How did you get on?
+|
+|Theip orm. - I failed.
+|Theip ort. - You failed.
+|Theip air. - He failed.
+|Theip uirthi. - She failed.
+|
+|Go maire tú é. - May you have good health to enjoy it.
+|Go maire tú é is go gcaithe tú é. - May you have good health to enjoy it and wear it.
+|Go maire tú é is go gcaithe tú é is go stróca tú é. - May you have good health to enjoy it, wear it and tear it.
+|Go maire tú é is go gcaithe tú é is go stróca tú é is go bpósa tú fear ann. - May you have good health to enjoy it, wear it and tear it and marry a man in it.
 
-An dtiocfadh leat gar beag a dhéanamh dom? - Could you do a wee favour for me?
-An dtiocfadh leat gar beag a dhéanamh dó?- Could you do a wee favour for him?
-An dtiocfadh leat gar beag a dhéanamh di? - Could you do a wee favour for her?
-An dtiocfadh liom gar beag a dhéanamh duit? - Could I do a wee favour for you?
-
-Is fada an lá. - It is/has been a long time.
-Ó, is fada. - Indeed it is/has been a long time.
-Is fada anlá ó d’ith mé pizza! - It’s a long time since I’ve eaten pizza!
-Is fada an lá ó d’ól mé caife! - It’s a long time since I’ve drunk coffee!
-
-D’éirigh liom. - I passed/succeeded.
-D’éirigh leat. - You passed/succeeded.
-D’éirigh leis. - He passed/succeeded.
-D’éirigh léi. - She passed/succeeded.
-Cad é mar a d’éirigh leat? - How did you get on?
-
-Theip orm. - I failed.
-Theip ort. - You failed.
-Theip air. - He failed.
-Theip uirthi. - She failed.
-
-Go maire tú é. - May you have good health to enjoy it.
-Go maire tú é is go gcaithe tú é. - May you have good health to enjoy it and wear it.
-Go maire tú é is go gcaithe tú é is go stróca tú é. - May you have good health to enjoy it, wear it and tear it.
-Go maire tú é is go gcaithe tú é is go stróca tú é is go bpósa tú fear ann. - May you have good health to enjoy it, wear it and tear it and marry a man in it.
-
-an litir sin - that letter
-an doras sin - that door
-an clár sin - that programme
-an gúna sin - that dress
-Cé acu is fearr leat? - Which do you prefer?
+|an litir sin - that letter
+|an doras sin - that door
+|an clár sin - that programme
+|an gúna sin - that dress
+|Cé acu is fearr leat? - Which do you prefer?
 
 # Lesson 8 - 
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-Cad é do bharúil? - What do you think?
-An dtiocfadh leat an dinnéar a dhéanamh? - Could make the dinner?
-an lón - the lunch
-An dtiocfadh leat an lón a dhéanamh? - Could you make the lunch?
-an bricfeasta - the breakfast
-An dtiocfadh leat an bricfeasta a dhéanamh? - Could you make the breakfast?
-an suipéar - the supper
-An dtiocfadh leat an suipéar a dhéanamh? - Could you make the supper?
+|Cad é do bharúil? - What do you think?
+|An dtiocfadh leat an dinnéar a dhéanamh? - Could make the dinner?
+|an lón - the lunch
+|An dtiocfadh leat an lón a dhéanamh? - Could you make the lunch?
+|an bricfeasta - the breakfast
+|An dtiocfadh leat an bricfeasta a dhéanamh? - Could you make the breakfast?
+|an suipéar - the supper
+|An dtiocfadh leat an suipéar a dhéanamh? - Could you make the supper?
+|
+|Ar mhaith leat? - Would you like?
+|Ar mhaith leat an dinnéar a dhéanamh? - Would you like to make the dinner?
+|Ar mhaith leat an lón a dhéanamh? - Would you like to make the lunch?
+|Ar mhaith leat an bricfeasta a dhéanamh? - Would you like to make the breakfast?
+|
+|Ar mhaith leat dul amach ar shiúlóid? - Would you like to go out for a walk?
+|Ar mhaith leat dul amach anocht? - Would you like to go out tonight?
+|Ar mhaith leat dul chuig an phictiúrlann? - Would you like to go to the cinema?
+|Ar mhaith leat dul amach fá choinne béile anocht? - Would you like to go out for a meal tonight?
+|Ar mhaith leat buidéal fíona a fháil? - Would you like to get a bottle of wine?
+|Ar mhaith leat pizza a fháil? - Would you like to get a pizza?
+|Ar mhaith leat tacsaí a fháil? - Would you like to get a taxi?
+|
+|Ba mhaith - Yes
+|Níor mhaith - No
+|
+|Seanfhocail Chlár 8:
+|Beidh a cuid féin ag an fharraige - The sea will have its own.
+|
+|eile - another
+|bus eile - another bus
+|briosca eile - another biscuit
+|ceann eile - another one
+|clár eile - another programme
+|gúna eile - another dress
 
-Ar mhaith leat? - Would you like?
-Ar mhaith leat an dinnéar a dhéanamh? - Would you like to make the dinner?
-Ar mhaith leat an lón a dhéanamh? - Would you like to make the lunch?
-Ar mhaith leat an bricfeasta a dhéanamh? - Would you like to make the breakfast?
+|Tá mo sháith agam. - I’ve had my fill. / I’ve had enough.
+|cupán eile tae - another cup of tea
+|rud ar bith eile - anything else
 
-Ar mhaith leat dul amach ar shiúlóid? - Would you like to go out for a walk?
-Ar mhaith leat dul amach anocht? - Would you like to go out tonight?
-Ar mhaith leat dul chuig an phictiúrlann? - Would you like to go to the cinema?
-Ar mhaith leat dul amach fá choinne béile anocht? - Would you like to go out for a meal tonight?
-Ar mhaith leat buidéal fíona a fháil? - Would you like to get a bottle of wine?
-Ar mhaith leat pizza a fháil? - Would you like to get a pizza?
-Ar mhaith leat tacsaí a fháil? - Would you like to get a taxi?
-
-Ba mhaith - Yes
-Níor mhaith - No
-
-Seanfhocail Chlár 8:
-Beidh a cuid féin ag an fharraige - The sea will have its own.
-
-eile - another
-bus eile - another bus
-briosca eile - another biscuit
-ceann eile - another one
-clár eile - another programme
-gúna eile - another dress
-
-Tá mo sháith agam. - I’ve had my fill. / I’ve had enough.
-cupán eile tae - another cup of tea
-rud ar bith eile - anything else
-
-Ar mhaith leat briosca? - Would you like a biscuit?
-Ba mhaith, le do thoil. Tá siad iontach deas. - Yes, please. They’re very nice.
-Ar mhaith leat ceann eile? - Would you like another one?
-Níor mhaith, go raibh maith agat. Tá mo sháith agam. - No, thanks. I’ve had enough.
-Ar mhaith leat cupán eile tae? - Would you like another cup of tea?
-Ar mhaith leat rud ar bith eile? - Would you like anything else?
+|Ar mhaith leat briosca? - Would you like a biscuit?
+|Ba mhaith, le do thoil. Tá siad iontach deas. - Yes, please. They’re very nice.
+|Ar mhaith leat ceann eile? - Would you like another one?
+|Níor mhaith, go raibh maith agat. Tá mo sháith agam. - No, thanks. I’ve had enough.
+|Ar mhaith leat cupán eile tae? - Would you like another cup of tea?
+|Ar mhaith leat rud ar bith eile? - Would you like anything else?
 
 # Lesson 9 - 
 
