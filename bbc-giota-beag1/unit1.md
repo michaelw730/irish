@@ -26,7 +26,7 @@
 |te|hot
 |iontach|extremely / very ||intach
 |iontach fuar|very cold
-|iontach fliuch|very wet
+|iontach fliuch|very wet|| fyuach??
 |iontach te|very hot
 |tá sé i Srón Ramhar|He is in Srón Ramhar / Stranraer
 |anois|now
@@ -73,6 +73,32 @@
 |tá sé /sí / siad go maith|He / she / they are well
 |sa chuisneoir|in the fridge
 |ar an tábla|on the table
-|thart an coirnéal|around the corner
-|bomaite|a minute
+|thart an coirnéal|around the corner| hort an cornyal
+|bomaite|a minute|
 |fan bomaite|wait a minute
+|tá sé sa chuisneouir| it is on the table
+|An bhfuil sé sa chuisneoir?| Is it on the table?
+
+# Lesson 6 - Take it easy
+
+| Irish | English | Phonetic | Sound |
+| ------| ------- | -------- | ----- |
+|aon|one||
+|dó|two||
+|trí|three||
+|ceathar|four||
+|cúig|five||
+|sé|six||
+|seacht|seven||
+|hocht|eight||
+|naoi|nine||
+|deich|ten||
+|aondéag|eleven||
+|dó dhéag|twelve| doe yeag|
+|rang a sé |class (or primary) six/sixth class||
+|clár|programme||
+|seomra|room||
+|cá bhfuil seomra a hocht?|where is room eight?||
+|tóg go bog é!|take it easy||
+|tá sé fuar|It is cold
+|An bhfuil sé fuar|Is it cold?
