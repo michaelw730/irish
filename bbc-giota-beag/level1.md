@@ -2,32 +2,35 @@
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-| Fáilte! | Welcome! |
-| Éist! | Listen!
+|giota beag| a little bit|gitta big
+|Fáilte! | Welcome! |
+|Éist! | Listen!
 |Is mise Róisín|I am Róisín|
 |Cad é mar atá tú?|Hello How are you?
 |Cad é mar atá Colm?|How's Colm?
-|Tá mé go maith!|I'm very well!
-|Agus tú féin?|And yourself?  |Agus tu hain
+|Tá mé go maith!|I'm well/good!
+|Agus tú féin?|And yourself?  |Agus tu hain?
 |Go maith|Well
 |Slán!|Bye!
+|Dia duit | Hello |  |  |
+|> Dia is Muire duit! | Hello to you too |  |  |
 
 # Lesson 2 - A cup of coffee please!
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-|go raibh maith agat|Thank you
+|go raibh maith agat|Thank you/thanks
 |cupán tae|a cup of tea
 |Cupán caifé le do thoil|a cup of coffee please
 |le do thoil|please
 |Tá sé...|it is...
 |fuar|cold
 |fliuch|wet
-|te|hot
-|iontach|extremely / very ||intach
+|te|hot|chay
+|iontach|extremely / very |intach|inta
 |iontach fuar|very cold
-|iontach fliuch|very wet|| fyuach??
-|iontach te|very hot
+|iontach fliuch|very wet| flyuach??
+|iontach te|very hot|ta shay chay
 |tá sé i Srón Ramhar|He is in Srón Ramhar / Stranraer
 |anois|now
 |is maith sin!|that's good! (smashing!)
@@ -45,6 +48,7 @@
 |Níl mé pósta|I'm not married
 |Tá mac agus iníon agam|I have a son and a daughter | nying
 |Tá mé ag obair|I am working
+|Oíche mhaith|Good night|e-ha why
 
 # Lesson 4 - Would you like a biscuit?
 
