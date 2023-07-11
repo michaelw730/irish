@@ -5,11 +5,12 @@
 |giota beag| a little bit|gitta big
 |Fáilte! | Welcome! |
 |Éist! | Listen!
+|céad míle fáilte| Hundred thousand welcomes|
 |Is mise Róisín|I am Róisín|
 |Cad é mar atá tú?|Hello How are you?
 |Cad é mar atá Colm?|How's Colm?
-|Tá mé go maith!|I'm well/good!
-|Agus tú féin?|And yourself?  |Agus tu hain?
+|Tá mé go maith!|I'm well/good!Taa may go mye!
+|Agus tú féin?|And yourself?|Agus tu hain?
 |Go maith|Well
 |Slán!|Bye!
 |Dia duit | Hello |  |  |
@@ -20,10 +21,13 @@
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
 |go raibh maith agat|Thank you/thanks
-|cupán tae|a cup of tea
-|Cupán caifé le do thoil|a cup of coffee please
+|tae|tea
+|caifé|coffee
 |le do thoil|please
-|Tá sé...|it is...
+|cupán tae|a cup of tea
+|Cupán caifé|a cup of coffee
+|Cupán caifé le do thoil|a cup of coffee please
+|Tá sé...|it is...|taa shay
 |fuar|cold
 |fliuch|wet
 |te|hot|chay
@@ -33,21 +37,28 @@
 |iontach te|very hot|ta shay chay
 |tá sé i Srón Ramhar|He is in Srón Ramhar / Stranraer
 |anois|now
-|is maith sin!|that's good! (smashing!)
+|is maith sin!|that's good! (smashing!)|is maoy shin
+|tá| [to agree with the weather]
 
 # Lesson 3 - I like shopping!
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
 |Tá mé i mo chónaí|I live| ta may mo howney
+|Tá mé ag obair|I am working
 |i mBéal Feirste in Béal Feirste|Belfast
-|Is maith liom sacar|I like soccer
+|Is maith liom ...|I like ...
 |siopadóireacht|shopping
+|sacar|soccer
+|Is maith liom sacar|I like soccer
 |agus|and
+|pósta|married
 |Tá mé pósta|I'm married
 |Níl mé pósta|I'm not married
-|Tá mac agus iníon agam|I have a son and a daughter | nying
-|Tá mé ag obair|I am working
+|mac|son
+|iníon|daughter| nying
+|Tá mac agam|I have a son |
+|Tá mac agus iníon agam|I have a son and a daughter 
 |Oíche mhaith|Good night|e-ha why
 
 # Lesson 4 - Would you like a biscuit?
