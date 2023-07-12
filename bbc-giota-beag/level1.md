@@ -66,26 +66,36 @@
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
 |ar mhaith leat...?|Would you like...?| air why lat?
-|Ba mhaith / níor mhaith|Yes / No
+|Ba mhaith |Yes [in terms of above] | ba why
+|níor mhaith|No [in terms of above] |nior why
 |ba mhaith liom|I would like
 |níor mhaith liom|I wouldn't like
 |siúcra|sugar
 |bainne|milk
 |briosca|a biscuit|briska
+|ádh mór ort|good luck|???
 
 # Lesson 5 - Wait a minute
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-| gabh mo leithscéal|Excuse me
+| gabh mo leithscéal|Excuse me|go ma layskul
+|leithreas|toilet|laychras
 |cá bhfuil...?|Where is...?
-|cá bhfuil an bainne / an siúcra?|Where is the milk / the sugar?
+|cá bhfuil an bainne?|Where is the milk?
+|cá bhfuil an siúcra?|Where is the sugar?
 |cá bhfuil an leithreas?|Where is the toilet?
 |cá bhfuil Úna?|Where is Úna?
-|níl a fhios agam|I don't know
-|cá bhfuil sí / sé / siad?|Where is she / he / they?
+|níl a fhios agam|I don't know|neil us agam
+|cá bhfuil sí?|Where is she?
+|cá bhfuil sé?|Where is he?
+|cá bhfuil siad?|Where are they?
 |cad é mar atá Úna?|How is Úna?
-|tá sé /sí / siad go maith|He / she / they are well
+|tá sé go maith|He is well
+|tá sí go maith|She is well
+|tá siad go maith|They are well
+|sa |in the
+|ar an |on the
 |sa chuisneoir|in the fridge
 |ar an tábla|on the table
 |thart an coirnéal|around the corner| hort an cornyal
@@ -98,6 +108,7 @@
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
+|NUMBERS
 |aon|one||
 |dó|two||
 |trí|three||
@@ -110,11 +121,13 @@
 |deich|ten||
 |aondéag|eleven||
 |dó dhéag|twelve| doe yeag|
+||
 |rang a sé |class (or primary) six/sixth class||
 |clár|programme||
 |seomra|room||
 |cá bhfuil seomra a hocht?|where is room eight?||
 |tóg go bog é!|take it easy|toag go boag ay|
+||
 |tá sé fuar|It is cold
 |An bhfuil sé fuar|Is it cold?
 
@@ -125,39 +138,48 @@
 | ------| ------- | -------- | ----- |
 |a haon a chlog|one o' clock
 |tá sé a haon a chlog|it's one o' clock
-|ceathrú i ndiaidh a haon|a quarter past one| ceahroo i nyay
+|ceathrú i ndiaidh|a quarter past| ceahroo i nyay
+|ceathrú i ndiaidh a haon|a quarter past one
+|leath i ndiaidh|half past| la i nyay
 |leath i ndiaidh a haon|half past one| la i nyay
-|Dean deifir. Tá muid mall|Hurry up. We're late| Jan jeffer
+|Dean deifir. |Hurry up.| Jan jeffer
+|Tá muid mall|We're late
+|Dean deifir. Tá muid mall|Hurry up. We're late
 |Cén t-am é?|What time is it?
 |Cén t-am?|What time?
 |ban|white|buan
 |buí|yellow| bwee
 |glas|green
 |gorm|blue|gorim??
-|dubh|black|dove
+|dubh|black|doo??
 
 # Lesson 8 - Days of the week
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-|ceathrú go dtí|a quarter to
+|ceathrú go dtí|a quarter to|ceahroo go gee
 |tá sé ceathrú go dtí|it's a quarter to
 |ar a seacht a chlog|at 7 o'clock
 |ar ceathrú go dtí a (seacht)|at a quarter to (seven)
 |ar leath I ndiaidh|at half past
+||
 |Dé Luain|Monday| je luan
-|Dé Máirt|Tuesday | je march
+|Dé Máirt|Tuesday | je mwarch
 |Dé Céadaoin|Wednesday| je ceadine
 |Déardaoin|Thursday|jeardine
 |Dé hAoine|Friday| je heanya 
 |Dé Sathairn|Saturday|je sahern
 |Dé Domhnaigh|Sunday|je doughny
+||
 |beidh ceilí ann|there will be a ceili
 |beidh diosco ann Dé Máirt|there will be a disco on Tuesday
 |beidh Blas ann|Blas will be on
 |ar leath i ndiaidh a seacht|at half past seven
+|ar a seacht a chlog go dtí a hocht a chlog|at 7 o'clock to 8 o'clock|???may not be right
+||
 |rua|red haired
 |fionn|fair haired
+||
 |sláinte!|cheers!
 
 # Lesson 9 - Today, tomorrow yesterday
@@ -167,11 +189,12 @@
 |Tá Blas ann|Blas is on (at this minute)
 |bhí Blas ann|Blas was on|vee Blas on
 |beidh Blas ann|Blas will be on|bay Blas on
-|amárach|tomorrow|amwarach
-|inniu|today|in-u
 |inné|yesterday|in-ay
-|anocht|tonight
-|aréir|last night
+|aréir|last night|a-rare
+|inniu|today|in-u
+|anocht|tonight|anokt
+|amárach|tomorrow|amwarach
+|bhí Blas ann inné|Blas was on yesterday
 |maith go leor|alright/okay|my go lyor
 
 # Lesson 10 - Phone calls
@@ -277,7 +300,7 @@
 |Cé mhéid atá ar sin?|How much is that?
 |Is maith sin|That's great
 |Oíche mhaith|Good night
-|ádh mór|good luck
+|ádh mór|good luck|???
 |Fan bomaite|Wait a minute
 |Tóg go bog é|Take it easy
 |Sláinte|cheers
