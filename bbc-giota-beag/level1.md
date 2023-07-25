@@ -15,6 +15,8 @@
 |Slán!|Bye!
 |Dia duit | Hello |  |  |
 |> Dia is Muire duit! | Hello to you too |  |  |
+|Tá fáilte romhat| you're welcome
+|Fáilte go Giota Beag | Welcome to Giota Beag |
 
 # Lesson 2 - A cup of coffee please!
 
@@ -122,9 +124,12 @@
 |aondéag|eleven||
 |dó dhéag|twelve| doe yeag|
 ||
+|rang|class (or primary)||
 |rang a sé |class (or primary) six/sixth class||
 |clár|programme||
+|clár a sé|programme six||
 |seomra|room||
+|seomra a sé|room six||
 |cá bhfuil seomra a hocht?|where is room eight?||
 |tóg go bog é!|take it easy|toag go boag ay|
 ||

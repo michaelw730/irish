@@ -27,14 +27,16 @@
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-|Laethannta saoire|Holidays
+|Laethannta saoire|Holidays|lehanta seera
 |Cá raibh tú ar laethannta saoire?|Where were you on holidays?
 |Bhí mé sa Spáinn, ar feadh seachtaine.|I was in Spain, for a week.
 |Bhí mé i nGaillimh, ar feadh coicíse.|I was in Galway, for a fortnight.
 |Bhí sé iontach te.|It was very hot.
 |Bhí sé fuar.|It was cold.
+|an aimsir|the weather
 |Bhí an aimsir ar fheabhas.|The weather was brilliant.
 |Tá sé ag éirí fuar.|It's getting cold.
+|galanta|beautiful
 |Bhí an aimsir galanta.|The weather was beautiful.
 
 # Lesson 4 - 
