@@ -213,8 +213,8 @@
 |cuir scairt ghutháin orm|phone me|koor scart..
 |ba mhaith liom labhairt le ...|I'd like to speak to ...
 |Cé atá ag caint?|who's speaking?
-|
-|MUSICAL INSTRUMENTS
+||
+|MUSICAL INSTRUMENTS|
 |bodhrán|bodhran|boaran
 |píb uillinn|uillean pipes|peeb illan
 |bosca ceoil|squeeze box|boxa ceoil
