@@ -81,7 +81,9 @@
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-| gabh mo leithscéal|Excuse me|go ma layskul
+|gabh mo leithscéal|Excuse me|go ma layskul
+|bainne|milk
+|siúcra|sugar
 |leithreas|toilet|laychras
 |cá bhfuil...?|Where is...?
 |cá bhfuil an bainne?|Where is the milk?
@@ -97,14 +99,14 @@
 |tá sí go maith|She is well
 |tá siad go maith|They are well
 |sa |in the
-|ar an |on the
 |sa chuisneoir|in the fridge
+|ar an|on the
 |ar an tábla|on the table
 |thart an coirnéal|around the corner| hort an cornyal
 |bomaite|a minute|
 |fan bomaite|wait a minute
-|tá sé sa chuisneouir| it is on the table
-|An bhfuil sé sa chuisneoir?| Is it on the table?
+|tá sé ar an tábla| it is on the table
+|An bhfuil sé ar an tábla?| Is it on the table?
 
 # Lesson 6 - Take it easy!
 
@@ -207,6 +209,7 @@
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
 |guthán|phone|guhan
+|uimhir|number|ever
 |uimhir ghutháin|phone number|ever goohan??
 |Cad é an uimhir ghutháin atá agat?|what's your phone number?
 |scairt ghutháin|phone call
@@ -228,11 +231,13 @@
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
 |Tar isteach|come in
+|doras|door
+|fhuinneog|window|inyug??
 |Druid an doras|close the door
-|Suígh síos|sit down|see shees
 |Oscail an doras|open the door
-|Druid an fhuinneog|close the window|inyug??
+|Druid an fhuinneog|close the window
 |Oscail an fhuinneog|open the window
+|Suígh síos|sit down|see shees
 |Bí maith|be good
 |Bí ciúin|be quiet
 |Bí cúramach|be careful
@@ -244,8 +249,10 @@
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-|ionta bainne|a pint of milk|punta/pinta? bawnya
-|Builín aráin|a loaf of bread|boolyeen aran
+|pionta|a pint|punta/pinta? 
+|pionta bainne|a pint of milk|punta/pinta? bawnya
+|Builín|a loaf|boolyeen
+|Builín arán|a loaf of bread|boolyeen aran
 |Stampa|a stamp
 |Punt|a pound
 |pingin|pence
@@ -261,13 +268,14 @@
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
 |Cá bhfuil tú ag dul?|Where are you going?
-|Tá mé ag dul go dtí ...|I'm going to ...
-|Tá mé ag dul go dtí an siopa/an banc|I'm going to the shop/ the bank
 |an siopa|the shop
 |an banc|the bank
 |an leabharlann|the library
 |an linn snámha|the swimming pool
 |an cluiche peile|the football match
+|Tá mé ag dul go dtí ...|I'm going to ...
+|Tá mé ag dul go dtí an siopa|I'm going to the shop
+|Tá mé ag dul go dtí an banc|I'm going to the bank
 |Tuigim|I do understand
 |An dtuigeann tú?|Do you understand?
 |Le Bríd|with Bríd
@@ -283,7 +291,8 @@
 |cad é ba mhaith leat le hól?|What would you like to drink?
 |pionta|a pint
 |gloine|a glass
-|glione fíona/gloine uisce|a glass of wine/ a glass of water
+|gloine uisce|a glass of water
+|glione fíona|a glass of wine
 |fosta|also, as well
 |Lá Fhéile Bríde|St. Brigid's Day
 |Lúnasa|August

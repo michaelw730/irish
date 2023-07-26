@@ -40,6 +40,7 @@
 |Bhí an aimsir galanta.|The weather was beautiful.
 
 # Lesson 4 - 
+Learn how to say what you did on your holidays and find out what the phrase of the week bhí craic mhaith ann means.
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
