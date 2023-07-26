@@ -34,8 +34,8 @@
 |fuar|cold
 |fliuch|wet
 |te|hot|chay
-|+ gaofar|windy|?
-|iontach|extremely / very |intach|inta
+|+ gaofar|windy|gayfor?
+|iontach|extremely / very |inta?
 |iontach fuar|very cold
 |iontach fliuch|very wet| flyuach??
 |iontach te|very hot|ta shay chay
