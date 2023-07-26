@@ -6,6 +6,7 @@
 |Fáilte! | Welcome! |
 |Éist! | Listen!
 |céad míle fáilte| Hundred thousand welcomes|
+|Is mise ...|I am ...|
 |Is mise Róisín|I am Róisín|
 |Cad é mar atá tú?|Hello How are you?
 |Cad é mar atá Colm?|How's Colm?
@@ -23,9 +24,9 @@
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
 |go raibh maith agat|Thank you/thanks
+|le do thoil|please
 |tae|tea
 |caifé|coffee
-|le do thoil|please
 |cupán tae|a cup of tea
 |Cupán caifé|a cup of coffee
 |Cupán caifé le do thoil|a cup of coffee please
@@ -33,6 +34,7 @@
 |fuar|cold
 |fliuch|wet
 |te|hot|chay
+|+ gaofar|windy|?
 |iontach|extremely / very |intach|inta
 |iontach fuar|very cold
 |iontach fliuch|very wet| flyuach??
@@ -40,7 +42,7 @@
 |tá sé i Srón Ramhar|He is in Srón Ramhar / Stranraer
 |anois|now
 |is maith sin!|that's good! (smashing!)|is maoy shin
-|tá| [to agree with the weather]
+|tá|Yes [to agree with the weather]
 
 # Lesson 3 - I like shopping!
 
