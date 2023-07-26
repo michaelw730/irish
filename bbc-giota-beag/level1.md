@@ -51,9 +51,9 @@
 |Tá mé i mo chónaí|I live| ta may mo howney
 |Tá mé ag obair|I am working
 |i mBéal Feirste in Béal Feirste|Belfast
-|Is maith liom ...|I like ...
 |siopadóireacht|shopping
 |sacar|soccer
+|Is maith liom ...|I like ...
 |Is maith liom sacar|I like soccer
 |agus|and
 |pósta|married
@@ -84,8 +84,6 @@
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
 |gabh mo leithscéal|Excuse me|go ma layskul
-|bainne|milk
-|siúcra|sugar
 |leithreas|toilet|laychras
 |cá bhfuil...?|Where is...?
 |cá bhfuil an bainne?|Where is the milk?
