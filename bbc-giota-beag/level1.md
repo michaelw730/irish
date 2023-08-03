@@ -310,9 +310,12 @@
 |cad é ba mhaith leat le hól?|What would you like to drink?
 |pionta|a pint
 |gloine|a glass
+|uisce|water
+|fíona|wine
 |gloine uisce|a glass of water
 |glione fíona|a glass of wine
-|fosta|also, as well
+|ba mhaith leat pionta, le do thoil|What would you like to drink?
+|fosta|also/as well
 |Lá Fhéile Bríde|St. Brigid's Day
 |Lúnasa|August
 |Samhain|November
@@ -333,7 +336,7 @@
 |Cé mhéid atá ar sin?|How much is that?
 |Is maith sin|That's great
 |Oíche mhaith|Good night
-|ádh mór|good luck|???
+|ádh mór ort|good luck|???
 |Fan bomaite|Wait a minute
 |Tóg go bog é|Take it easy
 |Sláinte|cheers
