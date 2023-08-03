@@ -319,7 +319,7 @@
 |Lá Fhéile Bríde|St. Brigid's Day
 |Lúnasa|August
 |Samhain|November
-|Go ndéana a mhaith duit|you're welcome (may it do you good)
+|Go ndéana a mhaith duit|you're welcome/may it do you good/don't mention it
 
 # Lesson 15 - The pub
 
