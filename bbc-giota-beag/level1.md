@@ -143,7 +143,7 @@
 |+seachtó|seventy|shock toe
 |+ochtó|eighty|uck toe
 |+nócha|ninety|noe-kah
-|+céad|hundres|cay-d
+|+céad|hundred|cay-d
 ||
 |rang|class (or primary)||
 |rang a sé |class (or primary) six/sixth class||
