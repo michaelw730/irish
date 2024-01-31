@@ -53,8 +53,8 @@
 |Cá háit ar rugadh thú?|Where were you born?||
 |> Rugadh i $PLACE-OBJ mé.|I was born in $PLACE.||
 ||||
-|Ar tógadh i $PLACE-OBJ thú?|Where you brought up in $PLACE?||
-|Ar tógadh thusa i $PLACE-OBJ?|Where you brought up in $PLACE?||
+|Ar tógadh i $PLACE-OBJ thú?|Were you brought up in $PLACE?||
+|Ar tógadh thusa i $PLACE-OBJ?|Were you brought up in $PLACE?||
 |> Tógadh|||
 |> Nior Tógadh.  Tógadh i $PLACE mé.|No.  I was brought up in $PLACE||
 |> Nior Tógadh.  Tógadh thall i $PLACE-OBJ mé.|No.  I was brought up over in $PLACE||
