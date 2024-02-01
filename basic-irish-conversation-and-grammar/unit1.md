@@ -29,7 +29,7 @@
 |Cárb as thú féin?|Where are you from yourself?|Carb ass who hain?|
 |Cárb as thú, a $NAME?|Where are you from, $NANE?|Carb ass who, $NAME?|
 |> Is as $PLACE mé.|I am from $PLACE.||
-|Cárb as é?|Where is she from?|Carb ass ay?|
+|Cárb as é?|Where is he from?|Carb ass ay?|
 |>Silim gur is as $PLACE é.|I think he is from $PLACE.||
 |Cárb as í?|Where is she from?|Carb ass e?|
 |Cárb as iad?|Where are they from?|Carb ass ead?|
@@ -37,7 +37,7 @@
 |Cad é an obair atá agat?| What do you work at?||
 |Cad é an obair atá agat féin?| What do you work at yourself? or, What do you do yourself?||
 |Cad é an obair atá agat féin, a $NAME?| What do you work at yourself, $NAME?||
-|> Is $OCCUPATION mé.|I am a $OCCUPATION||
+|> Is $OCCUPATION mé.|I am a $OCCUPATION.||
 ||||
 |Gabh mo leithscéal|Excuse me||
 ||||
@@ -55,9 +55,9 @@
 ||||
 |Ar tógadh i $PLACE-OBJ thú?|Were you brought up in $PLACE?||
 |Ar tógadh thusa i $PLACE-OBJ?|Were you brought up in $PLACE?||
-|> Tógadh|||
-|> Nior Tógadh.  Tógadh i $PLACE mé.|No.  I was brought up in $PLACE||
-|> Nior Tógadh.  Tógadh thall i $PLACE-OBJ mé.|No.  I was brought up over in $PLACE||
+|> Tógadh|Yes or Brought up||
+|> Nior Tógadh.  Tógadh i $PLACE mé.|No.  I was brought up in $PLACE.||
+|> Nior Tógadh.  Tógadh thall i $PLACE-OBJ mé.|No.  I was brought up over in $PLACE.||
 ||||
 ||||
 ||||
