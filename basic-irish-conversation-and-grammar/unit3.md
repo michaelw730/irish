@@ -54,6 +54,18 @@
 |>Ceart go leor, a mháthair|Alright mother||
 |>Tá mé ar mo bhealach síos|I am on my way down||
 ||||
+|Cá háit a raibh tú i do chónaí anseo anuraidh, a $NAME?|Where were you living last year, $NAME?||
+|>Bhí mé imo chónaí sna hallaí|I was living in the halls||
+|Cá háit a raibh tusa i do chónaí, a $NAME?|Where were you living, $NAME?||
+|>Bhí mé imo chónaí in árasán i $PLACE|I was living in a flat in $PLACE||
+||||
+|Cá háit a mbeadh tú i do chónaí i mbliana?|Where will you be living this year?||
+|>Fuair mé féin agus triur eile teach i $PLACE agus beidh muid [beimid] inár gcónaí ansin|Myself and three others got a house in $PLACE and we will be living there||
+|Cá háit a mbeadh tú féin i do chónaí i mbliana?|Where will you be living this year yourself?||
+|>Beidh mé i mo chónaí san áit chéanna, mar is maith liom $PLACE|I shall be living in the same place because I like $PLACE||
+||||
+||||
+||||
 ||||
 ||||
 ||||
