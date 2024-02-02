@@ -113,37 +113,3 @@
 ||||
 
 
-## Places
-
-### Counties
-|Irish|English|Phonetic|Sound|
-|------|-------|--------|-----|
-|Doire > nDoire|Derry||
-|Baile Átha Cliath > mBaile Átha Cliath|Dublin||
-|Gaillimh|Galway||
-|Ard Mhacha|||
-||||
-
-### Cities/Towns etc
-|Irish|English|Phonetic|Sound|
-|------|-------|--------|-----|
-|Gleann Gormliath|Glengormley||
-|Gaoth Dobhair > nGaoth Dobhair|Gweedore||
-|Birmingham|Birmingham||
-|Gort an Choirce|Gortahork||
-|Leitir Ceanainn|Letterkenny||
-|Cnoc Fola|Bloody Foreland||
-| > mBéal Feirste|Belfast||
-|> nGlaschú|Glasgow||
-||||
-||||
-
-
-### Countries
-|Irish|English|Phonetic|Sound|
-|------|-------|--------|-----|
-||||
-||||
-||||
-||||
-||||
