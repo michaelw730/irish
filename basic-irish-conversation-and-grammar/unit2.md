@@ -4,10 +4,12 @@
 |------|-------|--------|-----|----|
 |Cad é mar atá tú?|How are you?||
 |Cad é mar atá tú féin?|How are you yourself?||
+|Cad é mar atá $NAME?|How is $NAME?||
 |>Tá mé go maith|I am well/good||
 |>Tá mé go breá|I am fine||
 |>Tá mé go measaratha|I am reasonable/middling||
-|>Níl caill arm|I am not too bad (or There's no loss upon me||
+|>Tá sé i gceart|She is rightly||
+|>Níl caill orm|I am not too bad (or There's no loss upon me)||
 |>Níl maith go maith|I am not well||
 |Is maith sin|That's good||
 |Go raibh maith agat|Thank you||

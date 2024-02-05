@@ -1,4 +1,4 @@
-# Unit 1
+# Unit 1 - Cé thusa?  Cárb as thú?
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -15,15 +15,17 @@
 |Cé hí sin?|Who is she?||
 |> Sin (í) $NAME.|She is $NAME.||
 |Cé hiad sin?|Who are they?||
-|> Sin (iad) $NAME.|They are $NAME agus $NAME.||
+|> Sin (iad) $NAME agus $NAME.|They are $NAME agus $NAME.||
 |Cé hé sin thall?|Who is he over there?||
 |Cé hé sin in aice leis?|Who is he beside him?||
 |Cé hé sin ag an dorus?|Who is he at the door?||
+||||
 ||||
 |Cad é an t-ainm atá ort?|What is your name?||
 |> $NAME|$NAME||
 |Cad é an t-ainm atá ort féin?|What is your own name?||
 |> $NAME|$NAME||
+||||
 ||||
 |Cárb as thú?|Where are you from?|Carb ass who?|
 |Cárb as thú féin?|Where are you from yourself?|Carb ass who hain?|
@@ -34,30 +36,36 @@
 |Cárb as í?|Where is she from?|Carb ass e?|
 |Cárb as iad?|Where are they from?|Carb ass ead?|
 ||||
+||||
 |Cad é an obair atá agat?| What do you work at?||
 |Cad é an obair atá agat féin?| What do you work at yourself? or, What do you do yourself?||
 |Cad é an obair atá agat féin, a $NAME?| What do you work at yourself, $NAME?||
 |> Is $OCCUPATION mé.|I am a $OCCUPATION.||
 ||||
+||||
 |Gabh mo leithscéal|Excuse me||
+||||
 ||||
 |Cá háit a bhfuil tú ag obair?|Where are you working?||
 |Cá háit a bhfuil tú fein ag obair?|Where are you working yourself?||
 |Cá háit a bhfuil tú ag teagasc?|Where are you teaching?||
 |> I scoil i $PLACE-OBJ|In a school in $PLACE-OBJ||
 ||||
+||||
 |Cad é an post atá agat?|What is your occupation?||
 |Cad é an tslí bheatha atá agat?|What is your occupation?||
 |> Is $OCCUPATION mé.| I am a $OCCUPATION.||
 ||||
+||||
 |Cá háit ar rugadh thú?|Where were you born?||
 |> Rugadh i $PLACE-OBJ mé.|I was born in $PLACE.||
 ||||
-|Ar tógadh i $PLACE-OBJ thú?|Were you brought up in $PLACE?||
-|Ar tógadh thusa i $PLACE-OBJ?|Were you brought up in $PLACE?||
-|> Tógadh|Yes or Brought up||
-|> Nior Tógadh.  Tógadh i $PLACE mé.|No.  I was brought up in $PLACE.||
-|> Nior Tógadh.  Tógadh thall i $PLACE-OBJ mé.|No.  I was brought up over in $PLACE.||
+||||
+|Ar tógadh i $PLACE-OBJ thú?|Were you brought up/reared in $PLACE?||
+|Ar tógadh thusa i $PLACE-OBJ?|Were you brought up/reared in $PLACE?||
+|> Tógadh|Yes or Brought up/reared||
+|> Nior Tógadh.  Tógadh i $PLACE mé.|No.  I was brought up/reared in $PLACE.||
+|> Nior Tógadh.  Tógadh thall i $PLACE-OBJ mé.|No.  I was brought up/reared over in $PLACE.||
 ||||
 ||||
 ||||
