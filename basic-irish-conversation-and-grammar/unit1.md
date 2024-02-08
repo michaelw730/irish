@@ -52,14 +52,17 @@
 |> I scoil i $PLACE-OBJ|In a school in $PLACE-OBJ||
 ||||
 ||||
-|Cad é an post atá agat?|What is your occupation?||
-|Cad é an tslí bheatha atá agat?|What is your occupation?||
+|Cad é an post atá agat?|What is your occupation/job?||
+|Cad é an tslí bheatha atá agat?|What is your occupation/job?||
 |> Is $OCCUPATION mé.| I am a $OCCUPATION.||
 ||||
 ||||
 |Cá háit ar rugadh thú?|Where were you born?||
 |> Rugadh i $PLACE-OBJ mé.|I was born in $PLACE.||
-||||
+|Cá háit ar rugadh d'athair?|Where was your father born?||
+|Cá háit ar rugadh do mháithair?|Where was your father born?||
+|Cá háit ar rugadh a bpáistí?|Where was their children born?||
+|> Rugadh i $PLACE-OBJ é.|He was born in $PLACE.||
 ||||
 |Ar tógadh i $PLACE-OBJ thú?|Were you brought up/reared in $PLACE?||
 |Ar tógadh thusa i $PLACE-OBJ?|Were you brought up/reared in $PLACE?||
@@ -67,8 +70,8 @@
 |> Nior Tógadh.  Tógadh i $PLACE mé.|No.  I was brought up/reared in $PLACE.||
 |> Nior Tógadh.  Tógadh thall i $PLACE-OBJ mé.|No.  I was brought up/reared over in $PLACE.||
 ||||
-||||
-||||
+|Sílim gur rugadh anseo i $PLACE-OBJ iad|I think they were born here in $PLACE||
+|Bhuel tógadh anseo iad ar scor ar bith|Well they were brought up here anyway||
 
 ## Names
 
@@ -90,9 +93,9 @@
 
 |Irish|English|Phonetic|Sound|
 |------|-------|--------|-----|
-|d'athairfather|||
-|mhamaí|mammy||
-|mháthair|mother||
+|athair|father||
+|>mhamaí|mammy||
+|máthair|mother||
 |páistí > bpáistí|children||
 | > mhic|son||
 
