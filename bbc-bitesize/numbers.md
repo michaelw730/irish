@@ -57,7 +57,7 @@
 |seacht / ocht / naoi mbliana déag|17-19 YEARS||
 |...
 |fiche bliain|20 YEARS||
-|bliain is fiche|21 YEARS|| 
+|aon bliain is fiche|21 YEARS|| 
 |dhá bhliain is fiche|22 YEARS||
 |trí / ceithre / cúig / sé bliana is fiche|23-26 YEARS||
 |seacht / ocht / naoi mbliana is fiche|27-29 YEARS||

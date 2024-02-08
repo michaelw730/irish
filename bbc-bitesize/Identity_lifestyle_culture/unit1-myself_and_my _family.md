@@ -41,14 +41,8 @@
 |lag|weak|lawg||
 
 ### General Colours
-|Irish|English|Phonetic|Sound|Info|
-|------|-------|--------|-----|----|
-|donn|brown
-|gorm|blue
-|liath|grey
-|cnódhonn|hazel
-|glas|green
-|dubh|black
+
+See colours.md
 
 ### Hair colour/style
 
@@ -66,6 +60,7 @@
 |Tá féasóg orm|I have a beard
 
 ### Eye Style
+
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Caithim spéaclaí|I wear glasses
@@ -139,6 +134,7 @@
 |Mo theaghlach| My family
 |athair|father
 |máthair|mother
+| > mhamaí?|mum?
 |deirfiúr|sister
 |deartháir|brother
 |seanathair|grandfather
