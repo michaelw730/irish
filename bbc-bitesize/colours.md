@@ -19,3 +19,4 @@
 |gorm|blue|||
 |dearg|red|||
 |cnódhonn|hazel|||
+| oráiste | orange | orawshta? |  |
