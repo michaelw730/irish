@@ -6,38 +6,52 @@
 |------|-------|--------|-----|----|
 |Tá mé ...|I am ...||
 |Níl mé ...|I am not ...||
-|Sílim go bhfuil mé ...|I think that I am ...||
-|Sílim nach bhfuil mé ...|I think that I am not ...||
-|Deir mo mhamaí go bhfuil mé ...|My mum says that I am ...||
+|Sílim go bhfuil mé ...|I think that I am ...|Sheelim go will may..|
+|Sílim nach bhfuil mé ...|I think that I am not ...|Sheelim nack will may..|
+|Deir mo mhamaí go bhfuil mé ...|My mum says that I am ...|Jer mo wamy go will may..|
+|Deir mo dhaidí go bhfuil mé ...|My dad says that I am ...||
+|Deir mo chara go bhfuil mé ...|My friend says that I am ...||
 ||||
 |Cad é an t-ainm atá ort?|What is your name?||
 |>$NAME an t-ainm atá orm.| My name is $NAME
-|Cad é an sloinne atá ort?|What is your surname?||
+|Cad é an sloinne atá ort?|What is your surname?|..slinye..|
 |>$NAME an sloinne atá orm.| My surname is $NAME
 ||
 |Cén aois thú?|What is your age?||  
 |>Tá mé $AGE d’aois.| I am $AGE of age.
-|Tá cuma óg/shean orm do m’aois|I appear young/old for my age||  
+|>Tá mé dhá bhliain is daichead d’aois.| I am 42 of age.
+|>....faoi láthair| ...at present
+|>bíonn mo bhreithlá ann i mí an Mhárta gach bliain|my birthday is in March every year
+bliain
+|Tá cuma óg orm do m’aois|I appear young for my age||  
+|Tá cuma shean orm do m’aois|I appear old for my age||  
 ||
-|Déan cur síos ort féin go fisiciúil.|Describe yourself physically.
+|Déan cur síos ort féin.|Describe yourself.|Jan cur shees ort hain|  
+|Déan cur síos ort féin go fisiciúil.|Describe yourself physically.||  
 ||
-|Cén dath atá ar do chuid gruaige?|What colour is your hair?
-|Tá mo chuid gruaige...|My hair is...
+|Cén dath atá ar do chuid gruaige?|What colour is your hair?||  
+|Tá mo chuid gruaige...|My hair is...|Ta mo hudge grooiga..|  
+|Tá dath $COLOUR ar mo chuid gruaige|My hair is $COLOUR
 ||
-|Cén dath atá ar do shúile?|What colour are your eyes?
-|Tá mo shúile...|My eyes are...
+|Cén dath atá ar do shúile?|What colour are your eyes?||  
+|Tá mo shúile...|My eyes are...|Ta mo hula..|   
+|...fosta|...as well|fosta|  
+||
+|Cuir Béarla ar na habairtí seo.|Write these sentences in English.||
+
+
 
 ### Adjectives to describe yourself
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |ard|tall|aird||
-|beag|small|beug||
+|beag|small|beug? or bug?||
 |tanaí|slim|tany||
 |ramhar|fat|rawer||
 |óg|young|owg||
 |sean|old|shan||
-|láidir|strong|laydger||
+|láidir|strong|ladger||
 |lag|weak|lawg||
 
 ### General Colours
@@ -48,12 +62,12 @@ See colours.md
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|díreach|straight
-|catach|curly
-|fada|long
+|díreach|straight|Jiroch
+|catach|curly|catack
+|fada|long|fada
 |gairid|short
 ||
-|fionn|blonde
+|fionn|blonde|finn
 |rua|red/ginger
 ||
 |Tá mé maol|I am bald
@@ -70,27 +84,38 @@ See colours.md
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
+|Cén sórt duine thú?|What type of person are you?
+|Déan cur síos ort féin maidir le tréithe pearsantachta.|Describe your personality traits.||
+||
+|Déan cur síos ort féin |Describe yourself||
+||
 |Maidir le tréithe pearsantachta,	|As regards personality traits,
 |thig liom a bheith ...	|I can be ...
 |sílim go bhfuil mé ...	|I think that I am ...
+|sílim nach bhfuil mé ...	|I think that I am not ...
+|Is duine spórtúil mé | I am a sporty person
+|síleann mo chairde go bhfuil mé maith ag an chamógaíocht|my friends think I am good at Camogie
+|Is fearr liom bheith ag canadh agus bheith ag éisteacht leis an raidió agus le ceol.|I prefer to sing and to listen to the radio and music.
 ||
-|cainteach|chatty
-|ciúin|quiet
-|cairdiúil|friendly
-|míchairdiúil|unfriendly
-|dícheallach|hard-working
-|falsa|lazy
-|greannmhar|funny
-|faiteach|shy / timid
-|ceanndána|headstrong / stubborn
-|cróga|brave
-|deas|nice
-|cliste|clever
-|bómánta|stupid
-|spórtúil|sporty
-|aibí|mature
-|mí-aibí|immature
-|neamhspleách|independent
+|cainteach|chatty||
+|ciúin|quiet||
+|cairdiúil|friendly||
+|míchairdiúil|unfriendly||
+|dícheallach|hard-working||
+|falsa|lazy||
+|greannmhar|funny||
+|faiteach|shy / timid||
+|ceanndána|headstrong / stubborn||
+|cróga|brave||
+|deas|nice||
+|cliste|clever||
+|bómánta|stupid||
+|spórtúil|sporty||
+|aibí|mature||
+|mí-aibí|immature||
+|neamhspleách|independent||
+||
+|Léigh an sliocht agus freagair fíor nó bréagach.|Read the passage and answer true or false.||
 
 
 ## family
@@ -98,6 +123,8 @@ See colours.md
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Cá mhéad duine atá i do theaghlach?|How many people are there in your family?
+|Tá mé i mo bhall de theaghlach measartha mór|I am a member of a fairly big family
+|Tá ceathrar i mo theaghlach, mo mháthair, m'athair, mo deirfiúr Aoife agus mé féin san áireamh.|There are four in my family, my mother, my father, my sister Aoife and myself included.
 |Tá _______ i mo theaghlach.|There are _______ in my family.
 |Tá ________ i mo theaghlach, mo ______ san áireamh.|There are ________ in my family, my ______ included.
 ||
@@ -137,6 +164,7 @@ See colours.md
 | > mhamaí?|mum?
 |deirfiúr|sister
 |deartháir|brother
+|dheartháireacha|brothers
 |seanathair|grandfather
 |seanmháthair|grandmother
 |leasathair|stepfather

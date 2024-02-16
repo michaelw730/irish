@@ -1,4 +1,20 @@
+The basic cardinal numbers in Irish, from 0 to 10 are:
+
+Náid (Nawj): Zero
+Aon (Ayn): One
+Dó (Doh): Two
+Trí (Tree): Three
+Ceathair (KYA-hir): Four
+Cúig (KOO-ig): Five
+Sé (Shay): Six
+Seacht (Shakht): Seven
+Ocht (Awkht): Eight
+Naoi (Nee): Nine
+Deich (Jeh): Ten
+
 # Numbers
+
+Counting numbers you need the a...
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
@@ -74,3 +90,21 @@
 * As above, some numbers require a change to the word bliain (year)   —  an added   séimhiú (added “h” after second letter), or urú (added letter before word, in this case “m”), or another change in pronunciation (added “a” at the end or second “i” is dropped  e.g. bliana)
 * If you want to say what age you are, you add d’aois (age) e.g. Tá mé seacht mbliana is fiche d’aois.
 * The number dhá is highlighted because it has changed from the ordinary number dó (two).
+
+
+## Ordinal numbers
+| Irish | English | Phonetic | Sound |
+| ------| ------- | -------- | ----- |
+|an chéad|	first
+|an dara|	second
+|an triú|	third
+|an ceathrú|	fourth
+|an cúigiú|	fifth
+|an séú|	sixth
+|an seachtú|	seventh
+|an t-ochtú|	eighth
+|an naoú|	ninth
+|an deichiú|	tenth
+|an t-aonú lá déag|	the eleventh day
+|an fichiú|	twentieth
+|an t-aonú lá is fiche|	the twenty-first day
