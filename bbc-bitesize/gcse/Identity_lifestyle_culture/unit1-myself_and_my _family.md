@@ -43,16 +43,7 @@ bliain
 
 ### Adjectives to describe yourself
 
-|Irish|English|Phonetic|Sound|Info|
-|------|-------|--------|-----|----|
-|ard|tall|aird||
-|beag|small|beug? or bug?||
-|tanaí|slim|tany||
-|ramhar|fat|rawer||
-|óg|young|owg||
-|sean|old|shan||
-|láidir|strong|ladger||
-|lag|weak|lawg||
+see traits.md
 
 ### General Colours
 
@@ -60,24 +51,13 @@ See colours.md
 
 ### Hair colour/style
 
-|Irish|English|Phonetic|Sound|Info|
-|------|-------|--------|-----|----|
-|díreach|straight|Jiroch
-|catach|curly|catack
-|fada|long|fada
-|gairid|short
-||
-|fionn|blonde|finn
-|rua|red/ginger
-||
-|Tá mé maol|I am bald
-|Tá féasóg orm|I have a beard
+see traits.md
+
 
 ### Eye Style
 
-|Irish|English|Phonetic|Sound|Info|
-|------|-------|--------|-----|----|
-|Caithim spéaclaí|I wear glasses
+see traits.md
+
 
 
 ## describing your personality traits

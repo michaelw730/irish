@@ -1,7 +1,7 @@
 # Describing myself
 
 
-Need to document https://www.bbc.co.uk/bitesize/topics/zjbt7yc/articles/zbhgf82
+Related https://www.bbc.co.uk/bitesize/topics/zjbt7yc/articles/zbhgf82
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -11,7 +11,6 @@ Need to document https://www.bbc.co.uk/bitesize/topics/zjbt7yc/articles/zbhgf82
 |gruaig|hair
 |Tréithe fisicúla|Physical traits
 |Tréithe pearsanta|Personality traits
-|Daoine eile sa teaghlach|Other people in the family
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -35,31 +34,48 @@ Need to document https://www.bbc.co.uk/bitesize/topics/zjbt7yc/articles/zbhgf82
 |Níl mo shúile...|My eyes are not...|Neel mo hula..|   
 |...fosta|...as well|fosta| 
 ||
-|tá mo shúile $COLOUR?|Are your eyes $COLOUR?
+|an bhfuil do shúile $COLOUR?|Are your eyes $COLOUR?
 
 
-** view unit 1 GCSE for traits
+see traits.md and colours.md for examples of such
 
-
+## Personality Traits
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|Conaím le mo mhamaí / mo dhaidí.|I live with my Mum / my Dad.
-|Conaíonn mo sheanmháthair linn.|Our grandmother lives with us.
-|Cá mhéad deartháir atá agat?|How many brothers do you have?
-|Tá deartháir amháin agam.|I have one brother.
-|Tá beirt / triúr / ceathrar / cúigear deartháir atá agam.|I have two / three / four / five brothers.
-|Cá mhéad deirfiúr atá agat?|How many sisters do you have?
-|Tá deirfiúr amháin agam.|I have one sister.
-|Tá beirt / triúr / ceathrar / cúigear deirfiúr atá agam.|I have one / two / three / four / five sisters.
-|Níl deartháir nó deirfiúr atá agam.|I don't have any brothers or sisters.
-|Is páiste aonair mé.|I'm an only child.
-|Is leathchúpla mé.|I'm a twin.
-|Cad é an t-ainm atá air / uirthi?|What is his / her name?
-|… an t-ainm atá air / uirthi.|… is his / her name.
-
-
-
+|Cén sórt duine thú?|What type of person are you?
+|Déan cur síos ort féin maidir le tréithe pearsantachta.|Describe your personality traits.||
+||
+|Déan cur síos ort féin |Describe yourself||
+||
+|Maidir le tréithe pearsantachta,	|As regards personality traits,
+|Tá mé ...|I am ...||
+|Níl mé ...|I am not ...||
+|thig liom a bheith ...	|I can be ...
+|sílim go bhfuil mé ...	|I think that I am ...
+|sílim nach bhfuil mé ...	|I think that I am not ...
+|Is duine spórtúil mé | I am a sporty person
+|síleann mo chairde go bhfuil mé maith ag an chamógaíocht|my friends think I am good at Camogie
+|Is fearr liom bheith ag canadh agus bheith ag éisteacht leis an raidió agus le ceol.|I prefer to sing and to listen to the radio and music.
+||
+|cainteach|chatty||
+|ciúin|quiet||
+|cairdiúil|friendly||
+|míchairdiúil|unfriendly||
+|dícheallach|hard-working||
+|falsa|lazy||
+|greannmhar|funny||
+|faiteach|shy / timid||
+|ceanndána|headstrong / stubborn||
+|cróga|brave||
+|deas|nice||
+|cliste|clever||
+|bómánta|stupid||
+|spórtúil|sporty||
+|aibí|mature||
+|mí-aibí|immature||
+|neamhspleách|independent||
+||
 
 
 
