@@ -1,13 +1,26 @@
 # Introductions and greeting people
 
+## Useful Basics
+
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Maidin.|morning.
 |Tráthnóna.|afternoon.|tranoana
 |Oíche|evening/night.
-|arís.| again.
-|amárach|tomorrow.
+||
+|inné|yesterday|in-ay
+|aréir|last night|a-rare
+|anocht|tonight|anokt
+|amárach|tomorrow|amwarach
 |inniu|today
+|anois|now
+||
+|arís.| again.
+||
+|le do thoil|please
+|Gabh mo leithscéal|Excuse me
+|Fan bomaite|Wait a minute
+|Tóg go bog é|Take it easy
 
 ## Greetings
 
@@ -23,6 +36,7 @@
 |Fáilte.|Welcome.
 |Slán!|Goodbye.
 |Slán go fóill|Goodbye for now||
+|Ádh mór|Good luck||
 |Ádh mór ort|Good luck to you||
 |Feicfidh mé arís thú.|I'll see you again.|Fecky may arish hu
 |Feicfidh mé amárach thú.|I'll see you tomorrow.|Fecky may amarach hu
@@ -31,19 +45,25 @@
 |------|-------|--------|-----|----|
 |Cad é mar atá tú?|How are you?
 |Cad é mar atá tú inniu?|How are you today?
+|Cad é mar atá tú féin?|How are you yourself?||
 |Tá mé…|I am…
 |Tá mé go maith.| I am good
+|Go maith|Well
+|maith go leor|very good|my go lyor
 |Níl mé go maith.| I am not good
-|Tá mé ceart go leor|I am OK
+|Tá mé ceart go leor|I am alright
 |Tá mé go holc. |I am awful
 |>Tá mé go measaratha|I am reasonable/middling||
 |>Tá mé go breá|I am fine||
-|>Tá sé i gceart|She is rightly||
+|>Tá sé i gceart|He is rightly||
 |>Níl caill orm|I am not too bad (or There's no loss upon me)||
 ||
-|Is maith sin|That's good||
+|Is maith sin|That's good/great||
 |Go raibh maith agat|Thank you||
 |Go raibh céad maith agat|Thank you very much||
+|Tá fáilte romhat| you're welcome
+||
+|Agus tú féin?|And yourself?|Agus tu hain?
 ||
 |Tá … orm.|I have … on me
 |Tá áthas orm.|I am happy.

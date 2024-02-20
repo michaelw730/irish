@@ -15,6 +15,7 @@ Related https://www.bbc.co.uk/bitesize/topics/zjbt7yc/articles/zbhgf82
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Cad é an t-ainm atá ort?|What is your name?||
+|Cad é an t-ainm atá ort féin?|What is your own name?||
 |>$NAME an t-ainm atá orm.| My name is $NAME
 |>Is mise $NAME|I am $NAME
 |Cad é an sloinne atá ort?|What is your surname?|..slinye..|
