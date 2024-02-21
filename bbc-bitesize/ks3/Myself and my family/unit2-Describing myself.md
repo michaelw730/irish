@@ -6,7 +6,8 @@ Related https://www.bbc.co.uk/bitesize/topics/zjbt7yc/articles/zbhgf82
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Na bunrudaí|The basics
-|Ainm|Name
+|ainm|Name
+|sloinne|surname
 |Súile|eyes
 |gruaig|hair
 |Tréithe fisicúla|Physical traits
@@ -18,8 +19,19 @@ Related https://www.bbc.co.uk/bitesize/topics/zjbt7yc/articles/zbhgf82
 |Cad é an t-ainm atá ort féin?|What is your own name?||
 |>$NAME an t-ainm atá orm.| My name is $NAME
 |>Is mise $NAME|I am $NAME
+|>Mise $NAME|I'm $NAME
 |Cad é an sloinne atá ort?|What is your surname?|..slinye..|
 |>$NAME an sloinne atá orm.| My surname is $NAME
+||
+|C'ainm atá ort? |What's your name?
+|C'ainm atá ortsa? What's *your* name?
+|>$NAME||||Usually just the name
+||
+|Cé thusa?|Who are you?|Kay husa?|
+||
+|Cé seo?|Who's this? (one person)
+|Cé hiad seo?|Who's this? (more than one person)
+|Seo $NAME|This is $NAME
 ||
 |Cén aois thú?|What is your age?||  
 |>Tá mé $AGE d’aois.| I am $AGE of age.
@@ -36,9 +48,9 @@ Related https://www.bbc.co.uk/bitesize/topics/zjbt7yc/articles/zbhgf82
 |...fosta|...as well|fosta| 
 ||
 |an bhfuil do shúile $COLOUR?|Are your eyes $COLOUR?
+||
 
-
-see traits.md and colours.md for examples of such
+see personal-traits.md and colours.md for examples of such
 
 ## Personality Traits
 
@@ -55,28 +67,12 @@ see traits.md and colours.md for examples of such
 |thig liom a bheith ...	|I can be ...
 |sílim go bhfuil mé ...	|I think that I am ...
 |sílim nach bhfuil mé ...	|I think that I am not ...
+||
 |Is duine spórtúil mé | I am a sporty person
 |síleann mo chairde go bhfuil mé maith ag an chamógaíocht|my friends think I am good at Camogie
 |Is fearr liom bheith ag canadh agus bheith ag éisteacht leis an raidió agus le ceol.|I prefer to sing and to listen to the radio and music.
 ||
-|cainteach|chatty||
-|ciúin|quiet||
-|cairdiúil|friendly||
-|míchairdiúil|unfriendly||
-|dícheallach|hard-working||
-|falsa|lazy||
-|greannmhar|funny||
-|faiteach|shy / timid||
-|ceanndána|headstrong / stubborn||
-|cróga|brave||
-|deas|nice||
-|cliste|clever||
-|bómánta|stupid||
-|spórtúil|sporty||
-|aibí|mature||
-|mí-aibí|immature||
-|neamhspleách|independent||
-||
+
 
 
 

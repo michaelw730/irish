@@ -35,9 +35,10 @@
 |Oíche mhaith.|Good evening/night.
 |Fáilte.|Welcome.
 |Slán!|Goodbye.
-|Slán go fóill|Goodbye for now||
+|Slán go fóill|Goodbye for now|||Only say Slán after this as response
 |Ádh mór|Good luck||
 |Ádh mór ort|Good luck to you||
+|Chífidh mé tú. |I'll see you.
 |Feicfidh mé arís thú.|I'll see you again.|Fecky may arish hu
 |Feicfidh mé amárach thú.|I'll see you tomorrow.|Fecky may amarach hu
 
@@ -45,7 +46,8 @@
 |------|-------|--------|-----|----|
 |Cad é mar atá tú?|How are you?
 |Cad é mar atá tú inniu?|How are you today?
-|Cad é mar atá tú féin?|How are you yourself?||
+|Cad é mar atá tú?|How are you?
+|Cad é mar atá sibh? (plural)|How are you?||
 |Tá mé…|I am…
 |Tá mé go maith.| I am good
 |Go maith|Well
@@ -100,7 +102,13 @@
 |Tá áthas ar na cailíní.|The girls are happy.
 
 
-
+The words mé and tú are called pronouns and are used when you don't need to or want to repeat a noun. Here is a list of pronouns, accompanied by the present tense of the verb bí (be).
+Tá mé (I am)
+Tá tú (you are)
+Tá sé/sí (he/she is)
+Tá muid (we are)
+Tá sibh (you are)
+Tá siad (they are)
 
 
 

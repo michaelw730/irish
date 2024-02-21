@@ -16,6 +16,8 @@ Deich (Jeh): Ten
 
 Counting numbers you need the a...
 
+In everyday speech the a preceding the numbers is often not pronounced. It is always used, however, after the word uimhir, (number): uimhir a cúig == number five
+
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
 |uimhir|number|ever
@@ -108,3 +110,32 @@ Counting numbers you need the a...
 |an t-aonú lá déag|	the eleventh day
 |an fichiú|	twentieth
 |an t-aonú lá is fiche|	the twenty-first day
+
+
+## Counting things
+
+| Irish | English | Phonetic | Sound |
+| ------| ------- | -------- | ----- |
+|teanga	|a language
+|teanga amháin	|one language
+|dhá theanga	|two languages
+|trí phionta	|three pints
+|ceithre dhoras	|four doors
+|cúig bhuidéal	|five bottles
+|sé chaife	|six coffees
+|trí leabhar	|three books
+|dhá rothar	|two bicylces
+
+NOTE
+The numbers a haon, a dó, and a ceathair change when counting things.
+Words beginning with a vowel remain unchanged:
+ceithre úll	four apples
+cúig oráiste	five oranges
+
+Note how the singular form is used after numbers in Irish:
+| Irish | English | Phonetic | Sound |
+| ------| ------- | -------- | ----- |
+|oráistí	|oranges
+|cúig oráiste	|five oranges
+|teangacha	|languages
+|dhá theanga	|two languages

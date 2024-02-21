@@ -139,11 +139,11 @@ see traits.md
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Mo theaghlach| My family
-|athair|father
-|máthair|mother
+|athair|father|aher
+|máthair|mother|mah-her
 | > mhamaí?|mum?
-|deirfiúr|sister
-|deartháir|brother
+|deirfiúr|sister|djerifur
+|deartháir|brother|djaher
 |dheartháireacha|brothers
 |seanathair|grandfather
 |seanmháthair|grandmother
@@ -156,3 +156,19 @@ see traits.md
 |neacht|niece
 |nia|nephew
 |col ceathrair|cousin
+|iníon* |daughter|nyeen (like news)||* In Ulster the i at the beginning of iníon is not pronounced.
+|mac |son|mock
+||
+|Seo mo mhathair.|That's my mother|..mo wahher
+|Seo m'athair.|That's my father|..maher
+|Seo m'iníon.|That's my daughter|..minyeen
+|Seo mo mhac.|That's my son|.. mo wock
+
+
+The Irish for 'my' is mo. If it precedes a word beginning with a consonant (other than l, n, or r) a h is added to the initial letter, causing a change in sound:
+
+* mac = mo mhac
+
+If mo precedes a word beginning with a vowel or f, the o in mo is dropped:
+
+* iníon = m'iníon
