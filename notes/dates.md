@@ -1,5 +1,21 @@
 # Dates
 
+## Times of day
+
+|Irish|English|Phonetic|Sound|Info|
+|------|-------|--------|-----|----|
+|Maidin.|morning.
+|Tráthnóna.|afternoon.|tranoana
+|Oíche|evening/night.
+||
+|inné|yesterday|in-ay
+|aréir|last night|a-rare
+|anocht|tonight|anokt
+|amárach|tomorrow|amwarach
+|inniu|today
+|anois|now
+||
+
 ## Days of Week
 
 | Irish | English | Phonetic | Sound |
