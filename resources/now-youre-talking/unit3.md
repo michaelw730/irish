@@ -3,7 +3,7 @@ ASKING SOMEONE WHERE THEY ARE FROM
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Cá as tú?|Where are you from?|||After giving your response, you can ask the same question in the following ways:
-|Cá as túsa?|Where are you from?  or
+|Cá as túsa?|Where are *you* from?  or
 |Cá as tú féin?|Where are you from yourself?
 |Is as ... mé. |I'm from ...
 |Is as Dún Geanainn mé. |I'm from Dungannon.
@@ -96,8 +96,8 @@ SAYING WHAT TIME IT IS
 |a haon déag a chlog
 |a dó dhéag a chlog
 ||
-|ceathrú i ndiaidh ... |a quarter past ...
-|leath i ndiaidh ... |half past ...
-|ceathrú go dtí ... |a quarter to ...
+|ceathrú i ndiaidh ... |a quarter past ...|ceahroo i nyay...
+|leath i ndiaidh ... |half past ...|la i nyay...
+|ceathrú go dtí ... |a quarter to ...|ceahroo go gee..
 
 When you're responding to the question Cad é an t-am atá sé? you can leave out Tá sé ... if you wish and simply say the time.
