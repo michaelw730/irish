@@ -18,6 +18,11 @@
 * [My house](my_house.md)
 * [Hobbies and interests](hobbies_and_interests.md)
 * [Pets and Animals](pets_and_animals.md)
+* [Celebrations and Festivals](celebrations_and_festivals.md)
+
+* [Time](time.md)
+* [Phone](phone.md)
+* [Where someone is from etc](where-someone-is-from-etc.md)
 
 
 ## Grammer

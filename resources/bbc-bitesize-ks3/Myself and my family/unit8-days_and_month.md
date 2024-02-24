@@ -1,5 +1,6 @@
 # Unit 8 - Days and months
 
+* [dates](../../../notes/dates.md)
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|

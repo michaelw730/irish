@@ -1,6 +1,3 @@
-Covered in 
-* [Time](../../notes/time.md)
-
 ASKING SOMEONE WHERE THEY ARE FROM
 
 |Irish|English|Phonetic|Sound|Info|
@@ -56,49 +53,3 @@ You can use the following if you wish to be more precise about where you live:
 |... ar shráid Anraí| ... in Henry Street
 |bóthar| road
 |... ar Bóthar na Carraige |... on Carrick Road
-
-
-ASKING SOMEONE THEIR PHONE NUMBER
-
-|Irish|English|Phonetic|Sound|Info|
-|------|-------|--------|-----|----|
-|Cad é d'uimhir fóin?| What's your phone number?
-||||or simply
-|D'uimhir fóin?| Your phone number?
-
-
-ASKING WHAT TIME IT IS
-
-If you're asking a stranger you should use the phrase, Gabh mo leithscéal (Excuse me) first in order to attract their attention. If you're already talking to someone you can use the  second phrase:
-
-|Irish|English|Phonetic|Sound|Info|
-|------|-------|--------|-----|----|
-|Cad é an t-am atá sé?| What time is it?
-|Cad é an t-am atá sé, le do thoil?| What time is it, please?
-
-
-SAYING WHAT TIME IT IS
-
-|Irish|English|Phonetic|Sound|Info|
-|------|-------|--------|-----|----|
-|Tá sé ... a chlog. It's ... o'clock.
-|... a chlog. | ... o'clock.
-||
-|a haon a chlog
-|a dó a chlog
-|a trí a chlog
-|a ceathair a chlog
-|a cúig a chlog
-|a sé a chlog
-|a seacht a chlog
-|a hochr a chlog
-|a naoi a chlog
-|a deich a chlog
-|a haon déag a chlog
-|a dó dhéag a chlog
-||
-|ceathrú i ndiaidh ... |a quarter past ...|ceahroo i nyay...
-|leath i ndiaidh ... |half past ...|la i nyay...
-|ceathrú go dtí ... |a quarter to ...|ceahroo go gee..
-
-When you're responding to the question Cad é an t-am atá sé? you can leave out Tá sé ... if you wish and simply say the time.

@@ -46,3 +46,4 @@
 |mí-aibí|immature||
 |neamhspleách|independent||
 ||
+|Léigh an sliocht agus freagair fíor nó bréagach.|Read the passage and answer true or false.||

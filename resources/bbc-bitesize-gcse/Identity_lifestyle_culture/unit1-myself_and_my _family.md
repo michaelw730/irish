@@ -53,49 +53,13 @@ See colours.md
 
 see traits.md
 
-
 ### Eye Style
 
 see traits.md
 
-
-
 ## describing your personality traits
 
-|Irish|English|Phonetic|Sound|Info|
-|------|-------|--------|-----|----|
-|Cén sórt duine thú?|What type of person are you?
-|Déan cur síos ort féin maidir le tréithe pearsantachta.|Describe your personality traits.||
-||
-|Déan cur síos ort féin |Describe yourself||
-||
-|Maidir le tréithe pearsantachta,	|As regards personality traits,
-|thig liom a bheith ...	|I can be ...
-|sílim go bhfuil mé ...	|I think that I am ...
-|sílim nach bhfuil mé ...	|I think that I am not ...
-|Is duine spórtúil mé | I am a sporty person
-|síleann mo chairde go bhfuil mé maith ag an chamógaíocht|my friends think I am good at Camogie
-|Is fearr liom bheith ag canadh agus bheith ag éisteacht leis an raidió agus le ceol.|I prefer to sing and to listen to the radio and music.
-||
-|cainteach|chatty||
-|ciúin|quiet||
-|cairdiúil|friendly||
-|míchairdiúil|unfriendly||
-|dícheallach|hard-working||
-|falsa|lazy||
-|greannmhar|funny||
-|faiteach|shy / timid||
-|ceanndána|headstrong / stubborn||
-|cróga|brave||
-|deas|nice||
-|cliste|clever||
-|bómánta|stupid||
-|spórtúil|sporty||
-|aibí|mature||
-|mí-aibí|immature||
-|neamhspleách|independent||
-||
-|Léigh an sliocht agus freagair fíor nó bréagach.|Read the passage and answer true or false.||
+* [personality-traits](../../../notes/personality-traits.md)
 
 
 ## family
@@ -135,40 +99,3 @@ see traits.md
 |Tá mé níos sine ná _______.|I am older than _______.
 |Tá mé níos óige ná _______.|I am younger than _______.
 
-### family vocabulary
-|Irish|English|Phonetic|Sound|Info|
-|------|-------|--------|-----|----|
-|Mo theaghlach| My family
-|athair|father|aher
-|máthair|mother|mah-her
-| > mhamaí?|mum?
-|deirfiúr|sister|djerifur
-|deartháir|brother|djaher
-|dheartháireacha|brothers
-|seanathair|grandfather
-|seanmháthair|grandmother
-|leasathair|stepfather
-|leasmháthair|stepmother
-|leasdeirfiúr|stepsister
-|leasdeartháir|stepbrother
-|uncail|uncle
-|aintin|aunt
-|neacht|niece
-|nia|nephew
-|col ceathrair|cousin
-|iníon* |daughter|nyeen (like news)||* In Ulster the i at the beginning of iníon is not pronounced.
-|mac |son|mock
-||
-|Seo mo mhathair.|That's my mother|..mo wahher
-|Seo m'athair.|That's my father|..maher
-|Seo m'iníon.|That's my daughter|..minyeen
-|Seo mo mhac.|That's my son|.. mo wock
-
-
-The Irish for 'my' is mo. If it precedes a word beginning with a consonant (other than l, n, or r) a h is added to the initial letter, causing a change in sound:
-
-* mac = mo mhac
-
-If mo precedes a word beginning with a vowel or f, the o in mo is dropped:
-
-* iníon = m'iníon

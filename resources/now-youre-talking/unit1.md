@@ -1,4 +1,6 @@
-Information Text from the Workbook
+Covered in 
+* [Greetings](../../../notes/greetings.md)
+* [Weather](../../../notes/weather.md)
 
 GREETING SOMEONE
 

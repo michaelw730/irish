@@ -1,4 +1,7 @@
-Information Text from the Workbook
+Covered in 
+* [Introductions](../../notes/introductions.md)
+* [Family](../../notes/family.md#introducing-family)
+
 INTRODUCING YOURSELF
 To introduce yourself you say
 Is mise ... I'm...
@@ -19,6 +22,8 @@ If you're referring to more than one person you use the following:
 Cé hiad seo?
 INTRODUCING OTHERS
 Seo Diarmaid. This is Diarmaid.
+
+
 INTRODUCING FAMILY MEMBERS
 mathair mother
 Seo mo mhathair.
