@@ -11,11 +11,12 @@
 |>$NAME an t-ainm atá orm.| My name is $NAME
 |>Is mise $NAME|I am $NAME
 |>Mise $NAME|I'm $NAME
+||
 |Cad é an sloinne atá ort?|What is your surname?|..slinye..|
 |>$NAME an sloinne atá orm.| My surname is $NAME
 ||
 |C'ainm atá ort? |What's your name?
-|C'ainm atá ortsa? What's *your* name?
+|C'ainm atá ortsa?| What's *your* name?
 |>$NAME||||Usually just the name
 ||
 |Cé thusa?|Who are you?|Kay husa?|

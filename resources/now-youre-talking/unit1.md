@@ -1,5 +1,6 @@
 Covered in 
 * [Greetings](../../../notes/greetings.md)
+* [Introductions](../../../notes/introductions.md)
 * [Weather](../../../notes/weather.md)
 
 GREETING SOMEONE
@@ -31,8 +32,11 @@ Tá muid (we are)
 Tá sibh (you are)
 Tá siad (they are)
 We'll be dealing with pronouns in more detail in Aonad 5.
+
 TALKING ABOUT THE WEATHER
+
 People often comment on the weather after they've exchanged greetings.
+
 Tá lá breá ann. It's a fine day.
 Tá drochlá ann inniu. It's a bad day today.
 Tá sé fuar. It's cold.
@@ -41,6 +45,7 @@ Tá sé fliuch. It's wet.
 Tá, cinnte. It is indeed.
 Buíochas le Dia (thank God) is used quite frequently in this context.
 Tá lá breá ann inniu, buíochas le Dia. It's a fine day today, thank God.
+
 SAYING GOODBYE
 Slan. Goodbye.
 Slan go fóill. Goodbye for now.

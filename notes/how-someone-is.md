@@ -14,7 +14,7 @@
 |Tá mé ceart go leor|I am alright
 |Tá mé go holc. |I am awful
 |>Tá mé go measaratha|I am reasonable/middling||
-|>Tá mé go breá|I am fine||
+|>Tá mé go breá|I am fine|Taw may go breaw??|
 |>Tá sé i gceart|He is rightly||
 |>Níl caill orm|I am not too bad (or There's no loss upon me)||
 ||

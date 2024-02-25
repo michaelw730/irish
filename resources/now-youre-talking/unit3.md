@@ -1,4 +1,5 @@
 Covered in 
+* [Phone](../../notes/phone.md)
 * [Time](../../notes/time.md)
 
 ASKING SOMEONE WHERE THEY ARE FROM
