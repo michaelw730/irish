@@ -5,12 +5,17 @@ ASKING SOMEONE WHERE THEY ARE FROM
 |Cá as tú?|Where are you from?|||After giving your response, you can ask the same question in the following ways:
 |Cá as túsa?|Where are *you* from?  or
 |Cá as tú féin?|Where are you from yourself?
+|Agus tú féin?|And yourself?|Agus tu hain?
+||
+|Cárb as thú?|Where are you from?|Carb ass who?|
+|Cárb as thú féin?|Where are you from yourself?|Carb ass who hain?|
+|Cárb as thú, a $NAME?|Where are you from, $NANE?|Carb ass who, $NAME?|
+||
 |Is as ... mé. |I'm from ...
 |Is as Dún Geanainn mé. |I'm from Dungannon.
 |As Léim an Mhadaidh.|From Limavady.
 
 This is generally used as a statement or as a response to a general question such as 'Tell me a little about yourself.' However, when answering a more specific question, such as Cá as tú? people tend to say As and the name of the place.
-
 
 
 ASKING SOMEONE WHERE THEY LIVE
@@ -25,7 +30,6 @@ ASKING SOMEONE WHERE THEY LIVE
 If you are responding to the question Cá bhfuil tú i do chónaí? you can just say, I(n) and the name of the place.
 
 The following sentence will prove useful to you if you don't live in the place you are originally from.
-
 
 
 |Irish|English|Phonetic|Sound|Info|

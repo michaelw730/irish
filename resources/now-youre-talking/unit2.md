@@ -1,6 +1,7 @@
 Covered in 
 * [Introductions](../../notes/introductions.md)
-* [Family](../../notes/family.md#introducing-family)
+* [Family (basic)](../../notes/family.md#basic-family-vocabulary)
+* [Family (introducing)](../../notes/family.md#introducing-family)
 
 INTRODUCING YOURSELF
 To introduce yourself you say

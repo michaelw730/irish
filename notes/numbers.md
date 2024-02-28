@@ -1,3 +1,5 @@
+# Numbers
+
 The basic cardinal numbers in Irish, from 0 to 10 are:
 
 Náid (Nawj): Zero
@@ -11,8 +13,6 @@ Seacht (Shakht): Seven
 Ocht (Awkht): Eight
 Naoi (Nee): Nine
 Deich (Jeh): Ten
-
-# Numbers
 
 Counting numbers you need the a...
 

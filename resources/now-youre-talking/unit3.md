@@ -1,4 +1,6 @@
 Covered in 
+* [Where someone is from](../../notes/where-someone-is-from-etc.md)
+* [Numbers](../../notes/numbers.md#numbers)
 * [Phone](../../notes/phone.md)
 * [Time](../../notes/time.md)
 
@@ -16,7 +18,6 @@ ASKING SOMEONE WHERE THEY ARE FROM
 This is generally used as a statement or as a response to a general question such as 'Tell me a little about yourself.' However, when answering a more specific question, such as Cá as tú? people tend to say As and the name of the place.
 
 
-
 ASKING SOMEONE WHERE THEY LIVE
 
 |Irish|English|Phonetic|Sound|Info|
@@ -29,7 +30,6 @@ ASKING SOMEONE WHERE THEY LIVE
 If you are responding to the question Cá bhfuil tú i do chónaí? you can just say, I(n) and the name of the place.
 
 The following sentence will prove useful to you if you don't live in the place you are originally from.
-
 
 
 |Irish|English|Phonetic|Sound|Info|

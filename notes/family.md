@@ -21,16 +21,24 @@
 |Cad é an t-ainm atá air / uirthi?|What is his / her name?
 |… an t-ainm atá air / uirthi.|… is his / her name.
 
-### family vocabulary
+### basic family vocabulary
+
+|Irish|English|Phonetic|Sound|Info|
+|------|-------|--------|-----|----|
+|athair|father|aher
+|máthair|mother|mah-her
+|mamaí?|mum?
+|deirfiúr|sister|djerifur
+|deartháir|brother|djaher
+|iníon* |daughter|nyeen (like news)||* In Ulster the i at the beginning of iníon is not pronounced.
+|mac |son|mawck
+
+### extended family vocabulary
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Mo theaghlach| My family
-|athair|father|aher
-|máthair|mother|mah-her
-| > mhamaí?|mum?
-|deirfiúr|sister|djerifur
-|deartháir|brother|djaher
-|dheartháireacha|brothers
+||
+|dheartháireacha|brothers??
 |seanathair|grandfather
 |seanmháthair|grandmother
 |leasathair|stepfather
@@ -42,15 +50,16 @@
 |neacht|niece
 |nia|nephew
 |col ceathrair|cousin
-|iníon* |daughter|nyeen (like news)||* In Ulster the i at the beginning of iníon is not pronounced.
-|mac |son|mock
 
 
 ### Introducing family
+
 |Seo mo mhathair.|That's my mother|..mo wahher
 |Seo m'athair.|That's my father|..maher
 |Seo m'iníon.|That's my daughter|..minyeen
 |Seo mo mhac.|That's my son|.. mo wock
+|Seo mo dheartháir.|That's my brother|.. mo yeah-her
+|Seo mo dheirfiúr.|That's my sister|.. mo yerifur
 
 This is how you introduce more than one daughter or son:
 Seo mo chuid inlonacha.

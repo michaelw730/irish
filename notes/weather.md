@@ -11,7 +11,7 @@
 |iontach fliuch|very wet| flyuach??
 |iontach te|very hot|ta shay chay
 |tá|Yes [to agree with the weather]
-|Tá, cinnte.| It is indeed/surely.
+|Tá, cinnte.| It is indeed/surely.|taw, kintche
 ||
 |Tá lá breá ann.| It's a fine day.| taw law breah ann
 |...Buíochas le Dia |...thank God (is used quite frequently in this context.)|bwayhas le djia
