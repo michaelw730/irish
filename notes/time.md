@@ -7,6 +7,9 @@ If you're asking a stranger you should use the phrase, Gabh mo leithscéal (Excu
 |Cad é an t-am atá sé?| What time is it?
 |Cad é an t-am atá sé, le do thoil?| What time is it, please?
 |Cad é an t-am?| What time?
+||
+|Cén t-am é?|What time is it?
+|Cén t-am?|What time?
 
 
 SAYING WHAT TIME IT IS
@@ -23,7 +26,7 @@ SAYING WHAT TIME IT IS
 |a cúig a chlog
 |a sé a chlog
 |a seacht a chlog
-|a hochr a chlog
+|a hocht a chlog
 |a naoi a chlog
 |a deich a chlog
 |a haon déag a chlog
