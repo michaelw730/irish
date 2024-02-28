@@ -11,6 +11,8 @@
 * [Numbers](numbers.md)
 * [Phone](phone.md)
 * [Time](time.md)
+* [Languages](languages.md)
+* [Numbers - Counting things](numbers.md#counting-things)
 
 * [Personal Traits](personal-traits.md)
 * [Personality Traits](personality-traits.md)

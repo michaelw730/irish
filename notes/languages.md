@@ -1,5 +1,5 @@
-Covered in 
-* [Numbers - Counting things](../../notes/numbers.md#counting-things)
+## Languages
+
 
 ASKING SOMEONE IF THEY SPEAK A LANGUAGE
 
@@ -8,24 +8,29 @@ ASKING SOMEONE IF THEY SPEAK A LANGUAGE
 |An bhfuil ... agat? |Can you speak ...? (literally, Have you ...?)
 |An bhfuil Gaeilge agat? |Can you speak Irish?
 |An bhfuil Fraincis agat? |Can you speak French?
-
-TEANGACHA Languages
+|TEANGACHA|Languages
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
+|Gaeilge	|Irish
+|Fraincis	|French
 |Béarla	|English
 |Gearmáinis	|German
 |Iodáilis	|Itailian
 |Spáinnis	|Spanish
 |Breatnais	|Welsh
 |Gaeilge na hAlban|	Gaelic (Scotland)
+||
 SAYING HOW WELL YOU SPEAK A LANGUAGE
+||
 |Tá Gaeilge líofa agam. |I speak Irish fluently.
 |Tá beagán Fraincise agam. |I speak a little French.
 |Tá mé ag foghlaim Gearmáinise. |I'm learning German.
 |Níl mórán Iodáilise agam. |I can't speak much Italian.
+|Níl aon Fraincis agam. |I don't speak french.
 
 If you are responding specifically to the question An bhfuil Gaeilge agat? here are some possible answers:
+
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Tá. |Yes.
@@ -41,17 +46,20 @@ If you are responding specifically to the question An bhfuil Gaeilge agat? here 
 |Níl aon Fraincis nó Spáinnis agam. |I speak neither french nor Spanish.
 ||
 |If you tell someone that you are learning a language, you might be asked where: 
-|Cá háit?|Where?
+||
+|Cá háit?|Where?|Ca hatch?
+||
 |Ón teilifís. |From the television.
 |Ón raidió. |From the radio.
 |Ag rang oíche. |At a night class.
+|San ollscoil|At the university
 |Ó fhístéipeanna sa bhaile. |From videos at home.
 ||
 |An dtuigeann tú Gaeilge? |Do you understand Irish?|an diggin to Gaelig?
 |Tuigim. |Yes (I do understand).
 |Ní thuigim. |No (I don't understand).
 
-
+## Grammer
 
 A question is formed in the present tense by placing An before the verb. This causes an urú in verbs beginning with a consonant (except l, m, n, r or s):
 * An dtuigeann tú? Do you understand?
@@ -76,29 +84,3 @@ Only a handful of irish verbs (eleven, to be precise) are irregular, but they oc
 |An bhfuil Gaeilge agat? |Can you speak Irish?
 |Tá |Yes.
 |Níl |No.
-
-
-COUNTING THINGS
-teanga	a language
-teanga amháin	one language
-dhá theanga	two languages
-trí phionta	three pints
-ceithre dhoras	four doors
-cúig bhuidéal	five bottles
-sé chaife	six coffees
-trí leabhar	three books
-dhá rothar	two bicylces
-
-NOTE
-The numbers a haon, a dó, and a ceathair change when counting things.
-Words beginning with a vowel remain unchanged:
-ceithre úll	four apples
-cúig oráiste	five oranges
-
-Note how the singular form is used after numbers in Irish:
-oráistí	oranges
-but	
-cúig oráiste	five oranges
-teangacha	languages
-but	
-dhá theanga	two languages

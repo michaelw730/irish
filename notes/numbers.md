@@ -117,14 +117,21 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
 |teanga	|a language
+|teangacha	|languages
+||
 |teanga amháin	|one language
 |dhá theanga	|two languages
-|trí phionta	|three pints
-|ceithre dhoras	|four doors
-|cúig bhuidéal	|five bottles
-|sé chaife	|six coffees
-|trí leabhar	|three books
 |dhá rothar	|two bicylces
+|dhá chathaoir	|two chairs|yeh hih-her
+|trí phionta	|three pints
+|trí leabhar	|three books
+|ceithre dhoras	|four doors|
+|ceithre bhosca	|four boxes|kera woxsa
+|cúig bhuidéal	|five bottles
+|cúig phionta	|five pints
+|sé chaife	|six coffees
+||
+
 
 NOTE
 The numbers a haon, a dó, and a ceathair change when counting things.
