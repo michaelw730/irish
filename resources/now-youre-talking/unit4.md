@@ -1,5 +1,5 @@
 Covered in 
-* [Numbers - Counting things](../../notes/numbers.md#counting-things)
+* [langauages](../../notes/languages.md)
 
 ASKING SOMEONE IF THEY SPEAK A LANGUAGE
 
@@ -18,8 +18,9 @@ TEANGACHA Languages
 |Iodáilis	|Itailian
 |Spáinnis	|Spanish
 |Breatnais	|Welsh
+|Fraincis|French
 |Gaeilge na hAlban|	Gaelic (Scotland)
-SAYING HOW WELL YOU SPEAK A LANGUAGE
+||SAYING HOW WELL YOU SPEAK A LANGUAGE
 |Tá Gaeilge líofa agam. |I speak Irish fluently.
 |Tá beagán Fraincise agam. |I speak a little French.
 |Tá mé ag foghlaim Gearmáinise. |I'm learning German.

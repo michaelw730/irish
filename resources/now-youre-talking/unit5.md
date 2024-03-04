@@ -1,3 +1,6 @@
+Covered in:
+* [Things you like](../../notes/things-you-like.md)
+* [Numbers](../../notes/numbers.md)
 
 SAYING THAT YOU LIKE SOMETHING
 
