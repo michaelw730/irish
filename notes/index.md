@@ -15,6 +15,7 @@
 * [Numbers - Counting things](numbers.md#counting-things)
 * [Things you like](things-you-link.md)
 * [What you want](what-you-want.md)
+* [Where you are going](../../notes/where-you-are-going.md)
 
 * [Personal Traits](personal-traits.md)
 * [Personality Traits](personality-traits.md)

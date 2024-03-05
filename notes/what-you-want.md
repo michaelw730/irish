@@ -1,13 +1,11 @@
-Covered in:
-* [What you want](../../notes/what-you-want.md)
-
+# What you want
 
 ASKING SOMEONE WHAT THEY WANT
 
 |Irish|English|Phonetic|Sound|
 |------|-------|--------|-----|
 |Cad é ba mhaith leat? |What would you like?
-|Cad é ba mhaith leatsa? |What would you like?
+|Cad é ba mhaith leatsa? |What would *you* like?
 |Cad é ba mhaith libh? |What would you like? (when speaking to more than one person)
 ||
 ||You can use the following when addressing a friend or family member:
@@ -26,7 +24,7 @@ If you're in company and the question Cad é ba mhaith libh? is being addressed 
 
 |Irish|English|Phonetic|Sound|
 |------|-------|--------|-----|
-|Caife dubh domhsa. ||A black coffee for me.
+|Caife dubh domhsa. |A black coffee for me.
 |Ba mhaith liomsa tae le bainne. |I'd like tea with milk.
 |Rud ar bith eile?| Anything else?  |Rud ar bee ella?
 
@@ -67,10 +65,10 @@ If you're in company and the question Cad é ba mhaith libh? is being addressed 
 |cupa	|a cup
 |muga	|a mug
 |pota tae	|a pot of tea
-|gloine uisce	a glass of water
-|pionta beorach	a pint of beer
-|leathphionta	half a pint
-|buidéal	a bottle
+|gloine uisce	|a glass of water
+|pionta beorach	|a pint of beer
+|leathphionta	|half a pint
+|buidéal	|a bottle
 ||
 ||ASKING SOMEONE IF THEY WANT A PARTICULAR THING
 ||
@@ -85,7 +83,6 @@ If you're in company and the question Cad é ba mhaith libh? is being addressed 
 |ceapaire|sandwich
 |milseáin|sweets
 |úll|apple
-
 ||
 ||GIVING YOUR REPLY
 ||

@@ -4,8 +4,9 @@
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|Maidin.|morning.
-|Tráthnóna.|afternoon.|tranoana
+|Maidin|morning
+|Tráthnóna|evening|tranoana||may be afternon in some dialects
+|iarnóin|afternoon|tranoana||may be only in some dialects
 |Oíche|evening/night.
 ||
 |inné|yesterday|in-ay

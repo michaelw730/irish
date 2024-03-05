@@ -1,3 +1,6 @@
+Covered in:
+* [Where you are going](../../notes/where-you-are-going.md)
+
 ASKING SOMEONE WHERE THEY ARE GOING
 Cá bhfuil tú ag dul? Where are you going?
 Cá bhfuil túsa ag dul? Where are you going?
