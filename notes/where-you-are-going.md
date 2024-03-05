@@ -32,10 +32,10 @@ ASKING SOMEONE WHERE THEY ARE GOING
 |páirc	|park
 |siopa éadaigh	|clothes shop	
 |ionad spóirt	|sports centre
-|ollmhargadh	|supermarket	
+|ollmhargadh	|supermarket	||ollwarragoo
 |ionad siopadóireachta	|shopping center
-|ospidéal|hospital??
-
+|ospidéal|hospital
+|otharlann|hospital
 
 There are different ways of saying 'to' in Irish, depending on where you're going. Go is used in front of names of places and other nouns that are not preceded by the article an (the):
 

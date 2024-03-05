@@ -1,4 +1,6 @@
-Information Text from the Workbook
+Covered in:
+* [What job you do](../../notes/what-job-you-do.md)
+
 SAYING WHAT JOB YOU DO
 Is ... mé.
 or
