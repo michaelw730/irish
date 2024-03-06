@@ -34,7 +34,8 @@ SAYING WHAT YOUR MARITAL STATUS IS
 |Tá clann agam/againn. |I/we have children.
 |mac |a son.
 |iníon |a daughter
-N|íl páistí ar bith agam/againn. |I/we have no children.
+|Níl clann ar bith agam/againn. |I/we have no children.
+|Níl páistí ar bith agam/againn. |I/we have no children.
 |Tá mé ag súil le páiste. |I'm expecting a child.
 |Tá mé ag súil le leanbh. |I'm expecting a baby.
 |Tá mé torrach. |I'm pregnant.
@@ -97,9 +98,10 @@ COUNTING PEOPLE
 |ceathrar	|four people
 |cúigear	|five people
 |seisear	|six people
+|seachtar	|six people
 |ochtar	|eight people
 |naonúr	|nine people
-|deichnúr	|ten people
+|deichniúr	|ten people
 
 The nouns following the personal numbers are usually in the genitive plural (although some of the nouns look exactly as they do in the nominative singular). Just learn the following examples for now:
 seisear iníonacha
