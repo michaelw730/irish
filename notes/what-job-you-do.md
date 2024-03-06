@@ -30,6 +30,7 @@ SAYING WHAT JOB YOU DO
 |bainisteoir	|manager
 |freastalaí	|waiter
 |tógálaí	|builder
+|siúinéir|carpenter|shoonair
 ||
 ||ASKING SOMEONE WHERE THEY WORK
 ||

@@ -1,3 +1,6 @@
+Covered in:
+* [Giving orders](../../notes/giving-orders.md)
+
 9: Giving orders and instructions
 
 TELLING SOMEONE TO COME IN
