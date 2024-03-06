@@ -1,0 +1,101 @@
+28: Pastimes and talents
+
+Chapter 28 Audio File as MP3
+Information Text from the Workbook
+FINDING OUT WHAT SOMEONE DOES IN THEIR SPARE TIME
+Cad é a caitheamh aimsire atá agat? What pastime have you?
+SAYING WHAT PASTIMES YOU HAVE
+Imrím ... I play ...
+leadóg tennis
+peil football
+cispheil basketball
+eitpheil volleyball
+Téim ag rith go minic. I often go running.
+Téim ag iascaireacht anois is arís. I go fishing now and again.
+Téim ag snámh sa samhradh. I go swimming in the summer.
+Téim ag sciáil sa gheimhreadh. I go skiing in the winter.
+SAYING WHAT YOU LIKE DOING
+Is maith liom ... I like ...
+a dhul ag siúl sna sléibhte to go hill-walking
+éisteacht le ceol listening to music
+a bheith ag léamh reading
+a bheith ag scríobh writing
+a bheith ag péinteáil painting
+a bheith ag taisteal traveling
+ASKING IF SOMEONE IS INTERESTED IN A PARTICULAR THING
+An bhfuil suim agat i ...
+or
+An bhfuil suim agat sa ... Are you interested in ...
+stair? history?
+tseandálaíocht? archeology?
+litríoch? literature?
+
+Here are some possible answers:
+Tá. Yes, I am.
+Níl. No, I am.
+Tá suim mhór agam ann. I have a great interest in it.
+Níl suim ar laghad agam ann. I haven't the slightest interest in it.
+Sílim go bhfuil sé ceart go leor. I think it's all right.
+Sílim go bhfuil sé an-leadránach. I think it's very boring.
+When asking if someone is interested in something, you can use:
+An bhfuil suim agat i ... Are you interested in ...
+An bhfuil suim agat i gceol? Are you interested in music?
+or
+An bhfuil suim agat sa ... Are you interested in ... (literally, Are you interested in the ...)
+An bhfuil suim agat sa gceol?
+Both forms are commonly used, and both are equally correct.
+ASKING IF SOMEONE IS ABLE TO DO SOMETHING
+An bhfuil snámh agat? Can you swim?
+An bhfuil ceol agat? Are you musical?
+An bhfuil tú ábalta carr a thiomáint? Can you drive a car?
+An bhfuil tú ábalta ríomhaire a úsáid? Can you use a computer?
+An bhfuil tú ábalta gléas ceoil a sheinm? Can you play a musical instrument?
+GIVING YOUR REPLY
+In reply to all the above questions you can use:
+Tá. Yes.
+or
+Níl. No.
+
+Other useful phrases are:
+Níl mé rómhaith. I'm not very good.
+Tá mé ag foghlaim. I'm learning.
+Ba mhaith liom foghlaim. I'm would like to learn.
+SAYING HOW EASY OR DIFFICULT SOMETHING IS
+Tá sé deacair. It's difficult.
+Tá sé furasta go leor. It's easy enough.
+Tá sé an-fhurasta. It's very easy.
+Tá sé iontach deacair. It's very difficult.
+Tá sé ródheacair. It's too difficult.
+ASKING HOW LONG SOMEONE HAS BEEN DOING SOMETHING
+Cá fhad atá tú ag tiomáint leoraí? How long have you been driving a lorry?
+Cá fhad atá tú ag seinm na fidle? How long have you been playing the fiddle?
+Cá fhad atá tú ag péinteáil? How long have you been painting?
+SAYING HOW LONG YOU HAVE BEEN DOING SOMETHING
+le cúig bliana anuas for the past five years
+le deich mbliana nó níos mó for the ten years or more
+le sé seachtainí nó mar sin for the past six weeks or thereabouts
+le coicís for the past fortnight
+le deich lá anuas for the past ten days
+ASKING HOW OFTEN SOMEONE DOES SOMETHING
+Cad é chomh minic ... How often ...
+... is a bhíonn ceacht agat? ... do you have a lesson?
+... is a bhíonn tú ag cleachtadh? ... do you practise?
+... is a bhíonn rang agat? ... do you have a class?
+... is a bhíonn tú ag imirt? ... do you play?(sport)
+... is a bhíonn tú ag seinm? ... do you play?(music)
+SAYING HOW OFTEN YOU DO SOMETHING
+Bíonn rang agam uair sa tseachtain. I have class once a week.
+Bím ag cleachtadh trí huaire sa tseachtain. I practise three times a week.
+Bím ag seinm cúpla uair sa mhí. I play(music) a couple times a month.
+Bím ag imirt achan deireadh seachtaine. I play(sport) every weekend.
+Bíonn ceacht agam ceithre huaire sa tseachtain. I have a lesson four times a week.
+ASKING SOMEONE HOW THEY ARE GETTING ON
+If someone is learning a new skill of if they're in the middle of some work or project, you might like to ask:
+Cad é mar atá ag éirí leat?
+or
+Cad é mar atá ag éirí libh? How are you getting on?
+SAYING HOW YOU ARE GETTING ON
+Tá ag éirí go maith liom. I'm doing fine.
+Tá ag éirí go hiontach liom. I'm doing really well.
+Níl ag éirí go rómhaith liom. I'm not doing very well.
+Tá eagla orm nach bhfuil ag éirí go rómhaith liom. I'm afraid I'm not doing very well.

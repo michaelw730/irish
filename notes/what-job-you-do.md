@@ -18,6 +18,8 @@ SAYING WHAT JOB YOU DO
 ||
 ||POSTANNA
 ||
+|feirmeoir|farmer
+|Siopadóir|shopkeeper
 |búistéir	|butcher
 |meicneoir	|mechanic
 |rúnaí	|secretary

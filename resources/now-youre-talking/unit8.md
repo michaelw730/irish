@@ -1,6 +1,8 @@
 Covered in:
 * [What job you do](../../notes/what-job-you-do.md)
 
+8:Discussing Jobs
+
 SAYING WHAT JOB YOU DO
 Is ... mé.
 or

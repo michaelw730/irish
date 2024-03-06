@@ -1,0 +1,89 @@
+30: Speaking about the future
+No video yet found
+Chapter 30 Audio File as MP3
+Information Text from the Workbook
+USING THE PRESENT TENSE TO TALK ABOUT THE FUTURE
+You can use the present tense followed by a verbal noun to talk about things that are going to happen in the future, in the same way that you can in English. Here are some examples:
+
+Tá mé ag bualadh le Mark ag a naoi. I am meeting Mark at nine.
+Tá Fíona ag teacht ar ais óna saoire amárach. Fíona is coming back from her holidays tomorrow.
+Tá mé ag imeacht arís amárach. I am leaving again tomorrow.
+THE FUTURE TENSE
+Verbs that end in -ann or -eann in the present tense:
+You replace the present tense endings with -faidh (after the broad vowels a, o, and u)
+or -fidh (after the slender vowels i and e).
+ólann sé	he drinks
+ólfaidh sé	he will drink
+cuireann sí	she puts
+cuirfaidh sí	she will put
+
+Verbs that end in -aíonn or -íonn in the present tense:
+You replace the present tense endings with -óidh (after the broad vowels a, o, and u)
+or -eoidh (after the slender vowels e, and i).
+ceannaíonn sí	she buys
+ceannóidh sí	she will buy
+imíonn siad	they go/leave
+imeoidh siad	they will go/leave
+
+THE IRREGULAR VERBS
+Here are the future tense forms of some of the irregular verbs:
+An rachaidh tú ...?	Will you go ...?
+Rachaidh./Ní rachaidh.	Yes I will./ No, I won't.
+An mbeidh tú ...?	Will you be ...?
+Beidh./Ní bheidh.	Yes, I will./ No, I won't.
+An dtabharfaidh tú ...?	Will you give ...?
+Tabharfaidh./Ní thabharfaidh.	Yes, I will./ No, I won't.
+An bhfaighidh tú ...?	Will you get ...?
+Gheobhaidh./Ní bhfaighidh.	Yes I will./ No, I won't.
+An bhfeicfidh tú ...?	Will you see ...?
+Chífidh./Ní fheicfidh.	Yes, I will./ No, I won't.
+An ndéanfaidh tú ...?	Will you do/make ...?
+Déanfaidh./Ní dhéanfaidh.	Yes, I will./ No, I won't.
+An ndéarfaidh tú ...?	Will you say/tell ...?
+Déarfaidh./Ní dhéarfaidh.	Yes, I will./ No, I won't.
+
+It is not Necessary to use personl pronouns - mé, tú, sé, sí, etc. - when answering a question:
+An rachaidh Bríd leat?	Will Bríd go with you?
+Rachaidh./Ní rachaidh.	Yes, she will./ No, she won't.
+OFFERING TO DO SOMEONE A FAVOUR
+The future tense is used when offering to do someone a favour.
+An gcuirfidh mé an t-im sa chuisneoir duit? Will I put the butter in the fridge for you?
+An rachaidh mé go dtí an otharlann leat? Will I go to the hospital with you?
+An dtabhairfaidh mé síob duit? Will I give you a lift?
+ASKING SOMEONE TO DO YOU A FAVOUR
+An bhfaighidh tú páipéar nuachta domh? Will you get a newspaper for me?
+An ndéarfaidh tú léi go raibh mé ag cur a tuairisce? Will you tell her that I was asking for her?
+An ndéanfaidh tú gar domh? Will you do me a favour?
+ASKING ABOUT FUTURE EVENTS
+An mbeidh tú sa bhaile amárach?	Will you you be at home tomorrow?
+Beidh./Ní bheidh.	I will./I won't.
+An bhfeicfidh mé amárach tú?	Will I see you tomorrow?
+Chífidh./Ní fheicfidh.	You will./You won't.
+An bhfaighidh tú seans a dhul chuig an dráma?	Will you get a chance to go to the play?
+Gheobhaidh./Ní bhfaighidh.	I will./I won't.
+SAYING WHEN SOMETHING WILL HAPPEN
+We came across i gceann in Units 7 and 12. Here are some more examples.
+i gceann cúpla lá in a few days' time
+i gceann seachtaine in a weeks' time
+i gceann coicíse in a fortnight's time
+
+If you want to be less specific you can use:
+amach anseo sometime in the future
+USING THE WORD MÁ TO TALK ABOUT FUTURE EVENTS
+The probablility of future events happening sometimes depends on other factors.
+má bhíonn am agam if I have time
+má bhíonn an lá go deas if it's a nice day
+má théann tú ... if you go ...
+má bhíonn lá saor agam if I have a day off
+má bhím saor if I'm free
+ASKING WHAT THE WEATHER WILL BE LIKE
+Cad é an cinéal aimsire a bheidh ann amárach? What will the weather be like tomorrow?
+SAYING WHAT THE WEATHER WILL BE LIKE
+Beidh sé gaofar. It'll be windy.
+Beidh sé fliuch. It'll be wet.
+Beidh sé tirim. It'll be dry.
+Beidh clocha sneachta ann. There will be hailstones.
+Beidh tintreach agus toirneach ann. There will be thunder and lightning.
+
+You can use the word déarfainn (I'd say) if you're not sure what the weather will be like.
+Beidh fearthainn throm ann, déarfainn. It'll rain heavily, I'd say. (Literally, There will be heavy rain in it, I'd say.)

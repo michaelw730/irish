@@ -1,0 +1,53 @@
+24: Exchanging news
+
+ASKING SOMEONE IF THEY HAVE ANY NEWS
+An bhfuil nuacht ar bith agat? Have you any news?
+
+Here is a common response:
+Muise, níl. Indeed I haven't.
+ASKING SOMEONE IF THERE'S ANYTHING HAPPENING
+An bhfuil an dhath ag dhul? Is there anything happening?
+Ní mórán. Not much.
+TELLING GOOD NEWS
+Fuair m'fhear céile post úr. My husband got a new job.
+Cheannaigh mé carr úr Dé Luain. I bought a new car on Monday.
+Bhí leanbh ag Bríd arú aréir. Bríd had a baby the night before last.
+REACTING TO GOOD NEWS
+Sin dea-scéala! That's good news!
+Tá lúcháir orm sin a chloisteáil. I'm glad to hear that.
+Is maith sin. That's good.
+Comhghairdeachas! Congratulations!
+QUESTIONS AND ANSWERS IN THE PAST
+We've already looked at how the past tense is formed. We'll now turn our attention to asking and answering questions in that tense.
+
+REGULAR VERBS
+With regular verbs, you place Ar before the past tense form:
+Cheannaigh mé ...	I bought ...
+Ar cheannaigh tú ...?	Did you buy ...?
+Cheannaigh. / Níor cheannaigh.	I did (buy). / I didn't (buy).
+Ar bhuail tú le Laura?	Did you meet Laura?
+Bhuail. / Níor bhuail.	I did (meet). / I didn't (meet).
+
+IRREGULAR VERBS
+These are commonly used verbs, so it's worth learning the correct forms.
+An raibh tú ...?	Were you ...?
+Bhí. / Ní raibh.	
+An ndearna tú ...?	Did you do/make ...?
+Rinne. / Ní dhearna.	
+Ar chuala tú ...?	Did you hear ...?
+Chuala. / Níor chuala.	
+An bhfuair tú ...?	Did you get ...?
+Fuair. / Ní bhfuair.	
+Ar thug tú ...?	Did you give ...?
+Thug. / Níor thug.	
+An ndeachaigh tú ...?	Did you go ...?
+Chuaigh. / Ní dheachaigh.	
+Ar tháinig tú ...?	Did you come ...?
+Tháinig. / Níor tháinig.	
+
+An is usually not pronounced if it preceds the verb. We will be returning to the past tense in Aonad 29.
+REACTING TO BAD NEWS
+Sin drochscéala. That's bad news.
+Tá brón orm sin a chloisteáil.
+or
+Tá mé buartha sin a chloisteáil. I'm sorry to hear that.

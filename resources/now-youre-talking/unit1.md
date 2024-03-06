@@ -3,6 +3,8 @@ Covered in
 * [Introductions](../../../notes/introductions.md)
 * [Weather](../../../notes/weather.md)
 
+1: Meeting People
+
 GREETING SOMEONE
 
 The most common greeting is

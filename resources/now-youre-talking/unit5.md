@@ -2,6 +2,8 @@ Covered in:
 * [Things you like](../../notes/things-you-like.md)
 * [Numbers](../../notes/numbers.md)
 
+5: Expressing opinions
+
 SAYING THAT YOU LIKE SOMETHING
 
 Is maith liom ... I like ...

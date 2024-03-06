@@ -1,6 +1,8 @@
 Covered in 
 * [langauages](../../notes/languages.md)
 
+4: Discussing Languages
+
 ASKING SOMEONE IF THEY SPEAK A LANGUAGE
 
 |Irish|English|Phonetic|Sound|Info|

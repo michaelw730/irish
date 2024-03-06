@@ -3,6 +3,8 @@ Covered in
 * [Family (basic)](../../notes/family.md#basic-family-vocabulary)
 * [Family (introducing)](../../notes/family.md#introducing-family)
 
+2: Introductions
+
 INTRODUCING YOURSELF
 To introduce yourself you say
 Is mise ... I'm...

@@ -4,6 +4,8 @@ Covered in
 * [Phone](../../notes/phone.md)
 * [Time](../../notes/time.md)
 
+3: Speaking about your background
+
 ASKING SOMEONE WHERE THEY ARE FROM
 
 |Irish|English|Phonetic|Sound|Info|

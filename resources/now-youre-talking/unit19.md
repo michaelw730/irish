@@ -1,0 +1,46 @@
+19: Speaking to children and friends
+
+TELLING SOMEONE TO BE QUIET
+Ciúnas! Quiet!
+Bí ciúin!
+or
+Bí suaimhneach! Be quiet!
+
+Let's look now at a negative order:
+Ná bí ag caint. Stop talking. (literally, Don't be talking.)
+Ná bígí ag caint. Stop talking. (plural)
+SPEAKING TO CHILDREN
+Ná bí ag caoineadh. Don't cry.
+Ná bígí ag caoineadh. (plural)
+
+Ná bí ag gáire. Don't laugh.
+Ná bígí ag gáire. (plural)
+
+Ná bí dána! Don't be bold!
+Ná bígí dána! (plural)
+If you want to tell someone to stop doing something, you place Ná before the imperative form of the verb. Ná doesn't affect words beginning with a consonant, but it prefixes h to vowels:
+Ná déan sin. Don't do that.
+Ná habair sin. Don't say that.
+TELLING SOMEONE TO CLEAN OR TO TIDY THEMSELVES UP
+Nigh d'aighaidh. Wash your face.
+Nígí bhur n-aighaidh. (plural)
+
+Glan do lámha. Wash your hands.
+Glanaigí bhur lámha. (plural)
+
+Cíor do chuid gruaige. Comb your hair.
+Cíoraigí bhur gcuid gruaige. (plural)
+ASKING SOMEONE WHAT'S WRONG WITH THEM
+Cad é atá ort? What's wrong with you?
+Cad é atá oraibh? (plural)
+ASKING SOMEONE IF THEY ARE ILL
+An bhfuil tú tinn? Are you ill?
+SAYING WHAT'S WRONG WITH YOU
+Tá tinneas cinn orm. I have a headache.
+Tá tinneas fiacile. I have a toothache.
+Tá pian i mo bholg. I have a pain in my stomach.
+ASKING SOMEONE IF THEY'RE ALL RIGHT
+An bhfuil tú ceart go leor? Are you all right?
+ASKING A MORE SPECIFIC QUESTION
+An bhfuil tú fuar? Are you cold?
+An bhfuil ocras ort? Are you hungry?

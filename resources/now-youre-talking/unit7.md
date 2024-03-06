@@ -1,6 +1,8 @@
 Covered in:
 * [Where you are going](../../notes/where-you-are-going.md)
 
+7: Saying where you're going
+
 ASKING SOMEONE WHERE THEY ARE GOING
 Cá bhfuil tú ag dul? Where are you going?
 Cá bhfuil túsa ag dul? Where are you going?

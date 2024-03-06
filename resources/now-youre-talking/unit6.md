@@ -1,6 +1,8 @@
 Covered in:
 * [What you want](../../notes/what-you-want.md)
 
+6: Ordering drinks
+
 ASKING SOMEONE WHAT THEY WANT
 Cad é ba mhaith leat? What would you like?
 Cad é ba mhaith leatsa? What would you like?
