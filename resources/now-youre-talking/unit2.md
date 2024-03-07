@@ -45,3 +45,19 @@ The Irish for 'my' is mo. If it precedes a word beginning with a consonant (othe
 mac = mo mhac
 If mo precedes a word beginning with a vowel or f, the o in mo is dropped:
 iníon = m'iníon
+
+
+
+
+sounds:
+
+|ar|on|air
+|fear|man|far
+|fionn|blond|finn
+|solas|light|sawlas
+|gunna|gun|gun-na
+|ár|our|are
+|féar|grass|fay-r
+|fíon|wine|fain
+|sólás|confort|sow-las
+|gúna|dress|goona

@@ -1,5 +1,7 @@
 # How someone is
 
+Cad é mar atá tú? How are you?  -This greeting is sometimes preceded by Haló.
+
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Cad é mar atá tú?|How are you?
@@ -9,6 +11,7 @@
 |Tá mé…|I am…
 |Tá mé go maith.| I am good
 |Go maith|Well
+|Go breá|fine
 |maith go leor|very good|my go lyor
 |Níl mé go maith.| I am not good
 |Tá mé ceart go leor|I am alright
@@ -59,8 +62,8 @@
 |Tá áthas ar m'athair.|My father is happy.
 |Tá áthas ar na cailíní.|The girls are happy.
 
-
 The words mé and tú are called pronouns and are used when you don't need to or want to repeat a noun. Here is a list of pronouns, accompanied by the present tense of the verb bí (be).
+
 Tá mé (I am)
 Tá tú (you are)
 Tá sé/sí (he/she is)

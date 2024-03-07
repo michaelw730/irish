@@ -7,7 +7,7 @@
 |Maidin|morning
 |Tráthnóna|evening|tranoana||may be afternon in some dialects
 |iarnóin|afternoon|tranoana||may be only in some dialects
-|Oíche|evening/night.
+|Oíche|night.
 ||
 |inné|yesterday|in-ay
 |aréir|last night|a-rare

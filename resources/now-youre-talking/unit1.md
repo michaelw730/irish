@@ -1,6 +1,7 @@
 Covered in 
 * [Greetings](../../../notes/greetings.md)
 * [Introductions](../../../notes/introductions.md)
+* [How someone is](../../../notes/how-someone-is.md)
 * [Weather](../../../notes/weather.md)
 
 1: Meeting People
@@ -33,6 +34,7 @@ Tá sé/sí (he/she is)
 Tá muid (we are)
 Tá sibh (you are)
 Tá siad (they are)
+
 We'll be dealing with pronouns in more detail in Aonad 5.
 
 TALKING ABOUT THE WEATHER

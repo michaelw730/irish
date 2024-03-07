@@ -24,3 +24,18 @@
 |Cé seo?|Who's this? (one person)
 |Cé hiad seo?|Who's this? (more than one person)
 |Seo $NAME|This is $NAME
+
+
+
+sounds:
+
+|ar|on|air
+|fear|man|far
+|fionn|blond|finn
+|solas|light|sawlas
+|gunna|gun|gun-na
+|ár|our|are
+|féar|grass|fay-r
+|fíon|wine|fain
+|sólás|confort|sow-las
+|gúna|dress|goona

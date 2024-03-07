@@ -1,4 +1,6 @@
-# Greetings
+# Greetings etc
+
+## Greetings
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -12,6 +14,11 @@
 |Oíche mhaith.|Good evening/night.
 ||
 |Fáilte.|Welcome.
+
+## Goodbyes
+
+|Irish|English|Phonetic|Sound|Info|
+|------|-------|--------|-----|----|
 |Slán!|Goodbye.
 |Slán go fóill|Goodbye for now|||Only say Slán after this as response
 ||
@@ -20,7 +27,11 @@
 |Chífidh mé tú. |I'll see you.|||tú or thú??? 
 |Feicfidh mé arís thú.|I'll see you again.|Fecky may arish hu
 |Feicfidh mé amárach thú.|I'll see you tomorrow.|Fecky may amarach hu
-||
+
+## Pleasantries
+
+|Irish|English|Phonetic|Sound|Info|
+|------|-------|--------|-----|----|
 |le do thoil|please
 |Gabh mo leithscéal|Excuse me
 |Fan bomaite|Wait a minute
