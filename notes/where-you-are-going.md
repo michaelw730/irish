@@ -42,7 +42,7 @@ There are different ways of saying 'to' in Irish, depending on where you're goin
 
 |Irish|English|Phonetic|Sound|
 |------|-------|--------|-----|
-|Go Baile Átha Liath |To dublin
+|Go Baile Átha Liath |To dublin||????
 |Go hArd Mhaca* |To Armagh
 |Go Dún Pádraig |To Downpatrick
 ||

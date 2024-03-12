@@ -6,7 +6,6 @@ Cad é mar atá tú? How are you?  -This greeting is sometimes preceded by Haló
 |------|-------|--------|-----|----|
 |Cad é mar atá tú?|How are you?
 |Cad é mar atá tú inniu?|How are you today?
-|Cad é mar atá tú?|How are you?
 |Cad é mar atá sibh? (plural)|How are you?||
 |Tá mé…|I am…
 |Tá mé go maith.| I am good
@@ -23,6 +22,7 @@ Cad é mar atá tú? How are you?  -This greeting is sometimes preceded by Haló
 ||
 |Is maith sin|That's good/great||
 |Go raibh maith agat|Thank you||
+|Go raibh míle maith agat|Thank you very much||
 |Go raibh céad maith agat|Thank you very much||
 |Tá fáilte romhat| you're welcome
 ||

@@ -31,7 +31,7 @@ SAYING WHAT TIME IT IS
 |a deich a chlog
 |a haon déag a chlog
 |a dó dhéag a chlog
-||
+||   
 |ceathrú i ndiaidh ... |a quarter past ...|ceahroo i nyay...
 |leath i ndiaidh ... |half past ...|la i nyay...
 |ceathrú go dtí ... |a quarter to ...|ceahroo go gee..

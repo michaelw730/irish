@@ -21,8 +21,8 @@
 |cláracha dúlra	|nature programmes
 ||
 |banc	|bank
-|??|chocolate
-|??|crabs
+|seacláid |chocolate |  |  |
+|portán |crab | porthaan |  ||
 
 SAYING WHAT YOU LIKE DOING
 
@@ -31,6 +31,7 @@ When you talk about the things you like doing or actually participating in, as o
 |Irish|English|Phonetic|Sound|
 |------|-------|--------|-----|
 |Is maith liom a bheith ... |I like ...
+||
 |ag garraíodóireacht |gardening
 |ag péinteáil |painting
 |ag cócaireacht |cooking

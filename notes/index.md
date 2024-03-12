@@ -1,7 +1,7 @@
 # Irish Notes
 
 ## Units
-* [Greetings](greetings.md)
+* [Greetings](greetings-etc.md)
 * [How someone is](how-someone-is.md)
 * [Weather](weather.md)
 * [Introductions](introductions.md)
@@ -13,7 +13,7 @@
 * [Time](time.md)
 * [Languages](languages.md)
 * [Numbers - Counting things](numbers.md#counting-things)
-* [Things you like](things-you-link.md)
+* [Things you like](things-you-like.md)
 * [What you want](what-you-want.md)
 * [Where you are going](where-you-are-going.md)
 * [What job you do](what-job-you-do.md)

@@ -39,11 +39,13 @@ If you're in company and the question Cad é ba mhaith libh? is being addressed 
 |tae lag	|weak tea
 |sú oráiste	|orange juice
 |uisce	|water
-|beoir	|beer
-|fíon bán	|white wine
+|beoir	|beer|byor
+|fíon bán	|white wine|fee-in baan
 |fíon dearg	|red wine
-|uisce beatha	|whiskey
+|uisce beatha	|whiskey|ishka beh-ha
 |sceallógaí|chips
+|briosca|a biscuit|briska
+|bágún|bacon|baa-gun
 ||
 ||BEING COURTEOUS
 ||
@@ -62,13 +64,17 @@ If you're in company and the question Cad é ba mhaith libh? is being addressed 
 ||
 ||BEING MORE PRECISE
 ||
-|cupa	|a cup
-|muga	|a mug
-|pota tae	|a pot of tea
+|cupa|a cup
+|muga|a mug
+|pota|a pot
+|gloine|a glass|glinnye
+|pionta|a pint|pinta|pinta
+|leathphionta|half a pint|le-finta
+|buidéal|a bottle|bawdjel
+||
+|pota tae|a pot of tea
 |gloine uisce	|a glass of water
-|pionta beorach	|a pint of beer
-|leathphionta	|half a pint
-|buidéal	|a bottle
+|pionta beorach	|a pint of beer|
 ||
 ||ASKING SOMEONE IF THEY WANT A PARTICULAR THING
 ||
@@ -76,13 +82,14 @@ If you're in company and the question Cad é ba mhaith libh? is being addressed 
 |Ar mhaith libh ...? |Would you like ...? (when speaking to more than one person)
 ||
 |pionta beorach	|a pint of beer
-|deoch	|a drink
-|uisce beatha	|(a) whiskey
+|deoch	|a drink|dj-o
 |leac oighir	|ice
 |uachtar reoite|ice cream
 |ceapaire|sandwich
 |milseáin|sweets
 |úll|apple
+||
+|cuidiú|help|coodjoo
 ||
 ||GIVING YOUR REPLY
 ||
