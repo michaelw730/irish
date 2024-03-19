@@ -3,6 +3,8 @@
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |ainm|Name
+|sloinne |surname
+|sloinnte |surnames
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -24,11 +26,21 @@
 |Cé seo?|Who's this? (one person)
 |Cé hiad seo?|Who's this? (more than one person)
 |Seo $NAME|This is $NAME
+||
+|Cé hé sin?|Who is he?||
+|> Sin (é) $NAME.|He is $NAME.||
 
+* Surnames:
+  * Mac = son
+  * Ó - grandson
+  * if family surname = Mac , girls and unmarried women have Nic (daughter of) at the beginning, and married women can have Bean Mhic or Mhic (wife of)
 
+[Alphabet](alphabet.md)
 
 sounds:
 
+|Irish|English|Phonetic|Sound|Info|
+|------|-------|--------|-----|----|
 |ar|on|air
 |fear|man|far
 |fionn|blond|finn

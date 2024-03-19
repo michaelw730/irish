@@ -23,6 +23,7 @@ ASKING SOMEONE IF THEY SPEAK A LANGUAGE
 ||
 SAYING HOW WELL YOU SPEAK A LANGUAGE
 ||
+|Tá $LANGUAGE agam|I have $LANGUAGE||
 |Tá Gaeilge líofa agam. |I speak Irish fluently.
 |Tá beagán Fraincise agam. |I speak a little French.
 |Tá mé ag foghlaim Gearmáinise. |I'm learning German.

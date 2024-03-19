@@ -39,7 +39,6 @@ ASKING SOMEONE WHERE THEY ARE GOING
 
 There are different ways of saying 'to' in Irish, depending on where you're going. Go is used in front of names of places and other nouns that are not preceded by the article an (the):
 
-
 |Irish|English|Phonetic|Sound|
 |------|-------|--------|-----|
 |Go Baile Átha Liath |To dublin||????
@@ -90,10 +89,14 @@ ASKING SOMEONE WHAT TIME OR WHEN THEY'RE GOING SOMEWHERE
 |anois |now
 |níos moille |later
 |i gceann tamaill |in a while
-|tráthnóna |in the evening
 |anocht |tonight
-|ar maidin |in the morning
 |amárach |tomorrow
+||
+|ar maidin |in the morning
+|meán lae |midday
+|san iarnóin |in the afternoon
+|tráthnóna |in the evening
+|san oíche |in the night
 ||
 ||The word uair is irregular when preceded by numbers:
 ||

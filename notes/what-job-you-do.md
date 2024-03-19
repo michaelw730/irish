@@ -31,6 +31,9 @@ SAYING WHAT JOB YOU DO
 |freastalaí	|waiter
 |tógálaí	|builder
 |siúinéir|carpenter|shoonair
+|
+|innealtóir|engineer|inyaltar
+|innealtóir ríomhaireachta|computer engineer|inyaltar re-whar-achta|
 ||
 ||ASKING SOMEONE WHERE THEY WORK
 ||
@@ -40,7 +43,7 @@ SAYING WHAT JOB YOU DO
 |Tá mé ag obair... |I work...
 |i monarcha |in a factory
 |in oifig |in an office
-|in scoil |in an school
+|in scoil |in a school
 |i siopa |in a shop
 |i mbunscoil |in a primary school
 |i meánscoil |in a secondary school

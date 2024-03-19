@@ -18,7 +18,7 @@ tae - t is broad
 te - t is slender
 cuirtín - c is broad; r, t, n are all slender
 
-last are in these sound slightly different
+last "ar" in these sound slightly different
 ceathrar
 a ceathair
 
@@ -122,10 +122,10 @@ io, oi, ui sounds like fit (usually) - gliondar, glione, duine
 |r
 |t|d|dt|do/jet|i dTrá Lí/ár dteach
 
-patters:
+patterns:
 * only at beginning of word
 * eclipses first letter of a word
 * voiceless stops getting voiced - c=>g, p=>b, t=>d 
 * also called nasalisation - b=>m, d=>n, g=>ng
-* can't apply to h,l,m,m,r
+* can't apply to h,l,m,n,r
 

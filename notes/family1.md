@@ -15,7 +15,7 @@ SAYING WHAT YOUR MARITAL STATUS IS
 ||
 ||ASKING SOMEONE WHAT THEIR MARITAL STATUS IS
 ||
-|An bhfuil tú pósta? Are you married?
+|An bhfuil tú pósta? |Are you married?
 ||
 |Tá. |Yes.
 |Níl. |No.
@@ -61,7 +61,7 @@ or
 |Cad é mar atá do chuid páistí?
 ||
 ||This is how you return the question:
-||Cad é mar atá do chlannsa? |How are your children?
+|Cad é mar atá do chlannsa? |How are your children?
 ||or
 |Cad é mar atá do chuid páistíse?
 

@@ -81,7 +81,6 @@ If you're in company and the question Cad é ba mhaith libh? is being addressed 
 |Ar mhaith leat ...? |Would you like ...?
 |Ar mhaith libh ...? |Would you like ...? (when speaking to more than one person)
 ||
-|pionta beorach	|a pint of beer
 |deoch	|a drink|dj-o
 |leac oighir	|ice
 |uachtar reoite|ice cream

@@ -33,6 +33,7 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 |a seacht|seven||
 |a hocht|eight||
 |a naoi|nine||
+||
 |a deich|ten||
 ||||
 |a haon déag|eleven||
@@ -114,6 +115,9 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 
 ## Counting things
 
+* numbers 2-6 cause séimhiú on words beginning with a consonant (except l,n,r)
+
+
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
 |teanga	|a language
@@ -131,6 +135,8 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 |cúig phionta	|five pints
 |sé chaife	|six coffees
 ||
+|tábla|table
+|doras|door
 
 
 NOTE

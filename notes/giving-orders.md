@@ -16,7 +16,7 @@ TELLING SOMEONE TO COME IN
 |Coimhéad! |Look out! or Be careful!|cuv-ahd
 |Coimhéadaigí! |Look out! or Be careful!(plural)|cuv-ahd-igi
 ||
-|Coimhéad an phéint! Mind the paint!
+|Coimhéad an phéint! |Mind the paint!
 
 
 The instructions above are neutral and can be used when speaking to children and adults, formally or informally.
@@ -37,7 +37,7 @@ TELLING SOMEONE TO WAIT
 |Stad! |Stop!
 |Stadaigí!|(plural)
 ||
-|Ná déan sin. |Don't do that.
+|Ná déan sin. |Don't do that.|na jan sin
 |Ná déanaigí sin.|(plural)
 ||
 |TELLING SOMEONE TO BE QUIET
@@ -57,7 +57,7 @@ TELLING SOMEONE TO WAIT
 |Gabh amach! |Get out!
 |Gabhaigí amach!|(plural)
 ||
-|Imigh leat! |Go away!
+|Imigh leat! |Go away!|immee lat
 |Imigí leat!|(plural)
 
 If you want to let someone go ahead of you (in a queue, for example) or if you don't want to interupt someone, you can use the following:
@@ -78,7 +78,7 @@ If you want to let someone go ahead of you (in a queue, for example) or if you d
 |Goitsigí |Come here.|(plural)
 ||
 ||Goitse can also be used when you are leaving and when you want someone to come with you.
-|Goitse. ||Come on.
+|Goitse. |Come on.
 ||AROUND THE HOUSE
 |Druid an doras. |Shut the door.
 |Druidigí an doras.|(plural)

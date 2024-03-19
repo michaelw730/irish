@@ -20,13 +20,16 @@
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Slán!|Goodbye.
-|Slán go fóill|Goodbye for now|||Only say Slán after this as response
+|Slán go fóill|Goodbye for now|Slaawn guh foal||Only say Slán after this as response
 ||
 |Ádh mór|Good luck||
 |Ádh mór ort|Good luck to you||
+||
 |Chífidh mé tú. |I'll see you.|||tú or thú??? 
 |Feicfidh mé arís thú.|I'll see you again.|Fecky may arish hu
 |Feicfidh mé amárach thú.|I'll see you tomorrow.|Fecky may amarach hu
+||
+|arís.| again.
 
 ## Pleasantries
 
@@ -36,5 +39,3 @@
 |Gabh mo leithscéal|Excuse me
 |Fan bomaite|Wait a minute
 |Tóg go bog é|Take it easy
-||
-|arís.| again.
