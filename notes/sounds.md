@@ -97,7 +97,7 @@ io, oi, ui sounds like fit (usually) - gliondar, glione, duine
 * patterns
     * b and m both turn to the same sounds when you apply séimhiú
     * d and g ...
-    * s and to sound like h
+    * s and t sound like h
     * p always becomes f
     * f always becomes silent
     * c with its german sounds ach and ich

@@ -1,7 +1,6 @@
 # Places
 
-## Provincies in Ireland
-
+## Provinces in Ireland
 
 |Irish|English|Phonetic|Sound|
 |------|-------|--------|-----|
@@ -53,7 +52,6 @@
 ||||
 ||||
 
-
 ## Cities/Towns etc
 |Irish|English|Phonetic|Sound|
 |------|-------|--------|-----|
@@ -73,9 +71,6 @@
 ||||
 ||||
 ||||
-
-
-
 
 ## Countries
 |Irish|English|Phonetic|Sound|

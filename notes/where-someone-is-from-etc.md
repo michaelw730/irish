@@ -31,7 +31,7 @@ ASKING SOMEONE WHERE THEY LIVE
 ||
 |seoladh|address|shaw-loo
 |Cad é an seoladh atá agat? |What's your address?
-|Aít bhreithe|Place of birth
+|Aít bhreithe|Place of birth|eh-tch vrey-ha
 
 If you are responding to the question Cá bhfuil tú i do chónaí? you can just say, I(n) and the name of the place.
 

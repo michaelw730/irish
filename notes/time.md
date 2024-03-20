@@ -4,6 +4,7 @@ If you're asking a stranger you should use the phrase, Gabh mo leithscéal (Excu
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
+|am|time|am
 |Cad é an t-am atá sé?| What time is it?
 |Cad é an t-am atá sé, le do thoil?| What time is it, please?
 |Cad é an t-am?| What time?
@@ -35,5 +36,10 @@ SAYING WHAT TIME IT IS
 |ceathrú i ndiaidh ... |a quarter past ...|ceahroo i nyay...
 |leath i ndiaidh ... |half past ...|la i nyay...
 |ceathrú go dtí ... |a quarter to ...|ceahroo go gee..
+|
+|cúig bomaite i ndiaidh|five minutes past??
+|cúig i ndiaidh|five past??
+||
+|Bhí sé ... a chlog. It was ... o'clock.|vee shay...
 
 When you're responding to the question Cad é an t-am atá sé? you can leave out Tá sé ... if you wish and simply say the time.
