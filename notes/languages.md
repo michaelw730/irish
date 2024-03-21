@@ -8,7 +8,8 @@ ASKING SOMEONE IF THEY SPEAK A LANGUAGE
 |An bhfuil ... agat? |Can you speak ...? (literally, Have you ...?)
 |An bhfuil Gaeilge agat? |Can you speak Irish?
 |An bhfuil Fraincis agat? |Can you speak French?
-|TEANGACHA|Languages
+|teanga	|a language
+|teangacha|Languages
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|

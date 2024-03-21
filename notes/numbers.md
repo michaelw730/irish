@@ -120,8 +120,8 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-|teanga	|a language
-|teangacha	|languages
+|teanga|a language
+|teangacha|languages
 ||
 |teanga amháin	|one language
 |dhá theanga	|two languages
