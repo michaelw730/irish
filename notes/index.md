@@ -19,6 +19,10 @@
 * [What job you do](what-job-you-do.md)
 * [Giving orders](giving-orders.md)
 * [family1](family1.md)
+* [What you did](what-you-did.md)
+* [taking your leave](taking-your-leave.md)
+* [family2](family2.md)
+* [daily-routine](daily-routine.md)
 
 * [Personal Traits](personal-traits.md)
 * [Personality Traits](personality-traits.md)

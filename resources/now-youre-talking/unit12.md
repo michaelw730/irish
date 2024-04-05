@@ -24,7 +24,7 @@ SAYING WHY YOU HAVE TO GO
 Tá mé tuirseach. I'm tired.
 Tá mé an-tuirseach. I'm very tired.
 Tá sé mall. It's late.
-Tá sé mall. It's very late.
+Tá sé an-mall. It's very late.
 Tá mé mall. I'm late.
 Tá mé mall don dráma. I'm late for the play.
 Tá deifir orm. I'm in a hurry.

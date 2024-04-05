@@ -25,6 +25,9 @@
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
+|an teaghlach|the family
+|Mo theaghlach| My family
+||
 |athair|father|aher
 |máthair|mother|mah-her
 |mamaí?|mum?
@@ -32,24 +35,34 @@
 |deartháir|brother|djaher
 |iníon* |daughter|nyeen (like news)||* In Ulster the i at the beginning of iníon is not pronounced.
 |mac |son|mawck
+||
+|fear céile	|husband
+|bean chéile|wife
 
 ### extended family vocabulary
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|Mo theaghlach| My family
-||
+|tuismitheoirí	|parents
 |dheartháireacha|brothers??
+|deirfiúracha |sisters
 |seanathair|grandfather
+|athair mór	|grandfather
 |seanmháthair|grandmother
+|máthair mhór|grandmother
+||
+|uncail|uncle
+|aintin|aunt
+||
+|col ceathrair|cousin
+|col ceathracha	|cousins
+||
 |leasathair|stepfather
 |leasmháthair|stepmother
 |leasdeirfiúr|stepsister
 |leasdeartháir|stepbrother
-|uncail|uncle
-|aintin|aunt
+||
 |neacht|niece
 |nia|nephew
-|col ceathrair|cousin
 
 
 ### Introducing family

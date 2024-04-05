@@ -5,9 +5,9 @@ Músclaím ... I wake up ...
 de ghnáth usually
 Músclaím de ghnáth thart fá leath i ndiaidh a seacht.
 I usually wake up around half past seven.
-Éirim ag a hocht.
+Éirím ag a hocht.
 or
-Éirim ar a hocht. I get up at eight.
+Éirím ar a hocht. I get up at eight.
 Ním me féin. I wash myself.
 Ithim mo bhricfeasta idir a hocht agus leath i ndiaidh a hocht.
 I eat my breakfast between eight and half past eight.
@@ -54,8 +54,8 @@ Téim.
 Ní théim.
 
 An éiríonn tú go luath? Do you get up early?
-Éirim.
-Ní éirim.
+Éirím.
+Ní éirím.
 
 An mbíonn tú gnóthach? Are you usually busy?
 Bím.

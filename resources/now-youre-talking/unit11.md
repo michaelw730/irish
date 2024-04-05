@@ -6,8 +6,8 @@ Cá háit a ndeachaigh* tú? Where did you go?
 Cá háit a ndeachaigh* tú inné? Where did you go yesterday?
 * The n at the beginning of this word is not pronounced in the Ulster dialect.
 ASKING SOMEONE WHAT THEY DID
-Cad a rinne tú? What did you do?
-Cad a rinne tú ag an deireadh seachtaine? What did you do at the weekend?
+Cad é rinne tú? What did you do?
+Cad é rinne tú ag an deireadh seachtaine? What did you do at the weekend?
 REFERING TO THE RECENT PAST
 inné yesterday
 arú inné the day before yesterday
@@ -28,7 +28,7 @@ D'ól mé cúpla deoch. I had a few drinks.
 THE PAST TENSE
 In the case of regular verbs, the past tense is formed by adding a séimhiú to the imperative of the verb if it begins with a consonant:
 suigh síos (sit down)	shuigh sé síos (he sat down)
-druid (close)	dhuid sí (she closed)
+druid (close)	dhruid sí (she closed)
 
 If the verb begins with f or with a vowel, you place d' before it:
 ól (drink)	d'ól mé (I drank)
@@ -40,7 +40,7 @@ rinne mé (I did)	thug siad (they gave)
 chuala tú (you heard)	chuaigh mé (I went gave)
 dúirt sé (he said)	rug sí ar (she caught)
 fuair sí (she got)	tháinig sé (he came)
-d'ith muid (we ate did)	
+d'ith muid (we ate)	
 DAYS OF THE WEEK
 Dé Luain	Monday
 Dé Máirt	Tuesday
@@ -83,7 +83,7 @@ Bhain. Yes (I did).
 Níor bhain. No (I didn't).
 Bhain mé an-sult as. I really enjoyed it.
 In Aonad 7 we saw three different words that are used to say 'to' in Irish:
-go hArd Mhaca	to Armagh
+go hArd Mhacha	to Armagh
 go dtí an banc	to the bank
 chuig dráma	to a play
 

@@ -17,7 +17,7 @@
 |anois|now
 ||
 
-## Days of Week
+## Days of the Week
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
@@ -28,6 +28,8 @@
 |An Aoine|Friday
 |An Satharn|Saturday
 |An Domhnach|Sunday
+
+## Doing things on Days of the Week
 
 When talking about what you do on days of the week, for example I will see you on Tuesday , take away an and replace it with Dé. This also changes the spelling of the days in Irish.
 

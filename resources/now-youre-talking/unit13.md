@@ -1,5 +1,8 @@
 13: The family part 2
 
+* [Family (basic)](../../notes/family.md#basic-family-vocabulary)
+* [Family (extended)](../../notes/family.md#extended-family-vocabulary)
+
 FAMILY MEMBERS AND RELATIVES
 athair	father
 máthair	mother

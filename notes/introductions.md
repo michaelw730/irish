@@ -26,6 +26,7 @@
 |Cé seo?|Who's this? (one person)
 |Cé hiad seo?|Who's this? (more than one person)
 |Seo $NAME|This is $NAME
+|Cé hiad sin?|Who are they? (more than one person)
 ||
 |Cé hé sin?|Who is he?||
 |> Sin (é) $NAME.|He is $NAME.||

@@ -6,11 +6,11 @@ ASKING SOMEONE WHERE THEY WENT
 |------|-------|--------|-----|----|
 |Cá háit a ndeachaigh* tú? |Where did you go?
 |Cá háit a ndeachaigh* tú inné? |Where did you go yesterday?
-|Cá háit a ndeachaigh* ag tú an deireadh seachtaine? |Where did you go at the weekend?
+|Cá háit a ndeachaigh* tú ag an deireadh seachtaine? |Where did you go at the weekend?
 ||* The n at the beginning of this word is not pronounced in the Ulster dialect.
 ||ASKING SOMEONE WHAT THEY DID
-|Cad a rinne tú? |What did you do?
-|Cad a rinne tú ag an deireadh seachtaine? |What did you do at the weekend?
+|Cad é rinne tú? |What did you do?
+|Cad é rinne tú ag an deireadh seachtaine? |What did you do at the weekend?
 ||REFERING TO THE RECENT PAST
 |inné |yesterday
 |arú inné |the day before yesterday
@@ -19,9 +19,13 @@ ASKING SOMEONE WHERE THEY WENT
 |maidin inné |yesterday morning
 |maidin inniú |this morning
 ||SAYING YOU WENT SOMEWHERE
-|Chuaigh mé ... |I went ...|whe may
-|Chuaigh mé ag snámh. |I went swimming.
+|Chuaigh mé ... |I went ...|wheh-meh ...
+|Chuaigh mé ag snámh. |I went swimming.|wheh-meh a sna-o
 |Chuaigh muid ag rothaíocht.| We went cycling.
+|Chuaigh mé go Béal Feirste ag siopadóireacht. |I went swimming.|I went to Belfast shopping.
+|rothaíocht|cycling
+|Chuaigh mé go dtí an siopa|I went to the shop
+|Chuaigh mé chuig cluiche peile|I went to a football match|...clooha pella??
 ||SAYING WHAT YOU DID
 |Bhí mé ag bainis. |I was at a wedding.
 |D'imir mé cispheil. |I played basketball.
@@ -33,7 +37,7 @@ ASKING SOMEONE WHERE THEY WENT
 THE PAST TENSE
 In the case of regular verbs, the past tense is formed by adding a séimhiú to the imperative of the verb if it begins with a consonant:
 suigh síos (sit down)	shuigh sé síos (he sat down)
-druid (close)	dhuid sí (she closed)
+druid (close)	dhruid sí (she closed)
 
 If the verb begins with f or with a vowel, you place d' before it:
 ól (drink)	d'ól mé (I drank)
@@ -42,22 +46,19 @@ fan (wait)	d'fhan mé (I waited)
 IRREGULAR VERBS
 
 As we mentioned before, Irish only has a handful of verbs that don't follow all the rules. Here are the past-tense forms of those verbs:
-bhí mé (I was)	Chonaic sibh (you saw)
-rinne mé (I did)	thug siad (they gave)
-chuala tú (you heard)	chuaigh mé (I went gave)
-dúirt sé (he said)	rug sí ar (she caught)
-fuair sí (she got)	tháinig sé (he came)
-d'ith muid (we ate did)	
+bhí mé (I was)	
+Chonaic sibh (you saw)
+rinne mé (I did)	
+thug siad (they gave)
+chuala tú (you heard)	
+chuaigh mé (I went gave)
+dúirt sé (he said)	
+rug sí ar (she caught)
+fuair sí (she got)	
+tháinig sé (he came)
+d'ith muid (we ate)	
 
-
-DAYS OF THE WEEK
-Dé Luain	Monday
-Dé Máirt	Tuesday
-Dé Céadaoin	Wednesday
-Déardaoin	Thursday
-Dé hAoine	Friday
-Dé Sathairn	Saturday
-Dé Domhnaigh	Sunday
+* [Doing things on Days of the Week](dates.md#doing-things-on-days-of-the-week)
 
 There's no need to place anything before the days of the week in Irish if you want to say 'on a particular day':
 Chonaic mé síle Dé Luain. I saw Síle on Monday.
@@ -97,7 +98,7 @@ ASKING SOMEONE WHEN THEY WENT SOMEWHERE
 |Níor bhain. |No (I didn't).
 |Bhain mé an-sult as. |I really enjoyed it.
 ||In Aonad 7 we saw three different words that are used to say 'to' in Irish:
-|go hArd Mhaca	|to Armagh
+|go hArd Mhacha	|to Armagh
 |go dtí an banc	|to the bank
 |chuig dráma	|to a play
 
