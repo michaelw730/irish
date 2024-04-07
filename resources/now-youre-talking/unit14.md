@@ -8,7 +8,7 @@ I usually wake up around half past seven.
 Éirím ag a hocht.
 or
 Éirím ar a hocht. I get up at eight.
-Ním me féin. I wash myself.
+Ním mé féin. I wash myself.
 Ithim mo bhricfeasta idir a hocht agus leath i ndiaidh a hocht.
 I eat my breakfast between eight and half past eight.
 Téim ag obair thart fá cheathrú go dtí a naoi. I go to work at around a quarter to nine.
