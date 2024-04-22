@@ -1,5 +1,5 @@
 Covered in 
-* [Where someone is from](../../notes/where-someone-is-from-etc.md)
+* [person-background](../../notes/person-background.md)
 * [Numbers](../../notes/numbers.md#numbers)
 * [Phone](../../notes/phone.md)
 * [Time](../../notes/time.md)
@@ -58,7 +58,7 @@ You can use the following if you wish to be more precise about where you live:
 |sraid| street
 |... ar shráid Anraí| ... in Henry Street
 |bóthar| road
-|... ar Bóthar na Carraige |... on Carrick Road
+|... ar Bhóthar na Carraige |... on Carrick Road
 
 
 ASKING SOMEONE THEIR PHONE NUMBER

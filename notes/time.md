@@ -40,6 +40,6 @@ SAYING WHAT TIME IT IS
 |cúig bomaite i ndiaidh|five minutes past??
 |cúig i ndiaidh|five past??
 ||
-|Bhí sé ... a chlog. It was ... o'clock.|vee shay...
+|Bhí sé ... a chlog. |It was ... o'clock.|vee shay...
 
 When you're responding to the question Cad é an t-am atá sé? you can leave out Tá sé ... if you wish and simply say the time.

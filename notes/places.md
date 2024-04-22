@@ -66,6 +66,10 @@
 |> bPort Rois|||
 |>gCúil Raithlin|Coleraine||
 |>nDun Dealgan|Dundalk||
+|Dún Geanainn|Dungannon
+|Léim an Mhadaidh|Limavady
+|Port an Dúnáin|Portadown
+||
 |Nua-Eabhrac|New York||
 |nDún Éidin|Edinburgh||
 ||||

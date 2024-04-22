@@ -11,6 +11,8 @@
 |Cad é an t-ainm atá ort?|What is your name?||
 |Cad é an t-ainm atá ort féin?|What is your own name?||
 |>$NAME an t-ainm atá orm.| My name is $NAME
+||
+|Cé thusa?|Who are you?|Kay husa?|
 |>Is mise $NAME|I am $NAME
 |>Mise $NAME|I'm $NAME
 ||
@@ -21,7 +23,6 @@
 |C'ainm atá ortsa?| What's *your* name?
 |>$NAME||||Usually just the name
 ||
-|Cé thusa?|Who are you?|Kay husa?|
 ||
 |Cé seo?|Who's this? (one person)
 |Cé hiad seo?|Who's this? (more than one person)
@@ -30,6 +31,15 @@
 ||
 |Cé hé sin?|Who is he?||
 |> Sin (é) $NAME.|He is $NAME.||
+||
+||
+|Cé hé?|Who is he?||
+|Is é... é|He is||
+|Cé hí?|Who is she?||
+|Is í... í|He is||
+|Cé hiad?|Who are they?||
+|Is iad... iad|He is||
+
 
 * Surnames:
   * Mac = son
@@ -43,12 +53,12 @@ sounds:
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |ar|on|air
-|fear|man|far
-|fionn|blond|finn
-|solas|light|sawlas
-|gunna|gun|gun-na
 |ár|our|are
+|fear|man|far
 |féar|grass|fay-r
+|fionn|blond|finn
 |fíon|wine|fain
-|sólás|confort|sow-las
+|solas|light|sawlas
+|sólás|comfort|sow-las
+|gunna|gun|gun-na
 |gúna|dress|goona

@@ -1,5 +1,8 @@
 # Where someone is from
 
+AG LABHAIRT FAOI DO CHÚLRA | SPEAKING ABOUT YOUR
+BACKGROUND
+
 ASKING SOMEONE WHERE THEY ARE FROM
 
 |Irish|English|Phonetic|Sound|Info|
@@ -40,7 +43,7 @@ The following sentence will prove useful to you if you don't live in the place y
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|As Ard Mhacha ó dhúchas mé, ach tá mé i mo chónaí i mBeal Feirste anois.|I'm originally from Armagh, but I live in Belfast now.
+|Is as Ard Mhacha ó dhúchas mé, ach tá mé i mo chónaí i mBeal Feirste anois.|I'm originally from Armagh, but I live in Belfast now.|As Ard Whacha oh huhas meh, ack taw may i no hoaney in mel ferste anish
 
 * The Irish for 'in' is i or in.
 * I is used before words beginning with a consonant, and causes an urú:
@@ -55,11 +58,11 @@ TALKING ABOUT LOCATION
 You can use the following if you wish to be more precise about where you live:
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|Tá mé i mo chónaí i lár an bhaile. |I live in the centre of town.
-|... taobh amuigh den bhaile.| ... outside the town
-|... faoin tuath| ... in the countryside
-|... i lár na cathrach| ... in the city centre.
-|sraid| street
-|... ar shráid Anraí| ... in Henry Street
-|bóthar| road
-|... ar Bóthar na Carraige |... on Carrick Road
+|Tá mé i mo chónaí i lár an bhaile. |I live in the centre of town.|.. i lar an whalla
+|... taobh amuigh den bhaile.| ... outside the town|.. too amwee den whalla???
+|... faoin tuath| ... in the countryside|fween too-a
+|... i lár na cathrach| ... in the city centre.|i lar na ceh-hra
+|sraid| street|sradg
+|... ar shráid Anraí| ... in Henry Street |ar hradg anry
+|bóthar| road|baw-yer
+|... ar Bhóthar na Carraige |... on Carrick Road|ar haw-yer na carriga

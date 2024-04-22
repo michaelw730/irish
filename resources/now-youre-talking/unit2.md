@@ -52,12 +52,12 @@ iníon = m'iníon
 sounds:
 
 |ar|on|air
-|fear|man|far
-|fionn|blond|finn
-|solas|light|sawlas
-|gunna|gun|gun-na
 |ár|our|are
+|fear|man|far
 |féar|grass|fay-r
+|fionn|blond|finn
 |fíon|wine|fain
+|solas|light|sawlas
 |sólás|confort|sow-las
+|gunna|gun|gun-na
 |gúna|dress|goona

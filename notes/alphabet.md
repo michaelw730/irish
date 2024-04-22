@@ -1,8 +1,19 @@
-# Alphabet
+# An Aibítir | Alphabet
 
 * similar to English
-* doesn't have j,k,q,v,w,x,y,z
+* doesn't have - j,k,q,v,w,x,y,z:
+  * j,k
+  * q
+  * v,w,x,y,z
 * sometimes load words have these
     * jab == job
     * veain == van
+* 18 letters - a, b, c, d, e, f, g, h, i, l, m, n, o, p, r, s, t, u
+  * a, b, c, d, e, f, g, h, i
+  * l, m, n, o, p
+  * r, s, t, u
 * fada on a vowel lengthens the sound
+* á, é, í, ó, ú - sína (síneadh??) fada
+* jollyphonics https://www.youtube.com/watch?v=us2E71mdcJA
+* a o u = broad
+* e i = slender

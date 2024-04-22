@@ -5,6 +5,7 @@ ASKING SOMEONE IF THEY SPEAK A LANGUAGE
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
+|AG PLÉ TEANGACHA | DISCUSSING LANGUAGES
 |An bhfuil ... agat? |Can you speak ...? (literally, Have you ...?)
 |An bhfuil Gaeilge agat? |Can you speak Irish?
 |An bhfuil Fraincis agat? |Can you speak French?

@@ -4,8 +4,8 @@
 | ------| ------- | -------- |   ----- |
 |Tá sé...|it is...|taa shay
 ||
-|fuar|cold
-|fliuch|wet
+|fuar|cold|fooar
+|fliuch|wet|flow??
 |te|hot|chay
 |+ gaofar|windy|gayfor?
 |iontach|extremely / very |inta?

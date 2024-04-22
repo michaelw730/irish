@@ -1,10 +1,12 @@
 Covered in 
 * [Greetings](../../../notes/greetings.md)
 * [Introductions](../../../notes/introductions.md)
-* [How someone is](../../../notes/how-someone-is.md)
+* [Meeting People](../../../notes/meeting-people.md#meeting-people-simply)
 * [Weather](../../../notes/weather.md)
 
-1: Meeting People
+AONAD 1 | UNIT 1
+
+1: AG BUALADH LE DAOINE | MEETING PEOPLE | Ag Bwayla le deeny
 
 GREETING SOMEONE
 
@@ -23,9 +25,9 @@ or simply
 Go maith.
 People often add
 ... go raibh maith agat. ... thank you.
-Agus tú fein? And yourself?
+Agus tú féin? And yourself?
 
-When responding to Agus tú fein? people generally avoid repeating Tá mé go maith. and use instead Tá mé go breá.. Listen to some examples on the tape.
+When responding to Agus tú féin? people generally avoid repeating Tá mé go maith. and use instead Tá mé go breá.. Listen to some examples on the tape.
 The words mé and tú are called pronouns and are used when you don't need to or want to repeat a noun. Here is a list of pronouns, accompanied by the present tense of the verb bí (be).
 
 Tá mé (I am)
@@ -51,9 +53,9 @@ Buíochas le Dia (thank God) is used quite frequently in this context.
 Tá lá breá ann inniu, buíochas le Dia. It's a fine day today, thank God.
 
 SAYING GOODBYE
-Slan. Goodbye.
-Slan go fóill. Goodbye for now.
+Slán. Goodbye.
+Slán go fóill. Goodbye for now.
 
-You can respond to Slan. with another Slan., or with Slan go fóill. If, however, the first person says Slan go fóill., the second person simply says Slan. You also hear the following:
+You can respond to Slán. with another Slán., or with Slán go fóill. If, however, the first person says Slán go fóill., the second person simply says Slán. You also hear the following:
 
 Chífidh mé tú. I'll see you.

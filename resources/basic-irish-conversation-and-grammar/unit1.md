@@ -47,7 +47,7 @@
 ||||
 ||||
 |Cá háit a bhfuil tú ag obair?|Where are you working?||
-|Cá háit a bhfuil tú fein ag obair?|Where are you working yourself?||
+|Cá háit a bhfuil tú féin ag obair?|Where are you working yourself?||
 |Cá háit a bhfuil tú ag teagasc?|Where are you teaching?||
 |> I scoil i $PLACE-OBJ|In a school in $PLACE-OBJ||
 ||||

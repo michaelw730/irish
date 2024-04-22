@@ -2,17 +2,19 @@
 
 The basic cardinal numbers in Irish, from 0 to 10 are:
 
-Náid (Nawj): Zero
-Aon (Ayn): One
-Dó (Doh): Two
-Trí (Tree): Three
-Ceathair (KYA-hir): Four
-Cúig (KOO-ig): Five
-Sé (Shay): Six
-Seacht (Shakht): Seven
-Ocht (Awkht): Eight
-Naoi (Nee): Nine
-Deich (Jeh): Ten
+| Irish | English | Phonetic | Sound |
+| ------| ------- | -------- | ----- |
+|Náid|Zero|Nawj|
+|Aon|One|Ayn|
+|Dó|Two|Doh|
+|Trí|Three|Tree|
+|Ceathair|Four|KYA-hir|
+|Cúig|Five|KOO-ig|
+|Sé|Six|Shay|
+|Seacht|Seven|Shakht|
+|Ocht|Eight|Awkht|
+|Naoi|Nine|Nee|
+|Deich|Ten||Jeh
 
 Counting numbers you need the a...
 
@@ -125,14 +127,29 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 ||
 |teanga amháin	|one language
 |dhá theanga	|two languages
+|trí theanga	|three languages
+|ceithre theanga	|four languages||kera
+|cúig theanga	|five languages
+|sé theanga	|six languages
+||
 |dhá rothar	|two bicylces
 |dhá chathaoir	|two chairs|yeh hih-her
+|
+|pionta amháin	|one pint
 |trí phionta	|three pints
-|trí leabhar	|three books
-|ceithre dhoras	|four doors|
-|ceithre bhosca	|four boxes|kera woxsa
-|cúig bhuidéal	|five bottles
 |cúig phionta	|five pints
+||
+|trí leabhar	|three books
+||
+|doras amháin	|one door
+|ceithre dhoras	|four doors|
+||
+|ceithre bhosca	|four boxes|kera woxsa
+||
+|buidéal amháin	|one bottle
+|cúig bhuidéal	|five bottles
+||
+|caife amháin	|one coffee
 |sé chaife	|six coffees
 ||
 |tábla|table
@@ -142,13 +159,16 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 NOTE
 The numbers a haon, a dó, and a ceathair change when counting things.
 Words beginning with a vowel remain unchanged:
-ceithre úll	four apples
-cúig oráiste	five oranges
+| Irish | English | Phonetic | Sound |
+| ------| ------- | -------- | ----- |
+|ceithre úll	|four apples
+|cúig oráiste	|five oranges
 
 Note how the singular form is used after numbers in Irish:
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
 |oráistí	|oranges
 |cúig oráiste	|five oranges
+||
 |teangacha	|languages
 |dhá theanga	|two languages

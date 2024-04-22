@@ -20,7 +20,10 @@
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Slán!|Goodbye.
-|Slán go fóill|Goodbye for now|Slaawn guh foal||Only say Slán after this as response
+|Slán go fóill|Goodbye for now|Slaawn guh foil??||Only say Slán after this as response
+|Slán leat|Goodbye to you (s)
+|Slán libh|Goodbye to you (p)
+|Slán abhaile|Safe home
 ||
 |Ádh mór|Good luck||
 |Ádh mór ort|Good luck to you||
@@ -39,3 +42,10 @@
 |Gabh mo leithscéal|Excuse me
 |Fan bomaite|Wait a minute
 |Tóg go bog é|Take it easy
+|Tá fáilte romhat| you're welcome
+
+## Other
+
+|Irish|English|Phonetic|Sound|Info|
+|------|-------|--------|-----|----|
+|AONAD 1|Unit 1|

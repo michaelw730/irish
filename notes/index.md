@@ -1,13 +1,13 @@
 # Irish Notes
 
-## Units
+## Aonad | Unit
 * [Greetings](greetings-etc.md)
-* [How someone is](how-someone-is.md)
+* [Meeting People](meeting-people.md)
 * [Weather](weather.md)
 * [Introductions](introductions.md)
 * [Family (basic)](family.md#basic-family-vocabulary)
 * [Family (introducing)](family.md#introducing-family)
-* [Where someone is from etc](where-someone-is-from-etc.md)
+* [Person Background](person-background.md)
 * [Numbers](numbers.md)
 * [Phone](phone.md)
 * [Time](time.md)
@@ -38,8 +38,9 @@
 * [Pets and Animals](pets_and_animals.md)
 * [Celebrations and Festivals](celebrations_and_festivals.md)
 
+* [Feelings](feelings.md)
 
 
-
-## Grammer
+## Grammar
+* [Alphabet](alphabet.md)
 * [Sounds](sounds.md)
