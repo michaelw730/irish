@@ -133,11 +133,14 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 |sé theanga	|six languages
 ||
 |dhá rothar	|two bicylces
+||
 |dhá chathaoir	|two chairs|yeh hih-her
 |
 |pionta amháin	|one pint
 |trí phionta	|three pints
-|cúig phionta	|five pints
+|cúig phionta	|five pint
+|socht bpionta| seven pints
+|deich bpionta|ten pints
 ||
 |trí leabhar	|three books
 ||

@@ -5,12 +5,12 @@ ASKING SOMEONE IF THEY SPEAK A LANGUAGE
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|AG PLÉ TEANGACHA | DISCUSSING LANGUAGES
+|AG PLÉ TEANGACHA | DISCUSSING LANGUAGES|tchangaha??
 |An bhfuil ... agat? |Can you speak ...? (literally, Have you ...?)
 |An bhfuil Gaeilge agat? |Can you speak Irish?
 |An bhfuil Fraincis agat? |Can you speak French?
-|teanga	|a language
-|teangacha|Languages
+|teanga	|a language|tchanga??
+|teangacha|Languages|tchangaha??
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -77,11 +77,13 @@ As you've probably noticed, there's no equivalent of the words 'yes' or 'no' in 
 |Ní ólaim |No.
 
 When Ní precedes a verb beginning with a consonant (except l, n, or r) it causes a séimhiú:
+
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Ní thuigim. |I don't understand.
 
 Only a handful of irish verbs (eleven, to be precise) are irregular, but they occur quite frequently. You've already come across one of the most widely used: Tá.
+
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |An bhfuil Gaeilge agat? |Can you speak Irish?

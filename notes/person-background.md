@@ -32,8 +32,16 @@ ASKING SOMEONE WHERE THEY LIVE
 |Tá mé i mo chónaí in Aontroim. |I live in Antrim.
 |Tá mé i mo chónaí i nDún Geanainn. |I live in Dungannon.
 ||
+|An bhfuil sé deas?|Is it nice?| An whil shay jeas?
+|Tá sé deas|It is nice
+|Tá sé go maith|It is good
+|An maith leat é?|Do you like it?
+|Is maith liom é.|I like it.
+|Is maith.|I like it.|||Shorter and acceptable
+||
 |seoladh|address|shaw-loo
 |Cad é an seoladh atá agat? |What's your address?
+||
 |Aít bhreithe|Place of birth|eh-tch vrey-ha
 
 If you are responding to the question Cá bhfuil tú i do chónaí? you can just say, I(n) and the name of the place.
@@ -43,7 +51,7 @@ The following sentence will prove useful to you if you don't live in the place y
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|Is as Ard Mhacha ó dhúchas mé, ach tá mé i mo chónaí i mBeal Feirste anois.|I'm originally from Armagh, but I live in Belfast now.|As Ard Whacha oh huhas meh, ack taw may i no hoaney in mel ferste anish
+|Is as Ard Mhacha **ó dhúchas** mé, ach tá mé i mo chónaí i mBeal Feirste anois.|I'm originally from Armagh, but I live in Belfast now.|As Ard Whacha **oh huhas** meh, ack taw may i mo hoaney in mel ferste anish
 
 * The Irish for 'in' is i or in.
 * I is used before words beginning with a consonant, and causes an urú:
