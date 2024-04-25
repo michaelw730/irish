@@ -118,7 +118,8 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 ## Counting things
 
 * numbers 2-6 cause séimhiú on words beginning with a consonant (except l,n,r)
-
+* The numbers a haon, a dó, and a ceathair change when counting things.
+* Note how the singular form is used after numbers in Irish:
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
@@ -144,6 +145,7 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 ||
 |trí leabhar	|three books
 ||
+|doras|door
 |doras amháin	|one door
 |ceithre dhoras	|four doors|
 ||
@@ -155,23 +157,14 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 |caife amháin	|one coffee
 |sé chaife	|six coffees
 ||
-|tábla|table
-|doras|door
-
-
-NOTE
-The numbers a haon, a dó, and a ceathair change when counting things.
-Words beginning with a vowel remain unchanged:
-| Irish | English | Phonetic | Sound |
-| ------| ------- | -------- | ----- |
-|ceithre úll	|four apples
-|cúig oráiste	|five oranges
-
-Note how the singular form is used after numbers in Irish:
-| Irish | English | Phonetic | Sound |
-| ------| ------- | -------- | ----- |
 |oráistí	|oranges
 |cúig oráiste	|five oranges
 ||
-|teangacha	|languages
-|dhá theanga	|two languages
+||
+|tábla|table
+|ceithre thábla	|four tables|
+||
+|||Words beginning with a vowel remain unchanged:
+|ceithre úll	|four apples
+|cúig oráiste	|five oranges
+

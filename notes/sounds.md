@@ -107,7 +107,7 @@ io, oi, ui sounds like fit (usually) - gliondar, glione, duine
 
 * eclipse, eclipses or nasalisation
 * it only happens at the beginning of a word
-* inserts a letter before the first letter of the word and you'll pronunce that new letter instead
+* inserts a letter before the first letter of the word and you'll pronounce that new letter instead
 
 |---|---|---|---|---|
 |word begins with|úrú adds|looks like|sounds like (broad/slender)|examples(broad/slender)|

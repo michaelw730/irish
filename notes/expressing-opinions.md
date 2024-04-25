@@ -1,4 +1,6 @@
-# Things you like
+# EXPRESSING OPINIONS
+
+AG CUR TUAIRIMÍ IN IÚL | EXPRESSING OPINIONS
 
 |Irish|English|Phonetic|Sound|
 |------|-------|--------|-----|
@@ -138,9 +140,9 @@ SAYING WHAT SOMETHING IS LIKE
 |Irish|English|Phonetic|Sound|
 |------|-------|--------|-----|
 |Tá sé maith. |It's good.
-|Tá sé an-maith. |It's very good.
+|Tá sé an-mhaith. |It's very good.
 |Tá sé measartha maith. |It's reasonably good.
-|Níl sé rómhaith. |It's not too good.
+|Níl sé rómhaith. |It's not too good.|...ro-why
 |Tá sé go dona. |It's very bad.
 |
 ||ASKING WHETHER SOMETHING IS ANY GOOD
@@ -148,4 +150,6 @@ SAYING WHAT SOMETHING IS LIKE
 |An bhfuil ... maith? |Is ... good?
 |An bhfuil an fíon seo maith? |Is this wine good?
 |An bhfuil maith ar bith sa ...? |Is the ... any good?
-|An bhfuil maith ar bith sa bhialann sin? |Is that restaurant any good?
+|An bhfuil maith ar bith sa bhialann sin? |Is that restaurant any good?|an whil my ar bee sa via-lann sin?|||said quick
+||
+|An bhfuil an bia maith? |Is the food any good?

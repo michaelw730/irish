@@ -1,5 +1,5 @@
 Covered in:
-* [Things you like](../../notes/things-you-like.md)
+* [Expression Opinions](../../notes/expressing-opinions.md)
 * [Numbers](../../notes/numbers.md)
 
 5: Expressing opinions
