@@ -6,6 +6,10 @@ Cad é mar atá tú? How are you?  -This greeting is sometimes preceded by Haló
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
+|AG BUALADH LE DAOINE | MEETING PEOPLE | Ag Bwayla le deeny
+
+|Irish|English|Phonetic|Sound|Info|
+|------|-------|--------|-----|----|
 |Haló|Hello
 |Cad é mar atá tú?|How are you?
 |Cad é mar atá tú inniu?|How are you today?
@@ -29,6 +33,7 @@ Cad é mar atá tú? How are you?  -This greeting is sometimes preceded by Haló
 |Go raibh maith agaibh|Thank you (p)||
 |Go raibh céad maith agat|Thank you very much||
 |Go raibh míle maith agat|Thank you very much||
+|Céad míle fáilte|Hundred thousand welcomes||
 |Tá fáilte romhat| you're welcome
 ||
 |Agus tú féin?|And yourself?|Agus tu hain?

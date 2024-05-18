@@ -43,6 +43,7 @@ TELLING SOMEONE TO WAIT
 |TELLING SOMEONE TO BE QUIET
 ||
 |Ciúnas! |Quiet!|cuoonyis
+|Ciúnigí! |Quiet!|cuoonyis
 |Bí ciúin! |Be quiet!|be cue-in
 |Bígí ciúin!|(plural)|bigee cue-in
 ||

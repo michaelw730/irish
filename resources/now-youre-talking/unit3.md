@@ -4,7 +4,9 @@ Covered in
 * [Phone](../../notes/phone.md)
 * [Time](../../notes/time.md)
 
-3: Speaking about your background
+3
+AG LABHAIRT FAOI DO CHÚLRA | SPEAKING ABOUT YOUR
+BACKGROUND
 
 ASKING SOMEONE WHERE THEY ARE FROM
 
@@ -55,7 +57,7 @@ You can use the following if you wish to be more precise about where you live:
 |... taobh amuigh den bhaile.| ... outside the town
 |... faoin tuath| ... in the countryside
 |... i lár na cathrach| ... in the city centre.
-|sraid| street
+|sráid| street
 |... ar shráid Anraí| ... in Henry Street
 |bóthar| road
 |... ar Bhóthar na Carraige |... on Carrick Road

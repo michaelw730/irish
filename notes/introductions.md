@@ -17,11 +17,11 @@
 |>Mise $NAME|I'm $NAME
 ||
 |Cad é an sloinne atá ort?|What is your surname?|..slinye..|
-|>$NAME an sloinne atá orm.| My surname is $NAME
+|>$SURNAME an sloinne atá orm.| My surname is $SURNAME
 ||
 |C'ainm atá ort? |What's your name?
 |C'ainm atá ortsa?| What's *your* name?
-|>$NAME||||Usually just the name
+|>$NAME||||Usually just the surname
 ||
 ||
 |Cé seo?|Who's this? (one person)

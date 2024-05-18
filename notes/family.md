@@ -48,7 +48,7 @@
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|Seo mo mhathair.|That's my mother|..mo wahher
+|Seo mo mháthair.|That's my mother|..mo wahher
 |Seo m'athair.|That's my father|..maher
 |Seo m'iníon.|That's my daughter|..minyee-in
 |Seo mo mhac.|That's my son|.. mo wock
