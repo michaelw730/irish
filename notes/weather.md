@@ -3,11 +3,21 @@
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- |   ----- |
 |Tá sé...|it is...|taa shay
+|Bhí sé...|it is...|taa shay
 ||
 |fuar|cold|fooar
 |fliuch|wet|flow??
 |te|hot|chay
 |+ gaofar|windy|gayfor?
+|tirim|dry|Chur-im
+|Taise|damp|tasha|
+|grianmhar|sunny|grain-wur
+|scamillach|cloudy|scam-ill-ock
+|geal|bright|gyal
+|dorcha|dark|dora-ha
+|ag cur fearthainne|raining|ig cur far-heen-ya
+|ag cur sneachta|snowing|ag cur snock-ta|
+||
 |iontach|extremely / very |inta?
 |iontach fuar|very cold
 |iontach fliuch|very wet| flyuach??
@@ -23,3 +33,13 @@
 ||
 |Tá drochlá ann.| It's a bad day.|taw drock-lay ann
 |Tá drochlá ann inniu.| It's a bad day today.|taw drock-lay ann inn-u
+||
+|grian|sun|grain
+|ceo|fog|kyo
+|fearthainn|rain|far-heen
+|scamill|cloud|scam-ill
+|sioc|ice|shuck
+|teocht|temperature|chalked
+|sneachta|snow|snock-ta
+|tintreach|lightning|chin-trock
+|toirneach|thunder|torn-yock

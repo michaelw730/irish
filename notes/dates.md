@@ -16,18 +16,22 @@
 |inniu|today
 |anois|now
 ||
+|lá|day|laa
+|Seachtain|week|shak-tin
+|Mí|month|me
+|bliain|year|blane
 
 ## Days of the Week
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
-|An Luan|Monday
-|An Mháirt|Tuesday
-|An Chéadaoin|Wednesday
-|An Déardaoin|Thursday
-|An Aoine|Friday
-|An Satharn|Saturday
-|An Domhnach|Sunday
+|An Luan|Monday|An loo-in
+|An Mháirt|Tuesday|an Wharch
+|An Chéadaoin|Wednesday|an Kayd-een
+|An Déardaoin|Thursday|an Gerard-een
+|An Aoine|Friday|Ann Eenya
+|An Sathairn|Saturday|An Sa-hurn
+|An Domhnach|Sunday|Ann Doe-nac
 
 ## Doing things on Days of the Week
 

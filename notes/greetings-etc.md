@@ -43,6 +43,7 @@
 |Fan bomaite|Wait a minute
 |Tóg go bog é|Take it easy
 |Tá fáilte romhat| you're welcome
+|Comhghairdeas|Congratulations|co-gard-yes
 
 ## Other
 
