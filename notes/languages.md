@@ -42,7 +42,8 @@ If you are responding specifically to the question An bhfuil Gaeilge agat? here 
 |Tá. Tá mé líofa. |Yes. I'm fluent.|Ta. Ta may leefa
 |Tá mé ag foghlaim. |I'm learning.
 ||
-|Cad é na teangacha atá agat? |Which languages can you speak?
+|Cad é na teangacha atá agat? |Which/what languages can you speak?
+|Cad é na teangacha eile atá agat? |Which/what other languages can you speak?
 ||
 |Tá Fraincis agus Gearmáinis agam. |I speak french and German.
 |Tá Iodáilis agam ach níl aon Spáinnis agam. |I speak Italian but I can't speak Spanish.
@@ -80,6 +81,7 @@ When Ní precedes a verb beginning with a consonant (except l, n, or r) it cause
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
+|Tuigim. | understand.
 |Ní thuigim. |I don't understand.
 
 Only a handful of irish verbs (eleven, to be precise) are irregular, but they occur quite frequently. You've already come across one of the most widely used: Tá.

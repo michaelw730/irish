@@ -25,7 +25,9 @@ AG CUR TUAIRIMÍ IN IÚL | EXPRESSING OPINIONS
 |banc	|bank
 |seacláid |chocolate |  |  |
 |portán |crab | porthaan |  ||
+||
 |mar shampla|for example
+|go háirithe|especially|go hairy-heh
 
 SAYING WHAT YOU LIKE DOING
 
@@ -35,11 +37,11 @@ When you talk about the things you like doing or actually participating in, as o
 |------|-------|--------|-----|
 |Is maith liom a bheith ... |I like ...
 ||
-|ag garraíodóireacht |gardening
-|ag péinteáil |painting
-|ag cócaireacht |cooking
-|ag iascaireacht |fishing
-|ag léamh|reading
+|ag garraíodóireacht |gardening|ag garaderact
+|ag péinteáil |painting|ag paint-al
+|ag cócaireacht |cooking|ag cocker-act
+|ag iascaireacht |ag fishing|ag isc-a-ract
+|ag léamh|reading|ag lay-ow
 |ag siúl|walking
 
 Here are some other popular pastimes and activites.
@@ -47,6 +49,7 @@ Here are some other popular pastimes and activites.
 |Irish|English|Phonetic|Sound|
 |------|-------|--------|-----|
 |Is maith liom ... |I like to ...
+||
 |a dhul ag rith. |go running.
 |amharc ar an teilifís. |watch television.
 |éisteacht le ceol. |listen to music.
@@ -97,7 +100,7 @@ Here are some other popular pastimes and activites.
 |------|-------|--------|-----|
 |BIA AGUS DEOCH |food and drink
 |feoil	|meat
-|glásraí	|vegetables
+|glasraí	|vegetables
 |bia mara	|seafood
 |sicín	|chicken
 |fíon bán	|white wine
@@ -153,3 +156,5 @@ SAYING WHAT SOMETHING IS LIKE
 |An bhfuil maith ar bith sa bhialann sin? |Is that restaurant any good?|an whil my ar bee sa via-lann sin?|||said quick
 ||
 |An bhfuil an bia maith? |Is the food any good?
+||
+|bialann|restaurant
