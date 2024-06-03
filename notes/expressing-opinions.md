@@ -147,14 +147,15 @@ SAYING WHAT SOMETHING IS LIKE
 |Tá sé measartha maith. |It's reasonably good.
 |Níl sé rómhaith. |It's not too good.|...ro-why
 |Tá sé go dona. |It's very bad.
-|
+||
 ||ASKING WHETHER SOMETHING IS ANY GOOD
 ||
 |An bhfuil ... maith? |Is ... good?
 |An bhfuil an fíon seo maith? |Is this wine good?
+||
 |An bhfuil maith ar bith sa ...? |Is the ... any good?
 |An bhfuil maith ar bith sa bhialann sin? |Is that restaurant any good?|an whil my ar bee sa via-lann sin?|||said quick
 ||
 |An bhfuil an bia maith? |Is the food any good?
 ||
-|bialann|restaurant
+|bialann|restaurant|bia-lann??

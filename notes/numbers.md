@@ -23,6 +23,8 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
 |uimhir|number|ever
+|uimhreacha|numbers
+|na huimhreacha|the numbers
 ||||
 |a náid|zero||
 ||||

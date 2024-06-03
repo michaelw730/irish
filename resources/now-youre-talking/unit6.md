@@ -37,7 +37,7 @@ uisce beatha	whiskey
 BEING COURTEOUS
 ... le do thoil. ... please.
 Go raibh maith agat. Thank you.
-Maith thú. Thanks.
+Maith thú. Thanks.?????
 Tá fáilte romhat. You're welcome.
 Tá fáilte romhaibh. You're welcome. (when speaking to more than one person)
 ASKING SOMEONE IF THEY TAKE MILK OR SUGAR

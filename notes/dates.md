@@ -5,6 +5,7 @@
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Maidin|morning
+|ar Maidin|in the morning
 |Tráthnóna|evening|tranoana||may be afternon in some dialects
 |iarnóin|afternoon|tranoana||may be only in some dialects
 |Oíche|night.
@@ -15,6 +16,13 @@
 |amárach|tomorrow|amwarach
 |inniu|today
 |anois|now
+|arú inné|the day before
+|an tseachtain seo caite|last week (the week just past)
+|bliain ó shin|a year ago
+|anuraidh|last year
+|an mhí seo caite|month just past
+|an samhradh seo caite|last summer (summer just past)
+|cúpla bomaite ó shin| couple of minutes ago
 ||
 |lá|day|laa
 |Seachtain|week|shak-tin
@@ -25,6 +33,8 @@
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
+|Leathanta na Seachtaine|days of the week
+||
 |An Luan|Monday|An loo-in
 |An Mháirt|Tuesday|an Wharch
 |An Chéadaoin|Wednesday|an Kayd-een
@@ -48,6 +58,17 @@ The only day that doesn't need a Dé in front of is Thursday - An Déardaoin - b
 |Dé hAoine|Friday| je heanya 
 |Dé Sathairn|Saturday|je sahern
 |Dé Domhnaigh|Sunday|je doughny
+
+## Sentences
+
+| Irish | English | Phonetic | Sound |
+| ------| ------- | -------- | ----- |
+|Cad é an lá atá ann innui?| What day is it today?
+|Innui an Luan|Today is Monday
+|Cén lá den tseachtain is fearr leat?| Which day of the week do you prefer?
+|Is fearr liom...|I prefer
+|Is maith liom ... ach is fearr liom...|I like ... but I prefer...
+
 
 ## Months
 

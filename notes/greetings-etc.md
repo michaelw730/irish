@@ -14,6 +14,7 @@
 |Oíche mhaith.|Good evening/night.
 ||
 |Fáilte.|Welcome.
+|beannachtaí|Greetings
 
 ## Goodbyes
 
@@ -26,7 +27,8 @@
 |Slán abhaile|Safe home
 ||
 |Ádh mór|Good luck||
-|Ádh mór ort|Good luck to you||
+|Ádh mór ort|Good luck to you (s)||
+|Ádh mór oraibh|Good luck to you (p)||
 ||
 |Chífidh mé tú. |I'll see you.|||tú or thú??? 
 |Feicfidh mé arís thú.|I'll see you again.|Fecky may arish hu
@@ -50,3 +52,6 @@
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |AONAD 1|Unit 1|
+|níl a fhios agam|I don't know|neil us agam
+|freagair|reply/answer
+|cur Gaeilge air|What's irish for

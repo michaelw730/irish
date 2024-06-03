@@ -51,7 +51,7 @@ If you're in company and the question Cad é ba mhaith libh? is being addressed 
 ||
 |... le do thoil. |... please.
 |Go raibh maith agat. |Thank you.
-|Maith thú. |Thanks.
+|Maith thú. |good on you/well done
 |Tá fáilte romhat. |You're welcome.
 |Tá fáilte romhaibh. |You're welcome. (when speaking to more than one person)
 ||
