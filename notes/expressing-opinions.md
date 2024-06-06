@@ -64,6 +64,15 @@ Here are some other popular pastimes and activites.
 |An maith libh ...? |Do you like... ? (when speaking to more than one person)
 ||GIVING YOUR REPLY
 ||When replying to the question An maith leat ...? there's no need to use liom when saying yes or no.
+||
+|CINEÁLACHA CEOIL |Types of music
+||
+|ceol traidisiúnta	|traditional music
+|ceol clasaiceach	|classical music
+|snagcheol	|jazz
+|roc-cheol	|rock music
+|popcheol	|popular music
+||
 |An maith leat ceol clasaiceach? |Do you like classical music?
 |Is maith. |Yes.
 |Ní maith. |No.
@@ -79,14 +88,6 @@ Here are some other popular pastimes and activites.
 ||You can do this in two ways:
 |An maith leatsa é? |Do you like it?
 |An maith leat féin é? |Do you like it yourself?
-||
-|CINEÁLACHA CEOIL |Types of music
-||
-|ceol traidisiúnta	|traditional music
-|ceol clasaiceach	|classical music
-|snagcheol	|jazz
-|roc-cheol	|rock music
-|popcheol	|popular music
 ||
 ||SAYING THAT YOU PREFER SOMETHING
 ||
@@ -152,6 +153,8 @@ SAYING WHAT SOMETHING IS LIKE
 ||
 |An bhfuil ... maith? |Is ... good?
 |An bhfuil an fíon seo maith? |Is this wine good?
+|An bhfuil sé seo maith? |Is this good?
+|an ceann seo|this one||as in "I prefer this one"
 ||
 |An bhfuil maith ar bith sa ...? |Is the ... any good?
 |An bhfuil maith ar bith sa bhialann sin? |Is that restaurant any good?|an whil my ar bee sa via-lann sin?|||said quick

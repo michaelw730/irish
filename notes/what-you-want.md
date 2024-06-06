@@ -16,6 +16,9 @@ ASKING SOMEONE WHAT THEY WANT
 |SAYING WHAT YOU WANT
 |Ba mhaith liom ... |I'd like ...
 |Ba mhaith liom cupa tae. |I'd like a cup of tea.
+||
+
+|Ba mhaith liom ag dul amach |I'd like to go out
 
 
 When responding to the question Cad é ba mhaith leat? you can drop Ba mhaith liom and simply say the name of the thing you want.
@@ -83,7 +86,7 @@ If you're in company and the question Cad é ba mhaith libh? is being addressed 
 ||
 |deoch	|a drink|dj-o
 |leac oighir	|ice
-|uachtar reoite|ice cream
+|uachtar reoite|ice cream|wechtar rawtcha
 |ceapaire|sandwich
 |milseáin|sweets
 |úll|apple
@@ -99,22 +102,6 @@ If you're in company and the question Cad é ba mhaith libh? is being addressed 
 |
 |B'fhearr ... |I'd prefer ...
 |B'fhearr liom gloine uisce. |I'd prefer a glass of water.
-
-
-COUNTING THINGS
-
-In aonad 4 you learnt how to count up to six things. You saw how the numbers 2-6 cause a séimhiú in words beginning with a consonant (except l, n, and r):
-trí chaife
-cúig phionta
-sé ghloine
-
-The numbers 7-10 cause an urú in words beginning with a consonant (except l, m, n, r, and s) and in all words beginning with a vowel:
-seacht mbuidéal
-ocht bpionta
-naoi ngloine
-deich bpionta
-but
-seacht sú oráiste
 
 
 SAYING CHEERS

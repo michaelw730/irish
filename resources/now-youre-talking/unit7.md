@@ -5,7 +5,7 @@ Covered in:
 
 ASKING SOMEONE WHERE THEY ARE GOING
 Cá bhfuil tú ag dul? Where are you going?
-Cá bhfuil túsa ag dul? Where are you going?
+Cá bhfuil tusa ag dul? Where are you going?
 SAYING WHERE YOU ARE GOING
 Tá mé ag dul ... I'm going ...
 Tá mé ag dul go ... I'm going to ...

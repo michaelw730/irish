@@ -66,11 +66,13 @@ TALKING ABOUT LOCATION
 You can use the following if you wish to be more precise about where you live:
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|Tá mé i mo chónaí i lár an bhaile. |I live in the centre of town.|.. i lar an whalla
+|sráid|street|sradg
+|bóthar|road|baw-yer
+||
+|Tá mé i mo chónaí ... |I live ...
+|... i lár an bhaile. |... in the centre of town.|.. i lar an whalla
 |... taobh amuigh den bhaile.| ... outside the town|.. too amwee den whalla???
 |... faoin tuath| ... in the countryside|fween too-a
 |... i lár na cathrach| ... in the city centre.|i lar na ceh-hra|maybe.. in the center of the city???
-|sráid| street|sradg
 |... ar shráid Anraí| ... in Henry Street |ar hradg anry
-|bóthar| road|baw-yer
 |... ar Bhóthar na Carraige |... on Carrick Road|ar haw-yer na carriga

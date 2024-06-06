@@ -119,9 +119,10 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 
 ## Counting things
 
-* numbers 2-6 cause séimhiú on words beginning with a consonant (except l,n,r)
+* numbers 2-6 cause séimhiú on words beginning with a consonant (except l,n,r). Words beginning with a vowel remain unchanged
 * The numbers a haon, a dó, and a ceathair change when counting things.
-* Note how the singular form is used after numbers in Irish:
+* Note how the singular form is used after numbers in Irish
+* The numbers 7-10 cause an urú in words beginning with a consonant (except l, m, n, r, and s) and in all words beginning with a vowel:
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- | ----- |
@@ -135,14 +136,17 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 |cúig theanga	|five languages
 |sé theanga	|six languages
 ||
+|rothar amháin	|one bike
 |dhá rothar	|two bicylces
 ||
+|chathaoir amháin|one chair| cih-her??
 |dhá chathaoir	|two chairs|yeh hih-her
-|
+||
 |pionta amháin	|one pint
 |trí phionta	|three pints
 |cúig phionta	|five pint
-|socht bpionta| seven pints
+|seacht bpionta| seven pints
+|ocht bpionta|eight pints
 |deich bpionta|ten pints
 ||
 |trí leabhar	|three books
@@ -152,9 +156,11 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 |ceithre dhoras	|four doors|
 ||
 |ceithre bhosca	|four boxes|kera woxsa
+|ocht mbosca	|eight boxes|okt moxsa
 ||
 |buidéal amháin	|one bottle
 |cúig bhuidéal	|five bottles
+|seacht mbuidéal|seven bottles
 ||
 |caife amháin	|one coffee
 |sé chaife	|six coffees
@@ -162,11 +168,18 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 |oráistí	|oranges
 |cúig oráiste	|five oranges
 ||
+|seacht|sú oráiste
+||
+|gloine amháin	|one door
+|naoi ngloine|nine glasses
+||
 ||
 |tábla|table
 |ceithre thábla	|four tables|
 ||
-|||Words beginning with a vowel remain unchanged:
+||
 |ceithre úll	|four apples
-|cúig oráiste	|five oranges
-
+||
+|naoi gcóta|nine coats
+||
+|deich ngeansaí|nine jumpers

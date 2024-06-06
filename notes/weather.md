@@ -3,7 +3,7 @@
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- |   ----- |
 |Tá sé...|it is...|taa shay
-|Bhí sé...|it is...|taa shay
+|Bhí sé...|it was...|vee shay
 ||
 |fuar|cold|fooar
 |fliuch|wet|flow??
