@@ -1,5 +1,8 @@
 # Where you are going
 
+AG RÁ CÁ BHFUIL TÚ AG DUL | SAYING WHERE YOU’RE
+GOING
+
 ASKING SOMEONE WHERE THEY ARE GOING
 
 |Irish|English|Phonetic|Sound|
@@ -38,12 +41,20 @@ ASKING SOMEONE WHERE THEY ARE GOING
 |ollmhargadh|supermarket||ollwarragoo
 |ospidéal|hospital
 |otharlann|hospital
+|pictiúrlann|cinema
+|sólann|leisure centre
 ||
 |Tá mé ag dul go dtí an t-ionad spóirt. |I'm going to the sports centre.
 |Tá mé ag dul go dtí an t-ionad siopadóireachta. |I'm going to the shopping centre.
 |Tá mé ag dul go dtí an t-ollmhargadh. |I'm going to the supermarket.
 |Tá mé ag dul go abhaile. |I'm going home.
 |Tá mé ag dul go amach. |I'm going out.
+|Tá mé ag dul go hoifig an phoist.| I am going to the post ofice
+|Tá mé ag dul go teach an phobail.| I am going to the church
+|Tá mé ag dul go dtí an bhialann. |I'm going to the restaurant.
+||
+|codladh|sleep|coh-loo
+|tá mé ag dul a chodladh|I am going to sleep|...hoh-loo
 |ansin|then ||| as in I'm going to ... and then I'm going to...
 
 ^ MW - notice the t in front of vowels
@@ -86,28 +97,30 @@ ASKING SOMEONE WHAT TIME OR WHEN THEY'RE GOING SOMEWHERE
 |------|-------|--------|-----|
 |Cad é an t-am? |What time?
 |Cad é an t-am atá tú ag dul go Dún Geanainn? |What time are you going to Dungannon?
-|Cá huair? |When?
+|Cá huair? |When?|ca hoo-ar
 |Cá huair atá tú ag dul go Corcaigh? |When are you going to Cork?
 ||
 ||SAYING WHEN YOU'RE GOING SOMEWHERE
 ||
 |Tá mé ag dul go Gaillimh... |I'm going to Galway...
 |Tá mé ag dul... |I'm going ...
-|ag a dó a chlog |at two o'clock
-|i gceann leathuair an chloig |in half an hour|i gen le-hoor a clig
-|i gceann uair an chloig |in an hour's time
-|i gceann trí huaire go leith |in three-and-a-half hours' time
-|anois |now
-|níos moille |later|nees mullya
-|i gceann tamaill |in a while
-|anocht |tonight
-|amárach |tomorrow
+|...ag a dó a chlog |at two o'clock
+|...i gceann leathuair an chloig |in half an hour|i gen le-hoor a clig
+|...i gceann uair an chloig |in an hour's time
+|...i gceann trí huaire go leith |in three-and-a-half hours' time
 ||
-|ar maidin |in the morning
-|meán lae |midday
-|san iarnóin |in the afternoon
-|tráthnóna |in the evening
-|san oíche |in the night
+|...anois |now
+|...níos moille |later|nees mullya
+|...i gceann tamaill |in a while
+||
+|...anocht |tonight
+|...amárach |tomorrow
+||
+|...ar maidin |in the morning
+|...meán lae |midday
+|...san iarnóin |in the afternoon
+|...tráthnóna |in the evening
+|...san oíche |in the night
 ||
 ||The word uair is irregular when preceded by numbers:
 ||

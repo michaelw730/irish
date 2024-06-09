@@ -2,18 +2,20 @@
 
 SAYING WHAT JOB YOU DO
 
+|AG PLÉ POSTANNA | DISCUSSING JOBS
+
 |Irish|English|Phonetic|Sound|
 |------|-------|--------|-----|
 |Is ... mé.|I'm a ...
 |... atá ionam |I'm a ...
 ||
 |Is feirmeoir mé. |I'm a farmer.
-|Siopadóir atá ionam |I'm a shopkeeper.
+|Siopadóir atá ionam |I'm a shopkeeper.|.. atá unam
 ||
 ||ASKING SOMEONE WHAT JOB THEY DO
 ||
 |Cad é an post atá agat? |What job do you do?
-|Cad é an tslí bheatha atá agat? |What do you do for a living?
+|Cad é an tslí bheatha atá agat? |What do you do for a living?|cadj ay an tshlee veha ataa agat
 |Cad é an post atá ag Michael? |What job does Michael have?
 ||
 ||POSTANNA
@@ -26,14 +28,17 @@ SAYING WHAT JOB YOU DO
 |oibrí monarchan	|factory worker
 |banaltra	|nurse
 |dochtúir	|doctor
-|tiománaí	|driver
+|tiománaí	|driver|tchumani
 |bainisteoir	|manager
 |freastalaí	|waiter
 |tógálaí	|builder
 |siúinéir|carpenter|shoonair
+|bean tí|housewife
 |
 |innealtóir|engineer|inyaltar
 |innealtóir ríomhaireachta|computer engineer|inyaltar re-whar-achta|
+|devops innealtóir|devops engineer
+|programmer|ríomhchláraitheoir
 ||
 ||ASKING SOMEONE WHERE THEY WORK
 ||
@@ -64,14 +69,14 @@ SAYING WHAT JOB YOU DO
 ||
 |An maith leat ... |Do you like ...
 |... do phost? |... your job?
-|... do chuid oibre? |... your work?
+|... do chuid oibre? |... your work?|do whid obre
 ||
 ||SAYING YOU ARE NOT WORKING
 ||
 |Níl mé ag obair |I'm not working
-|... faoi láthair. |... at the moment.
-|Tá mé dífhostaithe. |I'm unemployed.
-|Tá mé éirithe as. |I'm retired.
+|... faoi láthair. |... at the moment.|..fee laher
+|Tá mé dífhostaithe. |I'm unemployed.|..dje-host-aha
+|Tá mé éirithe as. |I'm retired.|...airy-a ass
 ||
 ||ASKING SOMEONE WHAT JOB THEY HAD
 |Cad é an post a bhí agat? |What job did you have?
@@ -105,5 +110,5 @@ ASKING SOMEONE IF THEY DO A SPECIFIC JOB
 ||
 ||You can answer this question in the following ways:
 ||
-|Is ea. |Yes (I am).
+|Is ea. |Yes (I am).|sha?? or is-aa??
 |Ní hea. |No (I'm not).
