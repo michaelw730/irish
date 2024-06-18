@@ -1,7 +1,7 @@
 # Where you are going
 
 AG RÁ CÁ BHFUIL TÚ AG DUL | SAYING WHERE YOU’RE
-GOING
+GOING| a reh..
 
 ASKING SOMEONE WHERE THEY ARE GOING
 
@@ -44,16 +44,18 @@ ASKING SOMEONE WHERE THEY ARE GOING
 |pictiúrlann|cinema
 |sólann|leisure centre
 ||
+|codladh|sleep|coh-loo
+||
 |Tá mé ag dul go dtí an t-ionad spóirt. |I'm going to the sports centre.
 |Tá mé ag dul go dtí an t-ionad siopadóireachta. |I'm going to the shopping centre.
 |Tá mé ag dul go dtí an t-ollmhargadh. |I'm going to the supermarket.
+|Tá mé ag dul go dtí an bhialann. |I'm going to the restaurant.
+||
 |Tá mé ag dul go abhaile. |I'm going home.
 |Tá mé ag dul go amach. |I'm going out.
 |Tá mé ag dul go hoifig an phoist.| I am going to the post ofice
 |Tá mé ag dul go teach an phobail.| I am going to the church
-|Tá mé ag dul go dtí an bhialann. |I'm going to the restaurant.
 ||
-|codladh|sleep|coh-loo
 |tá mé ag dul a chodladh|I am going to sleep|...hoh-loo
 |ansin|then ||| as in I'm going to ... and then I'm going to...
 
@@ -69,7 +71,7 @@ There are different ways of saying 'to' in Irish, depending on where you're goin
 ||
 ||*Go doesn't affect words that begin with a consonant, but if the name begins with a vowel, h is placed before it.
 ||
-||Go dtí is used before nouns that are precede by the article:
+||Go dtí is used before nouns that are preceded by the article:
 |Tá mé ag dul go dtí an t-ospidéal. |I am going to the hospital.
 ||
 ||The word chuig is used instead of go or go dtí when you're talking about going to an event or to see a person. We'll deal with chuig in more detail in Aonad 11.
@@ -133,7 +135,7 @@ ASKING SOMEONE WHAT TIME OR WHEN THEY'RE GOING SOMEWHERE
 ||
 ||SAYING IT'S ALMOST A CERTAIN TIME
 ||
-|Tá sé chóir a bheith ... |It's almost ...|Taw shay hor a vey
+|Tá sé chóir a bheith ... |It's almost ...|Taw shay hor a veh
 |Tá sé chóir a bheith a dó a chlog. |It's almost two o'clock.
 |Tá sé chóir a bheith a seacht. |It's almost seven.
 |Tá sé chóir a bheith leath i ndiaidh a haon. |It's almost half one.

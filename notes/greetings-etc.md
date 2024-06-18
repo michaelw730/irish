@@ -40,7 +40,8 @@
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|le do thoil|please
+|le do thoil (s)|please|le de hull
+|le bhur dtoil (p)|please|le wer dul
 |Gabh mo leithscéal|Excuse me
 |Fan bomaite|Wait a minute
 |Tóg go bog é|Take it easy

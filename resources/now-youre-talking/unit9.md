@@ -53,7 +53,7 @@ Gabhaigí amach!
 (plural)
 
 Imigh leat! Go away!
-Imigí leat!
+Imigí libh!
 (plural)
 
 If you want to let someone go ahead of you (in a queue, for example) or if you don't want to interupt someone, you can use the following:

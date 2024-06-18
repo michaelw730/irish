@@ -21,7 +21,7 @@ ASKING SOMEONE IF THEY HAVE CHILDREN
 An bhfuil clann agat? Have you children?
 or
 An bhfuil páistí agat?
-An bhfuil clann agaigh?
+An bhfuil clann agaibh?
 (plural)
 SAYING THAT YOU HAVE OR HAVEN'T CHILDREN
 Tá clann agam/againn. I/we have children.

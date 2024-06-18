@@ -1,21 +1,25 @@
 # The family part 1
 
+|AN TEAGHLACH 1 | THE FAMILY 1
 
 SAYING WHAT YOUR MARITAL STATUS IS
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|Tá mé pósta. |I'm married.
-|Níl mé pósta. |I'm not married.
-|Tá mé singil. |I'm single.
-|Tá mé scartha |I'm separated
-|... ó mo bhean (chéile). |...from my wife.
-|... ó m'fhear (céile). |... from my husband.
-|Is baintreach mé. |I'm a widow/widower.
+|TEAGHLACH| family (as a whole including parents)|chay-la
+|Tá mé pósta. |I'm married.|taa meh posta
+|Níl mé pósta. |I'm not married.|nil meh posta
+|Tá mé singil. |I'm single.|
+|Tá mé scartha |I'm separated|taa meh scarha
+|... ó mo bhean (chéile). |...from my wife.|o mo van hayla
+|... ó m'fhear (céile). |... from my husband.|o mar kayla
+|Is baintreach mé. |I'm a widow/widower.|is bantrack (thoaty ck) me
 ||
 ||ASKING SOMEONE WHAT THEIR MARITAL STATUS IS
 ||
 |An bhfuil tú pósta? |Are you married?
+|An bhfuil tusa pósta? |Are *you* married?
+|An bhfuil tu féin pósta? |Are you married yourself?
 ||
 |Tá. |Yes.
 |Níl. |No.
@@ -25,11 +29,15 @@ SAYING WHAT YOUR MARITAL STATUS IS
 ||ASKING SOMEONE IF THEY HAVE CHILDREN
 ||
 |An bhfuil clann agat? |Have you children?
+|An bhfuil clann agaibh?|(plural)
+|An bhfuil clann agat féin? |Have you children yourself?
 ||or
 |An bhfuil páistí agat?
-|An bhfuil clann agaigh?|(plural)
 ||
 |SAYING THAT YOU HAVE OR HAVEN'T CHILDREN
+||
+|Tá. |Yes.
+|Níl. |No.
 ||
 |Tá clann agam/againn. |I/we have children.
 |mac |a son.
@@ -37,7 +45,7 @@ SAYING WHAT YOUR MARITAL STATUS IS
 |Níl clann ar bith agam/againn. |I/we have no children.
 |Níl páistí ar bith agam/againn. |I/we have no children.
 |Tá mé ag súil le páiste. |I'm expecting a child.
-|Tá mé ag súil le leanbh. |I'm expecting a baby.
+|Tá mé ag súil le leanbh. |I'm expecting a baby.|..ag sool le lanoo
 |Tá mé torrach. |I'm pregnant.
 
 BOYS AND GIRLS
@@ -45,16 +53,17 @@ The following words are used to refer to boys and girls:
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|cailín	|girl
-|cailíní	|girls
+|cailín	|girl|cal-een
+|cailíní	|girls|cal-eeny
 |girseach	|girl
 |girseachaí	|girls
-|buachaill	|boy
-|buachaillí	|boys
+|buachaill	|boy|bohill
+|buachaillí	|boys|bohilly
 |gasúr	|boy
 |gasúraí	|boys
 ||
 ||ASKING SOMEONE HOW MEMBERS OF THEIR FAMILY ARE
+||
 |Cad é mar atá do chlann? |How are your children?
 (when speaking to one person)
 or
@@ -64,6 +73,8 @@ or
 |Cad é mar atá do chlannsa? |How are your children?
 ||or
 |Cad é mar atá do chuid páistíse?
+||
+|Tá siad go maith|they are good.
 
 
 The Irish equivalents of word like 'my' and 'your' that denote possession affect words in different ways:
@@ -84,24 +95,26 @@ ASKING SOMEONE HOW MANY CHILDREN THEY HAVE
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|Cá mhéad páiste atá agat? |How many children have you?
+|Cá mhéad páiste atá agat? |How many children have you?|Ca vhead pawstee ataa agat?
+|
 ||Note that the sigular form of the noun is used after Cá mhéad?
+|
 |Cá mhéad cáilín atá agat? |How many girls have you?
 
 COUNTING PEOPLE
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|duine amháin	|one person
-|beirt	|two people
-|triúr	|three people
-|ceathrar	|four people
-|cúigear	|five people
-|seisear	|six people
-|seachtar	|six people
-|ochtar	|eight people
-|naonúr	|nine people
-|deichniúr	|ten people
+|duine amháin	|one person|dinye awan
+|beirt	|two people|birch
+|triúr	|three people|true-er
+|ceathrar	|four people|cathrer
+|cúigear	|five people|cooiger
+|seisear	|six people|shesher
+|seachtar	|six people|shocktar
+|ochtar	|eight people|oktar
+|naonúr	|nine people|neenar
+|deichniúr	|ten people|dejnur
 
 The nouns following the personal numbers are usually in the genitive plural (although some of the nouns look exactly as they do in the nominative singular). Just learn the following examples for now:
 seisear iníonacha
@@ -116,9 +129,12 @@ SAYING WHAT YOUR CHILDREN ARE DOING
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
+|Tá $NUMBER páiste agam. |I have $NUMBER children.
+|
 |Tá ... acu ar an scoil. |... of them are at school.
+|
 |Tá beirt acu ar an scoil. |Two of them are at school.
 |Tá duine amháin acu sa naíonra. |One of them is in playschool.
 |Tá Síle ar an bhunscoil. |Síle is at primary school.
-|Tá Aodh ar an mheánscoil. |Aodh is at secondary school.
+|Tá Aodh ar an mheánscoil. |Aodh is at secondary school.|...vansckull???
 |Tá Nóra ar an ollscoil. |Nóra is at university.
