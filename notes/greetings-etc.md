@@ -46,7 +46,8 @@
 |Fan bomaite|Wait a minute
 |Tóg go bog é|Take it easy
 |Tá fáilte romhat| you're welcome
-|Comhghairdeas|Congratulations|co-gard-yes
+|Comhghairdeas|Congratulations|co-hard-yes
+|Comhghairdeachas|Congratulations|co-hard-ye-has
 
 ## Other
 

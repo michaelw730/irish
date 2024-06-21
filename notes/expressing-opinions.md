@@ -15,6 +15,7 @@ AG CUR TUAIRIMÍ IN IÚL | EXPRESSING OPINIONS
 |Ní maith liom ar chor ar bith iad. |I don't like them at all.|...ar har a bee ead
 |Is fuath liom... |I hate ...
 ||
+|clár|programme||
 |cláracha	|programmes
 |cláracha faisnéise	|documentaries
 |cláracha spóirt	|sports programmes
