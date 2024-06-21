@@ -134,7 +134,7 @@ COUNTING PEOPLE
 |ceathrar	|four people|cah-rer
 |cúigear	|five people|cooiger
 |seisear	|six people|shesher
-|seachtar	|six people|shocktar
+|seachtar	|seven people|shocktar
 |ochtar	|eight people|oktar
 |naonúr	|nine people|neenar
 |deichniúr	|ten people|djenur
