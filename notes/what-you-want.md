@@ -17,7 +17,6 @@ ASKING SOMEONE WHAT THEY WANT
 |Ba mhaith liom ... |I'd like ...
 |Ba mhaith liom cupa tae. |I'd like a cup of tea.
 ||
-
 |Ba mhaith liom ag dul amach |I'd like to go out
 
 

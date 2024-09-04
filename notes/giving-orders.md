@@ -73,8 +73,8 @@ If you want to let someone go ahead of you (in a queue, for example) or if you d
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|Lean ort. |Carry on.
-|Leanaigí oraibh.|(plural)
+|Lean ort. |Carry on.|lan ort
+|Leanaigí oraibh.|(plural)|lanigi oriv
 ||
 ||CALLING SOMEONE
 ||
@@ -98,6 +98,8 @@ If you want to let someone go ahead of you (in a queue, for example) or if you d
 ||
 |Gabh a luí. |Go to bed.|go a lee
 |Gabhaigí a luí.|(plural)|go-gee a lee
+||
+|Gabh a chodladh. |Go to sleep.|go a haw-loo???
 ||
 |Éirigh! |Get up!|ear-ee
 |Éirígí!|(plural)|ear-igi

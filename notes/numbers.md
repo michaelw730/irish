@@ -139,7 +139,7 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 |rothar amháin	|one bike
 |dhá rothar	|two bicylces
 ||
-|chathaoir amháin|one chair| cih-her??
+|cathaoir amháin|one chair| cih-her??
 |dhá chathaoir	|two chairs|yeh hih-her
 ||
 |pionta amháin	|one pint

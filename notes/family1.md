@@ -13,7 +13,7 @@ SAYING WHAT YOUR MARITAL STATUS IS
 |Tá mé scartha... |I'm separated...|taa meh scarha
 |... ó mo bhean (chéile). |...from my wife.|o mo van hayla
 |... ó m'fhear (céile). |... from my husband.|o mar kayla
-|Is baintreach mé. |I'm a widow/widower.|is bantrack (thoaty ck) me
+|Is baintreach mé. |I'm a widow/widower.|is bantrack (thoaty ck) meh
 ||
 ||ASKING SOMEONE WHAT THEIR MARITAL STATUS IS
 ||
