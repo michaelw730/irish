@@ -6,7 +6,7 @@
 |Bhí sé...|it was...|vee shay
 ||
 |fuar|cold|fooar
-|fliuch|wet|flow??
+|fliuch|wet|flu(ch) [(ch) = soft k]
 |te|hot|chay
 |+ gaofar|windy|gayfor?
 |tirim|dry|Chur-im
@@ -20,19 +20,19 @@
 ||
 |iontach|extremely / very |inta?
 |iontach fuar|very cold
-|iontach fliuch|very wet| flyuach??
+|iontach fliuch|very wet| flu(ch) [(ch) = soft k]
 |iontach te|very hot|ta shay chay
 ||
 |tá|Yes [to agree with the weather]
-|Tá, cinnte.| It is indeed/surely.|taw, kintche
+|Tá, cinnte.| It is indeed/surely.|teh, kintche
 ||
-|Tá lá breá ann.| It's a fine day.| taw law breah ann
-|Tá lá breá ann inniu.| It's a fine day today.| taw law breah ann inn-u
+|Tá lá breá ann.| It's a fine day.| teh leh breah ann
+|Tá lá breá ann inniu.| It's a fine day today.| teh leh breah ann inn-u
 ||
 |...Buíochas le Dia |...thank God (is used quite frequently in this context.)|bwayhas le djia
 ||
-|Tá drochlá ann.| It's a bad day.|taw drock-lay ann
-|Tá drochlá ann inniu.| It's a bad day today.|taw drock-lay ann inn-u
+|Tá drochlá ann.| It's a bad day.|teh drock-leh ann
+|Tá drochlá ann inniu.| It's a bad day today.|teh drock-leh ann inn-u
 ||
 |grian|sun|grain
 |ceo|fog|kyo

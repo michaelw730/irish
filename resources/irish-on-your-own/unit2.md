@@ -3,6 +3,7 @@ Covered in
 * [Family (basic)](../../notes/family.md#basic-family-vocabulary)
 * [Family (introducing)](../../notes/family.md#introducing-family)
 
+```
 2: Introductions
 
 INTRODUCING YOURSELF
@@ -46,7 +47,7 @@ mac = mo mhac
 If mo precedes a word beginning with a vowel or f, the o in mo is dropped:
 iníon = m'iníon
 
-
+```
 
 
 sounds:
@@ -61,3 +62,4 @@ sounds:
 |sólás|confort|sow-las
 |gunna|gun|gun-na
 |gúna|dress|goona
+

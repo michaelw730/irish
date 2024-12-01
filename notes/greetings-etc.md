@@ -20,7 +20,7 @@
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|Slán!|Goodbye.
+|Slán!|Goodbye.|slawn or slen
 |Slán go fóill|Goodbye for now|Slaawn guh foil??||Only say Slán after this as response
 |Slán leat|Goodbye to you (s)
 |Slán libh|Goodbye to you (p)
@@ -53,7 +53,21 @@
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|AONAD 1|Unit 1|
+|AONAD 1|Unit 1| Ay-nid a hein
 |níl a fhios agam|I don't know|neil us agam
 |freagair|reply/answer
-|cur Gaeilge air|What's irish for
+|cur Gaeilge air?|What's irish for?
+|Sin deireadh le aonad|That's it for unit...|Sin djeroo le ay-nid...
+|sparán|purse|sparaan
+|go dtí sin|until then
+
+## Parts of the body (for place names)
+|Irish|English|Phonetic|Sound|Info|
+|------|-------|--------|-----|----|
+|Béal Feirste|Belfast|bell firstye||mouth of the river farset
+|béal|mouth|bell
+||shoulder|goola
+|chos|foot|cos|
+|ceann|head|cyun|
+|droim(?)|back|drim|
+|toín(?)|backside|towin|

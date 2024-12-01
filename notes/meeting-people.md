@@ -2,11 +2,11 @@
 
 ## Meeting People Simply
 
-Cad é mar atá tú? How are you?  -This greeting is sometimes preceded by Haló.
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |AG BUALADH LE DAOINE | MEETING PEOPLE | Ag Bwayla le deeny
+|Cad é mar atá tú? |How are you?  |||This greeting is sometimes preceded by Haló.
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -39,7 +39,7 @@ Cad é mar atá tú? How are you?  -This greeting is sometimes preceded by Haló
 |Agus tú féin?|And yourself?|Agus tu hain?
 ||
 
-Faisnéis | Information
+## Faisnéis | Information
 
 The words mé and tú are called pronouns and are used when you don't need to or want to repeat a noun. Here is a list of pronouns, accompanied by the present tense of the verb bí (be).
 

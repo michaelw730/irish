@@ -1,11 +1,12 @@
 Covered in 
-* [Greetings](../../../notes/greetings.md)
-* [Introductions](../../../notes/introductions.md)
-* [Meeting People](../../../notes/meeting-people.md#meeting-people-simply)
-* [Weather](../../../notes/weather.md)
+* [Greetings](../../notes/greetings-etc.md)
+* [Meeting People](../../notes/meeting-people.md#meeting-people-simply)
+* [Weather](../../notes/weather.md)
 
-AONAD 1 | UNIT 1
 
+# AONAD 1 | UNIT 1 | Ay-nid a hein
+
+```
 1: AG BUALADH LE DAOINE | MEETING PEOPLE | Ag Bwayla le deeny
 
 GREETING SOMEONE
@@ -59,3 +60,4 @@ Slán go fóill. Goodbye for now.
 You can respond to Slán. with another Slán., or with Slán go fóill. If, however, the first person says Slán go fóill., the second person simply says Slán. You also hear the following:
 
 Chífidh mé tú. I'll see you.
+```
