@@ -109,6 +109,7 @@ SAYING CHEERS
 |Irish|English|Phonetic|Sound|
 |------|-------|--------|-----|
 |Sláinte! |Cheers! (literally, Health!)
+|Sláinte mhór|Cheers (response??)
 ||
 |TELLING SOMEONE THAT A DRINK IS THEIRS
 |... duitse. |... for you.

@@ -1,6 +1,7 @@
 # Irish Notes
 
-## Aonad | Unit
+## Aonad | Unit | Ay-nid
+
 * [Greetings](greetings-etc.md)
 * [Meeting People](meeting-people.md)
 * [Weather](weather.md)

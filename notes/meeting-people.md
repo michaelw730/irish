@@ -2,31 +2,36 @@
 
 ## Meeting People Simply
 
-
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |AG BUALADH LE DAOINE | MEETING PEOPLE | Ag Bwayla le deeny
-|Cad é mar atá tú? |How are you?  |||This greeting is sometimes preceded by Haló.
+|
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Haló|Hello
-|Cad é mar atá tú?|How are you?
-|Cad é mar atá tú inniu?|How are you today?
-|Cad é mar atá sibh? (plural)|How are you?||
+|Cad é mar atá tú?|How are you? (s)|||This greeting is sometimes preceded by Haló.
+|Cad é mar atá tú inniu?|How are you today? (s)
+|Cad é mar atá sibh?|How are you? (p)||
+||
 |Tá mé…|I am…
 |Tá mé go maith.| I am good
 |Go maith|Well
 |Á, go maith|Well
 |Go breá|fine|go brea
-|maith go leor|very good|my go lyor
+|Maith go leor|very good|my go lyor
 |Níl mé go maith.| I am not good
+|Ceart go leor|alright
 |Tá mé ceart go leor|I am alright
 |Tá mé go holc. |I am awful
 |>Tá mé go measaratha|I am reasonable/middling||
 |>Tá mé go breá|I am fine|Taw may go breaw??|
-|>Tá sé i gceart|He is rightly||
+|>Tá mé i gceart| am rightly||
 |>Níl caill orm|I am not too bad (or There's no loss upon me)||
+||
+|>Tá sé i gceart|He is rightly||
+||
+|Agus tú féin?|And yourself?|Agus tu hain?
 ||
 |Is maith sin|That's good/great||
 |Go raibh maith agat|Thank you (s)||
@@ -36,7 +41,8 @@
 |Céad míle fáilte|Hundred thousand welcomes||
 |Tá fáilte romhat| you're welcome
 ||
-|Agus tú féin?|And yourself?|Agus tu hain?
+|Go ndéana sé maith duit|May it do you good||If saying thanks for a pint??
+||
 ||
 
 ## Faisnéis | Information

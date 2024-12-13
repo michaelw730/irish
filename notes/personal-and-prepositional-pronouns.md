@@ -45,6 +45,7 @@ It can be difficult to remember all the different prepositional pronouns - but j
 "Cleachtadh a dhéanann maistreacht…" - practice makes perfect!
 
 ag - at
+
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |agam	|at me

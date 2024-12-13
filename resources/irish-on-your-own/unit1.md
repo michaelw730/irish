@@ -3,11 +3,10 @@ Covered in
 * [Meeting People](../../notes/meeting-people.md#meeting-people-simply)
 * [Weather](../../notes/weather.md)
 
-
-# AONAD 1 | UNIT 1 | Ay-nid a hein
+# AONAD 1 | UNIT 1
 
 ```
-1: AG BUALADH LE DAOINE | MEETING PEOPLE | Ag Bwayla le deeny
+1: AG BUALADH LE DAOINE | MEETING PEOPLE
 
 GREETING SOMEONE
 

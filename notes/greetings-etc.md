@@ -14,7 +14,7 @@
 |Oíche mhaith.|Good evening/night.
 ||
 |Fáilte.|Welcome.
-|beannachtaí|Greetings
+|beannachtaí|Greetings|baan-ak-tee
 
 ## Goodbyes
 
@@ -44,10 +44,10 @@
 |le bhur dtoil (p)|please|le wer dul
 |Gabh mo leithscéal|Excuse me
 |Fan bomaite|Wait a minute
-|Tóg go bog é|Take it easy
-|Tá fáilte romhat| you're welcome
+|Tóg go bog é|Take it easy|Toe-g geh bow-g eh
+|Tá fáilte romhat| you're welcome [There is a welcome for / before you]
 |Comhghairdeas|Congratulations|co-hard-yes
-|Comhghairdeachas|Congratulations|co-hard-ye-has
+|Comhghairdeachas|Congratulations (Ulster??)|co-hard-ye-has
 
 ## Other
 
