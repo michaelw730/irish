@@ -1,5 +1,10 @@
 # Irish Notes
 
+## Grammar
+* [Alphabet](alphabet.md)
+* [Sounds](sounds.md)
+* [Personal and Prepositional Pronouns](personal-and-prepositional-pronouns.md)
+
 ## Aonad | Unit | Ay-nid
 
 * [Greetings](greetings-etc.md)
@@ -30,7 +35,6 @@
 * [Dates](dates.md)
 * [Colours](colours.md)
 * [Places](places.md)
-* [Personal and Prepositional Pronouns](personal-and-prepositional-pronouns.md)
 
 
 * [Family](family.md)
@@ -42,6 +46,3 @@
 * [Feelings](feelings.md)
 
 
-## Grammar
-* [Alphabet](alphabet.md)
-* [Sounds](sounds.md)

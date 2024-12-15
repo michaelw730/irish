@@ -20,14 +20,14 @@
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|Slán!|Goodbye.|slawn or slen
+|Slán!|Goodbye. [Safe/Health]|slawn or slen
 |Slán go fóill|Goodbye for now|Slaawn guh foil??||Only say Slán after this as response
-|Slán leat|Goodbye to you (s)
+|Slán leat|Goodbye to you (s) [may safety or health be with you]
 |Slán libh|Goodbye to you (p)
 |Slán abhaile|Safe home
 ||
-|Ádh mór|Good luck||
-|Ádh mór ort|Good luck to you (s)||
+|Ádh mór|Good luck [big luck]||
+|Ádh mór ort|Good luck to you (s) [big luck on you]||
 |Ádh mór oraibh|Good luck to you (p)||
 ||
 |Chífidh mé tú. |I'll see you.|||tú or thú??? 

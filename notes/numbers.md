@@ -54,7 +54,7 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 |fiche a haon|twenty one|fihha a haon|
 |...
 |triocha|thirty|truck-ah
-|daichead|forty|dah-hid
+|Ceathracha/daichead|forty|Ca-ra-hach/dah-hid
 |caoga|fifty|cway-gah
 |seasca|sixty|shahs-kah
 |seachtó|seventy|shock toe

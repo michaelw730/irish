@@ -29,6 +29,17 @@ These are used when you want to place emphasis on the personal pronoun.
 |tusa |you, yourself
 |Is **mise** Antaine agus is **mise** an duine is sine sa rang.|**I'm** Antaine and **I'm** the oldest in the class.
 
+### Posessive pronouns
+
+|Irish|English|Phonetic|Sound|Info|
+|------|-------|--------|-----|----|
+|MY|mo / m’ (before vowels)
+|YOUR|do / d’ (before vowels)
+|HIS / ITS|a
+|HERS|a (add “h” before vowels)
+|OURS|ár
+|YOURS (plural)|bhur
+|THEIRS|a
 
 ## Prepositional pronouns
 
@@ -44,7 +55,7 @@ It can be difficult to remember all the different prepositional pronouns - but j
 
 "Cleachtadh a dhéanann maistreacht…" - practice makes perfect!
 
-ag - at
+### ag - at
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -56,7 +67,7 @@ ag - at
 |agaibh	|at you (plural)
 |acu	|at them
 
-ar - on
+### ar - on
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -68,7 +79,7 @@ ar - on
 |oraibh	|on you (plural)
 |orthu	|on them
 
-le - with
+### le - with
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -80,7 +91,7 @@ le - with
 |libh	|with you (plural)
 |leo	|with them
 
-as - out of, from
+### as - out of, from
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -92,7 +103,7 @@ as - out of, from
 |asaibh	|from you (plural)
 |astu	|from them
 
-chuig - to
+### chuig - to
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -104,7 +115,7 @@ chuig - to
 |chugaibh	|to you (plural)
 |chucu	|to them
 
-do - for
+### do - for
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -116,7 +127,7 @@ do - for
 |daoibh	|for you (plural)
 |dóibh	|for them
 
-faoi - under
+### faoi - under
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -128,7 +139,7 @@ faoi - under
 |fúibh	|under you (plural)
 |fúthu	|under them
 
-de - of
+### de - of
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -140,7 +151,7 @@ de - of
 |díbh	|of you (plural)
 |díobh	|of them
 
-i - in
+### i - in
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -152,7 +163,7 @@ i - in
 |ionaibh	|in you (plural)
 |iontu	|in them
 
-idir - between
+### idir - between
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -164,7 +175,7 @@ idir - between
 |eadraibh	|between you (plural)
 |eatarthu	|between them
 
-ó - from
+### ó - from
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -176,7 +187,7 @@ idir - between
 |uaibh	|from you (plural)
 |uathu	|from them
 
-roimh - before
+### roimh - before
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -188,7 +199,7 @@ roimh - before
 |romhaibh	|before you (plural)
 |rompu	|before them
 
-thar - over, past
+### thar - over, past
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
@@ -200,8 +211,7 @@ thar - over, past
 |tharaibh	|over you (plural)
 |tharstu	|over them
 
-
-trí - through, by
+### trí - through, by
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|

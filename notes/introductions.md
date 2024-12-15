@@ -2,15 +2,16 @@
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
+|CUR IN AITHNE | INTRODUCTIONS|cur in an-yuh
 |ainm|Name
-|sloinne |surname
+|sloinne |surname|slin-you
 |sloinnte |surnames
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|Cad é an t-ainm atá ort?|What is your name?||
+|Cad é an t-ainm atá ort?|What is your name? [What name is on you?]||
 |Cad é an t-ainm atá ort féin?|What is your own name?||
-|>$NAME an t-ainm atá orm.| My name is $NAME
+|>$NAME an t-ainm atá orm.| My name is $NAME [$NAME is the name on me]
 ||
 |Cé thusa?|Who are you?|Kay husa?|
 |>Is mise $NAME|I am $NAME
@@ -38,7 +39,7 @@
 |Cé hí?|Who is she?||
 |Is í... í|He is||
 |Cé hiad?|Who are they?||
-|Is iad... iad|He is||
+|Is iad... iad|They are...||
 
 
 * Surnames:
