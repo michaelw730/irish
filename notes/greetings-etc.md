@@ -60,6 +60,7 @@
 |Sin deireadh le aonad|That's it for unit...|Sin djeroo le ay-nid...
 |sparán|purse|sparaan
 |go dtí sin|until then
+|cluiche fichille??|Game of Chess??||Clee-ha feel-a
 
 ## Parts of the body (for place names)
 |Irish|English|Phonetic|Sound|Info|
