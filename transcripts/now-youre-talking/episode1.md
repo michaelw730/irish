@@ -235,5 +235,61 @@ And, when the weater is fine, which isn't often enough, we usually thank God. `B
     * `Go maith, go raibh maith agat.`
       * `Tá lá breá ann.`
         * `Tá, buíochas le Dia`
-          * `cluiche fichille`?? Game of Chess??
-            * `Tá cinnte`
+          * `Cluiche fichille?`?? Game of Chess??
+            * `Cinnte`
+
+
+* Conversation 42
+  * `Cad é mar atá tú, Fiona?`
+    * `Tá mé go maith.  Cad é mar atá tú féin?`
+      * `Go maith, go raibh maith agat.  Tá lá breá ann.`
+        * `Tá, buíochas le Dia`
+
+
+* Conversation 43
+  * `Buíochas le Dia`
+
+`Buíochas le Dia` - thanks be to God.  [Repeat]
+
+* Conversation 44
+
+D: `Oh, go maith, go raibh maith agat`
+D: `Umm, , agus tú féin?`
+D: `OK, Slán a mhamaí.`
+D: `Slán!`
+D: `Oh, go raibh maith agat`
+S: `Tá lá breá ann`
+D: `Tá`
+S: `Tá sé té`
+D: `Tá... cinnte`
+D: `Slán!`
+S: `Slán!`
+S: `Hallo!`
+S: `Hallo!`
+S: `Projute an fón?`?????
+D: `Oh, go raibh maith agat`  
+
+
+The word `slán` that you heard there means goodbye.  Séan asks Deirdre for `Projute an fón?` - change for the phone.  Deirdre keeps her change in a purse `sparán` which is what a Scots man wears over his kilt.  Let's watch it again.
+
+Repeat Conversation 44
+
+Conversation 45
+
+D: `Lucky day Tuesday, today the cavalry rides in.  But be careful, it may take more than it leaves.`
+
+
+There were probably a few words in the program that you didn't understand.  Don't worry about these, we'll deal with them later on.  Next time, we'll look at ways at introducing yourself and others.  So until then `Go dtí sin, slán`.
+
+In this episode of 'Not you're talking' you heard:
+* `Cad é mar atá tú?`
+* `Cad é mar atá sibh?`
+* `Go maith.`
+* `Go maith, go raibh maith agat.`
+* `Agus tú féin?`
+* `Tá drochlá ann.`
+* `Tá lá breá ann`
+* `Tá sé té`
+* `Tá sé fuar`
+* `Tá sé fliuch.`
+* `Buíochas le Dia`

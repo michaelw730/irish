@@ -43,7 +43,7 @@
 ||
 |Go ndéana sé maith duit|May it do you good||If saying thanks for a pint??
 ||
-||
+|Cluiche fichille?|A game of chess?|Clee-ha feel-ha
 
 ## Faisnéis | Information
 
