@@ -1,0 +1,78 @@
+```
+18: Going on holiday
+
+SAYING YOU ARE GOING ON HOLIDAY
+Tá mé ag dul ar soaire.* I'm going on holiday.
+Tá muid ag dul ar soaire.* We're going on holiday.
+*Laethanta saoire is also used.
+ASKING SOMEONE WHERE THEY'RE GOING
+Cá háit? Where?
+Cá bhfuil tú ag dul? Where are you going?
+Cá háit a bhfuil tú ag dul ar saoire i mbliana? Where are you going on holiday this year?
+SAYING WHERE YOU'RE GOING
+Tá mé ag dul thar lear. I'm going abroad.
+Tá mé ag dul go dtí an Spáinn. I'm going to Spain.
+COUNTRIES
+tír	a country
+tíortha	countries
+Éire/Éirinn	Ireland
+Sasana	England
+Albain	Scotland
+An Bhreatain Bheag	Wales
+An Fhrainc	France
+An Ghearmáin	Germany
+An Spáinn	Spain
+An Iodáil	Italy
+An Ghréig	Greece
+Meiriceá	America
+ASKING SOMEONE HOW LONG THEY'RE GOING TO SPEND SOMEWHERE
+Cá fhad ...? How long ...?
+Cá fhad a bheas tú sa Fhrainc? How long will you be in France?
+SAYING HOW LONG YOU'LL BE SOMEWHERE
+You have already learnt the following words:
+seachtain a week
+coicís a fortnight
+mí a month
+Have a look now at what happens when you place ar feadh ('for') in front of the above words:
+ar feadh seachtaine
+ar feadh coicíse
+ar feadh míosa
+
+Nouns that come after ar feadh, therefore, are usually placed in the genitive case.
+ASKING SOMEONE WHO'S GOING WITH THEM
+Cé atá ag dul leat? Who is going with you?
+or
+Cé atá ag dul libh? Who is going with you?
+
+Here are some possible answers:
+Mo chara. My friend.
+Mo chairde. My friends.
+Tá mé ag dul liom féin.
+or
+Tá mé ag dul i m'aonar. I'm going on my own.
+ASKING ABOUT TRAVEL ARRANGEMENTS
+An bhfuil tú ag dul ...? Are you going ...?
+ar an eitleán by plane
+ar an bhád by boat
+ar an traein by train
+sa charr by car
+ASKING SOMEONE WHERE THEY'LL BE STAYING
+Cá háit a mbeidh tú ag fanacht? Where will you be staying?
+Cá háit a mbeidh sibh ag fanacht? (plural)
+SAYING WHERE YOU WILL BE STAYING
+Beidh mé ag fanacht ... I'll be staying ...
+in óstán in a hotel
+i dteach lóistín in a guest house
+i mbrú in a hostel
+i gcarbhán in a caravan
+ASKING SOMEONE IF THEY'RE LOOKING FORWARD TO SOMETHING
+An bhfuil tú ag súil go mór leis? Are you looking forward to it?
+SAYING YOU'RE LOOKING FORWARD TO SOMETHING
+Tá mé ag súil go mór leis. I'm looking forward to it.
+
+In reply to the question An bhfuil tú ag súil go mór leis? you can simply say Tá or Níl.
+DESCRIBING ACCOMMODATION
+seomra singil a single room
+seomra dúbailte a double room
+seomra le cithfholcadán a room with a shower
+```

@@ -1,0 +1,133 @@
+```
+29: Living and working abroad
+
+GREETING SOMEONE YOU HAVEN'T SEEN FOR A WHILE
+Cad é an dóigh atá ort? How are you keeping?
+Ní fhaca mé le fada tú. I haven't seen you in a long time.
+Ní fhaca mé le tamall tú. I haven't seen you for a while.
+ASKING SOMEONE IF THEY HAVE BEEN ABROAD
+An raibh tú thar lear? Were you abroad? or Have you been abroad?
+SAYING WHERE YOU HAVE BEEN
+Bhí mé thar lear. I was abroad.
+SAYING WHAT COUNTRY YOU'VE BEEN TO
+You learnt the names of various countries in Aonad 18. Let's look now at how you say you've been in a particular country.
+Bhí mé ... I was ...
+sa Spáinn in Spain
+sa Ghearmáin in Germany
+san Iodáil in Italy
+san Astráil in Australia
+i Meiriceá in America
+i Sasana in England
+in Albain in Scotland
+There are different ways of saying 'in' a country in Irish, depending on whether or not the name of the country is preceded by the article, an.
+If it is, you use sa before a consonant and san before a vowel:
+an Fhrainc France
+sa Fhrainc in France
+
+an Iodáil Italy
+san Iodáil in Italy
+
+If the name of the country is not preceded by an,
+you use i before a consonant and in before a vowel:
+Meiriceá America
+i Meiriceá in America
+
+Albain Scotland
+in Albain in Scotland
+
+Where the name is preceded by the plural article, sna is used:
+na Stáit Aontaithe the United States
+sna Stáit Aontaithe in the United States
+SAYING HOW LONG YOU WERE ABROAD
+Bhí mé ansin ... I was there ...
+ar feadh míosa for a month
+ar feadh dhá mhí for two months
+ar feadh seacht mí for seven months
+ar feadh bliana for a year
+As you saw in Aonad 18, nouns that directly follow ar feadh are in the genitive case, and most undergo some change:
+mí - ar feadh míosa
+bliain - ar feadh bliana
+
+However, if a number is placed between ar feadh and the noun, there is no change other than that caused by the number:
+ar feadh dhá mhí
+ar feadh ocht mí
+ar feadh dhá bhliain
+
+You can use ar feadh to refer to a period in the past that is finished:
+Bhí mé ansin ar feadh bliana I was there for a year.
+
+Le, which we came across in Aonad 26, is used to refer to something that is continuing:
+Tá mé i mo chónaí anseo le cúig bliana. I am living here for five years.
+ASKING SOMEONE WHEN THEY CAME BACK
+Cá huair a tháinig tú ar ais? When did you come back?
+ASKING SOMEONE IF THEY WERE WORKING THERE
+An raibh tú ag obair ansin? Were you working there?
+SAYING WHAT WORK YOU DID
+Bhí mé ag múineadh Bearla. I was teaching English.
+Bhí mé ag tabhairt aire do pháistí. I was taking care of children.
+Bhí mé ag staidéar. I was studying.
+Bhí mé ag déanamh cúrsa Fraincise. I was doing a French course.
+Bhí mé ag obair mar thógálaí. I was working as a builder.
+SAYING THAT SOMETHING WAS GREAT
+Bhí sé go hiontach. It was great.
+Bbí sé go hiontach ar fad. It was really great.
+SAYING WHY YOU DIDN'T ENJOY BEING SOMEWHERE
+Bhí sé an-fhuar ansin. It was very cold there.
+Bhí sé i bhfad róthe. It was far too hot.
+Bhí cumha orm. I was homesick.
+Bhí an obair róchrua. The work was too hard.
+NÁISIÚNTACHTAÍ Nationalities
+Éireannach	an Irish person
+Éireannaigh	Irish people
+Francach	a French person
+Francaigh	French people
+Spáinneach	a Spaniard
+Spáinnigh	Spainish people
+Gearmánach	a German
+Gearmánaigh	German people
+Iodálach	an Italian
+Iodálaigh	Italian people
+Astrálach	an Australian
+Astrálaigh	Australian people
+Meiriceánach	an American
+Meiriceánaigh	American people
+Sasanach	an English person
+Sasanaigh	English people
+Albanach	a Scot
+Albanaigh	Scottish people
+
+Very often the plural article, na, is placed before the above words:
+Chaith na Gearmánaigh go maith liom.
+The Germans treated me well.
+The nouns you have just learnt can also be used as adjectives:
+Francach	a French person
+bia Francach	French food
+Spáinneach	a Spaniard
+ceol Spáinneach	Spanish music
+ASKING FOR AN OPINION ON A NATIONALITY
+Cad é a shíleann tú de na hIodálaigh? What do you think of the Italians?
+GIVING AN OPINION
+Tá siad iontach* cineálta. They are very kind.
+Tá siad an-díograiseach mar dhaoine. They are very dilligent people.
+Tá siad lách mar dhaoine. They are pleasant people.
+*In the Ulster dialect, iontach is often used instead of an-.
+ASKING SOMEONE IF THEY WENT BY THEMSELVES
+An ndeachaigh tú leat féin? Did you go by yourself?
+
+In reply you can say:
+Chuaigh./Ni dheachaigh. Yes, I did./No, I didn't.
+SAYING WHO ACCOMPANIED YOU
+Chuaigh mo chara Siobhán in éineacht liom. My friend Siobhán went with me.
+Chuaigh mo chairde Dónall agus Niall liom. My friends Dónall and Niall went with me.
+ASKING SOMEONE IF THEY LIVED ALONE OR WITH OTHER PEOPLE
+An raibh tú i do chónaí leat féin? Did you live alone?
+An raibh tú i do chónaí le daoine eile? Did you live with other people?
+GIVING YOUR REPLY
+Bhí./Ní raibh. Yes, I did./No, I didn't.
+
+Two other phrases that you might use are:
+Bhí ar dtús ... I was at first ...
+ach ansin bhóg mé isteach le daoine eile. but then I moved in with other people.
+or
+ach ansin fuair mé áit domh féin. but then I got my own place.
+```

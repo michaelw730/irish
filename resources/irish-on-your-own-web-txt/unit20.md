@@ -1,0 +1,83 @@
+```
+20: Describing people
+
+ASKING WHAT SOMEONE LOOKS LIKE
+Cad é an chuma atá air? What does he look like?
+Cad é an chuma atá uirthi? What does she look like?
+SAYING WHAT A PERSON LOOKS LIKE
+Tá sé ... He's ...
+Tá sí ... She's ...
+ard tall
+beag small
+ramhar fat
+tanaí thin
+dathúil
+or
+dóighiúil handsome, goodlooking
+Is fear beag é. He's a small man.
+Is bean ard í. She's a tall woman.
+SAYING THAT SOMEONE IS GETTING FAT OF THIN
+Tá sé ag éirí ramhar. He's getting fat.
+Tá sí ag éirí tanaí. She's getting thin.
+ASKING WHAT SOMEONES CHARACTER IS LIKE
+Cad é an cinéal duine é? What kind of person is he?
+Cad é an cinéal duine í? What kind of person is she?
+DESCRIBING SOMEONE'S CHARACTER
+Is fear lách é. He's a pleasant man.
+Tá sé lách.
+Is bean chairdiúil í. She's a friendly woman.
+Tá sí cairdiúil.
+Ní duine rólách é. He isn't a very pleasant person.
+Níl sé rólách.
+Ní duine róchairdiúil í. She isn't a very friendly person.
+Most adjectives come after the noun in Irish:
+fear dathúil
+lá deas
+
+A feminine noun adds a séimhiú to an adjective that begins with a consonant (other than l, n, or r).
+bean chairdiúil
+bean bheag
+DESCRIBING HAIR COLOUR
+gruaig dhubh	black hair
+gruaig fhionn	blond hair
+gruaig dhonn	brown hair
+gruaig bhán	white hair
+gruaig liath	grey hair
+gruaig rua	red hair
+
+Tá gruaig dhubh orm. I have black hair.
+Tá gruaig fhionn air. He has blond hair.
+Tá gruaig dhonn uirthi. She has brown hair.
+Tá féasóg dhubh air. He has a black beard.
+DESCRIBING HAIR LENGTH AND STYLE
+Tá gruaig ghairid air. He has short hair.
+Tá gruaig fhada uirthi. She has long hair.
+Tá gruaig chatach air. He has curly hair.
+Tá gruaig dhíreach air. He has straight hair.
+As in English, words describing length of hair or beard come before words that describe colour:
+gruaig fhada dhonn
+
+Tá gruaig dhubh orm. I have black hair. (literally, There's black hair on me)
+
+You need these words to talk about other peoples hair:
+ort	on you	orainn	on us
+air	on him	oraibh	on you
+uirthi	on her	orthu	on them
+
+Tá gruaig fhada orthu.
+Tá gruaig chatach rua uirthi.
+DESCRIBING EYES
+You're already familiar with the colours in Irish. Have a look now at how they change in the plural.
+gorm
+súile gorma blue eyes
+donn
+súile donna brown eyes
+glas
+súile glasa green eyes
+liath
+súile liatha grey eyes
+
+Tá súile glasa agam. I have green eyes.
+Tá súile donn aige. He has brown eyes.
+Tá súile gorma aici. She has blue eyes.
+```

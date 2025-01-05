@@ -1,0 +1,118 @@
+```
+16: Shopping
+
+ASKING HOW MUCH THINGS COST
+Cá mhéad atá air seo? How much is this?
+Cá mhéad atá orthu seo? How much are these?
+Cá mhéad atá air sin? How much is that?
+Cá mhéad atá orthu sin? How much are those?
+COUNTING THE POUNDS
+Punt is a regular noun and follows the rules you learnt earlier for counting things.
+punt	one pound
+dhá phunt	two pounds
+trí phunt	three pounds
+ceithre phunt	four pounds
+cúig phunt	five pounds
+sé phunt	six pounds
+seacht bpunt	seven pounds
+naoi bpunt	nine pounds
+deich bpunt	ten pounds
+
+Eleven pounds is aon punt déag
+
+12-19 are easy to remember: simply add déag to 2-9 pounds:
+dhá phunt déag
+cúig phunt déag
+ocht bpunt déag
+
+Twenty pounds is fiche punt
+DEALING WITH QUANTITIES
+an ceann	each
+an dosaen	per dozen
+an mála	per bag
+an buidéal	per bottle
+an bosca	per box
+an cileagram	per kilogram
+an punt	per pound
+an lítear	per litre
+an pionta	per pint
+LOOKING AFTER THE PENNIES
+The word pingin (penny) is irregular and doesn't follow the rules for counting things.
+pingin	one penny
+dhá phingin	two pence
+trí pingine	three pence
+ceithre pingine	four pence
+cúig pingine	five pence
+sé pingine	six pence
+seacht bpingine	seven pence
+ocht bpingine	eight pence
+naoi bpingine	nine pence
+deich bpingine	ten pence
+
+Remember this pattern:
+1p	2p	3-6p	7-10p
+pingin	dhá phingin	... pingine	... bpingine
+
+Eleven pence is aon phingin déag.
+
+Again just add déag to 2-9 pence to get 12-19 pence.
+ceithre pingine* déag
+naoi bpingine* déag
+* When you listen to the tape you'll notice that the e is not pronounced before the word déag.
+
+Twenty pence is fiche pingin.
+REFERRING TO ITEMS BY NAME
+Cá mhéad atá ar an fhíon sin? How much is that wine?
+Cá mhéad atá ar na pinn luaidhe seo? How much are these pencils?
+Cá mhéad atá ar an cháca seo? How much is this cake?
+The words ar an cause a séimhiú in nouns beginning with the leters b, c, f, g, m, and p:
+an caife the coffee
+but
+Cá mhéad atá ar an cháife seo?
+
+an bainne
+but
+Cá mhéad atá ar an bhainne?
+ASKING WHAT THE TOTAL PRICE IS
+Cá mhéad sin? How much is that?
+ASKING FOR CHANGE
+An bhfuil briseadh agat? Have you change?
+An bhfuil briseadh puint agat? Have you change of a pound?
+SAYING YOU HAVE NO MONEY
+Níl leathphingin rua agam. I have no money./ I'm broke. (Literally, I haven't got a red halfpenny.)
+20-100
+20	fiche punt	fiche pingin
+30	tríocha punt	tríocha pingin
+40	ceathracha punt	ceathracha pingin
+50	caoga punt	caoga pingin
+60	seasca punt	seasca pingin
+70	seachtó punt	seachtó pingin
+80	ochtó punt	ochtó pingin
+90	nócha punt	nócha pingin
+100	céad punt	céad pingin
+
+Counting the pounds and pence in between is simple enough.
+21p	fiche is a haon pingin (literally, twenty and one pence)
+22p	fiche is a dó pingin
+£33	tríocha is a trí punt
+£44	ceathracha is a ceathair punt
+55p	caoga is a cúig pingin
+£66	seasca is a sé punt
+77p	seachtó is a seacht pingin
+£88	ochtó is a hocht punt
+99p	nócha is a naoi pingin
+Note that the forms punt and pingin are used between 21 and 100.
+EXPRESSING AN OPINION ON PRICES
+Tá sé saor. It's cheap.
+Tá sé an-saor. It's very cheap.
+Tá siad daor. They're dear (expensive).
+Tá siad an-daor. They're very dear.
+Tá sé ródhaor. It's too dear.
+Tá siad i bhfad ródhaor. They're far too dear.
+COMBINING POUNDS AND PENCE
+Ceithre phunt caoga (pingin*) £4.50
+Sé phunt seachtó is a cúig (pingin*) £6.75
+Dhá phunt déag nócha is a naoi (pingin*) £10.99
+Tríocha is a sé punt ochtó is a seacht (pingin*) £36.87
+*You have a choice here whether or not to use pingin; most people don't.
+```

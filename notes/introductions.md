@@ -17,7 +17,7 @@
 |>Is mise $NAME|I am $NAME
 |>Mise $NAME|I'm $NAME
 ||
-|Cad é an sloinne atá ort?|What is your surname?|..slinye..|
+|Cad é an sloinne atá ort?|What is your surname?|..slinyou..|
 |>$SURNAME an sloinne atá orm.| My surname is $SURNAME
 ||
 |C'ainm atá ort? |What's your name?

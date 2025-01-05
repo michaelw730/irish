@@ -1,0 +1,119 @@
+```
+25: Location and movement part 2
+
+ASKING WHERE SOMETHING IS
+You learnt the folllowing in Aonad 15:
+Cá bhfuil ...? Where is ...?
+
+Here is a longer more polite version of the question:
+An bhfuil a fhios agat cá bhfuil ..?
+or
+An bhfuil a fhios agat cá háit a bhfuil ..? Do you know where ... is/are?
+GIVING DIRECTIONS
+Téigh síos an bóthar. Go down the road.
+Téigh suas an tsráid. Go up the street.
+Tóg an chéad tiontú ar chlé. Take the first turn on the left.
+Tóg an dara tiontú ar dheis. Take the second turn on the right.
+Téigh díreach ar aghaidh. Go straight on.
+Téigh trasna an droichid. Go across the bridge.
+Téigh síos go dtí an crosbhóthar. Go down to the crossroads.
+In Irish, two words rather than one are often used to describe location:
+os comhair	opposite
+os cionn	above
+ar chúl	behind
+
+Nouns coming after these are put in the genitive case:
+an siopa	the shop
+os comhair an tsiopa	opposite the shop
+an leabharlann	the library
+ar chúl na leabharlainne	behind the library
+DESCRIBING LOCATION
+Tá sé ansin ar thaobh na láimhe clé. It's there on the left-hand side.
+Tá sé anseo ar thaobh na láimhe deise. It's here on the right-hand side.
+ar an choirnéal on the corner
+os comhair an chaife opposite the café
+ar chúl na leabharlainne behind the library
+GIVING REASONS FOR NOT BEING ABLE TO HELP
+Tá brón orm. Níl a fhios agam. I'm sorry, I don't know.
+Níl barúil agam (cá bhfuil sé). I have no idea (where it is).
+Ní as an cheantar seo mé. I'm not from this area.
+LOCATION OR DIRECTION?
+We've already come across some of the single words used in Irish to describe location:
+thuas	up
+thíos	down
+thall	yonder/over there
+amuigh	outside
+
+The single words that describe direction can be divided into two groups:
+
+(1)Words that describe movement away from the speaker:
+Chuaigh sé ...	He went ...
+suas	up
+síos	down
+anonn	over
+amach	out
+isteach	in
+
+(2)Words that describe movement towards the speaker:
+Tháinig sí ...	She came ...
+aníos	up
+anuas	down
+anall	over
+amach	out
+isteach	in
+
+When we last looked at directions, we came across the ordinal numbers an chéad (the first) and an deichiú (the tenth). Nouns beginning with a consonant (except d, n, t, l, or s) take a séimhiú after an chéad:
+an chéad chrosbhóthar	the first crossroads
+but	
+an chéad tiontú	the first turn
+
+Words beginning with a consonant don't change after the numbers an dara (the second) to an deichiú (the tenth):
+an dara crosbhóthar
+
+the second crossroads
+
+Vowels that follow an dara to an deichiú, however, are preceded by h:
+an dara háit	the second place
+an séú háit	the sixth place
+CEANN
+As we saw in Aonad 22, the word ceann means 'head', but in certain contexts it can also mean 'one'.
+an chéad cheann ar chlé the first one on the left
+DÁTAÍ DATES
+The ordinal numbers are also used when talking about dates.
+
+an chéad lá de mhí Eanáir the first of January
+(Literally the first day of the month of January)
+
+Here is a complete list of the months of the year:
+Eanaír	January
+Feabhra	February
+Márta	March
+Aibreán	April
+Bealtaine	May
+Meitheamh	June
+Iúil	July
+Lúnasa	August
+Meán Fómhair	September
+Deireadh Fómhair	October
+Samhain	November
+Nollaig*	December
+
+*The word Nollaig also means 'Christmas'.
+The months in Irish are usualy preceded by the word mí (month), or by de mí (of the month) when a specific date is being mentioned:
+mí Feabhra	February
+an ceathrú lá de mhí feabhra	the fourth of February
+
+This shorter version is also acceptable but it is less widely used:
+an ceathrú lá d'fheabhra	the fourth of February
+an chéad lá d'Aibreán	the first of April
+
+Note how the following months change slightly after the word mí (month), or de mí:
+An tríú lá de mhí an Mhárta
+An ceathrú lá de mhí an Aibreáin
+An cúigiú lá de mhí na Bealtaine
+An séú lá de mhí an Mheithimh
+An seachtú lá de mhí an Mheán Fómhair
+An t-ochtú lá de mhí an Dheireadh Fómhair
+An naoú lá de mhí na Samhna
+An deichiú lá de mhí na Nollag
+```
