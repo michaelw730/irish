@@ -1,4 +1,3 @@
-```
 26: More about background and dates
 
 ASKING WHERE SOMEONE WAS BORN
@@ -113,4 +112,3 @@ Cad é an dáta atá ...?
 or
 Cén dáta atá ...? What date is...?
 Cén dáta atá an chóisir ar siúl? What date is the party on?
-```

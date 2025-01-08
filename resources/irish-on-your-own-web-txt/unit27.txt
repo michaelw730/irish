@@ -1,4 +1,3 @@
-```
 27: Going to the restaurant
 
 FINDING OUT IF SOMEONE WANTS TO GO FOR A MEAL
@@ -60,4 +59,3 @@ Tá drochbhlas air seo. This tastes bad.
 Níl an t-iasc seo úr. This fish is not fresh.
 Tá na glasraí róbhruite. The vegetables are overdone.
 Níl sé ródheas. It's not very nice.
-```

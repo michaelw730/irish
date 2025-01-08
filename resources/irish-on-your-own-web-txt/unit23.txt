@@ -1,4 +1,3 @@
-```
 23: Asking for permission and favor
 
 ASKING FOR PERMISSION
@@ -44,4 +43,3 @@ Níl sé/sí ... He/She isn't ...
 san oifig. in the office.
 anseo faoi láthair. here at the moment.
 ag obair inniú. at work today.
-```

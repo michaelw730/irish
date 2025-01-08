@@ -1,4 +1,3 @@
-```
 12: Taking your leave
 
 SAYING YOU HAVE TO GO
@@ -72,4 +71,3 @@ Chífidh mé i gceann seachtaine tú. I'll see you in a week's time.
 Chífidh mé i gceann coicíse tú. I'll see you in a fortnight's time.
 Chífidh mé i gceann míosa tú. I'll see you in a month's time.
 Chífidh mé an mhí seo chugainn tú. I'll see you next month.
-```

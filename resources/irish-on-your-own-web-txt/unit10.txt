@@ -1,4 +1,3 @@
-```
 10: The family part 1
 
 Information Text from the Workbook
@@ -100,4 +99,3 @@ Tá duine amháin acu sa naíonra. One of them is in playschool.
 Tá Síle ar an bhunscoil. Síle is at primary school.
 Tá Aodh ar an mheánscoil. Aodh is at secondary school.
 Tá Nóra ar an ollscoil. Nóra is at university.
-```

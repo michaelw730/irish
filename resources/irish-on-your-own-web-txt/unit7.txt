@@ -1,4 +1,3 @@
-```
 7: Saying where you're going
 
 ASKING SOMEONE WHERE THEY ARE GOING
@@ -73,4 +72,3 @@ Tá sé choir a bheith ... It's almost ...
 Tá sé choir a bheith a dó a chlog. It's almost two o'clock.
 Tá sé choir a bheith a seacht. It's almost seven.
 Tá sé choir a bheith leath i ndiaidh a haon. It's almost half one.
-```

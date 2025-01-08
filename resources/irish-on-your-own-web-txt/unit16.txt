@@ -1,4 +1,3 @@
-```
 16: Shopping
 
 ASKING HOW MUCH THINGS COST
@@ -115,4 +114,3 @@ Sé phunt seachtó is a cúig (pingin*) £6.75
 Dhá phunt déag nócha is a naoi (pingin*) £10.99
 Tríocha is a sé punt ochtó is a seacht (pingin*) £36.87
 *You have a choice here whether or not to use pingin; most people don't.
-```

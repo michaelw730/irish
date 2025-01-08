@@ -1,4 +1,3 @@
-```
 11: Saying what you did
 
 |AG RÁ CAD É A RINNE TÚ | SAYING WHAT YOU DID
@@ -94,4 +93,3 @@ Chuig is used when you're talking about going to an event, an appointment, or a 
 Chuaigh mé chuig an dochtúir.	I went to the doctor.
 Chuir mé litir chuig Anna.	I sent a letter to Anna.
 Chaith sé cnámh chuig an mhadadh.	He threw a bone to the dog.
-```

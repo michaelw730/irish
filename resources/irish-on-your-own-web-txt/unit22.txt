@@ -1,4 +1,3 @@
-```
 22: Illness and injuries
 
 ASKING SOMEONE HOW THEY FEEL
@@ -82,4 +81,3 @@ maith	good
 níos fearr	better
 olc	bad
 níos measa	worse
-```

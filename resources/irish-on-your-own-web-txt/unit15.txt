@@ -1,4 +1,3 @@
-```
 15: Location and movement part 1
 
 ASKING WHERE SOMETHING IS
@@ -96,4 +95,3 @@ thuas up
 thíos ... down
 (taobh) amuigh outside
 (taobh) istigh ... inside
-```

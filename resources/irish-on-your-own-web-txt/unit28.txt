@@ -1,4 +1,3 @@
-```
 28: Pastimes and talents
 
 Information Text from the Workbook
@@ -99,4 +98,3 @@ Tá ag éirí go maith liom. I'm doing fine.
 Tá ag éirí go hiontach liom. I'm doing really well.
 Níl ag éirí go rómhaith liom. I'm not doing very well.
 Tá eagla orm nach bhfuil ag éirí go rómhaith liom. I'm afraid I'm not doing very well.
-```

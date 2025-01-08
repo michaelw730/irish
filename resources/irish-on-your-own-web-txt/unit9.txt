@@ -1,4 +1,3 @@
-```
 9: Giving orders and instructions
 
 TELLING SOMEONE TO COME IN
@@ -105,4 +104,3 @@ Therefore, the vowels on each side of a consonant must match in words made up of
 Broad vowels	Slender vowels
 fanaigí	imigí
 ólaigí	goitsigí
-```

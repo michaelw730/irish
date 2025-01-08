@@ -1,4 +1,3 @@
-```
 6: Ordering drinks
 
 ASKING SOMEONE WHAT THEY WANT
@@ -97,4 +96,3 @@ do (for / to) + tú (you) + se (which is used to add emphasis to tú).
 
 Earlier we saw the word domhsa, which means 'for me' or 'to me' and is a combination of the following elements:
 do (for / to) + mé (me) + sa (which is used to add emphasis to mé).
-```

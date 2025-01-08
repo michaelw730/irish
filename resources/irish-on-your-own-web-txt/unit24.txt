@@ -1,4 +1,3 @@
-```
 24: Exchanging news
 
 ASKING SOMEONE IF THEY HAVE ANY NEWS
@@ -52,4 +51,3 @@ Sin drochscéala. That's bad news.
 Tá brón orm sin a chloisteáil.
 or
 Tá mé buartha sin a chloisteáil. I'm sorry to hear that.
-```
