@@ -47,33 +47,6 @@ some of the people there for the first time. See how you get on.
 Say who you are. 
 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 A woman joins the company. This time you introduce yourself and 
 ask her what her name is. 
 
@@ -137,28 +110,6 @@ Máire Ní Riain
 
 2 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
 Aonad 2 
@@ -250,36 +201,7 @@ gúna
 3 
 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
  
  
 Aonad 2 
@@ -344,35 +266,7 @@ Seo mo chuid mac.
 4 
 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
  
  
 Aonad 2 
@@ -421,40 +315,3 @@ curtha in oiriúint ag Iontaobhas ULTACH do Fhoras na Gaeilge
 
 5 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
