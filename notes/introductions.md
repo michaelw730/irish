@@ -34,10 +34,12 @@
 |> Sin (é) $NAME.|He is $NAME.||
 ||
 ||
+|Cé mise?|Who am I?||
 |Cé hé?|Who is he?||
 |Is é... é|He is||
 |Cé hí?|Who is she?||
 |Is í... í|He is||
+|Cé sinne?|Who are we?||
 |Cé hiad?|Who are they?||
 |Is iad... iad|They are...||
 
@@ -58,8 +60,8 @@ sounds:
 |fear|man|far
 |féar|grass|fay-r
 |fionn|blond|finn
-|fíon|wine|fain
+|fíon|wine|fee-in
 |solas|light|sawlas
-|sólás|comfort|sow-las
+|sólás|comfort|sow-laas
 |gunna|gun|gun-na
 |gúna|dress|goona

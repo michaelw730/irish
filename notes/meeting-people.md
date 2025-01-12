@@ -4,7 +4,8 @@
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|AG BUALADH LE DAOINE | MEETING PEOPLE | Ag Bwayla le deeny
+|daoine|people|
+|AG BUALADH LE DAOINE | MEETING PEOPLE | Ag Bwayla le deeny||Literally - meeting with people??
 |
 
 |Irish|English|Phonetic|Sound|Info|
@@ -41,7 +42,7 @@
 |Céad míle fáilte|Hundred thousand welcomes||
 |Tá fáilte romhat| you're welcome
 ||
-|Go ndéana sé maith duit|May it do you good||If saying thanks for a pint??
+|Go ndéana sé maith duit|May it do you good/May it be good for you||If saying thanks for a pint??
 ||
 |Cluiche fichille?|A game of chess?|Clee-ha feel-ha
 

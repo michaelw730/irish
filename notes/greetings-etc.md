@@ -45,6 +45,7 @@
 |Gabh mo leithscéal|Excuse me
 |Fan bomaite|Wait a minute
 |Tóg go bog é|Take it easy|Toe-g geh bow-g eh
+|póg mo thóin|kiss my ass|powg moh hoe-n
 |Tá fáilte romhat| you're welcome [There is a welcome for / before you]
 |Comhghairdeas|Congratulations|co-hard-yes
 |Comhghairdeachas|Congratulations (Ulster??)|co-hard-ye-has
@@ -55,20 +56,22 @@
 |------|-------|--------|-----|----|
 |AONAD 1|Unit 1| Ay-nid a hein
 |níl a fhios agam|I don't know|neil us agam
-|freagair|reply/answer
+|Tá a fhios agam|I know| Ta us agam
+|freagair|reply/answer|freggar
 |cur Gaeilge air?|What's irish for?
-|Sin deireadh le aonad|That's it for unit...|Sin djeroo le ay-nid...
+|deireadh|end|djeroo
+|Sin deireadh le aonad|That's the end of unit...|Sin djeroo le ay-nid...
 |sparán|purse|sparaan
 |go dtí sin|until then
-|cluiche fichille??|Game of Chess??||Clee-ha feel-a
+|cluiche fichille?|Chess game?||Clee-ha feel-a
 
 ## Parts of the body (for place names)
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Béal Feirste|Belfast|bell firstye||mouth of the river farset
 |béal|mouth|bell
-||shoulder|goola
-|chos|foot|cos|
-|ceann|head|cyun|
+|guala(?)|shoulder|goola
+|chos(?)|foot|cos|
+|ceann(?)|head|cyun|
 |droim(?)|back|drim|
 |toín(?)|backside|towin|

@@ -6,11 +6,15 @@
 * [Sounds](sounds.md)
 * [Personal and Prepositional Pronouns](personal-and-prepositional-pronouns.md)
 
+
 ## Irish on your own/Now you're talking
+
+### Various
+
+* [Greetings](greetings-etc.md)
 
 ### Unit 1
 
-* [Greetings](greetings-etc.md)
 * [Meeting People](meeting-people.md)
 * [Weather](weather.md)
 
