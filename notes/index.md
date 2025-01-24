@@ -27,7 +27,7 @@
 ### Unit 3
 
 * [Person Background](person-background.md)
-* [Numbers](numbers.md)
+* [Numbers](numbers.md#numbers)
 * [Phone](phone.md)
 * [Time](time.md)
 

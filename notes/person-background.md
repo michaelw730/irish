@@ -67,6 +67,11 @@ You can use the following if you wish to be more precise about where you live:
 |------|-------|--------|-----|----|
 |sráid|street|sradg
 |bóthar|road|baw-yer
+|lár|centre|lar
+|taobh amuigh|outside|too amwee
+|baile|town|balla
+|cathrach|city|ceh-hra
+|tuath|countryside|too-a
 ||
 |Tá mé i mo chónaí ... |I live ...
 |... i lár an bhaile. |... in the centre of town.|.. i lar an whalla
