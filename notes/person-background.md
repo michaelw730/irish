@@ -66,7 +66,7 @@ You can use the following if you wish to be more precise about where you live:
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |sráid|street|sradg
-|bóthar|road|baw-yer
+|bóthar|road|baw-her
 |lár|centre|lar
 |taobh amuigh|outside|too amwee
 |baile|town|balla
@@ -79,4 +79,4 @@ You can use the following if you wish to be more precise about where you live:
 |... faoin tuath| ... in the countryside|fween too-a
 |... i lár na cathrach| ... in the city centre.|i lar na ceh-hra|maybe.. in the center of the city???
 |... ar shráid Anraí| ... in Henry Street |ar hradg anry
-|... ar Bhóthar na Carraige |... on Carrick Road|ar haw-yer na carriga
+|... ar Bhóthar na Carraige |... on Carrick Road|ar waw-her na carriga

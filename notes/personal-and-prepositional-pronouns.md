@@ -27,7 +27,7 @@ These are used when you want to place emphasis on the personal pronoun.
 |------|-------|--------|-----|----|
 |mise|me, myself
 |tusa |you, yourself
-|Is **mise** Antaine agus is **mise** an duine is sine sa rang.|**I'm** Antaine and **I'm** the oldest in the class.
+|Is **mise** Antaine agus is **mise** an duine is sine sa rang.|**I'm** Antaine and **I'm** the oldest person in the class.
 
 ### Posessive pronouns
 

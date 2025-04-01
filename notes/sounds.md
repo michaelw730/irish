@@ -31,7 +31,7 @@ most important to learn first:
 * broad d = normal d
 * slender d Dia, cuidiú, leid sounds like j e.g. j Joe, vigil, ledge
 * broad l = normal l
-* slender l Liam, baile, peil sounds lik lj e.g. million, will you
+* slender l Liam, baile, peil sounds like lj e.g. million, will you
 * broad n = normal n
 * slender n níl, slionne sounds like nj e.g. sinew minion
 
@@ -118,7 +118,7 @@ io, oi, ui sounds like fit (usually) - gliondar, glione, duine
 |f|bh|bhf|woo/vein|and bfhuil tú/i bhFear Manach
 |g|n|ng|wing|i nGaillimh
 |h,l,m,n
-|p|bp|boy|i bPáras
+|p|bp|boy||i bPáras
 |r
 |t|d|dt|do/jet|i dTrá Lí/ár dteach
 

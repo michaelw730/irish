@@ -5,7 +5,7 @@
   * j,k
   * q
   * v,w,x,y,z
-* sometimes load words have these
+* sometimes loan words have these
     * jab == job
     * veain == van
 * 18 letters - a, b, c, d, e, f, g, h, i, l, m, n, o, p, r, s, t, u

@@ -14,7 +14,7 @@ The basic cardinal numbers in Irish, from 0 to 10 are:
 |Seacht|Seven|Shakht|
 |Ocht|Eight|Awkht|
 |Naoi|Nine|Nee|
-|Deich|Ten||Jeh
+|Deich|Ten|Jay
 
 Counting numbers you need the a...
 

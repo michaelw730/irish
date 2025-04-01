@@ -4,7 +4,8 @@
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|daoine|people|
+|daoine|people|deeny
+|duine|person|dinye
 |AG BUALADH LE DAOINE | MEETING PEOPLE | Ag Bwayla le deeny||Literally - meeting with people??
 |
 
@@ -27,7 +28,7 @@
 |Tá mé go holc. |I am awful
 |>Tá mé go measaratha|I am reasonable/middling||
 |>Tá mé go breá|I am fine|Taw may go breaw??|
-|>Tá mé i gceart| am rightly||
+|>Tá mé i gceart|I am rightly||
 |>Níl caill orm|I am not too bad (or There's no loss upon me)||
 ||
 |>Tá sé i gceart|He is rightly||
