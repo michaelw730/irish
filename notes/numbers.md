@@ -54,7 +54,7 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 |fiche a haon|twenty one|fihha a haon|
 |...
 |triocha|thirty|truck-ah
-|Ceathracha/daichead|forty|Cara-hach/die-hid
+|daichead/Ceathracha|forty|die-hid/Cara-hach
 |caoga|fifty|cway-gah
 |seasca|sixty|shahs-kah
 |seachtó|seventy|shock toe
@@ -168,7 +168,7 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 |oráistí	|oranges
 |cúig oráiste	|five oranges
 ||
-|seacht|sú oráiste
+|seacht sú oráiste|seven orange juices
 ||
 |gloine amháin	|one door
 |naoi ngloine|nine glasses
