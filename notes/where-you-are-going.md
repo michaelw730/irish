@@ -24,7 +24,7 @@ ASKING SOMEONE WHERE THEY ARE GOING
 |banc|bank	
 |teach an phobail|church
 |oifig an phoist|post office	
-|caife|cafe
+|caife|cafe|ca-fay
 |garáiste|garage	
 |teach tábhairne|pub
 |tithe tábhairne|pubs
@@ -57,7 +57,7 @@ ASKING SOMEONE WHERE THEY ARE GOING
 |Tá mé ag dul go teach an phobail.| I am going to the church
 ||
 |tá mé ag dul a chodladh|I am going to sleep|...hoh-loo
-|ansin|then ||| as in I'm going to ... and then I'm going to...
+|ansin|then || as in I'm going to ... and then I'm going to...
 
 ^ MW - notice the t in front of vowels
 

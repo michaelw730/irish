@@ -64,8 +64,11 @@
 |sparán|purse|sparaan
 |go dtí sin|until then
 |cluiche fichille?|Chess game?||Clee-ha feel-a
+|lá breithe shona|happy birthday|laa brayha
+|lá breithe shona duit|happy bithday to you
 
 ## Parts of the body (for place names)
+
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Béal Feirste|Belfast|bell firstye||mouth of the river farset

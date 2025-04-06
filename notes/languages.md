@@ -9,7 +9,7 @@ ASKING SOMEONE IF THEY SPEAK A LANGUAGE
 |An bhfuil ... agat? |Can you speak ...? (literally, Have you ...?)
 |An bhfuil Gaeilge agat? |Can you speak Irish?
 |An bhfuil Fraincis agat? |Can you speak French?
-|teanga	|a language|tchanga??
+|teanga	|a language|tchangy??
 |teangacha|Languages|tchangaha??
 
 |Irish|English|Phonetic|Sound|Info|
@@ -59,7 +59,7 @@ If you are responding specifically to the question An bhfuil Gaeilge agat? here 
 |San ollscoil|At the university
 |Ó fhístéipeanna sa bhaile. |From videos at home.
 ||
-|An dtuigeann tú Gaeilge? |Do you understand Irish?|an diggin to Gaelig?
+|An dtuigeann tú Gaeilge? |Do you understand Irish?|an diggin to Gaelic?
 |Tuigim. |Yes (I do understand).
 |Ní thuigim. |No (I don't understand).
 
@@ -73,7 +73,7 @@ As you've probably noticed, there's no equivalent of the words 'yes' or 'no' in 
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|An ólann tú caife?| Do you drink coffee?
+|An ólann tú caife?|Do you drink coffee?
 |Ólaim. |Yes.
 |Ní ólaim |No.
 

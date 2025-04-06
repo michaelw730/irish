@@ -44,9 +44,12 @@ SAYING WHAT JOB YOU DO
 |innealtóir|engineer|inyaltar
 |innealtóir ríomhaireachta|computer engineer|inyaltar re-whar-achta|
 |devops innealtóir|devops engineer
-|programmer|ríomhchláraitheoir
+|programmer|ríomhchláraitheoir|reo-clar-e-har
 ||
 ||ASKING SOMEONE WHERE THEY WORK
+|
+|bunscoil |primary school
+|meánscoil |secondary school
 ||
 |Cá bhfuil tú ag obair? |Where do you work?
 ||
@@ -89,8 +92,8 @@ SAYING WHAT JOB YOU DO
 ||
 |Níl mé ag obair ...|I'm not working...
 |Tá mé dífhostaithe... |I'm unemployed...|..djee-ost-aha
-|... faoi láthair. |... at the moment.|..fee laher
-|Tá mé éirithe as... |I'm retired...|...airy-a ass
+|... faoi láthair. |... at the moment (literal: present).|..fee laher
+|Tá mé éirithe as |I'm retired|...airy-a ass
 ||
 ||ASKING SOMEONE WHAT JOB THEY HAD
 |Cad é an post a bhí agat? |What job did you have?

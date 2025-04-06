@@ -9,12 +9,12 @@
 |fuar|cold|fooar
 |fliuch|wet|flu(ch) [(ch) = soft k]
 |te|hot|chay
-|+ gaofar|windy|gayfor?
+|gaofar|windy|gweefor/geefo?
 |tirim|dry|Chur-im
 |Taise|damp|tasha|
 |grianmhar|sunny|grain-wur
 |scamillach|cloudy|scam-ill-ock
-|geal|bright|gyal/gal??
+|geal|bright|gyal
 |dorcha|dark|dora-ha
 |ag cur fearthainne|raining|ig cur far-heen-ya
 |ag cur sneachta|snowing|ag cur snock-ta|

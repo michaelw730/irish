@@ -15,9 +15,9 @@
 |iníon* |daughter|nyee-in (like news)||* In Ulster the i at the beginning of iníon is not pronounced.
 |mac |son|mawck
 ||
-|céile	|spouse
-|fear céile	|husband [man spouse]
-|bean chéile|wife [woman spouse]
+|céile	|spouse|kayla
+|fear céile	|husband [man spouse]|far kayla
+|bean chéile|wife [woman spouse]|bah hayla
 
 ## extended family vocabulary
 

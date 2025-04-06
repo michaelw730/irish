@@ -26,7 +26,8 @@ ASKING SOMEONE WHERE THEY LIVE
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|Cá bhfuil tú i do chónaí?|Where do you live?
+|Cá bhfuil tú?|Where are you?
+|Cá bhfuil tú i do chónaí?|Where do you live? (literal: where are you in your living?)
 |Tá mé i mo chónaí i(n)... |I live in...
 |Tá mé i mo chónaí in Aontroim. |I live in Antrim.
 |Tá mé i mo chónaí i nDún Geanainn. |I live in Dungannon.

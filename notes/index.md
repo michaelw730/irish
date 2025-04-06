@@ -6,6 +6,9 @@
 * [Sounds](sounds.md)
 * [Personal and Prepositional Pronouns](personal-and-prepositional-pronouns.md)
 
+## Common
+
+* [Places](places.md)
 
 ## Irish on your own/Now you're talking
 
@@ -31,13 +34,16 @@
 * [Phone](phone.md)
 * [Time](time.md)
 
+Reference:
+* [Places](places.md)
+
 ### Unit 4
 
 * [Languages](languages.md)
+* [Numbers - Counting things](numbers.md#counting-things)
 
 ### Unit 5
 
-* [Numbers - Counting things](numbers.md#counting-things)
 * [Expressing Opinions](expressing-opinions.md)
 
 ### Unit 6
@@ -84,7 +90,6 @@
 * [Personality Traits](personality-traits.md)
 * [Dates](dates.md)
 * [Colours](colours.md)
-* [Places](places.md)
 * [Family](family.md)
 * [My house](my_house.md)
 * [Hobbies and interests](hobbies_and_interests.md)

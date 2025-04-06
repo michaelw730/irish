@@ -84,7 +84,7 @@ If you're in company and the question Cad é ba mhaith libh? is being addressed 
 |Ar mhaith libh ...? |Would you like ...? (when speaking to more than one person)
 ||
 |deoch	|a drink|dj-o
-|leac oighir	|ice
+|leac oighir	|ice|lack eye-er
 |uachtar reoite|ice cream|wechtar rawtcha
 |ceapaire|sandwich
 |milseáin|sweets
@@ -99,8 +99,8 @@ If you're in company and the question Cad é ba mhaith libh? is being addressed 
 |
 ||SAYING YOU WOULD PREFER SOMETHING
 |
-|B'fhearr ... |I'd prefer ...
-|B'fhearr liom gloine uisce. |I'd prefer a glass of water.
+|B'fhearr ... |I'd prefer ...|bear...
+|B'fhearr liom gloine uisce. |I'd prefer a glass of water.|Bear liom glinye ish-ke
 
 
 SAYING CHEERS
@@ -117,7 +117,8 @@ SAYING CHEERS
 |Seo do ... |Here's your ...
 |Seo do phionta |Here's your pint.
 |
-||TRADITIONAL TOASTS
+||TRADITIONAL TOASTS (probably not useful)
+|
 |Sláinte mhaith agat i bhfad ó bhrón.|Good health, free from sorrow.
 |Sláinte do bheo agus tróicaire do mharbh.|Health to the living and mercy on the dead.
 |Go mba fada a mhairfidh tú.|Long life to you
