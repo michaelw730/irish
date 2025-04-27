@@ -2,12 +2,16 @@
 
 | Irish | English | Phonetic | Sound |
 | ------| ------- | -------- |   ----- |
+|lá|day|laa??
+||
 |Tá sé...|it is...|taa shay
 |Bhí sé...|it was...|vee shay
 |Níl sé...|it is not...|taa shay
+|Tá sé lá...|it is a ... day|taa shay laa ... day
 ||
 |fuar|cold|fooar
 |fliuch|wet|flu(ch) [(ch) = soft k]
+|báistí|rainy|
 |te|hot|chay
 |gaofar|windy|gweefor/geefo?
 |tirim|dry|Chur-im
@@ -16,6 +20,7 @@
 |scamillach|cloudy|scam-ill-ock
 |geal|bright|gyal
 |dorcha|dark|dora-ha
+|
 |ag cur fearthainne|raining|ig cur far-heen-ya
 |ag cur sneachta|snowing|ag cur snock-ta|
 ||
@@ -27,7 +32,6 @@
 |tá|Yes [to agree with the weather]
 |Tá, cinnte.| It is indeed/surely.|teh, kintche
 ||
-|lá|day|laa??
 |Tá lá breá ann.| It's a fine day.| teh leh breah ann
 |Tá lá breá ann inniu.| It's a fine day today.| teh leh breah ann inn-u
 ||

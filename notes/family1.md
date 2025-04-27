@@ -7,9 +7,10 @@ SAYING WHAT YOUR MARITAL STATUS IS
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |TEAGHLACH| family (as a whole including parents)|chay-la
-|Tá mé pósta. |I'm married.|taa meh posta
-|Níl mé pósta. |I'm not married.|nil meh posta
+|Tá mé pósta. |I'm married.|taa meh pawsta
+|Níl mé pósta. |I'm not married.|nil meh pawsta
 |Tá mé singil. |I'm single.|
+|Tá mé geallta. |I'm engaged.|...galta
 |Tá mé scartha... |I'm separated...|taa meh scarha
 |... ó mo bhean (chéile). |...from my wife.|o mo van hayla
 |... ó m'fhear (céile). |... from my husband.|o mar kayla
@@ -24,12 +25,11 @@ SAYING WHAT YOUR MARITAL STATUS IS
 |Tá. |Yes.
 |Níl. |No.
 |Níl go fóill. |Not yet.
-|Tá mé geallta. |I'm engaged.|...galta
 ||
 ||ASKING SOMEONE IF THEY HAVE CHILDREN
 ||
-|páiste|child
-|páistí|children
+|páiste|child|peh-steh
+|páistí|children|peh-stee
 ||
 |An bhfuil clann agat? |Have you children?
 |An bhfuil clann agaibh?|(plural)
@@ -49,10 +49,10 @@ SAYING WHAT YOUR MARITAL STATUS IS
 |iníon |a daughter
 |Tá mac agam. |I have a son.
 |Tá iníon agam. |I have a daughter.
-|Níl clann ar bith agam. |I have no children.
-|Níl clann ar bith againn. |We have no children.
-|Níl páistí ar bith agam. |I have no children.
-|Níl páistí ar bith againn. |We have no children.
+|Níl clann ar bith agam. |I have no children at all.
+|Níl clann ar bith againn. |We have no children at all.
+|Níl páistí ar bith agam. |I have no children at all.
+|Níl páistí ar bith againn. |We have no children at all.
 |Tá mé ag súil le páiste. |I'm expecting a child.
 |Tá mé ag súil le leanbh. |I'm expecting a baby.|..ag sool le lanoo
 |Tá mé torrach. |I'm pregnant.
@@ -75,17 +75,16 @@ The following words are used to refer to boys and girls:
 ||
 ||ASKING SOMEONE HOW MEMBERS OF THEIR FAMILY ARE
 ||
-|Cad é mar atá do chlann? |How are your children?
-(when speaking to one person)
-or
-|Cad é mar atá do chuid páistí?
+|Cad é mar atá do chlann? |How are your children? (when speaking to one person)
+||or
+|Cad é mar atá do chuid páistí?|How are your children?
 ||
 ||This is how you return the question:
-|Cad é mar atá do chlannsa? |How are your children?
+|Cad é mar atá do chlannsa? |How are *your* children?
 ||or
-|Cad é mar atá do chuid páistíse?
+|Cad é mar atá do chuid *páistíse*?|How are *your* children?
 ||
-|Tá siad go maith|they are good.
+|Tá siad go maith|They are good.
 
 
 The Irish equivalents of word like 'my' and 'your' that denote possession affect words in different ways:
@@ -104,10 +103,10 @@ Mo and the other words above that denote possession are never stressed in everyd
 
 |Irish|English|Phonetic|Sound
 |------|-------|--------|-----|
-|mo mhacsa|my son
-|do mhacsa|your son
-|do mháthairse|your mother
-|d'iníonsa|your daughter
+|mo mhacsa|*my* son
+|do mhacsa|*your* son
+|do mháthairse|*your* mother
+|d'iníonsa|*your* daughter
 
 ASKING SOMEONE HOW MANY CHILDREN THEY HAVE
 
@@ -120,6 +119,7 @@ ASKING SOMEONE HOW MANY CHILDREN THEY HAVE
 |Cá mhéad cáilín atá agat? |How many girls have you?
 |
 |Cá mhéad duine? |How many people?
+|
 |lón inniu|lunch today|loan in-nu
 |meánlae|midday
 |an chéad Aibreán|first of april|an chid A-ibrin
@@ -144,28 +144,35 @@ The nouns following the personal numbers are usually in the genitive plural (alt
 * triúr mac
 * ceathrar buachaillí
 * cúigear cailíní
+* triúr iníonacha
+* mac amháin
 
 One last thing to remember: words beginning with a consonant take a séimhiú after beirt.
 * beirt mhac
+* beirt chailíní
 
 This rule doesn't apply to the other personal numbers.
 
-other examples:
-* triúr iníonacha
-* mac amháin
-* beirt chailíní
-* ceathrar bhuachaillí
-
 SAYING WHAT YOUR CHILDREN ARE DOING
+* `ar`== at??
+* `sa` == in
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
 |Tá $NUMBER páiste agam. |I have $NUMBER children.
-|
+||
+|scoil|school|skull
+|naíonra|playschool|neenra
+|naíscoil|nursery school|nee-skull
+|bunscoil|primary school|bun-skull
+|meánscoil|secondary school|man-skull
+|ollscoil|university
+||
 |Tá ... acu ar an scoil. |... of them are at school.
 |
 |Tá beirt acu ar an scoil. |Two of them are at school.|...acu air an skull
 |Tá duine amháin acu sa naíonra. |One of them is in playschool.|.. sa neenra
+||
 |Tá Síle ar an bhunscoil. |Síle is at primary school.|...ar an whunskull
-|Tá Aodh ar an mheánscoil. |Aodh is at secondary school.|...vansckull???
+|Tá Aodh ar an mheánscoil. |Aodh is at secondary school.|...vanskull???
 |Tá Nóra ar an ollscoil. |Nóra is at university.|..ol-skull

@@ -4,8 +4,8 @@
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|daoine|people|deeny
 |duine|person|dinye
+|daoine|people|deeny
 |AG BUALADH LE DAOINE | MEETING PEOPLE | Ag Bwayla le deeny||Literally - meeting with people??
 |
 

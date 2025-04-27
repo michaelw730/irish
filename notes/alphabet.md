@@ -1,4 +1,4 @@
-# An Aibítir | Alphabet
+# An Aibítir | Alphabet|a-bit-chur
 
 * similar to English
 * doesn't have - j,k,q,v,w,x,y,z:

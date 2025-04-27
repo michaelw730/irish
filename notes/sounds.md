@@ -25,15 +25,21 @@ a ceathair
 
 most important to learn first:
 * broad s = normal s
-* slender s Síle, mise, anois sound like sh e.g. show, fish
+    * ssss
+* slender s Síle, mise, anois 
+    * sounds like sh e.g. show, fish
 * broad t = normal t
-* slender t te, leite, Cait sound like ch e.g. chin, rich
+* slender t te, leite, Cait 
+    * sounds like ch e.g. chin, rich
 * broad d = normal d
-* slender d Dia, cuidiú, leid sounds like j e.g. j Joe, vigil, ledge
+* slender d Dia, cuidiú, leid 
+    * sounds like j e.g. j Joe, vigil, ledge
 * broad l = normal l
-* slender l Liam, baile, peil sounds like lj e.g. million, will you
+* slender l Liam, baile, peil 
+    * sounds like lj e.g. million, will you
 * broad n = normal n
-* slender n níl, slionne sounds like nj e.g. sinew minion
+* slender n níl, slionne 
+    * sounds like nj e.g. sinew minion
 
 vowel combinations
 

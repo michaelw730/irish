@@ -26,7 +26,7 @@
 |Slán libh|Goodbye to you (p)
 |Slán abhaile|Safe home
 ||
-|Ádh mór|Good luck [big luck]||
+|Ádh mór|Good luck [big luck]|aw more|
 |Ádh mór ort|Good luck to you (s) [big luck on you]||
 |Ádh mór oraibh|Good luck to you (p)||
 ||

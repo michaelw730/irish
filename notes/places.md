@@ -4,10 +4,18 @@
 
 |Irish|English|Phonetic|Sound|
 |------|-------|--------|-----|
-|Cúige Uladh|Ulster
-|Cúige Mumhan|Munster
-|Cúige Laighean|Leinster
-|Cúige Connachta|Connacht
+|Cúige|province (of Ireland/fifths)|cwig-a
+|
+|Uladh|Ulster|ull-oo
+|Mumhan|Munster|moo-an
+|Laighean|Leinster|lie-on
+|Connachta|Connacht|con-awcta
+||
+|Cúige Uladh|Ulster|cwig-a ull-oo
+|Cúige Mumhan|Munster|cwig-a moo-an
+|Cúige Laighean|Leinster|cwig-a lie-on
+|Cúige Chonnacht|Connacht|cwig-a hon-awct
+
 
 ## Counties
 
@@ -30,7 +38,7 @@
 |Laois (Contae Laoise)|Laois|||Leinster
 |Liatroim (Contae Liatroma)|Leitrim|||Connacht
 |Luimneach (Contae Luimnigh)|Limerick|||Munster
-|Doire (Contae Dhoire)|Londonderry|||Ulster
+|Doire (Contae Dhoire)|Derry|||Ulster
 |An Longfort (Contae an Longfoirt)|Longford|||Leinster
 |Lú (Contae Lú)|Louth|||Leinster
 |Maigh Eo (Contae Mhaigh Eo)|Mayo|||Connacht
