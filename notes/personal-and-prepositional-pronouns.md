@@ -33,19 +33,17 @@ These are used when you want to place emphasis on the personal pronoun.
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
-|MY|mo / m’ (before vowels)
-|YOUR|do / d’ (before vowels)
-|HIS / ITS|a
-|HERS|a (add “h” before vowels)
-|OURS|ár
-|YOURS (plural)|bhur
-|THEIRS|a
+|mo / m’ (before vowels)|MY
+|do / d’ (before vowels)|YOUR
+|a|HIS / ITS
+|a (add “h” before vowels)|HERS
+|ár|OURS
+|bhur|YOURS (plural)
+|a|THEIRS
 
 ## Prepositional pronouns
 
 As a reminder, prepositions are words in a language which tell you more about where something is - for example, under, with, or on in English.
-
-Learn more about the prepositions in Irish in this guide.
 
 In Irish, when a preposition and a pronoun come together, they are combined into what is called a prepositional pronoun. For example - le means with, and mé means me. In English this would go together as with me - but in Irish le mé becomes liom.
 

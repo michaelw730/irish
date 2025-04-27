@@ -25,7 +25,9 @@ ASKING SOMEONE WHERE THEY ARE GOING
 |teach an phobail|church
 |oifig an phoist|post office	
 |caife|cafe|ca-fay
-|garáiste|garage	
+|garáiste|garage
+|teach|house
+|tithe|houses	
 |teach tábhairne|pub
 |tithe tábhairne|pubs
 |bialann|restaurant
