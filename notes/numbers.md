@@ -136,12 +136,15 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 |cúig theanga	|five languages
 |sé theanga	|six languages
 ||
-|rothar amháin	|one bike
+|rothar|bicycle
+|rothar amháin	|one bicylce
 |dhá rothar	|two bicylces
 ||
+|cathaoir|chair
 |cathaoir amháin|one chair| cih-her??
 |dhá chathaoir	|two chairs|yeh hih-her
 ||
+|pionta|pint
 |pionta amháin	|one pint
 |trí phionta	|three pints
 |cúig phionta	|five pint
@@ -149,28 +152,34 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 |ocht bpionta|eight pints
 |deich bpionta|ten pints
 ||
+|leabhar	| book
 |trí leabhar	|three books
 ||
 |doras|door
 |doras amháin	|one door
 |ceithre dhoras	|four doors|
 ||
+|bosca|box|boxsa
 |ceithre bhosca	|four boxes|kera woxsa
 |ocht mbosca	|eight boxes|okt moxsa
 ||
+|buidéal|bottle
 |buidéal amháin	|one bottle
 |cúig bhuidéal	|five bottles
 |seacht mbuidéal|seven bottles
 ||
+|caife|coffee
 |caife amháin	|one coffee
 |sé chaife	|six coffees
 ||
+|oráiste|orange
 |oráistí	|oranges
 |cúig oráiste	|five oranges
 ||
 |seacht sú oráiste|seven orange juices
 ||
-|gloine amháin	|one door
+|gloine|glass
+|gloine amháin	|one glass
 |naoi ngloine|nine glasses
 ||
 ||
@@ -178,8 +187,11 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 |ceithre thábla	|four tables|
 ||
 ||
+|úll|apple
 |ceithre úll	|four apples
 ||
+|cóta|coat
 |naoi gcóta|nine coats
 ||
+|geansaí|jumper
 |deich ngeansaí|nine jumpers

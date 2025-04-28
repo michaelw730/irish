@@ -79,5 +79,5 @@ You can use the following if you wish to be more precise about where you live:
 |... taobh amuigh den bhaile.| ... outside the town|.. too amwee den whalla???
 |... faoin tuath| ... in the countryside|fween too-a
 |... i lár na cathrach| ... in the city centre.|i lar na ceh-hra|maybe.. in the center of the city???
-|... ar shráid Anraí| ... in Henry Street |ar hradg anry
+|... ar shráid Anraí| ... on Henry Street |ar hradg anry
 |... ar Bhóthar na Carraige |... on Carrick Road|ar waw-her na carriga

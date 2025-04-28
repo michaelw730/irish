@@ -57,7 +57,9 @@ If you are responding specifically to the question An bhfuil Gaeilge agat? here 
 |Ón raidió. |From the radio.
 |Ag rang oíche. |At a night class.
 |San ollscoil|At the university
-|Ó fhístéipeanna sa bhaile. |From videos at home.
+|Ó fhístéipeanna sa bhaile. |From videotapes at home.
+|ó físeán| from video
+|ó físeáin| from videos
 ||
 |An dtuigeann tú Gaeilge? |Do you understand Irish?|an diggin to Gaelic?
 |Tuigim. |Yes (I do understand).

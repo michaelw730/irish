@@ -42,8 +42,8 @@ When you talk about the things you like doing or actually participating in, as o
 |ag péinteáil |painting|ag paint-al
 |ag cócaireacht |cooking|ag cocker-act
 |ag iascaireacht |ag fishing|ag isc-a-ract
-|ag léamh|reading|ag lay-ow
-|ag siúl|walking
+|ag léamh|reading|ag lay-oh
+|ag siúl|walking|ag shool
 
 Here are some other popular pastimes and activites.
 

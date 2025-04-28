@@ -53,8 +53,8 @@ ASKING SOMEONE WHERE THEY ARE GOING
 |Tá mé ag dul go dtí an t-ollmhargadh. |I'm going to the supermarket.
 |Tá mé ag dul go dtí an bhialann. |I'm going to the restaurant.
 ||
-|Tá mé ag dul go abhaile. |I'm going home.
-|Tá mé ag dul go amach. |I'm going out.
+|Tá mé ag dul abhaile. |I'm going home.
+|Tá mé ag dul amach. |I'm going out.
 |Tá mé ag dul go hoifig an phoist.| I am going to the post ofice
 |Tá mé ag dul go teach an phobail.| I am going to the church
 ||
