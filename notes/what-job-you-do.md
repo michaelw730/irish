@@ -10,7 +10,7 @@ SAYING WHAT JOB YOU DO
 |post|job|paw-st
 |
 |Is ... mé.|I'm a ...
-|... atá ionam |I'm a ...
+|... atá ionam |I'm a ...|.. atá unam
 ||
 |Is feirmeoir mé. |I'm a farmer.
 |Siopadóir atá ionam |I'm a shopkeeper.|.. atá unam
@@ -44,7 +44,7 @@ SAYING WHAT JOB YOU DO
 |innealtóir|engineer|inyaltar
 |innealtóir ríomhaireachta|computer engineer|inyaltar re-whar-achta|
 |devops innealtóir|devops engineer
-|programmer|ríomhchláraitheoir|reo-clar-e-har
+|ríomhchláraitheoir|programmer|reo-clar-e-har
 ||
 ||ASKING SOMEONE WHERE THEY WORK
 |

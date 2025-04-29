@@ -6,6 +6,13 @@ SAYING WHAT YOUR MARITAL STATUS IS
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
+|fear |man | faar |  |
+|an fhear |the man | aar |  |???
+|fir |men |  |  |
+|bean |woman | ban |  |
+|an bhean |the woman | ban |  | | Feminine noun needs lenited
+|mná |women | mnaw? |  |
+||
 |TEAGHLACH| family (as a whole including parents)|chay-la
 |Tá mé pósta. |I'm married.|taa meh pawsta
 |Níl mé pósta. |I'm not married.|nil meh pawsta
@@ -155,7 +162,7 @@ This rule doesn't apply to the other personal numbers.
 
 SAYING WHAT YOUR CHILDREN ARE DOING
 * `ar`== at??
-* `sa` == in
+* `sa` == in the
 
 |Irish|English|Phonetic|Sound|Info|
 |------|-------|--------|-----|----|
