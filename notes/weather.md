@@ -4,10 +4,15 @@
 | ------| ------- | -------- |   ----- |
 |lá|day|laa??
 ||
-|Tá sé...|it is...|taa shay
-|Bhí sé...|it was...|vee shay
-|Níl sé...|it is not...|taa shay
-|Tá sé lá...|it is a ... day|taa shay laa ... day
+|grian|sun|grain
+|scamill|cloud|scam-ill
+|ceo|fog|kyo
+|fearthainn|rain|far-heen
+|sioc|ice|shuck
+|teocht|temperature|chalked
+|sneachta|snow|snock-ta
+|tintreach|lightning|chin-trock
+|toirneach|thunder|torn-yock
 ||
 |fuar|cold|fooar
 |fliuch|wet|flu(ch) [(ch) = soft k]
@@ -18,6 +23,7 @@
 |Taise|damp|tasha|
 |grianmhar|sunny|grain-wur
 |scamillach|cloudy|scam-ill-ock
+|ceomhar|foggy|kyowar??
 |geal|bright|gyal
 |dorcha|dark|dora-ha
 |
@@ -29,7 +35,12 @@
 |iontach fliuch|very wet| flu(ch) [(ch) = soft k]
 |iontach te|very hot|ta shay chay
 ||
-|tá|Yes [to agree with the weather]
+|Tá sé...|it is...|taa shay
+|Bhí sé...|it was...|vee shay
+|Níl sé...|it is not...|taa shay
+|Tá sé lá...|it is a ... day|taa shay laa ... day
+||
+|Tá|Yes [to agree with the weather]
 |Tá, cinnte.| It is indeed/surely.|teh, kintche
 ||
 |Tá lá breá ann.| It's a fine day.| teh leh breah ann
@@ -39,13 +50,3 @@
 ||
 |Tá drochlá ann.| It's a bad day.|teh drock-leh ann
 |Tá drochlá ann inniu.| It's a bad day today.|teh drock-leh ann inn-u
-||
-|grian|sun|grain
-|ceo|fog|kyo
-|fearthainn|rain|far-heen
-|scamill|cloud|scam-ill
-|sioc|ice|shuck
-|teocht|temperature|chalked
-|sneachta|snow|snock-ta
-|tintreach|lightning|chin-trock
-|toirneach|thunder|torn-yock
