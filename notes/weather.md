@@ -1,7 +1,7 @@
 # Weather
 
-| Irish | English | Phonetic | Sound |
-| ------| ------- | -------- |   ----- |
+| Irish | English | Phonetic | Sound | Info |
+| ------| ------- | -------- | ----- |----- |
 |lá|day|laa??
 ||
 |grian|sun|grain
@@ -46,7 +46,7 @@
 |Tá lá breá ann.| It's a fine day.| teh leh breah ann
 |Tá lá breá ann inniu.| It's a fine day today.| teh leh breah ann inn-u
 ||
-|...Buíochas le Dia |...thank God (is used quite frequently in this context.)|bwayhas le djia
+|...Buíochas le Dia |...thank God |bwayhas le djia| is used quite frequently in this context.
 ||
 |Tá drochlá ann.| It's a bad day.|teh drock-leh ann
 |Tá drochlá ann inniu.| It's a bad day today.|teh drock-leh ann inn-u
