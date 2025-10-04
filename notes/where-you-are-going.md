@@ -5,61 +5,61 @@ GOING| a reh..
 
 ASKING SOMEONE WHERE THEY ARE GOING
 
-| Irish                                           | English                           | Phonetic          | Sound                                           |
-| ----------------------------------------------- | --------------------------------- | ----------------- | ----------------------------------------------- |
-| Cá bhfuil tú ag dul? (s)                        | Where are you going?              | Ca will to a-gull |                                                 |
-| Cá bhfuil sibh ag dul? (p)                      | Where are you going?              | Ca will to a-gull |                                                 |
-| Cá bhfuil tusa ag dul?                          | Where are *you* going?            |                   |                                                 |
-|                                                 |                                   |                   |                                                 |
-|                                                 | SAYING WHERE YOU ARE GOING        |                   |                                                 |
-|                                                 |                                   |                   |                                                 |
-| Tá mé ag dul ...                                | I'm going ...                     | Taw may a gul     |                                                 |
-| Tá mé ag dul go ...                             | I'm going to ...                  |                   |                                                 |
-| Tá mé ag dul go Leitir Ceanainn.                | I'm going to Letterkenny.         |                   |                                                 |
-| Tá mé ag dul go dtí an garáiste.                | I'm going to the garage.          |                   |                                                 |
-| Tá muid ag dul go dtí an garáiste.              | We're going to the garage.        |                   |                                                 |
-|                                                 |                                   |                   |                                                 |
-| FACILITIES                                      |                                   |                   |                                                 |
-|                                                 |                                   |                   |                                                 |
-| banc                                            | bank                              |                   |                                                 |
-| teach an phobail                                | church                            |                   |                                                 |
-| oifig an phoist                                 | post office                       |                   |                                                 |
-| caife                                           | cafe                              | ca-fay            |                                                 |
-| garáiste                                        | garage                            |                   |                                                 |
-| teach                                           | house                             |                   |                                                 |
-| tithe                                           | houses                            |                   |                                                 |
-| teach tábhairne                                 | pub                               |                   |                                                 |
-| tithe tábhairne                                 | pubs                              |                   |                                                 |
-| bialann                                         | restaurant                        |                   |                                                 |
-| páirc                                           | park                              |                   |                                                 |
-| siopa                                           | shop                              |                   |                                                 |
-| siopaí                                          | shops                             |                   |                                                 |
-| siopa búistéara                                 | butcher's shop                    |                   |                                                 |
-| siopa poitigéara                                | chemist shop                      |                   |                                                 |
-| siopa bróg                                      | shoe shop                         |                   |                                                 |
-| siopa éadaigh                                   | clothes shop                      |                   |                                                 |
-| ionad spóirt                                    | sports centre                     |                   |                                                 |
-| ionad siopadóireachta                           | shopping center                   |                   |                                                 |
-| ollmhargadh                                     | supermarket                       |                   | ollwarragoo                                     |
-| ospidéal                                        | hospital                          |                   |                                                 |
-| otharlann                                       | hospital                          |                   |                                                 |
-| pictiúrlann                                     | cinema                            |                   |                                                 |
-| sólann                                          | leisure centre                    |                   |                                                 |
-|                                                 |                                   |                   |                                                 |
-| codladh                                         | sleep                             | coh-loo           |                                                 |
-|                                                 |                                   |                   |                                                 |
-| Tá mé ag dul go dtí an t-ionad spóirt.          | I'm going to the sports centre.   |                   |                                                 |
-| Tá mé ag dul go dtí an t-ionad siopadóireachta. | I'm going to the shopping centre. |                   |                                                 |
-| Tá mé ag dul go dtí an t-ollmhargadh.           | I'm going to the supermarket.     |                   |                                                 |
-| Tá mé ag dul go dtí an bhialann.                | I'm going to the restaurant.      |                   |                                                 |
-|                                                 |                                   |                   |                                                 |
-| Tá mé ag dul abhaile.                           | I'm going home.                   |                   |                                                 |
-| Tá mé ag dul amach.                             | I'm going out.                    |                   |                                                 |
-| Tá mé ag dul go hoifig an phoist.               | I am going to the post ofice      |                   |                                                 |
-| Tá mé ag dul go teach an phobail.               | I am going to the church          |                   |                                                 |
-|                                                 |                                   |                   |                                                 |
-| tá mé ag dul a chodladh                         | I am going to sleep               | ...hoh-loo        |                                                 |
-| ansin                                           | then                              |                   | as in I'm going to ... and then I'm going to... |
+| Irish                                           | English                           | Phonetic          | Sound |
+| ----------------------------------------------- | --------------------------------- | ----------------- | ----- |
+| Cá bhfuil tú ag dul? (s)                        | Where are you going?              | Ca will to a-gull |       |
+| Cá bhfuil sibh ag dul? (p)                      | Where are you going?              | Ca will to a-gull |       |
+| Cá bhfuil tusa ag dul?                          | Where are *you* going?            |                   |       |
+|                                                 |                                   |                   |       |
+|                                                 | SAYING WHERE YOU ARE GOING        |                   |       |
+|                                                 |                                   |                   |       |
+| Tá mé ag dul ...                                | I'm going ...                     | Taw may a gul     |       |
+| Tá mé ag dul go ...                             | I'm going to ...                  |                   |       |
+| Tá mé ag dul go Leitir Ceanainn.                | I'm going to Letterkenny.         |                   |       |
+| Tá mé ag dul go dtí an garáiste.                | I'm going to the garage.          |                   |       |
+| Tá muid ag dul go dtí an garáiste.              | We're going to the garage.        |                   |       |
+|                                                 |                                   |                   |       |
+| FACILITIES                                      |                                   |                   |       |
+|                                                 |                                   |                   |       |
+| banc                                            | bank                              |                   |       |
+| teach an phobail                                | church                            |                   |       |
+| oifig an phoist                                 | post office                       |                   |       |
+| caife                                           | cafe                              | ca-fay            |       |
+| garáiste                                        | garage                            |                   |       |
+| teach                                           | house                             |                   |       |
+| tithe                                           | houses                            |                   |       |
+| teach tábhairne                                 | pub                               |                   |       |
+| tithe tábhairne                                 | pubs                              |                   |       |
+| bialann                                         | restaurant                        |                   |       |
+| páirc                                           | park                              |                   |       |
+| siopa                                           | shop                              |                   |       |
+| siopaí                                          | shops                             |                   |       |
+| siopa búistéara                                 | butcher's shop                    |                   |       |
+| siopa poitigéara                                | chemist shop                      |                   |       |
+| siopa bróg                                      | shoe shop                         |                   |       |
+| siopa éadaigh                                   | clothes shop                      |                   |       |
+| ionad spóirt                                    | sports centre                     |                   |       |
+| ionad siopadóireachta                           | shopping center                   |                   |       |
+| ollmhargadh                                     | supermarket                       | ollwarragoo       |       |
+| ospidéal                                        | hospital                          |                   |       |
+| otharlann                                       | hospital                          |                   |       |
+| pictiúrlann                                     | cinema                            |                   |       |
+| sólann                                          | leisure centre                    |                   |       |
+|                                                 |                                   |                   |       |
+| codladh                                         | sleep                             | coh-loo           |       |
+|                                                 |                                   |                   |       |
+| Tá mé ag dul go dtí an t-ionad spóirt.          | I'm going to the sports centre.   |                   |       |
+| Tá mé ag dul go dtí an t-ionad siopadóireachta. | I'm going to the shopping centre. |                   |       |
+| Tá mé ag dul go dtí an t-ollmhargadh.           | I'm going to the supermarket.     |                   |       |
+| Tá mé ag dul go dtí an bhialann.                | I'm going to the restaurant.      |                   |       |
+|                                                 |                                   |                   |       |
+| Tá mé ag dul abhaile.                           | I'm going home.                   |                   |       |
+| Tá mé ag dul amach.                             | I'm going out.                    |                   |       |
+| Tá mé ag dul go hoifig an phoist.               | I am going to the post ofice      |                   |       |
+| Tá mé ag dul go teach an phobail.               | I am going to the church          |                   |       |
+|                                                 |                                   |                   |       |
+| tá mé ag dul a chodladh                         | I am going to sleep               | ...hoh-loo        |       |
+| ansin                                           | then                              |                   |       |as in I'm going to ... and then I'm going to...
 
 ^ MW - notice the t in front of vowels
 

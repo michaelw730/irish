@@ -64,20 +64,20 @@ The following sentence will prove useful to you if you don't live in the place y
 TALKING ABOUT LOCATION
 
 You can use the following if you wish to be more precise about where you live:
-| Irish                        | English                    | Phonetic                   | Sound                                | Info |
-| ---------------------------- | -------------------------- | -------------------------- | ------------------------------------ | ---- |
-| sráid                        | street                     | sradg                      |                                      |      |
-| bóthar                       | road                       | baw-her                    |                                      |      |
-| lár                          | centre                     | lar                        |                                      |      |
-| taobh amuigh                 | outside                    | too amwee                  |                                      |      |
-| baile                        | town                       | balla                      |                                      |      |
-| cathrach                     | city                       | ceh-hra                    |                                      |      |
-| tuath                        | countryside                | too-a                      |                                      |      |
-|                              |                            |                            |                                      |      |
-| Tá mé i mo chónaí ...        | I live ...                 |                            |                                      |      |
-| ... i lár an bhaile.         | ... in the centre of town. | .. i lar an whalla         |                                      |      |
-| ... taobh amuigh den bhaile. | ... outside the town       | .. too amwee den whalla??? |                                      |      |
-| ... faoin tuath              | ... in the countryside     | fween too-a                |                                      |      |
-| ... i lár na cathrach        | ... in the city centre.    | i lar na ceh-hra           | maybe.. in the center of the city??? |      |
-| ... ar shráid Anraí          | ... on Henry Street        | ar hradg anry              |                                      |      |
-| ... ar Bhóthar na Carraige   | ... on Carrick Road        | ar waw-her na carriga      |                                      |      |
+| Irish                        | English                    | Phonetic                   | Sound | Info                                 |
+| ---------------------------- | -------------------------- | -------------------------- | ----- | ------------------------------------ |
+| sráid                        | street                     | sradg                      |       |                                      |
+| bóthar                       | road                       | baw-her                    |       |                                      |
+| lár                          | centre                     | lar                        |       |                                      |
+| taobh amuigh                 | outside                    | too amwee                  |       |                                      |
+| baile                        | town                       | balla                      |       |                                      |
+| cathrach                     | city                       | ceh-hra                    |       |                                      |
+| tuath                        | countryside                | too-a                      |       |                                      |
+|                              |                            |                            |       |                                      |
+| Tá mé i mo chónaí ...        | I live ...                 |                            |       |                                      |
+| ... i lár an bhaile.         | ... in the centre of town. | .. i lar an whalla         |       |                                      |
+| ... taobh amuigh den bhaile. | ... outside the town       | .. too amwee den whalla??? |       |                                      |
+| ... faoin tuath              | ... in the countryside     | fween too-a                |       |                                      |
+| ... i lár na cathrach        | ... in the city centre.    | i lar na ceh-hra           |       | maybe.. in the center of the city??? |
+| ... ar shráid Anraí          | ... on Henry Street        | ar hradg anry              |       |                                      |
+| ... ar Bhóthar na Carraige   | ... on Carrick Road        | ar waw-her na carriga      |       |                                      |

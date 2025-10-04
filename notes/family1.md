@@ -1,71 +1,71 @@
 # The family part 1
 
-|AN TEAGHLACH 1 | THE FAMILY 1
 
+|AN TEAGHLACH 1 | THE FAMILY 1
 
 SAYING WHAT YOUR MARITAL STATUS IS
 
-| Irish                                    | English                                     | Phonetic                    | Sound | Info |
-| ---------------------------------------- | ------------------------------------------- | --------------------------- | ----- | ---- |
-| fear                                     | man                                         | faar                        |       |      |
-| an fhear                                 | the man                                     | aar                         |       | ???  |
-| fir                                      | men                                         |                             |       |      |
-| bean                                     | woman                                       | ban                         |       |      |
-| an bhean                                 | the woman                                   | ban                         |       |      | Feminine noun needs lenited
-| mná                                      | women                                       | mnaw?                       |       |      |
-|                                          |                                             |                             |       |      |
-| TEAGHLACH                                | family (as a whole including parents)       | chay-la                     |       |      |
-| Tá mé pósta.                             | I'm married.                                | taa meh pawsta              |       |      |
-| Níl mé pósta.                            | I'm not married.                            | nil meh pawsta              |       |      |
-| Tá mé singil.                            | I'm single.                                 |                             |       |      |
-| Tá mé geallta.                           | I'm engaged.                                | ...galta                    |       |      |
-| Tá mé scartha...                         | I'm separated...                            | taa meh scarha              |       |      |
-| ... ó mo bhean (chéile).                 | ...from my wife.                            | o mo van hayla              |       |      |
-| ... ó m'fhear (céile).                   | ... from my husband.                        | o mar kayla                 |       |      |
-| Is baintreach mé.                        | I'm a widow/widower.                        | is bantrack (thoaty ck) meh |       |      |
-|                                          |                                             |                             |       |      |
-|                                          | ASKING SOMEONE WHAT THEIR MARITAL STATUS IS |                             |       |      |
-|                                          |                                             |                             |       |      |
-| An bhfuil tú pósta?                      | Are you married?                            |                             |       |      |
-| An bhfuil tusa pósta?                    | Are *you* married?                          |                             |       |      |
-| An bhfuil tu féin pósta?                 | Are you married yourself?                   |                             |       |      |
-|                                          |                                             |                             |       |      |
-| Tá.                                      | Yes.                                        |                             |       |      |
-| Níl.                                     | No.                                         |                             |       |      |
-| Níl go fóill.                            | Not yet.                                    |                             |       |      |
-|                                          |                                             |                             |       |      |
-|                                          | ASKING SOMEONE IF THEY HAVE CHILDREN        |                             |       |      |
-|                                          |                                             |                             |       |      |
-| páiste                                   | child                                       | peh-steh                    |       |      |
-| páistí                                   | children                                    | peh-stee                    |       |      |
-|                                          |                                             |                             |       |      |
-| An bhfuil clann agat?                    | Have you children?                          |                             |       |      |
-| An bhfuil clann agaibh?                  | (plural)                                    |                             |       |      |
-| An bhfuil clann agat féin?               | Have you children yourself?                 |                             |       |      |
-|                                          | or                                          |                             |       |      |
-| An bhfuil páistí agat?                   |                                             |                             |       |      |
-| An bhfuil páistí agaibh?                 |                                             |                             |       |      |
-|                                          |                                             |                             |       |      |
-| SAYING THAT YOU HAVE OR HAVEN'T CHILDREN |                                             |                             |       |      |
-|                                          |                                             |                             |       |      |
-| Tá.                                      | Yes.                                        |                             |       |      |
-| Níl.                                     | No.                                         |                             |       |      |
-|                                          |                                             |                             |       |      |
-| Tá clann agam.                           | I have children.                            |                             |       |      |
-| Tá clann againn.                         | We have children.                           |                             |       |      |
-| mac                                      | a son                                       |                             |       |      |
-| iníon                                    | a daughter                                  |                             |       |      |
-| Tá mac agam.                             | I have a son.                               |                             |       |      |
-| Tá iníon agam.                           | I have a daughter.                          |                             |       |      |
-| Níl clann ar bith agam.                  | I have no children at all.                  |                             |       |      |
-| Níl clann ar bith againn.                | We have no children at all.                 |                             |       |      |
-| Níl páistí ar bith agam.                 | I have no children at all.                  |                             |       |      |
-| Níl páistí ar bith againn.               | We have no children at all.                 |                             |       |      |
-| Tá mé ag súil le páiste.                 | I'm expecting a child.                      |                             |       |      |
-| Tá mé ag súil le leanbh.                 | I'm expecting a baby.                       | ..ag sool le lanoo          |       |      |
-| Tá mé torrach.                           | I'm pregnant.                               |                             |       |      |
-|                                          |                                             |                             |       |      |
-| ticéad (thieéad)                         | ticket                                      | ticid(hicid)                |       |      |
+| Irish                                    | English                                     | Phonetic                    | Sound | Info                        |
+| ---------------------------------------- | ------------------------------------------- | --------------------------- | ----- | --------------------------- |
+| fear                                     | man                                         | faar                        |       |                             |
+| an fhear                                 | the man                                     | aar                         |       | ???                         |
+| fir                                      | men                                         |                             |       |                             |
+| bean                                     | woman                                       | ban                         |       |                             |
+| an bhean                                 | the woman                                   | ban                         |       | Feminine noun needs lenited |
+| mná                                      | women                                       | mnaw?                       |       |                             |
+|                                          |                                             |                             |       |                             |
+| TEAGHLACH                                | family (as a whole including parents)       | chay-la                     |       |                             |
+| Tá mé pósta.                             | I'm married.                                | taa meh pawsta              |       |                             |
+| Níl mé pósta.                            | I'm not married.                            | nil meh pawsta              |       |                             |
+| Tá mé singil.                            | I'm single.                                 |                             |       |                             |
+| Tá mé geallta.                           | I'm engaged.                                | ...galta                    |       |                             |
+| Tá mé scartha...                         | I'm separated...                            | taa meh scarha              |       |                             |
+| ... ó mo bhean (chéile).                 | ...from my wife.                            | o mo van hayla              |       |                             |
+| ... ó m'fhear (céile).                   | ... from my husband.                        | o mar kayla                 |       |                             |
+| Is baintreach mé.                        | I'm a widow/widower.                        | is bantrack (thoaty ck) meh |       |                             |
+|                                          |                                             |                             |       |                             |
+|                                          | ASKING SOMEONE WHAT THEIR MARITAL STATUS IS |                             |       |                             |
+|                                          |                                             |                             |       |                             |
+| An bhfuil tú pósta?                      | Are you married?                            |                             |       |                             |
+| An bhfuil tusa pósta?                    | Are *you* married?                          |                             |       |                             |
+| An bhfuil tu féin pósta?                 | Are you married yourself?                   |                             |       |                             |
+|                                          |                                             |                             |       |                             |
+| Tá.                                      | Yes.                                        |                             |       |                             |
+| Níl.                                     | No.                                         |                             |       |                             |
+| Níl go fóill.                            | Not yet.                                    |                             |       |                             |
+|                                          |                                             |                             |       |                             |
+|                                          | ASKING SOMEONE IF THEY HAVE CHILDREN        |                             |       |                             |
+|                                          |                                             |                             |       |                             |
+| páiste                                   | child                                       | peh-steh                    |       |                             |
+| páistí                                   | children                                    | peh-stee                    |       |                             |
+|                                          |                                             |                             |       |                             |
+| An bhfuil clann agat?                    | Have you children?                          |                             |       |                             |
+| An bhfuil clann agaibh?                  | (plural)                                    |                             |       |                             |
+| An bhfuil clann agat féin?               | Have you children yourself?                 |                             |       |                             |
+|                                          | or                                          |                             |       |                             |
+| An bhfuil páistí agat?                   |                                             |                             |       |                             |
+| An bhfuil páistí agaibh?                 |                                             |                             |       |                             |
+|                                          |                                             |                             |       |                             |
+| SAYING THAT YOU HAVE OR HAVEN'T CHILDREN |                                             |                             |       |                             |
+|                                          |                                             |                             |       |                             |
+| Tá.                                      | Yes.                                        |                             |       |                             |
+| Níl.                                     | No.                                         |                             |       |                             |
+|                                          |                                             |                             |       |                             |
+| Tá clann agam.                           | I have children.                            |                             |       |                             |
+| Tá clann againn.                         | We have children.                           |                             |       |                             |
+| mac                                      | a son                                       |                             |       |                             |
+| iníon                                    | a daughter                                  |                             |       |                             |
+| Tá mac agam.                             | I have a son.                               |                             |       |                             |
+| Tá iníon agam.                           | I have a daughter.                          |                             |       |                             |
+| Níl clann ar bith agam.                  | I have no children at all.                  |                             |       |                             |
+| Níl clann ar bith againn.                | We have no children at all.                 |                             |       |                             |
+| Níl páistí ar bith agam.                 | I have no children at all.                  |                             |       |                             |
+| Níl páistí ar bith againn.               | We have no children at all.                 |                             |       |                             |
+| Tá mé ag súil le páiste.                 | I'm expecting a child.                      |                             |       |                             |
+| Tá mé ag súil le leanbh.                 | I'm expecting a baby.                       | ..ag sool le lanoo          |       |                             |
+| Tá mé torrach.                           | I'm pregnant.                               |                             |       |                             |
+|                                          |                                             |                             |       |                             |
+| ticéad (thieéad)                         | ticket                                      | ticid(hicid)                |       |                             |
 
 BOYS AND GIRLS
 The following words are used to refer to boys and girls:

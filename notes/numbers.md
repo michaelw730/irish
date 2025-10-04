@@ -132,7 +132,7 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 | teanga amháin     | one language        |             |       |
 | dhá theanga       | two languages       |             |       |
 | trí theanga       | three languages     |             |       |
-| ceithre theanga   | four languages      |             | kera  |
+| ceithre theanga   | four languages      | kera        |       |
 | cúig theanga      | five languages      |             |       |
 | sé theanga        | six languages       |             |       |
 |                   |                     |             |       |

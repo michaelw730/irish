@@ -2,23 +2,23 @@
 
 ## basic family vocabulary
 
-| Irish         | English              | Phonetic            | Sound     | Info                                                           |
-| ------------- | -------------------- | ------------------- | --------- | -------------------------------------------------------------- |
-| an teaghlach  | the family           | an chay-la          |           |                                                                |
-| Mo theaghlach | My family            |                     | mo hay-la |                                                                |
-|               |                      |                     |           |                                                                |
-| athair        | father               | aher                |           |                                                                |
-| máthair       | mother               | mah-her             |           |                                                                |
-| mamaí?        | mum?                 |                     |           |                                                                |
-| deirfiúr      | sister               | djerifur            |           |                                                                |
-| deartháir     | brother              | djaher              |           |                                                                |
-| iníon*        | daughter             | nyee-in (like news) |           | * In Ulster the i at the beginning of iníon is not pronounced. |
-| iníonacha     | daughters            |                     |           |                                                                |
-| mac           | son                  | mawck               |           |                                                                |
-|               |                      |                     |           |                                                                |
-| céile         | spouse               | kayla               |           |                                                                |
-| fear céile    | husband [man spouse] | far kayla           |           |                                                                |
-| bean chéile   | wife [woman spouse]  | ban hayla           |           |                                                                |
+| Irish         | English              | Phonetic            | Sound | Info                                                           |
+| ------------- | -------------------- | ------------------- | ----- | -------------------------------------------------------------- |
+| an teaghlach  | the family           | an chay-la          |       |                                                                |
+| Mo theaghlach | My family            | mo hay-la           |       |                                                                |
+|               |                      |                     |       |                                                                |
+| athair        | father               | aher                |       |                                                                |
+| máthair       | mother               | mah-her             |       |                                                                |
+| mamaí?        | mum?                 |                     |       |                                                                |
+| deirfiúr      | sister               | djerifur            |       |                                                                |
+| deartháir     | brother              | djaher              |       |                                                                |
+| iníon*        | daughter             | nyee-in (like news) |       | * In Ulster the i at the beginning of iníon is not pronounced. |
+| iníonacha     | daughters            |                     |       |                                                                |
+| mac           | son                  | mawck               |       |                                                                |
+|               |                      |                     |       |                                                                |
+| céile         | spouse               | kayla               |       |                                                                |
+| fear céile    | husband [man spouse] | far kayla           |       |                                                                |
+| bean chéile   | wife [woman spouse]  | ban hayla           |       |                                                                |
 
 ## extended family vocabulary
 

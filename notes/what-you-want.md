@@ -70,7 +70,7 @@ If you're in company and the question Cad é ba mhaith libh? is being addressed 
 | muga                        | a mug                                                       |                         |       |
 | pota                        | a pot                                                       |                         |       |
 | gloine                      | a glass                                                     | glinnye                 |       |
-| pionta                      | a pint                                                      | pinta                   | pinta |
+| pionta                      | a pint                                                      | pinta                   |       |
 | leathphionta                | half a pint                                                 | le-finta                |       |
 | buidéal                     | a bottle                                                    | bawdjel                 |       |
 |                             |                                                             |                         |       |
