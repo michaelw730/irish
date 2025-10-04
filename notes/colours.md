@@ -1,14 +1,14 @@
 # Colours
 
-|Irish|English|Phonetic|Sound|
-|------|-------|--------|-----|
-|dath|colour|deh||
-|dathanna|colours|||
-||
-|Cén dath is fearr leat?|What is your favourite colour?
-|Is fearr liom …|My favourite colour is …
-|Cén dath atá ar…|What colour is… ?
-|Tá dath … air / uirthi.|It is…/Colour is...
+| Irish                   | English                        | Phonetic | Sound |
+| ----------------------- | ------------------------------ | -------- | ----- |
+| dath                    | colour                         | deh      |       |
+| dathanna                | colours                        |          |       |
+|                         |                                |          |       |
+| Cén dath is fearr leat? | What is your favourite colour? |          |       |
+| Is fearr liom …         | My favourite colour is …       |          |       |
+| Cén dath atá ar…        | What colour is… ?              |          |       |
+| Tá dath … air / uirthi. | It is…/Colour is...            |          |       |
 
 
 In Irish, when saying what the colour of something is, you usually say the colour is on something, by using the preposition ar.
@@ -31,21 +31,21 @@ Tá dath buí ar an charr. - The car is yellow. (The colour yellow is on the car
 
 ## colours
 
-|Irish|English|Phonetic|Sound|
-|------|-------|--------|-----|
-|geal|bright|||
-|dorcha|dark|durcha||
-||
-|bán|white|bawn||
-|bándearg > bhándearg|pink|ban dearg||
-|glas|green|||
-|corca|purple|||
-|donn|brown|||
-|buí|yellow|||
-|liath|grey|lea||
-|dubh|black|doo (ULSTER)/dove||
-|gorm|blue|||
-|dearg|red|djar-ig||
-|cnódhonn|hazel|||
-|oráiste|orange|orawsht-eh|  |
-|órga|gold
+| Irish                | English | Phonetic          | Sound |
+| -------------------- | ------- | ----------------- | ----- |
+| geal                 | bright  |                   |       |
+| dorcha               | dark    | durcha            |       |
+|                      |         |                   |       |
+| bán                  | white   | bawn              |       |
+| bándearg > bhándearg | pink    | ban dearg         |       |
+| glas                 | green   |                   |       |
+| corca                | purple  |                   |       |
+| donn                 | brown   |                   |       |
+| buí                  | yellow  |                   |       |
+| liath                | grey    | lea               |       |
+| dubh                 | black   | doo (ULSTER)/dove |       |
+| gorm                 | blue    |                   |       |
+| dearg                | red     | djar-ig           |       |
+| cnódhonn             | hazel   |                   |       |
+| oráiste              | orange  | orawsht-eh        |       |
+| órga                 | gold    |                   |       |

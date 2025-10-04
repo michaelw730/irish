@@ -82,22 +82,22 @@ io, oi, ui sounds like fit (usually) - gliondar, glione, duine
 * can happen anywhere in a word - beginning, middle, end
 * the way in which it changes the pronunciation of the consenant depends if the consenant is broad or slender
 
-|---|---|---|
-|consenant|broad aou|slender ei|
-|---|---|---|
-|b|w = bhain, abhaile, dabht, gabh| v = abheith, leibhéal, sibh
-|c|k?? = cchomh, nócha, nach| hue? = cheist, fiche, deich
-|d|throaty huc = dhún|j= ardheireadh, a Dhia
-|f|silent fh = an fhuain|silent fh = an fhéile
-|g|throaty g = ghasúr, ghlór|ye = mo ghile
-|h
-|l
-|m|w = mhaith | v= nimh
-|n
-|p|f = pholl|f = an pheil
-|r
-|s|h = shona |h = sheinn muid
-|t|h = ní thuigim |h = trí thine
+| --- | ---                             | ---                         |
+| c-t | b-----------------------------u | s-------------------------i |
+| --- | ---                             | ---                         |
+| b   | w = bhain, abhaile, dabht, gabh | v = abheith, leibhéal, sibh |
+| c   | k?? = cchomh, nócha, nach       | hue? = cheist, fiche, deich |
+| d   | throaty huc = dhún              | j= ardheireadh, a Dhia      |
+| f   | silent fh = an fhuain           | silent fh = an fhéile       |
+| g   | throaty g = ghasúr, ghlór       | ye = mo ghile               |
+| h   |                                 |                             |
+| l   |                                 |                             |
+| m   | w = mhaith                      | v= nimh                     |
+| n   |                                 |                             |
+| p   | f = pholl                       | f = an pheil                |
+| r   |                                 |                             |
+| s   | h = shona                       | h = sheinn muid             |
+| t   | h = ní thuigim                  | h = trí thine               |
 
 
 * patterns
@@ -116,17 +116,17 @@ io, oi, ui sounds like fit (usually) - gliondar, glione, duine
 * inserts a letter before the first letter of the word and you'll pronounce that new letter instead
 
 
-|word begins with|úrú adds|looks like|sounds like (broad/slender)|examples(broad/slender)|
-|---|---|---|---|---|
-|b|m|mb|moo?|i mBéal Feirste
-|c|g|gc|goo|i gCorcaigh
-|d|n|nd|not/sinew|i nDoire/i ndiaidh
-|f|bh|bhf|woo/vein|and bfhuil tú/i bhFear Manach
-|g|n|ng|wing|i nGaillimh
-|h,l,m,n
-|p|bp|boy||i bPáras
-|r
-|t|d|dt|do/jet|i dTrá Lí/ár dteach
+| word begins with | úrú adds | looks like | sounds like (broad/slender) | examples(broad/slender)       |
+| ---------------- | -------- | ---------- | --------------------------- | ----------------------------- |
+| b                | m        | mb         | moo?                        | i mBéal Feirste               |
+| c                | g        | gc         | goo                         | i gCorcaigh                   |
+| d                | n        | nd         | not/sinew                   | i nDoire/i ndiaidh            |
+| f                | bh       | bhf        | woo/vein                    | and bfhuil tú/i bhFear Manach |
+| g                | n        | ng         | wing                        | i nGaillimh                   |
+| h,l,m,n          |          |            |                             |                               |
+| p                | bp       | boy        |                             | i bPáras                      |
+| r                |          |            |                             |                               |
+| t                | d        | dt         | do/jet                      | i dTrá Lí/ár dteach           |
 
 patterns:
 * only at beginning of word
