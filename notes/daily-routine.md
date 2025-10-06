@@ -38,29 +38,29 @@ bíonn siad	they are
 
 ASKING WHAT SOMEONE DOES DURING THE DAY
 
-| Irish                              | English                                      | Phonetic | Sound |
-| ---------------------------------- | -------------------------------------------- | -------- | ----- |
-| Cad é a dhéanann tú i rith an lae? | What do you do during the day?               |          |       |
-| Cad é a dhéanann tú tráthnóna?     | What do you do in the evening?               |          |       |
-|                                    | GIVING YOUR REPLY                            |          |       |
-| Tagaim abhaile ..                  | I come home ...                              |          |       |
-| Éistim leis an raidió.             | I listen to the radio.                       |          |       |
-| Amharcaim ar an teilifís.          | I watch television.                          |          |       |
-| Téim amach.                        | I go out.                                    |          |       |
-| Déanaim réidh béile.               | I prepare a meal.                            |          |       |
-| Téim a luí luath.                  | I go to bed early.                           |          |       |
-|                                    |                                              |          |       |
-|                                    | ASKING SOMEONE IF THEY DO A PARTICULAR THING |          |       |
-|                                    |                                              |          |       |
-| An éisteann tú le ceol?            | Do you listen to music?                      |          |       |
-| Éistim.                            | I do (literally, I listen).                  |          |       |
-| Ní éistim.                         | I don't (literally, I don't listen).         |          |       |
-|                                    |                                              |          |       |
-| An dtéann tú amach go minic?       | Do you go out often?                         |          |       |
-| Téim.                              |                                              |          |       |
-| Ní théim.                          |                                              |          |       |
-|                                    |                                              |          |       |
-| An éiríonn tú go luath?            | Do you get up early?                         |          |       |
+| Irish                              | English                                      | Phonetic | Sound | Info |
+| ---------------------------------- | -------------------------------------------- | -------- | ----- | ---- |
+| Cad é a dhéanann tú i rith an lae? | What do you do during the day?               |          |       |      |
+| Cad é a dhéanann tú tráthnóna?     | What do you do in the evening?               |          |       |      |
+|                                    | GIVING YOUR REPLY                            |          |       |      |
+| Tagaim abhaile ..                  | I come home ...                              |          |       |      |
+| Éistim leis an raidió.             | I listen to the radio.                       |          |       |      |
+| Amharcaim ar an teilifís.          | I watch television.                          |          |       |      |
+| Téim amach.                        | I go out.                                    |          |       |      |
+| Déanaim réidh béile.               | I prepare a meal.                            |          |       |      |
+| Téim a luí luath.                  | I go to bed early.                           |          |       |      |
+|                                    |                                              |          |       |      |
+|                                    | ASKING SOMEONE IF THEY DO A PARTICULAR THING |          |       |      |
+|                                    |                                              |          |       |      |
+| An éisteann tú le ceol?            | Do you listen to music?                      |          |       |      |
+| Éistim.                            | I do (literally, I listen).                  |          |       |      |
+| Ní éistim.                         | I don't (literally, I don't listen).         |          |       |      |
+|                                    |                                              |          |       |      |
+| An dtéann tú amach go minic?       | Do you go out often?                         |          |       |      |
+| Téim.                              |                                              |          |       |      |
+| Ní théim.                          |                                              |          |       |      |
+|                                    |                                              |          |       |      |
+| An éiríonn tú go luath?            | Do you get up early?                         |          |       |      |
 Éirím.
 Ní éirím.
 |     |

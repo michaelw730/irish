@@ -116,8 +116,8 @@ The days of the week aren't affected if they're preceded by the words maidin and
 
 After oíche, however, Dé is dropped and a séimhiú is added,Luain, remains the same, and Dé hAoine loses its h:
 
-| Irish            | English         | Phonetic | Sound |
-| ---------------- | --------------- | -------- | ----- |
+| Irish                            | English                            | Phonetic | Sound | Info |
+| -------------------------------- | ---------------------------------- | -------- | ----- | ---- |
 | oíche Luain      | Monday night    |          |       |
 | oíche Mháirt     | Tuesday night   |          |       |
 | oíche Chéadaoin  | Wednesday night |          |       |

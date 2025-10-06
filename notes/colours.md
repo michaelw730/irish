@@ -31,21 +31,21 @@ Tá dath buí ar an charr. - The car is yellow. (The colour yellow is on the car
 
 ## colours
 
-| Irish                | English | Phonetic          | Sound |
-| -------------------- | ------- | ----------------- | ----- |
-| geal                 | bright  |                   |       |
-| dorcha               | dark    | durcha            |       |
-|                      |         |                   |       |
-| bán                  | white   | bawn              |       |
-| bándearg > bhándearg | pink    | ban dearg         |       |
-| glas                 | green   |                   |       |
-| corca                | purple  |                   |       |
-| donn                 | brown   |                   |       |
-| buí                  | yellow  |                   |       |
-| liath                | grey    | lea               |       |
-| dubh                 | black   | doo (ULSTER)/dove |       |
-| gorm                 | blue    |                   |       |
-| dearg                | red     | djar-ig           |       |
-| cnódhonn             | hazel   |                   |       |
-| oráiste              | orange  | orawsht-eh        |       |
-| órga                 | gold    |                   |       |
+| Irish                | English | Phonetic          | Sound | Info |
+| -------------------- | ------- | ----------------- | ----- | ---- |
+| geal                 | bright  |                   |       |      |
+| dorcha               | dark    | durcha            |       |      |
+|                      |         |                   |       |      |
+| bán                  | white   | bawn              |       |      |
+| bándearg > bhándearg | pink    | ban dearg         |       |      |
+| glas                 | green   |                   |       |      |
+| corca                | purple  |                   |       |      |
+| donn                 | brown   |                   |       |      |
+| buí                  | yellow  |                   |       |      |
+| liath                | grey    | lea               |       |      |
+| dubh                 | black   | doo (ULSTER)/dove |       |      |
+| gorm                 | blue    |                   |       |      |
+| dearg                | red     | djar-ig           |       |      |
+| cnódhonn             | hazel   |                   |       |      |
+| oráiste              | orange  | orawsht-eh        |       |      |
+| órga                 | gold    |                   |       |      |

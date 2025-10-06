@@ -1,7 +1,7 @@
 # The family part 1
 
 
-|AN TEAGHLACH 1 | THE FAMILY 1
+AN TEAGHLACH 1 | THE FAMILY 1
 
 SAYING WHAT YOUR MARITAL STATUS IS
 
@@ -109,12 +109,12 @@ The Irish equivalents of word like 'my' and 'your' that denote possession affect
 
 Mo and the other words above that denote possession are never stressed in everyday speech. You add certain endings in order to add emphasis:
 
-| Irish         | English         | Phonetic | Sound |
-| ------------- | --------------- | -------- | ----- |
-| mo mhacsa     | *my* son        |          |       |
-| do mhacsa     | *your* son      |          |       |
-| do mháthairse | *your* mother   |          |       |
-| d'iníonsa     | *your* daughter |          |       |
+| Irish         | English         | Phonetic | Sound | Info |
+| ------------- | --------------- | -------- | ----- | ---- |
+| mo mhacsa     | *my* son        |          |       |      |
+| do mhacsa     | *your* son      |          |       |      |
+| do mháthairse | *your* mother   |          |       |      |
+| d'iníonsa     | *your* daughter |          |       |      |
 
 ASKING SOMEONE HOW MANY CHILDREN THEY HAVE
 

@@ -5,8 +5,8 @@ SAYING WHAT JOB YOU DO
 |AG PLÉ POSTANNA | DISCUSSING JOBS|ag play postanny
 
 
-| Irish                           | English                               | Phonetic                         | Sound   |
-| ------------------------------- | ------------------------------------- | -------------------------------- | ------- |
+| Irish                            | English                            | Phonetic | Sound | Info |
+| -------------------------------- | ---------------------------------- | -------- | ----- | ---- |
 | obair                           | work                                  |                                  |         |
 | post                            | job                                   | paw-st                           |         |
 |                                 |                                       |                                  |         |
@@ -116,8 +116,8 @@ You use Is to refer to the job you have at the moment but Ba when you are talkin
 Ba causes a séimhiú in words beginning with a consonant (except l, n, and r). It is shortened to B' before a vowel or fh + vowel.
 
 
-| Irish                 | English | Phonetic | Sound |
-| --------------------- | ------- | -------- | ----- |
+| Irish                            | English                            | Phonetic | Sound | Info |
+| -------------------------------- | ---------------------------------- | -------- | ----- | ---- |
 | Ba mheicneoir mé.     |         |          |       |
 | B'oibrí monarchan mé. |         |          |       |
 | B'fheirmeoir mé.      |         |          |       |
@@ -125,8 +125,8 @@ Ba causes a séimhiú in words beginning with a consonant (except l, n, and r). 
 
 ASKING SOMEONE IF THEY DO A SPECIFIC JOB
 
-| Irish           | English                                             | Phonetic          | Sound |
-| --------------- | --------------------------------------------------- | ----------------- | ----- |
+| Irish                            | English                            | Phonetic | Sound | Info |
+| -------------------------------- | ---------------------------------- | -------- | ----- | ---- |
 | An dochtúir tú? | Are you a doctor?                                   |                   |       |
 | An rúnaí tú?    | Are you a secretary?                                |                   |       |
 |                 |                                                     |                   |       |

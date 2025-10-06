@@ -2,8 +2,8 @@
 
 ASKING SOMEONE WHAT THEY WANT
 
-| Irish                       | English                                                              | Phonetic | Sound |
-| --------------------------- | -------------------------------------------------------------------- | -------- | ----- |
+| Irish                            | English                            | Phonetic | Sound | Info |
+| -------------------------------- | ---------------------------------- | -------- | ----- | ---- |
 | Cad é ba mhaith leat?       | What would you like?                                                 |          |       |
 | Cad é ba mhaith leatsa?     | What would *you* like?                                               |          |       |
 | Cad é ba mhaith libh?       | What would you like? (when speaking to more than one person)         |          |       |
@@ -24,14 +24,14 @@ When responding to the question Cad é ba mhaith leat? you can drop Ba mhaith li
 
 If you're in company and the question Cad é ba mhaith libh? is being addressed to the group as a whole, than you can use domhsa and liomsa to answer specifically for yourself:
 
-| Irish                           | English                 | Phonetic         | Sound |
-| ------------------------------- | ----------------------- | ---------------- | ----- |
+| Irish                            | English                            | Phonetic | Sound | Info |
+| -------------------------------- | ---------------------------------- | -------- | ----- | ---- |
 | Caife dubh domhsa.              | A black coffee for me.  |                  |       |
 | Ba mhaith liomsa tae le bainne. | I'd like tea with milk. |                  |       |
 | Rud ar bith eile?               | Anything else?          | Rud ar bee ella? |       |
 
-| Irish                       | English                                                     | Phonetic                | Sound |
-| --------------------------- | ----------------------------------------------------------- | ----------------------- | ----- |
+| Irish                            | English                            | Phonetic | Sound | Info |
+| -------------------------------- | ---------------------------------- | -------- | ----- | ---- |
 | DEOCHANNA                   | Drinks                                                      |                         |       |
 | caife                       | coffee                                                      |                         |       |
 | caife dubh                  | black coffee                                                |                         |       |
@@ -106,8 +106,8 @@ If you're in company and the question Cad é ba mhaith libh? is being addressed 
 SAYING CHEERS
 
 
-| Irish                                     | English                                     | Phonetic | Sound |
-| ----------------------------------------- | ------------------------------------------- | -------- | ----- |
+| Irish                            | English                            | Phonetic | Sound | Info |
+| -------------------------------- | ---------------------------------- | -------- | ----- | ---- |
 | Sláinte!                                  | Cheers! (literally, Health!)                |          |       |
 | Sláinte mhór                              | Cheers (response??)                         |          |       |
 |                                           |                                             |          |       |

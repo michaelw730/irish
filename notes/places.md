@@ -4,20 +4,20 @@
 
 ![Map](https://i.redd.it/ainw8jtnz52d1.jpeg)
 
-| Irish           | English                      | Phonetic        | Sound |
-| --------------- | ---------------------------- | --------------- | ----- |
-| Cúige           | province (of Ireland/fifths) | cwig-a          |       |
-| Contae          | County                       | cont-ay         |       |
-|                 |                              |                 |       |
-| Uladh           | Ulster                       | ull-oo          |       |
-| Mumhan          | Munster                      | moo-an          |       |
-| Laighean        | Leinster                     | lie-on          |       |
-| Connachta       | Connacht                     | con-awcta       |       |
-|                 |                              |                 |       |
-| Cúige Uladh     | Ulster                       | cwig-a ull-oo   |       |
-| Cúige Mumhan    | Munster                      | cwig-a moo-an   |       |
-| Cúige Laighean  | Leinster                     | cwig-a lie-on   |       |
-| Cúige Chonnacht | Connacht                     | cwig-a hon-awct |       |
+| Irish           | English                      | Phonetic        | Sound | Info |
+| --------------- | ---------------------------- | --------------- | ----- | ---- |
+| Cúige           | province (of Ireland/fifths) | cwig-a          |       |      |
+| Contae          | County                       | cont-ay         |       |      |
+|                 |                              |                 |       |      |
+| Uladh           | Ulster                       | ull-oo          |       |      |
+| Mumhan          | Munster                      | moo-an          |       |      |
+| Laighean        | Leinster                     | lie-on          |       |      |
+| Connachta       | Connacht                     | con-awcta       |       |      |
+|                 |                              |                 |       |      |
+| Cúige Uladh     | Ulster                       | cwig-a ull-oo   |       |      |
+| Cúige Mumhan    | Munster                      | cwig-a moo-an   |       |      |
+| Cúige Laighean  | Leinster                     | cwig-a lie-on   |       |      |
+| Cúige Chonnacht | Connacht                     | cwig-a hon-awct |       |      |
 
 
 ## Counties
@@ -68,26 +68,26 @@
 
 ## Cities/Towns etc
 
-| Irish                          | English         | Phonetic | Sound |
-| ------------------------------ | --------------- | -------- | ----- |
-| Gleann Gormliath               | Glengormley     |          |       |
-| Gaoth Dobhair > nGaoth Dobhair | Gweedore        |          |       |
-| Birmingham                     | Birmingham      |          |       |
-| Gort an Choirce                | Gortahork       |          |       |
-| Leitir Ceanainn                | Letterkenny     |          |       |
-| Cnoc Fola                      | Bloody Foreland |          |       |
-| > mBéal Feirste                | Belfast         |          |       |
-| > nGlaschú                     | Glasgow         |          |       |
-| > bPort Rois                   | Portrush        |          |       |
-| >gCúil Raithlin                | Coleraine       |          |       |
-| >nDun Dealgan                  | Dundalk         |          |       |
-| Dún Geanainn                   | Dungannon       |          |       |
-| Léim an Mhadaidh               | Limavady        |          |       |
-| Port an Dúnáin                 | Portadown       |          |       |
-|                                |                 |          |       |
-| Nua-Eabhrac                    | New York        |          |       |
-| >nDún Éidin                    | Edinburgh       |          |       |
-|                                |                 |          |       |
+| Irish                          | English         | Phonetic | Sound | Info |
+| ------------------------------ | --------------- | -------- | ----- | ---- |
+| Gleann Gormliath               | Glengormley     |          |       |      |
+| Gaoth Dobhair > nGaoth Dobhair | Gweedore        |          |       |      |
+| Birmingham                     | Birmingham      |          |       |      |
+| Gort an Choirce                | Gortahork       |          |       |      |
+| Leitir Ceanainn                | Letterkenny     |          |       |      |
+| Cnoc Fola                      | Bloody Foreland |          |       |      |
+| > mBéal Feirste                | Belfast         |          |       |      |
+| > nGlaschú                     | Glasgow         |          |       |      |
+| > bPort Rois                   | Portrush        |          |       |      |
+| >gCúil Raithlin                | Coleraine       |          |       |      |
+| >nDun Dealgan                  | Dundalk         |          |       |      |
+| Dún Geanainn                   | Dungannon       |          |       |      |
+| Léim an Mhadaidh               | Limavady        |          |       |      |
+| Port an Dúnáin                 | Portadown       |          |       |      |
+|                                |                 |          |       |      |
+| Nua-Eabhrac                    | New York        |          |       |      |
+| >nDún Éidin                    | Edinburgh       |          |       |      |
+|                                |                 |          |       |      |
 
 ## Countries
 
