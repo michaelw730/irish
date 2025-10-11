@@ -91,8 +91,8 @@
 
 ## Countries
 
-| Irish        | English | Phonetic | Sound |
-| ------------ | ------- | -------- | ----- |
-| an Ghearmáin | Germany |          |       |
-| an Fhrainc   | France  |          |       |
-|              |         |          |       |
+| Irish        | English | Phonetic | Sound | Info |
+| ------------ | ------- | -------- | ----- | ---- |
+| an Ghearmáin | Germany |          |       |      |
+| an Fhrainc   | France  |          |       |      |
+|              |         |          |       |      |
