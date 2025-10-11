@@ -14,10 +14,10 @@
 | Laighean        | Leinster                     | lie-on          |       |      |
 | Connachta       | Connacht                     | con-awcta       |       |      |
 |                 |                              |                 |       |      |
-| Cúige Uladh     | Ulster                       | cwig-a ull-oo   |       |      |
-| Cúige Mumhan    | Munster                      | cwig-a moo-an   |       |      |
-| Cúige Laighean  | Leinster                     | cwig-a lie-on   |       |      |
-| Cúige Chonnacht | Connacht                     | cwig-a hon-awct |       |      |
+| Cúige Uladh     | County Ulster                | cwig-a ull-oo   |       |      |
+| Cúige Mumhan    | County Munster               | cwig-a moo-an   |       |      |
+| Cúige Laighean  | County Leinster              | cwig-a lie-on   |       |      |
+| Cúige Chonnacht | County Connacht              | cwig-a hon-awct |       |      |
 
 
 ## Counties

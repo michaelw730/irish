@@ -2,7 +2,7 @@
 
 | Irish      | English  | Phonetic   | Sound | Info |
 | ---------- | -------- | ---------- | ----- | ---- |
-| An Aibítir | Alphabet | a-bit-chur |       |      |
+| An Aibítir | The Alphabet | an a-bit-chur |       |      |
 
 * similar to English
 * doesn't have - j,k,q,v,w,x,y,z:
