@@ -1,7 +1,7 @@
 # An Aibítir | Alphabet
 
-| Irish      | English  | Phonetic   | Sound | Info |
-| ---------- | -------- | ---------- | ----- | ---- |
+| Irish      | English      | Phonetic      | Sound | Info |
+| ---------- | ------------ | ------------- | ----- | ---- |
 | An Aibítir | The Alphabet | an a-bit-chur |       |      |
 
 * similar to English
