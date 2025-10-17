@@ -251,10 +251,10 @@
 | ------------------- | -------------------- | --------- | ----- |
 | Tar isteach         | come in              |           |       |
 | doras               | door                 |           |       |
-| fhuinneog           | window               | inyug??   |       |
+| fuinneog            | window               | fuinyug?? |       |
 | Druid an doras      | close the door       |           |       |
 | Oscail an doras     | open the door        |           |       |
-| Druid an fhuinneog  | close the window     |           |       |
+| Druid an fhuinneog  | close the window     | inyug??   |       |
 | Oscail an fhuinneog | open the window      |           |       |
 | Suígh síos          | sit down             | see shees |       |
 | Bí maith            | be good              |           |       |
