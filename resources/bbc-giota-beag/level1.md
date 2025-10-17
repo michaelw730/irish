@@ -233,7 +233,7 @@
 | Cad é an uimhir ghutháin atá agat? | what's your phone number? |                           |       |
 | scairt ghutháin                    | phone call                |                           |       |
 | cuir scairt ghutháin orm           | phone me                  | koor scart..              |       |
-| ba mhaith liom labhairt le ...     | I'd like to speak to ...  |                           |       |
+| ba mhaith liom labhairt le ...     | I'd like to speak to ...  | ba why lum lortch le      |       |
 | Cé atá ag caint?                   | who's speaking?           |                           |       |
 |                                    |                           |                           |       |
 | MUSICAL INSTRUMENTS                |                           |                           |       |
