@@ -2,55 +2,53 @@
 
 ## Nouns/Words
 
-| Irish | English | Phonetic | Sound |
-| ------| ------- | -------- | ----- |
-| FRUIT |  |  |  |
-| úll | apple | ool |[Sound](https://www.focloir.ie/en/dictionary/ei/apple)
-| FOOD |  |  |  |
-| uisce | water | iska |   |
-| arán | bread | araan |  |
-| ceapaire | sandwich | ceapora |  |
-| ceapairí | sandwiches | ceaporee |  |
-| rís | rice |  |  |
-| bainne | milk | banya |  |
-| PERSONAL
-| mé | I | may |  |
-| tú | you | too |  |
-| í | she | e |  |
-| é | he | ay |  |
-| sé | he | shay |  |
-| é | it | ay |  |
-| siad | they | shade |  |
-| muid | we |
-| tá | is | taa |  |
-| agat | at you | awgat |  |
-| PEOPLE
-| fear | man | faar |  |
-|leniate? fhear | man | aar |  |???
-| fir | men |  |  |
-| buachaill | boy | byucall |  |
-|leniate?> mbuachaill | boy | myucall |  |
-| buachaillí | boys | byucally |  |
-| bean | woman | ban |  |
-|> an bhean | the woman | ban |  | | Feminine noun needs lenited
-| mná | women | mnaw? |  |
-| cailín | girl | ca-leen |  |
-| cailíní | girls | ca-leení |  |
-| the girls | na cailiní |  |  |
-| páiste | child |  |  |
-| páistí | children |  |  |
-| ITEMS
-| biachlár | menu | beachlor |  |
-| an biachlár | the menu | an beachlor |  |
-| leabhar | book | laower |  |
-| leabhair | books |  |  |
-| nuachtán | newspaper | nu-akton |  |
-| nuachtáin | newspapers | nu-aktain? |  |
-| OTHER
-| and | agus |  |  |
-| is | is | iss |  |
-
-|  |  |  |  |
+| Irish                | English    | Phonetic    | Sound                                                  |
+| -------------------- | ---------- | ----------- | ------------------------------------------------------ |
+| FRUIT                |            |             |                                                        |
+| úll                  | apple      | ool         | [Sound](https://www.focloir.ie/en/dictionary/ei/apple) |
+| FOOD                 |            |             |                                                        |
+| uisce                | water      | iska        |                                                        |
+| arán                 | bread      | araan       |                                                        |
+| ceapaire             | sandwich   | ceapora     |                                                        |
+| ceapairí             | sandwiches | ceaporee    |                                                        |
+| rís                  | rice       |             |                                                        |
+| bainne               | milk       | banya       |                                                        |
+| PERSONAL             |            |             |                                                        |
+| mé                   | I          | may         |                                                        |
+| tú                   | you        | too         |                                                        |
+| í                    | she        | e           |                                                        |
+| é                    | he         | ay          |                                                        |
+| sé                   | he         | shay        |                                                        |
+| é                    | it         | ay          |                                                        |
+| siad                 | they       | shade       |                                                        |
+| muid                 | we         |             |                                                        |
+| tá                   | is         | taa         |                                                        |
+| agat                 | at you     | awgat       |                                                        |
+| PEOPLE               |            |             |                                                        |
+| fear                 | man        | faar        |                                                        |
+| leniate? fhear       | man        | aar         |                                                        |???
+| fir                  | men        |             |                                                        |
+| buachaill            | boy        | byucall     |                                                        |
+| leniate?> mbuachaill | boy        | myucall     |                                                        |
+| buachaillí           | boys       | byucally    |                                                        |
+| bean                 | woman      | ban         |                                                        |
+| > an bhean           | the woman  | ban         |                                                        | | Feminine noun needs lenited
+| mná                  | women      | mnaw?       |                                                        |
+| cailín               | girl       | ca-leen     |                                                        |
+| cailíní              | girls      | ca-leení    |                                                        |
+| the girls            | na cailiní |             |                                                        |
+| páiste               | child      |             |                                                        |
+| páistí               | children   |             |                                                        |
+| ITEMS                |            |             |                                                        |
+| biachlár             | menu       | beachlor    |                                                        |
+| an biachlár          | the menu   | an beachlor |                                                        |
+| leabhar              | book       | laower      |                                                        |
+| leabhair             | books      |             |                                                        |
+| nuachtán             | newspaper  | nu-akton    |                                                        |
+| nuachtáin            | newspapers | nu-aktain?  |                                                        |
+| OTHER                |            |             |                                                        |
+| and                  | agus       |             |                                                        |
+| is                   | is         | iss         |                                                        |
 
 ## Grammar
 bean is a feminine noun, and feminine nouns are lenited after the singular definite article an.
@@ -59,68 +57,68 @@ bean - an bhean
 
 ## Verbs
 
-| Irish | English | Phonetic | Sound |
-| ------| ------- | -------- |----- |
-| itheann | eat |  |  |
-| ithim | I eat |  |  |
-| itheann tú | you eat |  |  |
-| itheann sé | He eats |  |  |
-| itheann sí | She eats |  |  |
-| ithimid | We eat |  |  |
-| itheann sibh | you eat | itheann shiv |  |
-| itheann siad | They eat |  |  |
-|  |  |  |  |
-| ólann | drink |
-| ólaim | I drink | olam
-| ólaimid | we drink | olamid
-| ólann sibh | You drink | olann shiv
-|  |  |  |  |
-| léann | read |  |  |
-| léim | I read |  |  |
-| léimid | We read |  |  |
-|  |  |  |  |
-| Táim | I am | taam |  |
-| Tá tú (singular?) | You are | ta too |  
-| Táimid | We are | taamid |  |
-| Tá sibh (plural?) | You are | ta shiv |  |
-|  |  |  |  |
-| Tá ... agam | I have |  |  |
-| Tá ... agat | You have |  |  |
-| Tá ... aige | He has |  |  |
-| Tá ... aici | She has |  |  |
-|  |  |  |  |
+| Irish             | English   | Phonetic     | Sound |
+| ----------------- | --------- | ------------ | ----- |
+| itheann           | eat       |              |       |
+| ithim             | I eat     |              |       |
+| itheann tú        | you eat   |              |       |
+| itheann sé        | He eats   |              |       |
+| itheann sí        | She eats  |              |       |
+| ithimid           | We eat    |              |       |
+| itheann sibh      | you eat   | itheann shiv |       |
+| itheann siad      | They eat  |              |       |
+|                   |           |              |       |
+| ólann             | drink     |              |       |
+| ólaim             | I drink   | olam         |       |
+| ólaimid           | we drink  | olamid       |       |
+| ólann sibh        | You drink | olann shiv   |       |
+|                   |           |              |       |
+| léann             | read      |              |       |
+| léim              | I read    |              |       |
+| léimid            | We read   |              |       |
+|                   |           |              |       |
+| Táim              | I am      | taam         |       |
+| Tá tú (singular?) | You are   | ta too       |       |
+| Táimid            | We are    | taamid       |       |
+| Tá sibh (plural?) | You are   | ta shiv      |       |
+|                   |           |              |       |
+| Tá ... agam       | I have    |              |       |
+| Tá ... agat       | You have  |              |       |
+| Tá ... aige       | He has    |              |       |
+| Tá ... aici       | She has   |              |       |
+|                   |           |              |       |
 
 
 
 ## Phrases
-| Irish | English | Phonetic | Sound |
-| ------| ------- | -------- |----- |
-| Taím agus tá sé | I am and he is |  |  |
-| Táimid agus tá na fir | We are and the men are
-| Is cailín í | She is a girl |
-| Is cailín mé | I am a girl |
-| Is bean í | She is a woman |
-| Is bean mé | I am a woman |
-| Is fear é | He is a man |
-| Is buachaill é | He is a boy |
-| Is buachaill mé | I am a boy |
-| Is fear mé | I am a man |
-| Ólann tú bainne | You drink milk
-| Ólaim uisce | I drink water
-| Ólann sé uisce | He drinks water
-| Léimid an nuachtán  | We read the newspaper
-| Léimid an nuachtáin  | We read the newspapers
-| Léann an páista | The child reads the book
-| Léann na páistí an leabhar | The children read the book
-| Léann na fir an nuachtán | The men read the newspaper
-| Ithim úll | I eat an apple
-| Itheann sí úll | She eats an apple
-| Itheann an buachaill agus Pól arán | The boy and Paul eat bread
-| Itheann sé úll | He eats an apple |  |  |
-| Tá buachaill aici | She has a boyfriend
-| Tá uisce agat | You have water
-| Tá leabhar agus nuachtán aige | He has a book and a newspaper |
-| Tá ceapaire agam | I have a newspaper
-| Tá rís aici | She has rice
-| Tá páistí agam | I have children
-|alt> Tá clann agam | I have children
+| Irish                              | English                       | Phonetic | Sound |
+| ---------------------------------- | ----------------------------- | -------- | ----- |
+| Taím agus tá sé                    | I am and he is                |          |       |
+| Táimid agus tá na fir              | We are and the men are        |          |       |
+| Is cailín í                        | She is a girl                 |          |       |
+| Is cailín mé                       | I am a girl                   |          |       |
+| Is bean í                          | She is a woman                |          |       |
+| Is bean mé                         | I am a woman                  |          |       |
+| Is fear é                          | He is a man                   |          |       |
+| Is buachaill é                     | He is a boy                   |          |       |
+| Is buachaill mé                    | I am a boy                    |          |       |
+| Is fear mé                         | I am a man                    |          |       |
+| Ólann tú bainne                    | You drink milk                |          |       |
+| Ólaim uisce                        | I drink water                 |          |       |
+| Ólann sé uisce                     | He drinks water               |          |       |
+| Léimid an nuachtán                 | We read the newspaper         |          |       |
+| Léimid an nuachtáin                | We read the newspapers        |          |       |
+| Léann an páista                    | The child reads the book      |          |       |
+| Léann na páistí an leabhar         | The children read the book    |          |       |
+| Léann na fir an nuachtán           | The men read the newspaper    |          |       |
+| Ithim úll                          | I eat an apple                |          |       |
+| Itheann sí úll                     | She eats an apple             |          |       |
+| Itheann an buachaill agus Pól arán | The boy and Paul eat bread    |          |       |
+| Itheann sé úll                     | He eats an apple              |          |       |
+| Tá buachaill aici                  | She has a boyfriend           |          |       |
+| Tá uisce agat                      | You have water                |          |       |
+| Tá leabhar agus nuachtán aige      | He has a book and a newspaper |          |       |
+| Tá ceapaire agam                   | I have a newspaper            |          |       |
+| Tá rís aici                        | She has rice                  |          |       |
+| Tá páistí agam                     | I have children               |          |       |
+| alt> Tá clann agam                 | I have children               |          |       |
