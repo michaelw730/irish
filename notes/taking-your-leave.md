@@ -2,38 +2,35 @@
 
 SAYING YOU HAVE TO GO
 
-| Irish                         | English                   | Phonetic         | Sound | Info |
-| ----------------------------- | ------------------------- | ---------------- | ----- | ---- |
-| Caithfidh mé imeacht.         | I have to go.             | Ky-ya meh imackt |       |      |
-| Caithfidh mé imeacht arís.    | I have to go again.       |                  |       |      |
-| Tá mé ag imeacht.             | I am going.               |                  |       |      |
-| Tá mé ag dul abhaile.         |                           |                  |       |      |
-|                               | or                        |                  |       |      |
-| Tá mé ag dul chun an bhaile.  | I am going home.          |                  |       |      |
-|                               | GIVING YOUR RESPONSE      |                  |       |      |
-| Maith go leor.                |                           |                  |       |      |
-|                               | or                        |                  |       |      |
-| Ceart go leor.                | All right.                |                  |       |      |
-| Is mór an trua sin.           | That's a pity.            |                  |       |      |
-| Cheana féin!                  | Already!                  |                  |       |      |
-| Níl sé ach luath.             | It's only early.          |                  |       |      |
-|                               | ASKING WHY                |                  |       |      |
-| Cad chuige?                   | Why?                      | cad teeya??      |       |      |
-|                               | SAYING YOU'RE SORRY       |                  |       |      |
-| Tá brón orm ach ...           |                           |                  |       |      |
-|                               | or                        |                  |       |      |
-| Tá mé buartha ach ...         | I am sorry but ...        |                  |       |      |
-|                               | SAYING WHY YOU HAVE TO GO |                  |       |      |
-| Tá mé tuirseach.              | I'm tired.                |                  |       |      |
-| Tá mé an-tuirseach.           | I'm very tired.           |                  |       |      |
-| Tá sé mall.                   | It's late.                |                  |       |      |
-| Tá sé an-mhall.               | It's very late.           |                  |       |      |
-| Tá mé mall.                   | I'm late.                 |                  |       |      |
-| Tá mé mall don dráma.         | I'm late for the play.    |                  |       |      |
-| Tá deifir orm.                | I'm in a hurry.           |                  |       |      |
-| Tá mé ag súil le cuairteoirí. | I'm expecting visitors.   |                  |       |      |
-| Tá mé ag dul chuig cruinniú.  | I'm going to a meeting.   |                  |       |      |
-
+| Irish                         | English                                        | Phonetic               | Sound | Info |
+| ----------------------------- | ---------------------------------------------- | ---------------------- | ----- | ---- |
+| AG FÁGÁIL COMHLUADAIR         | TAKING YOUR LEAVE                              | Ag faygal cool-wah-her |       |      |
+| Caithfidh mé imeacht.         | I have to go.                                  | Ka-heh meh imackt      |       |      |
+| Caithfidh mé imeacht arís.    | I have to go again.                            |                        |       |      |
+| Caithfidh mé ag dul abhaile.  | I have to go home.                             |                        |       |      |
+| Tá mé ag imeacht.             | I am going.                                    |                        |       |      |
+| Tá mé ag dul abhaile.         | I am going home.                               |                        |       |      |
+| Tá mé ag dul chun an bhaile.  | I am going home.                               |                        |       |      |
+|                               | GIVING YOUR RESPONSE                           |                        |       |      |
+| Maith go leor.                |                                                |                        |       |      |
+| Ceart go leor.                | All right.                                     |                        |       |      |
+| Is mór an trua sin.           | That's a pity.                                 |                        |       |      |
+| Cheana féin!                  | Already!                                       |                        |       |      |
+| Níl sé ach luath.             | It's only early. (Literal: it's not but early) |                        |       |      |
+| Cad chuige?                   | Why?                                           | cad teeya??            |       |      |
+|                               | SAYING YOU'RE SORRY                            |                        |       |      |
+| Tá brón orm ach ...           | I am sorry but ...                             |                        |       |      |
+| Tá mé buartha ach ...         | I am sorry but ...                             |                        |       |      |
+|                               | SAYING WHY YOU HAVE TO GO                      |                        |       |      |
+| Tá mé tuirseach.              | I'm tired.                                     |                        |       |      |
+| Tá mé an-tuirseach.           | I'm very tired.                                |                        |       |      |
+| Tá sé mall.                   | It's late.                                     |                        |       |      |
+| Tá sé an-mhall.               | It's very late.                                |                        |       |      |
+| Tá mé mall.                   | I'm late.                                      |                        |       |      |
+| Tá mé mall don dráma.         | I'm late for the play.                         |                        |       |      |
+| Tá deifir orm.                | I'm in a hurry.                                |                        |       |      |
+| Tá mé ag súil le cuairteoirí. | I'm expecting visitors.                        |                        |       |      |
+| Tá mé ag dul chuig cruinniú.  | I'm going to a meeting.                        |                        |       |      |
 
 The Irish for 'very' is an-. When an- precedes words beginning with a consonant, other than d, n, t, l, or s, it causes a séimhiú.
 mall	an-mhall
@@ -77,6 +74,8 @@ When people are saying goodbye they'll often mention when they'll see you again.
 
 | Irish                                        | English                                                             | Phonetic | Sound | Info |
 | -------------------------------------------- | ------------------------------------------------------------------- | -------- | ----- | ---- |
+| saoire                                       | holiday                                                             |          |       |      |
+| laethanta saoire                             | holiday                                                             |          |       |      |
 | Chífidh mé ar ball tú.                       | I'll see you in a while/I'll see you later.                         |          |       |      |
 | Chífidh mé i gceann leathuaire* tú.          | I'll see you in half an hour.                                       |          |       |      |
 | Chífidh mé anocht tú.                        | I'll see you tonight.                                               |          |       |      |

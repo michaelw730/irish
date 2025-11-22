@@ -59,7 +59,8 @@ ASKING SOMEONE WHERE THEY WENT
 | scannán                                             | film                                                                           |                                                  |       |      |
 |                                                     |                                                                                |                                                  |       |      |
 | Caithfidh mé labhairt leat inniu                    | I need to see you today                                                        | ????                                             |       |      |
-| choirmceol                                          | concert                                                                        |                                                  |       |      |
+| ceolchoirm                                          | concert                                                                        |                                                  |       |      |
+| coirm cheoil                                        | concert                                                                        |                                                  |       |      |
 | mí (mhí)                                            | month                                                                          | mee (vee)                                        |       |      |
 
 
