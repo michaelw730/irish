@@ -49,6 +49,7 @@
 | Cluiche                   | game                                          | Clee-ha            |       |                                              |
 | fichille                  | chess                                         | feel-ha            |       |                                              |
 | Cluiche fichille?         | A game of chess?/Chess game?                  | Clee-ha feel-ha    |       |                                              |
+| An bhfuil tú go maith?    | Are you well?                                 |                    |       |                                              |
 
 ## Faisnéis | Information
 

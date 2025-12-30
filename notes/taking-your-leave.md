@@ -4,15 +4,16 @@ SAYING YOU HAVE TO GO
 
 | Irish                         | English                                        | Phonetic               | Sound | Info |
 | ----------------------------- | ---------------------------------------------- | ---------------------- | ----- | ---- |
-| AG FÁGÁIL COMHLUADAIR         | TAKING YOUR LEAVE                              | Ag faygal cool-wah-her |       |      |
+| AG FÁGÁIL COMHLUADAIR         | TAKING YOUR LEAVE                              | Ag faygal cool-wah-der |       |      |
 | Caithfidh mé imeacht.         | I have to go.                                  | Ka-heh meh imackt      |       |      |
 | Caithfidh mé imeacht arís.    | I have to go again.                            |                        |       |      |
+| Éist, caithfidh mé imeacht.   | Listen, I have to go .                         |                        |       |      |
 | Caithfidh mé ag dul abhaile.  | I have to go home.                             |                        |       |      |
 | Tá mé ag imeacht.             | I am going.                                    |                        |       |      |
 | Tá mé ag dul abhaile.         | I am going home.                               |                        |       |      |
 | Tá mé ag dul chun an bhaile.  | I am going home.                               |                        |       |      |
 |                               | GIVING YOUR RESPONSE                           |                        |       |      |
-| Maith go leor.                |                                                |                        |       |      |
+| Maith go leor.                | All right.                                     |                        |       |      |
 | Ceart go leor.                | All right.                                     |                        |       |      |
 | Is mór an trua sin.           | That's a pity.                                 |                        |       |      |
 | Cheana féin!                  | Already!                                       |                        |       |      |
@@ -43,15 +44,15 @@ deas	an-deas
 
 ASKING SOMEONE TO STAY A LITTLE LONGER
 
-| Irish                   | English                     | Phonetic | Sound | Info |
-| ----------------------- | --------------------------- | -------- | ----- | ---- |
-| Fan tamall beag eile!   | Stay a little while longer! |          |       |      |
-| Fan go dtí ...          | Stay until ...              |          |       |      |
-| Fan go dtí a hocht.     | Stay until eight.           |          |       |      |
-| Fan leathuair eile.     | Stay another half an hour.  |          |       |      |
-| Fan uair an choig eile. | Stay another hour.          |          |       |      |
-|                         | GIVING YOUR REPLY           |          |       |      |
-| Ní thig liom.           | I can't.                    |          |       |      |
+| Irish                    | English                     | Phonetic | Sound | Info |
+| ------------------------ | --------------------------- | -------- | ----- | ---- |
+| Fan tamall beag eile!    | Stay a little while longer! |          |       |      |
+| Fan go dtí ...           | Stay until ...              |          |       |      |
+| Fan go dtí a hocht.      | Stay until eight.           |          |       |      |
+| Fan leathuair eile.      | Stay another half an hour.  |          |       |      |
+| Fan uair an chloig eile. | Stay another hour.          |          |       |      |
+|                          | GIVING YOUR REPLY           |          |       |      |
+| Ní thig liom.            | I can't.                    |          |       |      |
 
 If you decide you can stay longer you can use
 Maith go leor.
@@ -80,7 +81,7 @@ When people are saying goodbye they'll often mention when they'll see you again.
 | Chífidh mé i gceann leathuaire* tú.          | I'll see you in half an hour.                                       |          |       |      |
 | Chífidh mé anocht tú.                        | I'll see you tonight.                                               |          |       |      |
 | Chífidh mé amárach tú.                       | I'll see you tomorrow.                                              |          |       |      |
-| Chífidh mé tráthnnóna tú.                    | I'll see you this evening.                                          |          |       |      |
+| Chífidh mé tráthnóna tú.                     | I'll see you this evening.                                          |          |       |      |
 | Chífidh mé ar maidin tú.                     | I'll see you in the morning.                                        |          |       |      |
 |                                              | *For some more useful sentences containing uair go back to Aonad 7. |          |       |      |
 |                                              | REFERRING TO TIMES FURTHER IN THE FUTURE                            |          |       |      |
