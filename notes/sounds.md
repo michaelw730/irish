@@ -61,7 +61,7 @@ io, oi, ui sounds like fit (usually) - gliondar, glione, duine
 
 
 ## Fadas
-* síne fada???
+* síneadh fada???
 * accent on vowels
 * a | hata, mac | father, spa| english "a"
 * á | tá, bád | call, far| english "aw"

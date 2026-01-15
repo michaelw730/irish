@@ -17,7 +17,7 @@
   * l, m, n, o, p
   * r, s, t, u
 * fada on a vowel lengthens the sound
-* á, é, í, ó, ú - sína (síneadh??) fada
+* á, é, í, ó, ú - síneadh fada
 * jollyphonics https://www.youtube.com/watch?v=us2E71mdcJA
 * a o u = broad
 * e i = slender

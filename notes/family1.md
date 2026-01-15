@@ -13,14 +13,14 @@ SAYING WHAT YOUR MARITAL STATUS IS
 | bean                                     | woman                                       | ban                         |       |                             |
 | an bhean                                 | the woman                                   | ban                         |       | Feminine noun needs lenited |
 | mná                                      | women                                       | mnaw?                       |       |                             |
-|                                          |                                             |                             |       |                             |
 | TEAGHLACH                                | family (as a whole including parents)       | chay-la                     |       |                             |
+| an TEAGHLACH                             | the family (as a whole including parents)   | an chay-la                  |       |                             |
 | Tá mé pósta.                             | I'm married.                                | taa meh pawsta              |       |                             |
 | Níl mé pósta.                            | I'm not married.                            | nil meh pawsta              |       |                             |
 | Tá mé singil.                            | I'm single.                                 |                             |       |                             |
 | Tá mé geallta.                           | I'm engaged.                                | ...galta                    |       |                             |
 | Tá mé scartha...                         | I'm separated...                            | taa meh scarha              |       |                             |
-| ... ó mo bhean (chéile).                 | ...from my wife.                            | o mo van hayla              |       |                             |
+| ... ó mo bhean (chéile).                 | ... from my wife.                           | o mo van hayla              |       |                             |
 | ... ó m'fhear (céile).                   | ... from my husband.                        | o mar kayla                 |       |                             |
 | Is baintreach mé.                        | I'm a widow/widower.                        | is bantrack (thoaty ck) meh |       |                             |
 |                                          |                                             |                             |       |                             |
@@ -42,7 +42,6 @@ SAYING WHAT YOUR MARITAL STATUS IS
 | An bhfuil clann agat?                    | Have you children?                          |                             |       |                             |
 | An bhfuil clann agaibh?                  | (plural)                                    |                             |       |                             |
 | An bhfuil clann agat féin?               | Have you children yourself?                 |                             |       |                             |
-|                                          | or                                          |                             |       |                             |
 | An bhfuil páistí agat?                   |                                             |                             |       |                             |
 | An bhfuil páistí agaibh?                 |                                             |                             |       |                             |
 |                                          |                                             |                             |       |                             |
@@ -118,19 +117,19 @@ Mo and the other words above that denote possession are never stressed in everyd
 
 ASKING SOMEONE HOW MANY CHILDREN THEY HAVE
 
-| Irish                     | English                                                        | Phonetic                    | Sound | Info |
-| ------------------------- | -------------------------------------------------------------- | --------------------------- | ----- | ---- |
-| Cá mhéad páiste atá agat? | How many children have you?                                    | Ca vhead pawstee ataa agat? |       |      |
-|                           |                                                                |                             |       |      |
-|                           | Note that the sigular form of the noun is used after Cá mhéad? |                             |       |      |
-|                           |                                                                |                             |       |      |
-| Cá mhéad cáilín atá agat? | How many girls have you?                                       |                             |       |      |
-|                           |                                                                |                             |       |      |
-| Cá mhéad duine?           | How many people?                                               |                             |       |      |
-|                           |                                                                |                             |       |      |
-| lón inniu                 | lunch today                                                    | loan in-nu                  |       |      |
-| meánlae                   | midday                                                         |                             |       |      |
-| an chéad Aibreán          | first of april                                                 | an chid A-ibrin             |       |      |
+| Irish                     | English                                                         | Phonetic                    | Sound | Info |
+| ------------------------- | --------------------------------------------------------------- | --------------------------- | ----- | ---- |
+| Cá mhéad páiste atá agat? | How many children have you?                                     | Ca vhead pawstee ataa agat? |       |      |
+|                           |                                                                 |                             |       |      |
+|                           | Note that the singular form of the noun is used after Cá mhéad? |                             |       |      |
+|                           |                                                                 |                             |       |      |
+| Cá mhéad cáilín atá agat? | How many girls have you?                                        |                             |       |      |
+|                           |                                                                 |                             |       |      |
+| Cá mhéad duine?           | How many people?                                                |                             |       |      |
+|                           |                                                                 |                             |       |      |
+| lón inniu                 | lunch today                                                     | loan in-nu                  |       |      |
+| meánlae                   | midday                                                          |                             |       |      |
+| an chéad Aibreán          | first of april                                                  | an chid A-ibrin             |       |      |
 
 COUNTING PEOPLE
 
