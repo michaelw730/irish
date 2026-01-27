@@ -1,154 +1,155 @@
-Irish	English	Phonetic	Sound	Info
-fear	man	faar		
-an fhear	the man	an aar		???
-fir	men			
-bean	woman	ban		
-an bhean	the woman	an van		Feminine noun needs lenited
-mná	women	mnaw?		
-teaghlach	family (as a whole including parents)	chay-la		
-an teaghlach	the family (as a whole including parents)	an chay-la		
-Tá mé pósta.	I'm married.	taa meh pawsta		
-Níl mé pósta.	I'm not married.	nil meh pawsta		
-Tá mé singil.	I'm single.			
-Tá mé geallta.	I'm engaged.	...galta		
-Tá mé scartha...	I'm separated...	taa meh scarha		
-... ó mo bhean (chéile).	... from my wife.	o mo van hayla		
-... ó m'fhear (céile).	... from my husband.	o mar kayla		
-Is baintreach mé.	I'm a widow/widower.	is bantrack (thoaty ck) meh		
-				
-	ASKING SOMEONE WHAT THEIR MARITAL STATUS IS			
-				
-An bhfuil tú pósta?	Are you married?			
-An bhfuil tusa pósta?	Are *you* married?			
-An bhfuil tu féin pósta?	Are you married yourself?			
-				
-Tá.	Yes.			
-Níl.	No.			
-Níl go fóill.	Not yet.			
-				
-	ASKING SOMEONE IF THEY HAVE CHILDREN			
-				
-páiste	child	peh-steh		
-páistí	children	peh-stee		
-				
-An bhfuil clann agat?	Have you children?			
-An bhfuil clann agaibh?	(plural)			
-An bhfuil clann agat féin?	Have you children yourself?			
-An bhfuil páistí agat?				
-An bhfuil páistí agaibh?				
-				
-SAYING THAT YOU HAVE OR HAVEN'T CHILDREN				
-				
-Tá.	Yes.			
-Níl.	No.			
-				
-Tá clann agam.	I have children.			
-Tá clann againn.	We have children.			
-mac	a son			
-iníon	a daughter			
-Tá mac agam.	I have a son.			
-Tá iníon agam.	I have a daughter.			
-Níl clann ar bith agam.	I have no children at all.			
-Níl clann ar bith againn.	We have no children at all.			
-Níl páistí ar bith agam.	I have no children at all.			
-Níl páistí ar bith againn.	We have no children at all.			
-Tá mé ag súil le páiste.	I'm expecting a child.			
-Tá mé ag súil le leanbh.	I'm expecting a baby.	..ag sool le lanoo		
-Tá mé torrach.	I'm pregnant.			
-				
-ticéad (thieéad)	ticket	ticid(hicid)		
-cailín	girl	cal-een		
-cailíní	girls	cal-eeny		
-girseach	girl			
-girseachaí	girls			
-buachaill	boy	bohill or byu-kal (throaty k)		
-buachaillí	boys	bohilly or byu-kali (throaty k)		
-gasúr	boy			
-gasúraí	boys			
-				
-	ASKING SOMEONE HOW MEMBERS OF THEIR FAMILY ARE			
-				
-Cad é mar atá do chlann?	How are your children? (when speaking to one person)			
-	or			
-Cad é mar atá do chuid páistí?	How are your children?			
-				
-	This is how you return the question:			
-Cad é mar atá do chlannsa?	How are *your* children?			
-	or			
-Cad é mar atá do chuid *páistíse*?	How are *your* children?			
-				
-Tá siad go maith	They are good.			
-mo	my			
-do	your			
-a	his			
-a	her			
-ár	our			
-bhur	your			
-a	their			
-mo mhac	my son			
-do mhac	your son			
-m'iníon	my daughter			
-a iníon				
-bhur n-iníon				
-do mháthair	your mother			
-d'athair	you father			
-a hathair	her father			
-ár n-athair	our father			
-a n-athair	their father			
-a bhean	his woman?			
-a fear	her man			
-ár bpáistí	our children			
-bhur gclann	your clan/children			
-a bpáistí	their children			
-mo chlann	my clan/children			
-do chlann	your children			
-mo mhacsa	*my* son			
-do mhacsa	*your* son			
-do mháthairse	*your* mother			
-d'iníonsa	*your* daughter			
-Cá mhéad páiste atá agat?	How many children have you?	Ca vhead pawstee ataa agat?		
-				
-	Note that the singular form of the noun is used after Cá mhéad?			
-				
-Cá mhéad cáilín atá agat?	How many girls have you?			
-				
-Cá mhéad duine?	How many people?			
-				
-lón inniu	lunch today	loan in-nu		
-meánlae	midday			
-an chéad Aibreán	first of april	an chid A-ibrin		
-duine amháin	one person	dinye awan		
-beirt	two people	birch		
-triúr	three people	true-er		
-ceathrar	four people	cah-rer		
-cúigear	five people	cooiger		
-seisear	six people	shesher		
-seachtar	seven people	shocktar		
-ochtar	eight people	oktar		
-naonúr	nine people	neenar		
-deichniúr	ten people	djenur		
-seisear iníonacha				
-triúr mac				
-ceathrar buachaillí				
-cúigear cailíní				
-triúr iníonacha				
-mac amháin				
-beirt mhac				
-beirt chailíní				
-Tá $NUMBER páiste agam.	I have $NUMBER children.			
-				
-scoil	school	skull		
-naíonra	playschool	neenra		
-naíscoil	nursery school	nee-skull		
-bunscoil	primary school	bun-skull		
-meánscoil	secondary school	man-skull		
-ollscoil	university	ol-skull		
-				
-Tá ... acu ar an scoil.	... of them are at school.			
-				
-Tá beirt acu ar an scoil.	Two of them are at school.	...acu air an skull		
-Tá duine amháin acu sa naíonra.	One of them is in playschool.	.. sa neenra		
-				
-Tá Síle ar an bhunscoil.	Síle is at primary school.	...ar an whunskull		
-Tá Aodh ar an mheánscoil.	Aodh is at secondary school.	...vanskull???		
-Tá Nóra ar an ollscoil.	Nóra is at university.	..ol-skull		
+Topic	Irish	English	Phonetic	Sound	Info
+Family_	fear	man	faar		
+Family_	an fhear	the man	an aar		???
+Family_	fir	men			
+Family_	bean	woman	ban		
+Family_	an bhean	the woman	an van		Feminine noun needs lenited
+Family_	mná	women	mnaw?		
+Family_	teaghlach	family (as a whole including parents)	chay-la		
+Family_	an teaghlach	the family (as a whole including parents)	an chay-la		
+Family_	Tá mé pósta.	I'm married.	taa meh pawsta		
+Family_	Níl mé pósta.	I'm not married.	nil meh pawsta		
+Family_	Tá mé singil.	I'm single.			
+Family_	Tá mé geallta.	I'm engaged.	...galta		
+Family_	Tá mé scartha...	I'm separated...	taa meh scarha		
+Family_	... ó mo bhean (chéile).	... from my wife.	o mo van hayla		
+Family_	... ó m'fhear (céile).	... from my husband.	o mar kayla		
+Family_	Is baintreach mé.	I'm a widow/widower.	is bantrack (thoaty ck) meh		
+Family_					
+Family_		ASKING SOMEONE WHAT THEIR MARITAL STATUS IS			
+Family_					
+Family_	An bhfuil tú pósta?	Are you married?			
+Family_	An bhfuil tusa pósta?	Are *you* married?			
+Family_	An bhfuil tu féin pósta?	Are you married yourself?			
+Family_					
+Family_	Tá.	Yes.			
+Family_	Níl.	No.			
+Family_	Níl go fóill.	Not yet.			
+Family_					
+Family_		ASKING SOMEONE IF THEY HAVE CHILDREN			
+Family_					
+Family_	páiste	child	peh-steh		
+Family_	páistí	children	peh-stee		
+Family_					
+Family_	An bhfuil clann agat?	Have you children?			
+Family_	An bhfuil clann agaibh?	(plural)			
+Family_	An bhfuil clann agat féin?	Have you children yourself?			
+Family_	An bhfuil páistí agat?				
+Family_	An bhfuil páistí agaibh?				
+Family_					
+Family_	SAYING THAT YOU HAVE OR HAVEN'T CHILDREN				
+Family_					
+Family_	Tá.	Yes.			
+Family_	Níl.	No.			
+Family_					
+Family_	Tá clann agam.	I have children.			
+Family_	Tá clann againn.	We have children.			
+Family_	mac	a son			
+Family_	iníon	a daughter			
+Family_	Tá mac agam.	I have a son.			
+Family_	Tá iníon agam.	I have a daughter.			
+Family_	Níl clann ar bith agam.	I have no children at all.			
+Family_	Níl clann ar bith againn.	We have no children at all.			
+Family_	Níl páistí ar bith agam.	I have no children at all.			
+Family_	Níl páistí ar bith againn.	We have no children at all.			
+Family_	Tá mé ag súil le páiste.	I'm expecting a child.			
+Family_	Tá mé ag súil le leanbh.	I'm expecting a baby.	..ag sool le lanoo		
+Family_	Tá mé torrach.	I'm pregnant.			
+Family_					
+Family_	ticéad (thieéad)	ticket	ticid(hicid)		
+Family_	cailín	girl	cal-een		
+Family_	cailíní	girls	cal-eeny		
+Family_	girseach	girl			
+Family_	girseachaí	girls			
+Family_	buachaill	boy	bohill or byu-kal (throaty k)		
+Family_	buachaillí	boys	bohilly or byu-kali (throaty k)		
+Family_	gasúr	boy			
+Family_	gasúraí	boys			
+Family_					
+Family_		ASKING SOMEONE HOW MEMBERS OF THEIR FAMILY ARE			
+Family_					
+Family_	Cad é mar atá do chlann?	How are your children? (when speaking to one person)			
+Family_		or			
+Family_	Cad é mar atá do chuid páistí?	How are your children?			
+Family_					
+Family_		This is how you return the question:			
+Family_	Cad é mar atá do chlannsa?	How are *your* children?			
+Family_		or			
+Family_	Cad é mar atá do chuid *páistíse*?	How are *your* children?			
+Family_					
+Family_	Tá siad go maith	They are good.			
+Family_	mo	my			
+Family_	do	your			
+Family_	a	his			
+Family_	a	her			
+Family_	ár	our			
+Family_	bhur	your			
+Family_	a	their			
+Family_	mo mhac	my son			
+Family_	do mhac	your son			
+Family_	m'iníon	my daughter			
+Family_	a iníon				
+Family_	bhur n-iníon				
+Family_	do mháthair	your mother			
+Family_	d'athair	you father			
+Family_	a hathair	her father			
+Family_	ár n-athair	our father			
+Family_	a n-athair	their father			
+Family_	a bhean	his woman?			
+Family_	a fear	her man			
+Family_	ár bpáistí	our children			
+Family_	bhur gclann	your clan/children			
+Family_	a bpáistí	their children			
+Family_	mo chlann	my clan/children			
+Family_	do chlann	your children			
+Family_	mo mhacsa	*my* son			
+Family_	do mhacsa	*your* son			
+Family_	do mháthairse	*your* mother			
+Family_	d'iníonsa	*your* daughter			
+Family_	Cá mhéad páiste atá agat?	How many children have you?	Ca vhead pawstee ataa agat?		
+Family_					
+Family_		Note that the singular form of the noun is used after Cá mhéad?			
+Family_					
+Family_	Cá mhéad cáilín atá agat?	How many girls have you?			
+Family_					
+Family_	Cá mhéad duine?	How many people?			
+Family_					
+Family_	lón inniu	lunch today	loan in-nu		
+Family_	meánlae	midday			
+Family_	an chéad Aibreán	first of april	an chid A-ibrin		
+Family_	duine amháin	one person	dinye awan		
+Family_	beirt	two people	birch		
+Family_	triúr	three people	true-er		
+Family_	ceathrar	four people	cah-rer		
+Family_	cúigear	five people	cooiger		
+Family_	seisear	six people	shesher		
+Family_	seachtar	seven people	shocktar		
+Family_	ochtar	eight people	oktar		
+Family_	naonúr	nine people	neenar		
+Family_	deichniúr	ten people	djenur		
+Family_	seisear iníonacha				
+Family_	triúr mac				
+Family_	ceathrar buachaillí				
+Family_	cúigear cailíní				
+Family_	triúr iníonacha				
+Family_	mac amháin				
+Family_	beirt mhac				
+Family_	beirt chailíní				
+Family_	Tá $NUMBER páiste agam.	I have $NUMBER children.			
+Family_					
+Family_	scoil	school	skull		
+Family_	naíonra	playschool	neenra		
+Family_	naíscoil	nursery school	nee-skull		
+Family_	bunscoil	primary school	bun-skull		
+Family_	meánscoil	secondary school	man-skull		
+Family_	ollscoil	university	ol-skull		
+Family_					
+Family_	Tá ... acu ar an scoil.	... of them are at school.			
+Family_					
+Family_	Tá beirt acu ar an scoil.	Two of them are at school.	...acu air an skull		
+Family_	Tá duine amháin acu sa naíonra.	One of them is in playschool.	.. sa neenra		
+Family_					
+Family_	Tá Síle ar an bhunscoil.	Síle is at primary school.	...ar an whunskull		
+Family_	Tá Aodh ar an mheánscoil.	Aodh is at secondary school.	...vanskull???		
+Family_	Tá Nóra ar an ollscoil.	Nóra is at university.	..ol-skull		
+					

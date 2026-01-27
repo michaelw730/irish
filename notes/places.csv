@@ -1,72 +1,72 @@
-Irish	English	Phonetic	Sound	Info
-Cúige	province (of Ireland/fifths)	cwig-a		
-Contae	County	cont-ay		
-				
-Uladh	Ulster	ull-oo		
-Mumhan	Munster	moo-an		
-Laighean	Leinster	lie-on		
-Connachta	Connacht	con-awcta		
-				
-Cúige Uladh	County Ulster	cwig-a ull-oo		
-Cúige Mumhan	County Munster	cwig-a moo-an		
-Cúige Laighean	County Leinster	cwig-a lie-on		
-Cúige Chonnacht	County Connacht	cwig-a hon-awct		
-				
-Aontroim (Contae Aontroma)	Antrim			Ulster
-Ard Mhacha (Contae Ard Mhacha)	Armagh			Ulster
-Ceatharlach (Contae Cheatharlach)	Carlow			Leinster
-An Cabhán (Contae an Chabháin)	Cavan			Ulster
-An Clár (Contae an Chláir)	Clare			Munster
-Corcaigh (Contae Chorcaí)	Cork			Munster
-Dún na nGall (Contae Dhún na nGall)	Donegal			Ulster
-An Dún (Contae an Dúin)	Down			Ulster
-Baile Átha Cliath (Contae Bhaile Átha Cliath)	Dublin			Leinster
-Fear Manach (Contae Fhear Manach)	Fermanagh			Ulster
-Gaillimh (Contae na Gaillimhe)	Galway			Connacht
-Ciarraí (Contae Chiarraí)	Kerry			Munster
-Cill Dara (Contae Chill Dara)	Kildare			Leinster
-Cill Chainnigh (Contae Chill Chainnigh)	Kilkenny			Leinster
-Laois (Contae Laoise)	Laois			Leinster
-Liatroim (Contae Liatroma)	Leitrim			Connacht
-Luimneach (Contae Luimnigh)	Limerick			Munster
-Doire (Contae Dhoire)	Derry			Ulster
-An Longfort (Contae an Longfoirt)	Longford			Leinster
-Lú (Contae Lú)	Louth			Leinster
-Maigh Eo (Contae Mhaigh Eo)	Mayo			Connacht
-An Mhí (Contae na Mí)	Meath			Leinster
-Muineachán (Contae Mhuineacháin)	Monaghan			Ulster
-Uíbh Fhailí (Contae Uíbh Fhailí)	Offaly			Leinster
-Ros Comáin (Contae Ros Comáin)	Roscommon			Connacht
-Sligeach (Contae Shligigh)	Sligo			Connacht
-Tiobraid Árann (Contae Thiobraid Árann)	Tipperary			Munster
-Tír Eoghain (Contae Thír Eoghain)	Tyrone			Ulster
-Port Láirge (Contae Phort Láirge)	Waterford			Munster
-An Iarmhí (Contae na hIarmhí)	Westmeath			Leinster
-Loch Garman (Contae Loch Garman)	Wexford			Leinster
-Cill Mhantáin (Contae Chill Mhantáin)	Wicklow			Leinster
-				
-Doire > nDoire	Derry			
-Baile Átha Cliath > mBaile Átha Cliath	Dublin			
-Corcaigh > gCorcaigh	Cork			
-				
-Gleann Gormliath	Glengormley			
-Gaoth Dobhair > nGaoth Dobhair	Gweedore			
-Birmingham	Birmingham			
-Gort an Choirce	Gortahork			
-Leitir Ceanainn	Letterkenny			
-Cnoc Fola	Bloody Foreland			
-> mBéal Feirste	Belfast			
-> nGlaschú	Glasgow			
-> bPort Rois	Portrush			
->gCúil Raithlin	Coleraine			
->nDun Dealgan	Dundalk			
-Dún Geanainn	Dungannon			
-Léim an Mhadaidh	Limavady			
-Port an Dúnáin	Portadown			
-				
-Nua-Eabhrac	New York			
->nDún Éidin	Edinburgh			
-				
-an Ghearmáin	Germany			
-an Fhrainc	France			
-				
+Topic	Irish	English	Phonetic	Sound	Info
+Places	Cúige	province (of Ireland/fifths)	cwig-a		
+Places	Contae	County	cont-ay		
+Places					
+Places	Uladh	Ulster	ull-oo		
+Places	Mumhan	Munster	moo-an		
+Places	Laighean	Leinster	lie-on		
+Places	Connachta	Connacht	con-awcta		
+Places					
+Places	Cúige Uladh	County Ulster	cwig-a ull-oo		
+Places	Cúige Mumhan	County Munster	cwig-a moo-an		
+Places	Cúige Laighean	County Leinster	cwig-a lie-on		
+Places	Cúige Chonnacht	County Connacht	cwig-a hon-awct		
+Places					
+Places	Aontroim (Contae Aontroma)	Antrim			Ulster
+Places	Ard Mhacha (Contae Ard Mhacha)	Armagh			Ulster
+Places	Ceatharlach (Contae Cheatharlach)	Carlow			Leinster
+Places	An Cabhán (Contae an Chabháin)	Cavan			Ulster
+Places	An Clár (Contae an Chláir)	Clare			Munster
+Places	Corcaigh (Contae Chorcaí)	Cork			Munster
+Places	Dún na nGall (Contae Dhún na nGall)	Donegal			Ulster
+Places	An Dún (Contae an Dúin)	Down			Ulster
+Places	Baile Átha Cliath (Contae Bhaile Átha Cliath)	Dublin			Leinster
+Places	Fear Manach (Contae Fhear Manach)	Fermanagh			Ulster
+Places	Gaillimh (Contae na Gaillimhe)	Galway			Connacht
+Places	Ciarraí (Contae Chiarraí)	Kerry			Munster
+Places	Cill Dara (Contae Chill Dara)	Kildare			Leinster
+Places	Cill Chainnigh (Contae Chill Chainnigh)	Kilkenny			Leinster
+Places	Laois (Contae Laoise)	Laois			Leinster
+Places	Liatroim (Contae Liatroma)	Leitrim			Connacht
+Places	Luimneach (Contae Luimnigh)	Limerick			Munster
+Places	Doire (Contae Dhoire)	Derry			Ulster
+Places	An Longfort (Contae an Longfoirt)	Longford			Leinster
+Places	Lú (Contae Lú)	Louth			Leinster
+Places	Maigh Eo (Contae Mhaigh Eo)	Mayo			Connacht
+Places	An Mhí (Contae na Mí)	Meath			Leinster
+Places	Muineachán (Contae Mhuineacháin)	Monaghan			Ulster
+Places	Uíbh Fhailí (Contae Uíbh Fhailí)	Offaly			Leinster
+Places	Ros Comáin (Contae Ros Comáin)	Roscommon			Connacht
+Places	Sligeach (Contae Shligigh)	Sligo			Connacht
+Places	Tiobraid Árann (Contae Thiobraid Árann)	Tipperary			Munster
+Places	Tír Eoghain (Contae Thír Eoghain)	Tyrone			Ulster
+Places	Port Láirge (Contae Phort Láirge)	Waterford			Munster
+Places	An Iarmhí (Contae na hIarmhí)	Westmeath			Leinster
+Places	Loch Garman (Contae Loch Garman)	Wexford			Leinster
+Places	Cill Mhantáin (Contae Chill Mhantáin)	Wicklow			Leinster
+Places					
+Places	Doire > nDoire	Derry			
+Places	Baile Átha Cliath > mBaile Átha Cliath	Dublin			
+Places	Corcaigh > gCorcaigh	Cork			
+Places					
+Places	Gleann Gormliath	Glengormley			
+Places	Gaoth Dobhair > nGaoth Dobhair	Gweedore			
+Places	Birmingham	Birmingham			
+Places	Gort an Choirce	Gortahork			
+Places	Leitir Ceanainn	Letterkenny			
+Places	Cnoc Fola	Bloody Foreland			
+Places	> mBéal Feirste	Belfast			
+Places	> nGlaschú	Glasgow			
+Places	> bPort Rois	Portrush			
+Places	>gCúil Raithlin	Coleraine			
+Places	>nDun Dealgan	Dundalk			
+Places	Dún Geanainn	Dungannon			
+Places	Léim an Mhadaidh	Limavady			
+Places	Port an Dúnáin	Portadown			
+Places					
+Places	Nua-Eabhrac	New York			
+Places	>nDún Éidin	Edinburgh			
+Places					
+Places	an Ghearmáin	Germany			
+Places	an Fhrainc	France			
+					

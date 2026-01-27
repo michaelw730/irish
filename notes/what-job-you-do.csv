@@ -1,111 +1,112 @@
-Irish	English	Phonetic	Sound	Info
-obair	work			
-post	job	paw-st		
-				
-Is ... mé.	I'm a ...			
-... atá ionam	I'm a ...	.. atá unam		
-				
-Is feirmeoir mé.	I'm a farmer.			
-Siopadóir atá ionam	I'm a shopkeeper.	.. atá unam		
-				
-	ASKING SOMEONE WHAT JOB THEY DO			
-				
-Cad é an post atá agat?	What job do you do?			
-Cad é an tslí bheatha atá agat?	What do you do for a living?	cadj ay an tshlee veha ataa agat		
-Cad é an post atá ag Michael?	What job does Michael have?			
-				
-POSTANNA	JOBS			
-				
-feirmeoir	farmer	fer-mer		
-Siopadóir	shopkeeper			
-búistéir	butcher			
-meicneoir	mechanic			
-múinteoir	teacher			
-rúnaí	secretary			
-oibrí monarchan	factory worker	ibri monarchan		
-banaltra	nurse			
-dochtúir	doctor	doctoor		
-tiománaí	driver	tchumani		
-bainisteoir	manager			
-freastalaí	waiter			
-tógálaí	builder			
-siúinéir	carpenter	shoonair	aonad 9	
-bean tí	housewife			
-leictreoir	electrician			
-iascaire	fisherman	eesc-ar-a		
-				
-innealtóir	engineer	inyaltar		
-innealtóir ríomhaireachta	computer engineer	inyaltar re-whar-achta		
-devops innealtóir	devops engineer			
-ríomhchláraitheoir	programmer	reo-clar-e-har		
-				
-	ASKING SOMEONE WHERE THEY WORK			
-				
-bunscoil	primary school			
-meánscoil	secondary school			
-				
-Cá bhfuil tú ag obair?	Where do you work?			
-				
-	SAYING WHERE YOU WORK			
-Tá mé ag obair...	I work...			
-Bhí mé ag obair...	I worked...			
-				
-i monarcha	in a factory			
-in oifig	in an office			
-in scoil	in a school			
-i siopa	in a shop			
-i mbunscoil	in a primary school			
-i meánscoil	in a secondary school			
-in otharlann	in a hopsital			
-in óstán	in a hotel			
-i gcaife	in a cafe			
-i mbialann	in a restaurant			
-i ngaráiste	in a garage			
-in ollmhargadh	in a supermarket	ollwarragoo		
-i dteach tábhairne	in a pub			
-				
-stáisiún peitril	petrol station	stashon petrol		
-aisteoir	actor	asteor		
-tá mé neirbhíseach	i am nervous	taa may nervishoch		
-				
-	SAYING WHAT TYPE OF BUSINESS YOU HAVE			
-				
-Tá siopa bróg agam.	I have a shoe shop.			
-Tá siopa leabhar agam.	I have a bookshop.	ta shopa loar agam		
-Tá bácús agam.	I have a bakery.			
-Tá teach lóistín agam.	I have a guesthouse.	...lostcheen...		
-				
-	ASKING SOMEONE IF THEY LIKE THEIR JOB			
-				
-An maith leat ...	Do you like ...			
-... do phost?	... your job?			
-... do chuid oibre?	... your work?	do whid ibre???		
-				
-	SAYING YOU ARE NOT WORKING			
-				
-Níl mé ag obair ...	I'm not working...			
-Tá mé dífhostaithe...	I'm unemployed...	..djee-ost-aha		
-... faoi láthair.	... at the moment (literal: present).	..fee laher		
-Tá mé éirithe as	I'm retired	...airy-a ass		
-				
-	ASKING SOMEONE WHAT JOB THEY HAD			
-Cad é an post a bhí agat?	What job did you have?			
-				
-	SAYING WHAT JOB YOU HAD			
-Ba ... mé.				
-	or			
-... a bhí ionam	I was a ...			
-Ba mhúinteoir mé.	I was a teacher.			
-Rúnaí a bhí ionam.	I was a secretary.			
-				
-Ba mheicneoir mé.				
-B'oibrí monarchan mé.				
-B'fheirmeoir mé.				
-				
-An dochtúir tú?	Are you a doctor?			
-An rúnaí tú?	Are you a secretary?			
-				
-	You can answer this question in the following ways:			
-				
-Is ea.	Yes (I am).	sha?? or ish-aa??		
-Ní hea.	No (I'm not).	nee ha		
+Topic	Irish	English	Phonetic	Sound	Info
+What job you do	obair	work			
+What job you do	post	job	paw-st		
+What job you do					
+What job you do	Is ... mé.	I'm a ...			
+What job you do	... atá ionam	I'm a ...	.. atá unam		
+What job you do					
+What job you do	Is feirmeoir mé.	I'm a farmer.			
+What job you do	Siopadóir atá ionam	I'm a shopkeeper.	.. atá unam		
+What job you do					
+What job you do		ASKING SOMEONE WHAT JOB THEY DO			
+What job you do					
+What job you do	Cad é an post atá agat?	What job do you do?			
+What job you do	Cad é an tslí bheatha atá agat?	What do you do for a living?	cadj ay an tshlee veha ataa agat		
+What job you do	Cad é an post atá ag Michael?	What job does Michael have?			
+What job you do					
+What job you do	POSTANNA	JOBS			
+What job you do					
+What job you do	feirmeoir	farmer	fer-mer		
+What job you do	Siopadóir	shopkeeper			
+What job you do	búistéir	butcher			
+What job you do	meicneoir	mechanic			
+What job you do	múinteoir	teacher			
+What job you do	rúnaí	secretary			
+What job you do	oibrí monarchan	factory worker	ibri monarchan		
+What job you do	banaltra	nurse			
+What job you do	dochtúir	doctor	doctoor		
+What job you do	tiománaí	driver	tchumani		
+What job you do	bainisteoir	manager			
+What job you do	freastalaí	waiter			
+What job you do	tógálaí	builder			
+What job you do	siúinéir	carpenter	shoonair	aonad 9	
+What job you do	bean tí	housewife			
+What job you do	leictreoir	electrician			
+What job you do	iascaire	fisherman	eesc-ar-a		
+What job you do					
+What job you do	innealtóir	engineer	inyaltar		
+What job you do	innealtóir ríomhaireachta	computer engineer	inyaltar re-whar-achta		
+What job you do	devops innealtóir	devops engineer			
+What job you do	ríomhchláraitheoir	programmer	reo-clar-e-har		
+What job you do					
+What job you do		ASKING SOMEONE WHERE THEY WORK			
+What job you do					
+What job you do	bunscoil	primary school			
+What job you do	meánscoil	secondary school			
+What job you do					
+What job you do	Cá bhfuil tú ag obair?	Where do you work?			
+What job you do					
+What job you do		SAYING WHERE YOU WORK			
+What job you do	Tá mé ag obair...	I work...			
+What job you do	Bhí mé ag obair...	I worked...			
+What job you do					
+What job you do	i monarcha	in a factory			
+What job you do	in oifig	in an office			
+What job you do	in scoil	in a school			
+What job you do	i siopa	in a shop			
+What job you do	i mbunscoil	in a primary school			
+What job you do	i meánscoil	in a secondary school			
+What job you do	in otharlann	in a hopsital			
+What job you do	in óstán	in a hotel			
+What job you do	i gcaife	in a cafe			
+What job you do	i mbialann	in a restaurant			
+What job you do	i ngaráiste	in a garage			
+What job you do	in ollmhargadh	in a supermarket	ollwarragoo		
+What job you do	i dteach tábhairne	in a pub			
+What job you do					
+What job you do	stáisiún peitril	petrol station	stashon petrol		
+What job you do	aisteoir	actor	asteor		
+What job you do	tá mé neirbhíseach	i am nervous	taa may nervishoch		
+What job you do					
+What job you do		SAYING WHAT TYPE OF BUSINESS YOU HAVE			
+What job you do					
+What job you do	Tá siopa bróg agam.	I have a shoe shop.			
+What job you do	Tá siopa leabhar agam.	I have a bookshop.	ta shopa loar agam		
+What job you do	Tá bácús agam.	I have a bakery.			
+What job you do	Tá teach lóistín agam.	I have a guesthouse.	...lostcheen...		
+What job you do					
+What job you do		ASKING SOMEONE IF THEY LIKE THEIR JOB			
+What job you do					
+What job you do	An maith leat ...	Do you like ...			
+What job you do	... do phost?	... your job?			
+What job you do	... do chuid oibre?	... your work?	do whid ibre???		
+What job you do					
+What job you do		SAYING YOU ARE NOT WORKING			
+What job you do					
+What job you do	Níl mé ag obair ...	I'm not working...			
+What job you do	Tá mé dífhostaithe...	I'm unemployed...	..djee-ost-aha		
+What job you do	... faoi láthair.	... at the moment (literal: present).	..fee laher		
+What job you do	Tá mé éirithe as	I'm retired	...airy-a ass		
+What job you do					
+What job you do		ASKING SOMEONE WHAT JOB THEY HAD			
+What job you do	Cad é an post a bhí agat?	What job did you have?			
+What job you do					
+What job you do		SAYING WHAT JOB YOU HAD			
+What job you do	Ba ... mé.				
+What job you do		or			
+What job you do	... a bhí ionam	I was a ...			
+What job you do	Ba mhúinteoir mé.	I was a teacher.			
+What job you do	Rúnaí a bhí ionam.	I was a secretary.			
+What job you do					
+What job you do	Ba mheicneoir mé.				
+What job you do	B'oibrí monarchan mé.				
+What job you do	B'fheirmeoir mé.				
+What job you do					
+What job you do	An dochtúir tú?	Are you a doctor?			
+What job you do	An rúnaí tú?	Are you a secretary?			
+What job you do					
+What job you do		You can answer this question in the following ways:			
+What job you do					
+What job you do	Is ea.	Yes (I am).	sha?? or ish-aa??		
+What job you do	Ní hea.	No (I'm not).	nee ha		
+					
