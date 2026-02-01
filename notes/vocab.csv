@@ -2,19 +2,15 @@ Topic	Irish	English	Phonetic	Sound	Info
 Meeting People	duine	person	dinye																																																									
 Meeting People	daoine	people	deeny																																																									
 Meeting People	AG BUALADH LE DAOINE	MEETING PEOPLE	Ag Bwayla le deeny		Literally - meeting with people??																																																							
-Meeting People																																																												
 Meeting People	Haló	Hello																																																										
 Meeting People	Cad é mar atá tú?	How are you? (s)			This greeting is sometimes preceded by Haló.																																																							
 Meeting People	Cad é mar atá sibh?	How are you? (p)																																																										
-Meeting People																																																												
 Meeting People	Cad é mar atá tú inniu?	How are you today? (s)																																																										
-Meeting People																																																												
 Meeting People	Go maith	Well																																																										
 Meeting People	Á, go maith	Ah, well																																																										
 Meeting People	Go breá	fine	go brea																																																									
 Meeting People	Maith go leor	very good	my go lyor																																																									
 Meeting People	Ceart go leor	alright																																																										
-Meeting People																																																												
 Meeting People	Tá mé…	I am…																																																										
 Meeting People	Tá mé go maith.	I am good																																																										
 Meeting People	Tá mé go breá	I am fine	Taw may go breaw??																																																									
@@ -23,14 +19,10 @@ Meeting People	Tá mé go holc.	I am awful
 Meeting People	Tá mé go measaratha	I am reasonable/middling																																																										
 Meeting People	Tá mé go measaratha maith	I am reasonable/middling good																																																										
 Meeting People	Tá mé i gceart	I am rightly																																																										
-Meeting People																																																												
 Meeting People	Tá sé i gceart	He is rightly																																																										
-Meeting People																																																												
 Meeting People	Níl mé go maith.	I am not good																																																										
 Meeting People	Níl caill orm	I am not too bad (or There's no loss upon me)																																																										
-Meeting People																																																												
 Meeting People	Agus tú féin?	And yourself?	Agus tu hain?																																																									
-Meeting People																																																												
 Meeting People	Is maith sin	That's good/great																																																										
 Meeting People	Go raibh maith agat	Thank you (s)																																																										
 Meeting People	Go raibh maith agaibh	Thank you (p)																																																										
@@ -38,15 +30,12 @@ Meeting People	Go raibh céad maith agat	Thank you very much
 Meeting People	Go raibh míle maith agat	Thank you very much																																																										
 Meeting People	Céad míle fáilte	Hundred thousand welcomes																																																										
 Meeting People	Tá fáilte romhat	you're welcome																																																										
-Meeting People																																																												
 Meeting People	Go ndéana sé maith duit	May it do you good/May it be good for you			If saying thanks for a pint??																																																							
-Meeting People																																																												
 Meeting People	Cluiche	game	Clee-ha																																																									
 Meeting People	fichille	chess	feel-ha																																																									
 Meeting People	Cluiche fichille?	A game of chess?/Chess game?	Clee-ha feel-ha																																																									
 Meeting People	An bhfuil tú go maith?	Are you well?																																																										
 Weather	lá	day	laa??																																																									
-Weather																																																												
 Weather	grian	sun	grain																																																									
 Weather	scamill	cloud	scam-ill																																																									
 Weather	ceo	fog	kyo																																																									
@@ -56,7 +45,6 @@ Weather	teocht	temperature	chalked
 Weather	sneachta	snow	snock-ta																																																									
 Weather	tintreach	lightning	chin-trock																																																									
 Weather	toirneach	thunder	torn-yock																																																									
-Weather																																																												
 Weather	fuar	cold	fooar																																																									
 Weather	fliuch	wet	flu(ch) [(ch) = soft k]																																																									
 Weather	báistí	rainy																																																										
@@ -69,59 +57,44 @@ Weather	scamillach	cloudy	scam-ill-ock
 Weather	ceomhar	foggy	kyowar??																																																									
 Weather	geal	bright	gyal																																																									
 Weather	dorcha	dark	dora-ha																																																									
-Weather																																																												
 Weather	ag cur fearthainne	raining	ig cur far-heen-ya																																																									
 Weather	ag cur sneachta	snowing	ag cur snock-ta																																																									
-Weather																																																												
 Weather	iontach	extremely / very	inta?																																																									
 Weather	iontach fuar	very cold																																																										
 Weather	iontach fliuch	very wet	flu(ch) [(ch) = soft k]																																																									
 Weather	iontach te	very hot	ta shay chay																																																									
-Weather																																																												
 Weather	Tá sé...	it is...	taa shay																																																									
 Weather	Bhí sé...	it was...	vee shay																																																									
 Weather	Níl sé...	it is not...	taa shay																																																									
 Weather	Tá sé lá...	it is a ... day	taa shay laa ... day																																																									
-Weather																																																												
 Weather	Tá	Yes [to agree with the weather]																																																										
 Weather	Tá, cinnte.	It is indeed/surely.	teh, kintche																																																									
-Weather																																																												
 Weather	Tá lá breá ann.	It's a fine day.	teh leh breah ann																																																									
 Weather	Tá lá breá ann inniu.	It's a fine day today.	teh leh breah ann inn-u																																																									
-Weather																																																												
 Weather	...Buíochas le Dia	...thank God	bwayhas le djia		is used quite frequently in this context.																																																							
-Weather																																																												
 Weather	Tá drochlá ann.	It's a bad day.	teh drock-leh ann																																																									
 Weather	Tá drochlá ann inniu.	It's a bad day today.	teh drock-leh ann inn-u																																																									
 Introductions	CUR IN AITHNE	INTRODUCTIONS	cur in an-yuh																																																									
 Introductions	ainm	Name																																																										
 Introductions	sloinne	surname	slin-you																																																									
 Introductions	sloinnte	surnames																																																										
-Introductions																																																												
 Introductions	Cad é an t-ainm atá ort?	What is your name? [What name is on you?]																																																										
 Introductions	Cad é an t-ainm atá ort féin?	What is your own name?																																																										
 Introductions	>$NAME an t-ainm atá orm.	My name is $NAME [$NAME is the name on me]																																																										
-Introductions																																																												
 Introductions	Cé thusa?	Who are you?	Kay husa?																																																									
 Introductions	>Is mise $NAME	I am $NAME																																																										
 Introductions	>Mise $NAME	I'm $NAME																																																										
-Introductions																																																												
 Introductions	Cad é an sloinne atá ort?	What is your surname?	..slinyou..																																																									
 Introductions	>$SURNAME an sloinne atá orm.	My surname is $SURNAME																																																										
-Introductions																																																												
 Introductions	C'ainm atá ort?	What's your name?																																																										
 Introductions	C'ainm atá ortsa?	What's *your* name?																																																										
 Introductions	>$NAME				Usually just the surname																																																							
-Introductions																																																												
 Introductions	Cé seo?	Who's this? (one person)																																																										
 Introductions	Cé hiad seo?	Who's this? (more than one person) Who are these?																																																										
 Introductions	Seo $NAME	This is $NAME																																																										
 Introductions	Cé hiad sin?	Who are they/those? (more than one person)																																																										
-Introductions																																																												
 Introductions	Cé hé sin?	Who is he?																																																										
 Introductions	> Sin (é) $NAME.	He is $NAME.																																																										
-Introductions																																																												
-Introductions																																																												
 Introductions	Cé mise?	Who am I?																																																										
 Introductions	Cé hé?	Who is he?																																																										
 Introductions	Is é... é	He is																																																										
@@ -130,7 +103,6 @@ Introductions	Is í... í	She is
 Introductions	Cé sinne?	Who are we?																																																										
 Introductions	Cé hiad?	Who are they?																																																										
 Introductions	Is iad... iad	They are...																																																										
-Introductions																																																												
 Introductions	ar	on	air																																																									
 Introductions	ár	our	are																																																									
 Introductions	fear	man	far																																																									
@@ -143,7 +115,6 @@ Introductions	gunna	gun	gun-na
 Introductions	gúna	dress	goona																																																									
 Family	an teaghlach	the family	an chay-la																																																									
 Family	Mo theaghlach	My family	mo hay-la																																																									
-Family																																																												
 Family	athair	father	aher																																																									
 Family	máthair	mother	mah-her																																																									
 Family	mamaí?	mum?																																																										
@@ -152,7 +123,6 @@ Family	deartháir	brother	djaher
 Family	iníon*	daughter	nyee-in (like news)		* In Ulster the i at the beginning of iníon is not pronounced.																																																							
 Family	iníonacha	daughters																																																										
 Family	mac	son	mawck																																																									
-Family																																																												
 Family	céile	spouse	kayla																																																									
 Family	fear céile	husband [man spouse]	far kayla																																																									
 Family	bean chéile	wife [woman spouse]	ban hayla																																																									
@@ -164,63 +134,49 @@ Family	seanathair	grandfather
 Family	athair mór	grandfather																																																										
 Family	seanmháthair	grandmother																																																										
 Family	máthair mhór	grandmother																																																										
-Family																																																												
 Family	uncail	uncle																																																										
 Family	aintin	aunt																																																										
-Family																																																												
 Family	col ceathrair	cousin																																																										
 Family	col ceathracha	cousins																																																										
-Family																																																												
 Family	leasathair	stepfather																																																										
 Family	leasmháthair	stepmother																																																										
 Family	leasdeirfiúr	stepsister																																																										
 Family	leasdeartháir	stepbrother																																																										
-Family																																																												
 Family	neacht	niece																																																										
 Family	nia	nephew																																																										
-Family																																																												
 Family	Seo mo mháthair.	That's my mother	..mo wahher																																																									
 Family	Seo m'athair.	That's my father	..maher																																																									
 Family	Seo m'iníon.	That's my daughter	..minyee-in																																																									
 Family	Seo mo mhac.	That's my son	.. mo wock																																																									
 Family	Seo mo dheartháir.	That's my brother	.. mo yeah-her																																																									
 Family	Seo mo dheirfiúr.	That's my sister	.. mo yerifur																																																									
-Family		This is how you introduce more than one daughter or son:																																																										
-Family	Seo mo chuid iníonacha...		...whid nyeenacha...																																																									
-Family	Seo mo chuid mac...		...whid mawk...																																																									
+Family	Seo mo chuid iníonacha...	these are my daughters	...whid nyeenacha...																																																									
+Family	Seo mo chuid mac...	these are my sons	...whid mawk...																																																									
 Person Background	Cá as tú?	Where are you from?			After giving your response, you can ask the same question in the following ways:																																																							
 Person Background	Cá as túsa?	Where are *you* from?  or																																																										
 Person Background	Cá as tú féin?	Where are you from yourself?																																																										
 Person Background	Agus tú féin?	And yourself?	Agus tu hain?																																																									
-Person Background																																																												
 Person Background	Cárb as thú?	Where are you from?	Carb ass who?																																																									
 Person Background	Cárb as thú féin?	Where are you from yourself?	Carb ass who hain?																																																									
 Person Background	Cárb as thú, a $NAME?	Where are you from, $NANE?	Carb ass who, $NAME?																																																									
-Person Background																																																												
 Person Background	Is as ... mé.	I'm from ...																																																										
 Person Background	Is as Dún Geanainn mé.	I'm from Dungannon.																																																										
 Person Background	As Léim an Mhadaidh.	From Limavady.																																																										
-Person Background																																																												
 Person Background	Cá bhfuil tú?	Where are you?																																																										
 Person Background	Cá bhfuil tú i do chónaí?	Where do you live? (literal: where are you in your living?)																																																										
 Person Background	Tá mé i mo chónaí i(n)...	I live in...																																																										
 Person Background	Tá mé i mo chónaí in Aontroim.	I live in Antrim.																																																										
 Person Background	Tá mé i mo chónaí i nDún Geanainn.	I live in Dungannon.																																																										
-Person Background																																																												
 Person Background	An bhfuil sé deas?	Is it nice?	An whil shay jeas?																																																									
 Person Background	Tá sé deas	It is nice																																																										
 Person Background	Tá sé go maith	It is good																																																										
 Person Background	An maith leat é?	Do you like it?																																																										
 Person Background	Is maith liom é.	I like it.																																																										
 Person Background	Is maith.	I like it.			Shorter and acceptable																																																							
-Person Background																																																												
 Person Background	seoladh	address	shaw-loo																																																									
 Person Background	Cad é an seoladh atá agat?	What's your address?																																																										
-Person Background																																																												
 Person Background	Aít bhreithe	Place of birth	eh-tch vrey-ha																																																									
-Person Background																																																												
 Person Background	Is as Ard Mhacha **ó dhúchas** mé, ach tá mé i mo chónaí i mBeal Feirste anois.	I'm originally from Armagh, but I live in Belfast now.	As Ard Whacha **oh huhas** meh, ack taw may i mo hoaney in mel ferste anish																																																									
-Person Background																																																												
 Person Background	sráid	street	sradg																																																									
 Person Background	bóthar	road	baw-her																																																									
 Person Background	lár	centre	lar																																																									
@@ -228,7 +184,6 @@ Person Background	taobh amuigh	outside	too amwee
 Person Background	baile	town	balla																																																									
 Person Background	cathrach	city	ceh-hra																																																									
 Person Background	tuath	countryside	too-a																																																									
-Person Background																																																												
 Person Background	Tá mé i mo chónaí ...	I live ...																																																										
 Person Background	... i lár an bhaile.	... in the centre of town.	.. i lar an whalla																																																									
 Person Background	... taobh amuigh den bhaile.	... outside the town	.. too amwee den whalla???																																																									
@@ -247,13 +202,10 @@ Numbers	Seacht	Seven	Shakht
 Numbers	Ocht	Eight	Awkht																																																									
 Numbers	Naoi	Nine	Nee																																																									
 Numbers	Deich	Ten	Jay																																																									
-Numbers																																																												
 Numbers	uimhir	number	ever																																																									
 Numbers	uimhreacha	numbers																																																										
 Numbers	na huimhreacha	the numbers																																																										
-Numbers																																																												
 Numbers	a náid	zero																																																										
-Numbers																																																												
 Numbers	a haon	one																																																										
 Numbers	a dó	two																																																										
 Numbers	a trí	three																																																										
@@ -263,9 +215,7 @@ Numbers	a sé	six
 Numbers	a seacht	seven																																																										
 Numbers	a hocht	eight																																																										
 Numbers	a naoi	nine																																																										
-Numbers																																																												
 Numbers	a deich	ten																																																										
-Numbers																																																												
 Numbers	a haon déag	eleven																																																										
 Numbers	a dó dhéag	twelve	doe yeag																																																									
 Numbers	a trí déag	thirteen																																																										
@@ -276,9 +226,7 @@ Numbers	a seacht déag	seventeen
 Numbers	a hocht déag	eighteen																																																										
 Numbers	a naoi déag	nineteen																																																										
 Numbers	fiche	twenty	fihha																																																									
-Numbers																																																												
 Numbers	fiche a haon	twenty one	fihha a haon																																																									
-Numbers	...																																																											
 Numbers	triocha	thirty	truck-ah																																																									
 Numbers	daichead/Ceathracha	forty	die-hid/Cara-hach																																																									
 Numbers	caoga	fifty	cway-gah																																																									
@@ -289,24 +237,19 @@ Numbers	nócha	ninety	noe-kah
 Numbers	céad	hundred	cay-d																																																									
 Numbers	míle	thousand	meala																																																									
 Numbers	milliún	million	millyun																																																									
-Numbers																																																												
 Numbers	aon bhliain amhain	1 YEAR																																																										
-Numbers	...																																																											
 Numbers	dhá bhliain	2 YEARS																																																										
 Numbers	trí / ceithre / cúig / sé bliana	3-6 YEARS																																																										
 Numbers	seacht / ocht / naoi / deich mbliana	7-10 YEARS																																																										
-Numbers	...																																																											
 Numbers	aon bhliain déag	11 YEARS																																																										
 Numbers	dhá bhliain déag	12 YEARS																																																										
 Numbers	trí / ceithre / cúig / sé bliana déag	13-16 YEARS																																																										
 Numbers	seacht / ocht / naoi mbliana déag	17-19 YEARS																																																										
-Numbers	...																																																											
 Numbers	fiche bliain	20 YEARS																																																										
 Numbers	aon bliain is fiche	21 YEARS																																																										
 Numbers	dhá bhliain is fiche	22 YEARS																																																										
 Numbers	trí / ceithre / cúig / sé bliana is fiche	23-26 YEARS																																																										
 Numbers	seacht / ocht / naoi mbliana is fiche	27-29 YEARS																																																										
-Numbers	...																																																											
 Numbers	tríocha bliain	30 YEARS																																																										
 Numbers	daichead bliain	40 YEARS																																																										
 Numbers	caoga bliain	50 YEARS																																																										
@@ -315,7 +258,6 @@ Numbers	seachtó bliain	70 YEARS
 Numbers	ochtó bliain	80 YEARS																																																										
 Numbers	nócha bliain	90 YEARS																																																										
 Numbers	céad bliain	100 YEARS																																																										
-Numbers																																																												
 Numbers	an chéad	first																																																										
 Numbers	an dara	second																																																										
 Numbers	an triú	third																																																										
@@ -329,25 +271,20 @@ Numbers	an deichiú	tenth
 Numbers	an t-aonú lá déag	the eleventh day																																																										
 Numbers	an fichiú	twentieth																																																										
 Numbers	an t-aonú lá is fiche	the twenty-first day																																																										
-Numbers																																																												
 Numbers	teanga	a language																																																										
 Numbers	teangacha	languages																																																										
-Numbers																																																												
 Numbers	teanga amháin	one language																																																										
 Numbers	dhá theanga	two languages																																																										
 Numbers	trí theanga	three languages																																																										
 Numbers	ceithre theanga	four languages	kera																																																									
 Numbers	cúig theanga	five languages																																																										
 Numbers	sé theanga	six languages																																																										
-Numbers																																																												
 Numbers	rothar	bicycle																																																										
 Numbers	rothar amháin	one bicylce																																																										
 Numbers	dhá rothar	two bicylces																																																										
-Numbers																																																												
 Numbers	cathaoir	chair																																																										
 Numbers	cathaoir amháin	one chair	cih-her??																																																									
 Numbers	dhá chathaoir	two chairs	yeh hih-her																																																									
-Numbers																																																												
 Numbers	pionta	pint																																																										
 Numbers	pionta amháin	one pint																																																										
 Numbers	trí phionta	three pints																																																										
@@ -355,48 +292,34 @@ Numbers	cúig phionta	five pint
 Numbers	seacht bpionta	seven pints																																																										
 Numbers	ocht bpionta	eight pints																																																										
 Numbers	deich bpionta	ten pints																																																										
-Numbers																																																												
 Numbers	leabhar	book																																																										
 Numbers	trí leabhar	three books																																																										
-Numbers																																																												
 Numbers	doras	door																																																										
 Numbers	doras amháin	one door																																																										
 Numbers	ceithre dhoras	four doors																																																										
-Numbers																																																												
 Numbers	bosca	box	boxsa																																																									
 Numbers	ceithre bhosca	four boxes	kera woxsa																																																									
 Numbers	ocht mbosca	eight boxes	okt moxsa																																																									
-Numbers																																																												
 Numbers	buidéal	bottle																																																										
 Numbers	buidéal amháin	one bottle																																																										
 Numbers	cúig bhuidéal	five bottles																																																										
 Numbers	seacht mbuidéal	seven bottles																																																										
-Numbers																																																												
 Numbers	caife	coffee																																																										
 Numbers	caife amháin	one coffee																																																										
 Numbers	sé chaife	six coffees																																																										
-Numbers																																																												
 Numbers	oráiste	orange																																																										
 Numbers	oráistí	oranges																																																										
 Numbers	cúig oráiste	five oranges																																																										
-Numbers																																																												
 Numbers	seacht sú oráiste	seven orange juices																																																										
-Numbers																																																												
 Numbers	gloine	glass																																																										
 Numbers	gloine amháin	one glass																																																										
 Numbers	naoi ngloine	nine glasses																																																										
-Numbers																																																												
-Numbers																																																												
 Numbers	tábla	table																																																										
 Numbers	ceithre thábla	four tables																																																										
-Numbers																																																												
-Numbers																																																												
 Numbers	úll	apple																																																										
 Numbers	ceithre úll	four apples																																																										
-Numbers																																																												
 Numbers	cóta	coat																																																										
 Numbers	naoi gcóta	nine coats																																																										
-Numbers																																																												
 Numbers	geansaí	jumper																																																										
 Numbers	deich ngeansaí	nine jumpers																																																										
 Phone	Cad é d'uimhir fóin?	What's your phone number?																																																										
@@ -405,13 +328,10 @@ Time	am	time	am
 Time	Cad é an t-am atá sé?	What time is it?																																																										
 Time	Cad é an t-am atá sé, le do thoil?	What time is it, please?																																																										
 Time	Cad é an t-am?	What time?																																																										
-Time																																																												
 Time	Cén t-am é?	What time is it?																																																										
 Time	Cén t-am?	What time?																																																										
-Time																																																												
 Time	Tá sé ... a chlog. It's ... o'clock.																																																											
 Time	... a chlog.	... o'clock.																																																										
-Time																																																												
 Time	a haon a chlog																																																											
 Time	a dó a chlog																																																											
 Time	a trí a chlog																																																											
@@ -424,34 +344,27 @@ Time	a naoi a chlog
 Time	a deich a chlog																																																											
 Time	a haon déag a chlog																																																											
 Time	a dó dhéag a chlog																																																											
-Time																																																												
 Time	ceathrú	quarter	ceahroo																																																									
 Time	leath	half	la (maybe lya??)																																																									
-Time																																																												
 Time	ceathrú i ndiaidh ...	a quarter past ...	ceahroo i nyay...																																																									
 Time	leath i ndiaidh ...	half past ...	la i nyay...																																																									
 Time	ceathrú go dtí ...	a quarter to ...	ceahroo go gee..																																																									
-Time																																																												
 Time	cúig bomaite i ndiaidh	five minutes past??																																																										
 Time	cúig i ndiaidh	five past??																																																										
 Time	fiche go dtí a hocht	twenty to 8																																																										
-Time																																																												
 Time	Bhí sé ... a chlog.	It was ... o'clock.	vee shay...																																																									
 Time	soicind	second	second																																																									
 Time	bomaite	minute																																																										
 Places	Cúige	province (of Ireland/fifths)	cwig-a																																																									
 Places	Contae	County	cont-ay																																																									
-Places																																																												
 Places	Uladh	Ulster	ull-oo																																																									
 Places	Mumhan	Munster	moo-an																																																									
 Places	Laighean	Leinster	lie-on																																																									
 Places	Connachta	Connacht	con-awcta																																																									
-Places																																																												
 Places	Cúige Uladh	County Ulster	cwig-a ull-oo																																																									
 Places	Cúige Mumhan	County Munster	cwig-a moo-an																																																									
 Places	Cúige Laighean	County Leinster	cwig-a lie-on																																																									
 Places	Cúige Chonnacht	County Connacht	cwig-a hon-awct																																																									
-Places																																																												
 Places	Aontroim (Contae Aontroma)	Antrim			Ulster																																																							
 Places	Ard Mhacha (Contae Ard Mhacha)	Armagh			Ulster																																																							
 Places	Ceatharlach (Contae Cheatharlach)	Carlow			Leinster																																																							
@@ -484,11 +397,9 @@ Places	Port Láirge (Contae Phort Láirge)	Waterford			Munster
 Places	An Iarmhí (Contae na hIarmhí)	Westmeath			Leinster																																																							
 Places	Loch Garman (Contae Loch Garman)	Wexford			Leinster																																																							
 Places	Cill Mhantáin (Contae Chill Mhantáin)	Wicklow			Leinster																																																							
-Places																																																												
 Places	Doire > nDoire	Derry																																																										
 Places	Baile Átha Cliath > mBaile Átha Cliath	Dublin																																																										
 Places	Corcaigh > gCorcaigh	Cork																																																										
-Places																																																												
 Places	Gleann Gormliath	Glengormley																																																										
 Places	Gaoth Dobhair > nGaoth Dobhair	Gweedore																																																										
 Places	Birmingham	Birmingham																																																										
@@ -503,10 +414,8 @@ Places	>nDun Dealgan	Dundalk
 Places	Dún Geanainn	Dungannon																																																										
 Places	Léim an Mhadaidh	Limavady																																																										
 Places	Port an Dúnáin	Portadown																																																										
-Places																																																												
 Places	Nua-Eabhrac	New York																																																										
 Places	>nDún Éidin	Edinburgh																																																										
-Places																																																												
 Places	an Ghearmáin	Germany																																																										
 Places	an Fhrainc	France																																																										
 Languages	AG PLÉ TEANGACHA	DISCUSSING LANGUAGES	tchangaha??																																																									
@@ -524,31 +433,23 @@ Languages	Iodáilis	Itailian
 Languages	Spáinnis	Spanish																																																										
 Languages	Breatnais	Welsh																																																										
 Languages	Gaeilge na hAlban	Gaelic (Scotland)																																																										
-Languages																																																												
-Languages																																																												
 Languages	Tá Gaeilge líofa agam.	I speak Irish fluently.																																																										
 Languages	Tá beagán Fraincise agam.	I speak a little French.																																																										
 Languages	Tá mé ag foghlaim Gearmáinise.	I'm learning German.																																																										
 Languages	Níl mórán Iodáilise agam.	I can't speak much Italian.																																																										
 Languages	Níl aon Fraincis agam.	I don't speak french.																																																										
-Languages																																																												
 Languages	Tá.	Yes.																																																										
 Languages	Níl.	No.																																																										
 Languages	Beagán.	A little.																																																										
 Languages	Tá. Tá mé líofa.	Yes. I'm fluent.	Ta. Ta may leefa																																																									
 Languages	Tá mé ag foghlaim.	I'm learning.																																																										
-Languages																																																												
 Languages	Cad é na teangacha atá agat?	Which/what languages can you speak?																																																										
 Languages	Cad é na teangacha eile atá agat?	Which/what other languages can you speak?																																																										
-Languages																																																												
 Languages	Tá Fraincis agus Gearmáinis agam.	I speak french and German.																																																										
 Languages	Tá Iodáilis agam ach níl aon Spáinnis agam.	I speak Italian but I can't speak Spanish.																																																										
 Languages	Níl aon Fraincis nó Spáinnis agam.	I speak neither french nor Spanish.																																																										
-Languages																																																												
 Languages	If you tell someone that you are learning a language, you might be asked where:																																																											
-Languages																																																												
 Languages	Cá háit?	Where?	Ca hatch?																																																									
-Languages																																																												
 Languages	Ón teilifís.	From the television.																																																										
 Languages	Ón raidió.	From the radio.																																																										
 Languages	Ag rang oíche.	At a night class.																																																										
@@ -556,32 +457,25 @@ Languages	San ollscoil	At the university
 Languages	Ó fhístéipeanna sa bhaile.	From videotapes at home.																																																										
 Languages	ó físeán	from video																																																										
 Languages	ó físeáin	from videos																																																										
-Languages																																																												
 Languages	An dtuigeann tú Gaeilge?	Do you understand Irish?	an diggin to Gaelic?																																																									
 Languages	Tuigim.	Yes (I do understand).																																																										
 Languages	Ní thuigim.	No (I don't understand).																																																										
-Languages																																																												
 Languages	An ólann tú caife?	Do you drink coffee?																																																										
 Languages	Ólaim.	Yes.																																																										
 Languages	Ní ólaim	No.																																																										
-Languages																																																												
 Languages	Tuigim.	understand.																																																										
 Languages	Ní thuigim.	I don't understand.																																																										
-Languages																																																												
 Languages	An bhfuil Gaeilge agat?	Can you speak Irish?																																																										
 Languages	Tá	Yes.																																																										
 Languages	Níl	No.																																																										
 Expressing Opinions	Is maith liom ...	I like ...																																																										
 Expressing Opinions	Is breá liom ...	I really like ...																																																										
-Expressing Opinions		or																																																										
 Expressing Opinions	Tá dúil mhór agam i(n)...	I really like ...																																																										
-Expressing Opinions																																																												
 Expressing Opinions	Ní maith liom ...	I don't like ...																																																										
 Expressing Opinions	Ní maith liom ...ar chor ar bith.	I don't like ... at all.	...ar har a bee																																																									
 Expressing Opinions	Ní maith liom ar chor ar bith é.	I don't like it at all.	...ar har a bee ay																																																									
 Expressing Opinions	Ní maith liom ar chor ar bith iad.	I don't like them at all.	...ar har a bee ead																																																									
 Expressing Opinions	Is fuath liom...	I hate ...																																																										
-Expressing Opinions																																																												
 Expressing Opinions	clár	programme																																																										
 Expressing Opinions	cláracha	programmes																																																										
 Expressing Opinions	cláracha faisnéise	documentaries																																																										
@@ -589,25 +483,19 @@ Expressing Opinions	cláracha spóirt	sports programmes
 Expressing Opinions	cláracha ceoil	music programmes																																																										
 Expressing Opinions	cláracha cainte	talk shows																																																										
 Expressing Opinions	cláracha dúlra	nature programmes																																																										
-Expressing Opinions																																																												
 Expressing Opinions	banc	bank																																																										
 Expressing Opinions	seacláid	chocolate																																																										
 Expressing Opinions	portán	crab	porthaan																																																									
-Expressing Opinions																																																												
 Expressing Opinions	mar shampla	for example																																																										
 Expressing Opinions	go háirithe	especially	go hairy-heh																																																									
-Expressing Opinions																																																												
 Expressing Opinions	Is maith liom a bheith ...	I like ...																																																										
-Expressing Opinions																																																												
 Expressing Opinions	ag garraíodóireacht	gardening	ag garaderact																																																									
 Expressing Opinions	ag péinteáil	painting	ag paint-al																																																									
 Expressing Opinions	ag cócaireacht	cooking	ag cocker-act																																																									
 Expressing Opinions	ag iascaireacht	ag fishing	ag isc-a-ract																																																									
 Expressing Opinions	ag léamh	reading	ag lay-oh																																																									
 Expressing Opinions	ag siúl	walking	ag shool																																																									
-Expressing Opinions																																																												
 Expressing Opinions	Is maith liom ...	I like to ...																																																										
-Expressing Opinions																																																												
 Expressing Opinions	a dhul ag rith.	go running.																																																										
 Expressing Opinions	amharc ar an teilifís.	watch television.																																																										
 Expressing Opinions	éisteacht le ceol.	listen to music.																																																										
@@ -615,22 +503,16 @@ Expressing Opinions	a dhul ag snámh.	go swimming.
 Expressing Opinions	a dhul chuig scannáin.	go to films.																																																										
 Expressing Opinions	a dhul chuig drámaí.	go to plays.																																																										
 Expressing Opinions	leadóg a imirt.	play tennis.																																																										
-Expressing Opinions																																																												
-Expressing Opinions		ASKING SOMEONE WHETHER THEY LIKE SOMETHING																																																										
-Expressing Opinions																																																												
 Expressing Opinions	An maith leat ...?	Do you like... ?																																																										
 Expressing Opinions	An maith libh ...?	Do you like... ? (when speaking to more than one person)																																																										
-Expressing Opinions		GIVING YOUR REPLY																																																										
-Expressing Opinions		When replying to the question An maith leat ...? there's no need to use liom when saying yes or no.																																																										
-Expressing Opinions																																																												
+Expressing Opinions	Is maith																																																											
+Expressing Opinions	Ní maith																																																											
 Expressing Opinions	CINEÁLACHA CEOIL	Types of music																																																										
-Expressing Opinions																																																												
 Expressing Opinions	ceol traidisiúnta	traditional music																																																										
 Expressing Opinions	ceol clasaiceach	classical music																																																										
 Expressing Opinions	snagcheol	jazz																																																										
 Expressing Opinions	roc-cheol	rock music																																																										
 Expressing Opinions	popcheol	popular music																																																										
-Expressing Opinions																																																												
 Expressing Opinions	An maith leat ceol clasaiceach?	Do you like classical music?																																																										
 Expressing Opinions	Is maith.	Yes.																																																										
 Expressing Opinions	Ní maith.	No.																																																										
@@ -638,23 +520,14 @@ Expressing Opinions	Is breá liom é.	I really like it.
 Expressing Opinions	Ní maith liom ar chor ar bith é.	I don't like it at all.																																																										
 Expressing Opinions	Is fuath liom é.	I hate it.																																																										
 Expressing Opinions	Tá sé ceart go leor.	It's all right.																																																										
-Expressing Opinions																																																												
 Expressing Opinions	An maith leat é?	Do you like it?																																																										
-Expressing Opinions																																																												
-Expressing Opinions		Having replied to the question An maith leat ...? you may wish to return the same question.																																																										
-Expressing Opinions																																																												
 Expressing Opinions		You can do this in two ways:																																																										
 Expressing Opinions	An maith leatsa é?	Do you like it?																																																										
 Expressing Opinions	An maith leat féin é?	Do you like it yourself?																																																										
-Expressing Opinions																																																												
-Expressing Opinions		SAYING THAT YOU PREFER SOMETHING																																																										
-Expressing Opinions																																																												
 Expressing Opinions	Is fearr liom ...	I prefer ...																																																										
 Expressing Opinions	Is maith liom snagcheoil ach is fearr liom ceol traidisiúnta.	I like jazz but I prefer traditional music.																																																										
-Expressing Opinions																																																												
 Expressing Opinions	Is maith liomsa fosta é	I like it too/as well																																																										
 Expressing Opinions	Is fearr liomsa fosta é	I prefer it too/as well																																																										
-Expressing Opinions																																																												
 Expressing Opinions	BIA AGUS DEOCH	food and drink																																																										
 Expressing Opinions	feoil	meat																																																										
 Expressing Opinions	glasraí	vegetables																																																										
@@ -662,45 +535,30 @@ Expressing Opinions	bia mara	seafood
 Expressing Opinions	sicín	chicken																																																										
 Expressing Opinions	fíon bán	white wine																																																										
 Expressing Opinions	fíon dearg	red wine																																																										
-Expressing Opinions																																																												
 Expressing Opinions	Tá sé maith.	It's good.																																																										
 Expressing Opinions	Tá sé an-mhaith.	It's very good.																																																										
 Expressing Opinions	Tá sé measartha maith.	It's reasonably good.																																																										
 Expressing Opinions	Níl sé rómhaith.	It's not too good.	...roh-why																																																									
 Expressing Opinions	Tá sé go dona.	It's very bad.																																																										
-Expressing Opinions																																																												
-Expressing Opinions		ASKING WHETHER SOMETHING IS ANY GOOD																																																										
-Expressing Opinions																																																												
 Expressing Opinions	An bhfuil ... maith?	Is ... good?																																																										
 Expressing Opinions	An bhfuil an fíon seo maith?	Is this wine good?																																																										
 Expressing Opinions	An bhfuil sé seo maith?	Is this good?																																																										
 Expressing Opinions	an ceann seo	this one			"as in ""I prefer this one"""																																																							
-Expressing Opinions																																																												
 Expressing Opinions	An bhfuil maith ar bith sa ...?	Is the ... any good?																																																										
 Expressing Opinions	An bhfuil maith ar bith sa bhialann sin?	Is that restaurant any good?	an whil my ar bee sa via-lann sin?		said quick																																																							
-Expressing Opinions																																																												
 Expressing Opinions	An bhfuil an bia maith?	Is the food any good?																																																										
-Expressing Opinions																																																												
 Expressing Opinions	bialann	restaurant	bia-lann																																																									
 What you want	Cad é ba mhaith leat?	What would you like?																																																										
 What you want	Cad é ba mhaith leatsa?	What would *you* like?																																																										
 What you want	Cad é ba mhaith libh?	What would you like? (when speaking to more than one person)																																																										
-What you want																																																												
-What you want		You can use the following when addressing a friend or family member:																																																										
-What you want																																																												
-What you want	Cad é atá de dhíth ort?	What do you want?																																																										
-What you want	Cad é atá de dhíth oraibh?	What do you want? (when speaking to more than one person)																																																										
-What you want																																																												
-What you want	SAYING WHAT YOU WANT																																																											
+What you want	Cad é atá de dhíth ort?	What do you want?			You can use the following when addressing a friend or family member:																																																							
+What you want	Cad é atá de dhíth oraibh?	What do you want? (when speaking to more than one person)			You can use the following when addressing a friend or family member:																																																							
 What you want	Ba mhaith liom ...	I'd like ...																																																										
 What you want	Ba mhaith liom cupa tae.	I'd like a cup of tea.																																																										
-What you want																																																												
 What you want	Ba mhaith liom ag dul amach	I'd like to go out																																																										
-What you want																																																												
 What you want	Caife dubh domhsa.	A black coffee for me.																																																										
 What you want	Ba mhaith liomsa tae le bainne.	I'd like tea with milk.																																																										
 What you want	Rud ar bith eile?	Anything else?	Rud ar bee ella?																																																									
-What you want																																																												
 What you want	DEOCHANNA	Drinks																																																										
 What you want	caife	coffee																																																										
 What you want	caife dubh	black coffee																																																										
@@ -717,24 +575,15 @@ What you want	uisce beatha	whiskey	ishka beh-ha
 What you want	sceallógaí	chips																																																										
 What you want	briosca	a biscuit	briska																																																									
 What you want	bágún	bacon	baa-gun																																																									
-What you want																																																												
-What you want		BEING COURTEOUS																																																										
-What you want																																																												
 What you want	... le do thoil.	... please.																																																										
 What you want	Go raibh maith agat.	Thank you.																																																										
 What you want	Maith thú.	good on you/well done																																																										
 What you want	Tá fáilte romhat.	You're welcome.																																																										
 What you want	Tá fáilte romhaibh.	You're welcome. (when speaking to more than one person)																																																										
-What you want																																																												
-What you want		ASKING SOMEONE IF THEY TAKE MILK OR SUGAR																																																										
-What you want																																																												
 What you want	An dtógann tú bainne?	Do you take milk?																																																										
 What you want	An dtógann tú siúcra?	Do you take sugar?																																																										
 What you want	Tógaim.	I do.																																																										
 What you want	Ní thógaim.	I don't.																																																										
-What you want																																																												
-What you want		BEING MORE PRECISE																																																										
-What you want																																																												
 What you want	cupa	a cup																																																										
 What you want	muga	a mug																																																										
 What you want	pota	a pot																																																										
@@ -742,63 +591,39 @@ What you want	gloine	a glass	glinnye
 What you want	pionta	a pint	pinta																																																									
 What you want	leathphionta	half a pint	le-finta																																																									
 What you want	buidéal	a bottle	bawdjel																																																									
-What you want																																																												
 What you want	pota tae	a pot of tea																																																										
 What you want	gloine uisce	a glass of water																																																										
 What you want	pionta beorach	a pint of beer																																																										
-What you want																																																												
-What you want		ASKING SOMEONE IF THEY WANT A PARTICULAR THING																																																										
-What you want																																																												
 What you want	Ar mhaith leat ...?	Would you like ...?																																																										
 What you want	Ar mhaith libh ...?	Would you like ...? (when speaking to more than one person)																																																										
-What you want																																																												
 What you want	deoch	a drink	dj-o																																																									
 What you want	leac oighir	ice	lack eye-er																																																									
 What you want	uachtar reoite	ice cream	wechtar rawtcha																																																									
 What you want	ceapaire	sandwich																																																										
 What you want	milseáin	sweets																																																										
 What you want	úll	apple																																																										
-What you want																																																												
 What you want	cuidiú	help	coodjoo																																																									
-What you want																																																												
-What you want		GIVING YOUR REPLY																																																										
-What you want																																																												
 What you want	Ba mhaith.	Yes (I would).																																																										
 What you want	Níor mhaith.	No (I wouldn't).																																																										
-What you want																																																												
-What you want		SAYING YOU WOULD PREFER SOMETHING																																																										
-What you want																																																												
 What you want	B'fhearr ...	I'd prefer ...	bear...																																																									
 What you want	B'fhearr liom gloine uisce.	I'd prefer a glass of water.	Bear liom glinye ish-ke																																																									
-What you want																																																												
 What you want	Sláinte!	Cheers! (literally, Health!)																																																										
 What you want	Sláinte mhór	Cheers (response??)																																																										
-What you want																																																												
-What you want	TELLING SOMEONE THAT A DRINK IS THEIRS																																																											
 What you want	... duitse.	... for you.																																																										
 What you want	Pionta beorach duitse.	A pint of beer for you.																																																										
 What you want	Seo do ...	Here's your ...																																																										
 What you want	Seo do phionta	Here's your pint.																																																										
-What you want																																																												
-What you want		TRADITIONAL TOASTS (probably not useful)																																																										
-What you want																																																												
 What you want	Sláinte mhaith agat i bhfad ó bhrón.	Good health, free from sorrow.																																																										
 What you want	Sláinte do bheo agus tróicaire do mharbh.	Health to the living and mercy on the dead.																																																										
 What you want	Go mba fada a mhairfidh tú.	Long life to you																																																										
 Where you are going	Cá bhfuil tú ag dul? (s)	Where are you going?	Ca will to a-gull																																																									
 Where you are going	Cá bhfuil sibh ag dul? (p)	Where are you going?	Ca will to a-gull																																																									
 Where you are going	Cá bhfuil tusa ag dul?	Where are *you* going?																																																										
-Where you are going																																																												
-Where you are going		SAYING WHERE YOU ARE GOING																																																										
-Where you are going																																																												
 Where you are going	Tá mé ag dul ...	I'm going ...	Taw may a gul																																																									
 Where you are going	Tá mé ag dul go ...	I'm going to ...																																																										
 Where you are going	Tá mé ag dul go Leitir Ceanainn.	I'm going to Letterkenny.																																																										
 Where you are going	Tá mé ag dul go dtí an garáiste.	I'm going to the garage.																																																										
 Where you are going	Tá muid ag dul go dtí an garáiste.	We're going to the garage.																																																										
-Where you are going																																																												
-Where you are going	FACILITIES																																																											
-Where you are going																																																												
 Where you are going	banc	bank																																																										
 Where you are going	teach an phobail	church																																																										
 Where you are going	oifig an phoist	post office																																																										
@@ -823,71 +648,51 @@ Where you are going	ospidéal	hospital
 Where you are going	otharlann	hospital																																																										
 Where you are going	pictiúrlann	cinema																																																										
 Where you are going	sólann	leisure centre																																																										
-Where you are going																																																												
 Where you are going	codladh	sleep	coh-loo																																																									
-Where you are going																																																												
 Where you are going	Tá mé ag dul go dtí an t-ionad spóirt.	I'm going to the sports centre.																																																										
 Where you are going	Tá mé ag dul go dtí an t-ionad siopadóireachta.	I'm going to the shopping centre.																																																										
 Where you are going	Tá mé ag dul go dtí an t-ollmhargadh.	I'm going to the supermarket.																																																										
 Where you are going	Tá mé ag dul go dtí an bhialann.	I'm going to the restaurant.																																																										
-Where you are going																																																												
 Where you are going	Tá mé ag dul abhaile.	I'm going home.																																																										
 Where you are going	Tá mé ag dul amach.	I'm going out.																																																										
 Where you are going	Tá mé ag dul go hoifig an phoist.	I am going to the post ofice																																																										
 Where you are going	Tá mé ag dul go teach an phobail.	I am going to the church																																																										
-Where you are going																																																												
 Where you are going	tá mé ag dul a chodladh	I am going to sleep	...hoh-loo																																																									
 Where you are going	ansin	then			as in I'm going to ... and then I'm going to...																																																							
-Where you are going																																																												
 Where you are going	Go Baile Átha Cliath	To dublin		????																																																								
 Where you are going	Go hArd Mhacha*	To Armagh																																																										
 Where you are going	Go Dún Pádraig	To Downpatrick																																																										
-Where you are going																																																												
 Where you are going		*Go doesn't affect words that begin with a consonant, but if the name begins with a vowel, h is placed before it.																																																										
-Where you are going																																																												
 Where you are going		Go dtí is used before nouns that are preceded by the article:																																																										
 Where you are going	Tá mé ag dul go dtí an t-ospidéal.	I am going to the hospital.																																																										
-Where you are going																																																												
 Where you are going		The word chuig is used instead of go or go dtí when you're talking about going to an event or to see a person. We'll deal with chuig in more detail in Aonad 11.																																																										
-Where you are going																																																												
 Where you are going	Cad é an t-am?	What time?																																																										
 Where you are going	Cad é an t-am atá tú ag dul go Dún Geanainn?	What time are you going to Dungannon?																																																										
 Where you are going	Cá huair?	When?	ca hoo-ar																																																									
 Where you are going	Cá huair atá tú ag dul go Corcaigh?	When are you going to Cork?																																																										
-Where you are going																																																												
-Where you are going		SAYING WHEN YOU'RE GOING SOMEWHERE																																																										
-Where you are going																																																												
 Where you are going	Tá mé ag dul go Gaillimh...	I'm going to Galway...																																																										
 Where you are going	Tá mé ag dul...	I'm going ...																																																										
 Where you are going	...ag a dó a chlog	at two o'clock																																																										
 Where you are going	...i gceann leathuair an chloig	in half an hour	i gen le-hoor a clig																																																									
 Where you are going	...i gceann uair an chloig	in an hour's time																																																										
 Where you are going	...i gceann trí huaire go leith	in three-and-a-half hours' time																																																										
-Where you are going																																																												
 Where you are going	...anois	now																																																										
 Where you are going	...níos moille	later	nees mullya																																																									
 Where you are going	...i gceann tamaill	in a while																																																										
-Where you are going																																																												
 Where you are going	...anocht	tonight																																																										
 Where you are going	...amárach	tomorrow																																																										
-Where you are going																																																												
 Where you are going	...ar maidin	in the morning																																																										
 Where you are going	...meán lae	midday																																																										
 Where you are going	...san iarnóin	in the afternoon																																																										
 Where you are going	...tráthnóna	in the evening																																																										
 Where you are going	...san oíche	in the night																																																										
-Where you are going																																																												
 Where you are going		The word uair is irregular when preceded by numbers:																																																										
-Where you are going																																																												
 Where you are going	uair	an hour																																																										
 Where you are going	dhá uair	two hours																																																										
 Where you are going	trí ... sé huaire	three ... six hours																																																										
 Where you are going	seacht ... deich n-uaire	seven ... ten hours																																																										
-Where you are going																																																												
 Where you are going		This word occurs quite frequently in everyday speech, so it is well worth learning the different forms.																																																										
-Where you are going																																																												
 Where you are going		SAYING IT'S ALMOST A CERTAIN TIME																																																										
-Where you are going																																																												
 Where you are going	Tá sé chóir a bheith ...	It's almost ...	Taw shay hor a veh																																																									
 Where you are going	Tá sé chóir a bheith a dó a chlog.	It's almost two o'clock.																																																										
 Where you are going	Tá sé chóir a bheith a seacht.	It's almost seven.																																																										
@@ -895,25 +700,17 @@ Where you are going	Tá sé chóir a bheith leath i ndiaidh a haon.	It's almost 
 Where you are going	Tá sé leath i ndiaidh a haon.	It's half one.																																																										
 Where you are going	Tá sé ceathrú go dtí a dó dhéag	it's a quarter to 12																																																										
 Where you are going	Tá sé ceathrú i ndiaidh a cúig	it's a quarter past 5	tay shay ca-ru i nyay a quig																																																									
-Where you are going																																																												
 Where you are going	scrúdú	exam			"as in ""scrúdú ar maidin"" == ""exam in the morning"""																																																							
 What job you do	obair	work																																																										
 What job you do	post	job	paw-st																																																									
-What job you do																																																												
 What job you do	Is ... mé.	I'm a ...																																																										
 What job you do	... atá ionam	I'm a ...	.. atá unam																																																									
-What job you do																																																												
 What job you do	Is feirmeoir mé.	I'm a farmer.																																																										
 What job you do	Siopadóir atá ionam	I'm a shopkeeper.	.. atá unam																																																									
-What job you do																																																												
-What job you do		ASKING SOMEONE WHAT JOB THEY DO																																																										
-What job you do																																																												
 What job you do	Cad é an post atá agat?	What job do you do?																																																										
 What job you do	Cad é an tslí bheatha atá agat?	What do you do for a living?	cadj ay an tshlee veha ataa agat																																																									
 What job you do	Cad é an post atá ag Michael?	What job does Michael have?																																																										
-What job you do																																																												
 What job you do	POSTANNA	JOBS																																																										
-What job you do																																																												
 What job you do	feirmeoir	farmer	fer-mer																																																									
 What job you do	Siopadóir	shopkeeper																																																										
 What job you do	búistéir	butcher																																																										
@@ -931,23 +728,15 @@ What job you do	siúinéir	carpenter	shoonair	aonad 9
 What job you do	bean tí	housewife																																																										
 What job you do	leictreoir	electrician																																																										
 What job you do	iascaire	fisherman	eesc-ar-a																																																									
-What job you do																																																												
 What job you do	innealtóir	engineer	inyaltar																																																									
 What job you do	innealtóir ríomhaireachta	computer engineer	inyaltar re-whar-achta																																																									
 What job you do	devops innealtóir	devops engineer																																																										
 What job you do	ríomhchláraitheoir	programmer	reo-clar-e-har																																																									
-What job you do																																																												
-What job you do		ASKING SOMEONE WHERE THEY WORK																																																										
-What job you do																																																												
 What job you do	bunscoil	primary school																																																										
 What job you do	meánscoil	secondary school																																																										
-What job you do																																																												
 What job you do	Cá bhfuil tú ag obair?	Where do you work?																																																										
-What job you do																																																												
-What job you do		SAYING WHERE YOU WORK																																																										
 What job you do	Tá mé ag obair...	I work...																																																										
 What job you do	Bhí mé ag obair...	I worked...																																																										
-What job you do																																																												
 What job you do	i monarcha	in a factory																																																										
 What job you do	in oifig	in an office																																																										
 What job you do	in scoil	in a school																																																										
@@ -961,136 +750,79 @@ What job you do	i mbialann	in a restaurant
 What job you do	i ngaráiste	in a garage																																																										
 What job you do	in ollmhargadh	in a supermarket	ollwarragoo																																																									
 What job you do	i dteach tábhairne	in a pub																																																										
-What job you do																																																												
 What job you do	stáisiún peitril	petrol station	stashon petrol																																																									
 What job you do	aisteoir	actor	asteor																																																									
 What job you do	tá mé neirbhíseach	i am nervous	taa may nervishoch																																																									
-What job you do																																																												
-What job you do		SAYING WHAT TYPE OF BUSINESS YOU HAVE																																																										
-What job you do																																																												
 What job you do	Tá siopa bróg agam.	I have a shoe shop.																																																										
 What job you do	Tá siopa leabhar agam.	I have a bookshop.	ta shopa loar agam																																																									
 What job you do	Tá bácús agam.	I have a bakery.																																																										
 What job you do	Tá teach lóistín agam.	I have a guesthouse.	...lostcheen...																																																									
-What job you do																																																												
-What job you do		ASKING SOMEONE IF THEY LIKE THEIR JOB																																																										
-What job you do																																																												
 What job you do	An maith leat ...	Do you like ...																																																										
 What job you do	... do phost?	... your job?																																																										
 What job you do	... do chuid oibre?	... your work?	do whid ibre???																																																									
-What job you do																																																												
-What job you do		SAYING YOU ARE NOT WORKING																																																										
-What job you do																																																												
 What job you do	Níl mé ag obair ...	I'm not working...																																																										
 What job you do	Tá mé dífhostaithe...	I'm unemployed...	..djee-ost-aha																																																									
 What job you do	... faoi láthair.	... at the moment (literal: present).	..fee laher																																																									
 What job you do	Tá mé éirithe as	I'm retired	...airy-a ass																																																									
-What job you do																																																												
-What job you do		ASKING SOMEONE WHAT JOB THEY HAD																																																										
 What job you do	Cad é an post a bhí agat?	What job did you have?																																																										
-What job you do																																																												
-What job you do		SAYING WHAT JOB YOU HAD																																																										
-What job you do	Ba ... mé.																																																											
-What job you do		or																																																										
 What job you do	... a bhí ionam	I was a ...																																																										
 What job you do	Ba mhúinteoir mé.	I was a teacher.																																																										
 What job you do	Rúnaí a bhí ionam.	I was a secretary.																																																										
-What job you do																																																												
 What job you do	Ba mheicneoir mé.																																																											
 What job you do	B'oibrí monarchan mé.																																																											
 What job you do	B'fheirmeoir mé.																																																											
-What job you do																																																												
 What job you do	An dochtúir tú?	Are you a doctor?																																																										
 What job you do	An rúnaí tú?	Are you a secretary?																																																										
-What job you do																																																												
-What job you do		You can answer this question in the following ways:																																																										
-What job you do																																																												
 What job you do	Is ea.	Yes (I am).	sha?? or ish-aa??																																																									
 What job you do	Ní hea.	No (I'm not).	nee ha																																																									
-Giving Orders		TELLING SOMEONE TO COME IN																																																										
 Giving Orders	Tar isteach.	Come in.																																																										
 Giving Orders	Tagaigí isteach.	Come in.(plural)																																																										
 Giving Orders	Taraigí isteach.	Come in.(plural)																																																										
-Giving Orders																																																												
-Giving Orders		TELLING SOMEONE TO SIT DOWN																																																										
-Giving Orders																																																												
 Giving Orders	Suigh síos.	Sit down.	see shees																																																									
 Giving Orders	Suígí síos.	Sit down.(plural)	see-gee shees																																																									
-Giving Orders		WARNING SOMEONE																																																										
 Giving Orders	Coimhéad!	Look out! or Be careful!	cuv-ahd																																																									
 Giving Orders	Coimhéadaigí!	Look out! or Be careful!(plural)	cuv-ahd-igi																																																									
-Giving Orders																																																												
 Giving Orders	Coimhéad an leoraí	mind the lorry																																																										
 Giving Orders	Coimhéad an phéint!	Mind the paint!	cuv-ahd an faint																																																									
-Giving Orders																																																												
 Giving Orders	Fan bomaite.	Wait a minute.																																																										
 Giving Orders	Fanaigí bomaite.	(plural)																																																										
-Giving Orders																																																												
-Giving Orders	TELLING SOMEONE TO STOP																																																											
-Giving Orders																																																												
 Giving Orders	Stad!	Stop!																																																										
 Giving Orders	Stadaigí!	(plural)																																																										
-Giving Orders																																																												
 Giving Orders	Ná déan sin.	Don't do that.	na jen sin																																																									
 Giving Orders	Ná déanaigí sin.	(plural)	na jenigi sin																																																									
-Giving Orders																																																												
 Giving Orders	Ná déan seo.	Don't do this.	na jen shaw																																																									
-Giving Orders																																																												
-Giving Orders	TELLING SOMEONE TO BE QUIET																																																											
-Giving Orders																																																												
 Giving Orders	Ciúnas!	Quiet!/Silence	cuoonyis																																																									
 Giving Orders	Ciúnigí!	Quiet!/Silence	cuoonigee																																																									
 Giving Orders	Bí ciúin!	Be quiet!	be cue-in																																																									
 Giving Orders	Bígí ciúin!	(plural)	bigee cue-in																																																									
-Giving Orders																																																												
 Giving Orders	Bí suaimhneach!	Be quiet!	be swinna																																																									
 Giving Orders	Bígí suaimhneach!	(plural)	bigee swinna																																																									
-Giving Orders																																																												
 Giving Orders	Fan socair!	Stay quiet!																																																										
 Giving Orders	Fanaigí socair!	(plural)																																																										
-Giving Orders																																																												
-Giving Orders	TELLING SOMEONE TO GO OR TO CARRY ON																																																											
-Giving Orders																																																												
 Giving Orders	Gabh amach!	Get out!	go amak (throaty k)																																																									
 Giving Orders	Gabhaigí amach!	(plural)	gogi amak (throaty k)																																																									
-Giving Orders																																																												
 Giving Orders	Imigh leat!	Away you go (in nice way).  Go away! (in strong voice)	immee lat																																																									
 Giving Orders	Imigí libh!	(plural)																																																										
-Giving Orders																																																												
 Giving Orders	Lean ort.	Carry on.	lan ort																																																									
 Giving Orders	Leanaigí oraibh.	(plural)	lanigi oriv																																																									
-Giving Orders																																																												
-Giving Orders		CALLING SOMEONE																																																										
-Giving Orders																																																												
 Giving Orders	Tar anseo.	Come here.																																																										
 Giving Orders	Tagaigí anseo.	(plural)																																																										
 Giving Orders	Taraigí anseo.	Come here.	(plural)																																																									
-Giving Orders																																																												
-Giving Orders	Goitse.	Come here.	gutcha																																																									
+Giving Orders	Goitse.	Come here.	gutcha		Goitse can also be used when you are leaving and when you want someone to come with you.																																																							
 Giving Orders	Goitsigí	Come here.(plural)	gutchigi																																																									
 Giving Orders																																																												
-Giving Orders		Goitse can also be used when you are leaving and when you want someone to come with you.																																																										
 Giving Orders	Goitse.	Come on.	gutcha																																																									
-Giving Orders		AROUND THE HOUSE																																																										
 Giving Orders	Druid an doras.	Shut the door.																																																										
 Giving Orders	Druidigí an doras.	(plural)																																																										
-Giving Orders																																																												
-Giving Orders	Oscail an fhuinneog.	Open the window.																																																										
+Giving Orders	Oscail an fhuinneog.	Open the window.			In Donegal an f is placed before oscail in everyday speech but it is generally not written.																																																							
 Giving Orders	Osclaígí an fhuinneog.	(plural)																																																										
-Giving Orders																																																												
-Giving Orders		In Donegal an f is placed before oscail in everyday speech but it is generally not written.																																																										
-Giving Orders																																																												
 Giving Orders	Gabh a luí.	Go to bed.	go a lee																																																									
 Giving Orders	Gabhaigí a luí.	(plural)	go-gee a lee																																																									
-Giving Orders																																																												
 Giving Orders	Gabh a chodladh.	Go to sleep.	go a haw-loo???																																																									
-Giving Orders																																																												
 Giving Orders	Éirigh!	Get up!	ear-ee																																																									
 Giving Orders	Éirígí!	(plural)	ear-igi																																																									
-Giving Orders																																																												
 Giving Orders	Déan deifir!	Hurry up!	Jen jeffer or Jen jeffra																																																									
 Giving Orders	Déanaigí deifir!	(plural)	Jenigy jeffer or Jenigy jeffra																																																									
-Giving Orders																																																												
 Giving Orders	ní thig liom	i can't	nee hig liom																																																									
 Giving Orders	Tá deifir orm	I am in a hurry																																																										
 Giving Orders	tá sibh mall (p)	you're late																																																										
@@ -1111,33 +843,21 @@ Family_	Tá mé scartha...	I'm separated...	taa meh scarha
 Family_	... ó mo bhean (chéile).	... from my wife.	o mo van hayla																																																									
 Family_	... ó m'fhear (céile).	... from my husband.	o mar kayla																																																									
 Family_	Is baintreach mé.	I'm a widow/widower.	is bantrack (thoaty ck) meh																																																									
-Family_																																																												
-Family_		ASKING SOMEONE WHAT THEIR MARITAL STATUS IS																																																										
-Family_																																																												
 Family_	An bhfuil tú pósta?	Are you married?																																																										
 Family_	An bhfuil tusa pósta?	Are *you* married?																																																										
 Family_	An bhfuil tu féin pósta?	Are you married yourself?																																																										
-Family_																																																												
 Family_	Tá.	Yes.																																																										
 Family_	Níl.	No.																																																										
 Family_	Níl go fóill.	Not yet.																																																										
-Family_																																																												
-Family_		ASKING SOMEONE IF THEY HAVE CHILDREN																																																										
-Family_																																																												
 Family_	páiste	child	peh-steh																																																									
 Family_	páistí	children	peh-stee																																																									
-Family_																																																												
 Family_	An bhfuil clann agat?	Have you children?																																																										
 Family_	An bhfuil clann agaibh?	(plural)																																																										
 Family_	An bhfuil clann agat féin?	Have you children yourself?																																																										
 Family_	An bhfuil páistí agat?																																																											
 Family_	An bhfuil páistí agaibh?																																																											
-Family_																																																												
-Family_	SAYING THAT YOU HAVE OR HAVEN'T CHILDREN																																																											
-Family_																																																												
 Family_	Tá.	Yes.																																																										
 Family_	Níl.	No.																																																										
-Family_																																																												
 Family_	Tá clann agam.	I have children.																																																										
 Family_	Tá clann againn.	We have children.																																																										
 Family_	mac	a son																																																										
@@ -1151,7 +871,6 @@ Family_	Níl páistí ar bith againn.	We have no children at all.
 Family_	Tá mé ag súil le páiste.	I'm expecting a child.																																																										
 Family_	Tá mé ag súil le leanbh.	I'm expecting a baby.	..ag sool le lanoo																																																									
 Family_	Tá mé torrach.	I'm pregnant.																																																										
-Family_																																																												
 Family_	ticéad (thieéad)	ticket	ticid(hicid)																																																									
 Family_	cailín	girl	cal-een																																																									
 Family_	cailíní	girls	cal-eeny																																																									
@@ -1161,18 +880,11 @@ Family_	buachaill	boy	bohill or byu-kal (throaty k)
 Family_	buachaillí	boys	bohilly or byu-kali (throaty k)																																																									
 Family_	gasúr	boy																																																										
 Family_	gasúraí	boys																																																										
-Family_																																																												
-Family_		ASKING SOMEONE HOW MEMBERS OF THEIR FAMILY ARE																																																										
-Family_																																																												
 Family_	Cad é mar atá do chlann?	How are your children? (when speaking to one person)																																																										
-Family_		or																																																										
 Family_	Cad é mar atá do chuid páistí?	How are your children?																																																										
-Family_																																																												
 Family_		This is how you return the question:																																																										
 Family_	Cad é mar atá do chlannsa?	How are *your* children?																																																										
-Family_		or																																																										
 Family_	Cad é mar atá do chuid *páistíse*?	How are *your* children?																																																										
-Family_																																																												
 Family_	Tá siad go maith	They are good.																																																										
 Family_	mo	my																																																										
 Family_	do	your																																																										
@@ -1202,14 +914,9 @@ Family_	mo mhacsa	*my* son
 Family_	do mhacsa	*your* son																																																										
 Family_	do mháthairse	*your* mother																																																										
 Family_	d'iníonsa	*your* daughter																																																										
-Family_	Cá mhéad páiste atá agat?	How many children have you?	Ca vhead pawstee ataa agat?																																																									
-Family_																																																												
-Family_		Note that the singular form of the noun is used after Cá mhéad?																																																										
-Family_																																																												
+Family_	Cá mhéad páiste atá agat?	How many children have you?	Ca vhead pawstee ataa agat?		Note that the singular form of the noun is used after Cá mhéad?																																																							
 Family_	Cá mhéad cáilín atá agat?	How many girls have you?																																																										
-Family_																																																												
 Family_	Cá mhéad duine?	How many people?																																																										
-Family_																																																												
 Family_	lón inniu	lunch today	loan in-nu																																																									
 Family_	meánlae	midday																																																										
 Family_	an chéad Aibreán	first of april	an chid A-ibrin																																																									
@@ -1232,27 +939,21 @@ Family_	mac amháin
 Family_	beirt mhac																																																											
 Family_	beirt chailíní																																																											
 Family_	Tá $NUMBER páiste agam.	I have $NUMBER children.																																																										
-Family_																																																												
 Family_	scoil	school	skull																																																									
 Family_	naíonra	playschool	neenra																																																									
 Family_	naíscoil	nursery school	nee-skull																																																									
 Family_	bunscoil	primary school	bun-skull																																																									
 Family_	meánscoil	secondary school	man-skull																																																									
 Family_	ollscoil	university	ol-skull																																																									
-Family_																																																												
 Family_	Tá ... acu ar an scoil.	... of them are at school.																																																										
-Family_																																																												
 Family_	Tá beirt acu ar an scoil.	Two of them are at school.	...acu air an skull																																																									
 Family_	Tá duine amháin acu sa naíonra.	One of them is in playschool.	.. sa neenra																																																									
-Family_																																																												
 Family_	Tá Síle ar an bhunscoil.	Síle is at primary school.	...ar an whunskull																																																									
 Family_	Tá Aodh ar an mheánscoil.	Aodh is at secondary school.	...vanskull???																																																									
 Family_	Tá Nóra ar an ollscoil.	Nóra is at university.	..ol-skull																																																									
 What you did	seachtain	week																																																										
 What you did	deireadh	end																																																										
 What you did	an deireadh seachtaine	the weekend																																																										
-What you did																																																												
-What you did		REFERING TO THE RECENT PAST																																																										
 What you did	...ag an deireadh seachtaine	at the weekend																																																										
 What you did	...inniú	today																																																										
 What you did	...inné	yesterday																																																										
@@ -1261,24 +962,14 @@ What you did	...aréir	last night	a-rare
 What you did	...arú aréir	the night before last																																																										
 What you did	...maidin inné	yesterday morning																																																										
 What you did	...maidin inniú	this morning																																																										
-What you did																																																												
-What you did		WHERE YOU WENT																																																										
-What you did																																																												
 What you did	Cá háit?	Where?	Ca hatch?																																																									
 What you did	Cá háit a ndeachaigh* tú?	Where did you go?	Ca hatch a dja-ha too?																																																									
 What you did	Cá háit a ndeachaigh* sibh?	Where did you go?  (plural)	Ca hatch a dja-ha shiv?																																																									
 What you did	Cá háit a ndeachaigh* tú inné?	Where did you go yesterday?																																																										
 What you did	Cá háit a ndeachaigh* tú ag an deireadh seachtaine?	Where did you go at the weekend?	Ca hatch a dja-ha too ag an djeroo shockt-in-ye?																																																									
-What you did	Cá háit a ndeachaigh* tú ...?	Where did you go ...	Ca hatch a dja-ha too?																																																									
-What you did		* The n at the beginning of this word is not pronounced in the Ulster dialect.																																																										
-What you did																																																												
-What you did		ASKING SOMEONE WHAT THEY DID																																																										
-What you did																																																												
+What you did	Cá háit a ndeachaigh* tú ...?	Where did you go ...	Ca hatch a dja-ha too?		* The n at the beginning of this word is not pronounced in the Ulster dialect.																																																							
 What you did	Cad é rinne tú...?	What did you do...?	Ca jay rin too...?																																																									
 What you did	Cad é rinne tú ag an deireadh seachtaine?	What did you do at the weekend?	Ca jay rin too ag an djeroo shock-tin-ya?																																																									
-What you did																																																												
-What you did		SAYING YOU WENT SOMEWHERE																																																										
-What you did																																																												
 What you did	Chuaigh mé ...	I went ...	wheh meh ... ---->> who-e meh																																																									
 What you did	Chuaigh mé ag snámh.	I went swimming.	wheh meh a sna-o																																																									
 What you did	Chuaigh mé ag súil.	I went walking.	wheh meh a shool																																																									
@@ -1288,32 +979,24 @@ What you did	Chuaigh mé go Béal Feirste ag siopadóireacht.	I went to Belfast 
 What you did	rothaíocht	cycling																																																										
 What you did	Chuaigh mé go dtí an siopa	I went to the shop																																																										
 What you did	Chuaigh mé chuig cluiche peile	I went to a football match	...clooha pella??																																																									
-What you did																																																												
-What you did		SAYING WHAT YOU DID																																																										
-What you did																																																												
 What you did	Bhí mé ag bainis.	I was at a wedding.																																																										
 What you did	D'imir mé cispheil.	I played basketball.	Djimir meh kish-fell																																																									
 What you did	D'amharc mé ar fhíseáin.	I watched videos.	dark meh ar eesh-aan																																																									
 What you did	D'éist mé le dlúthdhioscaí.	I listened to CDs.	djeest meh le dluduskee																																																									
 What you did	D'ól mé cúpla deoch.	I had a few drinks.	dol meh coupla jaw																																																									
-What you did																																																												
 What you did	scannán	film																																																										
-What you did																																																												
 What you did	Caithfidh mé labhairt leat inniu	I need to see you today	????																																																									
 What you did	ceolchoirm	concert																																																										
 What you did	coirm cheoil	concert																																																										
 What you did	mí (mhí)	month	mee (vee)																																																									
-What you did																																																												
 What you did	suigh síos	sit down																																																										
 What you did	shuigh sé síos	he sat down																																																										
 What you did	druid	close																																																										
 What you did	dhruid sí	she closed																																																										
-What you did																																																												
 What you did	ól	drink																																																										
 What you did	d'ól mé	I drank																																																										
 What you did	fan	wait																																																										
 What you did	d'fhan mé	I waited																																																										
-What you did																																																												
 What you did	bhí mé	I was																																																										
 What you did	rinne mé	I did/made																																																										
 What you did	chuala tú	you heard	(throaty) cwilla to																																																									
@@ -1337,39 +1020,23 @@ What you did	oíche Dhomhnaigh	Sunday night
 What you did	Cá huair?	When?																																																										
 What you did	Cá huair a chuaigh tú go Leitir Ceanainn?	When did you go to Letterkenney?																																																										
 What you did	Cén lá a chuaigh tú go Leitir Ceanainn?	What day did you go to Letterkenney?																																																										
-What you did																																																												
-What you did		ASKING SOMEONE WHO WAS WITH THEM																																																										
-What you did																																																												
 What you did	Cé a bhí leat?	Who was with you?	kay vee lat?																																																									
 What you did	Cé a chuaigh leat?	Who went with you?	Kay who-e lat?																																																									
 What you did	Cé a bhí ag an disco leat?	Who was with you at the disco?	kay vee ag an disco lat?																																																									
-What you did																																																												
-What you did	GIVING A RESPONSE																																																											
-What you did																																																												
 What you did	cara	friend																																																										
 What you did	cairde	friends																																																										
 What you did	Mo chara	My friend.																																																										
 What you did	Mo chara Liam	My friend Liam																																																										
 What you did	Mo chairde	My friends																																																										
-What you did																																																												
-What you did		ASKING SOMEONE IF THEY ENJOYED SOMETHING																																																										
-What you did																																																												
 What you did	Ar bhain tú sult as?	Did you enjoy it?	Ar win tu sult ass?																																																									
 What you did	Ar bhain tú sult as an dráma?	Did you enjoy the play?	Ar win tu sult ass an drama?																																																									
 What you did	Ar bhain tú sult as an deireadh seachtaine?	Did you enjoy the weekend?																																																										
-What you did																																																												
-What you did		GIVING YOUR REPLY																																																										
-What you did																																																												
 What you did	Bhain.	Yes (I did).	win																																																									
 What you did	Níor bhain.	No (I didn't).	near win																																																									
 What you did	Bhain mé an-sult as.	I really enjoyed it.	win meh an-sult as																																																									
-What you did																																																												
-What you did		In Aonad 7 we saw three different words that are used to say 'to' in Irish:																																																										
-What you did																																																												
 What you did	go hArd Mhacha	to Armagh																																																										
 What you did	go dtí an banc	to the bank																																																										
 What you did	chuig dráma	to a play																																																										
-What you did																																																												
 What you did	Chuaigh mé chuig an dochtúir.	I went to the doctor.																																																										
 What you did	Chuir mé litir chuig Anna.	I sent a letter to Anna.																																																										
 What you did	Chaith sé cnámh chuig an mhadadh.	He threw a bone to the dog.																																																										
@@ -1381,17 +1048,14 @@ Taking your leave	Caithfidh mé ag dul abhaile.	I have to go home.
 Taking your leave	Tá mé ag imeacht.	I am going.																																																										
 Taking your leave	Tá mé ag dul abhaile.	I am going home.																																																										
 Taking your leave	Tá mé ag dul chun an bhaile.	I am going home.																																																										
-Taking your leave		GIVING YOUR RESPONSE																																																										
 Taking your leave	Maith go leor.	All right.																																																										
 Taking your leave	Ceart go leor.	All right.																																																										
 Taking your leave	Is mór an trua sin.	That's a pity.																																																										
 Taking your leave	Cheana féin!	Already!																																																										
 Taking your leave	Níl sé ach luath.	It's only early. (Literal: it's not but early)																																																										
 Taking your leave	Cad chuige?	Why?	cad teeya??																																																									
-Taking your leave		SAYING YOU'RE SORRY																																																										
 Taking your leave	Tá brón orm ach ...	I am sorry but ...																																																										
 Taking your leave	Tá mé buartha ach ...	I am sorry but ...																																																										
-Taking your leave		SAYING WHY YOU HAVE TO GO																																																										
 Taking your leave	Tá mé tuirseach.	I'm tired.																																																										
 Taking your leave	Tá mé an-tuirseach.	I'm very tired.																																																										
 Taking your leave	Tá sé mall.	It's late.																																																										
@@ -1401,7 +1065,6 @@ Taking your leave	Tá mé mall don dráma.	I'm late for the play.
 Taking your leave	Tá deifir orm.	I'm in a hurry.																																																										
 Taking your leave	Tá mé ag súil le cuairteoirí.	I'm expecting visitors.																																																										
 Taking your leave	Tá mé ag dul chuig cruinniú.	I'm going to a meeting.																																																										
-Taking your leave																																																												
 Taking your leave	Fan tamall beag eile!	Stay a little while longer!																																																										
 Taking your leave	Fan go dtí ...	Stay until ...																																																										
 Taking your leave	Fan go dtí a hocht.	Stay until eight.																																																										
@@ -1409,7 +1072,6 @@ Taking your leave	Fan leathuair eile.	Stay another half an hour.
 Taking your leave	Fan uair an chloig eile.	Stay another hour.																																																										
 Taking your leave		GIVING YOUR REPLY																																																										
 Taking your leave	Ní thig liom.	I can't.																																																										
-Taking your leave																																																												
 Taking your leave	saoire	holiday																																																										
 Taking your leave	laethanta saoire	holiday																																																										
 Taking your leave	Chífidh mé ar ball tú.	I'll see you in a while/I'll see you later.																																																										
@@ -1418,8 +1080,6 @@ Taking your leave	Chífidh mé anocht tú.	I'll see you tonight.
 Taking your leave	Chífidh mé amárach tú.	I'll see you tomorrow.																																																										
 Taking your leave	Chífidh mé tráthnóna tú.	I'll see you this evening.																																																										
 Taking your leave	Chífidh mé ar maidin tú.	I'll see you in the morning.																																																										
-Taking your leave		*For some more useful sentences containing uair go back to Aonad 7.																																																										
-Taking your leave		REFERRING TO TIMES FURTHER IN THE FUTURE																																																										
 Taking your leave	Chífidh mé i gceann cúpla lá tú.	I'll see you in a few days' time.																																																										
 Taking your leave	Chífidh mé ar an tseachtain seo chugainn tú.	I'll see you next week.																																																										
 Taking your leave	Chífidh mé i gceann seachtaine tú.	I'll see you in a week's time.																																																										
@@ -1431,17 +1091,14 @@ Daily Routine	Músclaím ...	I wake up ...	musclum..
 Daily Routine	de ghnáth	usually	de greah																																																									
 Daily Routine	Músclaím de ghnáth thart fá leath i ndiaidh a seacht.	I usually wake up around half past seven.																																																										
 Daily Routine	Éirím ag a hocht.		earim..																																																									
-Daily Routine		or																																																										
 Daily Routine	Éirím ar a hocht.	I get up at eight.																																																										
 Daily Routine	Ním mé féin.	I wash myself.																																																										
 Daily Routine	Ithim mo bhricfeasta idir a hocht agus leath i ndiaidh a hocht.	I eat my breakfast between eight and half past eight.																																																										
 Daily Routine	Téim ag obair thart fá cheathrú go dtí a naoi.	I go to work at around a quarter to nine.																																																										
 Daily Routine	Téim chun na scoile ag a naoi a chlog.	I go to school at nine o'clock.																																																										
-Daily Routine		ASKING SOMEONE WHAT TIME THEY DO SOMETHING																																																										
 Daily Routine	Cad é an t-am a n-éiríonn tú achan mhaidin?	What time do you get up every morning?																																																										
 Daily Routine	Cad é an t-am a dtéann tú ag obair achan mhaidin?	What time do you go to work every morning?																																																										
 Daily Routine	Cad é an t-am a mbíonn do dhinnéar agat?	What time do you have your dinner?																																																										
-Daily Routine		DISCUSSING ROUTINES																																																										
 Daily Routine	Bíonn mo lón agam idir a haon agus a dó.	I have my lunch between one and two.																																																										
 Daily Routine	Bím sa bhaile de ghnáth ag a sé.	I'm usually home at six.																																																										
 Daily Routine	Bíonn mo dhinnéar agam sa bhaile.	I have my dinner at home.																																																										
@@ -1450,39 +1107,29 @@ Daily Routine	Tá mé tuirseach.	(I'm tired.)
 Daily Routine	Bím tuirseach i gcónaí tráthnóna.	(I am always tired in the evening.)																																																										
 Daily Routine	Tá mé mall.(I'm late.)																																																											
 Daily Routine	Bím mall i gcónaí maidin Dé luain.	(I am always late on Monday morning.)																																																										
-Daily Routine																																																												
 Daily Routine	Cad é a dhéanann tú i rith an lae?	What do you do during the day?																																																										
 Daily Routine	Cad é a dhéanann tú tráthnóna?	What do you do in the evening?																																																										
-Daily Routine		GIVING YOUR REPLY																																																										
 Daily Routine	Tagaim abhaile ..	I come home ...																																																										
 Daily Routine	Éistim leis an raidió.	I listen to the radio.																																																										
 Daily Routine	Amharcaim ar an teilifís.	I watch television.																																																										
 Daily Routine	Téim amach.	I go out.																																																										
 Daily Routine	Déanaim réidh béile.	I prepare a meal.																																																										
 Daily Routine	Téim a luí luath.	I go to bed early.																																																										
-Daily Routine																																																												
-Daily Routine		ASKING SOMEONE IF THEY DO A PARTICULAR THING																																																										
-Daily Routine																																																												
 Daily Routine	An éisteann tú le ceol?	Do you listen to music?																																																										
 Daily Routine	Éistim.	I do (literally, I listen).																																																										
 Daily Routine	Ní éistim.	I don't (literally, I don't listen).																																																										
-Daily Routine																																																												
 Daily Routine	An dtéann tú amach go minic?	Do you go out often?																																																										
 Daily Routine	Téim.																																																											
 Daily Routine	Ní théim.																																																											
-Daily Routine																																																												
 Daily Routine	An éiríonn tú go luath?	Do you get up early?																																																										
 Daily Routine	Éirím.																																																											
 Daily Routine	Ní éirím.																																																											
-Daily Routine																																																												
 Daily Routine	A-?																																																											
 Daily Routine	Bím.																																																											
 Daily Routine	Ní bhím.																																																											
-Daily Routine																																																												
 Daily Routine	A-----------------------------?																																																											
 Daily Routine	Tagaim.																																																											
 Daily Routine	Ní thagaim.																																																											
-Daily Routine																																																												
 Daily Routine	An amharcann tú ar an teilifís?	Do you watch television?																																																										
 Daily Routine	Amharcaim.																																																											
 Daily Routine	Ní amharcaim.																																																											
@@ -1490,31 +1137,22 @@ Location and movement	Cá bhfuil ...?	Where is/are ...?
 Location and movement	Cá bhfuil oifig an phoist?	Where is the post office?																																																										
 Location and movement	Cá bhfuil do charr?	Where is your car?																																																										
 Location and movement	Cá bhfuil na heochracha?	Where are the keys?																																																										
-Location and movement	SAYING WHERE SOMETHING IS																																																											
 Location and movement	... ar chlé	... on the left																																																										
 Location and movement	... ar dheis	... on the right																																																										
 Location and movement	Tá sé ansin ar chlé.	It's there on the left.																																																										
 Location and movement	Tá sé anseo ar dheis.	It's here on the right.																																																										
 Location and movement	Tá sé trasna ón siopa.	It's across from the shop.																																																										
 Location and movement	Tá sé in aice leis an chaife.	It's beside the cafe.																																																										
-Location and movement																																																												
-Location and movement	ASKING HOW MANY ROOMS THERE ARE IN A HOUSE																																																											
 Location and movement	Cá mhéad seomra atá ann?	How many rooms are in it?																																																										
-Location and movement																																																												
 Location and movement	Here are some possible answers:																																																											
 Location and movement	Tá trí sheomra ann.	It has three rooms.																																																										
 Location and movement	Ocht seomra.	Eight rooms.																																																										
-Location and movement																																																												
 Location and movement	If you are not sure why it is trí sheomra but ocht seomra, go back to Unit 6.																																																											
-Location and movement	GIVING DIRECTIONS																																																											
 Location and movement	Téigh suas an staighre.	Go up the stairs.																																																										
 Location and movement	Téigh síos an halla.	Go down the hall.																																																										
 Location and movement	Tiontaigh ...	Turn ...																																																										
 Location and movement	Tiontaigh ar chlé or ar dheis.	Turn left or right.																																																										
-Location and movement	SAYING WHICH DOOR IT IS																																																											
 Location and movement	an chéad doras ar chlé	the first door on the left																																																										
-Location and movement																																																												
-Location and movement	Here are the ordinal numbers from the first to tenth:																																																											
 Location and movement	an chéad	the first																																																										
 Location and movement	an dara	the second																																																										
 Location and movement	an tríú	the third																																																										
@@ -1525,7 +1163,6 @@ Location and movement	an seachtú	the seventh
 Location and movement	an t-ochtú	the eighth																																																										
 Location and movement	an naoú	the ninth																																																										
 Location and movement	an deichiú	the tenth																																																										
-Location and movement	DESCRIBING THE CONTENTS OF A HOUSE																																																											
 Location and movement	an tábla	the table																																																										
 Location and movement	an chaothaoir	the chair																																																										
 Location and movement	an cuisneoir	the fridge																																																										
@@ -1535,37 +1172,27 @@ Location and movement	an teilifíseán	the television
 Location and movement	an prios	the press																																																										
 Location and movement	an cuirtíní	the curtains																																																										
 Location and movement	an brat urláir	the carpet																																																										
-Location and movement	ASKING WHERE TO PUT THINGS																																																											
 Location and movement	Cá gcuirfidh mé é seo?	Where will I put this?																																																										
 Location and movement	Cá gcuirfidh mé iad seo?	Where will I put these?																																																										
-Location and movement	ASKING WHERE TO PUT THINGS																																																											
 Location and movement	Cuir thall ansin é.	Put it over there.																																																										
 Location and movement	Cuir sa chistin é.	Put it in the kitchen.																																																										
 Location and movement	Cuir sa seomra folctha é.	Put it in the bathroom.																																																										
 Location and movement	Ar an tábla.	On the table.																																																										
-Location and movement	As we saw in earlier units, i or in is the Irish for 'in':																																																											
 Location and movement	Tá mé i mo chónaí i mBaile Átha Cliath.	I live in Dublin.																																																										
-Location and movement																																																												
-Location and movement	However, 'in the' is one word in Irish: sa(n).																																																											
 Location and movement	sa chistin	in the kitchen																																																										
-Location and movement	sa gharáiste	in the garage																																																										
-Location and movement																																																												
-Location and movement	Sa adds a séimhiú to words beginning with a consonant (except d, n, t, l, and s):																																																											
+Location and movement	sa gharáiste	in the garage			Sa adds a séimhiú to words beginning with a consonant (except d, n, t, l, and s):																																																							
 Location and movement	sa chuisneoir	in the fridge																																																										
 Location and movement	sa phrios	in the garage																																																										
 Location and movement	but																																																											
 Location and movement	sa siopa	in the shop																																																										
 Location and movement	sa teach	in the house																																																										
-Location and movement																																																												
 Location and movement	And san is used before words beginning with a vowel:																																																											
 Location and movement	san oifig	in the office																																																										
 Location and movement	san ionad spóirt	in the sports centre																																																										
-Location and movement	MOVEMENT																																																											
 Location and movement	Téigh suas ...	Go up ...																																																										
 Location and movement	Téigh síos ...	Go down ...																																																										
 Location and movement	Téigh amach ...	Go out ...																																																										
 Location and movement	Téigh isteach ...	Go in ...																																																										
-Location and movement	LOCATION																																																											
 Location and movement	thuas	up																																																										
 Location and movement	thíos ...	down																																																										
 Location and movement	(taobh) amuigh	outside																																																										
