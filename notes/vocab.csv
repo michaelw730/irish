@@ -424,7 +424,6 @@ Languages	An bhfuil Gaeilge agat?	Can you speak Irish?
 Languages	An bhfuil Fraincis agat?	Can you speak French?																																																										
 Languages	teanga	a language	tchangy??																																																									
 Languages	teangacha	Languages	tchangaha??																																																									
-Languages																																																												
 Languages	Gaeilge	Irish																																																										
 Languages	Fraincis	French																																																										
 Languages	Béarla	English																																																										
@@ -662,10 +661,8 @@ Where you are going	ansin	then			as in I'm going to ... and then I'm going to...
 Where you are going	Go Baile Átha Cliath	To dublin		????																																																								
 Where you are going	Go hArd Mhacha*	To Armagh																																																										
 Where you are going	Go Dún Pádraig	To Downpatrick																																																										
-Where you are going		*Go doesn't affect words that begin with a consonant, but if the name begins with a vowel, h is placed before it.																																																										
 Where you are going		Go dtí is used before nouns that are preceded by the article:																																																										
 Where you are going	Tá mé ag dul go dtí an t-ospidéal.	I am going to the hospital.																																																										
-Where you are going		The word chuig is used instead of go or go dtí when you're talking about going to an event or to see a person. We'll deal with chuig in more detail in Aonad 11.																																																										
 Where you are going	Cad é an t-am?	What time?																																																										
 Where you are going	Cad é an t-am atá tú ag dul go Dún Geanainn?	What time are you going to Dungannon?																																																										
 Where you are going	Cá huair?	When?	ca hoo-ar																																																									
@@ -687,11 +684,10 @@ Where you are going	...san iarnóin	in the afternoon
 Where you are going	...tráthnóna	in the evening																																																										
 Where you are going	...san oíche	in the night																																																										
 Where you are going		The word uair is irregular when preceded by numbers:																																																										
-Where you are going	uair	an hour																																																										
+Where you are going	uair	an hour			This word occurs quite frequently in everyday speech, so it is well worth learning the different forms.																																																							
 Where you are going	dhá uair	two hours																																																										
 Where you are going	trí ... sé huaire	three ... six hours																																																										
 Where you are going	seacht ... deich n-uaire	seven ... ten hours																																																										
-Where you are going		This word occurs quite frequently in everyday speech, so it is well worth learning the different forms.																																																										
 Where you are going		SAYING IT'S ALMOST A CERTAIN TIME																																																										
 Where you are going	Tá sé chóir a bheith ...	It's almost ...	Taw shay hor a veh																																																									
 Where you are going	Tá sé chóir a bheith a dó a chlog.	It's almost two o'clock.																																																										
@@ -852,10 +848,10 @@ Family_	Níl go fóill.	Not yet.
 Family_	páiste	child	peh-steh																																																									
 Family_	páistí	children	peh-stee																																																									
 Family_	An bhfuil clann agat?	Have you children?																																																										
-Family_	An bhfuil clann agaibh?	(plural)																																																										
+Family_	An bhfuil clann agaibh?	Have you children? (plural)																																																										
 Family_	An bhfuil clann agat féin?	Have you children yourself?																																																										
-Family_	An bhfuil páistí agat?																																																											
-Family_	An bhfuil páistí agaibh?																																																											
+Family_	An bhfuil páistí agat?	Have you children?																																																										
+Family_	An bhfuil páistí agaibh?	Have you children? (plural)																																																										
 Family_	Tá.	Yes.																																																										
 Family_	Níl.	No.																																																										
 Family_	Tá clann agam.	I have children.																																																										
@@ -882,7 +878,6 @@ Family_	gasúr	boy
 Family_	gasúraí	boys																																																										
 Family_	Cad é mar atá do chlann?	How are your children? (when speaking to one person)																																																										
 Family_	Cad é mar atá do chuid páistí?	How are your children?																																																										
-Family_		This is how you return the question:																																																										
 Family_	Cad é mar atá do chlannsa?	How are *your* children?																																																										
 Family_	Cad é mar atá do chuid *páistíse*?	How are *your* children?																																																										
 Family_	Tá siad go maith	They are good.																																																										
@@ -896,8 +891,8 @@ Family_	a	their
 Family_	mo mhac	my son																																																										
 Family_	do mhac	your son																																																										
 Family_	m'iníon	my daughter																																																										
-Family_	a iníon																																																											
-Family_	bhur n-iníon																																																											
+Family_	a iníon	his/her/their daughter																																																										
+Family_	bhur n-iníon	your daughter (p)																																																										
 Family_	do mháthair	your mother																																																										
 Family_	d'athair	you father																																																										
 Family_	a hathair	her father																																																										
@@ -972,7 +967,7 @@ What you did	Cad é rinne tú...?	What did you do...?	Ca jay rin too...?
 What you did	Cad é rinne tú ag an deireadh seachtaine?	What did you do at the weekend?	Ca jay rin too ag an djeroo shock-tin-ya?																																																									
 What you did	Chuaigh mé ...	I went ...	wheh meh ... ---->> who-e meh																																																									
 What you did	Chuaigh mé ag snámh.	I went swimming.	wheh meh a sna-o																																																									
-What you did	Chuaigh mé ag súil.	I went walking.	wheh meh a shool																																																									
+What you did	Chuaigh mé ag siúl.	I went walking.	wheh meh a shool																																																									
 What you did	Chuaigh mé ag bainis.	I went to a wedding.	wheh meh a bawnish																																																									
 What you did	Chuaigh muid ag rothaíocht.	We went cycling.	wheh mwidgh ag ro-he-ocht (ro-he-art>>)																																																									
 What you did	Chuaigh mé go Béal Feirste ag siopadóireacht.	I went to Belfast shopping.																																																										
@@ -1102,7 +1097,6 @@ Daily Routine	Cad é an t-am a mbíonn do dhinnéar agat?	What time do you have 
 Daily Routine	Bíonn mo lón agam idir a haon agus a dó.	I have my lunch between one and two.																																																										
 Daily Routine	Bím sa bhaile de ghnáth ag a sé.	I'm usually home at six.																																																										
 Daily Routine	Bíonn mo dhinnéar agam sa bhaile.	I have my dinner at home.																																																										
-Daily Routine		We've already come across tá many times during this course. When you're referring to something that recurs, either frequently or infrequently, you need to use the present habitual form:																																																										
 Daily Routine	Tá mé tuirseach.	(I'm tired.)																																																										
 Daily Routine	Bím tuirseach i gcónaí tráthnóna.	(I am always tired in the evening.)																																																										
 Daily Routine	Tá mé mall.(I'm late.)																																																											

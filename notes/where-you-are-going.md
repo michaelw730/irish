@@ -32,6 +32,8 @@ ASKING SOMEONE WHAT TIME OR WHEN THEY'RE GOING SOMEWHERE
 
 [where-you-are-going.csv](where-you-are-going.csv)
 
+The word chuig is used instead of go or go dtí when you're talking about going to an event or to see a person. We'll deal with chuig in more detail in Aonad 11.
+*Go doesn't affect words that begin with a consonant, but if the name begins with a vowel, h is placed before it.
 * times are different in other dialects
 
 *** QUARTER PAST ETC IS MISSING - GET FROM giota beag ***
