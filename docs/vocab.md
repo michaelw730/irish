@@ -1,3 +1,6 @@
+
+## Meeting People
+
 | Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
 |---|---|---|---|---|---|---|---|
 | Meeting People |  | duine | person |  | dinye |
@@ -36,6 +39,11 @@
 | Meeting People |  | fichille | chess |  | feel-ha |
 | Meeting People |  | Cluiche fichille? | A game of chess?/Chess game? |  | Clee-ha feel-ha |
 | Meeting People |  | An bhfuil tú go maith? | Are you well? |
+
+## Weather
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | Weather |  | lá | day |  | laa?? |
 | Weather |  | grian | sun |  | grain |
 | Weather |  | scamill | cloud |  | scam-ill |
@@ -75,6 +83,11 @@
 | Weather |  | ...Buíochas le Dia | ...thank God |  | bwayhas le djia |  | is used quite frequently in this context. |
 | Weather |  | Tá drochlá ann. | It's a bad day. |  | teh drock-leh ann |
 | Weather |  | Tá drochlá ann inniu. | It's a bad day today. |  | teh drock-leh ann inn-u |
+
+## Introductions
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | Introductions |  | CUR IN AITHNE | INTRODUCTIONS |  | cur in an-yuh |
 | Introductions |  | ainm | Name |
 | Introductions |  | sloinne | surname |  | slin-you |
@@ -114,6 +127,11 @@
 | Introductions |  | sólás | comfort |  | sow-laas |
 | Introductions |  | gunna | gun |  | gun-na |
 | Introductions |  | gúna | dress |  | goona |
+
+## Family
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | Family |  | an teaghlach | the family |  | an chay-la |
 | Family |  | Mo theaghlach | My family |  | mo hay-la |
 | Family |  | athair | father |  | aher |
@@ -153,6 +171,11 @@
 | Family |  | Seo mo dheirfiúr. | That's my sister |  | .. mo yerifur |
 | Family |  | Seo mo chuid iníonacha... | these are my daughters |  | ...whid nyeenacha... |
 | Family |  | Seo mo chuid mac... | these are my sons |  | ...whid mawk... |
+
+## Person Background
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | Person Background |  | Cá as tú? | Where are you from? |  |  |  | After giving your response, you can ask the same question in the following ways: |
 | Person Background |  | Cá as túsa? | Where are *you* from?  or |
 | Person Background |  | Cá as tú féin? | Where are you from yourself? |
@@ -192,6 +215,11 @@
 | Person Background |  | ... i lár na cathrach | ... in the city centre. |  | i lar na ceh-hra |  | maybe.. in the center of the city??? |
 | Person Background |  | ... ar shráid Anraí | ... on Henry Street |  | ar hradg anry |
 | Person Background |  | ... ar Bhóthar na Carraige | ... on Carrick Road |  | ar waw-her na carriga |
+
+## Numbers
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | Numbers |  | Náid | Zero |  | Nawj |
 | Numbers |  | Aon | One |  | Ayn |
 | Numbers |  | Dó | Two |  | Doh |
@@ -323,8 +351,18 @@
 | Numbers |  | naoi gcóta | nine coats |
 | Numbers |  | geansaí | jumper |
 | Numbers |  | deich ngeansaí | nine jumpers |
+
+## Phone
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | Phone |  | Cad é d'uimhir fóin? | What's your phone number? |
 | Phone |  | D'uimhir fóin? | Your phone number? |
+
+## Time
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | Time |  | am | time |  | am |
 | Time |  | Cad é an t-am atá sé? | What time is it? |
 | Time |  | Cad é an t-am atá sé, le do thoil? | What time is it, please? |
@@ -356,6 +394,11 @@
 | Time |  | Bhí sé ... a chlog. | It was ... o'clock. |  | vee shay... |
 | Time |  | soicind | second |  | second |
 | Time |  | bomaite | minute |
+
+## Places
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | Places |  | Cúige | province (of Ireland/fifths) |  | cwig-a |
 | Places |  | Contae | County |  | cont-ay |
 | Places |  | Uladh | Ulster |  | ull-oo |
@@ -419,6 +462,11 @@
 | Places |  | >nDún Éidin | Edinburgh |
 | Places |  | an Ghearmáin | Germany |
 | Places |  | an Fhrainc | France |
+
+## Languages
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | Languages |  | AG PLÉ TEANGACHA | DISCUSSING LANGUAGES |  | tchangaha?? |
 | Languages |  | An bhfuil ... agat? | Can you speak ...? (literally, Have you ...?) |
 | Languages |  | An bhfuil Gaeilge agat? | Can you speak Irish? |
@@ -467,6 +515,11 @@
 | Languages |  | An bhfuil Gaeilge agat? | Can you speak Irish? |
 | Languages |  | Tá | Yes. |
 | Languages |  | Níl | No. |
+
+## Expressing Opinions
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | Expressing Opinions |  | Is maith liom ... | I like ... |
 | Expressing Opinions |  | Is breá liom ... | I really like ... |
 | Expressing Opinions |  | Tá dúil mhór agam i(n)... | I really like ... |
@@ -547,6 +600,11 @@
 | Expressing Opinions |  | An bhfuil maith ar bith sa bhialann sin? | Is that restaurant any good? |  | an whil my ar bee sa via-lann sin? |  | said quick |
 | Expressing Opinions |  | An bhfuil an bia maith? | Is the food any good? |
 | Expressing Opinions |  | bialann | restaurant |  | bia-lann |
+
+## What you want
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | What you want |  | Cad é ba mhaith leat? | What would you like? |
 | What you want |  | Cad é ba mhaith leatsa? | What would *you* like? |
 | What you want |  | Cad é ba mhaith libh? | What would you like? (when speaking to more than one person) |
@@ -615,6 +673,11 @@
 | What you want |  | Sláinte mhaith agat i bhfad ó bhrón. | Good health, free from sorrow. |
 | What you want |  | Sláinte do bheo agus tróicaire do mharbh. | Health to the living and mercy on the dead. |
 | What you want |  | Go mba fada a mhairfidh tú. | Long life to you |
+
+## Where you are going
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | Where you are going |  | Cá bhfuil tú ag dul? (s) | Where are you going? |  | Ca will to a-gull |
 | Where you are going |  | Cá bhfuil sibh ag dul? (p) | Where are you going? |  | Ca will to a-gull |
 | Where you are going |  | Cá bhfuil tusa ag dul? | Where are *you* going? |
@@ -697,6 +760,11 @@
 | Where you are going |  | Tá sé ceathrú go dtí a dó dhéag | it's a quarter to 12 |
 | Where you are going |  | Tá sé ceathrú i ndiaidh a cúig | it's a quarter past 5 |  | tay shay ca-ru i nyay a quig |
 | Where you are going |  | scrúdú | exam |  |  |  | "as in ""scrúdú ar maidin"" == ""exam in the morning""" |
+
+## What job you do
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | What job you do |  | obair | work |
 | What job you do |  | post | job |  | paw-st |
 | What job you do |  | Is ... mé. | I'm a ... |
@@ -771,6 +839,11 @@
 | What job you do |  | An rúnaí tú? | Are you a secretary? |
 | What job you do |  | Is ea. | Yes (I am). |  | sha?? or ish-aa?? |
 | What job you do |  | Ní hea. | No (I'm not). |  | nee ha |
+
+## Giving Orders
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | Giving Orders |  | Tar isteach. | Come in. |
 | Giving Orders |  | Tagaigí isteach. | Come in.(plural) |
 | Giving Orders |  | Taraigí isteach. | Come in.(plural) |
@@ -823,6 +896,11 @@
 | Giving Orders |  | Tá deifir orm | I am in a hurry |
 | Giving Orders |  | tá sibh mall (p) | you're late |
 | Giving Orders |  | bean éigin | some woman |  | ban ay-gan |
+
+## Family_
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | Family_ |  | fear | man |  | faar |
 | Family_ |  | an fhear | the man |  | an aar |  | ??? |
 | Family_ |  | fir | men |
@@ -946,6 +1024,11 @@
 | Family_ | PHRASE | Tá Síle ar an bhunscoil. | Síle is at primary school. |  | ...ar an whunskull |
 | Family_ | PHRASE | Tá Aodh ar an mheánscoil. | Aodh is at secondary school. |  | ...vanskull??? |
 | Family_ | PHRASE | Tá Nóra ar an ollscoil. | Nóra is at university. |  | ..ol-skull |
+
+## What you did
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | What you did | NOUN | seachtain | week |
 | What you did | NOUN | deireadh | end |
 | What you did |  | an deireadh seachtaine | the weekend |
@@ -1039,6 +1122,11 @@
 | What you did |  | go hArd Mhacha | to Armagh |
 | What you did |  | go dtí an banc | to the bank |
 | What you did |  | chuig dráma | to a play |
+
+## Taking your leave
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | Taking your leave |  | AG FÁGÁIL COMHLUADAIR | TAKING YOUR LEAVE |  | Ag faygal cool-wah-der |
 | Taking your leave |  | Caithfidh mé imeacht. | I have to go. |  | Ka-heh meh imackt |
 | Taking your leave |  | Caithfidh mé imeacht arís. | I have to go again. |
@@ -1086,6 +1174,11 @@
 | Taking your leave |  | Chífidh mé i gceann míosa tú. | I'll see you in a month's time. |
 | Taking your leave |  | Chífidh mé an mhí seo chugainn tú. | I'll see you next month. |
 | Taking your leave |  | Chífidh mé ag a trí a chlog tú. | I'll see you at three o clock. |
+
+## Daily Routine
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | Daily Routine |  | Músclaím ... | I wake up ... |  | musclum.. |
 | Daily Routine |  | de ghnáth | usually |  | de greah |
 | Daily Routine |  | Músclaím de ghnáth thart fá leath i ndiaidh a seacht. | I usually wake up around half past seven. |
@@ -1131,6 +1224,11 @@
 | Daily Routine |  | An amharcann tú ar an teilifís? | Do you watch television? |
 | Daily Routine |  | Amharcaim. |
 | Daily Routine |  | Ní amharcaim. |
+
+## Location and movement
+
+| Topic | Type | Irish | Meaning | Literal Meaning | Phonetic | Sound | Info |
+|---|---|---|---|---|---|---|---|
 | Location and movement |  | Cá bhfuil ...? | Where is/are ...? |
 | Location and movement |  | Cá bhfuil oifig an phoist? | Where is the post office? |
 | Location and movement |  | Cá bhfuil do charr? | Where is your car? |

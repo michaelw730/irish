@@ -113,45 +113,44 @@ Introductions		solas	light		sawlas
 Introductions		sólás	comfort		sow-laas		
 Introductions		gunna	gun		gun-na		
 Introductions		gúna	dress		goona		
-Family		an teaghlach	the family		an chay-la		
-Family		Mo theaghlach	My family		mo hay-la		
-Family		athair	father		aher		
-Family		máthair	mother		mah-her		
-Family		mamaí?	mum?				
-Family		deirfiúr	sister		djerifur		
-Family		deartháir	brother		djaher		
-Family		iníon*	daughter		nyee-in (like news)		* In Ulster the i at the beginning of iníon is not pronounced.
-Family		iníonacha	daughters				
-Family		mac	son		mawck		
-Family		céile	spouse		kayla		
-Family		fear céile	husband [man spouse]		far kayla		
-Family		bean chéile	wife [woman spouse]		ban hayla		
-Family		EXTENDED					
-Family		tuismitheoirí	parents				
-Family		dheartháireacha	brothers??				
-Family		deirfiúracha	sisters				
-Family		seanathair	grandfather				
-Family		athair mór	grandfather				
-Family		seanmháthair	grandmother				
-Family		máthair mhór	grandmother				
-Family		uncail	uncle				
-Family		aintin	aunt				
-Family		col ceathrair	cousin				
-Family		col ceathracha	cousins				
-Family		leasathair	stepfather				
-Family		leasmháthair	stepmother				
-Family		leasdeirfiúr	stepsister				
-Family		leasdeartháir	stepbrother				
-Family		neacht	niece				
-Family		nia	nephew				
-Family		Seo mo mháthair.	That's my mother		..mo wahher		
-Family		Seo m'athair.	That's my father		..maher		
-Family		Seo m'iníon.	That's my daughter		..minyee-in		
-Family		Seo mo mhac.	That's my son		.. mo wock		
-Family		Seo mo dheartháir.	That's my brother		.. mo yeah-her		
-Family		Seo mo dheirfiúr.	That's my sister		.. mo yerifur		
-Family		Seo mo chuid iníonacha...	these are my daughters		...whid nyeenacha...		
-Family		Seo mo chuid mac...	these are my sons		...whid mawk...		
+Family Basic		an teaghlach	the family		an chay-la		
+Family Basic		Mo theaghlach	My family		mo hay-la		
+Family Basic		athair	father		aher		
+Family Basic		máthair	mother		mah-her		
+Family Basic		mamaí?	mum?				
+Family Basic		deirfiúr	sister		djerifur		
+Family Basic		deartháir	brother		djaher		
+Family Basic		iníon*	daughter		nyee-in (like news)		* In Ulster the i at the beginning of iníon is not pronounced.
+Family Basic		iníonacha	daughters				
+Family Basic		mac	son		mawck		
+Family Basic		céile	spouse		kayla		
+Family Basic		fear céile	husband [man spouse]		far kayla		
+Family Basic		bean chéile	wife [woman spouse]		ban hayla		
+Family Extended		tuismitheoirí	parents				
+Family Extended		dheartháireacha	brothers??				
+Family Extended		deirfiúracha	sisters				
+Family Extended		seanathair	grandfather				
+Family Extended		athair mór	grandfather				
+Family Extended		seanmháthair	grandmother				
+Family Extended		máthair mhór	grandmother				
+Family Extended		uncail	uncle				
+Family Extended		aintin	aunt				
+Family Extended		col ceathrair	cousin				
+Family Extended		col ceathracha	cousins				
+Family Extended		leasathair	stepfather				
+Family Extended		leasmháthair	stepmother				
+Family Extended		leasdeirfiúr	stepsister				
+Family Extended		leasdeartháir	stepbrother				
+Family Extended		neacht	niece				
+Family Extended		nia	nephew				
+Family Introductions		Seo mo mháthair.	That's my mother		..mo wahher		
+Family Introductions		Seo m'athair.	That's my father		..maher		
+Family Introductions		Seo m'iníon.	That's my daughter		..minyee-in		
+Family Introductions		Seo mo mhac.	That's my son		.. mo wock		
+Family Introductions		Seo mo dheartháir.	That's my brother		.. mo yeah-her		
+Family Introductions		Seo mo dheirfiúr.	That's my sister		.. mo yerifur		
+Family Introductions		Seo mo chuid iníonacha...	these are my daughters		...whid nyeenacha...		
+Family Introductions		Seo mo chuid mac...	these are my sons		...whid mawk...		
 Person Background		Cá as tú?	Where are you from?				After giving your response, you can ask the same question in the following ways:
 Person Background		Cá as túsa?	Where are *you* from?  or				
 Person Background		Cá as tú féin?	Where are you from yourself?				

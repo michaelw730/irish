@@ -1,17 +1,5 @@
 # Family
 
-## basic family vocabulary
-
-The Irish for 'my' is mo. If it precedes a word beginning with a consonant (other than l, n, or r) a h is added to the initial letter, causing a change in sound:
-
-* mac = mo mhac
-
-If mo precedes a word beginning with a vowel or f, the o in mo is dropped:
-
-* iníon = m'iníon
-
-[family.csv](family.csv)
-
 ## family sentences
 
 | Irish                                                     | English                                         | Phonetic | Sound | Info |
