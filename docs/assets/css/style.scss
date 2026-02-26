@@ -1,5 +1,4 @@
-@import "{{ site.theme }}";
-
-.inner {
-  max-width: 75%;
+.container, .wrapper, .main-content {
+  max-width: 100% !important;
+  padding: 0 20px; /* Optional: adds small side margins */
 }
