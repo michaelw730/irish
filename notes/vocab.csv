@@ -1191,3 +1191,97 @@ Location and movement		thuas	up
 Location and movement		thíos ...	down				
 Location and movement		(taobh) amuigh	outside				
 Location and movement		(taobh) istigh ...	inside				
+Family2		Seo ...	This is ...??				
+Family2		Sin ...	They are ...??				
+Family2		m'athair mór	my grandfather				
+Family2		mo mháthair mhór	my grandmother				
+Family2		mo deartháireacha	my brothers				
+Family2		mo chuid deartháireacha	my brothers				
+Family2		mo deirfiúracha	my sisters				
+Family2		mo chuid deirfiúracha	my sisters				
+Family2		m'uncail	my uncle				
+Family2		m'aintín	my aunt				
+Family2		mo chuid col ceathracha	my cousins				
+Family2		m'fhear céile	my husband				
+Family2		mo bhean chéile	my wife				
+Family2		mo chuid airgid	my money				
+Family2		mo chuid gruaige	my hair				
+Family2		mo chuid deirfiúracha	my sisters				
+Family2		mo chuid col ceathracha	my cousins				
+Family2		Is muidne* ...	We're ...				*In Ulster Irish this word usually has three syllables in everyday speech: muid-in-ne.
+Family2		Is muidne deirfiúracha John.	We're John's sisters.				
+Family2		Is muidne deartháireacha Laura.	We're Laura's brothers.				
+Family2		Cad é an aois atá tú?	What age are you?				
+Family2		Cen aois atá tú?	What age are you?				
+Family2		Cad é an aois atá sé?	What age is he?				
+Family2		AOIS	AGE				
+Family2		bliain (d'aois)	one year (old)				
+Family2		dhá bhliain	two years				
+Family2		trí bliana	three years				
+Family2		ceithre bliana	four years				
+Family2		cúig bliana	five years				
+Family2		sé bliana	six years				
+Family2		seacht mbliana	seven years				
+Family2		ocht mbliana	eight years				
+Family2		naoi mbliana	nine years				
+Family2		deich mbliana	ten years				
+Family2		Cá bhfuil sé ina chónaí anois?	Where does he live now?				
+Family2		Cá bhfuil sí ina cónaí anois?	Where does she live now?				
+Family2		Cá bhfuil siad ina gcónaí anois?	Where do they live now?				
+Family2		CÓNAÍ	LIVE				
+Family2		Tá mé i mo chónaí	I live				
+Family2		Tá tú i do chónaí	You live				
+Family2		Tá sé ina chónaí	He lives				
+Family2		Tá sí ina cónaí	She lives				
+Family2		Tá muid inar gcónaí	We live				
+Family2		Tá sibh in bhur gcónaí	You live				
+Family2		Tá siad ina gcónaí	They live				
+Greetings etc		Dia duit! [singular]	Hello! (God to you)				
+Greetings etc		Dia is Muire duit.[singular]	Hello. (in response)				
+Greetings etc		Dia daoibh! [plural]	Hello! (God to you)				
+Greetings etc		Dia is Muire daoibh.[plural]	Hello. (in response)				
+Greetings etc		Maidin mhaith.	Good morning.				
+Greetings etc		Tráthnóna maith.	Good afternoon.		tranoana my		
+Greetings etc		Oíche mhaith.	Good evening/night.				
+Greetings etc		Fáilte.	Welcome.				
+Greetings etc		beannachtaí	Greetings		baan-ak-tee		
+Greetings etc		Slán!	Goodbye. [Safe/Health]		slawn or slen		
+Greetings etc		Slán go fóill	Goodbye for now		Slaawn guh foil??		Only say Slán after this as response
+Greetings etc		Slán leat	Goodbye to you (s) [may safety or health be with you]				
+Greetings etc		Slán libh	Goodbye to you (p)				
+Greetings etc		Slán abhaile	Safe home				
+Greetings etc		Ádh mór	Good luck [big luck]		aw more		
+Greetings etc		Ádh mór ort	Good luck to you (s) [big luck on you]				
+Greetings etc		Ádh mór oraibh	Good luck to you (p)				
+Greetings etc		Chífidh mé tú.	I'll see you.				tú or thú???
+Greetings etc		Feicfidh mé arís thú.	I'll see you again.		Fecky may arish hu		
+Greetings etc		Feicfidh mé amárach thú.	I'll see you tomorrow.		Fecky may amarach hu		
+Greetings etc		arís.	again.				
+Greetings etc		le do thoil (s)	please		le de hull		
+Greetings etc		le bhur dtoil (p)	please		le wer dul		
+Greetings etc		Gabh mo leithscéal	Excuse me				
+Greetings etc		Fan bomaite	Wait a minute				
+Greetings etc		Tóg go bog é	Take it easy		Toe-g geh bow-g eh		
+Greetings etc		póg mo thóin	kiss my ass		powg moh hoe-n		
+Greetings etc		Tá fáilte romhat	you're welcome [There is a welcome for / before you]				
+Greetings etc		Comhghairdeas	Congratulations		co-hard-yes		
+Greetings etc		Comhghairdeachas	Congratulations (Ulster??)		co-hard-ye-has		
+Greetings etc		AONAD 1	Unit 1		Ay-nid a hein		
+Greetings etc		níl a fhios agam	I don't know		neil us agam		
+Greetings etc		Tá a fhios agam	I know		Ta us agam		
+Greetings etc		freagair	reply/answer		freggar		
+Greetings etc		cur Gaeilge air?	What's irish for?				
+Greetings etc		deireadh	end		djeroo		
+Greetings etc		Sin deireadh le aonad	That's the end of unit...		Sin djeroo le ay-nid...		
+Greetings etc		sparán	purse		sparaan		
+Greetings etc		go dtí sin	until then				
+Greetings etc		cluiche fichille?	Chess game?			Clee-ha feel-a	
+Greetings etc		lá breithe shona	happy birthday		laa brayha		
+Greetings etc		lá breithe shona duit	happy bithday to you				
+Greetings etc		Béal Feirste	Belfast		bell firstye		mouth of the river farset
+Greetings etc		béal	mouth		bell		
+Greetings etc		guala(?)	shoulder		goola		
+Greetings etc		chos(?)	foot		cos		
+Greetings etc		ceann(?)	head		cyun		
+Greetings etc		droim(?)	back		drim		
+Greetings etc		toín(?)	backside		towin		

@@ -1,0 +1,384 @@
+		Irish	English		Phonetic	Sound	Info
+Feelings		Tá … orm.	I have … on me				
+		Tá áthas orm.	I am happy.				
+							
+		áthas	happy		ahas		
+		brón	sad				
+		tuirse	tired		tur-sha		
+		eagla	afraid		ugla		
+		imní	anxious / worried		imnee		
+		iontas / ionadh	surprised		untas		
+		fearg	angry		farig		
+		uaigneas	lonely		wegniss		
+		sceitimíní	excited		scet-chim-in-yee		
+		náire	embarrassed		ny-ya		
+		Tá áthas orm.	I am happy.				
+		Tá áthas ort.	You are happy.				
+		Tá áthas air.	He is happy.				
+		Tá áthas uirthi.	She is happy.				
+		Tá áthas orainn.	We are happy.				
+		Tá áthas oraibh.	You are happy. (plural)				
+		Tá áthas orthu.	They are happy.				
+							
+		Tá áthas ar Mháire.	Máire is happy.				
+		Tá áthas ar m'athair.	My father is happy.				
+		Tá áthas ar na cailíní.	The girls are happy.				
+Personal Traits		Na bunrudaí	The basics				
+		sloinne	surname				
+		Súile	eyes				
+		gruaig	hair				
+		Tréithe fisicúla	Physical traits				
+		Cén aois thú?	What is your age?				
+		>Tá mé $AGE d’aois.	I am $AGE of age.				
+		Tá cuma óg orm do m’aois	I appear young for my age				
+		Tá cuma shean orm do m’aois	I appear old for my age				
+							
+		Cén dath atá ar do chuid gruaige?	What colour is your hair?				
+		Tá mo chuid gruaige...	My hair is...		Ta mo hudge grooiga..		
+		Tá dath $COLOUR ar mo chuid gruaige	My hair is $COLOUR				
+							
+		Cén dath atá ar do shúile?	What colour are your eyes?				
+		Tá mo shúile...	My eyes are...		Ta mo hula..		
+		Níl mo shúile...	My eyes are not...		Neel mo hula..		
+		...fosta	...as well		fosta		
+							
+		an bhfuil do shúile $COLOUR?	Are your eyes $COLOUR?				
+							
+		ard	tall		aird		
+		beag	small		beug? or bug?		
+		tanaí	slim		tany		
+		ramhar	fat		rawer		
+		óg	young		owg		
+		sean	old		shan		
+		láidir	strong		ladger		
+		lag	weak		lawg		
+		díreach	straight		Jiroch		
+		catach	curly		catack		
+		fada	long		fada		
+		gairid	short				
+							
+		fionn	blonde		finn		
+		rua	red/ginger				
+							
+		Tá mé maol	I am bald				
+		Tá féasóg orm	I have a beard				
+		Caithim spéaclaí	I wear glasses				
+Personality Traits		Na bunrudaí	The basics				
+		Tréithe pearsanta	Personality traits				
+		Cén sórt duine thú?	What type of person are you?				
+		Déan cur síos ort féin maidir le tréithe pearsantachta.	Describe your personality traits.				
+							
+		Déan cur síos ort féin	Describe yourself				
+							
+		Maidir le tréithe pearsantachta,	As regards personality traits,				
+		Tá mé ...	I am ...				
+		Níl mé ...	I am not ...				
+		thig liom a bheith ...	I can be ...				
+		sílim go bhfuil mé ...	I think that I am ...				
+		sílim nach bhfuil mé ...	I think that I am not ...				
+							
+		Is duine spórtúil mé	I am a sporty person				
+		síleann mo chairde go bhfuil mé maith ag an chamógaíocht	my friends think I am good at Camogie				
+		Is fearr liom bheith ag canadh agus bheith ag éisteacht leis an raidió agus le ceol.	I prefer to sing and to listen to the radio and music.				
+							
+		cainteach	chatty				
+		ciúin	quiet				
+		cairdiúil	friendly				
+		míchairdiúil	unfriendly				
+		dícheallach	hard-working				
+		falsa	lazy				
+		greannmhar	funny				
+		faiteach	shy / timid				
+		ceanndána	headstrong / stubborn				
+		cróga	brave				
+		deas	nice				
+		cliste	clever				
+		bómánta	stupid				
+		spórtúil	sporty				
+		aibí	mature				
+		mí-aibí	immature				
+		neamhspleách	independent				
+							
+		Léigh an sliocht agus freagair fíor nó bréagach.	Read the passage and answer true or false.				
+Dates		Maidin	morning				
+		ar Maidin	in the morning				
+		Tráthnóna	evening		tranoana		may be afternon in some dialects
+		iarnóin	afternoon		tranoana		may be only in some dialects
+		Oíche	night.				
+							
+		inné	yesterday		in-ay		
+		aréir	last night		a-rare		
+		anocht	tonight		anokt		
+		amárach	tomorrow		amwarach		
+		inniu	today				
+		anois	now				
+		arú inné	the day before				
+		an tseachtain seo caite	last week (the week just past)				
+		bliain ó shin	a year ago				
+		anuraidh	last year				
+		an mhí seo caite	month just past				
+		an samhradh seo caite	last summer (summer just past)				
+		cúpla bomaite ó shin	couple of minutes ago				
+							
+		lá	day		laa		
+		Seachtain	week		shak-tin		
+		Mí	month		me		
+		bliain	year		blane		
+		Leathanta na Seachtaine	days of the week				
+							
+		An Luan	Monday		An loo-in		
+		An Mháirt	Tuesday		an Wharch		
+		An Chéadaoin	Wednesday		an Kayd-een		
+		An Déardaoin	Thursday		an Gerard-een		
+		An Aoine	Friday		Ann Eenya		
+		An Sathairn	Saturday		An Sa-hurn		
+		An Domhnach	Sunday		Ann Doe-nac		
+		Dé Luain	on Monday		je luan		
+		Dé Máirt	on Tuesday		je mwarch		
+		Dé Céadaoin	on Wednesday		je ceadine		
+		Déardaoin	on Thursday		jeardine		
+		Dé hAoine	on Friday		je heanya		
+		Dé Sathairn	on Saturday		je sahern		
+		Dé Domhnaigh	on Sunday		je doughny		
+		Cad é an lá atá ann innui?	What day is it today?				
+		Innui an Luan	Today is Monday				
+		Cén lá den tseachtain is fearr leat?	Which day of the week do you prefer?				
+		Is fearr liom...	I prefer				
+		Is maith liom ... ach is fearr liom...	I like ... but I prefer...				
+		Eanáir	January		Anar		
+		Feabhra	February		Feaohra		
+		Márta	March		Maarta		
+		Aibreán	April		Ehbran		
+		Bealtaine	May		Balltinya		
+		Meitheamh	June		Mayhiv		
+		Iúil	July		ool		
+		Lúnasa	August		loonasa		
+		Meán Fómhair	September		man fowar		
+		Deireadh Fómhair	October		jeroo fowar		
+		Samhain	November		Saaw-in		
+		Nollaig	December		Nollig		
+		An t-earrach atá ann.	It is spring.				
+		An samhradh atá ann.	It is summer.				
+		An fómhar atá ann.	It is autumn.				
+		An geimhreadh atá ann.	It is winter.				
+Colours		dath	colour		deh		
+		dathanna	colours				
+							
+		Cén dath is fearr leat?	What is your favourite colour?				
+		Is fearr liom …	My favourite colour is …				
+		Cén dath atá ar…	What colour is… ?				
+		Tá dath … air / uirthi.	It is…/Colour is...				
+		geal	bright				
+		dorcha	dark		durcha		
+							
+		bán	white		bawn		
+		bándearg > bhándearg	pink		ban dearg		
+		glas	green				
+		corca	purple				
+		donn	brown				
+		buí	yellow				
+		liath	grey		lea		
+		dubh	black		doo (ULSTER)/dove		
+		gorm	blue				
+		dearg	red		djar-ig		
+		cnódhonn	hazel				
+		oráiste	orange		orawsht-eh		
+		órga	gold				
+Family		Daoine eile sa teaghlach	Other people in the family				
+							
+		Conaím le mo mhamaí / mo dhaidí.	I live with my Mum / my Dad.				
+		Conaíonn mo sheanmháthair linn.	Our grandmother lives with us.				
+		Cá mhéad deartháir atá agat?	How many brothers do you have?				
+		Tá deartháir amháin agam.	I have one brother.				
+		Tá beirt / triúr / ceathrar / cúigear deartháir atá agam.	I have two / three / four / five brothers.				
+		Cá mhéad deirfiúr atá agat?	How many sisters do you have?				
+		Tá deirfiúr amháin agam.	I have one sister.				
+		Tá beirt / triúr / ceathrar / cúigear deirfiúr atá agam.	I have one / two / three / four / five sisters.				
+		Níl deartháir nó deirfiúr atá agam.	I don't have any brothers or sisters.				
+		Is páiste aonair mé.	I'm an only child.				
+		Is leathchúpla mé.	I'm a twin.				
+		Cad é an t-ainm atá air / uirthi?	What is his / her name?				
+		… an t-ainm atá air / uirthi.	… is his / her name.				
+My House		Cén sórt tí atá agat?	What sort of house do you have?				
+		Tá … agam.	I have a _____.				
+		Is … é.	It's a _____.				
+							
+		teach dhá urlár	two-storey house				
+		bungaló	bungalow				
+		árasán	apartment				
+		teach leathscoite	semi-detached house				
+		teach scoite	detached house				
+		teach sraithe	terrace housing				
+		teachín	cottage				
+		teach feirme	farmhouse				
+		carbhán	caravan				
+		caisleán	castle				
+							
+		Cá mhéad seomra atá i do theach?	How many rooms are in your house?				
+		Tá … seomra i mo theach.	There are _____ rooms in my house.				
+		I mo theach, tá … ann.	In my house, there is (a) … there.				
+		Thuas staighre, tá…	Upstairs. there is…				
+		Thíos staighre, tá…	Downstairs, there is…				
+							
+		Áiteanna i mo theach	Places in my house				
+							
+		an chistin	the kitchen				
+		an seomra leapa / codlata	the bedroom				
+		an seomra folctha	the bathroom				
+		an seomra bia	the dining room				
+		an seomra suí	the sitting room				
+		an halla (iontrála)	the (entrance) hall				
+		an leithreas	the toilet				
+		an seomra staidéir	the study				
+		an seomra gréine / grianán	the sun room / conservatory				
+		staighre	stairs				
+		seomra	room				
+		dhá sheomra	two rooms				
+		trí sheomra	three rooms				
+		ceithre sheomra	four rooms				
+		cúig sheomra	five rooms				
+		sé sheomra	six rooms				
+		seacht seomra	seven rooms				
+		ocht seomra	eight rooms				
+		naoi seomra	nine rooms				
+		deich seomra	ten rooms				
+		aon seomra dhéag	eleven rooms				
+Hobbies and Interests		Caithimh aimsire	Pastimes				
+		Spóirt agus aclaíocht	Sports and exercise				
+		Spóirt eile	Other sports				
+		Siamsaíocht agus cultúr	Entertainment and culture				
+							
+		peil Ghaelach	Gaelic football				
+		sacar	soccer				
+		rugbaí	rugby				
+		eitpheil	volleyball				
+		snámh	swimming				
+		leadóg	tennis				
+		dornálaíocht	boxing				
+		rothaíocht	cycling				
+		reathaíocht	running				
+		dreapadóireacht	climbing				
+		líonpheil	netball				
+		cispheil	basketball				
+		iománaíocht / iomáint	hurling				
+		camógaíocht	camogie				
+		cluiche corr	rounders				
+		liathróid láimhe	handball				
+		marcaíocht capail	horseriding				
+		aclaíocht	athletics				
+		damhsa Gaelach	Irish dancing				
+		sciáil	skiing				
+		scátáil	skating				
+		clársciáil	snowboarding				
+		surfáil	surfing				
+		seoltóireacht	sailing				
+		iascaireacht	fishing				
+							
+		ceol	music				
+		damhsa / rince	dance				
+		péinteáil	painting				
+		drámaíocht	theatre				
+		teilifís	TV				
+		ealaíona agus ceardaíocht	arts and crafts				
+		cluichí ríomhaire	computer games				
+		cluichí cláir	board games				
+		raidió	radio				
+		Cad iad na caithimh aimsire atá agat?	What pastimes do you have?				
+		Cad iad na súimeanna atá agat?	What interests do you have?				
+		Is maith liom …	I like …				
+		Ní maith liom …	I don't like …				
+		Ní miste liom …	I don't mind …				
+		Is breá liom …	I love …				
+		Is fuath liom …	I hate …				
+		Is fearr liom…	I prefer …				
+		Tá suim / spéis agam i / sa…	I have an interest in…				
+		Caithim a lán ama…	I spend a lot of time…				
+		Is maith liom a bheith ag déanamh…	I like to be doing…				
+							
+		Éistim le ceol.	I listen to music.				
+		Amharcaim ar an teilifís.	I watch TV.				
+		Téim go dtí an phictiúrlann.	I go to the cinema.				
+		Imrím cluichí ríomhaire.	I play computer games.				
+		Déanaim cócaráil.	I cook.				
+		Seinnim m'uirlis i mbanna ceoil.	I play my instrument in a music group.				
+		Ligim mo scíth.	I relax.				
+Pets and Animal		An bhfuil peata agat?	Do you have a pet?				
+		Tá peata agam.	I do have a pet.				
+		Níl peata agam.	I don't have a pet.				
+		Cén t-ainm atá air/uirthi?	What's his/her name?				
+		Pangur an t-ainm atá air/uirthi.	What's his/her name?				
+		Cén sórt peata é/í?	What type of pet is he/she?				
+		Is … é/í.	He/she's a …				
+		Is madadh é.	He's a dog.				
+		Is cat í.	She's a cat.				
+							
+		Tá $ANIMAL agam.	I have a $ANIMAL.				
+		madadh	dog				
+		cat	cat				
+		coinín	rabbit				
+		hamstar	hamster				
+		capall	horse				
+		iasc órga	goldfish				
+		nathair	snake				
+		toirtís	tortoise				
+		muc ghuine	guinea pig				
+		pearóid	parrot				
+							
+		Ar an fheirm					
+							
+		muc	pig				
+		bó	cow				
+		cearc	hen				
+		asal	donkey				
+		caora	sheep				
+		gabhar	goat				
+							
+		Ag an zú					
+							
+		tíogar	tiger				
+		eilifint	elephant				
+		srónbheannach	rhino				
+		rón	seal				
+		síota	cheetah				
+		moncaí	monkey				
+		piongain	penguin				
+		leon	lion				
+Celebrations and Festivals		Lá na Bliana Úire	New Year's Day (1st January)				
+		Lá Fhéile Bríde	St. Brigid's Day (1st February)				
+		Máirt Inide	Shrove Tuesday				
+		Lá Fhéile Vailintín	Valentine's Day (14th February)				
+		Lá Fhéile Pádraig	St. Patrick's Day (17th March)				
+		Lá na Máthaireacha	Mother's Day				
+		Lá na hAmadán	April Fool's Day (1st April)				
+		Aoine an Chéasta	Good Friday				
+		Domhnach Cásca	Easter Sunday				
+		Lá na nAithreacha	Father's Day				
+		Oíche Shamhna	Halloween				
+		Oíche Nollag	Christmas Eve				
+		Lá Nollag	Christmas Day				
+		Lá Fhéile Stiofáin	St. Stephen's Day (26th December)				
+							
+		cárta	card				
+		beart	parcel				
+		brat	flag				
+		coinneal	candle				
+		tinte ealaíne	fireworks				
+		tine chnámh	bonfire				
+		bronntanas	gift / present				
+		paráid / mórshiúl	parade				
+		slua / scaifte	crowd				
+		siamsaíocht	entertainment				
+							
+		féile	festival				
+		ceiliúradh	celebration				
+		fleá ceoil	music festival				
+		breithlá / lá breithe	birthday				
+		cóisir	party				
+		cóisir bhreithlae	birthday party				
+		gealltanas pósta	engagement				
+		pósadh / bainis	wedding				
+		mí na meala	honeymoon				
+		baisteadh	christening				
+		bás	death				
+		faire / tórramh	wake				
+		sochraid	funeral				

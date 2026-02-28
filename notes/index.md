@@ -2,13 +2,404 @@
 
 ## Grammar
 
-* [Alphabet](alphabet.md)
-* [Sounds](sounds.md)
-* [Personal and Prepositional Pronouns](personal-and-prepositional-pronouns.md)
+### An Aibítir | Alphabet
+
+| Irish      | English      | Phonetic      | Sound | Info |
+| ---------- | ------------ | ------------- | ----- | ---- |
+| An Aibítir | The Alphabet | an a-bit-chur |       |      |
+
+* similar to English
+* doesn't have - j,k,q,v,w,x,y,z:
+  * j,k
+  * q
+  * v,w,x,y,z
+* sometimes loan words have these
+    * jab == job
+    * veain == van
+* 18 letters - a, b, c, d, e, f, g, h, i, l, m, n, o, p, r, s, t, u
+  * a, b, c, d, e, f, g, h, i
+  * l, m, n, o, p
+  * r, s, t, u
+* fada on a vowel lengthens the sound
+* á, é, í, ó, ú - síneadh fada
+* jollyphonics https://www.youtube.com/watch?v=us2E71mdcJA
+* a o u = broad
+* e i = slender
+
+### Sounds
+
+https://www.youtube.com/watch?v=oIokUII7LX0&t=8s
+
+#### Vowels
+
+vowels
+a e i o u
+
+leathan = broad
+a o u
+
+caol = slender
+e i
+
+
+tae - t is broad
+te - t is slender
+cuirtín - c is broad; r, t, n are all slender
+
+last "ar" in these sound slightly different
+ceathrar
+a ceathair
+
+
+most important to learn first:
+* broad s = normal s
+    * ssss
+* slender s Síle, mise, anois 
+    * sounds like sh e.g. show, fish
+* broad t = normal t
+* slender t te, leite, Cait 
+    * sounds like ch e.g. chin, rich
+* broad d = normal d
+* slender d Dia, cuidiú, leid 
+    * sounds like j e.g. j Joe, vigil, ledge
+* broad l = normal l
+* slender l Liam, baile, peil 
+    * sounds like lj e.g. million, will you
+* broad n = normal n
+* slender n níl, slionne 
+    * sounds like nj e.g. sinew minion
+
+vowel combinations
+
+ae / e sounds like tay - tae, laethanta
+ao / i sounds like see - Aodh, caol
+aoi / i sounds like me - aoi, saoirse
+ea sounds like apple - eala, das
+ei sounds like meh - eisean, ceimic
+-eadh - deireadh, cuireadh sounds like meh or ooh (ULSTER) depending on dialect
+eo /o sounds like no  - Eoin, ceol, beo
+
+future tense endings (silent f):
+-faidh /i sounds like see - tiocfaidh
+-fidh /i sounds see - feicfidh
+
+ia sounds like deal - bia, pian (bee-a, pee-an)
+ua / dual - fuach (foo-ah)
+io, oi, ui sounds like fit (usually) - gliondar, glione, duine
+
+
+#### Fadas
+* síneadh fada???
+* accent on vowels
+* a | hata, mac | father, spa| english "a"
+* á | tá, bád | call, far| english "aw"
+* e | ceist, de | tell, get| english "eh"
+* é | cé, éist | bait, pay| english "ay"
+* i | ith, duine, i | in hit| english "ih"
+* í | Síle, trí, íseal| tree, mean, he| english "ee"
+* o | olc, deoch | tug, under| english "uh"
+* ó | ól, bóthar| roll, toe, road| english "oh"
+* u | dubh, fluich | good, pull| english "u"
+* ú | tú, cúpla | too, rude| english "oo"
+
+#### Séimhuí (shayvoo)
+
+* means softening or aspiration/lenition
+* put h after a constenant
+* used to be indicated by a dot above the letter
+* can happen anywhere in a word - beginning, middle, end
+* the way in which it changes the pronunciation of the consenant depends if the consenant is broad or slender
+
+| --- | ---                             | ---                         |
+| c-t | b-----------------------------u | s-------------------------i |
+| --- | ---                             | ---                         |
+| b   | w = bhain, abhaile, dabht, gabh | v = abheith, leibhéal, sibh |
+| c   | k?? = cchomh, nócha, nach       | hue? = cheist, fiche, deich |
+| d   | throaty huc = dhún              | j= ardheireadh, a Dhia      |
+| f   | silent fh = an fhuain           | silent fh = an fhéile       |
+| g   | throaty g = ghasúr, ghlór       | ye = mo ghile               |
+| h   |                                 |                             |
+| l   |                                 |                             |
+| m   | w = mhaith                      | v= nimh                     |
+| n   |                                 |                             |
+| p   | f = pholl                       | f = an pheil                |
+| r   |                                 |                             |
+| s   | h = shona                       | h = sheinn muid             |
+| t   | h = ní thuigim                  | h = trí thine               |
+
+
+* patterns
+    * b and m both turn to the same sounds when you apply séimhiú
+    * d and g ...
+    * s and t sound like h
+    * p always becomes f
+    * f always becomes silent
+    * c with its german sounds ach and ich
+
+
+#### Úrú
+
+* eclipse, eclipses or nasalisation
+* it only happens at the beginning of a word
+* inserts a letter before the first letter of the word and you'll pronounce that new letter instead
+
+
+| word begins with | úrú adds | looks like | sounds like (broad/slender) | examples(broad/slender)       |
+| ---------------- | -------- | ---------- | --------------------------- | ----------------------------- |
+| b                | m        | mb         | moo?                        | i mBéal Feirste               |
+| c                | g        | gc         | goo                         | i gCorcaigh                   |
+| d                | n        | nd         | not/sinew                   | i nDoire/i ndiaidh            |
+| f                | bh       | bhf        | woo/vein                    | and bfhuil tú/i bhFear Manach |
+| g                | n        | ng         | wing                        | i nGaillimh                   |
+| h,l,m,n          |          |            |                             |                               |
+| p                | bp       | boy        |                             | i bPáras                      |
+| r                |          |            |                             |                               |
+| t                | d        | dt         | do/jet                      | i dTrá Lí/ár dteach           |
+
+patterns:
+* only at beginning of word
+* eclipses first letter of a word
+* voiceless stops getting voiced - c=>g, p=>b, t=>d 
+* also called nasalisation - b=>m, d=>n, g=>ng
+* can't apply to h,l,m,n,r
+
+### Personal and prepositional pronouns
+
+Taken from https://www.bbc.co.uk/bitesize/topics/zjbt7yc/articles/zbhgf82
+
+#### What is a pronoun?
+
+A pronoun is a word that is used to take the place of nouns in a sentence. Some personal pronouns in English include I, me, you, he, she, we or they.
+
+Here are a list of pronouns used in Irish.
+
+| Irish       | English        | Phonetic | Sound | Info |
+| ----------- | -------------- | -------- | ----- | ---- |
+| mé          | I              |          |       |      |
+| tú          | you (singular) |          |       |      |
+| sé / é      | he, him, it    |          |       |      |
+| sí / í      | she, her, it   |          |       |      |
+| sinn / muid | we, us         |          |       |      |
+| sibh        | you (plural)   |          |       |      |
+| siad / iad  | they, them     |          |       |      |
+
+
+There are also certain forms of these pronouns called emphatic forms.
+
+These are used when you want to place emphasis on the personal pronoun.
+
+| Irish                                                          | English                                                     | Phonetic | Sound | Info |
+| -------------------------------------------------------------- | ----------------------------------------------------------- | -------- | ----- | ---- |
+| mise                                                           | me, myself                                                  |          |       |      |
+| tusa                                                           | you, yourself                                               |          |       |      |
+| Is **mise** Antaine agus is **mise** an duine is sine sa rang. | **I'm** Antaine and **I'm** the oldest person in the class. |          |       |      |
+
+##### Posessive pronouns
+
+| Irish                     | English        | Phonetic | Sound | Info |
+| ------------------------- | -------------- | -------- | ----- | ---- |
+| mo / m’ (before vowels)   | MY             |          |       |      |
+| do / d’ (before vowels)   | YOUR           |          |       |      |
+| a                         | HIS / ITS      |          |       |      |
+| a (add “h” before vowels) | HERS           |          |       |      |
+| ár                        | OURS           |          |       |      |
+| bhur                      | YOURS (plural) |          |       |      |
+| a                         | THEIRS         |          |       |      |
+
+#### Prepositional pronouns
+
+As a reminder, prepositions are words in a language which tell you more about where something is - for example, under, with, or on in English.
+
+In Irish, when a preposition and a pronoun come together, they are combined into what is called a prepositional pronoun. For example - le means with, and mé means me. In English this would go together as with me - but in Irish le mé becomes liom.
+
+Below are all the prepositional pronouns and their different forms you should learn.
+
+It can be difficult to remember all the different prepositional pronouns - but just be patient with yourself and test yourself often!
+
+"Cleachtadh a dhéanann maistreacht…" - practice makes perfect!
+
+##### ag - at
+
+| Irish  | English           | Phonetic | Sound | Info |
+| ------ | ----------------- | -------- | ----- | ---- |
+| agam   | at me             |          |       |      |
+| agat   | at you (singular) |          |       |      |
+| aige   | at him            |          |       |      |
+| aici   | at her            |          |       |      |
+| againn | at us             |          |       |      |
+| agaibh | at you (plural)   |          |       |      |
+| acu    | at them           |          |       |      |
+
+##### ar - on
+
+| Irish  | English           | Phonetic | Sound | Info |
+| ------ | ----------------- | -------- | ----- | ---- |
+| orm    | on me             |          |       |      |
+| ort    | on you (singular) |          |       |      |
+| air    | on him            |          |       |      |
+| uirthi | on her            |          |       |      |
+| orainn | on us             |          |       |      |
+| oraibh | on you (plural)   |          |       |      |
+| orthu  | on them           |          |       |      |
+
+##### le - with
+
+| Irish | English             | Phonetic | Sound | Info |
+| ----- | ------------------- | -------- | ----- | ---- |
+| liom  | with me             |          |       |      |
+| leat  | with you (singular) |          |       |      |
+| leis  | with him            |          |       |      |
+| léi   | with her            |          |       |      |
+| linn  | with us             |          |       |      |
+| libh  | with you (plural)   |          |       |      |
+| leo   | with them           |          |       |      |
+
+##### as - out of, from
+
+| Irish  | English             | Phonetic | Sound | Info |
+| ------ | ------------------- | -------- | ----- | ---- |
+| asam   | from me             |          |       |      |
+| asat   | from you (singular) |          |       |      |
+| as     | from him            |          |       |      |
+| aisti  | from her            |          |       |      |
+| asainn | from us             |          |       |      |
+| asaibh | from you (plural)   |          |       |      |
+| astu   | from them           |          |       |      |
+
+##### chuig - to
+
+| Irish    | English           | Phonetic | Sound | Info |
+| -------- | ----------------- | -------- | ----- | ---- |
+| chugam   | to me             |          |       |      |
+| chugat   | to you (singular) |          |       |      |
+| chuige   | to him            |          |       |      |
+| chuici   | to her            |          |       |      |
+| chugainn | to us             |          |       |      |
+| chugaibh | to you (plural)   |          |       |      |
+| chucu    | to them           |          |       |      |
+
+##### do - for
+
+| Irish  | English            | Phonetic | Sound | Info |
+| ------ | ------------------ | -------- | ----- | ---- |
+| dom    | for me             |          |       |      |
+| duit   | for you (singular) |          |       |      |
+| dó     | for him            |          |       |      |
+| di     | for her            |          |       |      |
+| dúinn  | for us             |          |       |      |
+| daoibh | for you (plural)   |          |       |      |
+| dóibh  | for them           |          |       |      |
+
+##### faoi - under
+
+| Irish  | English              | Phonetic | Sound | Info |
+| ------ | -------------------- | -------- | ----- | ---- |
+| fúm    | under me             |          |       |      |
+| fút    | under you (singular) |          |       |      |
+| faoi   | under him            |          |       |      |
+| fúithí | under her            |          |       |      |
+| fúinn  | under us             |          |       |      |
+| fúibh  | under you (plural)   |          |       |      |
+| fúthu  | under them           |          |       |      |
+
+##### de - of
+
+| Irish | English           | Phonetic | Sound | Info |
+| ----- | ----------------- | -------- | ----- | ---- |
+| díom  | of me             |          |       |      |
+| díot  | of you (singular) |          |       |      |
+| de    | of him            |          |       |      |
+| di    | of her            |          |       |      |
+| dínn  | of us             |          |       |      |
+| díbh  | of you (plural)   |          |       |      |
+| díobh | of them           |          |       |      |
+
+##### i - in
+
+| Irish   | English           | Phonetic | Sound | Info |
+| ------- | ----------------- | -------- | ----- | ---- |
+| ionam   | in me             |          |       |      |
+| ionat   | in you (singular) |          |       |      |
+| ann     | in him            |          |       |      |
+| inti    | in her            |          |       |      |
+| ionainn | in us             |          |       |      |
+| ionaibh | in you (plural)   |          |       |      |
+| iontu   | in them           |          |       |      |
+
+##### idir - between
+
+| Irish    | English              | Phonetic | Sound | Info |
+| -------- | -------------------- | -------- | ----- | ---- |
+| -        | -                    |          |       |      |
+| -        | -                    |          |       |      |
+| -        | -                    |          |       |      |
+| -        | -                    |          |       |      |
+| eadrainn | between us           |          |       |      |
+| eadraibh | between you (plural) |          |       |      |
+| eatarthu | between them         |          |       |      |
+
+##### ó - from
+
+| Irish  | English             | Phonetic | Sound | Info |
+| ------ | ------------------- | -------- | ----- | ---- |
+| uaim   | from me             |          |       |      |
+| uait   | from you (singular) |          |       |      |
+| uaidh  | from him            |          |       |      |
+| uaithi | from her            |          |       |      |
+| uainn  | from us             |          |       |      |
+| uaibh  | from you (plural)   |          |       |      |
+| uathu  | from them           |          |       |      |
+
+##### roimh - before
+
+| Irish    | English               | Phonetic | Sound | Info |
+| -------- | --------------------- | -------- | ----- | ---- |
+| romham   | before me             |          |       |      |
+| romhat   | before you (singular) |          |       |      |
+| roimhe   | before him            |          |       |      |
+| roimpi   | before her            |          |       |      |
+| romhainn | before us             |          |       |      |
+| romhaibh | before you (plural)   |          |       |      |
+| rompu    | before them           |          |       |      |
+
+##### thar - over, past
+
+| Irish    | English             | Phonetic | Sound | Info |
+| -------- | ------------------- | -------- | ----- | ---- |
+| tharam   | over me             |          |       |      |
+| tharat   | over you (singular) |          |       |      |
+| thairis  | over him            |          |       |      |
+| thairsti | over her            |          |       |      |
+| tharainn | over us             |          |       |      |
+| tharaibh | over you (plural)   |          |       |      |
+| tharstu  | over them           |          |       |      |
+
+##### trí - through, by
+
+| Irish   | English                | Phonetic | Sound | Info |
+| ------- | ---------------------- | -------- | ----- | ---- |
+| tríom   | through me             |          |       |      |
+| tríot   | through you (singular) |          |       |      |
+| tríd    | through him            |          |       |      |
+| tríthi  | through her            |          |       |      |
+| trínn   | through us             |          |       |      |
+| tríbh   | through you (plural)   |          |       |      |
+| tríothu | through them           |          |       |      |
 
 ## Common
 
-* [Places](places.md)
+### Places
+
+#### Provinces in Ireland
+
+![Map](https://i.redd.it/ainw8jtnz52d1.jpeg)
+
+#### Counties
+
+![Map](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ireland_trad_counties_named.svg/400px-Ireland_trad_counties_named.svg.png)
+
+
+[vocab.csv](vocab.csv#Places)
 
 ## Irish on your own/Now you're talking
 
@@ -392,7 +783,25 @@ When people are saying goodbye they'll often mention when they'll see you again.
 
 ### Unit 13
 
-* [Family (extended)](family.md#extended-family-vocabulary)
+#### Family 2
+
+INTRODUCING FAMILY MEMBERS AND RELATIVES
+
+
+Mo chuid is used instead of mo by itself when
+- an unspecified or indefinite mass or quantity is being referred to:
+
+- an unspecified number of people is being referred to:
+
+
+You learnt earlier that the numbers 2-6 cause a séimhiú in words beginning with a consonant and the numbers 7-10 cause an urú. Bliain, however, is irregular and doesn't follow all the usual rules. Keep this pattern in mind:
+
+1 year	2 years	3-6 years	7-10 years
+bliain	dhá bhliain	... bliana	... mbliana
+
+
+[vocab.csv](vocab.csv#Family2)
+
 
 ### Unit 14
 # Daily routine
@@ -435,14 +844,66 @@ trasna ón siopa
 
 [vocab.csv](vocab.csv#location+movement)
 
-### Bitsize KS3
+### Bitesize KS3
+
+#### Feelings
+* use orm (=on me) when talking about feelings and emotions
+* Orm is the prepositional pronoun for on me. In Irish, we describe feelings and emotions being "on" someone.
+* Learn more about prepositional pronouns [here](../../core/Personal%20and%20prepositional%20pronouns.md)
+* Learn more about prepositions https://www.bbc.co.uk/bitesize/topics/zjbt7yc/articles/zt9mdp3
+* We can change who is experiencing the feeling or emotion by changing the prepositional pronoun ar. (below)
 
 * [Feelings](feelings.md)
+
+#### Personal Traits
+Related https://www.bbc.co.uk/bitesize/topics/zjbt7yc/articles/zbhgf82
+
+
 * [Personal Traits](personal-traits.md)
 * [Personality Traits](personality-traits.md)
+
+#### Dates
+When talking about what you do on days of the week, for example I will see you on Tuesday , take away an and replace it with Dé. This also changes the spelling of the days in Irish.
+
+The only day that doesn't need a Dé in front of is Thursday - An Déardaoin - because it already has Dé in the word!
+
 * [Dates](dates.md)
+
+#### Colours
+In Irish, when saying what the colour of something is, you usually say the colour is on something, by using the preposition ar.
+
+Tá dath gorm air. - It is blue. (The colour blue is on it.)
+
+Tá dath dearg uirthi. - It is red. (The colour red is on it.)
+
+You may have noticed that there are two ways above to say 'on it' in Irish.
+
+In Irish, nouns have genders - they can either be masculine or feminine.
+
+The form of ar to use depends on whether the word is masculine (air) or feminine (uirthi). You can find out a noun's gender by looking in the dictionary.
+
+If you're unsure whether the noun is masculine or feminine, you can always use ar followed by the article (an or na) and the noun. Remember to follow the rules about prepositions and articles when doing this.
+
+Cén dath atá ar an charr? - What colour is the car? (What colour is on the car?)
+
+Tá dath buí ar an charr. - The car is yellow. (The colour yellow is on the car.)
+
 * [Colours](colours.md)
 * [Family](family.md)
+
+#### My House
+
+
+* When counting in Irish and using a noun there are a few things to remember.
+dó changes to dhá
+ceathair changes to ceithre
+for the numbers 1 to 6, you aspirate or add a séimhiú
+for the numbers 7 to 10, you eclipse or add an urú
+As a reminder, the consonant s doesn't take an urú - so we don't add anything in front of the word seomra when counting from 7 to 10.
+
+
+document https://www.bbc.co.uk/bitesize/topics/zw36qfr/articles/z62tqfr for counting
+
 * [My house](my_house.md)
 * [Hobbies and interests](hobbies_and_interests.md)
 * [Pets and Animals](pets_and_animals.md)
