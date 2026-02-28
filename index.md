@@ -2,7 +2,7 @@
 
 ## Vocab
 
-[vocab.md](https://michaelw730.github.io/irish/vocab.html)
+[vocab](https://michaelw730.github.io/irish/vocab.html)
 
 ## Grammar
 
