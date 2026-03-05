@@ -409,7 +409,7 @@ It can be difficult to remember all the different prepositional pronouns - but j
 
 ### Various
 
-* [Greetings](greetings-etc.md)
+[vocab.csv](vocab.csv#Greetings)
 
 ### Unit 1
 
@@ -441,7 +441,7 @@ The words mé and tú are called pronouns and are used when you don't need to or
   * Ó - grandson
   * if family surname = Mac, girls and unmarried women have Nic (daughter of) at the beginning, and married women can have Bean Mhic or Mhic (wife of)
 
-[Alphabet](alphabet.md)
+[Alphabet](index.md#an-aibítir--alphabet)
 [vocab.csv](vocab.csv#Inroductions)
 
 #### Family Basic
