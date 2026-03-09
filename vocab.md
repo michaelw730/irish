@@ -14,18 +14,18 @@
 | Various | Greetings etc |  | beannachtaí | Greetings |  |  | baan-ak-tee |
 | Various | Greetings etc |  | Slán! | Goodbye. |  | Safe/Health | slawn or slen |
 | Various | Greetings etc |  | Slán go fóill | Goodbye for now |  |  | Slaawn guh foil?? |  | Only say Slán after this as response |
-| Various | Greetings etc |  | Slán leat | Goodbye to you (s) |  | may safety or health be with you |
-| Various | Greetings etc |  | Slán libh | Goodbye to you (p) |
+| Various | Greetings etc |  | Slán leat | Goodbye to you | s | may safety or health be with you |
+| Various | Greetings etc |  | Slán libh | Goodbye to you | p |
 | Various | Greetings etc |  | Slán abhaile | Safe home |
-| Various | Greetings etc |  | Ádh mór | Good luck [big luck] |  |  | aw more |
-| Various | Greetings etc |  | Ádh mór ort | Good luck to you (s) |  | big luck on you |
-| Various | Greetings etc |  | Ádh mór oraibh | Good luck to you (p) |
+| Various | Greetings etc |  | Ádh mór | Good luck  |  | big luck | aw more |
+| Various | Greetings etc |  | Ádh mór ort | Good luck to you | s | big luck on you |
+| Various | Greetings etc |  | Ádh mór oraibh | Good luck to you | p |
 | Various | Greetings etc |  | Chífidh mé tú. | I'll see you. |  |  |  |  | tú or thú??? |
 | Various | Greetings etc |  | Feicfidh mé arís thú. | I'll see you again. |  |  | Fecky may arish hu |
-| Various | Greetings etc |  | Feicfidh mé amárach thú. | I'll see you tomorrow. |  |  | Fecky may amarach hu |
-| Various | Greetings etc |  | arís. | again. |
-| Various | Greetings etc |  | le do thoil (s) | please |  |  | le de hull |
-| Various | Greetings etc |  | le bhur dtoil (p) | please |  |  | le wer dul |
+| Various | Greetings etc |  | Feicfidh mé amárach thú | I'll see you tomorrow. |  |  | Fecky may amarach hu |
+| Various | Greetings etc |  | arís | again. |
+| Various | Greetings etc |  | le do thoil | please | s |  | le de hull |
+| Various | Greetings etc |  | le bhur dtoil | please | p |  | le wer dul |
 | Various | Greetings etc |  | Gabh mo leithscéal | Excuse me |
 | Various | Greetings etc |  | Fan bomaite | Wait a minute |
 | Various | Greetings etc |  | Tóg go bog é | Take it easy |  |  | Toe-g geh bow-g eh |
@@ -33,8 +33,8 @@
 | Various | Greetings etc |  | Tá fáilte romhat | you're welcome |  | There is a welcome for / before you |
 | Various | Greetings etc |  | Comhghairdeas | Congratulations |  |  | co-hard-yes |
 | Various | Greetings etc |  | Comhghairdeachas | Congratulations |  |  | co-hard-ye-has |  |  (Ulster??) |
-| Various | Greetings etc |  | AONAD 1 | Unit 1 |  |  | Ay-nid a hein |
-| Various | Greetings etc |  | níl a fhios agam | I don't know |  |  | neil us agam |
+| Various | Greetings etc |  | Aonad 1 | Unit 1 |  |  | Ay-nid a hein |
+| Various | Greetings etc |  | Níl a fhios agam | I don't know |  |  | neil us agam |
 | Various | Greetings etc |  | Tá a fhios agam | I know |  |  | Ta us agam |
 | Various | Greetings etc |  | freagair | reply/answer |  |  | freggar |
 | Various | Greetings etc |  | cur Gaeilge air? | What's irish for? |
@@ -42,7 +42,7 @@
 | Various | Greetings etc |  | Sin deireadh le aonad | That's the end of unit... |  |  | Sin djeroo le ay-nid... |
 | Various | Greetings etc |  | sparán | purse |  |  | sparaan |
 | Various | Greetings etc |  | go dtí sin | until then |
-| Various | Greetings etc |  | cluiche fichille? | Chess game? |  |  |  | Clee-ha feel-a |
+| Various | Greetings etc |  | cluiche fichille? | Chess game? |  |  | Clee-ha feel-a |
 | Various | Greetings etc |  | lá breithe shona | happy birthday |  |  | laa brayha |
 | Various | Greetings etc |  | lá breithe shona duit | happy birthday to you |
 | Various | Greetings etc |  | Béal Feirste | Belfast |  |  | bell firstye |  | mouth of the river farset |
@@ -59,11 +59,11 @@
 |---|---|---|---|---|---|---|---|---|---|
 | NYT | Meeting People |  | duine | person |  |  | dinye |
 | NYT | Meeting People |  | daoine | people |  |  | deeny |
-| NYT | Meeting People |  | Ag bualadh le daoine | Meeting people |  | meeting with people?? | Ag Bwayla le deeny |  | Literally - |
+| NYT | Meeting People |  | Ag bualadh le daoine | Meeting people |  | meeting with people?? | Ag Bwayla le deeny |
 | NYT | Meeting People |  | Haló | Hello |
-| NYT | Meeting People |  | Cad é mar atá tú? | How are you? (s) |  |  |  |  | This greeting is sometimes preceded by Haló. |
-| NYT | Meeting People |  | Cad é mar atá sibh? | How are you? (p) |
-| NYT | Meeting People |  | Cad é mar atá tú inniu? | How are you today? (s) |
+| NYT | Meeting People |  | Cad é mar atá tú? | How are you? | s |  |  |  | This greeting is sometimes preceded by Haló. |
+| NYT | Meeting People |  | Cad é mar atá sibh? | How are you? | p |
+| NYT | Meeting People |  | Cad é mar atá tú inniu? | How are you today? | s |
 | NYT | Meeting People |  | Go maith | Well |
 | NYT | Meeting People |  | Á, go maith | Ah, well |
 | NYT | Meeting People |  | Go breá | fine |  |  | go brea |
@@ -82,8 +82,8 @@
 | NYT | Meeting People |  | Níl caill orm | I am not too bad (or There's no loss upon me) |
 | NYT | Meeting People |  | Agus tú féin? | And yourself? |  |  | Agus tu hain? |
 | NYT | Meeting People |  | Is maith sin | That's good/great |
-| NYT | Meeting People |  | Go raibh maith agat | Thank you (s) |
-| NYT | Meeting People |  | Go raibh maith agaibh | Thank you (p) |
+| NYT | Meeting People |  | Go raibh maith agat | Thank you | s |
+| NYT | Meeting People |  | Go raibh maith agaibh | Thank you | p |
 | NYT | Meeting People |  | Go raibh céad maith agat | Thank you very much |
 | NYT | Meeting People |  | Go raibh míle maith agat | Thank you very much |
 | NYT | Meeting People |  | Céad míle fáilte | Hundred thousand welcomes |
@@ -143,13 +143,13 @@
 
 | Program | Topic | Type | Irish | Meaning | S/P | Literal Meaning | Phonetic | Sound | Info |
 |---|---|---|---|---|---|---|---|---|---|
-| NYT | Introductions |  | CUR IN AITHNE | INTRODUCTIONS |  |  | cur in an-yuh |
+| NYT | Introductions |  | Cur in aithne | Introductions |  |  | cur in an-yuh |
 | NYT | Introductions |  | ainm | Name |
 | NYT | Introductions |  | sloinne | surname |  |  | slin-you |
 | NYT | Introductions |  | sloinnte | surnames |
-| NYT | Introductions |  | Cad é an t-ainm atá ort? | What is your name? [What name is on you?] |
+| NYT | Introductions |  | Cad é an t-ainm atá ort? | What is your name? [] |  | What name is on you? |
 | NYT | Introductions |  | Cad é an t-ainm atá ort féin? | What is your own name? |
-| NYT | Introductions |  | >$NAME an t-ainm atá orm. | My name is $NAME [$NAME is the name on me] |
+| NYT | Introductions |  | >$NAME an t-ainm atá orm. | My name is $NAME |  | $NAME is the name on me |
 | NYT | Introductions |  | Cé thusa? | Who are you? |  |  | Kay husa? |
 | NYT | Introductions |  | >Is mise $NAME | I am $NAME |
 | NYT | Introductions |  | >Mise $NAME | I'm $NAME |
@@ -158,10 +158,10 @@
 | NYT | Introductions |  | C'ainm atá ort? | What's your name? |
 | NYT | Introductions |  | C'ainm atá ortsa? | What's *your* name? |
 | NYT | Introductions |  | >$NAME |  |  |  |  |  | Usually just the surname |
-| NYT | Introductions |  | Cé seo? | Who's this? (one person) |
-| NYT | Introductions |  | Cé hiad seo? | Who's this? (more than one person) Who are these? |
+| NYT | Introductions |  | Cé seo? | Who's this? |  | s |
+| NYT | Introductions |  | Cé hiad seo? | Who's this? Who are these? |  | p |
 | NYT | Introductions |  | Seo $NAME | This is $NAME |
-| NYT | Introductions |  | Cé hiad sin? | Who are they/those? (more than one person) |
+| NYT | Introductions |  | Cé hiad sin? | Who are they/those? |  | p |
 | NYT | Introductions |  | Cé hé sin? | Who is he? |
 | NYT | Introductions |  | > Sin (é) $NAME. | He is $NAME. |
 | NYT | Introductions |  | Cé mise? | Who am I? |
@@ -198,8 +198,8 @@
 | NYT | Family Basic |  | iníonacha | daughters |
 | NYT | Family Basic |  | mac | son |  |  | mawck |
 | NYT | Family Basic |  | céile | spouse |  |  | kayla |
-| NYT | Family Basic |  | fear céile | husband [man spouse] |  |  | far kayla |
-| NYT | Family Basic |  | bean chéile | wife [woman spouse] |  |  | ban hayla |
+| NYT | Family Basic |  | fear céile | husband |  | man spouse | far kayla |
+| NYT | Family Basic |  | bean chéile | wife |  | woman spouse | ban hayla |
 
 ## NYT - Family Extended
 
@@ -251,7 +251,7 @@
 | NYT | Person Background |  | Is as Dún Geanainn mé. | I'm from Dungannon. |
 | NYT | Person Background |  | As Léim an Mhadaidh. | From Limavady. |
 | NYT | Person Background |  | Cá bhfuil tú? | Where are you? |
-| NYT | Person Background |  | Cá bhfuil tú i do chónaí? | Where do you live? (literal: where are you in your living?) |
+| NYT | Person Background |  | Cá bhfuil tú i do chónaí? | Where do you live? |  | where are you in your living? |
 | NYT | Person Background |  | Tá mé i mo chónaí i(n)... | I live in... |
 | NYT | Person Background |  | Tá mé i mo chónaí in Aontroim. | I live in Antrim. |
 | NYT | Person Background |  | Tá mé i mo chónaí i nDún Geanainn. | I live in Dungannon. |
@@ -532,7 +532,7 @@
 | Program | Topic | Type | Irish | Meaning | S/P | Literal Meaning | Phonetic | Sound | Info |
 |---|---|---|---|---|---|---|---|---|---|
 | NYT | Languages |  | AG PLÉ TEANGACHA | DISCUSSING LANGUAGES |  |  | tchangaha?? |
-| NYT | Languages |  | An bhfuil ... agat? | Can you speak ...? (literally, Have you ...?) |
+| NYT | Languages |  | An bhfuil ... agat? | Can you speak ...? |  | Have you ...? |
 | NYT | Languages |  | An bhfuil Gaeilge agat? | Can you speak Irish? |
 | NYT | Languages |  | An bhfuil Fraincis agat? | Can you speak French? |
 | NYT | Languages |  | teanga | a language |  |  | tchangy?? |
@@ -619,8 +619,8 @@
 | NYT | Expressing Opinions |  | a dhul chuig scannáin. | go to films. |
 | NYT | Expressing Opinions |  | a dhul chuig drámaí. | go to plays. |
 | NYT | Expressing Opinions |  | leadóg a imirt. | play tennis. |
-| NYT | Expressing Opinions |  | An maith leat ...? | Do you like... ? |
-| NYT | Expressing Opinions |  | An maith libh ...? | Do you like... ? (when speaking to more than one person) |
+| NYT | Expressing Opinions |  | An maith leat ...? | Do you like... ? |  | s |
+| NYT | Expressing Opinions |  | An maith libh ...? | Do you like... ? |  | p |
 | NYT | Expressing Opinions |  | Is maith |
 | NYT | Expressing Opinions |  | Ní maith |
 | NYT | Expressing Opinions |  | CINEÁLACHA CEOIL | Types of music |
@@ -637,7 +637,6 @@
 | NYT | Expressing Opinions |  | Is fuath liom é. | I hate it. |
 | NYT | Expressing Opinions |  | Tá sé ceart go leor. | It's all right. |
 | NYT | Expressing Opinions |  | An maith leat é? | Do you like it? |
-| NYT | Expressing Opinions |  |  | You can do this in two ways: |
 | NYT | Expressing Opinions |  | An maith leatsa é? | Do you like it? |
 | NYT | Expressing Opinions |  | An maith leat féin é? | Do you like it yourself? |
 | NYT | Expressing Opinions |  | Is fearr liom ... | I prefer ... |
@@ -715,8 +714,8 @@
 | NYT | What you want |  | pota tae | a pot of tea |
 | NYT | What you want |  | gloine uisce | a glass of water |
 | NYT | What you want |  | pionta beorach | a pint of beer |
-| NYT | What you want |  | Ar mhaith leat ...? | Would you like ...? |
-| NYT | What you want |  | Ar mhaith libh ...? | Would you like ...? (when speaking to more than one person) |
+| NYT | What you want |  | Ar mhaith leat ...? | Would you like ...? | s |
+| NYT | What you want |  | Ar mhaith libh ...? | Would you like ...? | p |
 | NYT | What you want |  | deoch | a drink |  |  | dj-o |
 | NYT | What you want |  | leac oighir | ice |  |  | lack eye-er |
 | NYT | What you want |  | uachtar reoite | ice cream |  |  | wechtar rawtcha |
@@ -728,7 +727,7 @@
 | NYT | What you want |  | Níor mhaith. | No (I wouldn't). |
 | NYT | What you want |  | B'fhearr ... | I'd prefer ... |  |  | bear... |
 | NYT | What you want |  | B'fhearr liom gloine uisce. | I'd prefer a glass of water. |  |  | Bear liom glinye ish-ke |
-| NYT | What you want |  | Sláinte! | Cheers! (literally, Health!) |
+| NYT | What you want |  | Sláinte! | Cheers! |  | Health! |
 | NYT | What you want |  | Sláinte mhór | Cheers (response??) |
 | NYT | What you want |  | ... duitse. | ... for you. |
 | NYT | What you want |  | Pionta beorach duitse. | A pint of beer for you. |
@@ -742,9 +741,9 @@
 
 | Program | Topic | Type | Irish | Meaning | S/P | Literal Meaning | Phonetic | Sound | Info |
 |---|---|---|---|---|---|---|---|---|---|
-| NYT | Where you are going |  | Cá bhfuil tú ag dul? (s) | Where are you going? |  |  | Ca will to a-gull |
-| NYT | Where you are going |  | Cá bhfuil sibh ag dul? (p) | Where are you going? |  |  | Ca will to a-gull |
-| NYT | Where you are going |  | Cá bhfuil tusa ag dul? | Where are *you* going? |
+| NYT | Where you are going |  | Cá bhfuil tú ag dul? | Where are you going? | s |  | Ca will to a-gull |
+| NYT | Where you are going |  | Cá bhfuil sibh ag dul? | Where are you going? | p |  | Ca will to a-gull |
+| NYT | Where you are going |  | Cá bhfuil tusa ag dul? | Where are *you* going? | s |
 | NYT | Where you are going |  | Tá mé ag dul ... | I'm going ... |  |  | Taw may a gul |
 | NYT | Where you are going |  | Tá mé ag dul go ... | I'm going to ... |
 | NYT | Where you are going |  | Tá mé ag dul go Leitir Ceanainn. | I'm going to Letterkenny. |
@@ -788,8 +787,7 @@
 | NYT | Where you are going |  | Go Baile Átha Cliath | To dublin |
 | NYT | Where you are going |  | Go hArd Mhacha* | To Armagh |
 | NYT | Where you are going |  | Go Dún Pádraig | To Downpatrick |
-| NYT | Where you are going |  |  | Go dtí is used before nouns that are preceded by the article: |
-| NYT | Where you are going |  | Tá mé ag dul go dtí an t-ospidéal. | I am going to the hospital. |
+| NYT | Where you are going |  | Tá mé ag dul go dtí an t-ospidéal. | I am going to the hospital. |  |  |  |  | Go dtí is used before nouns that are preceded by the article: |
 | NYT | Where you are going |  | Cad é an t-am? | What time? |
 | NYT | Where you are going |  | Cad é an t-am atá tú ag dul go Dún Geanainn? | What time are you going to Dungannon? |
 | NYT | Where you are going |  | Cá huair? | When? |  |  | ca hoo-ar |
@@ -810,12 +808,11 @@
 | NYT | Where you are going |  | ...san iarnóin | in the afternoon |
 | NYT | Where you are going |  | ...tráthnóna | in the evening |
 | NYT | Where you are going |  | ...san oíche | in the night |
-| NYT | Where you are going |  |  | The word uair is irregular when preceded by numbers: |
+| NYT | Where you are going |
 | NYT | Where you are going |  | uair | an hour |  |  |  |  | This word occurs quite frequently in everyday speech, so it is well worth learning the different forms. |
-| NYT | Where you are going |  | dhá uair | two hours |
+| NYT | Where you are going |  | dhá uair | two hours |  |  |  |  | The word uair is irregular when preceded by numbers: |
 | NYT | Where you are going |  | trí ... sé huaire | three ... six hours |
 | NYT | Where you are going |  | seacht ... deich n-uaire | seven ... ten hours |
-| NYT | Where you are going |  |  | SAYING IT'S ALMOST A CERTAIN TIME |
 | NYT | Where you are going |  | Tá sé chóir a bheith ... | It's almost ... |  |  | Taw shay hor a veh |
 | NYT | Where you are going |  | Tá sé chóir a bheith a dó a chlog. | It's almost two o'clock. |
 | NYT | Where you are going |  | Tá sé chóir a bheith a seacht. | It's almost seven. |
@@ -908,54 +905,53 @@
 
 | Program | Topic | Type | Irish | Meaning | S/P | Literal Meaning | Phonetic | Sound | Info |
 |---|---|---|---|---|---|---|---|---|---|
-| NYT | Giving Orders |  | Tar isteach. | Come in. |
-| NYT | Giving Orders |  | Tagaigí isteach. | Come in.(plural) |
-| NYT | Giving Orders |  | Taraigí isteach. | Come in.(plural) |
-| NYT | Giving Orders |  | Suigh síos. | Sit down. |  |  | see shees |
-| NYT | Giving Orders |  | Suígí síos. | Sit down.(plural) |  |  | see-gee shees |
-| NYT | Giving Orders |  | Coimhéad! | Look out! or Be careful! |  |  | cuv-ahd |
-| NYT | Giving Orders |  | Coimhéadaigí! | Look out! or Be careful!(plural) |  |  | cuv-ahd-igi |
+| NYT | Giving Orders |  | Tar isteach. | Come in | s |
+| NYT | Giving Orders |  | Tagaigí isteach. | Come in | p |
+| NYT | Giving Orders |  | Taraigí isteach. | Come in | p |
+| NYT | Giving Orders |  | Suigh síos. | sit down | s |  | see shees |
+| NYT | Giving Orders |  | Suígí síos. | sit down | p |  | see-gee shees |
+| NYT | Giving Orders |  | Coimhéad! | Look out! or Be careful! | s |  | cuv-ahd |
+| NYT | Giving Orders |  | Coimhéadaigí! | Look out! or Be careful! | p |  | cuv-ahd-igi |
 | NYT | Giving Orders |  | Coimhéad an leoraí | mind the lorry |
 | NYT | Giving Orders |  | Coimhéad an phéint! | Mind the paint! |  |  | cuv-ahd an faint |
-| NYT | Giving Orders |  | Fan bomaite. | Wait a minute. |
-| NYT | Giving Orders |  | Fanaigí bomaite. | (plural) |
-| NYT | Giving Orders |  | Stad! | Stop! |
-| NYT | Giving Orders |  | Stadaigí! | (plural) |
-| NYT | Giving Orders |  | Ná déan sin. | Don't do that. |  |  | na jen sin |
-| NYT | Giving Orders |  | Ná déanaigí sin. | (plural) |  |  | na jenigi sin |
+| NYT | Giving Orders |  | Fan bomaite. | Wait a minute. | s |
+| NYT | Giving Orders |  | Fanaigí bomaite. | Wait a minute. | p |
+| NYT | Giving Orders |  | Stad! | Stop! | s |
+| NYT | Giving Orders |  | Stadaigí! | Stop! | p |
+| NYT | Giving Orders |  | Ná déan sin. | Don't do that. | s |  | na jen sin |
+| NYT | Giving Orders |  | Ná déanaigí sin. | Don't do that. | p |  | na jenigi sin |
 | NYT | Giving Orders |  | Ná déan seo. | Don't do this. |  |  | na jen shaw |
-| NYT | Giving Orders |  | Ciúnas! | Quiet!/Silence |  |  | cuoonyis |
-| NYT | Giving Orders |  | Ciúnigí! | Quiet!/Silence |  |  | cuoonigee |
-| NYT | Giving Orders |  | Bí ciúin! | Be quiet! |  |  | be cue-in |
-| NYT | Giving Orders |  | Bígí ciúin! | (plural) |  |  | bigee cue-in |
-| NYT | Giving Orders |  | Bí suaimhneach! | Be quiet! |  |  | be swinna |
-| NYT | Giving Orders |  | Bígí suaimhneach! | (plural) |  |  | bigee swinna |
-| NYT | Giving Orders |  | Fan socair! | Stay quiet! |
-| NYT | Giving Orders |  | Fanaigí socair! | (plural) |
-| NYT | Giving Orders |  | Gabh amach! | Get out! |  |  | go amak (throaty k) |
-| NYT | Giving Orders |  | Gabhaigí amach! | (plural) |  |  | gogi amak (throaty k) |
-| NYT | Giving Orders |  | Imigh leat! | Away you go (in nice way).  Go away! (in strong voice) |  |  | immee lat |
-| NYT | Giving Orders |  | Imigí libh! | (plural) |
-| NYT | Giving Orders |  | Lean ort. | Carry on. |  |  | lan ort |
-| NYT | Giving Orders |  | Leanaigí oraibh. | (plural) |  |  | lanigi oriv |
-| NYT | Giving Orders |  | Tar anseo. | Come here. |
-| NYT | Giving Orders |  | Tagaigí anseo. | (plural) |
-| NYT | Giving Orders |  | Taraigí anseo. | Come here. |  |  | (plural) |
-| NYT | Giving Orders |  | Goitse. | Come here. |  |  | gutcha |  | Goitse can also be used when you are leaving and when you want someone to come with you. |
-| NYT | Giving Orders |  | Goitsigí | Come here.(plural) |  |  | gutchigi |
-| NYT | Giving Orders |
+| NYT | Giving Orders |  | Ciúnas! | Quiet!/Silence | s |  | cuoonyis |
+| NYT | Giving Orders |  | Ciúnigí! | Quiet!/Silence | p |  | cuoonigee |
+| NYT | Giving Orders |  | Bí ciúin! | Be quiet! | s |  | be cue-in |
+| NYT | Giving Orders |  | Bígí ciúin! | Be quiet! | p |  | bigee cue-in |
+| NYT | Giving Orders |  | Bí suaimhneach! | Be quiet! | s |  | be swinna |
+| NYT | Giving Orders |  | Bígí suaimhneach! | Be quiet! | p |  | bigee swinna |
+| NYT | Giving Orders |  | Fan socair! | Stay quiet! | s |
+| NYT | Giving Orders |  | Fanaigí socair! | Stay quiet! | p |
+| NYT | Giving Orders |  | Gabh amach! | Get out! | s |  | go amak (throaty k) |
+| NYT | Giving Orders |  | Gabhaigí amach! | Get out! | p |  | gogi amak (throaty k) |
+| NYT | Giving Orders |  | Imigh leat! | Away you go (in nice way).  Go away! (in strong voice) | s |  | immee lat |
+| NYT | Giving Orders |  | Imigí libh! | Away you go (in nice way).  Go away! (in strong voice) | p |
+| NYT | Giving Orders |  | Lean ort. | Carry on. | s |  | lan ort |
+| NYT | Giving Orders |  | Leanaigí oraibh. | Carry on. | p |  | lanigi oriv |
+| NYT | Giving Orders |  | Tar anseo. | Come here. | s |
+| NYT | Giving Orders |  | Tagaigí anseo. | Come here. | p |
+| NYT | Giving Orders |  | Taraigí anseo. | Come here. | p |
+| NYT | Giving Orders |  | Goitse. | Come here. | s |  | gutcha |  | Goitse can also be used when you are leaving and when you want someone to come with you. |
+| NYT | Giving Orders |  | Goitsigí | Come here | p |  | gutchigi |
 | NYT | Giving Orders |  | Goitse. | Come on. |  |  | gutcha |
-| NYT | Giving Orders |  | Druid an doras. | Shut the door. |
-| NYT | Giving Orders |  | Druidigí an doras. | (plural) |
-| NYT | Giving Orders |  | Oscail an fhuinneog. | Open the window. |  |  |  |  | In Donegal an f is placed before oscail in everyday speech but it is generally not written. |
-| NYT | Giving Orders |  | Osclaígí an fhuinneog. | (plural) |
-| NYT | Giving Orders |  | Gabh a luí. | Go to bed. |  |  | go a lee |
-| NYT | Giving Orders |  | Gabhaigí a luí. | (plural) |  |  | go-gee a lee |
-| NYT | Giving Orders |  | Gabh a chodladh. | Go to sleep. |  |  | go a haw-loo??? |
-| NYT | Giving Orders |  | Éirigh! | Get up! |  |  | ear-ee |
-| NYT | Giving Orders |  | Éirígí! | (plural) |  |  | ear-igi |
-| NYT | Giving Orders |  | Déan deifir! | Hurry up! |  |  | Jen jeffer or Jen jeffra |
-| NYT | Giving Orders |  | Déanaigí deifir! | (plural) |  |  | Jenigy jeffer or Jenigy jeffra |
+| NYT | Giving Orders |  | Druid an doras. | Shut the door. | s |
+| NYT | Giving Orders |  | Druidigí an doras. | Shut the door. | p |
+| NYT | Giving Orders |  | Oscail an fhuinneog. | Open the window. | s |  |  |  | In Donegal an f is placed before oscail in everyday speech but it is generally not written. |
+| NYT | Giving Orders |  | Osclaígí an fhuinneog. | Open the window. | p |
+| NYT | Giving Orders |  | Gabh a luí. | Go to bed. | s |  | go a lee |
+| NYT | Giving Orders |  | Gabhaigí a luí. | Go to bed. | p |  | go-gee a lee |
+| NYT | Giving Orders |  | Gabh a chodladh. | Go to sleep. | s |  | go a haw-loo??? |
+| NYT | Giving Orders |  | Éirigh! | Get up! | s |  | ear-ee |
+| NYT | Giving Orders |  | Éirígí! | Get up! | p |  | ear-igi |
+| NYT | Giving Orders |  | Déan deifir! | Hurry up! | s |  | Jen jeffer or Jen jeffra |
+| NYT | Giving Orders |  | Déanaigí deifir! | Hurry up! | p |  | Jenigy jeffer or Jenigy jeffra |
 | NYT | Giving Orders |  | ní thig liom | i can't |  |  | nee hig liom |
 | NYT | Giving Orders |  | Tá deifir orm | I am in a hurry |
 | NYT | Giving Orders |  | tá sibh mall (p) | you're late |
@@ -989,11 +985,11 @@
 | NYT | Family_ |  | Níl go fóill. | Not yet. |
 | NYT | Family_ |  | páiste | child |  |  | peh-steh |
 | NYT | Family_ |  | páistí | children |  |  | peh-stee |
-| NYT | Family_ |  | An bhfuil clann agat? | Have you children? |
-| NYT | Family_ |  | An bhfuil clann agaibh? | Have you children? (plural) |
+| NYT | Family_ |  | An bhfuil clann agat? | Have you children? | s |
+| NYT | Family_ |  | An bhfuil clann agaibh? | Have you children? | p |
 | NYT | Family_ |  | An bhfuil clann agat féin? | Have you children yourself? |
-| NYT | Family_ |  | An bhfuil páistí agat? | Have you children? |
-| NYT | Family_ |  | An bhfuil páistí agaibh? | Have you children? (plural) |
+| NYT | Family_ |  | An bhfuil páistí agat? | Have you children? | s |
+| NYT | Family_ |  | An bhfuil páistí agaibh? | Have you children? | p |
 | NYT | Family_ |  | Tá. | Yes. |
 | NYT | Family_ |  | Níl. | No. |
 | NYT | Family_ |  | Tá clann agam. | I have children. |
@@ -1018,7 +1014,7 @@
 | NYT | Family_ |  | buachaillí | boys |  |  | bohilly or byu-kali (throaty k) |
 | NYT | Family_ |  | gasúr | boy |
 | NYT | Family_ |  | gasúraí | boys |
-| NYT | Family_ |  | Cad é mar atá do chlann? | How are your children? (when speaking to one person) |
+| NYT | Family_ |  | Cad é mar atá do chlann? | How are your children? | s |
 | NYT | Family_ |  | Cad é mar atá do chuid páistí? | How are your children? |
 | NYT | Family_ |  | Cad é mar atá do chlannsa? | How are *your* children? |
 | NYT | Family_ |  | Cad é mar atá do chuid *páistíse*? | How are *your* children? |
@@ -1034,7 +1030,7 @@
 | NYT | Family_ |  | do mhac | your son |
 | NYT | Family_ |  | m'iníon | my daughter |
 | NYT | Family_ |  | a iníon | his/her/their daughter |
-| NYT | Family_ |  | bhur n-iníon | your daughter (p) |
+| NYT | Family_ |  | bhur n-iníon | your daughter | p |
 | NYT | Family_ |  | do mháthair | your mother |
 | NYT | Family_ |  | d'athair | you father |
 | NYT | Family_ |  | a hathair | her father |
@@ -1106,8 +1102,8 @@
 | NYT | What you did |  | maidin inniú | this morning |
 | NYT | What you did | NOUN | bainis | wedding (ceremony) |
 | NYT | What you did | PHRASE | Cá háit? | Where? |  |  | Ca hatch? |
-| NYT | What you did | PHRASE | Cá háit a ndeachaigh* tú? | Where did you go? |  |  | Ca hatch a dja-ha too? |
-| NYT | What you did | PHRASE | Cá háit a ndeachaigh* sibh? | Where did you go?  (plural) |  |  | Ca hatch a dja-ha shiv? |
+| NYT | What you did | PHRASE | Cá háit a ndeachaigh* tú? | Where did you go? | s |  | Ca hatch a dja-ha too? |
+| NYT | What you did | PHRASE | Cá háit a ndeachaigh* sibh? | Where did you go? | p |  | Ca hatch a dja-ha shiv? |
 | NYT | What you did | PHRASE | Cá háit a ndeachaigh* tú ...? | Where did you go ... |  |  | Ca hatch a dja-ha too? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
 | NYT | What you did | PHRASE | Cá háit a ndeachaigh* tú inné? | Where did you go yesterday? |
 | NYT | What you did | PHRASE | Cá háit a ndeachaigh* tú ag an deireadh seachtaine? | Where did you go at the weekend? |  |  | Ca hatch a dja-ha too ag an djeroo shockt-in-ye? |
@@ -1203,7 +1199,7 @@
 | NYT | Taking your leave |  | Ceart go leor. | All right. |
 | NYT | Taking your leave |  | Is mór an trua sin. | That's a pity. |
 | NYT | Taking your leave |  | Cheana féin! | Already! |
-| NYT | Taking your leave |  | Níl sé ach luath. | It's only early. (Literal: it's not but early) |
+| NYT | Taking your leave |  | Níl sé ach luath. | It's only early. |  | it's not but early |
 | NYT | Taking your leave |  | Cad chuige? | Why? |  |  | cad teeya?? |
 | NYT | Taking your leave |  | Tá brón orm ach ... | I am sorry but ... |
 | NYT | Taking your leave |  | Tá mé buartha ach ... | I am sorry but ... |
@@ -1221,7 +1217,6 @@
 | NYT | Taking your leave |  | Fan go dtí a hocht. | Stay until eight. |
 | NYT | Taking your leave |  | Fan leathuair eile. | Stay another half an hour. |
 | NYT | Taking your leave |  | Fan uair an chloig eile. | Stay another hour. |
-| NYT | Taking your leave |  |  | GIVING YOUR REPLY |
 | NYT | Taking your leave |  | Ní thig liom. | I can't. |
 | NYT | Taking your leave |  | saoire | holiday |
 | NYT | Taking your leave |  | laethanta saoire | holiday |
@@ -1296,7 +1291,7 @@
 | NYT | Daily Routine |  | Músclaím ... | I wake up ... |  |  | musclum.. |
 | NYT | Daily Routine |  | de ghnáth | usually |  |  | de greah |
 | NYT | Daily Routine |  | Músclaím de ghnáth thart fá leath i ndiaidh a seacht. | I usually wake up around half past seven. |
-| NYT | Daily Routine |  | Éirím ag a hocht. |  |  |  | earim.. |
+| NYT | Daily Routine |  | Éirím ag a hocht. | I get up at eight. |  |  | earim.. |
 | NYT | Daily Routine |  | Éirím ar a hocht. | I get up at eight. |
 | NYT | Daily Routine |  | Ním mé féin. | I wash myself. |
 | NYT | Daily Routine |  | Ithim mo bhricfeasta idir a hocht agus leath i ndiaidh a hocht. | I eat my breakfast between eight and half past eight. |
@@ -1308,10 +1303,10 @@
 | NYT | Daily Routine |  | Bíonn mo lón agam idir a haon agus a dó. | I have my lunch between one and two. |
 | NYT | Daily Routine |  | Bím sa bhaile de ghnáth ag a sé. | I'm usually home at six. |
 | NYT | Daily Routine |  | Bíonn mo dhinnéar agam sa bhaile. | I have my dinner at home. |
-| NYT | Daily Routine |  | Tá mé tuirseach. | (I'm tired.) |
-| NYT | Daily Routine |  | Bím tuirseach i gcónaí tráthnóna. | (I am always tired in the evening.) |
-| NYT | Daily Routine |  | Tá mé mall.(I'm late.) |
-| NYT | Daily Routine |  | Bím mall i gcónaí maidin Dé luain. | (I am always late on Monday morning.) |
+| NYT | Daily Routine |  | Tá mé tuirseach. | I'm tired |
+| NYT | Daily Routine |  | Bím tuirseach i gcónaí tráthnóna. | I am always tired in the evening |
+| NYT | Daily Routine |  | Tá mé mall. | I'm late |
+| NYT | Daily Routine |  | Bím mall i gcónaí maidin Dé luain. | I am always late on Monday morning. |
 | NYT | Daily Routine |  | Cad é a dhéanann tú i rith an lae? | What do you do during the day? |
 | NYT | Daily Routine |  | Cad é a dhéanann tú tráthnóna? | What do you do in the evening? |
 | NYT | Daily Routine |  | Tagaim abhaile .. | I come home ... |
@@ -1354,7 +1349,6 @@
 | NYT | Location and movement |  | Tá sé trasna ón siopa. | It's across from the shop. |
 | NYT | Location and movement |  | Tá sé in aice leis an chaife. | It's beside the cafe. |
 | NYT | Location and movement |  | Cá mhéad seomra atá ann? | How many rooms are in it? |
-| NYT | Location and movement |  | Here are some possible answers: |
 | NYT | Location and movement |  | Tá trí sheomra ann. | It has three rooms. |  |  | If you are not sure why it is trí sheomra but ocht seomra, go back to Unit 6. |
 | NYT | Location and movement |  | Ocht seomra. | Eight rooms. |
 | NYT | Location and movement |  | Téigh suas an staighre. | Go up the stairs. |
@@ -1391,8 +1385,7 @@
 | NYT | Location and movement |  | sa chistin | in the kitchen |
 | NYT | Location and movement |  | sa gharáiste | in the garage |  |  |  |  | Sa adds a séimhiú to words beginning with a consonant (except d, n, t, l, and s): |
 | NYT | Location and movement |  | sa chuisneoir | in the fridge |
-| NYT | Location and movement |  | sa phrios | in the garage |
-| NYT | Location and movement |  | but |
+| NYT | Location and movement |  | sa phrios | in the press |
 | NYT | Location and movement |  | sa siopa | in the shop |
 | NYT | Location and movement |  | sa teach | in the house |
 | NYT | Location and movement |  | san oifig | in the office |  |  | And san is used before words beginning with a vowel: |
@@ -1412,7 +1405,6 @@
 |---|---|---|---|---|---|---|---|---|---|
 | Bitesize | Feelings |  | Tá … orm. | I have … on me |
 | Bitesize | Feelings |  | Tá áthas orm. | I am happy. |
-| Bitesize | Feelings |
 | Bitesize | Feelings |  | áthas | happy |  |  | ahas |
 | Bitesize | Feelings |  | brón | sad |
 | Bitesize | Feelings |  | tuirse | tired |  |  | tur-sha |
@@ -1430,7 +1422,6 @@
 | Bitesize | Feelings |  | Tá áthas orainn. | We are happy. |
 | Bitesize | Feelings |  | Tá áthas oraibh. | You are happy. (plural) |
 | Bitesize | Feelings |  | Tá áthas orthu. | They are happy. |
-| Bitesize | Feelings |
 | Bitesize | Feelings |  | Tá áthas ar Mháire. | Máire is happy. |
 | Bitesize | Feelings |  | Tá áthas ar m'athair. | My father is happy. |
 | Bitesize | Feelings |  | Tá áthas ar na cailíní. | The girls are happy. |
@@ -1448,18 +1439,14 @@
 | Bitesize | Personal Traits |  | >Tá mé $AGE d’aois. | I am $AGE of age. |
 | Bitesize | Personal Traits |  | Tá cuma óg orm do m’aois | I appear young for my age |
 | Bitesize | Personal Traits |  | Tá cuma shean orm do m’aois | I appear old for my age |
-| Bitesize | Personal Traits |
 | Bitesize | Personal Traits |  | Cén dath atá ar do chuid gruaige? | What colour is your hair? |
 | Bitesize | Personal Traits |  | Tá mo chuid gruaige... | My hair is... |  |  | Ta mo hudge grooiga.. |
 | Bitesize | Personal Traits |  | Tá dath $COLOUR ar mo chuid gruaige | My hair is $COLOUR |
-| Bitesize | Personal Traits |
 | Bitesize | Personal Traits |  | Cén dath atá ar do shúile? | What colour are your eyes? |
 | Bitesize | Personal Traits |  | Tá mo shúile... | My eyes are... |  |  | Ta mo hula.. |
 | Bitesize | Personal Traits |  | Níl mo shúile... | My eyes are not... |  |  | Neel mo hula.. |
 | Bitesize | Personal Traits |  | ...fosta | ...as well |  |  | fosta |
-| Bitesize | Personal Traits |
 | Bitesize | Personal Traits |  | an bhfuil do shúile $COLOUR? | Are your eyes $COLOUR? |
-| Bitesize | Personal Traits |
 | Bitesize | Personal Traits |  | ard | tall |  |  | aird |
 | Bitesize | Personal Traits |  | beag | small |  |  | beug? or bug? |
 | Bitesize | Personal Traits |  | tanaí | slim |  |  | tany |
@@ -1472,10 +1459,8 @@
 | Bitesize | Personal Traits |  | catach | curly |  |  | catack |
 | Bitesize | Personal Traits |  | fada | long |  |  | fada |
 | Bitesize | Personal Traits |  | gairid | short |
-| Bitesize | Personal Traits |
 | Bitesize | Personal Traits |  | fionn | blonde |  |  | finn |
 | Bitesize | Personal Traits |  | rua | red/ginger |
-| Bitesize | Personal Traits |
 | Bitesize | Personal Traits |  | Tá mé maol | I am bald |
 | Bitesize | Personal Traits |  | Tá féasóg orm | I have a beard |
 | Bitesize | Personal Traits |  | Caithim spéaclaí | I wear glasses |
@@ -1488,20 +1473,16 @@
 | Bitesize | Personality Traits |  | Tréithe pearsanta | Personality traits |
 | Bitesize | Personality Traits |  | Cén sórt duine thú? | What type of person are you? |
 | Bitesize | Personality Traits |  | Déan cur síos ort féin maidir le tréithe pearsantachta. | Describe your personality traits. |
-| Bitesize | Personality Traits |
 | Bitesize | Personality Traits |  | Déan cur síos ort féin | Describe yourself |
-| Bitesize | Personality Traits |
 | Bitesize | Personality Traits |  | Maidir le tréithe pearsantachta, | As regards personality traits, |
 | Bitesize | Personality Traits |  | Tá mé ... | I am ... |
 | Bitesize | Personality Traits |  | Níl mé ... | I am not ... |
 | Bitesize | Personality Traits |  | thig liom a bheith ... | I can be ... |
 | Bitesize | Personality Traits |  | sílim go bhfuil mé ... | I think that I am ... |
 | Bitesize | Personality Traits |  | sílim nach bhfuil mé ... | I think that I am not ... |
-| Bitesize | Personality Traits |
 | Bitesize | Personality Traits |  | Is duine spórtúil mé | I am a sporty person |
 | Bitesize | Personality Traits |  | síleann mo chairde go bhfuil mé maith ag an chamógaíocht | my friends think I am good at Camogie |
 | Bitesize | Personality Traits |  | Is fearr liom bheith ag canadh agus bheith ag éisteacht leis an raidió agus le ceol. | I prefer to sing and to listen to the radio and music. |
-| Bitesize | Personality Traits |
 | Bitesize | Personality Traits |  | cainteach | chatty |
 | Bitesize | Personality Traits |  | ciúin | quiet |
 | Bitesize | Personality Traits |  | cairdiúil | friendly |
@@ -1519,7 +1500,6 @@
 | Bitesize | Personality Traits |  | aibí | mature |
 | Bitesize | Personality Traits |  | mí-aibí | immature |
 | Bitesize | Personality Traits |  | neamhspleách | independent |
-| Bitesize | Personality Traits |
 | Bitesize | Personality Traits |  | Léigh an sliocht agus freagair fíor nó bréagach. | Read the passage and answer true or false. |
 
 ## Bitesize - Dates
@@ -1531,7 +1511,6 @@
 | Bitesize | Dates |  | Tráthnóna | evening |  |  | tranoana |  | may be afternon in some dialects |
 | Bitesize | Dates |  | iarnóin | afternoon |  |  | tranoana |  | may be only in some dialects |
 | Bitesize | Dates |  | Oíche | night. |
-| Bitesize | Dates |
 | Bitesize | Dates |  | inné | yesterday |  |  | in-ay |
 | Bitesize | Dates |  | aréir | last night |  |  | a-rare |
 | Bitesize | Dates |  | anocht | tonight |  |  | anokt |
@@ -1545,13 +1524,11 @@
 | Bitesize | Dates |  | an mhí seo caite | month just past |
 | Bitesize | Dates |  | an samhradh seo caite | last summer (summer just past) |
 | Bitesize | Dates |  | cúpla bomaite ó shin | couple of minutes ago |
-| Bitesize | Dates |
 | Bitesize | Dates |  | lá | day |  |  | laa |
 | Bitesize | Dates |  | Seachtain | week |  |  | shak-tin |
 | Bitesize | Dates |  | Mí | month |  |  | me |
 | Bitesize | Dates |  | bliain | year |  |  | blane |
 | Bitesize | Dates |  | Leathanta na Seachtaine | days of the week |
-| Bitesize | Dates |
 | Bitesize | Dates |  | An Luan | Monday |  |  | An loo-in |
 | Bitesize | Dates |  | An Mháirt | Tuesday |  |  | an Wharch |
 | Bitesize | Dates |  | An Chéadaoin | Wednesday |  |  | an Kayd-een |
@@ -1594,14 +1571,12 @@
 |---|---|---|---|---|---|---|---|---|---|
 | Bitesize | Colours |  | dath | colour |  |  | deh |
 | Bitesize | Colours |  | dathanna | colours |
-| Bitesize | Colours |
 | Bitesize | Colours |  | Cén dath is fearr leat? | What is your favourite colour? |
 | Bitesize | Colours |  | Is fearr liom … | My favourite colour is … |
 | Bitesize | Colours |  | Cén dath atá ar… | What colour is… ? |
 | Bitesize | Colours |  | Tá dath … air / uirthi. | It is…/Colour is... |
 | Bitesize | Colours |  | geal | bright |
 | Bitesize | Colours |  | dorcha | dark |  |  | durcha |
-| Bitesize | Colours |
 | Bitesize | Colours |  | bán | white |  |  | bawn |
 | Bitesize | Colours |  | bándearg > bhándearg | pink |  |  | ban dearg |
 | Bitesize | Colours |  | glas | green |
@@ -1621,7 +1596,6 @@
 | Program | Topic | Type | Irish | Meaning | S/P | Literal Meaning | Phonetic | Sound | Info |
 |---|---|---|---|---|---|---|---|---|---|
 | Bitesize | Family |  | Daoine eile sa teaghlach | Other people in the family |
-| Bitesize | Family |
 | Bitesize | Family |  | Conaím le mo mhamaí / mo dhaidí. | I live with my Mum / my Dad. |
 | Bitesize | Family |  | Conaíonn mo sheanmháthair linn. | Our grandmother lives with us. |
 | Bitesize | Family |  | Cá mhéad deartháir atá agat? | How many brothers do you have? |
@@ -1643,7 +1617,6 @@
 | Bitesize | My House |  | Cén sórt tí atá agat? | What sort of house do you have? |
 | Bitesize | My House |  | Tá … agam. | I have a _____. |
 | Bitesize | My House |  | Is … é. | It's a _____. |
-| Bitesize | My House |
 | Bitesize | My House |  | teach dhá urlár | two-storey house |
 | Bitesize | My House |  | bungaló | bungalow |
 | Bitesize | My House |  | árasán | apartment |
@@ -1654,15 +1627,12 @@
 | Bitesize | My House |  | teach feirme | farmhouse |
 | Bitesize | My House |  | carbhán | caravan |
 | Bitesize | My House |  | caisleán | castle |
-| Bitesize | My House |
 | Bitesize | My House |  | Cá mhéad seomra atá i do theach? | How many rooms are in your house? |
 | Bitesize | My House |  | Tá … seomra i mo theach. | There are _____ rooms in my house. |
 | Bitesize | My House |  | I mo theach, tá … ann. | In my house, there is (a) … there. |
 | Bitesize | My House |  | Thuas staighre, tá… | Upstairs. there is… |
 | Bitesize | My House |  | Thíos staighre, tá… | Downstairs, there is… |
-| Bitesize | My House |
 | Bitesize | My House |  | Áiteanna i mo theach | Places in my house |
-| Bitesize | My House |
 | Bitesize | My House |  | an chistin | the kitchen |
 | Bitesize | My House |  | an seomra leapa / codlata | the bedroom |
 | Bitesize | My House |  | an seomra folctha | the bathroom |
@@ -1693,7 +1663,6 @@
 | Bitesize | Hobbies and Interests |  | Spóirt agus aclaíocht | Sports and exercise |
 | Bitesize | Hobbies and Interests |  | Spóirt eile | Other sports |
 | Bitesize | Hobbies and Interests |  | Siamsaíocht agus cultúr | Entertainment and culture |
-| Bitesize | Hobbies and Interests |
 | Bitesize | Hobbies and Interests |  | peil Ghaelach | Gaelic football |
 | Bitesize | Hobbies and Interests |  | sacar | soccer |
 | Bitesize | Hobbies and Interests |  | rugbaí | rugby |
@@ -1719,7 +1688,6 @@
 | Bitesize | Hobbies and Interests |  | surfáil | surfing |
 | Bitesize | Hobbies and Interests |  | seoltóireacht | sailing |
 | Bitesize | Hobbies and Interests |  | iascaireacht | fishing |
-| Bitesize | Hobbies and Interests |
 | Bitesize | Hobbies and Interests |  | ceol | music |
 | Bitesize | Hobbies and Interests |  | damhsa / rince | dance |
 | Bitesize | Hobbies and Interests |  | péinteáil | painting |
@@ -1740,7 +1708,6 @@
 | Bitesize | Hobbies and Interests |  | Tá suim / spéis agam i / sa… | I have an interest in… |
 | Bitesize | Hobbies and Interests |  | Caithim a lán ama… | I spend a lot of time… |
 | Bitesize | Hobbies and Interests |  | Is maith liom a bheith ag déanamh… | I like to be doing… |
-| Bitesize | Hobbies and Interests |
 | Bitesize | Hobbies and Interests |  | Éistim le ceol. | I listen to music. |
 | Bitesize | Hobbies and Interests |  | Amharcaim ar an teilifís. | I watch TV. |
 | Bitesize | Hobbies and Interests |  | Téim go dtí an phictiúrlann. | I go to the cinema. |
@@ -1762,7 +1729,6 @@
 | Bitesize | Pets and Animal |  | Is … é/í. | He/she's a … |
 | Bitesize | Pets and Animal |  | Is madadh é. | He's a dog. |
 | Bitesize | Pets and Animal |  | Is cat í. | She's a cat. |
-| Bitesize | Pets and Animal |
 | Bitesize | Pets and Animal |  | Tá $ANIMAL agam. | I have a $ANIMAL. |
 | Bitesize | Pets and Animal |  | madadh | dog |
 | Bitesize | Pets and Animal |  | cat | cat |
@@ -1774,18 +1740,14 @@
 | Bitesize | Pets and Animal |  | toirtís | tortoise |
 | Bitesize | Pets and Animal |  | muc ghuine | guinea pig |
 | Bitesize | Pets and Animal |  | pearóid | parrot |
-| Bitesize | Pets and Animal |
 | Bitesize | Pets and Animal |  | Ar an fheirm |
-| Bitesize | Pets and Animal |
 | Bitesize | Pets and Animal |  | muc | pig |
 | Bitesize | Pets and Animal |  | bó | cow |
 | Bitesize | Pets and Animal |  | cearc | hen |
 | Bitesize | Pets and Animal |  | asal | donkey |
 | Bitesize | Pets and Animal |  | caora | sheep |
 | Bitesize | Pets and Animal |  | gabhar | goat |
-| Bitesize | Pets and Animal |
 | Bitesize | Pets and Animal |  | Ag an zú |
-| Bitesize | Pets and Animal |
 | Bitesize | Pets and Animal |  | tíogar | tiger |
 | Bitesize | Pets and Animal |  | eilifint | elephant |
 | Bitesize | Pets and Animal |  | srónbheannach | rhino |
@@ -1813,7 +1775,6 @@
 | Bitesize | Celebrations and Festivals |  | Oíche Nollag | Christmas Eve |
 | Bitesize | Celebrations and Festivals |  | Lá Nollag | Christmas Day |
 | Bitesize | Celebrations and Festivals |  | Lá Fhéile Stiofáin | St. Stephen's Day (26th December) |
-| Bitesize | Celebrations and Festivals |
 | Bitesize | Celebrations and Festivals |  | cárta | card |
 | Bitesize | Celebrations and Festivals |  | beart | parcel |
 | Bitesize | Celebrations and Festivals |  | brat | flag |
@@ -1824,7 +1785,6 @@
 | Bitesize | Celebrations and Festivals |  | paráid / mórshiúl | parade |
 | Bitesize | Celebrations and Festivals |  | slua / scaifte | crowd |
 | Bitesize | Celebrations and Festivals |  | siamsaíocht | entertainment |
-| Bitesize | Celebrations and Festivals |
 | Bitesize | Celebrations and Festivals |  | féile | festival |
 | Bitesize | Celebrations and Festivals |  | ceiliúradh | celebration |
 | Bitesize | Celebrations and Festivals |  | fleá ceoil | music festival |

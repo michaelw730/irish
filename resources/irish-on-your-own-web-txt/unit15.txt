@@ -77,7 +77,7 @@ sa gharáiste	in the garage
 
 Sa adds a séimhiú to words beginning with a consonant (except d, n, t, l, and s):
 sa chuisneoir	in the fridge
-sa phrios	in the garage
+sa phrios	in the press
 but	
 sa siopa	in the shop
 sa teach	in the house
