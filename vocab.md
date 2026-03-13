@@ -949,19 +949,9 @@
 | NYT | Family1 |  | bean | woman |  |  |  | ban |  |  |
 | NYT | Family1 |  | an bhean | the woman |  |  |  | an van |  | Feminine noun needs lenited |
 | NYT | Family1 |  | mná | women |  |  |  | mnaw? |  |  |
-
-## NYT - Family Basic
-
-| program | topic | type | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|
-| NYT | Family Basic |  | céile | spouse |  |  |  | kayla |  |  |
-| NYT | Family Basic |  | fear céile | husband |  |  | man spouse | far kayla |  |  |
-| NYT | Family Basic |  | bean chéile | wife |  |  | woman spouse | ban hayla |  |  |
-
-## NYT - Family1
-
-| program | topic | type | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|
+| NYT | Family1 |  | céile | spouse |  |  |  | kayla |  |  |
+| NYT | Family1 |  | fear céile | husband |  |  | man spouse | far kayla |  |  |
+| NYT | Family1 |  | bean chéile | wife |  |  | woman spouse | ban hayla |  |  |
 | NYT | Family1 |  | teaghlach | family (as a whole including parents) |  |  |  | chay-la |  |  |
 | NYT | Family1 |  | an teaghlach | the family (as a whole including parents) |  |  |  | an chay-la |  |  |
 | NYT | Family1 |  | Tá mé pósta. | I'm married. |  |  |  | taa meh pawsta |  |  |
