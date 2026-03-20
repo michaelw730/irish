@@ -113,11 +113,11 @@
 | NYT | Weather |  | sneachta | snow |  |  |  | snock-ta |  |  |
 | NYT | Weather |  | tintreach | lightning |  |  |  | chin-trock |  |  |
 | NYT | Weather |  | toirneach | thunder |  |  |  | torn-yock |  |  |
+| NYT | Weather |  | gaoth | wind |  |  |  | gwee |  |  |
 | NYT | Weather |  | fuar | cold |  |  |  | fooar |  |  |
 | NYT | Weather |  | fliuch | wet |  |  |  | flu(ch) [(ch) = soft k] |  |  |
 | NYT | Weather |  | te | hot |  |  |  | chay |  |  |
 | NYT | Weather |  | báistí | rainy |  |  |  |  |  |  |
-| NYT | Weather |  | gaoth | wind |  |  |  | gwee |  |  |
 | NYT | Weather |  | gaofar | windy |  |  |  | gweefor/geefo? |  |  |
 | NYT | Weather |  | tirim | dry |  |  |  | Chur-im |  |  |
 | NYT | Weather |  | Taise | damp |  |  |  | tasha |  |  |
@@ -223,7 +223,7 @@
 | program | topic | type | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|
 | NYT | Person Background |  | Cá as tú? | Where are you from? |  |  |  |  |  | After giving your response, you can ask the same question in the following ways: |
-| NYT | Person Background |  | Cá as túsa? | Where are *you* from?  or |  |  |  |  |  |  |
+| NYT | Person Background |  | Cá as túsa? | Where are *you* from? |  |  |  |  |  |  |
 | NYT | Person Background |  | Cá as tú féin? | Where are you from yourself? |  |  |  |  |  |  |
 | NYT | Person Background |  | Agus tú féin? | And yourself? |  |  |  | Agus tu hain? |  |  |
 | NYT | Person Background |  | Cárb as thú? | Where are you from? |  |  |  | Carb ass who? |  |  |
@@ -431,11 +431,11 @@
 | NYT | Time |  | a dó dhéag a chlog |  |  |  |  |  |  |  |
 | NYT | Time |  | ceathrú | quarter |  |  |  | ceahroo |  |  |
 | NYT | Time |  | leath | half |  |  |  | la (maybe lya??) |  |  |
-| NYT | Time |  | ceathrú i ndiaidh ... | a quarter past ... |  |  |  | ceahroo i nyay... |  |  |
-| NYT | Time |  | leath i ndiaidh ... | half past ... |  |  |  | la i nyay... |  |  |
-| NYT | Time |  | ceathrú go dtí ... | a quarter to ... |  |  |  | ceahroo go gee.. |  |  |
-| NYT | Time |  | cúig bomaite i ndiaidh | five minutes past?? |  |  |  |  |  |  |
-| NYT | Time |  | cúig i ndiaidh | five past?? |  |  |  |  |  |  |
+| NYT | Time |  | ceathrú i ndiaidh ... | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
+| NYT | Time |  | leath i ndiaidh ... | half past ... | repeat for each time |  |  | la i nyay... |  |  |
+| NYT | Time |  | ceathrú go dtí ... | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
+| NYT | Time |  | cúig bomaite i ndiaidh | five minutes past?? | repeat for each time |  |  |  |  |  |
+| NYT | Time |  | cúig i ndiaidh | five past?? | repeat for each time |  |  |  |  |  |
 | NYT | Time |  | fiche go dtí a hocht | twenty to 8 |  |  |  |  |  |  |
 | NYT | Time |  | Bhí sé ... a chlog. | It was ... o'clock. |  |  |  | vee shay... |  |  |
 | NYT | Time |  | soicind | second |  |  |  | second |  |  |
@@ -936,7 +936,7 @@
 | NYT | Giving Orders |  | Déanaigí deifir! | Hurry up! |  | p |  | Jenigy jeffer or Jenigy jeffra |  |  |
 | NYT | Giving Orders |  | ní thig liom | i can't |  |  |  | nee hig liom |  |  |
 | NYT | Giving Orders |  | Tá deifir orm | I am in a hurry |  |  |  |  |  |  |
-| NYT | Giving Orders |  | tá sibh mall (p) | you're late |  |  |  |  |  |  |
+| NYT | Giving Orders |  | tá sibh mall | you're late |  | p |  |  |  |  |
 | NYT | Giving Orders |  | bean éigin | some woman |  |  |  | ban ay-gan |  |  |
 
 ## NYT - Family1
