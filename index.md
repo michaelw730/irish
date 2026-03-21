@@ -450,7 +450,7 @@ The words mé and tú are called pronouns and are used when you don't need to or
 
 #### Family Introducing
 
-The Irish for 'my' is mo. If it precedes a word beginning with a consonant (other than l, n, or r) a h is added to the initial letter, causing a change in sound:
+The Irish for 'my' is mo. If it precedes a word beginning with a consonant (other than l/n/r) a h is added to the initial letter, causing a change in sound:
 
 * mac = mo mhac
 
@@ -462,8 +462,6 @@ If mo precedes a word beginning with a vowel or f, the o in mo is dropped:
 
 ### Unit 3
 #### Person Background
-
-AG LABHAIRT FAOI DO CHÚLRA | SPEAKING ABOUT YOUR BACKGROUND | a lortch fay do hkoolra
 
 ASKING SOMEONE WHERE THEY ARE FROM
 
@@ -504,10 +502,14 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 
 ##### Counting things
 
-* numbers 2-6 cause séimhiú on words beginning with a consonant (except l,n,r). Words beginning with a vowel remain unchanged
+* numbers 2-6 cause séimhiú on words beginning with a consonant
+    * except l/n/r 
+* Words beginning with a vowel remain unchanged
 * The numbers a haon, a dó, and a ceathair change when counting things.
 * Note how the singular form is used after numbers in Irish
-* The numbers 7-10 cause an urú in words beginning with a consonant (except l, m, n, r, and s) and in all words beginning with a vowel:
+* The numbers 7-10 cause an urú in words beginning with a consonant
+    * except: l/m/n/r/s
+        * and in all words beginning with a vowel:
 
 [vocab.csv](vocab.csv#Numbers)
 
@@ -533,17 +535,20 @@ Reference:
 ### Unit 4
 
 #### Languages
+
 ASKING SOMEONE IF THEY SPEAK A LANGUAGE
 
 ##### Grammar
 
-A question is formed in the present tense by placing An before the verb. This causes an urú in verbs beginning with a consonant (except l, m, n, r or s):
+A question is formed in the present tense by placing An before the verb. This causes an urú in verbs beginning with a consonant:
+* except: l/m/n/r/s
 * An dtuigeann tú? Do you understand?
 (This An tends not to be pronounced in everyday speech.)
 
 As you've probably noticed, there's no equivalent of the words 'yes' or 'no' in Irish. You must listen to the question and use the same verb in your answer:
 
-When Ní precedes a verb beginning with a consonant (except l, n, or r) it causes a séimhiú:
+When Ní precedes a verb beginning with a consonant it causes a séimhiú:
+* except: l/n/r
 
 Only a handful of irish verbs (eleven, to be precise) are irregular, but they occur quite frequently. You've already come across one of the most widely used: Tá.
 
@@ -635,7 +640,9 @@ You use Is to refer to the job you have at the moment but Ba when you are talkin
 | --------------- | ---------------- |
 | Is dochtúir mé. | Ba dhochtúir mé. |
 
-Ba causes a séimhiú in words beginning with a consonant (except l, n, and r). It is shortened to B' before a vowel or fh + vowel.
+Ba causes a séimhiú in words beginning with a consonant (). 
+* except: l/n/r    
+It is shortened to B' before a vowel or fh + vowel.
 
 [vocab.csv](vocab.csv#What+job+you+do)
 
@@ -834,14 +841,16 @@ from `Tá mé tuirseach.`
 ASKING WHERE SOMETHING IS
 
 
-The word ó (from) adds a séimhiú to nouns beginning with a consonant (except l, n, or r):
+The word ó (from) adds a séimhiú to nouns beginning with a consonant:
+* except: l/n/r
 trasna ó theach Bhríd
 
 'From the' is one word in Irish: ón.
 trasna ón bhanc across from the bank
 
-Again, note that ón adds a séimhiú to some consonants
-(the exceptions being d, n, t, l, and s):
+Again, note that ón adds a séimhiú to some consonants:
+* except: d/n/t/l/s
+
 trasna ón bhialann
 but
 trasna ón siopa

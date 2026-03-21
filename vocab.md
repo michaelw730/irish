@@ -111,8 +111,8 @@
 | NYT | Weather |  | sioc | ice |  |  |  | shuck |  |  |
 | NYT | Weather |  | teocht | temperature |  |  |  | chalked |  |  |
 | NYT | Weather |  | sneachta | snow |  |  |  | snock-ta |  |  |
-| NYT | Weather |  | tintreach | lightning |  |  |  | chin-trock |  |  |
 | NYT | Weather |  | toirneach | thunder |  |  |  | torn-yock |  |  |
+| NYT | Weather |  | tintreach | lightning |  |  |  | chin-trock |  |  |
 | NYT | Weather |  | gaoth | wind |  |  |  | gwee |  |  |
 | NYT | Weather |  | fuar | cold |  |  |  | fooar |  |  |
 | NYT | Weather |  | fliuch | wet |  |  |  | flu(ch) [(ch) = soft k] |  |  |
@@ -156,7 +156,8 @@
 | NYT | Introductions |  | sloinnte | surnames |  |  |  |  |  |  |
 | NYT | Introductions |  | Cad é an t-ainm atá ort? | What is your name? |  |  | What name is on you? |  |  |  |
 | NYT | Introductions |  | Cad é an t-ainm atá ort féin? | What is your own name? |  |  |  |  |  |  |
-| NYT | Introductions |  | >$NAME an t-ainm atá orm. | My name is $NAME |  |  | $NAME is the name on me |  |  |  |
+| NYT | Introductions |  | Cad é an t-ainm atá ortsa? | What is *your* name? |  |  |  |  |  |  |
+| NYT | Introductions |  | >$NAME an t-ainm atá orm. | My name is $NAME | Ask the other person’s name |  | $NAME is the name on me |  |  |  |
 | NYT | Introductions |  | Cé thusa? | Who are you? |  |  |  | Kay husa? |  |  |
 | NYT | Introductions |  | >Is mise $NAME | I am $NAME |  |  |  |  |  |  |
 | NYT | Introductions |  | >Mise $NAME | I'm $NAME |  |  |  |  |  |  |
@@ -164,7 +165,7 @@
 | NYT | Introductions |  | >$SURNAME an sloinne atá orm. | My surname is $SURNAME |  |  |  |  |  |  |
 | NYT | Introductions |  | C'ainm atá ort? | What's your name? |  |  |  |  |  |  |
 | NYT | Introductions |  | C'ainm atá ortsa? | What's *your* name? |  |  |  |  |  |  |
-| NYT | Introductions |  | >$NAME |  |  |  |  |  |  | Usually just the surname |
+| NYT | Introductions |  | >$NAME | >$NAME |  |  |  |  |  | Usually just the surname |
 | NYT | Introductions |  | Cé seo? | Who's this? |  |  | s |  |  |  |
 | NYT | Introductions |  | Cé hiad seo? | Who's this? Who are these? |  |  | p |  |  |  |
 | NYT | Introductions |  | Seo $NAME | This is $NAME |  |  |  |  |  |  |
@@ -200,7 +201,7 @@
 | NYT | Family Basic |  | máthair | mother |  |  |  | mah-her |  |  |
 | NYT | Family Basic |  | mamaí? | mum? |  |  |  |  |  |  |
 | NYT | Family Basic |  | deirfiúr | sister |  |  |  | djerifur |  |  |
-| NYT | Family Basic |  | deartháir | brother |  |  |  | djaher |  |  |
+| NYT | Family Basic |  | deartháir | brother |  |  |  | djarher |  |  |
 | NYT | Family Basic |  | iníon* | daughter |  |  |  | nyee-in (like news) |  | * In Ulster the i at the beginning of iníon is not pronounced. |
 | NYT | Family Basic |  | iníonacha | daughters |  |  |  |  |  |  |
 | NYT | Family Basic |  | mac | son |  |  |  | mawck |  |  |
@@ -209,19 +210,20 @@
 
 | program | topic | type | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|
-| NYT | Family Introductions |  | Seo mo mháthair. | That's my mother |  |  |  | ..mo wahher |  |  |
-| NYT | Family Introductions |  | Seo m'athair. | That's my father |  |  |  | ..maher |  |  |
-| NYT | Family Introductions |  | Seo m'iníon. | That's my daughter |  |  |  | ..minyee-in |  |  |
-| NYT | Family Introductions |  | Seo mo mhac. | That's my son |  |  |  | .. mo wock |  |  |
-| NYT | Family Introductions |  | Seo mo dheartháir. | That's my brother |  |  |  | .. mo yeah-her |  |  |
-| NYT | Family Introductions |  | Seo mo dheirfiúr. | That's my sister |  |  |  | .. mo yerifur |  |  |
-| NYT | Family Introductions |  | Seo mo chuid iníonacha... | these are my daughters |  |  |  | ...whid nyeenacha... |  |  |
-| NYT | Family Introductions |  | Seo mo chuid mac... | these are my sons |  |  |  | ...whid mawk... |  |  |
+| NYT | Family Introductions |  | Seo mo mháthair. | This is my mother |  |  |  | Shaw mo wahher |  |  |
+| NYT | Family Introductions |  | Seo m'athair. | This is my father |  |  |  | Shaw maher |  |  |
+| NYT | Family Introductions |  | Seo m'iníon. | This is my daughter |  |  |  | Shaw minyee-in |  |  |
+| NYT | Family Introductions |  | Seo mo mhac. | This is my son |  |  |  | Shaw  mo wock |  |  |
+| NYT | Family Introductions |  | Seo mo dheartháir. | This is my brother |  |  |  | Shaw  mo yeahr-her |  |  |
+| NYT | Family Introductions |  | Seo mo dheirfiúr. | This is my sister |  |  |  | Shaw mo yerifur |  |  |
+| NYT | Family Introductions |  | Seo mo chuid iníonacha... | these are my daughters |  |  |  | Shaw whid nyeenacha... |  |  |
+| NYT | Family Introductions |  | Seo mo chuid mac... | these are my sons |  |  |  | Shaw whid mawk... |  |  |
 
 ## NYT - Person Background
 
 | program | topic | type | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|
+| NYT | Person Background |  | AG LABHAIRT FAOI DO CHÚLRA | SPEAKING ABOUT YOUR BACKGROUND |  |  |  | a lortch fwee do hkoolra |  |  |
 | NYT | Person Background |  | Cá as tú? | Where are you from? |  |  |  |  |  | After giving your response, you can ask the same question in the following ways: |
 | NYT | Person Background |  | Cá as túsa? | Where are *you* from? |  |  |  |  |  |  |
 | NYT | Person Background |  | Cá as tú féin? | Where are you from yourself? |  |  |  |  |  |  |
