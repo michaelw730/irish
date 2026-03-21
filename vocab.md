@@ -223,6 +223,7 @@
 
 | program | topic | type | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|
+| NYT | Person Background |  | CÚLRA | BACKGROUND |  |  |  | koolra |  |  |
 | NYT | Person Background |  | AG LABHAIRT FAOI DO CHÚLRA | SPEAKING ABOUT YOUR BACKGROUND |  |  |  | a lortch fwee do hkoolra |  |  |
 | NYT | Person Background |  | Cá as tú? | Where are you from? |  |  |  |  |  | After giving your response, you can ask the same question in the following ways: |
 | NYT | Person Background |  | Cá as túsa? | Where are *you* from? |  |  |  |  |  |  |
@@ -245,6 +246,8 @@
 | NYT | Person Background |  | An maith leat é? | Do you like it? |  |  |  |  |  |  |
 | NYT | Person Background |  | Is maith liom é. | I like it. |  |  |  |  |  |  |
 | NYT | Person Background |  | Is maith. | I like it. |  |  |  |  |  | Shorter and acceptable |
+| NYT | Person Background |  | Níl maith liom é. | I do not like it. |  |  |  |  |  |  |
+| NYT | Person Background |  | Níl maith. | I do not like it. |  |  |  |  |  | Shorter and acceptable |
 | NYT | Person Background |  | seoladh | address |  |  |  | shaw-loo |  |  |
 | NYT | Person Background |  | Cad é an seoladh atá agat? | What's your address? |  |  |  |  |  |  |
 | NYT | Person Background |  | Aít bhreithe | Place of birth |  |  |  | eh-tch vrey-ha |  |  |
