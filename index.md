@@ -150,15 +150,15 @@ io, oi, ui sounds like fit (usually) - gliondar, glione, duine
 
 | word begins with | úrú adds | looks like | sounds like (broad/slender) | examples(broad/slender)       |
 | ---------------- | -------- | ---------- | --------------------------- | ----------------------------- |
-| b                | m        | mb         | moo?                        | i mBéal Feirste               |
-| c                | g        | gc         | goo                         | i gCorcaigh                   |
-| d                | n        | nd         | not/sinew                   | i nDoire/i ndiaidh            |
-| f                | bh       | bhf        | woo/vein                    | and bfhuil tú/i bhFear Manach |
-| g                | n        | ng         | wing                        | i nGaillimh                   |
+| b                | m        | mb         | m in moo?                   | i mBéal Feirste               |
+| c                | g        | gc         | g in goo                    | i gCorcaigh                   |
+| d                | n        | nd         | n in not/sinew              | i nDoire/i ndiaidh            |
+| f                | bh       | bhf        | w/v in woo/vein             | an bhfuil tú/i bhFear Manach  |
+| g                | n        | ng         | ng in wing                  | i nGaillimh                   |
 | h,l,m,n          |          |            |                             |                               |
 | p                | bp       | boy        |                             | i bPáras                      |
 | r                |          |            |                             |                               |
-| t                | d        | dt         | do/jet                      | i dTrá Lí/ár dteach           |
+| t                | d        | dt         | d/j in do/jet               | i dTrá Lí/ár dteach           |
 
 patterns:
 * only at beginning of word

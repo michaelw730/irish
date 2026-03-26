@@ -155,7 +155,7 @@
 | NYT | Introductions |  | ainm | Name |  |  |  |  |  |  |
 | NYT | Introductions |  | sloinne | surname |  |  |  | slin-you |  |  |
 | NYT | Introductions |  | sloinnte | surnames |  |  |  |  |  |  |
-| NYT | Introductions |  | Cad é an t-ainm atá ort? | What is your name? |  |  | What name is on you? |  |  |  |
+| NYT | Introductions |  | Cad é an t-ainm atá ort? | What is your name? | Try other on prep pronouns – orm/ort/air/uirthi/orainn/oraibh/orthu |  | What name is on you? |  |  |  |
 | NYT | Introductions |  | Cad é an t-ainm atá ort féin? | What is your own name? |  |  |  |  |  |  |
 | NYT | Introductions |  | Cad é an t-ainm atá ortsa? | What is *your* name? |  |  |  |  |  |  |
 | NYT | Introductions |  | >$NAME an t-ainm atá orm. | My name is $NAME | Ask the other person’s name |  | $NAME is the name on me |  |  |  |
@@ -164,7 +164,7 @@
 | NYT | Introductions |  | >Mise $NAME | I'm $NAME |  |  |  |  |  |  |
 | NYT | Introductions |  | Cad é an sloinne atá ort? | What is your surname? |  |  |  | ..slinyou.. |  |  |
 | NYT | Introductions |  | >$SURNAME an sloinne atá orm. | My surname is $SURNAME |  |  |  |  |  |  |
-| NYT | Introductions |  | C'ainm atá ort? | What's your name? |  |  |  |  |  |  |
+| NYT | Introductions |  | C'ainm atá ort? | What's your name? | Try other on prep pronouns – orm/ort/air/uirthi/orainn/oraibh/orthu |  |  |  |  |  |
 | NYT | Introductions |  | C'ainm atá ortsa? | What's *your* name? |  |  |  |  |  |  |
 | NYT | Introductions |  | >$NAME | >$NAME |  |  |  |  |  | Usually just the surname |
 | NYT | Introductions |  | Cé seo? | Who's this? |  |  | s |  |  |  |
