@@ -89,6 +89,7 @@ NYT	Meeting People		Cluiche	game				Clee-ha
 NYT	Meeting People		fichille	chess				feel-ha		
 NYT	Meeting People		Cluiche fichille?	A game of chess?/Chess game?				Clee-ha feel-ha		
 NYT	Meeting People		An bhfuil tú go maith?	Are you well?	Repeat for other pronouns/person’s name					
+NYT	Meeting People		Faisnéis	Information						
 NYT	Weather		lá	day				laa??		
 NYT	Weather		grian	sun				grain		
 NYT	Weather		scamill	cloud				scam-ill		
@@ -217,6 +218,7 @@ NYT	Person Background		Níl maith.	I do not like it.						Shorter and acceptable
 NYT	Person Background		seoladh	address				shaw-loo		
 NYT	Person Background		Cad é an seoladh atá agat?	What's your address?						
 NYT	Person Background		Aít bhreithe	Place of birth				eh-tch vrey-ha		
+NYT	Person Background		cá bhfuil tú i do áit bhreithe	where is your place of birth?						
 NYT	Person Background		Is as Ard Mhacha **ó dhúchas** mé, ach tá mé i mo chónaí i mBeal Feirste anois.	I'm originally from Armagh, but I live in Belfast now.				As Ard Whacha **oh huhas** meh, ack taw may i mo hoaney in mel ferste anish		
 NYT	Person Background		sráid	street				sradg		
 NYT	Person Background		bóthar	road				baw-her		
@@ -225,13 +227,13 @@ NYT	Person Background		taobh amuigh	outside				too amwee
 NYT	Person Background		baile	town				balla		
 NYT	Person Background		cathrach	city				ceh-hra		
 NYT	Person Background		tuath	countryside				too-a		
-NYT	Person Background		Tá mé i mo chónaí ...	I live ...						
-NYT	Person Background		... i lár an bhaile.	... in the centre of town.				.. i lar an whalla		
-NYT	Person Background		... taobh amuigh den bhaile.	... outside the town				.. too amwee den whalla???		
-NYT	Person Background		... faoin tuath	... in the countryside				fween too-a		
-NYT	Person Background		... i lár na cathrach	... in the city centre.				i lar na ceh-hra		maybe.. in the center of the city???
-NYT	Person Background		... ar shráid Anraí	... on Henry Street				ar hradg anry		
-NYT	Person Background		... ar Bhóthar na Carraige	... on Carrick Road				ar waw-her na carriga		
+NYT	Person Background	TEMPLATE	Tá mé i mo chónaí ...	I live ...						
+NYT	Person Background		Tá mé i mo chónaí i lár an bhaile.	I live in the centre of town.				.. i lar an whalla		
+NYT	Person Background		Tá mé i mo chónaí taobh amuigh den bhaile.	I live outside the town				.. too amwee den whalla???		
+NYT	Person Background		Tá mé i mo chónaí faoin tuath	I live in the countryside				fween too-a		
+NYT	Person Background		Tá mé i mo chónaí i lár na cathrach	I live in the city centre.				i lar na ceh-hra		maybe.. in the center of the city???
+NYT	Person Background		Tá mé i mo chónaí ar shráid Anraí	I live on Henry Street				ar hradg anry		
+NYT	Person Background		Tá mé i mo chónaí ar Bhóthar na Carraige	I live on Carrick Road				ar waw-her na carriga		
 NYT	Numbers		Náid	Zero				Nawj		
 NYT	Numbers		Aon	One				Ayn		
 NYT	Numbers		Dó	Two				Doh		
@@ -280,17 +282,33 @@ NYT	Numbers		míle	thousand				meala
 NYT	Numbers		milliún	million				millyun		
 NYT	Numbers		aon bhliain amhain	1 YEAR						
 NYT	Numbers		dhá bhliain	2 YEARS						
-NYT	Numbers		trí / ceithre / cúig / sé bliana	3-6 YEARS						
-NYT	Numbers		seacht / ocht / naoi / deich mbliana	7-10 YEARS						
+NYT	Numbers		trí bliana	3 YEARS						
+NYT	Numbers		ceithre bliana	4 YEARS						
+NYT	Numbers		cúig bliana	5 YEARS						
+NYT	Numbers		sé bliana	6 YEARS						
+NYT	Numbers		seacht mbliana	7 YEARS						
+NYT	Numbers		ocht mbliana	8 YEARS						
+NYT	Numbers		naoi mbliana	9 YEARS						
+NYT	Numbers		deich mbliana	10 YEARS						
 NYT	Numbers		aon bhliain déag	11 YEARS						
 NYT	Numbers		dhá bhliain déag	12 YEARS						
-NYT	Numbers		trí / ceithre / cúig / sé bliana déag	13-16 YEARS						
-NYT	Numbers		seacht / ocht / naoi mbliana déag	17-19 YEARS						
+NYT	Numbers		trí bliana déag	13 YEARS						
+NYT	Numbers		ceithre bliana déag	14 YEARS						
+NYT	Numbers		cúig bliana déag	15 YEARS						
+NYT	Numbers		sé bliana déag	16 YEARS						
+NYT	Numbers		seacht mbliana déag	17 YEARS						
+NYT	Numbers		ocht mbliana déag	18 YEARS						
+NYT	Numbers		naoi mbliana déag	19 YEARS						
 NYT	Numbers		fiche bliain	20 YEARS						
 NYT	Numbers		aon bliain is fiche	21 YEARS						
 NYT	Numbers		dhá bhliain is fiche	22 YEARS						
-NYT	Numbers		trí / ceithre / cúig / sé bliana is fiche	23-26 YEARS						
-NYT	Numbers		seacht / ocht / naoi mbliana is fiche	27-29 YEARS						
+NYT	Numbers		trí bliana is fiche	23 YEARS						
+NYT	Numbers		ceithre bliana is fiche	24 YEARS						
+NYT	Numbers		cúig bliana is fiche	25 YEARS						
+NYT	Numbers		sé bliana is fiche	26 YEARS						
+NYT	Numbers		seacht mbliana is fiche	27 YEARS						
+NYT	Numbers		ocht mbliana is fiche	28 YEARS						
+NYT	Numbers		naoi mbliana is fiche	29 YEARS						
 NYT	Numbers		tríocha bliain	30 YEARS						
 NYT	Numbers		daichead bliain	40 YEARS						
 NYT	Numbers		caoga bliain	50 YEARS						
@@ -371,20 +389,23 @@ NYT	Time		Cad é an t-am atá sé, le do thoil?	What time is it, please?
 NYT	Time		Cad é an t-am?	What time?						
 NYT	Time		Cén t-am é?	What time is it?						
 NYT	Time		Cén t-am?	What time?						
-NYT	Time		Tá sé ... a chlog. It's ... o'clock.							
-NYT	Time		... a chlog.	... o'clock.						
-NYT	Time		a haon a chlog							
-NYT	Time		a dó a chlog							
-NYT	Time		a trí a chlog							
-NYT	Time		a ceathair a chlog							
-NYT	Time		a cúig a chlog							
-NYT	Time		a sé a chlog							
-NYT	Time		a seacht a chlog							
-NYT	Time		a hocht a chlog							
-NYT	Time		a naoi a chlog							
-NYT	Time		a deich a chlog							
-NYT	Time		a haon déag a chlog							
-NYT	Time		a dó dhéag a chlog							
+NYT	Time		a chlog.	o'clock.						
+NYT	Time		a haon a chlog	1 o’clock						
+NYT	Time		a dó a chlog	2 o’clock						
+NYT	Time		a trí a chlog	3 o’clock						
+NYT	Time		a ceathair a chlog	4 o’clock						
+NYT	Time		a cúig a chlog	5 o’clock						
+NYT	Time		a sé a chlog	6 o’clock						
+NYT	Time		a seacht a chlog	7 o’clock						
+NYT	Time		a hocht a chlog	8 o’clock						
+NYT	Time		a naoi a chlog	9 o’clock						
+NYT	Time		a deich a chlog	10 o’clock						
+NYT	Time		a haon déag a chlog	11 o’clock						
+NYT	Time		a dó dhéag a chlog	12 o’clock						
+NYT	Time		Tá sé ... a chlog. 	It's ... o'clock.	repeat for each hour					
+NYT	Time		Bhí sé ... a chlog.	It was ... o'clock.				vee shay...		
+NYT	Time		soicind	second				second		
+NYT	Time		bomaite	minute						
 NYT	Time		ceathrú	quarter				ceahroo		
 NYT	Time		leath	half				la (maybe lya??)		
 NYT	Time		ceathrú i ndiaidh ...	a quarter past ...	repeat for each time			ceahroo i nyay...		
@@ -392,10 +413,7 @@ NYT	Time		leath i ndiaidh ...	half past ...	repeat for each time			la i nyay...
 NYT	Time		ceathrú go dtí ...	a quarter to ...	repeat for each time			ceahroo go gee..		
 NYT	Time		cúig bomaite i ndiaidh	five minutes past??	repeat for each time					
 NYT	Time		cúig i ndiaidh	five past??	repeat for each time					
-NYT	Time		fiche go dtí a hocht	twenty to 8						
-NYT	Time		Bhí sé ... a chlog.	It was ... o'clock.				vee shay...		
-NYT	Time		soicind	second				second		
-NYT	Time		bomaite	minute						
+NYT	Time		fiche go dtí	twenty to	repeat for each time					
 NYT	Places		Cúige	province (of Ireland/fifths)				cwig-a		
 NYT	Places		Contae	County				cont-ay		
 NYT	Places		Uladh	Ulster				ull-oo		
@@ -460,9 +478,6 @@ NYT	Places		>nDún Éidin	Edinburgh
 NYT	Places		an Ghearmáin	Germany						
 NYT	Places		an Fhrainc	France						
 NYT	Languages		AG PLÉ TEANGACHA	DISCUSSING LANGUAGES				tchangaha??		
-NYT	Languages		An bhfuil ... agat?	Can you speak ...?			Have you ...?			
-NYT	Languages		An bhfuil Gaeilge agat?	Can you speak Irish?						
-NYT	Languages		An bhfuil Fraincis agat?	Can you speak French?						
 NYT	Languages		teanga	a language				tchangy??		
 NYT	Languages		teangacha	Languages				tchangaha??		
 NYT	Languages		Gaeilge	Irish						
@@ -473,6 +488,8 @@ NYT	Languages		Iodáilis	Itailian
 NYT	Languages		Spáinnis	Spanish						
 NYT	Languages		Breatnais	Welsh						
 NYT	Languages		Gaeilge na hAlban	Gaelic (Scotland)						
+NYT	Languages	TEMPLATE	An bhfuil ... agat?	Can you speak ...?			Have you ...?			
+NYT	Languages		An bhfuil Gaeilge agat?	Can you speak Irish?	repeat for other languages					
 NYT	Languages		Tá Gaeilge líofa agam.	I speak Irish fluently.						
 NYT	Languages		Tá beagán Fraincise agam.	I speak a little French.						
 NYT	Languages		Tá mé ag foghlaim Gearmáinise.	I'm learning German.						

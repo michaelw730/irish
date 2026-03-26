@@ -165,7 +165,7 @@ patterns:
 * eclipses first letter of a word
 * voiceless stops getting voiced - c=>g, p=>b, t=>d 
 * also called nasalisation - b=>m, d=>n, g=>ng
-* can't apply to h,l,m,n,r
+* can't apply to h/l/m/n/r
 
 ### Personal and prepositional pronouns
 
@@ -519,8 +519,7 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 
 #### Time
 
-If you're asking a stranger you should use the phrase, Gabh mo leithscéal (Excuse me) first in order to attract their attention. If you're already talking to someone you can use the  second phrase:
-
+If you're asking a stranger you should use the phrase, Gabh mo leithscéal (Excuse me) first in order to attract their attention. If you're already talking to someone you can use the second phrase:
 
 When you're responding to the question Cad é an t-am atá sé? you can leave out Tá sé ... if you wish and simply say the time.
 
