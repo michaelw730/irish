@@ -596,6 +596,7 @@
 | NYT | Languages | SENTENCE |  | Tá Iodáilis agam ach níl aon Spáinnis agam. | I speak Italian but I can't speak Spanish. |  |  |  |  |  |  |
 | NYT | Languages | SENTENCE |  | Níl aon Fraincis nó Spáinnis agam. | I speak neither French nor Spanish. |  |  |  |  |  |  |
 | NYT | Languages | QUESTION |  | Cá háit? | Where? |  |  |  | Ca hatch? |  | If you tell someone that you are learning a language, you might be asked where: |
+| NYT | Languages | QUESTION |  | Cá bhfuil tú ag foghlaim $LANGUAGE? | Where are you learning $LANGUAGE? |  |  |  |  |  |  |
 | NYT | Languages | PHRASE |  | Ón teilifís | From the television |  |  |  |  |  |  |
 | NYT | Languages | PHRASE |  | Ón raidió | From the radio |  |  |  |  |  |  |
 | NYT | Languages | PHRASE |  | Ag rang oíche | At a night class |  |  |  |  |  |  |
@@ -606,7 +607,7 @@
 | NYT | Languages | TEMPLATE |  | An dtuigeann tú $LANGUAGE? | Do you understand $LANGUAGE? |  |  |  | an diggin to Gaelic? |  |  |
 | NYT | Languages | SENTENCE |  | Tuigim. | Yes (I do understand). |  |  |  |  |  |  |
 | NYT | Languages | SENTENCE |  | Ní thuigim. | No (I don't understand). |  |  |  |  |  |  |
-| NYT | Languages | SENTENCE |  | Tuigim $LANGUAGE | I do understand $LANGUAGE |  |  |  |  |  |  |
+| NYT | Languages | TEMPLATE |  | Tuigim $LANGUAGE | I do understand $LANGUAGE |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Tuigim Gaeilge | I do understand Irish |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Tuigim Fraincis | I do understand French |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Tuigim Béarla | I do understand English |  |  |  |  |  |  |
@@ -615,7 +616,7 @@
 | NYT | Languages | DYNAMIC  |  | Tuigim Spáinnis | I do understand Spanish |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Tuigim Breatnais | I do understand Welsh |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Tuigim Gaeilge na hAlban | I do understand Gaelic (Scotland) |  |  |  |  |  |  |
-| NYT | Languages | SENTENCE |  | Ní thuigim $LANGUAGE | I don't understand $LANGUAGE |  |  |  |  |  |  |
+| NYT | Languages | TEMPLATE |  | Ní thuigim $LANGUAGE | I don't understand $LANGUAGE |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Ní thuigim Gaeilge | I don't understand Irish |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Ní thuigim Fraincis | I don't understand French |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Ní thuigim Béarla | I don't understand English |  |  |  |  |  |  |
@@ -2380,4 +2381,3 @@
 | Giota Beag - Series 2 | 12 |  |  | Cheannaigh mé bronntanas Nollag | I bought a Christmas present |  |  |  |  |  |  |
 | Giota Beag - Series 2 | 12 |  |  | Cad é cheannaigh tú? | What did you buy? |  |  |  |  |  |  |
 | Giota Beag - Series 2 | 12 |  |  | Cheannaigh mé geansaí úr | I bought a new jumper |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 12 |  |  | Cheannaigh mé Crann Nollag | I bought a Christmas tree |  |  |  |  |  |  |
