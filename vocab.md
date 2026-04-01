@@ -597,6 +597,14 @@
 | NYT | Languages | SENTENCE |  | Níl aon Fraincis nó Spáinnis agam. | I speak neither French nor Spanish. |  |  |  |  |  |  |
 | NYT | Languages | QUESTION |  | Cá háit? | Where? |  |  |  | Ca hatch? |  | If you tell someone that you are learning a language, you might be asked where: |
 | NYT | Languages | QUESTION |  | Cá bhfuil tú ag foghlaim $LANGUAGE? | Where are you learning $LANGUAGE? |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Gaeilge? | Where are you learning Irish? |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Fraincis? | Where are you learning French? |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Béarla? | Where are you learning English? |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Gearmáinis? | Where are you learning German? |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Iodáilis? | Where are you learning Italian? |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Spáinnis? | Where are you learning Spanish? |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Breatnais? | Where are you learning Welsh? |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Gaeilge na hAlban? | Where are you learning Gaelic (Scotland)? |  |  |  |  |  |  |
 | NYT | Languages | PHRASE |  | Ón teilifís | From the television |  |  |  |  |  |  |
 | NYT | Languages | PHRASE |  | Ón raidió | From the radio |  |  |  |  |  |  |
 | NYT | Languages | PHRASE |  | Ag rang oíche | At a night class |  |  |  |  |  |  |
@@ -604,7 +612,15 @@
 | NYT | Languages | PHRASE |  | Ó fhístéipeanna sa bhaile | From videotapes at home |  |  |  |  |  |  |
 | NYT | Languages | PHRASE |  | ó físeán | from video |  |  |  |  |  |  |
 | NYT | Languages | PHRASE |  | ó físeáin | from videos |  |  |  |  |  |  |
-| NYT | Languages | TEMPLATE |  | An dtuigeann tú $LANGUAGE? | Do you understand $LANGUAGE? |  |  |  | an diggin to Gaelic? |  |  |
+| NYT | Languages | TEMPLATE |  | An dtuigeann tú $LANGUAGE? | Do you understand $LANGUAGE? |  |  |  | an diggin to $LANGUAGE? |  |  |
+| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Gaeilge? | Do you understand Irish? |  |  |  | an diggin to $LANGUAGE? |  |  |
+| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Fraincis? | Do you understand French? |  |  |  | an diggin to $LANGUAGE? |  |  |
+| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Béarla? | Do you understand English? |  |  |  | an diggin to $LANGUAGE? |  |  |
+| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Gearmáinis? | Do you understand German? |  |  |  | an diggin to $LANGUAGE? |  |  |
+| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Iodáilis? | Do you understand Italian? |  |  |  | an diggin to $LANGUAGE? |  |  |
+| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Spáinnis? | Do you understand Spanish? |  |  |  | an diggin to $LANGUAGE? |  |  |
+| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Breatnais? | Do you understand Welsh? |  |  |  | an diggin to $LANGUAGE? |  |  |
+| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Gaeilge na hAlban? | Do you understand Gaelic (Scotland)? |  |  |  | an diggin to $LANGUAGE? |  |  |
 | NYT | Languages | SENTENCE |  | Tuigim. | Yes (I do understand). |  |  |  |  |  |  |
 | NYT | Languages | SENTENCE |  | Ní thuigim. | No (I don't understand). |  |  |  |  |  |  |
 | NYT | Languages | TEMPLATE |  | Tuigim $LANGUAGE | I do understand $LANGUAGE |  |  |  |  |  |  |

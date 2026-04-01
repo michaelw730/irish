@@ -521,7 +521,7 @@ NYT	Languages	PHRASE		San ollscoil	At the university
 NYT	Languages	PHRASE		Ó fhístéipeanna sa bhaile	From videotapes at home						
 NYT	Languages	PHRASE		ó físeán	from video						
 NYT	Languages	PHRASE		ó físeáin	from videos						
-NYT	Languages	TEMPLATE		An dtuigeann tú $LANGUAGE?	Do you understand $LANGUAGE?				an diggin to Gaelic?		
+NYT	Languages	TEMPLATE		An dtuigeann tú $LANGUAGE?	Do you understand $LANGUAGE?				an diggin to $LANGUAGE?		
 NYT	Languages	SENTENCE		Tuigim.	Yes (I do understand).						
 NYT	Languages	SENTENCE		Ní thuigim.	No (I don't understand).						
 NYT	Languages	TEMPLATE		Tuigim $LANGUAGE	I do understand $LANGUAGE						
