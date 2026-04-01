@@ -550,17 +550,41 @@
 | NYT | Languages | WORD | LANGUAGE | Fraincis | French |  |  |  |  |  |  |
 | NYT | Languages | WORD | LANGUAGE | Béarla | English |  |  |  |  |  |  |
 | NYT | Languages | WORD | LANGUAGE | Gearmáinis | German |  |  |  |  |  |  |
-| NYT | Languages | WORD | LANGUAGE | Iodáilis | Itailian |  |  |  |  |  |  |
+| NYT | Languages | WORD | LANGUAGE | Iodáilis | Italian |  |  |  |  |  |  |
 | NYT | Languages | WORD | LANGUAGE | Spáinnis | Spanish |  |  |  |  |  |  |
 | NYT | Languages | WORD | LANGUAGE | Breatnais | Welsh |  |  |  |  |  |  |
 | NYT | Languages | WORD | LANGUAGE | Gaeilge na hAlban | Gaelic (Scotland) |  |  |  |  |  |  |
-| NYT | Languages | TEMPLATE |  | An bhfuil $LANGUAGE agat? | Can you speak $LANGUAGE? |  |  | Have you ...? |  |  |  |
+| NYT | Languages | TEMPLATE |  | An bhfuil $LANGUAGE agat? | Can you speak $LANGUAGE? |  |  | Have you $LANGUAGE? Is $LANGUAGE at you? |  |  |  |
+| NYT | Languages | DYNAMIC  |  | An bhfuil Gaeilge agat? | Can you speak Irish? |  |  | Have you Irish? Is Irish at you? |  |  |  |
+| NYT | Languages | DYNAMIC  |  | An bhfuil Fraincis agat? | Can you speak French? |  |  | Have you French? Is French at you? |  |  |  |
+| NYT | Languages | DYNAMIC  |  | An bhfuil Béarla agat? | Can you speak English? |  |  | Have you English? Is English at you? |  |  |  |
+| NYT | Languages | DYNAMIC  |  | An bhfuil Gearmáinis agat? | Can you speak German? |  |  | Have you German? Is German at you? |  |  |  |
+| NYT | Languages | DYNAMIC  |  | An bhfuil Iodáilis agat? | Can you speak Italian? |  |  | Have you Italian? Is Italian at you? |  |  |  |
+| NYT | Languages | DYNAMIC  |  | An bhfuil Spáinnis agat? | Can you speak Spanish? |  |  | Have you Spanish? Is Spanish at you? |  |  |  |
+| NYT | Languages | DYNAMIC  |  | An bhfuil Breatnais agat? | Can you speak Welsh? |  |  | Have you Welsh? Is Welsh at you? |  |  |  |
+| NYT | Languages | DYNAMIC  |  | An bhfuil Gaeilge na hAlban agat? | Can you speak Gaelic (Scotland)? |  |  | Have you Gaelic (Scotland)? Is Gaelic (Scotland) at you? |  |  |  |
 | NYT | Languages | QUESTION |  | An bhfuil Gaeilge agat? | Can you speak Irish? | repeat for other languages |  |  |  |  |  |
-| NYT | Languages | SENTENCE |  | Tá Gaeilge líofa agam. | I speak Irish fluently. |  |  |  |  |  |  |
+| NYT | Languages | TEMPLATE |  | Tá $LANGUAGE líofa agam. | I speak $LANGUAGE fluently. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá Gaeilge líofa agam. | I speak Irish fluently. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá Fraincis líofa agam. | I speak French fluently. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá Béarla líofa agam. | I speak English fluently. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá Gearmáinis líofa agam. | I speak German fluently. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá Iodáilis líofa agam. | I speak Italian fluently. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá Spáinnis líofa agam. | I speak Spanish fluently. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá Breatnais líofa agam. | I speak Welsh fluently. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá Gaeilge na hAlban líofa agam. | I speak Gaelic (Scotland) fluently. |  |  |  |  |  |  |
 | NYT | Languages | SENTENCE |  | Tá beagán Fraincise agam. | I speak a little French. |  |  |  |  |  |  |
 | NYT | Languages | SENTENCE |  | Tá mé ag foghlaim Gearmáinise. | I'm learning German. |  |  |  |  |  |  |
 | NYT | Languages | SENTENCE |  | Níl mórán Iodáilise agam. | I can't speak much Italian. |  |  |  |  |  |  |
-| NYT | Languages | SENTENCE |  | Níl aon Fraincis agam. | I don't speak french. |  |  |  |  |  |  |
+| NYT | Languages | TEMPLATE |  | Níl aon $LANGUAGE agam. | I don't speak $LANGUAGE. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Níl aon Gaeilge agam. | I don't speak Irish. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Níl aon Fraincis agam. | I don't speak French. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Níl aon Béarla agam. | I don't speak English. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Níl aon Gearmáinis agam. | I don't speak German. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Níl aon Iodáilis agam. | I don't speak Italian. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Níl aon Spáinnis agam. | I don't speak Spanish. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Níl aon Breatnais agam. | I don't speak Welsh. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Níl aon Gaeilge na hAlban agam. | I don't speak Gaelic (Scotland). |  |  |  |  |  |  |
 | NYT | Languages | SENTENCE |  | Tá. | Yes. |  |  |  |  |  |  |
 | NYT | Languages | SENTENCE |  | Níl. | No. |  |  |  |  |  |  |
 | NYT | Languages | SENTENCE |  | Beagán. | A little. |  |  |  |  |  |  |
@@ -579,12 +603,27 @@
 | NYT | Languages | PHRASE |  | Ó fhístéipeanna sa bhaile | From videotapes at home |  |  |  |  |  |  |
 | NYT | Languages | PHRASE |  | ó físeán | from video |  |  |  |  |  |  |
 | NYT | Languages | PHRASE |  | ó físeáin | from videos |  |  |  |  |  |  |
-| NYT | Languages | QUESTION |  | An dtuigeann tú Gaeilge? | Do you understand Irish? |  |  |  | an diggin to Gaelic? |  |  |
+| NYT | Languages | TEMPLATE |  | An dtuigeann tú $LANGUAGE? | Do you understand $LANGUAGE? |  |  |  | an diggin to Gaelic? |  |  |
 | NYT | Languages | SENTENCE |  | Tuigim. | Yes (I do understand). |  |  |  |  |  |  |
 | NYT | Languages | SENTENCE |  | Ní thuigim. | No (I don't understand). |  |  |  |  |  |  |
-| NYT | Languages | QUESTION |  | An ólann tú caife? | Do you drink coffee? |  |  |  |  |  |  |
-| NYT | Languages | SENTENCE |  | Ólaim. | Yes. |  |  |  |  |  |  |
-| NYT | Languages | SENTENCE |  | Ní ólaim | No. |  |  |  |  |  |  |
+| NYT | Languages | SENTENCE |  | Tuigim $LANGUAGE | I do understand $LANGUAGE |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tuigim Gaeilge | I do understand Irish |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tuigim Fraincis | I do understand French |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tuigim Béarla | I do understand English |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tuigim Gearmáinis | I do understand German |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tuigim Iodáilis | I do understand Italian |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tuigim Spáinnis | I do understand Spanish |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tuigim Breatnais | I do understand Welsh |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tuigim Gaeilge na hAlban | I do understand Gaelic (Scotland) |  |  |  |  |  |  |
+| NYT | Languages | SENTENCE |  | Ní thuigim $LANGUAGE | I don't understand $LANGUAGE |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Ní thuigim Gaeilge | I don't understand Irish |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Ní thuigim Fraincis | I don't understand French |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Ní thuigim Béarla | I don't understand English |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Ní thuigim Gearmáinis | I don't understand German |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Ní thuigim Iodáilis | I don't understand Italian |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Ní thuigim Spáinnis | I don't understand Spanish |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Ní thuigim Breatnais | I don't understand Welsh |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Ní thuigim Gaeilge na hAlban | I don't understand Gaelic (Scotland) |  |  |  |  |  |  |
 
 ## NYT - Expressing Opinions
 
@@ -742,6 +781,9 @@
 | NYT | What you want |  |  | Sláinte mhaith agat i bhfad ó bhrón. | Good health, free from sorrow. |  |  |  |  |  |  |
 | NYT | What you want |  |  | Sláinte do bheo agus tróicaire do mharbh. | Health to the living and mercy on the dead. |  |  |  |  |  |  |
 | NYT | What you want |  |  | Go mba fada a mhairfidh tú. | Long life to you |  |  |  |  |  |  |
+| NYT | What you want | QUESTION |  | An ólann tú caife? | Do you drink coffee? |  |  |  |  |  |  |
+| NYT | What you want | SENTENCE |  | Ólaim. | Yes/I drink |  |  |  |  |  |  |
+| NYT | What you want | SENTENCE |  | Ní ólaim | No/I don’t drink |  |  |  |  |  |  |
 
 ## NYT - Where you are going
 
@@ -814,7 +856,6 @@
 | NYT | Where you are going |  |  | ...san iarnóin | in the afternoon |  |  |  |  |  |  |
 | NYT | Where you are going |  |  | ...tráthnóna | in the evening |  |  |  |  |  |  |
 | NYT | Where you are going |  |  | ...san oíche | in the night |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  |  |  |  |  |  |  |  |
 | NYT | Where you are going |  |  | uair | an hour |  |  |  |  |  | This word occurs quite frequently in everyday speech, so it is well worth learning the different forms. |
 | NYT | Where you are going |  |  | dhá uair | two hours |  |  |  |  |  | The word uair is irregular when preceded by numbers: |
 | NYT | Where you are going |  |  | trí ... sé huaire | three ... six hours |  |  |  |  |  |  |
@@ -1962,7 +2003,6 @@
 | Giota Beag - Series 1 | Take it easy! |  |  | +naoi déag | nineteen |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Take it easy! |  |  | +fiche | twenty |  |  |  | fihha |  |  |
 | Giota Beag - Series 1 | Take it easy! |  |  | +fiche aon? | twenty one |  |  |  | fihha aon |  |  |
-| Giota Beag - Series 1 | Take it easy! |  |  | ... |  |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Take it easy! |  |  | +triocha | thirty |  |  |  | truck-ah |  |  |
 | Giota Beag - Series 1 | Take it easy! |  |  | +daichead | forty |  |  |  | die-hid/dah-hid |  |  |
 | Giota Beag - Series 1 | Take it easy! |  |  | +caoga | fifty |  |  |  | cway-gah |  |  |
@@ -1971,7 +2011,6 @@
 | Giota Beag - Series 1 | Take it easy! |  |  | +ochtó | eighty |  |  |  | uck toe |  |  |
 | Giota Beag - Series 1 | Take it easy! |  |  | +nócha | ninety |  |  |  | noe-kah |  |  |
 | Giota Beag - Series 1 | Take it easy! |  |  | +céad | hundred |  |  |  | cay-d |  |  |
-| Giota Beag - Series 1 | Take it easy! |  |  |  |  |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Take it easy! |  |  | rang | class (or primary) |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Take it easy! |  |  | rang a sé | class (or primary) six/sixth class |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Take it easy! |  |  | clár | programme |  |  |  |  |  |  |
@@ -1980,7 +2019,6 @@
 | Giota Beag - Series 1 | Take it easy! |  |  | seomra a sé | room six |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Take it easy! |  |  | cá bhfuil seomra a hocht? | where is room eight? |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Take it easy! |  |  | tóg go bog é! | take it easy |  |  |  | toag go boag ay |  |  |
-| Giota Beag - Series 1 | Take it easy! |  |  |  |  |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Take it easy! |  |  | tá sé fuar | It is cold |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Take it easy! |  |  | An bhfuil sé fuar | Is it cold? |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Take it easy! |  |  | a haon a chlog | one o' clock |  |  |  |  |  |  |
@@ -2009,7 +2047,6 @@
 | Giota Beag - Series 1 | Days of the week |  |  | ar a seacht a chlog | at 7 o'clock |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Days of the week |  |  | ar ceathrú go dtí a (seacht) | at a quarter to (seven) |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Days of the week |  |  | ar leath I ndiaidh | at half past |  |  |  |  |  |  |
-| Giota Beag - Series 1 | Days of the week |  |  |  |  |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Days of the week |  |  | Dé Luain | Monday |  |  |  | je luan |  |  |
 | Giota Beag - Series 1 | Days of the week |  |  | Dé Máirt | Tuesday |  |  |  | je mwarch |  |  |
 | Giota Beag - Series 1 | Days of the week |  |  | Dé Céadaoin | Wednesday |  |  |  | je ceadine |  |  |
@@ -2017,16 +2054,13 @@
 | Giota Beag - Series 1 | Days of the week |  |  | Dé hAoine | Friday |  |  |  | je heanya |  |  |
 | Giota Beag - Series 1 | Days of the week |  |  | Dé Sathairn | Saturday |  |  |  | je sahern |  |  |
 | Giota Beag - Series 1 | Days of the week |  |  | Dé Domhnaigh | Sunday |  |  |  | je doughny |  |  |
-| Giota Beag - Series 1 | Days of the week |  |  |  |  |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Days of the week |  |  | beidh ceilí ann | there will be a ceili |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Days of the week |  |  | beidh diosco ann Dé Máirt | there will be a disco on Tuesday |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Days of the week |  |  | beidh Blas ann | Blas will be on |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Days of the week |  |  | ar leath i ndiaidh a seacht | at half past seven |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Days of the week |  |  | ar a seacht a chlog go dtí a hocht a chlog | at 7 o'clock to 8 o'clock |  |  |  | ???may not be right |  |  |
-| Giota Beag - Series 1 | Days of the week |  |  |  |  |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Days of the week |  |  | rua | red haired |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Days of the week |  |  | fionn | fair haired |  |  |  |  |  |  |
-| Giota Beag - Series 1 | Days of the week |  |  |  |  |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Days of the week |  |  | sláinte! | cheers! |  |  |  |  |  |  |
 
 ## Giota Beag - Series 1 - Today, tomorrow yesterday
@@ -2056,14 +2090,12 @@
 | Giota Beag - Series 1 | Phone calls |  |  | cuir scairt ghutháin orm | phone me |  |  |  | koor scart.. |  |  |
 | Giota Beag - Series 1 | Phone calls |  |  | ba mhaith liom labhairt le ... | I'd like to speak to ... |  |  |  | ba why lum lortch le |  |  |
 | Giota Beag - Series 1 | Phone calls |  |  | Cé atá ag caint? | who's speaking? |  |  |  |  |  |  |
-| Giota Beag - Series 1 | Phone calls |  |  |  |  |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Phone calls |  |  | MUSICAL INSTRUMENTS |  |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Phone calls |  |  | bodhrán | bodhran |  |  |  | boaran |  |  |
 | Giota Beag - Series 1 | Phone calls |  |  | píb uillinn | uillean pipes |  |  |  | peeb illan |  |  |
 | Giota Beag - Series 1 | Phone calls |  |  | bosca ceoil | squeeze box |  |  |  | boxa ceoil |  |  |
 | Giota Beag - Series 1 | Phone calls |  |  | feadóg | whistle |  |  |  | faadag |  |  |
 | Giota Beag - Series 1 | Phone calls |  |  | feadóg mhór | flute |  |  |  | faadag wore (big whistle) |  |  |
-| Giota Beag - Series 1 | Phone calls |  |  |  |  |  |  |  |  |  |  |
 | Giota Beag - Series 1 | Phone calls |  |  | maith thú | good on you/well done |  |  |  |  |  |  |
 
 ## Giota Beag - Series 1 - Orders
@@ -2349,659 +2381,3 @@
 | Giota Beag - Series 2 | 12 |  |  | Cad é cheannaigh tú? | What did you buy? |  |  |  |  |  |  |
 | Giota Beag - Series 2 | 12 |  |  | Cheannaigh mé geansaí úr | I bought a new jumper |  |  |  |  |  |  |
 | Giota Beag - Series 2 | 12 |  |  | Cheannaigh mé Crann Nollag | I bought a Christmas tree |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 12 |  |  | Cá mhéad a bhí air? | How much was it? |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 12 |  |  | Fuair mé cárta Nollag ó Una | I got a Christmas card from Una |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 12 |  |  | An bhfuair? | Did you get? |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 12 |  |  | Chuir mé cárta Nollag chuig Séamas | I sent a Christmas card to Séamas |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 12 |  |  | Cá bhfuil Oifig an Phoist? | Where is the Post Office? |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 12 |  |  | Gabh go dtí barr na sráide agus tiontaigh ar clé | Go to the top of the street and turn left |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 12 |  |  | Gabh díreach ar aghaidh agus tá sé ar dheis | Go straight ahead and it's on the right |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 12 |  |  | Tá sé os do chomhair | It's opposite you/in front of you |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 12 |  |  | Cinnte! | Certainly! |  |  |  |  |  |  |
-
-## Giota Beag - Series 2 - 13
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 2 | 13 |  |  | Tá sé in aice le Dún Geanainn | It’s near Dungannon |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Cén sórt tí é? | What kind of house is it? |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Is bungaló é | It’s a bungalow |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Is teach sraithe é | It’s a terraced house |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Is teach leathscoite é | It’s a semi-detached house |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Is teach scoite é | It’s a detached house |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Cá mhéad seomra atá ann? | How many rooms are in it? |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Tá deich seomra ann | There are ten rooms in it |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Cá mhéad seomra luí atá ann? | How many bedrooms are in it? |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Tá ceithre sheomra luí ann | There are four bedrooms in it |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Tá trí sheomra luí thuas staighre.. | There are three bedrooms upstairs… |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | ..agus seomra luí amháin thíos staighre | ..and one bedroom downstairs |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Cá bhfuil Liam? | Where is Liam? |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Tá sé sa seomra suí | He is in the sitting room |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Tá sí sa seomra folctha | She is in the bathroom |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Tá sé sa ghairdín | He is in the garden |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Tá sí sa gharáiste | She is in the garage |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Tá sé sa chistin | He is in the kitchen |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Tá sí sa seomra luí | She is in the bedroom |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 13 |  |  | Níl aon tinteán mar do thinteán féin! | There’s no hearth like your own hearth! |  |  |  |  |  |  |
-
-## Giota Beag - Series 2 - 14
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 2 | 14 |  |  | Sa chistin | In the kitchen |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Tá an dinnéar réidh | The dinner is ready |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | A phaistí, tá an tae réidh | Children, the tea is ready |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | An bhfuil an lón réidh? | Is the lunch ready? |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Tá sé beagnach réidh | It’s nearly ready |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Suigh síos ag an tábla anois | Sit down at the table now |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Cuir chugam scian agus forc le do thoil | Pass me a knife and a fork please |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Cuir chugam pláta le do thoil | Pass me a plate please |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Cuir chugam gloine le do thoil | Pass me a glass please |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Seo duit | Here you are |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Spúnóg | Spoon |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Salann agus Piobar | Salt and Pepper |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | An t-anlann donn | The brown sauce |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | An t-anlann dearg | The red sauce |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Ar mhaith leat prátaí? | Would you like some potatoes? |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Ar mhaith leat tuilleadh pasta? | Would you like some more pasta? |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Níor mhaith, níl ocras orm | No, I wouldn’t like any, I’m not hungry |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Ba mhaith, cuid mhór le do thoil | Yes, I’d like a lot please |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Glasraí | Vegetables |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Dhá phunt | Two pounds |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Trí phunt | Three pounds |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Ceithre phunt | Four pounds |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Cúig phunt | Five pounds |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Sé phunt | Six pounds |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Seacht bpunt | Seven pounds |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Ocht bpunt | Eight pounds |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Naoi bpunt | Nine pounds |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Deich bpunt | Ten pounds |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Tá mé lán go béal | I’m full up |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Bhí sin iontach deas | That was very nice |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Bhí sé sin iontach blasta | That was very tasty |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 14 |  |  | Bhí sé sin galánta | That was lovely |  |  |  |  |  |  |
-
-## Giota Beag - Series 2 - 15
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 2 | 15 |  |  | Caithfidh mé | I have to, I must |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 15 |  |  | Caithfidh mé imeacht | I have to go |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 15 |  |  | Caithfidh mé dul amach | I have to go out |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 15 |  |  | Caithfidh mé dul go dtí an banc | I have to go to the bank |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 15 |  |  | Caithfidh mé an dinnéar a dhéanamh | I have to make the dinner |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 15 |  |  | Caithfidh mé an lón a dhéanamh | I have to make the lunch |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 15 |  |  | Caithfidh mé cúpla rud a dhéanamh | I have to do a couple of things |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 15 |  |  | Nollaig Shona duit | Happy Christmas to you |  |  |  |  |  |  |
-
-## Giota Beag - Series 3 - 1
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 3 | 1 |  |  | Bhain mé sult as an lá. | I enjoyed the day. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | Mhúscail mé ar a seacht a chlog. | I awoke at seven o’clock. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | D’ith mé banana agus úll. | I ate a banana and an apple. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | D’ol mé gloine uisce. | I drank a glass of water. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | Shiúil mé go dtí an siopa. | I walked to the shop. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | Cheannaigh mé an nuachtán. | I bought the newspaper. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | Shuigh mé síos. | I sat down. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | Léigh mé an nuachtán. | I read the newspaper. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | D’amharc mé ar an teilifís. | I watched the television. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | D’éist mé le Giota Beag Eile. | I listened to Giota Beag Eile. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | D’fhoghlaim mé Gaeilge. | I learnt Irish. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | ard | tall |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | tanaí | thin |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | Tá mé ard. | I am tall. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | Tá mé tanaí. | I am thin. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | cairdiúil | friendly |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | cainteach | chatty |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | dearmadach | forgetful |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | Tá mé cairdiúil. | I am friendly. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | Tá mé cainteach. | I am chatty. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | Tá mé cairdiúil. | I am friendly. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | Sílim go bhfuil mé cairdiúil. | I think that I am friendly. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | Tá mé cainteach. | I am chatty. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | Sílim go bhfuil mé cainteach. | I think that I am chatty. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | Tá mé tuisceanach. | I am understanding. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | Deirtear go bhfuil mé tuisceanach. | It’s said that I am understanding. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | Deirtear go bhfuil mé iontach tuisceanach. | It’s said that I’m very understanding. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 1 |  |  | Is binn béal ina thost. | Silence is golden. |  |  |  |  |  |  |
-
-## Giota Beag - Series 3 - 2
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 3 | 2 |  |  | Agus chomh maith leis sin | And as well as that |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | Ach ar an drochuair | But unfortunately |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | mar | because |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | Níl mé pósta mar tá mé óg. | I’m not married because I’m young. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | fosta | also, as well |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | Agus rud eile dó | and furthermore / and another thing |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | deoch beag | a wee drink |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | Ná déan dearmad air sin. | Don’t forget about that. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | Níor bhris focal maith fiacail riamh. | Literally, a good word never broke a tooth.(So it doesn’t hurt to say a kind word about someone!) |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | bean chéile | wife |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | mo bhean chéile | my wife |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | cuidiúil | helpful |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | bríomhar | lively, outgoing, bubbly |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | siúlóidí | walks |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | agus caithfidh mise dul léi! | and I have to go with her! |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | ramhar | fat |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | giota beag ramhar | a little overweight |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | ag siúl amach le | going out with, going steady |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | gealgháireach | cheerful |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | smutach | huffy, moody |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | neamhspleách | independent |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | tarcaisneach | sarcastic |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | ó am go ham | from time to time |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | sean | old |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | níos sine | older |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 2 |  |  | is sine | oldest |  |  |  |  |  |  |
-
-## Giota Beag - Series 3 - 3
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 3 | 3 |  |  | ríomhaire | computer |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | ar an ríomhaire | on the computer |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | ar an idirlíon | on the internet |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | suíomh | site |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | suíomh idirlín | internet site |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | Ponc | dot |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | stríoc chun tosaigh | forward stroke |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | sean | old |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | níos sine | older |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | is sine | oldest |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | óg | young |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | níos óige | younger |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | is óige | youngest |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | an duine is óige | the youngest person, the youngest one |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | an duine is sine | the oldest person, the oldest one |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | fuar | cold |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | níos fuaire | colder |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | te | warm or hot |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | níos teo | warmer |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | luath | early |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | níos luaithe | earlier |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | mall | late |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | níos moille | later |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | Mar a bhíos an cú, bíonn an coileán! |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 3 |  |  | Like father, like son. Or, indeed, like mother like daughter! |  |  |  |  |  |  |  |
-
-## Giota Beag - Series 3 - 4
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 3 | 4 |  |  | maith | good |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | níos fearr | better |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | is fearr | best |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | olc | bad |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | níos measa | worse |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | is measa | worst |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | beag | small |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | níos lú | smaller |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | is lú | smallest |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | mór | large or big |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | níos mó | bigger |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | is mó | biggest |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | ainmnigh | name |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | contae | county |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | club sacair | soccer club |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | i Sasain | in England |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | in Albain | in Scotland |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | Ainmnigh an contae is mó in Éirinn. | Name the biggest or largest county in Ireland. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | Agus an freagra, the answer… Corcaigh, Cork. |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | Ainmnigh an contae is lú in Éirinn. | Name the smallest county in Ireland. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | Agus an freagra, the answer… Contae Lú, County Louth. |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | Ainmnigh an club sacair is fearr i Sasain. |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | Name the best soccer club in England. |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | Ainmnigh an club sacair is fearr in Albain. |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | Name the best soccer club in Scotland. |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | Ainmnigh an club sacair is measa i Sasain. |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | Name the worst soccer club in England. |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | Ainmnigh an club sacair is measa in Albain. |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | Name the worst soccer club in Scotland. |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | Níl aon leigheas ar an ghrá ach pósadh. | There is no cure for love except marriage. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | leigheas | cure |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | grá | love |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | Is binn béal ina thost. |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | Níor bhris focal maith fiacail riamh. |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | Mar a bhíos an cú, bíonn an coileán. |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | bean chéile | wife |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | deirfiúr | sister |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | mo bhean chéile | my wife |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | mo dheirfiúr | my sister |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | mo phas | my passport |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | do phas | your passport |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | a phas | his passport |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 4 |  |  | a pas | her passport |  |  |  |  |  |  |
-
-## Giota Beag - Series 3 - 5
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 3 | 5 |  |  | liom | with me |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | leat | with you |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | leis | with him |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | léi | with her |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | Ba mhaith liom | I’d like |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | Ba mhaith leat | You’d like |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | Ba mhaith leis | He’d like |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | Ba mhaith léi | She’d like |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | dom | to me |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | duit | to you |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | dó | to him |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | di | to her |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | Tabhair dom an leabhar | Give me the book. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | Thug mé an leabhar duit | I gave the book to you. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | Thug mé an leabhar dó | Literally, I gave the book to him. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | Thug mé an leabhar di | Literally, I gave the book to her. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | mo | my |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | do | your |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | a | his |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | a | her |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | ár | our |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | bhur | your |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | a | their |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | ár scoil | our school |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | bhur lón | your (plural) lunch |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 5 |  |  | a milseáin | their sweets |  |  |  |  |  |  |
-
-## Giota Beag - Series 3 - 6
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 3 | 6 |  |  | An dtiocfadh leat? | Could you? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | An dtiocfadh leat gar a dhéanamh? | Could you do a favour? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | An dtiocfadh leat gar a dhéanamh dom? | Could you do a favour for me? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | An dtiocfadh leat gar beag a dhéanamh dom? | Could you do a wee favour for me? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | An dtiocfadh leat an litir seo a chur sa phost | Could you post this letter |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | An dtiocfadh leat mé a thógáil ón bhus? | Could you lift me/collect me from the bus? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | An dtiocfadh leat mé a thógáil ón siopa? | Could you collect me from the shop |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | An dtiocfadh leat £20 punt a thógáil amach? | Could you take out £20? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | An dtiocfadh leat scairt a chur ar an gharáiste? | Could you phone the garage? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | Is fada an bóthar nach mbíonn casadh ann! |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | bóthar | road |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | casadh | a turning or a twist |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | Is fada an bóthar | It’s a long road |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | …nach mbíonn casadh ann | …which doesn’t have a turn or a twist |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | An dtiocfadh leat cúpla gar a dhéanamh dom? | Could you do a couple of favours for me? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | Thiocfadh | Yes I could |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | Ní thiocfadh | No, I could not |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | Cad é atá ann? | What is it? In this context, what is it - you want me to do |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | Go maire sibh bhur saol úr le chéile | May you live out your new life together. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | It’s nice to look at it as “May you have good health to live out a long life together.” |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | Bainis | wedding reception |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | Sláinte is fad saoil agaibh, teach ar bhur mian agaibh |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | Talamh gan chíos agaibh, fómhar gach bliain agaibh |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | Leanbh gach bliain agaibh, ón lá seo amach! |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | Good health and long life to you both, a house of your dreams, |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | Land without rent, a harvest each year, |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | A child every year, from this day on! |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | litir | letter |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | an litir seo | this letter |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | doras |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | an doras seo | this door |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | clár | programme |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | an clár seo | this programme |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | cárta | card |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 6 |  |  | an cárta seo | this card |  |  |  |  |  |  |
-
-## Giota Beag - Series 3 - 7
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 3 | 7 |  |  | An dtiocfadh leat gar beag a dhéanamh? | Could you do a wee favour? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | An dtiocfadh liom gar beag a dhéanamh? | Could I do a wee favour? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | An dtiocfadh leis gar beag a dhéanamh? | Could he do a wee favour? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | An dtiocfadh léi gar beag a dhéanamh? | Could she do a wee favour? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | An dtiocfadh leat gar beag a dhéanamh dom? | Could you do a wee favour for me? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | An dtiocfadh leat gar beag a dhéanamh dó? | Could you do a wee favour for him? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | An dtiocfadh leat gar beag a dhéanamh di? | Could you do a wee favour for her? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | An dtiocfadh liom gar beag a dhéanamh duit? | Could I do a wee favour for you? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | Is fada an lá. | It is/has been a long time. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | Ó, is fada. | Indeed it is/has been a long time. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | Is fada anlá ó d’ith mé pizza! | It’s a long time since I’ve eaten pizza! |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | Is fada an lá ó d’ól mé caife! | It’s a long time since I’ve drunk coffee! |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | D’éirigh liom. | I passed/succeeded. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | D’éirigh leat. | You passed/succeeded. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | D’éirigh leis. | He passed/succeeded. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | D’éirigh léi. | She passed/succeeded. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | Cad é mar a d’éirigh leat? | How did you get on? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | Theip orm. | I failed. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | Theip ort. | You failed. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | Theip air. | He failed. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | Theip uirthi. | She failed. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | Go maire tú é. | May you have good health to enjoy it. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | Go maire tú é is go gcaithe tú é. | May you have good health to enjoy it and wear it. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | Go maire tú é is go gcaithe tú é is go stróca tú é. | May you have good health to enjoy it, wear it and tear it. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | Go maire tú é is go gcaithe tú é is go stróca tú é is go bpósa tú fear ann. | May you have good health to enjoy it, wear it and tear it and marry a man in it. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | an litir sin | that letter |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | an clár sin | that programme |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | an gúna sin | that dress |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 7 |  |  | Cé acu is fearr leat? | Which do you prefer? |  |  |  |  |  |  |
-
-## Giota Beag - Series 3 - 8
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 3 | 8 |  |  | Cad é do bharúil? | What do you think? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | An dtiocfadh leat an dinnéar a dhéanamh? | Could make the dinner? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | an lón | the lunch |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | An dtiocfadh leat an lón a dhéanamh? | Could you make the lunch? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | an bricfeasta | the breakfast |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | An dtiocfadh leat an bricfeasta a dhéanamh? | Could you make the breakfast? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | an suipéar | the supper |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | An dtiocfadh leat an suipéar a dhéanamh? | Could you make the supper? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Ar mhaith leat? | Would you like? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Ar mhaith leat an dinnéar a dhéanamh? | Would you like to make the dinner? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Ar mhaith leat an lón a dhéanamh? | Would you like to make the lunch? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Ar mhaith leat an bricfeasta a dhéanamh? | Would you like to make the breakfast? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Ar mhaith leat dul amach ar shiúlóid? | Would you like to go out for a walk? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Ar mhaith leat dul amach anocht? | Would you like to go out tonight? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Ar mhaith leat dul chuig an phictiúrlann? | Would you like to go to the cinema? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Ar mhaith leat dul amach fá choinne béile anocht? | Would you like to go out for a meal tonight? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Ar mhaith leat buidéal fíona a fháil? | Would you like to get a bottle of wine? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Ar mhaith leat pizza a fháil? | Would you like to get a pizza? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Ar mhaith leat tacsaí a fháil? | Would you like to get a taxi? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Ba mhaith | Yes |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Níor mhaith | No |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Beidh a cuid féin ag an fharraige | The sea will have its own. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | eile | another |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | bus eile | another bus |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | briosca eile | another biscuit |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | ceann eile | another one |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | clár eile | another programme |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | gúna eile | another dress |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Tá mo sháith agam. | I’ve had my fill. / I’ve had enough. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | rud ar bith eile | anything else |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Ar mhaith leat briosca? | Would you like a biscuit? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Ar mhaith leat ceann eile? | Would you like another one? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Níor mhaith, go raibh maith agat. Tá mo sháith agam. | No, thanks. I’ve had enough. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Ar mhaith leat cupán eile tae? | Would you like another cup of tea? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 8 |  |  | Ar mhaith leat rud ar bith eile? | Would you like anything else? |  |  |  |  |  |  |
-
-## Giota Beag - Series 3 - 9
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 3 | 9 |  |  | Cad é mar a d’éirigh leat? | How did you get on? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Bain sult as an lá. | Enjoy the day. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Éirigh ar a seacht a chlog. | Get up at 7 o’clock. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Ith banana agus úll. | Eat a banana and an apple. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Ól deoch uisce. | Drink a glass of water. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Siúil go dtí an siopa. | Walk to the shop. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Ceannaigh an nuachtán. | Buy the paper. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Suigh síos. | Sit down. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Léigh an nuachtán. | Read the paper. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Amharc ar an teilifís. | Watch the TV. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Éist le Giota Níos Mó. | Listen to Giota Níos Mó. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Bain sult as an lá. | Enjoy the day. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Bainim sult as an lá. | I enjoy the day. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Éirigh ar a seacht a chlog. | Get up at 7 o’clock. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Éirím ar a seacht a chlog. | I get up at 7 o’clock. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Ith banana agus ull. | Eat a banana and an apple |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Ithim banana agus úll gach lá. | I eat a banana and an apple every day. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Ól gloine uisce. | Drink a glass of water. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Ólaim gloine uisce gach lá. | I drink a glass of water every day. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Siúil go dtí an siopa. | Walk to the shop |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Siúlaim go dtí an siopa | I walk to the shop |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Ceannaigh an nuachtán | Buy the newspaper. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Ceannaím an nuachtán | I buy the newspaper. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Suigh síos. | Sit down. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Suím síos. | I sit down. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Léigh an nuachtán | Read the newspaper. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Léim an nuachtán | I read the newspaper. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Amharc ar an teilifís. | Watch the television. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Amharcaim ar an teilifís. | I watch the television. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Éist le Giota Níos Mó. | Listen to Giota Níos Mó. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Éistim le Giota Níos Mó gach lá. | I listen to Giota Níos Mó every day. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Seanfhocal Chlár 9: |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Bíonn blas ar an bheagán. | A little bit of food is very tasty. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | Ba mhaith liom meachán a chailleadh. | I would like to lose weight. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | bus eile | another bus |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | an bus eile | the other bus |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | briosca eile | another biscuit |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | an briosca eile | the other biscuit |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | ceann eile | another one |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | an ceann eile | the other one |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | an chéad cheann eile | the next one |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | an bus eile | the other bus |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | an chéad bhus eile | the next bus |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | an clár eile | the other programme |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | clár eile | another programme |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | an chéad chlár eile | the next programme |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | an chéad uair eile | the next time |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 9 |  |  | an chéad rud eile | the next thing |  |  |  |  |  |  |
-
-## Giota Beag - Series 3 - 10
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 3 | 10 |  |  | Ithim torthaí. | I eat fruit. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 10 |  |  | Ní ithim seacláid. | I don’t eat chocolate. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 10 |  |  | Ithim glasraí ach ní ithim milseáin. | I eat vegetables but I don’t eat sweets. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 10 |  |  | Ólaim uisce ach ní ólaim caife. | I drink water but I don’t drink coffee. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 10 |  |  | Éistim le ceol ach ní éistim leis an nuacht. | I listen to music but I don’t listen to the news. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 10 |  |  | Amharcaim ar an teilifís ach ní amharcaim ar an nuacht | I watch television but I don’t watch the news. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 10 |  |  | Éirím go luath ar an Satharn ach ní éirím go luath ar an Domhnach. | I get up early on Saturday but I don’t get up early on Sunday. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 10 |  |  | Tuigim. | I understand. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 10 |  |  | Ní thuigim. | I don’t understand. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 10 |  |  | Tuigim ‘Slán’ ach ní thuigim ‘dochreidte’. | I understand ‘goodbye’ but I don’t understand ‘unbelievable’. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 10 |  |  | Tuigim Bríd ag caint Gaeilge ach ní thuigim Hiúdaí ag caint Gaeilge. | I understand Bríd speaking Irish but I don’t understand Hiúdaí speaking Irish. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 10 |  |  | Tuigim ‘Pythagoras’ ach ní thuigim ‘Trigonometry’. | I understand ‘Pythagoras’ but I don’t understand ‘Trigonometry’. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 10 |  |  | Ní thuigim. | I don’t understand. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 10 |  |  | Ní cheannaím. | I don’t buy. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 10 |  |  | Ní shuím. | I don’t sit. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 10 |  |  | Is maith an t-anlann an t-ocras. | Hunger is a great sauce. |  |  |  |  |  |  |
-
-## Giota Beag - Series 3 - 11
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 3 | 11 |  |  | barraíocht | too much |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | mórán | many |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | go minic | often |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | cuid mhór | a lot |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | níos mó | more |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | níos lú | less |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | a oiread | as much / as many |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | Ghiorsaighe óg,’bhfuil Béarla agat? | Young girl, can you speak English? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | Leóga, muise, tá! | Indeed, I can! |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | Caidé mar a chuirfeá an madadh amach? | How would you put the dog out? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  |  | Out the dog awa!! |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | Ithim. | I eat. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | Itheann tú. | You eat. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | An itheann tú? | Do you eat? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | Tuigim. | I understand. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | Tuigeann tú. | You understand. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | An dtuigeann tú? | Do you understand? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | Téim. | I go. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | An dtéann tú? | Do you go? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | An bhfuil sé fuar? | Is it cold? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | Tá. / Níl. | Yes. / No. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | Déanaim. | I do / make. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | An ndéanann tú? | Do you do / make? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | Díolaim as. | I pay for. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | An ndíolann tú as? | Do you pay for? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | An dtéann tú chuig an phictiúrlann go minic? | Do you go to the cinema often? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | An dtéann tú chuig cluiche peile go minic? | Do you go to a football match often? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | An dtéann tú ag snámh go minic? | Do you go swimming often? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | An dtéann tú go Béal Feirste go minic? | Do you go to Belfast often? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | An bhfuil airgead agat? | Do you have money? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | An ndéanann tú Yoga? | Do you do Yoga? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | An ndíolann tú as na ranganna? | Do you pay for the classes? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 11 |  |  | An ndéanann tú an dinnéar go minic? | Do you make the dinner often? |  |  |  |  |  |  |
-
-## Giota Beag - Series 3 - 12
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 3 | 12 |  |  | Creidim. | I believe. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | Creideann tú. | You believe. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | An gcreideann tú? | Do you believe? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | Ceannaím. | I buy. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | Ceannaíonn tú. | You buy. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | An gceannaíonn tú? | Do you buy? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | Bím. | I be. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | Bíonn tú. | You be. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | An mbíonn tú? - Do you be? |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | An mbíonn tú ag obair gach Aoine? | Do you work every Friday? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | An mbíonn tú ag obair gach Satharn? | Do you work every Saturday? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | ar an Luan | on Mondays |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | ach an Satharn agus an Domhnach | except Saturday and Sunday |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | ag deireadh na seachtaine | at the weekend |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | trí lá gach seachtain | three days every week |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | An nglanann tú an carr gach Aoine? | Do you clean the car every Friday? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | Glanaim. | I clean. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | Ní glanaim. | I don’t clean. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | Glanann tú. | You clean. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | anois agus arís | now and again |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | na fuinneoga | the windows |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | uair sa mhí | once a month |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | cleachtadh | practice |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | máistreacht | a mastery, perfection |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | Cleachtadh a dhéanann máistreacht. | Practise makes perfect. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | ár scoil | our school |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | bhur lón | your (pl.) lunch |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | a milseáin | their sweets |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | ár bplátaí | our plates |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | bhur bplátaí | your plates |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 12 |  |  | a bplátaí | their plates |  |  |  |  |  |  |
-
-## Giota Beag - Series 3 - 13
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 3 | 13 |  |  | Glan an tábla. | Clean the table |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | Tá sé glanta. | It’s cleaned. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | Déan an lón. | Make the lunch. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | Tá sé déanta. | It’s made. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | Líon isteach an fhoirm sin. | Fill in that form. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | Tá sé líonta. | It’s filled in. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | druid | close |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | druidte | closed |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | oscail | open |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | oscailte | opened |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | léigh | read |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | léite | read |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | caill | lose |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | caillte | lost |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | Tá an siopa sin druidte ach tá an siopa seo go fóill oscailte. | That shop is closed but this shop is still open |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | Close that door please, it’s cold. | It is closed. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | Oscail an fhuinneog, le do thoil, tá sé iontach te. | Tá sé oscailte. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | Open the window, please, it’s very warm. | It is open. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | Tá Bran caillte. | Bran is lost. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | Tá an leabhar leite. | The book is read. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | Tá an leabhar léite agam. | I have read the book. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | croí | heart, dear or love |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | a ghrá | love (when speaking to someone) |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | grá geal mo chroí | the bright love of my heart, my sweetheart |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | mo chroí | my love |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | a ruin | loved one |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | rúin mo chroí | love of my heart |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | a thaiscigh | my dear, darling |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | bris | break |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | briste | broken |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | ith | eat |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | ite | eaten |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | nite | washed |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | thart | over, finished |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | grma can be text for go raibh maith agat | thank you |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | eay can be text for oíche mhaith | goodnight |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | sgf can be text for slán go fóill | goodbye for now |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | ldt can be text for le do thoil | please |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | the letter j can be text for cad é | what |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | the letters an followed by the digit 8, ocht in Irish, can stand for anocht, an8 – tonight |  |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | kwul2 can be cá bhfuil tú? | where are you? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 13 |  |  | gao can be grá agam ort | love you |  |  |  |  |  |  |
-
-## Giota Beag - Series 3 - 14
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 3 | 14 |  |  | críochnaigh | finish |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | críochnaigh an crosfhocal sin. | finish that crossword. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | ceannaigh | buy |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | ceannaigh an nuachtán. | buy the newspaper. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | cóirigh | arrange or dress |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | cóirigh an leaba | make the bed. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | ceartaigh | correct |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | ceartaithe | corrected |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | sínigh | sign |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | sínithe | signed |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | roghnaigh | choose |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | roghnaithe | chosen |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | deisigh | repair or fix |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | deisithe | repaired |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | Fuair tú scairt ghutháin; tá do ghuthán póca deisithe. | You got a phone call; your mobile phone is fixed. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | Roghnaigh an dath is fearr leat. | Choose the colour you prefer. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | Tá sé roghnaithe agam; gorm. | I have chosen it; blue. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | Sínigh an nóta scoile sin, le do thoil, a chroí. | Sign that school note, please, love. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | Tá sé sínithe agam. | I have it signed. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | Ceartaigh an obair bhaile sin le do thoil. | Correct that homework please. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | Tá an obair bhaile sin ceartaithe agam. | I have that homework corrected. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | faoiseamh | relief |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | seal beag gairid | a short little while |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | i measc mo dhaoine | among my people |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | ar oileán mara | on a sea island |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | ag siúl cois cladaigh | walking by the shore |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | maidin is tráthnóna | morning and evening |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | ó Luan go Satharn | from Monday to Saturday |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | thiar ag baile | back at home, in the west |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | ó chrá croí | from heart ache |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | ó bhuairt aigne | from anxiety and work |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | ó uaigneas duairc | from dark loneliness |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | ó chaint ghontach | from hurtful talk |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | An bhfuil an leabhar sin léite agat? | Have you read that book? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | Tá an leabhar sin léite aige. | He has read that book. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | Tá an leabhar sin léite aici. | She has read that book. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | Tá an leabhar sin léite againn | We have read that book. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | Tá an leabhar sin léite agaibh | You (pl) have read that book. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | Tá an leabhar sin léite acu | They have read that book. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | Och och mo mhadadh beag | Aw, my wee dog |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | tá piachán i mo sceadamán | I am hoarse |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | ag scairtigh ar mo mhadadh beag. | calling my wee dog. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | Luím ar mo leabaidh | I lie in my bed |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | ‘gus ní chodlaím aon néal go maidin | and I don’t sleep a wink |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | ach ag meabhrú ar mo mhadadh beag | thinking of my wee dog |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 14 |  |  | a d’imigh uaim sa scarthanaigh. | who left me at daybreak. |  |  |  |  |  |  |
-
-## Giota Beag - Series 3 - 15
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 3 | 15 |  |  | Bain sult as an lá. | Enjoy the day. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Bainfidh mé sult as an lá. | I will enjoy the day. Bainfidh mé sult as an lá. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Ól gloine uisce | Drink a glass of water. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Ólfaidh mé gloine uisce. | I will drink a glass of water. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Siúil go dtí an siopa. | Walk to the shop. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Siúlfaidh mé go dtí an siopa. | I will walk to the shop. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Suigh síos. | Sit down. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Suífidh mé síos. | I will sit down. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Léigh an nuachtán. | Read the newspaper. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Léifidh mé an nuachtán. | I will read the newspaper. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Amharc ar an teilifís. | Watch the television. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Amharcfaidh mé ar an teilifís. | I will watch the television. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Éist le Giota Níos Mó | Listen to Giota Níos Mó. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Éistfidh mé le GNM gach lá. | I will listen to Giota Níos Mó every day. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | an carr s’agam | my car |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | an carr s’agat | your car |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | an carr s’aige | his car |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | an carr s’aici | her car |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | an carr s’againn | our car |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | an carr s’agaibh | your (pl.) car |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | an carr s’acu | their car |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Chífidh mé. | I will see. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Chífidh mé thú. | I will see you. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Déanfaidh mé. | I will do. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Déanfaidh mé sin amárach. | I will do that tomorrow. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Rachaidh mé. | I will go. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Rachaidh mé ar ais amárach. | I will go back tomorrow. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Scairtfidh mé. | I will call/shout. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Scairtfidh mé ort amárach. | I will phone you tomorrow. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | An rachaidh tú? | Will you go? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | An rachaidh tú amach anocht? | Will you go out tonight? |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Ní rachaidh | No, I will not go out. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Níl mé cinnte an rachaidh nó nach rachaidh. | I’m not sure if I’ll go or not. |  |  |  |  |  |  |
-| Giota Beag - Series 3 | 15 |  |  | Mol an óige is tiocfaidh sí. | Praise the youth and it will come / they will blossom. |  |  |  |  |  |  |

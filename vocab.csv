@@ -491,17 +491,17 @@ NYT	Languages	WORD	LANGUAGE	Gaeilge	Irish
 NYT	Languages	WORD	LANGUAGE	Fraincis	French						
 NYT	Languages	WORD	LANGUAGE	Béarla	English						
 NYT	Languages	WORD	LANGUAGE	Gearmáinis	German						
-NYT	Languages	WORD	LANGUAGE	Iodáilis	Itailian						
+NYT	Languages	WORD	LANGUAGE	Iodáilis	Italian						
 NYT	Languages	WORD	LANGUAGE	Spáinnis	Spanish						
 NYT	Languages	WORD	LANGUAGE	Breatnais	Welsh						
 NYT	Languages	WORD	LANGUAGE	Gaeilge na hAlban	Gaelic (Scotland)						
-NYT	Languages	TEMPLATE		An bhfuil $LANGUAGE agat?	Can you speak $LANGUAGE?			Have you ...?			
+NYT	Languages	TEMPLATE		An bhfuil $LANGUAGE agat?	Can you speak $LANGUAGE?			Have you $LANGUAGE? Is $LANGUAGE at you?			
 NYT	Languages	QUESTION		An bhfuil Gaeilge agat?	Can you speak Irish?	repeat for other languages					
-NYT	Languages	SENTENCE		Tá Gaeilge líofa agam.	I speak Irish fluently.						
+NYT	Languages	TEMPLATE		Tá $LANGUAGE líofa agam.	I speak $LANGUAGE fluently.						
 NYT	Languages	SENTENCE		Tá beagán Fraincise agam.	I speak a little French.						
 NYT	Languages	SENTENCE		Tá mé ag foghlaim Gearmáinise.	I'm learning German.						
 NYT	Languages	SENTENCE		Níl mórán Iodáilise agam.	I can't speak much Italian.						
-NYT	Languages	SENTENCE		Níl aon Fraincis agam.	I don't speak french.						
+NYT	Languages	TEMPLATE		Níl aon $LANGUAGE agam.	I don't speak $LANGUAGE.						
 NYT	Languages	SENTENCE		Tá.	Yes.						
 NYT	Languages	SENTENCE		Níl.	No.						
 NYT	Languages	SENTENCE		Beagán.	A little.						
@@ -520,12 +520,11 @@ NYT	Languages	PHRASE		San ollscoil	At the university
 NYT	Languages	PHRASE		Ó fhístéipeanna sa bhaile	From videotapes at home						
 NYT	Languages	PHRASE		ó físeán	from video						
 NYT	Languages	PHRASE		ó físeáin	from videos						
-NYT	Languages	QUESTION		An dtuigeann tú Gaeilge?	Do you understand Irish?				an diggin to Gaelic?		
+NYT	Languages	TEMPLATE		An dtuigeann tú $LANGUAGE?	Do you understand $LANGUAGE?				an diggin to Gaelic?		
 NYT	Languages	SENTENCE		Tuigim.	Yes (I do understand).						
 NYT	Languages	SENTENCE		Ní thuigim.	No (I don't understand).						
-NYT	Languages	QUESTION		An ólann tú caife?	Do you drink coffee?						
-NYT	Languages	SENTENCE		Ólaim.	Yes.						
-NYT	Languages	SENTENCE		Ní ólaim	No.						
+NYT	Languages	SENTENCE		Tuigim $LANGUAGE	I do understand $LANGUAGE						
+NYT	Languages	SENTENCE		Ní thuigim $LANGUAGE	I don't understand $LANGUAGE						
 NYT	Expressing Opinions			Is maith liom ...	I like ...						
 NYT	Expressing Opinions			Is breá liom ...	I really like ...						
 NYT	Expressing Opinions			Tá dúil mhór agam i(n)...	I really like ...						
@@ -673,6 +672,9 @@ NYT	What you want			Seo do phionta	Here's your pint.
 NYT	What you want			Sláinte mhaith agat i bhfad ó bhrón.	Good health, free from sorrow.						
 NYT	What you want			Sláinte do bheo agus tróicaire do mharbh.	Health to the living and mercy on the dead.						
 NYT	What you want			Go mba fada a mhairfidh tú.	Long life to you						
+NYT	What you want	QUESTION		An ólann tú caife?	Do you drink coffee?						
+NYT	What you want	SENTENCE		Ólaim.	Yes/I drink						
+NYT	What you want	SENTENCE		Ní ólaim	No/I don’t drink						
 NYT	Where you are going			Cá bhfuil tú ag dul?	Where are you going?		s		Ca will to a-gull		
 NYT	Where you are going			Cá bhfuil sibh ag dul?	Where are you going?		p		Ca will to a-gull		
 NYT	Where you are going			Cá bhfuil tusa ag dul?	Where are *you* going?		s				
@@ -740,7 +742,6 @@ NYT	Where you are going			...meán lae	midday
 NYT	Where you are going			...san iarnóin	in the afternoon						
 NYT	Where you are going			...tráthnóna	in the evening						
 NYT	Where you are going			...san oíche	in the night						
-NYT	Where you are going										
 NYT	Where you are going			uair	an hour						This word occurs quite frequently in everyday speech, so it is well worth learning the different forms.
 NYT	Where you are going			dhá uair	two hours						The word uair is irregular when preceded by numbers:
 NYT	Where you are going			trí ... sé huaire	three ... six hours						
@@ -1768,7 +1769,6 @@ Giota Beag - Series 1	Take it easy!			+hocht déag	eighteen
 Giota Beag - Series 1	Take it easy!			+naoi déag	nineteen						
 Giota Beag - Series 1	Take it easy!			+fiche	twenty				fihha		
 Giota Beag - Series 1	Take it easy!			+fiche aon?	twenty one				fihha aon		
-Giota Beag - Series 1	Take it easy!			...							
 Giota Beag - Series 1	Take it easy!			+triocha	thirty				truck-ah		
 Giota Beag - Series 1	Take it easy!			+daichead	forty				die-hid/dah-hid		
 Giota Beag - Series 1	Take it easy!			+caoga	fifty				cway-gah		
@@ -1777,7 +1777,6 @@ Giota Beag - Series 1	Take it easy!			+seachtó	seventy				shock toe
 Giota Beag - Series 1	Take it easy!			+ochtó	eighty				uck toe		
 Giota Beag - Series 1	Take it easy!			+nócha	ninety				noe-kah		
 Giota Beag - Series 1	Take it easy!			+céad	hundred				cay-d		
-Giota Beag - Series 1	Take it easy!										
 Giota Beag - Series 1	Take it easy!			rang	class (or primary)						
 Giota Beag - Series 1	Take it easy!			rang a sé	class (or primary) six/sixth class						
 Giota Beag - Series 1	Take it easy!			clár	programme						
@@ -1786,7 +1785,6 @@ Giota Beag - Series 1	Take it easy!			seomra	room
 Giota Beag - Series 1	Take it easy!			seomra a sé	room six						
 Giota Beag - Series 1	Take it easy!			cá bhfuil seomra a hocht?	where is room eight?						
 Giota Beag - Series 1	Take it easy!			tóg go bog é!	take it easy				toag go boag ay		
-Giota Beag - Series 1	Take it easy!										
 Giota Beag - Series 1	Take it easy!			tá sé fuar	It is cold						
 Giota Beag - Series 1	Take it easy!			An bhfuil sé fuar	Is it cold?						
 Giota Beag - Series 1	Take it easy!			a haon a chlog	one o' clock						
@@ -1810,7 +1808,6 @@ Giota Beag - Series 1	Days of the week			tá sé ceathrú go dtí	it's a quarter
 Giota Beag - Series 1	Days of the week			ar a seacht a chlog	at 7 o'clock						
 Giota Beag - Series 1	Days of the week			ar ceathrú go dtí a (seacht)	at a quarter to (seven)						
 Giota Beag - Series 1	Days of the week			ar leath I ndiaidh	at half past						
-Giota Beag - Series 1	Days of the week										
 Giota Beag - Series 1	Days of the week			Dé Luain	Monday				je luan		
 Giota Beag - Series 1	Days of the week			Dé Máirt	Tuesday				je mwarch		
 Giota Beag - Series 1	Days of the week			Dé Céadaoin	Wednesday				je ceadine		
@@ -1818,16 +1815,13 @@ Giota Beag - Series 1	Days of the week			Déardaoin	Thursday				jeardine
 Giota Beag - Series 1	Days of the week			Dé hAoine	Friday				je heanya		
 Giota Beag - Series 1	Days of the week			Dé Sathairn	Saturday				je sahern		
 Giota Beag - Series 1	Days of the week			Dé Domhnaigh	Sunday				je doughny		
-Giota Beag - Series 1	Days of the week										
 Giota Beag - Series 1	Days of the week			beidh ceilí ann	there will be a ceili						
 Giota Beag - Series 1	Days of the week			beidh diosco ann Dé Máirt	there will be a disco on Tuesday						
 Giota Beag - Series 1	Days of the week			beidh Blas ann	Blas will be on						
 Giota Beag - Series 1	Days of the week			ar leath i ndiaidh a seacht	at half past seven						
 Giota Beag - Series 1	Days of the week			ar a seacht a chlog go dtí a hocht a chlog	at 7 o'clock to 8 o'clock				???may not be right		
-Giota Beag - Series 1	Days of the week										
 Giota Beag - Series 1	Days of the week			rua	red haired						
 Giota Beag - Series 1	Days of the week			fionn	fair haired						
-Giota Beag - Series 1	Days of the week										
 Giota Beag - Series 1	Days of the week			sláinte!	cheers!						
 Giota Beag - Series 1	Today, tomorrow yesterday			Tá Blas ann	Blas is on (at this minute)						
 Giota Beag - Series 1	Today, tomorrow yesterday			bhí Blas ann	Blas was on				vee Blas on		
@@ -1847,14 +1841,12 @@ Giota Beag - Series 1	Phone calls			scairt ghutháin	phone call
 Giota Beag - Series 1	Phone calls			cuir scairt ghutháin orm	phone me				koor scart..		
 Giota Beag - Series 1	Phone calls			ba mhaith liom labhairt le ...	I'd like to speak to ...				ba why lum lortch le		
 Giota Beag - Series 1	Phone calls			Cé atá ag caint?	who's speaking?						
-Giota Beag - Series 1	Phone calls										
 Giota Beag - Series 1	Phone calls			MUSICAL INSTRUMENTS							
 Giota Beag - Series 1	Phone calls			bodhrán	bodhran				boaran		
 Giota Beag - Series 1	Phone calls			píb uillinn	uillean pipes				peeb illan		
 Giota Beag - Series 1	Phone calls			bosca ceoil	squeeze box				boxa ceoil		
 Giota Beag - Series 1	Phone calls			feadóg	whistle				faadag		
 Giota Beag - Series 1	Phone calls			feadóg mhór	flute				faadag wore (big whistle)		
-Giota Beag - Series 1	Phone calls										
 Giota Beag - Series 1	Phone calls			maith thú	good on you/well done						
 Giota Beag - Series 1	Orders			Tar isteach	come in						
 Giota Beag - Series 1	Orders			doras	door						
