@@ -605,13 +605,21 @@
 | NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Spáinnis? | Where are you learning Spanish? |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Breatnais? | Where are you learning Welsh? |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Gaeilge na hAlban? | Where are you learning Gaelic (Scotland)? |  |  |  |  |  |  |
-| NYT | Languages | PHRASE |  | Ón teilifís | From the television |  |  |  |  |  |  |
-| NYT | Languages | PHRASE |  | Ón raidió | From the radio |  |  |  |  |  |  |
-| NYT | Languages | PHRASE |  | Ag rang oíche | At a night class |  |  |  |  |  |  |
-| NYT | Languages | PHRASE |  | San ollscoil | At the university |  |  |  |  |  |  |
-| NYT | Languages | PHRASE |  | Ó fhístéipeanna sa bhaile | From videotapes at home |  |  |  |  |  |  |
-| NYT | Languages | PHRASE |  | ó físeán | from video |  |  |  |  |  |  |
-| NYT | Languages | PHRASE |  | ó físeáin | from videos |  |  |  |  |  |  |
+| NYT | Languages | PHRASE | LANG_LEARN_SOURCE | ón teilifís | From the television |  |  |  |  |  |  |
+| NYT | Languages | PHRASE | LANG_LEARN_SOURCE | ón raidió | From the radio |  |  |  |  |  |  |
+| NYT | Languages | PHRASE | LANG_LEARN_SOURCE | ag rang oíche | At a night class |  |  |  |  |  |  |
+| NYT | Languages | PHRASE | LANG_LEARN_SOURCE | san ollscoil | At the university |  |  |  |  |  |  |
+| NYT | Languages | PHRASE | LANG_LEARN_SOURCE | ó fhístéipeanna sa bhaile | From videotapes at home |  |  |  |  |  |  |
+| NYT | Languages | PHRASE | LANG_LEARN_SOURCE | ó físeán | from video |  |  |  |  |  |  |
+| NYT | Languages | PHRASE | LANG_LEARN_SOURCE | ó físeáin | from videos |  |  |  |  |  |  |
+| NYT | Languages | TEMPLATE |  | Tá mé ag foghlaim Gaeilge $LANG_LEARN_SOURCE. | I am learning Irish $LANG_LEARN_SOURCE. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ón teilifís. | I am learning Irish From the television. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ón raidió. | I am learning Irish From the radio. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ag rang oíche. | I am learning Irish At a night class. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge san ollscoil. | I am learning Irish At the university. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ó fhístéipeanna sa bhaile. | I am learning Irish From videotapes at home. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ó físeán. | I am learning Irish from video. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ó físeáin. | I am learning Irish from videos. |  |  |  |  |  |  |
 | NYT | Languages | TEMPLATE |  | An dtuigeann tú $LANGUAGE? | Do you understand $LANGUAGE? |  |  |  | an diggin to $LANGUAGE? |  |  |
 | NYT | Languages | DYNAMIC  |  | An dtuigeann tú Gaeilge? | Do you understand Irish? |  |  |  | an diggin to $LANGUAGE? |  |  |
 | NYT | Languages | DYNAMIC  |  | An dtuigeann tú Fraincis? | Do you understand French? |  |  |  | an diggin to $LANGUAGE? |  |  |
@@ -2396,4 +2404,3 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Giota Beag - Series 2 | 12 |  |  | Cheannaigh mé bronntanas Nollag | I bought a Christmas present |  |  |  |  |  |  |
 | Giota Beag - Series 2 | 12 |  |  | Cad é cheannaigh tú? | What did you buy? |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 12 |  |  | Cheannaigh mé geansaí úr | I bought a new jumper |  |  |  |  |  |  |

@@ -514,13 +514,14 @@ NYT	Languages	SENTENCE		Tá Iodáilis agam ach níl aon Spáinnis agam.	I speak 
 NYT	Languages	SENTENCE		Níl aon Fraincis nó Spáinnis agam.	I speak neither French nor Spanish.						
 NYT	Languages	QUESTION		Cá háit?	Where?				Ca hatch?		If you tell someone that you are learning a language, you might be asked where:
 NYT	Languages	QUESTION		Cá bhfuil tú ag foghlaim $LANGUAGE?	Where are you learning $LANGUAGE?						
-NYT	Languages	PHRASE		Ón teilifís	From the television						
-NYT	Languages	PHRASE		Ón raidió	From the radio						
-NYT	Languages	PHRASE		Ag rang oíche	At a night class						
-NYT	Languages	PHRASE		San ollscoil	At the university						
-NYT	Languages	PHRASE		Ó fhístéipeanna sa bhaile	From videotapes at home						
-NYT	Languages	PHRASE		ó físeán	from video						
-NYT	Languages	PHRASE		ó físeáin	from videos						
+NYT	Languages	PHRASE	LANG_LEARN_SOURCE	ón teilifís	From the television						
+NYT	Languages	PHRASE	LANG_LEARN_SOURCE	ón raidió	From the radio						
+NYT	Languages	PHRASE	LANG_LEARN_SOURCE	ag rang oíche	At a night class						
+NYT	Languages	PHRASE	LANG_LEARN_SOURCE	san ollscoil	At the university						
+NYT	Languages	PHRASE	LANG_LEARN_SOURCE	ó fhístéipeanna sa bhaile	From videotapes at home						
+NYT	Languages	PHRASE	LANG_LEARN_SOURCE	ó físeán	from video						
+NYT	Languages	PHRASE	LANG_LEARN_SOURCE	ó físeáin	from videos						
+NYT	Languages	TEMPLATE		Tá mé ag foghlaim Gaeilge $LANG_LEARN_SOURCE.	I am learning Irish $LANG_LEARN_SOURCE.						
 NYT	Languages	TEMPLATE		An dtuigeann tú $LANGUAGE?	Do you understand $LANGUAGE?				an diggin to $LANGUAGE?		
 NYT	Languages	SENTENCE		Tuigim.	Yes (I do understand).						
 NYT	Languages	SENTENCE		Ní thuigim.	No (I don't understand).						
