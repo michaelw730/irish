@@ -183,7 +183,7 @@ Here are a list of pronouns used in Irish.
 | tú          | you (singular) |          |       |      |
 | sé / é      | he, him, it    |          |       |      |
 | sí / í      | she, her, it   |          |       |      |
-| sinn / muid | we, us         |          |       |      |
+| muid / sinn | we, us         |          |       |      |
 | sibh        | you (plural)   |          |       |      |
 | siad / iad  | they, them     |          |       |      |
 
