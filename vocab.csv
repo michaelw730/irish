@@ -500,7 +500,6 @@ NYT	Languages	WORD	LANGUAGE2	Fraincise	French
 NYT	Languages	WORD	LANGUAGE2	Gearmáinise	German						
 NYT	Languages	WORD	LANGUAGE2	Iodáilise	Italian						
 NYT	Languages	TEMPLATE		An bhfuil $LANGUAGE agat?	Can you speak $LANGUAGE?			Have you $LANGUAGE? Is $LANGUAGE at you?			
-NYT	Languages	QUESTION		An bhfuil Gaeilge agat?	Can you speak Irish?						
 NYT	Languages	TEMPLATE		Tá $LANGUAGE líofa agam.	I speak $LANGUAGE fluently.						
 NYT	Languages	SENTENCE		Tá beagán $LANGUAGE2 agam.	I speak a little $LANGUAGE2.						
 NYT	Languages	SENTENCE		Tá mé ag foghlaim.	I'm learning.						
@@ -515,7 +514,7 @@ NYT	Languages	QUESTION		Cad é na teangacha atá agat?	Which/what languages can 
 NYT	Languages	QUESTION		Cad é na teangacha eile atá agat?	Which/what other languages can you speak?						
 NYT	Languages	SENTENCE		Tá Fraincis agus Gearmáinis agam.	I speak French and German.	repeat for other languages					
 NYT	Languages	SENTENCE		Tá Iodáilis agam ach níl aon Spáinnis agam.	I speak Italian but I can't speak Spanish.	repeat for other languages					
-NYT	Languages	SENTENCE		Níl aon Fraincis nó Spáinnis agam.	I speak neither French nor Spanish.	repeat for other languages					
+NYT	Languages	SENTENCE		Níl aon Fhraincis nó Spáinnis agam.	I speak neither French nor Spanish.	repeat for other languages					
 NYT	Languages	QUESTION		Cá háit?	Where?				Ca hatch?		If you tell someone that you are learning a language, you might be asked where:
 NYT	Languages	QUESTION		Cá bhfuil tú ag foghlaim $LANGUAGE2?	Where are you learning $LANGUAGE2?						
 NYT	Languages	PHRASE	LANG_LEARN_SOURCE	ón teilifís	from the television						

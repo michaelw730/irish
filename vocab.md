@@ -567,7 +567,6 @@
 | NYT | Languages | DYNAMIC  |  | An bhfuil Spáinnis agat? | Can you speak Spanish? |  |  | Have you Spanish? Is Spanish at you? |  |  |  |
 | NYT | Languages | DYNAMIC  |  | An bhfuil Breatnais agat? | Can you speak Welsh? |  |  | Have you Welsh? Is Welsh at you? |  |  |  |
 | NYT | Languages | DYNAMIC  |  | An bhfuil Gaeilge na hAlban agat? | Can you speak Gaelic (Scotland)? |  |  | Have you Gaelic (Scotland)? Is Gaelic (Scotland) at you? |  |  |  |
-| NYT | Languages | QUESTION |  | An bhfuil Gaeilge agat? | Can you speak Irish? |  |  |  |  |  |  |
 | NYT | Languages | TEMPLATE |  | Tá $LANGUAGE líofa agam. | I speak $LANGUAGE fluently. |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Tá Gaeilge líofa agam. | I speak Irish fluently. |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Tá Fraincis líofa agam. | I speak French fluently. |  |  |  |  |  |  |
@@ -610,7 +609,7 @@
 | NYT | Languages | QUESTION |  | Cad é na teangacha eile atá agat? | Which/what other languages can you speak? |  |  |  |  |  |  |
 | NYT | Languages | SENTENCE |  | Tá Fraincis agus Gearmáinis agam. | I speak French and German. | repeat for other languages |  |  |  |  |  |
 | NYT | Languages | SENTENCE |  | Tá Iodáilis agam ach níl aon Spáinnis agam. | I speak Italian but I can't speak Spanish. | repeat for other languages |  |  |  |  |  |
-| NYT | Languages | SENTENCE |  | Níl aon Fraincis nó Spáinnis agam. | I speak neither French nor Spanish. | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | SENTENCE |  | Níl aon Fhraincis nó Spáinnis agam. | I speak neither French nor Spanish. | repeat for other languages |  |  |  |  |  |
 | NYT | Languages | QUESTION |  | Cá háit? | Where? |  |  |  | Ca hatch? |  | If you tell someone that you are learning a language, you might be asked where: |
 | NYT | Languages | QUESTION |  | Cá bhfuil tú ag foghlaim $LANGUAGE2? | Where are you learning $LANGUAGE2? |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Gaeilge? | Where are you learning Irish? |  |  |  |  |  |  |
@@ -2407,3 +2406,4 @@
 | Giota Beag - Series 2 | 11 |  |  | Chonaic mé Cats | I saw Cats |  |  |  |  |  |  |
 | Giota Beag - Series 2 | 11 |  |  | Chuala muid Big Ben | We heard Big Ben |  |  |  |  |  |  |
 | Giota Beag - Series 2 | 11 |  |  | Dúirt siad go raibh sé ar fheabhas | They said that it was excellent |  |  |  |  |  |  |
+| Giota Beag - Series 2 | 11 |  |  | Chonaic siad Riverdance | They saw Riverdance |  |  |  |  |  |  |
