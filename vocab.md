@@ -621,14 +621,14 @@
 | NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ó físeán. | I am learning Irish from video. |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ó físeáin. | I am learning Irish from videos. |  |  |  |  |  |  |
 | NYT | Languages | TEMPLATE |  | An dtuigeann tú $LANGUAGE? | Do you understand $LANGUAGE? |  |  |  | an diggin to $LANGUAGE? |  |  |
-| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Gaeilge? | Do you understand Irish? |  |  |  | an diggin to $LANGUAGE? |  |  |
-| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Fraincis? | Do you understand French? |  |  |  | an diggin to $LANGUAGE? |  |  |
-| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Béarla? | Do you understand English? |  |  |  | an diggin to $LANGUAGE? |  |  |
-| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Gearmáinis? | Do you understand German? |  |  |  | an diggin to $LANGUAGE? |  |  |
-| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Iodáilis? | Do you understand Italian? |  |  |  | an diggin to $LANGUAGE? |  |  |
-| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Spáinnis? | Do you understand Spanish? |  |  |  | an diggin to $LANGUAGE? |  |  |
-| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Breatnais? | Do you understand Welsh? |  |  |  | an diggin to $LANGUAGE? |  |  |
-| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Gaeilge na hAlban? | Do you understand Gaelic (Scotland)? |  |  |  | an diggin to $LANGUAGE? |  |  |
+| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Gaeilge? | Do you understand Irish? |  |  |  | an diggin to Irish? |  |  |
+| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Fraincis? | Do you understand French? |  |  |  | an diggin to French? |  |  |
+| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Béarla? | Do you understand English? |  |  |  | an diggin to English? |  |  |
+| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Gearmáinis? | Do you understand German? |  |  |  | an diggin to German? |  |  |
+| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Iodáilis? | Do you understand Italian? |  |  |  | an diggin to Italian? |  |  |
+| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Spáinnis? | Do you understand Spanish? |  |  |  | an diggin to Spanish? |  |  |
+| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Breatnais? | Do you understand Welsh? |  |  |  | an diggin to Welsh? |  |  |
+| NYT | Languages | DYNAMIC  |  | An dtuigeann tú Gaeilge na hAlban? | Do you understand Gaelic (Scotland)? |  |  |  | an diggin to Gaelic (Scotland)? |  |  |
 | NYT | Languages | SENTENCE |  | Tuigim. | Yes (I do understand). |  |  |  |  |  |  |
 | NYT | Languages | SENTENCE |  | Ní thuigim. | No (I don't understand). |  |  |  |  |  |  |
 | NYT | Languages | TEMPLATE |  | Tuigim $LANGUAGE | I do understand $LANGUAGE |  |  |  |  |  |  |
