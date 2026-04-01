@@ -495,25 +495,29 @@ NYT	Languages	WORD	LANGUAGE	Iodáilis	Italian
 NYT	Languages	WORD	LANGUAGE	Spáinnis	Spanish						
 NYT	Languages	WORD	LANGUAGE	Breatnais	Welsh						
 NYT	Languages	WORD	LANGUAGE	Gaeilge na hAlban	Gaelic (Scotland)						
+NYT	Languages	WORD	LANGUAGE2	Gaeilge	Irish						
+NYT	Languages	WORD	LANGUAGE2	Fraincise	French						
+NYT	Languages	WORD	LANGUAGE2	Gearmáinise	German						
+NYT	Languages	WORD	LANGUAGE2	Iodáilise	Italian						
 NYT	Languages	TEMPLATE		An bhfuil $LANGUAGE agat?	Can you speak $LANGUAGE?			Have you $LANGUAGE? Is $LANGUAGE at you?			
-NYT	Languages	QUESTION		An bhfuil Gaeilge agat?	Can you speak Irish?	repeat for other languages					
+NYT	Languages	QUESTION		An bhfuil Gaeilge agat?	Can you speak Irish?						
 NYT	Languages	TEMPLATE		Tá $LANGUAGE líofa agam.	I speak $LANGUAGE fluently.						
-NYT	Languages	SENTENCE		Tá beagán Fraincise agam.	I speak a little French.						
-NYT	Languages	SENTENCE		Tá mé ag foghlaim Gearmáinise.	I'm learning German.						
-NYT	Languages	SENTENCE		Níl mórán Iodáilise agam.	I can't speak much Italian.						
+NYT	Languages	SENTENCE		Tá beagán $LANGUAGE2 agam.	I speak a little $LANGUAGE2.						
+NYT	Languages	SENTENCE		Tá mé ag foghlaim.	I'm learning.						
+NYT	Languages	SENTENCE		Tá mé ag foghlaim $LANGUAGE2.	I'm learning $LANGUAGE2.						
+NYT	Languages	SENTENCE		Níl mórán $LANGUAGE2 agam.	I can't speak much $LANGUAGE2.						
 NYT	Languages	TEMPLATE		Níl aon $LANGUAGE agam.	I don't speak $LANGUAGE.						
 NYT	Languages	SENTENCE		Tá.	Yes.						
 NYT	Languages	SENTENCE		Níl.	No.						
 NYT	Languages	SENTENCE		Beagán.	A little.						
 NYT	Languages	SENTENCE		Tá. Tá mé líofa.	Yes. I'm fluent.				Ta. Ta may leefa		
-NYT	Languages	SENTENCE		Tá mé ag foghlaim.	I'm learning.						
 NYT	Languages	QUESTION		Cad é na teangacha atá agat?	Which/what languages can you speak?						
 NYT	Languages	QUESTION		Cad é na teangacha eile atá agat?	Which/what other languages can you speak?						
-NYT	Languages	SENTENCE		Tá Fraincis agus Gearmáinis agam.	I speak French and German.						
-NYT	Languages	SENTENCE		Tá Iodáilis agam ach níl aon Spáinnis agam.	I speak Italian but I can't speak Spanish.						
-NYT	Languages	SENTENCE		Níl aon Fraincis nó Spáinnis agam.	I speak neither French nor Spanish.						
+NYT	Languages	SENTENCE		Tá Fraincis agus Gearmáinis agam.	I speak French and German.	repeat for other languages					
+NYT	Languages	SENTENCE		Tá Iodáilis agam ach níl aon Spáinnis agam.	I speak Italian but I can't speak Spanish.	repeat for other languages					
+NYT	Languages	SENTENCE		Níl aon Fraincis nó Spáinnis agam.	I speak neither French nor Spanish.	repeat for other languages					
 NYT	Languages	QUESTION		Cá háit?	Where?				Ca hatch?		If you tell someone that you are learning a language, you might be asked where:
-NYT	Languages	QUESTION		Cá bhfuil tú ag foghlaim $LANGUAGE?	Where are you learning $LANGUAGE?						
+NYT	Languages	QUESTION		Cá bhfuil tú ag foghlaim $LANGUAGE2?	Where are you learning $LANGUAGE2?						
 NYT	Languages	PHRASE	LANG_LEARN_SOURCE	ón teilifís	from the television						
 NYT	Languages	PHRASE	LANG_LEARN_SOURCE	ón raidió	from the radio						
 NYT	Languages	PHRASE	LANG_LEARN_SOURCE	ag rang oíche	at a night class						
@@ -521,7 +525,7 @@ NYT	Languages	PHRASE	LANG_LEARN_SOURCE	san ollscoil	at the university
 NYT	Languages	PHRASE	LANG_LEARN_SOURCE	ó fhístéipeanna sa bhaile	from videotapes at home						
 NYT	Languages	PHRASE	LANG_LEARN_SOURCE	ó físeán	from video						
 NYT	Languages	PHRASE	LANG_LEARN_SOURCE	ó físeáin	from videos						
-NYT	Languages	TEMPLATE		Tá mé ag foghlaim Gaeilge $LANG_LEARN_SOURCE.	I am learning Irish $LANG_LEARN_SOURCE.						
+NYT	Languages	TEMPLATE		Tá mé ag foghlaim Gaeilge $LANG_LEARN_SOURCE.	I am learning Irish $LANG_LEARN_SOURCE.	repeat for other languages					
 NYT	Languages	TEMPLATE		An dtuigeann tú $LANGUAGE?	Do you understand $LANGUAGE?				an diggin to $LANGUAGE?		
 NYT	Languages	SENTENCE		Tuigim.	Yes (I do understand).						
 NYT	Languages	SENTENCE		Ní thuigim.	No (I don't understand).						

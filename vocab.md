@@ -554,6 +554,10 @@
 | NYT | Languages | WORD | LANGUAGE | Spáinnis | Spanish |  |  |  |  |  |  |
 | NYT | Languages | WORD | LANGUAGE | Breatnais | Welsh |  |  |  |  |  |  |
 | NYT | Languages | WORD | LANGUAGE | Gaeilge na hAlban | Gaelic (Scotland) |  |  |  |  |  |  |
+| NYT | Languages | WORD | LANGUAGE2 | Gaeilge | Irish |  |  |  |  |  |  |
+| NYT | Languages | WORD | LANGUAGE2 | Fraincise | French |  |  |  |  |  |  |
+| NYT | Languages | WORD | LANGUAGE2 | Gearmáinise | German |  |  |  |  |  |  |
+| NYT | Languages | WORD | LANGUAGE2 | Iodáilise | Italian |  |  |  |  |  |  |
 | NYT | Languages | TEMPLATE |  | An bhfuil $LANGUAGE agat? | Can you speak $LANGUAGE? |  |  | Have you $LANGUAGE? Is $LANGUAGE at you? |  |  |  |
 | NYT | Languages | DYNAMIC  |  | An bhfuil Gaeilge agat? | Can you speak Irish? |  |  | Have you Irish? Is Irish at you? |  |  |  |
 | NYT | Languages | DYNAMIC  |  | An bhfuil Fraincis agat? | Can you speak French? |  |  | Have you French? Is French at you? |  |  |  |
@@ -563,7 +567,7 @@
 | NYT | Languages | DYNAMIC  |  | An bhfuil Spáinnis agat? | Can you speak Spanish? |  |  | Have you Spanish? Is Spanish at you? |  |  |  |
 | NYT | Languages | DYNAMIC  |  | An bhfuil Breatnais agat? | Can you speak Welsh? |  |  | Have you Welsh? Is Welsh at you? |  |  |  |
 | NYT | Languages | DYNAMIC  |  | An bhfuil Gaeilge na hAlban agat? | Can you speak Gaelic (Scotland)? |  |  | Have you Gaelic (Scotland)? Is Gaelic (Scotland) at you? |  |  |  |
-| NYT | Languages | QUESTION |  | An bhfuil Gaeilge agat? | Can you speak Irish? | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | QUESTION |  | An bhfuil Gaeilge agat? | Can you speak Irish? |  |  |  |  |  |  |
 | NYT | Languages | TEMPLATE |  | Tá $LANGUAGE líofa agam. | I speak $LANGUAGE fluently. |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Tá Gaeilge líofa agam. | I speak Irish fluently. |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Tá Fraincis líofa agam. | I speak French fluently. |  |  |  |  |  |  |
@@ -573,9 +577,22 @@
 | NYT | Languages | DYNAMIC  |  | Tá Spáinnis líofa agam. | I speak Spanish fluently. |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Tá Breatnais líofa agam. | I speak Welsh fluently. |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Tá Gaeilge na hAlban líofa agam. | I speak Gaelic (Scotland) fluently. |  |  |  |  |  |  |
-| NYT | Languages | SENTENCE |  | Tá beagán Fraincise agam. | I speak a little French. |  |  |  |  |  |  |
-| NYT | Languages | SENTENCE |  | Tá mé ag foghlaim Gearmáinise. | I'm learning German. |  |  |  |  |  |  |
-| NYT | Languages | SENTENCE |  | Níl mórán Iodáilise agam. | I can't speak much Italian. |  |  |  |  |  |  |
+| NYT | Languages | SENTENCE |  | Tá beagán $LANGUAGE2 agam. | I speak a little $LANGUAGE2. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá beagán Gaeilge agam. | I speak a little Irish. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá beagán Fraincise agam. | I speak a little French. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá beagán Gearmáinise agam. | I speak a little German. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá beagán Iodáilise agam. | I speak a little Italian. |  |  |  |  |  |  |
+| NYT | Languages | SENTENCE |  | Tá mé ag foghlaim. | I'm learning. |  |  |  |  |  |  |
+| NYT | Languages | SENTENCE |  | Tá mé ag foghlaim $LANGUAGE2. | I'm learning $LANGUAGE2. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge. | I'm learning Irish. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Fraincise. | I'm learning French. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gearmáinise. | I'm learning German. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Iodáilise. | I'm learning Italian. |  |  |  |  |  |  |
+| NYT | Languages | SENTENCE |  | Níl mórán $LANGUAGE2 agam. | I can't speak much $LANGUAGE2. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Níl mórán Gaeilge agam. | I can't speak much Irish. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Níl mórán Fraincise agam. | I can't speak much French. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Níl mórán Gearmáinise agam. | I can't speak much German. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Níl mórán Iodáilise agam. | I can't speak much Italian. |  |  |  |  |  |  |
 | NYT | Languages | TEMPLATE |  | Níl aon $LANGUAGE agam. | I don't speak $LANGUAGE. |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Níl aon Gaeilge agam. | I don't speak Irish. |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Níl aon Fraincis agam. | I don't speak French. |  |  |  |  |  |  |
@@ -589,22 +606,17 @@
 | NYT | Languages | SENTENCE |  | Níl. | No. |  |  |  |  |  |  |
 | NYT | Languages | SENTENCE |  | Beagán. | A little. |  |  |  |  |  |  |
 | NYT | Languages | SENTENCE |  | Tá. Tá mé líofa. | Yes. I'm fluent. |  |  |  | Ta. Ta may leefa |  |  |
-| NYT | Languages | SENTENCE |  | Tá mé ag foghlaim. | I'm learning. |  |  |  |  |  |  |
 | NYT | Languages | QUESTION |  | Cad é na teangacha atá agat? | Which/what languages can you speak? |  |  |  |  |  |  |
 | NYT | Languages | QUESTION |  | Cad é na teangacha eile atá agat? | Which/what other languages can you speak? |  |  |  |  |  |  |
-| NYT | Languages | SENTENCE |  | Tá Fraincis agus Gearmáinis agam. | I speak French and German. |  |  |  |  |  |  |
-| NYT | Languages | SENTENCE |  | Tá Iodáilis agam ach níl aon Spáinnis agam. | I speak Italian but I can't speak Spanish. |  |  |  |  |  |  |
-| NYT | Languages | SENTENCE |  | Níl aon Fraincis nó Spáinnis agam. | I speak neither French nor Spanish. |  |  |  |  |  |  |
+| NYT | Languages | SENTENCE |  | Tá Fraincis agus Gearmáinis agam. | I speak French and German. | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | SENTENCE |  | Tá Iodáilis agam ach níl aon Spáinnis agam. | I speak Italian but I can't speak Spanish. | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | SENTENCE |  | Níl aon Fraincis nó Spáinnis agam. | I speak neither French nor Spanish. | repeat for other languages |  |  |  |  |  |
 | NYT | Languages | QUESTION |  | Cá háit? | Where? |  |  |  | Ca hatch? |  | If you tell someone that you are learning a language, you might be asked where: |
-| NYT | Languages | QUESTION |  | Cá bhfuil tú ag foghlaim $LANGUAGE? | Where are you learning $LANGUAGE? |  |  |  |  |  |  |
+| NYT | Languages | QUESTION |  | Cá bhfuil tú ag foghlaim $LANGUAGE2? | Where are you learning $LANGUAGE2? |  |  |  |  |  |  |
 | NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Gaeilge? | Where are you learning Irish? |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Fraincis? | Where are you learning French? |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Béarla? | Where are you learning English? |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Gearmáinis? | Where are you learning German? |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Iodáilis? | Where are you learning Italian? |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Spáinnis? | Where are you learning Spanish? |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Breatnais? | Where are you learning Welsh? |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Gaeilge na hAlban? | Where are you learning Gaelic (Scotland)? |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Fraincise? | Where are you learning French? |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Gearmáinise? | Where are you learning German? |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Iodáilise? | Where are you learning Italian? |  |  |  |  |  |  |
 | NYT | Languages | PHRASE | LANG_LEARN_SOURCE | ón teilifís | from the television |  |  |  |  |  |  |
 | NYT | Languages | PHRASE | LANG_LEARN_SOURCE | ón raidió | from the radio |  |  |  |  |  |  |
 | NYT | Languages | PHRASE | LANG_LEARN_SOURCE | ag rang oíche | at a night class |  |  |  |  |  |  |
@@ -612,14 +624,14 @@
 | NYT | Languages | PHRASE | LANG_LEARN_SOURCE | ó fhístéipeanna sa bhaile | from videotapes at home |  |  |  |  |  |  |
 | NYT | Languages | PHRASE | LANG_LEARN_SOURCE | ó físeán | from video |  |  |  |  |  |  |
 | NYT | Languages | PHRASE | LANG_LEARN_SOURCE | ó físeáin | from videos |  |  |  |  |  |  |
-| NYT | Languages | TEMPLATE |  | Tá mé ag foghlaim Gaeilge $LANG_LEARN_SOURCE. | I am learning Irish $LANG_LEARN_SOURCE. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ón teilifís. | I am learning Irish from the television. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ón raidió. | I am learning Irish from the radio. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ag rang oíche. | I am learning Irish at a night class. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge san ollscoil. | I am learning Irish at the university. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ó fhístéipeanna sa bhaile. | I am learning Irish from videotapes at home. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ó físeán. | I am learning Irish from video. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ó físeáin. | I am learning Irish from videos. |  |  |  |  |  |  |
+| NYT | Languages | TEMPLATE |  | Tá mé ag foghlaim Gaeilge $LANG_LEARN_SOURCE. | I am learning Irish $LANG_LEARN_SOURCE. | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ón teilifís. | I am learning Irish from the television. | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ón raidió. | I am learning Irish from the radio. | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ag rang oíche. | I am learning Irish at a night class. | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge san ollscoil. | I am learning Irish at the university. | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ó fhístéipeanna sa bhaile. | I am learning Irish from videotapes at home. | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ó físeán. | I am learning Irish from video. | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ó físeáin. | I am learning Irish from videos. | repeat for other languages |  |  |  |  |  |
 | NYT | Languages | TEMPLATE |  | An dtuigeann tú $LANGUAGE? | Do you understand $LANGUAGE? |  |  |  | an diggin to $LANGUAGE? |  |  |
 | NYT | Languages | DYNAMIC  |  | An dtuigeann tú Gaeilge? | Do you understand Irish? |  |  |  | an diggin to Irish? |  |  |
 | NYT | Languages | DYNAMIC  |  | An dtuigeann tú Fraincis? | Do you understand French? |  |  |  | an diggin to French? |  |  |
@@ -2395,12 +2407,3 @@
 | Giota Beag - Series 2 | 11 |  |  | Chonaic mé Cats | I saw Cats |  |  |  |  |  |  |
 | Giota Beag - Series 2 | 11 |  |  | Chuala muid Big Ben | We heard Big Ben |  |  |  |  |  |  |
 | Giota Beag - Series 2 | 11 |  |  | Dúirt siad go raibh sé ar fheabhas | They said that it was excellent |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 11 |  |  | Chonaic siad Riverdance | They saw Riverdance |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 11 |  |  | Ná bac le mac an bhacaigh is ní bhacfaidh mac an bhacaigh leat! | Don't bother with the son of the beggarman and the son of the beggarman won't bother you! |  |  |  |  |  |  |
-
-## Giota Beag - Series 2 - 12
-
-| program | topic | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag - Series 2 | 12 |  |  | Cheannaigh mé bronntanas Nollag | I bought a Christmas present |  |  |  |  |  |  |
-| Giota Beag - Series 2 | 12 |  |  | Cad é cheannaigh tú? | What did you buy? |  |  |  |  |  |  |
