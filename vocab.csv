@@ -475,12 +475,12 @@ NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	cláracha cainte	talk shows
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	cláracha dúlra	nature programmes						
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	seacláid	chocolate						
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	portán	crab				porthaan		
-NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul ag rith.	go running.						
-NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	amharc ar an teilifís.	watch television.						
-NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	éisteacht le ceol.	listen to music.						
-NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul ag snámh.	go swimming.						
-NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul chuig scannáin.	go to films.						
-NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul chuig drámaí.	go to plays.						
+NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul ag rith	go running.						
+NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	Amharc ar an teilifís	watch television.						
+NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	éisteacht le ceol	listen to music.						
+NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul ag snámh	go swimming.						
+NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul chuig scannáin	go to films.						
+NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul chuig drámaí	go to plays.						
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	imirt	tennis						
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	leadóg a imirt	play tennis						
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	ceol	music						
@@ -549,74 +549,76 @@ NYT	Expressing Opinions		PHRASE		an ceann seo	this one						"as in ""I prefer th
 NYT	Expressing Opinions		QUESTION		An bhfuil maith ar bith sa ...?	Is the ... any good?						
 NYT	Expressing Opinions		QUESTION		An bhfuil maith ar bith sa bhialann sin?	Is that restaurant any good?				an whil my ar bee sa via-lann sin?		said quick
 NYT	Expressing Opinions		QUESTION		An bhfuil an bia maith?	Is the food any good?						
-NYT	What you want				Cad é ba mhaith leat?	What would you like?						
-NYT	What you want				Cad é ba mhaith leatsa?	What would *you* like?						
-NYT	What you want				Cad é ba mhaith libh?	What would you like? (when speaking to more than one person)						
-NYT	What you want				Cad é atá de dhíth ort?	What do you want?						You can use the following when addressing a friend or family member:
-NYT	What you want				Cad é atá de dhíth oraibh?	What do you want? (when speaking to more than one person)						You can use the following when addressing a friend or family member:
-NYT	What you want				Ba mhaith liom ...	I'd like ...						
-NYT	What you want				Ba mhaith liom cupa tae.	I'd like a cup of tea.						
-NYT	What you want				Ba mhaith liom ag dul amach	I'd like to go out						
-NYT	What you want				Caife dubh domhsa.	A black coffee for me.						
-NYT	What you want				Ba mhaith liomsa tae le bainne.	I'd like tea with milk.						
-NYT	What you want				Rud ar bith eile?	Anything else?				Rud ar bee ella?		
-NYT	What you want				DEOCHANNA	Drinks						
-NYT	What you want				caife	coffee						
-NYT	What you want				caife dubh	black coffee						
-NYT	What you want				caife bán	white coffee						
-NYT	What you want				tae	tea						
-NYT	What you want				tae láidir	strong tea						
-NYT	What you want				tae lag	weak tea						
-NYT	What you want				sú oráiste	orange juice						
-NYT	What you want				uisce	water						
-NYT	What you want				beoir	beer				byor		
-NYT	What you want				fíon bán	white wine				fee-in baan		
-NYT	What you want				fíon dearg	red wine						
-NYT	What you want				uisce beatha	whiskey				ishka beh-ha		
-NYT	What you want				sceallógaí	chips						
-NYT	What you want				briosca	a biscuit				briska		
-NYT	What you want				bágún	bacon				baa-gun		
-NYT	What you want				... le do thoil.	... please.						
-NYT	What you want				Go raibh maith agat.	Thank you.						
-NYT	What you want				Maith thú.	good on you/well done						
-NYT	What you want				Tá fáilte romhat.	You're welcome.						
-NYT	What you want				Tá fáilte romhaibh.	You're welcome. (when speaking to more than one person)						
-NYT	What you want				An dtógann tú bainne?	Do you take milk?						
-NYT	What you want				An dtógann tú siúcra?	Do you take sugar?						
-NYT	What you want				Tógaim.	I do.						
-NYT	What you want				Ní thógaim.	I don't.						
-NYT	What you want				cupa	a cup						
-NYT	What you want				muga	a mug						
-NYT	What you want				pota	a pot						
-NYT	What you want				gloine	a glass				glinnye		
-NYT	What you want				pionta	a pint				pinta		
-NYT	What you want				leathphionta	half a pint				le-finta		
-NYT	What you want				buidéal	a bottle				bawdjel		
-NYT	What you want				pota tae	a pot of tea						
-NYT	What you want				gloine uisce	a glass of water						
-NYT	What you want				pionta beorach	a pint of beer						
-NYT	What you want				Ar mhaith leat ...?	Would you like ...?		s				
-NYT	What you want				Ar mhaith libh ...?	Would you like ...?		p				
-NYT	What you want				deoch	a drink				dj-o		
-NYT	What you want				leac oighir	ice				lack eye-er		
-NYT	What you want				uachtar reoite	ice cream				wechtar rawtcha		
-NYT	What you want				ceapaire	sandwich						
-NYT	What you want				milseáin	sweets						
-NYT	What you want				úll	apple						
-NYT	What you want				cuidiú	help				coodjoo		
-NYT	What you want				Ba mhaith.	Yes (I would).						
-NYT	What you want				Níor mhaith.	No (I wouldn't).						
-NYT	What you want				B'fhearr ...	I'd prefer ...				bear...		
-NYT	What you want				B'fhearr liom gloine uisce.	I'd prefer a glass of water.				Bear liom glinye ish-ke		
-NYT	What you want				Sláinte!	Cheers!			Health!			
-NYT	What you want				Sláinte mhór	Cheers (response??)						
-NYT	What you want				... duitse.	... for you.						
-NYT	What you want				Pionta beorach duitse.	A pint of beer for you.						
-NYT	What you want				Seo do ...	Here's your ...						
-NYT	What you want				Seo do phionta	Here's your pint.						
-NYT	What you want				Sláinte mhaith agat i bhfad ó bhrón.	Good health, free from sorrow.						
-NYT	What you want				Sláinte do bheo agus tróicaire do mharbh.	Health to the living and mercy on the dead.						
-NYT	What you want				Go mba fada a mhairfidh tú.	Long life to you						
+NYT	What you want		WORD		ordú	order						
+NYT	What you want		WORD		ag ordú	ordering						
+NYT	What you want		WORD		deochanna	drinks						
+NYT	What you want		WORD		ag ordú deochanna	ordering drinks						
+NYT	What you want		WORD		cupa	a cup						
+NYT	What you want		WORD		muga	a mug						
+NYT	What you want		WORD		pota	a pot						
+NYT	What you want		WORD		gloine	a glass				glinnye		
+NYT	What you want		WORD		pionta	a pint				pinta		
+NYT	What you want		WORD		leathphionta	half a pint				le-finta		
+NYT	What you want		WORD		buidéal	a bottle				bawdjel		
+NYT	What you want		WORD	WHAT_YOU_WANT	caife	coffee						
+NYT	What you want		WORD	WHAT_YOU_WANT	caife dubh	black coffee						
+NYT	What you want		WORD	WHAT_YOU_WANT	caife bán	white coffee						
+NYT	What you want		WORD	WHAT_YOU_WANT	tae	tea						
+NYT	What you want		WORD	WHAT_YOU_WANT	tae láidir	strong tea						
+NYT	What you want		WORD	WHAT_YOU_WANT	tae lag	weak tea						
+NYT	What you want		WORD	WHAT_YOU_WANT	sú oráiste	orange juice						
+NYT	What you want		WORD	WHAT_YOU_WANT	uisce	water						
+NYT	What you want		WORD	WHAT_YOU_WANT	beoir	beer				byor		
+NYT	What you want		WORD	WHAT_YOU_WANT	fíon bán	white wine				fee-in baan		
+NYT	What you want		WORD	WHAT_YOU_WANT	fíon dearg	red wine						
+NYT	What you want		WORD	WHAT_YOU_WANT	uisce beatha	whiskey				ishka beh-ha		
+NYT	What you want		WORD	WHAT_YOU_WANT	sceallógaí	chips						
+NYT	What you want		WORD	WHAT_YOU_WANT	briosca	a biscuit				briska		
+NYT	What you want		WORD	WHAT_YOU_WANT	bágún	bacon				baa-gun		
+NYT	What you want		WORD	WHAT_YOU_WANT	pota tae	a pot of tea						
+NYT	What you want		WORD	WHAT_YOU_WANT	gloine uisce	a glass of water						
+NYT	What you want		WORD	WHAT_YOU_WANT	pionta beorach	a pint of beer						
+NYT	What you want		WORD	WHAT_YOU_WANT	cupa tae	cup of tea						
+NYT	What you want		WORD	WHAT_YOU_WANT	tae le bainne	tea with milk						
+NYT	What you want		WORD	WHAT_YOU_WANT	leac oighir	ice				lack eye-er		
+NYT	What you want		WORD	WHAT_YOU_WANT	uachtar reoite	ice cream				wechtar rawtcha		
+NYT	What you want		WORD	WHAT_YOU_WANT	ceapaire	sandwich						
+NYT	What you want		WORD	WHAT_YOU_WANT	milseáin	sweets						
+NYT	What you want		WORD	WHAT_YOU_WANT	úll	apple						
+NYT	What you want		WORD	WHAT_YOU_WANT	cuidiú	help				coodjoo		
+NYT	What you want		QUESTION		Cad é ba mhaith leat?	What would you like?						
+NYT	What you want		QUESTION		Cad é ba mhaith leatsa?	What would *you* like?						
+NYT	What you want		QUESTION		Cad é ba mhaith libh?	What would you like?		s				
+NYT	What you want		QUESTION		Cad é atá de dhíth ort?	What do you want?						You can use the following when addressing a friend or family member:
+NYT	What you want		QUESTION		Cad é atá de dhíth oraibh?	What do you want? 		p				You can use the following when addressing a friend or family member:
+NYT	What you want		TEMPLATE		Ba mhaith liom $WHAT_YOU_WANT	I'd like $WHAT_YOU_WANT						
+NYT	What you want		SENTENCE		Ba mhaith liom ag dul amach	I'd like to go out						
+NYT	What you want		TEMPLATE		$WHAT_YOU_WANT domhsa.	$WHAT_YOU_WANT for me.						
+NYT	What you want		QUESTION		Rud ar bith eile?	Anything else?				Rud ar bee ella?		
+NYT	What you want		PHRASE		... le do thoil.	... please.						
+NYT	What you want		SENTENCE		Go raibh maith agat.	Thank you.						
+NYT	What you want		SENTENCE		Maith thú.	good on you/well done						
+NYT	What you want		SENTENCE		Tá fáilte romhat.	You're welcome.		s				
+NYT	What you want		SENTENCE		Tá fáilte romhaibh.	You're welcome.		p				
+NYT	What you want		QUESTION		An dtógann tú bainne?	Do you take milk?						
+NYT	What you want		QUESTION		An dtógann tú siúcra?	Do you take sugar?						
+NYT	What you want		SENTENCE		Tógaim.	I do.						
+NYT	What you want		SENTENCE		Ní thógaim.	I don't.						
+NYT	What you want		TEMPLATE		Ar mhaith leat $WHAT_YOU_WANT?	Would you like $WHAT_YOU_WANT?		s				
+NYT	What you want		TEMPLATE		Ar mhaith libh $WHAT_YOU_WANT?	Would you like $WHAT_YOU_WANT?		p				
+NYT	What you want		SENTENCE		Ba mhaith.	Yes (I would).						
+NYT	What you want		SENTENCE		Níor mhaith.	No (I wouldn't).						
+NYT	What you want		SENTENCE		B'fhearr ...	I'd prefer ...				bear...		
+NYT	What you want		SENTENCE		B'fhearr liom gloine uisce.	I'd prefer a glass of water.				Bear liom glinye ish-ke		
+NYT	What you want		SENTENCE		Sláinte!	Cheers!			Health!			
+NYT	What you want		SENTENCE		Sláinte mhór	Cheers (response??)						
+NYT	What you want		SENTENCE		... duitse.	... for you.						
+NYT	What you want		SENTENCE		Pionta beorach duitse.	A pint of beer for you.						
+NYT	What you want		SENTENCE		Seo do ...	Here's your ...						
+NYT	What you want		SENTENCE		Seo do phionta	Here's your pint.						
+NYT	What you want		SENTENCE		Sláinte mhaith agat i bhfad ó bhrón.	Good health, free from sorrow.						
+NYT	What you want		SENTENCE		Sláinte do bheo agus tróicaire do mharbh.	Health to the living and mercy on the dead.						
+NYT	What you want		SENTENCE		Go mba fada a mhairfidh tú.	Long life to you						
 NYT	What you want		QUESTION		An ólann tú caife?	Do you drink coffee?						
 NYT	What you want		SENTENCE		Ólaim.	Yes/I drink						
 NYT	What you want		SENTENCE		Ní ólaim	No/I don’t drink						

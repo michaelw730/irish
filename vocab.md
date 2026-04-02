@@ -621,12 +621,12 @@
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha dúlra | nature programmes |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | seacláid | chocolate |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | portán | crab |  |  |  | porthaan |  |  |
-| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul ag rith. | go running. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | amharc ar an teilifís. | watch television. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | éisteacht le ceol. | listen to music. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul ag snámh. | go swimming. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul chuig scannáin. | go to films. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul chuig drámaí. | go to plays. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul ag rith | go running. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | Amharc ar an teilifís | watch television. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | éisteacht le ceol | listen to music. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul ag snámh | go swimming. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul chuig scannáin | go to films. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul chuig drámaí | go to plays. |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | imirt | tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | leadóg a imirt | play tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol | music |  |  |  |  |  |  |
@@ -646,12 +646,12 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha dúlra | I like nature programmes |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom seacláid | I like chocolate |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom portán | I like crab |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag rith. | I like go running. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom amharc ar an teilifís. | I like watch television. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom éisteacht le ceol. | I like listen to music. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag snámh. | I like go swimming. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig scannáin. | I like go to films. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig drámaí. | I like go to plays. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag rith | I like go running. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom Amharc ar an teilifís | I like watch television. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom éisteacht le ceol | I like listen to music. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag snámh | I like go swimming. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig scannáin | I like go to films. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig drámaí | I like go to plays. |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom imirt | I like tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom leadóg a imirt | I like play tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol | I like music |  |  |  |  |  |  |
@@ -663,12 +663,12 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha dúlra | I really like nature programmes |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom seacláid | I really like chocolate |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom portán | I really like crab |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag rith. | I really like go running. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom amharc ar an teilifís. | I really like watch television. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom éisteacht le ceol. | I really like listen to music. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag snámh. | I really like go swimming. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig scannáin. | I really like go to films. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig drámaí. | I really like go to plays. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag rith | I really like go running. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom Amharc ar an teilifís | I really like watch television. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom éisteacht le ceol | I really like listen to music. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag snámh | I really like go swimming. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig scannáin | I really like go to films. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig drámaí | I really like go to plays. |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom imirt | I really like tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom leadóg a imirt | I really like play tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol | I really like music |  |  |  |  |  |  |
@@ -681,12 +681,12 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha dúlra | I don't like nature programmes |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom seacláid | I don't like chocolate |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom portán | I don't like crab |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith. | I don't like go running. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom amharc ar an teilifís. | I don't like watch television. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol. | I don't like listen to music. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh. | I don't like go swimming. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin. | I don't like go to films. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí. | I don't like go to plays. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith | I don't like go running. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom Amharc ar an teilifís | I don't like watch television. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol | I don't like listen to music. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh | I don't like go swimming. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin | I don't like go to films. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí | I don't like go to plays. |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt | I don't like tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom leadóg a imirt | I don't like play tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol | I don't like music |  |  |  |  |  |  |
@@ -698,12 +698,12 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha dúlra ar chor ar bith. | I don't like nature programmes at all. |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom seacláid ar chor ar bith. | I don't like chocolate at all. |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom portán ar chor ar bith. | I don't like crab at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith. ar chor ar bith. | I don't like go running. at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom amharc ar an teilifís. ar chor ar bith. | I don't like watch television. at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol. ar chor ar bith. | I don't like listen to music. at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh. ar chor ar bith. | I don't like go swimming. at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin. ar chor ar bith. | I don't like go to films. at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí. ar chor ar bith. | I don't like go to plays. at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith ar chor ar bith. | I don't like go running. at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom Amharc ar an teilifís ar chor ar bith. | I don't like watch television. at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol ar chor ar bith. | I don't like listen to music. at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh ar chor ar bith. | I don't like go swimming. at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin ar chor ar bith. | I don't like go to films. at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí ar chor ar bith. | I don't like go to plays. at all. |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt ar chor ar bith. | I don't like tennis at all. |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom leadóg a imirt ar chor ar bith. | I don't like play tennis at all. |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol ar chor ar bith. | I don't like music at all. |  |  |  | ...ar har a bee |  |  |
@@ -717,12 +717,12 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha dúlra | I hate nature programmes |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom seacláid | I hate chocolate |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom portán | I hate crab |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag rith. | I hate go running. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom amharc ar an teilifís. | I hate watch television. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom éisteacht le ceol. | I hate listen to music. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag snámh. | I hate go swimming. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig scannáin. | I hate go to films. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig drámaí. | I hate go to plays. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag rith | I hate go running. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom Amharc ar an teilifís | I hate watch television. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom éisteacht le ceol | I hate listen to music. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag snámh | I hate go swimming. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig scannáin | I hate go to films. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig drámaí | I hate go to plays. |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom imirt | I hate tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom leadóg a imirt | I hate play tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol | I hate music |  |  |  |  |  |  |
@@ -734,12 +734,12 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha dúlra? | Do you like nature programmes? |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat seacláid? | Do you like chocolate? |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat portán? | Do you like crab? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag rith.? | Do you like go running.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat amharc ar an teilifís.? | Do you like watch television.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat éisteacht le ceol.? | Do you like listen to music.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag snámh.? | Do you like go swimming.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig scannáin.? | Do you like go to films.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig drámaí.? | Do you like go to plays.? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag rith? | Do you like go running.? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat Amharc ar an teilifís? | Do you like watch television.? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat éisteacht le ceol? | Do you like listen to music.? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag snámh? | Do you like go swimming.? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig scannáin? | Do you like go to films.? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig drámaí? | Do you like go to plays.? |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat imirt? | Do you like tennis? |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat leadóg a imirt? | Do you like play tennis? |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol? | Do you like music? |  |  | s |  |  |  |
@@ -751,12 +751,12 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha dúlra? | Do you like nature programmes? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh seacláid? | Do you like chocolate? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh portán? | Do you like crab? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag rith.? | Do you like go running.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh amharc ar an teilifís.? | Do you like watch television.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh éisteacht le ceol.? | Do you like listen to music.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag snámh.? | Do you like go swimming.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig scannáin.? | Do you like go to films.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig drámaí.? | Do you like go to plays.? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag rith? | Do you like go running.? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh Amharc ar an teilifís? | Do you like watch television.? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh éisteacht le ceol? | Do you like listen to music.? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag snámh? | Do you like go swimming.? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig scannáin? | Do you like go to films.? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig drámaí? | Do you like go to plays.? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh imirt? | Do you like tennis? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh leadóg a imirt? | Do you like play tennis? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol? | Do you like music? |  |  | p |  |  |  |
@@ -796,12 +796,12 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha dúlra? | Do you like nature programmes? |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat seacláid? | Do you like chocolate? |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat portán? | Do you like crab? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag rith.? | Do you like go running.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat amharc ar an teilifís.? | Do you like watch television.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat éisteacht le ceol.? | Do you like listen to music.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag snámh.? | Do you like go swimming.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig scannáin.? | Do you like go to films.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig drámaí.? | Do you like go to plays.? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag rith? | Do you like go running.? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat Amharc ar an teilifís? | Do you like watch television.? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat éisteacht le ceol? | Do you like listen to music.? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag snámh? | Do you like go swimming.? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig scannáin? | Do you like go to films.? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig drámaí? | Do you like go to plays.? |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat imirt? | Do you like tennis? |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat leadóg a imirt? | Do you like play tennis? |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol? | Do you like music? |  |  | s |  |  |  |
@@ -813,12 +813,12 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha dúlra? | Do you like nature programmes? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh seacláid? | Do you like chocolate? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh portán? | Do you like crab? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag rith.? | Do you like go running.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh amharc ar an teilifís.? | Do you like watch television.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh éisteacht le ceol.? | Do you like listen to music.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag snámh.? | Do you like go swimming.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig scannáin.? | Do you like go to films.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig drámaí.? | Do you like go to plays.? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag rith? | Do you like go running.? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh Amharc ar an teilifís? | Do you like watch television.? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh éisteacht le ceol? | Do you like listen to music.? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag snámh? | Do you like go swimming.? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig scannáin? | Do you like go to films.? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig drámaí? | Do you like go to plays.? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh imirt? | Do you like tennis? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh leadóg a imirt? | Do you like play tennis? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol? | Do you like music? |  |  | p |  |  |  |
@@ -839,12 +839,12 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha dúlra | I prefer nature programmes |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom seacláid | I prefer chocolate |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom portán | I prefer crab |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag rith. | I prefer go running. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom amharc ar an teilifís. | I prefer watch television. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom éisteacht le ceol. | I prefer listen to music. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag snámh. | I prefer go swimming. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig scannáin. | I prefer go to films. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig drámaí. | I prefer go to plays. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag rith | I prefer go running. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom Amharc ar an teilifís | I prefer watch television. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom éisteacht le ceol | I prefer listen to music. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag snámh | I prefer go swimming. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig scannáin | I prefer go to films. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig drámaí | I prefer go to plays. |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom imirt | I prefer tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom leadóg a imirt | I prefer play tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol | I prefer music |  |  |  |  |  |  |
@@ -878,74 +878,180 @@
 
 | program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| NYT | What you want |  |  |  | Cad é ba mhaith leat? | What would you like? |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Cad é ba mhaith leatsa? | What would *you* like? |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Cad é ba mhaith libh? | What would you like? (when speaking to more than one person) |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Cad é atá de dhíth ort? | What do you want? |  |  |  |  |  | You can use the following when addressing a friend or family member: |
-| NYT | What you want |  |  |  | Cad é atá de dhíth oraibh? | What do you want? (when speaking to more than one person) |  |  |  |  |  | You can use the following when addressing a friend or family member: |
-| NYT | What you want |  |  |  | Ba mhaith liom ... | I'd like ... |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Ba mhaith liom cupa tae. | I'd like a cup of tea. |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Ba mhaith liom ag dul amach | I'd like to go out |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Caife dubh domhsa. | A black coffee for me. |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Ba mhaith liomsa tae le bainne. | I'd like tea with milk. |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Rud ar bith eile? | Anything else? |  |  |  | Rud ar bee ella? |  |  |
-| NYT | What you want |  |  |  | DEOCHANNA | Drinks |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | caife | coffee |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | caife dubh | black coffee |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | caife bán | white coffee |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | tae | tea |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | tae láidir | strong tea |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | tae lag | weak tea |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | sú oráiste | orange juice |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | uisce | water |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | beoir | beer |  |  |  | byor |  |  |
-| NYT | What you want |  |  |  | fíon bán | white wine |  |  |  | fee-in baan |  |  |
-| NYT | What you want |  |  |  | fíon dearg | red wine |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | uisce beatha | whiskey |  |  |  | ishka beh-ha |  |  |
-| NYT | What you want |  |  |  | sceallógaí | chips |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | briosca | a biscuit |  |  |  | briska |  |  |
-| NYT | What you want |  |  |  | bágún | bacon |  |  |  | baa-gun |  |  |
-| NYT | What you want |  |  |  | ... le do thoil. | ... please. |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Go raibh maith agat. | Thank you. |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Maith thú. | good on you/well done |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Tá fáilte romhat. | You're welcome. |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Tá fáilte romhaibh. | You're welcome. (when speaking to more than one person) |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | An dtógann tú bainne? | Do you take milk? |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | An dtógann tú siúcra? | Do you take sugar? |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Tógaim. | I do. |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Ní thógaim. | I don't. |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | cupa | a cup |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | muga | a mug |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | pota | a pot |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | gloine | a glass |  |  |  | glinnye |  |  |
-| NYT | What you want |  |  |  | pionta | a pint |  |  |  | pinta |  |  |
-| NYT | What you want |  |  |  | leathphionta | half a pint |  |  |  | le-finta |  |  |
-| NYT | What you want |  |  |  | buidéal | a bottle |  |  |  | bawdjel |  |  |
-| NYT | What you want |  |  |  | pota tae | a pot of tea |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | gloine uisce | a glass of water |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | pionta beorach | a pint of beer |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Ar mhaith leat ...? | Would you like ...? |  | s |  |  |  |  |
-| NYT | What you want |  |  |  | Ar mhaith libh ...? | Would you like ...? |  | p |  |  |  |  |
-| NYT | What you want |  |  |  | deoch | a drink |  |  |  | dj-o |  |  |
-| NYT | What you want |  |  |  | leac oighir | ice |  |  |  | lack eye-er |  |  |
-| NYT | What you want |  |  |  | uachtar reoite | ice cream |  |  |  | wechtar rawtcha |  |  |
-| NYT | What you want |  |  |  | ceapaire | sandwich |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | milseáin | sweets |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | úll | apple |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | cuidiú | help |  |  |  | coodjoo |  |  |
-| NYT | What you want |  |  |  | Ba mhaith. | Yes (I would). |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Níor mhaith. | No (I wouldn't). |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | B'fhearr ... | I'd prefer ... |  |  |  | bear... |  |  |
-| NYT | What you want |  |  |  | B'fhearr liom gloine uisce. | I'd prefer a glass of water. |  |  |  | Bear liom glinye ish-ke |  |  |
-| NYT | What you want |  |  |  | Sláinte! | Cheers! |  |  | Health! |  |  |  |
-| NYT | What you want |  |  |  | Sláinte mhór | Cheers (response??) |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | ... duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Pionta beorach duitse. | A pint of beer for you. |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Seo do ... | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Seo do phionta | Here's your pint. |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Sláinte mhaith agat i bhfad ó bhrón. | Good health, free from sorrow. |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Sláinte do bheo agus tróicaire do mharbh. | Health to the living and mercy on the dead. |  |  |  |  |  |  |
-| NYT | What you want |  |  |  | Go mba fada a mhairfidh tú. | Long life to you |  |  |  |  |  |  |
+| NYT | What you want |  | WORD |  | ordú | order |  |  |  |  |  |  |
+| NYT | What you want |  | WORD |  | ag ordú | ordering |  |  |  |  |  |  |
+| NYT | What you want |  | WORD |  | deochanna | drinks |  |  |  |  |  |  |
+| NYT | What you want |  | WORD |  | ag ordú deochanna | ordering drinks |  |  |  |  |  |  |
+| NYT | What you want |  | WORD |  | cupa | a cup |  |  |  |  |  |  |
+| NYT | What you want |  | WORD |  | muga | a mug |  |  |  |  |  |  |
+| NYT | What you want |  | WORD |  | pota | a pot |  |  |  |  |  |  |
+| NYT | What you want |  | WORD |  | gloine | a glass |  |  |  | glinnye |  |  |
+| NYT | What you want |  | WORD |  | pionta | a pint |  |  |  | pinta |  |  |
+| NYT | What you want |  | WORD |  | leathphionta | half a pint |  |  |  | le-finta |  |  |
+| NYT | What you want |  | WORD |  | buidéal | a bottle |  |  |  | bawdjel |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | caife | coffee |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | caife dubh | black coffee |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | caife bán | white coffee |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | tae | tea |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | tae láidir | strong tea |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | tae lag | weak tea |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | sú oráiste | orange juice |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | uisce | water |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | beoir | beer |  |  |  | byor |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | fíon bán | white wine |  |  |  | fee-in baan |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | fíon dearg | red wine |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | uisce beatha | whiskey |  |  |  | ishka beh-ha |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | sceallógaí | chips |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | briosca | a biscuit |  |  |  | briska |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | bágún | bacon |  |  |  | baa-gun |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | pota tae | a pot of tea |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | gloine uisce | a glass of water |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | pionta beorach | a pint of beer |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | cupa tae | cup of tea |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | tae le bainne | tea with milk |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | leac oighir | ice |  |  |  | lack eye-er |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | uachtar reoite | ice cream |  |  |  | wechtar rawtcha |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | ceapaire | sandwich |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | milseáin | sweets |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | úll | apple |  |  |  |  |  |  |
+| NYT | What you want |  | WORD | WHAT_YOU_WANT | cuidiú | help |  |  |  | coodjoo |  |  |
+| NYT | What you want |  | QUESTION |  | Cad é ba mhaith leat? | What would you like? |  |  |  |  |  |  |
+| NYT | What you want |  | QUESTION |  | Cad é ba mhaith leatsa? | What would *you* like? |  |  |  |  |  |  |
+| NYT | What you want |  | QUESTION |  | Cad é ba mhaith libh? | What would you like? |  | s |  |  |  |  |
+| NYT | What you want |  | QUESTION |  | Cad é atá de dhíth ort? | What do you want? |  |  |  |  |  | You can use the following when addressing a friend or family member: |
+| NYT | What you want |  | QUESTION |  | Cad é atá de dhíth oraibh? | What do you want?  |  | p |  |  |  | You can use the following when addressing a friend or family member: |
+| NYT | What you want |  | TEMPLATE |  | Ba mhaith liom $WHAT_YOU_WANT | I'd like $WHAT_YOU_WANT |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom caife | I'd like coffee |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom caife dubh | I'd like black coffee |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom caife bán | I'd like white coffee |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom tae | I'd like tea |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom tae láidir | I'd like strong tea |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom tae lag | I'd like weak tea |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom sú oráiste | I'd like orange juice |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom uisce | I'd like water |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom beoir | I'd like beer |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom fíon bán | I'd like white wine |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom fíon dearg | I'd like red wine |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom uisce beatha | I'd like whiskey |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom sceallógaí | I'd like chips |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom briosca | I'd like a biscuit |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom bágún | I'd like bacon |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom pota tae | I'd like a pot of tea |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom gloine uisce | I'd like a glass of water |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom pionta beorach | I'd like a pint of beer |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom cupa tae | I'd like cup of tea |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom tae le bainne | I'd like tea with milk |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom leac oighir | I'd like ice |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom uachtar reoite | I'd like ice cream |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom ceapaire | I'd like sandwich |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom milseáin | I'd like sweets |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom úll | I'd like apple |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ba mhaith liom cuidiú | I'd like help |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Ba mhaith liom ag dul amach | I'd like to go out |  |  |  |  |  |  |
+| NYT | What you want |  | TEMPLATE |  | $WHAT_YOU_WANT domhsa. | $WHAT_YOU_WANT for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | caife domhsa. | coffee for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | caife dubh domhsa. | black coffee for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | caife bán domhsa. | white coffee for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | tae domhsa. | tea for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | tae láidir domhsa. | strong tea for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | tae lag domhsa. | weak tea for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | sú oráiste domhsa. | orange juice for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | uisce domhsa. | water for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | beoir domhsa. | beer for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | fíon bán domhsa. | white wine for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | fíon dearg domhsa. | red wine for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | uisce beatha domhsa. | whiskey for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | sceallógaí domhsa. | chips for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | briosca domhsa. | a biscuit for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | bágún domhsa. | bacon for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | pota tae domhsa. | a pot of tea for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | gloine uisce domhsa. | a glass of water for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | pionta beorach domhsa. | a pint of beer for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | cupa tae domhsa. | cup of tea for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | tae le bainne domhsa. | tea with milk for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | leac oighir domhsa. | ice for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | uachtar reoite domhsa. | ice cream for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | ceapaire domhsa. | sandwich for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | milseáin domhsa. | sweets for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | úll domhsa. | apple for me. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | cuidiú domhsa. | help for me. |  |  |  |  |  |  |
+| NYT | What you want |  | QUESTION |  | Rud ar bith eile? | Anything else? |  |  |  | Rud ar bee ella? |  |  |
+| NYT | What you want |  | PHRASE |  | ... le do thoil. | ... please. |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Go raibh maith agat. | Thank you. |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Maith thú. | good on you/well done |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Tá fáilte romhat. | You're welcome. |  | s |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Tá fáilte romhaibh. | You're welcome. |  | p |  |  |  |  |
+| NYT | What you want |  | QUESTION |  | An dtógann tú bainne? | Do you take milk? |  |  |  |  |  |  |
+| NYT | What you want |  | QUESTION |  | An dtógann tú siúcra? | Do you take sugar? |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Tógaim. | I do. |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Ní thógaim. | I don't. |  |  |  |  |  |  |
+| NYT | What you want |  | TEMPLATE |  | Ar mhaith leat $WHAT_YOU_WANT? | Would you like $WHAT_YOU_WANT? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat caife? | Would you like coffee? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat caife dubh? | Would you like black coffee? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat caife bán? | Would you like white coffee? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat tae? | Would you like tea? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat tae láidir? | Would you like strong tea? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat tae lag? | Would you like weak tea? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat sú oráiste? | Would you like orange juice? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat uisce? | Would you like water? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat beoir? | Would you like beer? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat fíon bán? | Would you like white wine? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat fíon dearg? | Would you like red wine? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat uisce beatha? | Would you like whiskey? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat sceallógaí? | Would you like chips? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat briosca? | Would you like a biscuit? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat bágún? | Would you like bacon? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat pota tae? | Would you like a pot of tea? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat gloine uisce? | Would you like a glass of water? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat pionta beorach? | Would you like a pint of beer? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat cupa tae? | Would you like cup of tea? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat tae le bainne? | Would you like tea with milk? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat leac oighir? | Would you like ice? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat uachtar reoite? | Would you like ice cream? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat ceapaire? | Would you like sandwich? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat milseáin? | Would you like sweets? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat úll? | Would you like apple? |  | s |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith leat cuidiú? | Would you like help? |  | s |  |  |  |  |
+| NYT | What you want |  | TEMPLATE |  | Ar mhaith libh $WHAT_YOU_WANT? | Would you like $WHAT_YOU_WANT? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh caife? | Would you like coffee? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh caife dubh? | Would you like black coffee? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh caife bán? | Would you like white coffee? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh tae? | Would you like tea? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh tae láidir? | Would you like strong tea? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh tae lag? | Would you like weak tea? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh sú oráiste? | Would you like orange juice? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh uisce? | Would you like water? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh beoir? | Would you like beer? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh fíon bán? | Would you like white wine? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh fíon dearg? | Would you like red wine? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh uisce beatha? | Would you like whiskey? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh sceallógaí? | Would you like chips? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh briosca? | Would you like a biscuit? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh bágún? | Would you like bacon? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh pota tae? | Would you like a pot of tea? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh gloine uisce? | Would you like a glass of water? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh pionta beorach? | Would you like a pint of beer? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh cupa tae? | Would you like cup of tea? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh tae le bainne? | Would you like tea with milk? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh leac oighir? | Would you like ice? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh uachtar reoite? | Would you like ice cream? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh ceapaire? | Would you like sandwich? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh milseáin? | Would you like sweets? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh úll? | Would you like apple? |  | p |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Ar mhaith libh cuidiú? | Would you like help? |  | p |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Ba mhaith. | Yes (I would). |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Níor mhaith. | No (I wouldn't). |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | B'fhearr ... | I'd prefer ... |  |  |  | bear... |  |  |
+| NYT | What you want |  | SENTENCE |  | B'fhearr liom gloine uisce. | I'd prefer a glass of water. |  |  |  | Bear liom glinye ish-ke |  |  |
+| NYT | What you want |  | SENTENCE |  | Sláinte! | Cheers! |  |  | Health! |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Sláinte mhór | Cheers (response??) |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | ... duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Pionta beorach duitse. | A pint of beer for you. |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Seo do ... | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Seo do phionta | Here's your pint. |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Sláinte mhaith agat i bhfad ó bhrón. | Good health, free from sorrow. |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Sláinte do bheo agus tróicaire do mharbh. | Health to the living and mercy on the dead. |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Go mba fada a mhairfidh tú. | Long life to you |  |  |  |  |  |  |
 | NYT | What you want |  | QUESTION |  | An ólann tú caife? | Do you drink coffee? |  |  |  |  |  |  |
 | NYT | What you want |  | SENTENCE |  | Ólaim. | Yes/I drink |  |  |  |  |  |  |
 | NYT | What you want |  | SENTENCE |  | Ní ólaim | No/I don’t drink |  |  |  |  |  |  |
@@ -2609,5 +2715,3 @@
 | NYT | 14 |  |  |  | Ceithre phunt | Four pounds |  |  |  |  |  |  |
 | NYT | 14 |  |  |  | Cúig phunt | Five pounds |  |  |  |  |  |  |
 | NYT | 14 |  |  |  | Sé phunt | Six pounds |  |  |  |  |  |  |
-| NYT | 14 |  |  |  | Seacht bpunt | Seven pounds |  |  |  |  |  |  |
-| NYT | 14 |  |  |  | Ocht bpunt | Eight pounds |  |  |  |  |  |  |
