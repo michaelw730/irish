@@ -194,74 +194,64 @@
 
 | program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| NYT | Introductions |  |  |  | Cur in aithne | Introductions |  |  |  | cur in an-yuh |  |  |
-| NYT | Introductions |  |  |  | ainm | Name |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | sloinne | surname |  |  |  | slin-you |  |  |
-| NYT | Introductions |  |  |  | sloinnte | surnames |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | Cad é an t-ainm atá ort? | What is your name? | Try other on prep pronouns – orm/ort/air/uirthi/orainn/oraibh/orthu |  | What name is on you? |  |  |  |
-| NYT | Introductions |  |  |  | Cad é an t-ainm atá ort féin? | What is your own name? |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | Cad é an t-ainm atá ortsa? | What is *your* name? |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | >$NAME an t-ainm atá orm. | My name is $NAME | Ask the other person’s name |  | $NAME is the name on me |  |  |  |
-| NYT | Introductions |  |  |  | Cé thusa? | Who are you? |  |  |  | Kay husa? |  |  |
-| NYT | Introductions |  |  |  | >Is mise $NAME | I am $NAME |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | >Mise $NAME | I'm $NAME |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | Cad é an sloinne atá ort? | What is your surname? |  |  |  | ..slinyou.. |  |  |
-| NYT | Introductions |  |  |  | >$SURNAME an sloinne atá orm. | My surname is $SURNAME |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | C'ainm atá ort? | What's your name? | Try other on prep pronouns – orm/ort/air/uirthi/orainn/oraibh/orthu |  |  |  |  |  |
-| NYT | Introductions |  |  |  | C'ainm atá ortsa? | What's *your* name? |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | >$NAME | >$NAME |  |  |  |  |  | Usually just the surname |
-| NYT | Introductions |  |  |  | Cé seo? | Who's this? |  |  | s |  |  |  |
-| NYT | Introductions |  |  |  | Cé hiad seo? | Who's this? Who are these? |  |  | p |  |  |  |
-| NYT | Introductions |  |  |  | Seo $NAME | This is $NAME |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | Cé hiad sin? | Who are they/those? |  |  | p |  |  |  |
-| NYT | Introductions |  |  |  | Cé hé sin? | Who is he? |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | > Sin (é) $NAME. | He is $NAME. |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | Cé mise? | Who am I? |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | Cé hé? | Who is he? |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | Is é... é | He is |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | Cé hí? | Who is she? |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | Is í... í | She is |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | Cé sinne? | Who are we? |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | Cé hiad? | Who are they? |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | Is iad... iad | They are... |  |  |  |  |  |  |
-| NYT | Introductions |  |  |  | ar | on |  |  |  | air |  |  |
-| NYT | Introductions |  |  |  | ár | our |  |  |  | are |  |  |
-| NYT | Introductions |  |  |  | fear | man |  |  |  | far |  |  |
-| NYT | Introductions |  |  |  | féar | grass |  |  |  | fay-r |  |  |
-| NYT | Introductions |  |  |  | fionn | blond |  |  |  | finn |  |  |
-| NYT | Introductions |  |  |  | fíon | wine |  |  |  | fee-in |  |  |
-| NYT | Introductions |  |  |  | solas | light |  |  |  | sawlas |  |  |
-| NYT | Introductions |  |  |  | sólás | comfort |  |  |  | sow-laas |  |  |
-| NYT | Introductions |  |  |  | gunna | gun |  |  |  | gun-na |  |  |
-| NYT | Introductions |  |  |  | gúna | dress |  |  |  | goona |  |  |
-
-## NYT - Family Basic
-
-| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| NYT | Family Basic |  |  |  | an teaghlach | the family |  |  |  | an chay-la |  |  |
-| NYT | Family Basic |  |  |  | Mo theaghlach | My family |  |  |  | mo hay-la |  |  |
-| NYT | Family Basic |  |  |  | athair | father |  |  |  | aher |  |  |
-| NYT | Family Basic |  |  |  | máthair | mother |  |  |  | mah-her |  |  |
-| NYT | Family Basic |  |  |  | mamaí? | mum? |  |  |  |  |  |  |
-| NYT | Family Basic |  |  |  | deirfiúr | sister |  |  |  | djerifur |  |  |
-| NYT | Family Basic |  |  |  | deartháir | brother |  |  |  | djarher |  |  |
-| NYT | Family Basic |  |  |  | iníon* | daughter |  |  |  | nyee-in (like news) |  | * In Ulster the i at the beginning of iníon is not pronounced. |
-| NYT | Family Basic |  |  |  | iníonacha | daughters |  |  |  |  |  |  |
-| NYT | Family Basic |  |  |  | mac | son |  |  |  | mawck |  |  |
-
-## NYT - Family Introductions
-
-| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| NYT | Family Introductions |  |  |  | Seo mo mháthair. | This is my mother |  |  |  | Shaw mo wahher |  |  |
-| NYT | Family Introductions |  |  |  | Seo m'athair. | This is my father |  |  |  | Shaw maher |  |  |
-| NYT | Family Introductions |  |  |  | Seo m'iníon. | This is my daughter |  |  |  | Shaw minyee-in |  |  |
-| NYT | Family Introductions |  |  |  | Seo mo mhac. | This is my son |  |  |  | Shaw  mo wock |  |  |
-| NYT | Family Introductions |  |  |  | Seo mo dheartháir. | This is my brother |  |  |  | Shaw  mo yeahr-her |  |  |
-| NYT | Family Introductions |  |  |  | Seo mo dheirfiúr. | This is my sister |  |  |  | Shaw mo yerifur |  |  |
-| NYT | Family Introductions |  |  |  | Seo mo chuid iníonacha... | these are my daughters |  |  |  | Shaw whid nyeenacha... |  |  |
-| NYT | Family Introductions |  |  |  | Seo mo chuid mac... | these are my sons |  |  |  | Shaw whid mawk... |  |  |
+| NYT | Introductions |  | PHRASE |  | Cur in aithne | Introductions |  |  |  | cur in an-yuh |  |  |
+| NYT | Introductions |  | WORD |  | ainm | Name |  |  |  |  |  |  |
+| NYT | Introductions |  | WORD |  | sloinne | surname |  |  |  | slin-you |  |  |
+| NYT | Introductions |  | WORD |  | sloinnte | surnames |  |  |  |  |  |  |
+| NYT | Introductions |  | QUESTION |  | Cad é an t-ainm atá ort? | What is your name? | Try other on prep pronouns – orm/ort/air/uirthi/orainn/oraibh/orthu |  | What name is on you? |  |  |  |
+| NYT | Introductions |  | QUESTION |  | Cad é an t-ainm atá ort féin? | What is your own name? |  |  |  |  |  |  |
+| NYT | Introductions |  | QUESTION |  | Cad é an t-ainm atá ortsa? | What is *your* name? |  |  |  |  |  |  |
+| NYT | Introductions |  | SENTENCE |  | >$NAME an t-ainm atá orm. | My name is $NAME | Ask the other person’s name |  | $NAME is the name on me |  |  |  |
+| NYT | Introductions |  | QUESTION |  | Cé thusa? | Who are you? |  |  |  | Kay husa? |  |  |
+| NYT | Introductions |  | SENTENCE |  | >Is mise $NAME | I am $NAME |  |  |  |  |  |  |
+| NYT | Introductions |  | SENTENCE |  | >Mise $NAME | I'm $NAME |  |  |  |  |  |  |
+| NYT | Introductions |  | QUESTION |  | Cad é an sloinne atá ort? | What is your surname? |  |  |  | ..slinyou.. |  |  |
+| NYT | Introductions |  | SENTENCE |  | >$SURNAME an sloinne atá orm. | My surname is $SURNAME |  |  |  |  |  |  |
+| NYT | Introductions |  | QUESTION |  | C'ainm atá ort? | What's your name? | Try other on prep pronouns – orm/ort/air/uirthi/orainn/oraibh/orthu |  |  |  |  |  |
+| NYT | Introductions |  | QUESTION |  | C'ainm atá ortsa? | What's *your* name? |  |  |  |  |  |  |
+| NYT | Introductions |  | SENTENCE |  | >$NAME | >$NAME |  |  |  |  |  | Usually just the surname |
+| NYT | Introductions |  | QUESTION |  | Cé seo? | Who's this? |  |  | s |  |  |  |
+| NYT | Introductions |  | QUESTION |  | Cé hiad seo? | Who's this? Who are these? |  |  | p |  |  |  |
+| NYT | Introductions |  | SENTENCE |  | Seo $NAME | This is $NAME |  |  |  |  |  |  |
+| NYT | Introductions |  | QUESTION |  | Cé hiad sin? | Who are they/those? |  |  | p |  |  |  |
+| NYT | Introductions |  | QUESTION |  | Cé hé sin? | Who is he? |  |  |  |  |  |  |
+| NYT | Introductions |  | SENTENCE |  | > Sin (é) $NAME. | He is $NAME. |  |  |  |  |  |  |
+| NYT | Introductions |  | QUESTION |  | Cé mise? | Who am I? |  |  |  |  |  |  |
+| NYT | Introductions |  | QUESTION |  | Cé hé? | Who is he? |  |  |  |  |  |  |
+| NYT | Introductions |  | SENTENCE |  | Is é... é | He is |  |  |  |  |  |  |
+| NYT | Introductions |  | QUESTION |  | Cé hí? | Who is she? |  |  |  |  |  |  |
+| NYT | Introductions |  | QUESTION |  | Is í... í | She is |  |  |  |  |  |  |
+| NYT | Introductions |  | QUESTION |  | Cé sinne? | Who are we? |  |  |  |  |  |  |
+| NYT | Introductions |  | QUESTION |  | Cé hiad? | Who are they? |  |  |  |  |  |  |
+| NYT | Introductions |  | SENTENCE |  | Is iad... iad | They are... |  |  |  |  |  |  |
+| NYT | Introductions |  | WORD |  | ar | on |  |  |  | air |  |  |
+| NYT | Introductions |  | WORD |  | ár | our |  |  |  | are |  |  |
+| NYT | Introductions |  | WORD |  | fear | man |  |  |  | far |  |  |
+| NYT | Introductions |  | WORD |  | féar | grass |  |  |  | fay-r |  |  |
+| NYT | Introductions |  | WORD |  | fionn | blond |  |  |  | finn |  |  |
+| NYT | Introductions |  | WORD |  | fíon | wine |  |  |  | fee-in |  |  |
+| NYT | Introductions |  | WORD |  | solas | light |  |  |  | sawlas |  |  |
+| NYT | Introductions |  | WORD |  | sólás | comfort |  |  |  | sow-laas |  |  |
+| NYT | Introductions |  | WORD |  | gunna | gun |  |  |  | gun-na |  |  |
+| NYT | Introductions |  | WORD |  | gúna | dress |  |  |  | goona |  |  |
+| NYT | Introductions | Family Basic | WORD |  | an teaghlach | the family |  |  |  | an chay-la |  |  |
+| NYT | Introductions | Family Basic | WORD |  | Mo theaghlach | My family |  |  |  | mo hay-la |  |  |
+| NYT | Introductions | Family Basic | WORD |  | athair | father |  |  |  | aher |  |  |
+| NYT | Introductions | Family Basic | WORD |  | máthair | mother |  |  |  | mah-her |  |  |
+| NYT | Introductions | Family Basic | WORD |  | mamaí? | mum? |  |  |  |  |  |  |
+| NYT | Introductions | Family Basic | WORD |  | deirfiúr | sister |  |  |  | djerifur |  |  |
+| NYT | Introductions | Family Basic | WORD |  | deartháir | brother |  |  |  | djarher |  |  |
+| NYT | Introductions | Family Basic | WORD |  | iníon* | daughter |  |  |  | nyee-in (like news) |  | * In Ulster the i at the beginning of iníon is not pronounced. |
+| NYT | Introductions | Family Basic | WORD |  | iníonacha | daughters |  |  |  |  |  |  |
+| NYT | Introductions | Family Basic | WORD |  | mac | son |  |  |  | mawck |  |  |
+| NYT | Introductions | Family Introductions | SENTENCE |  | Seo mo mháthair. | This is my mother |  |  |  | Shaw mo wahher |  |  |
+| NYT | Introductions | Family Introductions | SENTENCE |  | Seo m'athair. | This is my father |  |  |  | Shaw maher |  |  |
+| NYT | Introductions | Family Introductions | SENTENCE |  | Seo m'iníon. | This is my daughter |  |  |  | Shaw minyee-in |  |  |
+| NYT | Introductions | Family Introductions | SENTENCE |  | Seo mo mhac. | This is my son |  |  |  | Shaw  mo wock |  |  |
+| NYT | Introductions | Family Introductions | SENTENCE |  | Seo mo dheartháir. | This is my brother |  |  |  | Shaw  mo yeahr-her |  |  |
+| NYT | Introductions | Family Introductions | SENTENCE |  | Seo mo dheirfiúr. | This is my sister |  |  |  | Shaw mo yerifur |  |  |
+| NYT | Introductions | Family Introductions | SENTENCE |  | Seo mo chuid iníonacha... | these are my daughters |  |  |  | Shaw whid nyeenacha... |  |  |
+| NYT | Introductions | Family Introductions | SENTENCE |  | Seo mo chuid mac... | these are my sons |  |  |  | Shaw whid mawk... |  |  |
 
 ## NYT - Person Background
 
