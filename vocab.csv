@@ -1,24 +1,9 @@
 program	topic	topic2	type	group	irish	meaning	practice_ideas	s_p	literal_meaning	phonetic	sound	info
-Various	Greetings etc				Dia duit!	Hello! (God to you)		s				
-Various	Greetings etc				Dia is Muire duit.	Hello. (in response)		s				
-Various	Greetings etc				Dia daoibh!	Hello! (God to you)		p				
-Various	Greetings etc				Dia is Muire daoibh	Hello. (in response)		p				
 Various	Greetings etc				Maidin mhaith.	Good morning.						
 Various	Greetings etc				Tráthnóna maith.	Good afternoon.				tranoana my		
 Various	Greetings etc				Oíche mhaith.	Good evening/night.						
 Various	Greetings etc				Fáilte.	Welcome.						
 Various	Greetings etc				beannachtaí	Greetings				baan-ak-tee		
-Various	Greetings etc				Slán!	Goodbye.			Safe/Health	slawn or slen		
-Various	Greetings etc				Slán go fóill	Goodbye for now				Slaawn guh foil??		Only say Slán after this as response
-Various	Greetings etc				Slán leat	Goodbye to you		s	may safety or health be with you			
-Various	Greetings etc				Slán libh	Goodbye to you		p				
-Various	Greetings etc				Slán abhaile	Safe home						
-Various	Greetings etc				Ádh mór	Good luck 			big luck	aw more		
-Various	Greetings etc				Ádh mór ort	Good luck to you		s	big luck on you			
-Various	Greetings etc				Ádh mór oraibh	Good luck to you		p				
-Various	Greetings etc				Chífidh mé tú.	I'll see you.						tú or thú???
-Various	Greetings etc				Feicfidh mé arís thú.	I'll see you again.				Fecky may arish hu		
-Various	Greetings etc				Feicfidh mé amárach thú	I'll see you tomorrow.				Fecky may amarach hu		
 Various	Greetings etc				arís	again.						
 Various	Greetings etc				le do thoil	please		s		le de hull		
 Various	Greetings etc				le bhur dtoil	please		p		le wer dul		
@@ -29,16 +14,12 @@ Various	Greetings etc				póg mo thóin	kiss my ass				powg moh hoe-n
 Various	Greetings etc				Tá fáilte romhat	you're welcome			There is a welcome for / before you			
 Various	Greetings etc				Comhghairdeas	Congratulations				co-hard-yes		
 Various	Greetings etc				Comhghairdeachas	Congratulations				co-hard-ye-has		 (Ulster??)
-Various	Greetings etc				Aonad 1	Unit 1				Ay-nid a hein		
 Various	Greetings etc				Níl a fhios agam	I don't know				neil us agam		
 Various	Greetings etc				Tá a fhios agam	I know				Ta us agam		
 Various	Greetings etc				freagair	reply/answer				freggar		
 Various	Greetings etc				cur Gaeilge air?	What's irish for?						
-Various	Greetings etc				deireadh	end				djeroo		
-Various	Greetings etc				Sin deireadh le aonad	That's the end of unit...				Sin djeroo le ay-nid...		
 Various	Greetings etc				sparán	purse				sparaan		
 Various	Greetings etc				go dtí sin	until then						
-Various	Greetings etc				cluiche fichille?	Chess game?				Clee-ha feel-a		
 Various	Greetings etc				lá breithe shona	happy birthday				laa brayha		
 Various	Greetings etc				lá breithe shona duit	happy birthday to you						
 Various	Greetings etc				Béal Feirste	Belfast				bell firstye		mouth of the river farset
@@ -48,9 +29,14 @@ Various	Greetings etc				chos(?)	foot				cos
 Various	Greetings etc				ceann(?)	head				cyun		
 Various	Greetings etc				droim(?)	back				drim		
 Various	Greetings etc				toín(?)	backside				towin		
+NYT	Meeting People		WORD		Aonad 1	Unit 1				Ay-nid a hein		
 NYT	Meeting People		WORD		duine	person				dinye		
 NYT	Meeting People		WORD		daoine	people				deeny		
 NYT	Meeting People		PHRASE		Ag bualadh le daoine	Meeting people			meeting with people??	Ag Bwayla le deeny		
+NYT	Meeting People		PHRASE		Dia duit!	Hello! (God to you)		s				
+NYT	Meeting People		PHRASE		Dia is Muire duit.	Hello. (in response)		s				
+NYT	Meeting People		PHRASE		Dia daoibh!	Hello! (God to you)		p				
+NYT	Meeting People		PHRASE		Dia is Muire daoibh	Hello. (in response)		p				
 NYT	Meeting People		WORD		Haló	Hello						
 NYT	Meeting People		QUESTION		Cad é mar atá tú?	How are you?		s				This greeting is sometimes preceded by Haló.
 NYT	Meeting People		QUESTION		Cad é mar atá sibh?	How are you?		p				
@@ -135,6 +121,19 @@ NYT	Meeting People	Weather	SENTENCE		Tá lá breá ann inniu.	It's a fine day to
 NYT	Meeting People	Weather	PHRASE		Buíochas le Dia	Thank God	Said after “it’s a good day” for example			bwayhas le djia		is used quite frequently in this context.
 NYT	Meeting People	Weather	SENTENCE		Tá drochlá ann.	It's a bad day.				teh drock-leh ann		
 NYT	Meeting People	Weather	SENTENCE		Tá drochlá ann inniu.	It's a bad day today.				teh drock-leh ann inn-u		
+NYT	Meeting People	Goodbyes	SENTENCE		Slán!	Goodbye.			Safe/Health	slawn or slen		
+NYT	Meeting People	Goodbyes	SENTENCE		Slán go fóill	Goodbye for now				Slaawn guh foil??		Only say Slán after this as response
+NYT	Meeting People	Goodbyes	SENTENCE		Slán leat	Goodbye to you		s	may safety or health be with you			
+NYT	Meeting People	Goodbyes	SENTENCE		Slán libh	Goodbye to you		p				
+NYT	Meeting People	Goodbyes	SENTENCE		Slán abhaile	Safe home						
+NYT	Meeting People	Goodbyes	SENTENCE		Ádh mór	Good luck 			big luck	aw more		
+NYT	Meeting People	Goodbyes	SENTENCE		Ádh mór ort	Good luck to you		s	big luck on you			
+NYT	Meeting People	Goodbyes	SENTENCE		Ádh mór oraibh	Good luck to you		p				
+NYT	Meeting People	Goodbyes	SENTENCE		Chífidh mé tú.	I'll see you.						tú or thú???
+NYT	Meeting People	Goodbyes	SENTENCE		Feicfidh mé arís thú.	I'll see you again.				Fecky may arish hu		
+NYT	Meeting People	Goodbyes	SENTENCE		Feicfidh mé amárach thú	I'll see you tomorrow.				Fecky may amarach hu		
+NYT	Meeting People		WORD		deireadh	end				djeroo		
+NYT	Meeting People		SENTENCE		Sin deireadh le aonad 1	That's the end of unit 1				Sin djeroo le ay-nid...		
 NYT	Introductions				Cur in aithne	Introductions				cur in an-yuh		
 NYT	Introductions				ainm	Name						
 NYT	Introductions				sloinne	surname				slin-you		
