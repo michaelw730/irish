@@ -702,85 +702,151 @@
 
 | program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| NYT | Expressing Opinions |  |  |  | Is maith liom ... | I like ... |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Is breá liom ... | I really like ... |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Tá dúil mhór agam i(n)... | I really like ... |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Ní maith liom ... | I don't like ... |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Ní maith liom ...ar chor ar bith. | I don't like ... at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  |  |  | Ní maith liom ar chor ar bith é. | I don't like it at all. |  |  |  | ...ar har a bee ay |  |  |
-| NYT | Expressing Opinions |  |  |  | Ní maith liom ar chor ar bith iad. | I don't like them at all. |  |  |  | ...ar har a bee ead |  |  |
-| NYT | Expressing Opinions |  |  |  | Is fuath liom... | I hate ... |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | clár | programme |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | cláracha | programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | cláracha faisnéise | documentaries |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | cláracha spóirt | sports programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | cláracha ceoil | music programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | cláracha cainte | talk shows |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | cláracha dúlra | nature programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | banc | bank |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | seacláid | chocolate |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | portán | crab |  |  |  | porthaan |  |  |
-| NYT | Expressing Opinions |  |  |  | mar shampla | for example |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | go háirithe | especially |  |  |  | go hairy-heh |  |  |
-| NYT | Expressing Opinions |  |  |  | Is maith liom a bheith ... | I like ... |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | ag garraíodóireacht | gardening |  |  |  | ag garaderact |  |  |
-| NYT | Expressing Opinions |  |  |  | ag péinteáil | painting |  |  |  | ag paint-al |  |  |
-| NYT | Expressing Opinions |  |  |  | ag cócaireacht | cooking |  |  |  | ag cocker-act |  |  |
-| NYT | Expressing Opinions |  |  |  | ag iascaireacht | ag fishing |  |  |  | ag isc-a-ract |  |  |
-| NYT | Expressing Opinions |  |  |  | ag léamh | reading |  |  |  | ag lay-oh |  |  |
-| NYT | Expressing Opinions |  |  |  | ag siúl | walking |  |  |  | ag shool |  |  |
-| NYT | Expressing Opinions |  |  |  | Is maith liom ... | I like to ... |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | a dhul ag rith. | go running. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | amharc ar an teilifís. | watch television. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | éisteacht le ceol. | listen to music. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | a dhul ag snámh. | go swimming. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | a dhul chuig scannáin. | go to films. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | a dhul chuig drámaí. | go to plays. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | leadóg a imirt. | play tennis. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | An maith leat ...? | Do you like... ? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  |  |  | An maith libh ...? | Do you like... ? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Is maith |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Ní maith |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | CINEÁLACHA CEOIL | Types of music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | ceol traidisiúnta | traditional music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | ceol clasaiceach | classical music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | snagcheol | jazz |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | roc-cheol | rock music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | popcheol | popular music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | An maith leat ceol clasaiceach? | Do you like classical music? |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Is maith. | Yes. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Ní maith. | No. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Is breá liom é. | I really like it. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Ní maith liom ar chor ar bith é. | I don't like it at all. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Is fuath liom é. | I hate it. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Tá sé ceart go leor. | It's all right. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | An maith leat é? | Do you like it? |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | An maith leatsa é? | Do you like it? |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | An maith leat féin é? | Do you like it yourself? |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Is fearr liom ... | I prefer ... |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Is maith liom snagcheoil ach is fearr liom ceol traidisiúnta. | I like jazz but I prefer traditional music. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Is maith liomsa fosta é | I like it too/as well |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Is fearr liomsa fosta é | I prefer it too/as well |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | BIA AGUS DEOCH | food and drink |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | feoil | meat |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | glasraí | vegetables |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | bia mara | seafood |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | sicín | chicken |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | fíon bán | white wine |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | fíon dearg | red wine |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Tá sé maith. | It's good. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Tá sé an-mhaith. | It's very good. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Tá sé measartha maith. | It's reasonably good. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | Níl sé rómhaith. | It's not too good. |  |  |  | ...roh-why |  |  |
-| NYT | Expressing Opinions |  |  |  | Tá sé go dona. | It's very bad. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | An bhfuil ... maith? | Is ... good? |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | An bhfuil an fíon seo maith? | Is this wine good? |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | An bhfuil sé seo maith? | Is this good? |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | an ceann seo | this one |  |  |  |  |  | as in "I prefer this one" |
-| NYT | Expressing Opinions |  |  |  | An bhfuil maith ar bith sa ...? | Is the ... any good? |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | An bhfuil maith ar bith sa bhialann sin? | Is that restaurant any good? |  |  |  | an whil my ar bee sa via-lann sin? |  | said quick |
-| NYT | Expressing Opinions |  |  |  | An bhfuil an bia maith? | Is the food any good? |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  |  |  | bialann | restaurant |  |  |  | bia-lann |  |  |
+| NYT | Expressing Opinions |  | PHRASE |  | AG CUR TUAIRIMÍ IN IÚL | Expressing opinions |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD |  | clár | programme |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD |  | cláracha | programmes |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha faisnéise | documentaries |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha spóirt | sports programmes |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha ceoil | music programmes |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha cainte | talk shows |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha dúlra | nature programmes |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD |  | banc | bank |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | seacláid | chocolate |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | portán | crab |  |  |  | porthaan |  |  |
+| NYT | Expressing Opinions |  | WORD |  | mar shampla | for example |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD |  | go háirithe | especially |  |  |  | go hairy-heh |  |  |
+| NYT | Expressing Opinions |  | TEMPLATE |  | Is maith liom $THINGS_TO_LIKE | I like $THINGS_TO_LIKE |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha faisnéise | I like documentaries |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha spóirt | I like sports programmes |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha ceoil | I like music programmes |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha cainte | I like talk shows |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha dúlra | I like nature programmes |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom seacláid | I like chocolate |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom portán | I like crab |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | TEMPLATE |  | Is breá liom $THINGS_TO_LIKE | I really like $THINGS_TO_LIKE |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha faisnéise | I really like documentaries |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha spóirt | I really like sports programmes |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha ceoil | I really like music programmes |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha cainte | I really like talk shows |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha dúlra | I really like nature programmes |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom seacláid | I really like chocolate |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom portán | I really like crab |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Tá dúil mhór agam i(n)... | I really like ... |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | TEMPLATE |  | Ní maith liom $THINGS_TO_LIKE | I don't like $THINGS_TO_LIKE |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha faisnéise | I don't like documentaries |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha spóirt | I don't like sports programmes |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha ceoil | I don't like music programmes |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha cainte | I don't like talk shows |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha dúlra | I don't like nature programmes |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom seacláid | I don't like chocolate |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom portán | I don't like crab |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | TEMPLATE |  | Ní maith liom $THINGS_TO_LIKE ar chor ar bith. | I don't like $THINGS_TO_LIKE at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha faisnéise ar chor ar bith. | I don't like documentaries at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha spóirt ar chor ar bith. | I don't like sports programmes at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha ceoil ar chor ar bith. | I don't like music programmes at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha cainte ar chor ar bith. | I don't like talk shows at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha dúlra ar chor ar bith. | I don't like nature programmes at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom seacláid ar chor ar bith. | I don't like chocolate at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom portán ar chor ar bith. | I don't like crab at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Ní maith liom ar chor ar bith é. | I don't like it at all. |  |  |  | ...ar har a bee ay |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Ní maith liom ar chor ar bith iad. | I don't like them at all. |  |  |  | ...ar har a bee ead |  |  |
+| NYT | Expressing Opinions |  | TEMPLATE |  | Is fuath liom $THINGS_TO_LIKE | I hate $THINGS_TO_LIKE |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha faisnéise | I hate documentaries |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha spóirt | I hate sports programmes |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha ceoil | I hate music programmes |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha cainte | I hate talk shows |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha dúlra | I hate nature programmes |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom seacláid | I hate chocolate |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom portán | I hate crab |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag garraíodóireacht | gardening |  |  |  | ag garaderact |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag péinteáil | painting |  |  |  | ag paint-al |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag cócaireacht | cooking |  |  |  | ag cocker-act |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag iascaireacht | fishing |  |  |  | ag isc-a-ract |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag léamh | reading |  |  |  | ag lay-oh |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag siúl | walking |  |  |  | ag shool |  |  |
+| NYT | Expressing Opinions |  | TEMPLATE |  | Is maith liom a bheith $THINGS_TO_LIKE_TO_DO | I like $THINGS_TO_LIKE_TO_DO |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag garraíodóireacht | I like gardening |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag péinteáil | I like painting |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag cócaireacht | I like cooking |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag iascaireacht | I like fishing |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag léamh | I like reading |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag siúl | I like walking |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE2 | a dhul ag rith. | go running. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE2 | amharc ar an teilifís. | watch television. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE2 | éisteacht le ceol. | listen to music. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE2 | a dhul ag snámh. | go swimming. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE2 | a dhul chuig scannáin. | go to films. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE2 | a dhul chuig drámaí. | go to plays. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE2 | leadóg a imirt. | play tennis. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE3 | ceol | music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD |  | Cineál | Type |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD |  | Cineálacha ceoil | Types of music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE3 | ceol traidisiúnta | traditional music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE3 | ceol clasaiceach | classical music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE3 | snagcheol | jazz |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE3 | roc-cheol | rock music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE3 | popcheol | popular music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | TEMPLATE |  | Is maith liom $THINGS_TO_LIKE2 | I like to $THINGS_TO_LIKE2 |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag rith. | I like to go running. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom amharc ar an teilifís. | I like to watch television. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom éisteacht le ceol. | I like to listen to music. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag snámh. | I like to go swimming. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig scannáin. | I like to go to films. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig drámaí. | I like to go to plays. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom leadóg a imirt. | I like to play tennis. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | TEMPLATE |  | An maith leat $THINGS_TO_LIKE3? | Do you like $THINGS_TO_LIKE3 ? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol? | Do you like music ? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol traidisiúnta? | Do you like traditional music ? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol clasaiceach? | Do you like classical music ? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat snagcheol? | Do you like jazz ? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat roc-cheol? | Do you like rock music ? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat popcheol? | Do you like popular music ? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | TEMPLATE |  | An maith libh $THINGS_TO_LIKE3? | Do you like $$THINGS_TO_LIKE ? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol? | Do you like THINGS_TO_LIKE ? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol traidisiúnta? | Do you like THINGS_TO_LIKE ? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol clasaiceach? | Do you like THINGS_TO_LIKE ? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh snagcheol? | Do you like THINGS_TO_LIKE ? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh roc-cheol? | Do you like THINGS_TO_LIKE ? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh popcheol? | Do you like THINGS_TO_LIKE ? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Is maith. | Yes. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Ní maith. | No. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Is breá liom é. | I really like it. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Ní maith liom ar chor ar bith é. | I don't like it at all. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Is fuath liom é. | I hate it. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Tá sé ceart go leor. | It's all right. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | QUESTION |  | An maith leat é? | Do you like it? |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | QUESTION |  | An maith leatsa é? | Do you like it? |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | QUESTION |  | An maith leat féin é? | Do you like it yourself? |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Is fearr liom $$THINGS_TO_LIKE3 | I prefer $$THINGS_TO_LIKE3 |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol | I prefer music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol traidisiúnta | I prefer traditional music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol clasaiceach | I prefer classical music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom snagcheol | I prefer jazz |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom roc-cheol | I prefer rock music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom popcheol | I prefer popular music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Is maith liom snagcheoil ach is fearr liom ceol traidisiúnta. | I like jazz but I prefer traditional music. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Is maith liomsa fosta é | I like it too/as well |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Is fearr liomsa fosta é | I prefer it too/as well |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | PHRASE |  | bia agus deoch | food and drink |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD |  | feoil | meat |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD |  | glasraí | vegetables |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD |  | bia mara | seafood |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD |  | sicín | chicken |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD |  | fíon bán | white wine |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD |  | fíon dearg | red wine |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD |  | bialann | restaurant |  |  |  | bia-lann |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Tá sé maith. | It's good. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Tá sé an-mhaith. | It's very good. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Tá sé measartha maith. | It's reasonably good. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Níl sé rómhaith. | It's not too good. |  |  |  | ...roh-why |  |  |
+| NYT | Expressing Opinions |  | SENTENCE |  | Tá sé go dona. | It's very bad. |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | QUESTION |  | An bhfuil ... maith? | Is ... good? |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | QUESTION |  | An bhfuil an fíon seo maith? | Is this wine good? |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | QUESTION |  | An bhfuil sé seo maith? | Is this good? |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | PHRASE |  | an ceann seo | this one |  |  |  |  |  | as in "I prefer this one" |
+| NYT | Expressing Opinions |  | QUESTION |  | An bhfuil maith ar bith sa ...? | Is the ... any good? |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | QUESTION |  | An bhfuil maith ar bith sa bhialann sin? | Is that restaurant any good? |  |  |  | an whil my ar bee sa via-lann sin? |  | said quick |
+| NYT | Expressing Opinions |  | QUESTION |  | An bhfuil an bia maith? | Is the food any good? |  |  |  |  |  |  |
 
 ## NYT - What you want
 
