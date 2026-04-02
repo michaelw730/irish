@@ -500,8 +500,8 @@ NYT	Expressing Opinions		TEMPLATE		Ní maith liom $THINGS_TO_LIKE ar chor ar bit
 NYT	Expressing Opinions		SENTENCE		Ní maith liom ar chor ar bith é.	I don't like it at all.				...ar har a bee ay		
 NYT	Expressing Opinions		SENTENCE		Ní maith liom ar chor ar bith iad.	I don't like them at all.				...ar har a bee ead		
 NYT	Expressing Opinions		TEMPLATE		Is fuath liom $THINGS_TO_LIKE	I hate $THINGS_TO_LIKE						
-NYT	Expressing Opinions		TEMPLATE		An maith leat $THINGS_TO_LIKE?	Do you like $THINGS_TO_LIKE3 ?			s			
-NYT	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE?	Do you like $$THINGS_TO_LIKE ?			p			
+NYT	Expressing Opinions		TEMPLATE		An maith leat $THINGS_TO_LIKE?	Do you like $THINGS_TO_LIKE?			s			
+NYT	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE?	Do you like $$THINGS_TO_LIKE?			p			
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE_TO_DO	ag garraíodóireacht	gardening				ag garaderact		
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE_TO_DO	ag péinteáil	painting				ag paint-al		
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE_TO_DO	ag cócaireacht	cooking				ag cocker-act		
@@ -512,8 +512,8 @@ NYT	Expressing Opinions		TEMPLATE		Is maith liom a bheith $THINGS_TO_LIKE_TO_DO	
 NYT	Expressing Opinions		TEMPLATE		Ní maith liom a bheith $THINGS_TO_LIKE_TO_DO	I like $THINGS_TO_LIKE_TO_DO						
 NYT	Expressing Opinions		TEMPLATE		Is fuath liom a bheith $THINGS_TO_LIKE_TO_DO	I like $THINGS_TO_LIKE_TO_DO						
 NYT	Expressing Opinions		WORD		Cineál	Type						
-NYT	Expressing Opinions		TEMPLATE		An maith leat $THINGS_TO_LIKE3?	Do you like $THINGS_TO_LIKE3?			s			
-NYT	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE3?	Do you like $$THINGS_TO_LIKE3?			p			
+NYT	Expressing Opinions		TEMPLATE		An maith leat $THINGS_TO_LIKE?	Do you like $THINGS_TO_LIKE?			s			
+NYT	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE?	Do you like $$THINGS_TO_LIKE?			p			
 NYT	Expressing Opinions		SENTENCE		Is maith.	Yes.						
 NYT	Expressing Opinions		SENTENCE		Ní maith.	No.						
 NYT	Expressing Opinions		SENTENCE		Is breá liom é/í/iad.	I really like it.						
@@ -523,7 +523,7 @@ NYT	Expressing Opinions		SENTENCE		Tá sé ceart go leor.	It's all right.
 NYT	Expressing Opinions		QUESTION		An maith leat é?	Do you like it?						
 NYT	Expressing Opinions		QUESTION		An maith leatsa é?	Do you like it?						
 NYT	Expressing Opinions		QUESTION		An maith leat féin é?	Do you like it yourself?						
-NYT	Expressing Opinions		SENTENCE		Is fearr liom $$THINGS_TO_LIKE3	I prefer $$THINGS_TO_LIKE3						
+NYT	Expressing Opinions		SENTENCE		Is fearr liom $THINGS_TO_LIKE	I prefer $THINGS_TO_LIKE						
 NYT	Expressing Opinions		SENTENCE		Is maith liom snagcheoil ach is fearr liom ceol traidisiúnta.	I like jazz but I prefer traditional music.						
 NYT	Expressing Opinions		SENTENCE		Is maith liomsa fosta é	I like it too/as well						
 NYT	Expressing Opinions		SENTENCE		Is fearr liomsa fosta é	I prefer it too/as well						
