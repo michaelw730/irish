@@ -121,9 +121,6 @@ NYT	Meeting People	Weather	WORD	WEATHER_DESCRIBE	dorcha	dark				dora-ha
 NYT	Meeting People	Weather	WORD	WEATHER_DESCRIBE2	ag cur fearthainne	raining				ig cur far-heen-ya		
 NYT	Meeting People	Weather	WORD	WEATHER_DESCRIBE2	ag cur sneachta	snowing				ag cur snock-ta		
 NYT	Meeting People	Weather	WORD		iontach	extremely / very				inta?		
-NYT	Meeting People	Weather	WORD		iontach fuar	very cold						
-NYT	Meeting People	Weather	WORD		iontach fliuch	very wet				flu(ch) [(ch) = soft k]		
-NYT	Meeting People	Weather	WORD		iontach te	very hot				ta shay chay		
 NYT	Meeting People	Weather	TEMPLATE		Tá sé $WEATHER_DESCRIBE	it is $WEATHER_DESCRIBE				taa shay $WEATHER_DESCRIBE		
 NYT	Meeting People	Weather	TEMPLATE		Tá sé $WEATHER_DESCRIBE2	it is $WEATHER_DESCRIBE2				taa shay $WEATHER_DESCRIBE2		
 NYT	Meeting People	Weather	PHRASE		Bhí sé...	it was...	repeat for appropriate weather			vee shay		

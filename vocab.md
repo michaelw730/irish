@@ -138,9 +138,6 @@
 | NYT | Meeting People | Weather | WORD | WEATHER_DESCRIBE2 | ag cur fearthainne | raining |  |  |  | ig cur far-heen-ya |  |  |
 | NYT | Meeting People | Weather | WORD | WEATHER_DESCRIBE2 | ag cur sneachta | snowing |  |  |  | ag cur snock-ta |  |  |
 | NYT | Meeting People | Weather | WORD |  | iontach | extremely / very |  |  |  | inta? |  |  |
-| NYT | Meeting People | Weather | WORD |  | iontach fuar | very cold |  |  |  |  |  |  |
-| NYT | Meeting People | Weather | WORD |  | iontach fliuch | very wet |  |  |  | flu(ch) [(ch) = soft k] |  |  |
-| NYT | Meeting People | Weather | WORD |  | iontach te | very hot |  |  |  | ta shay chay |  |  |
 | NYT | Meeting People | Weather | TEMPLATE |  | Tá sé $WEATHER_DESCRIBE | it is $WEATHER_DESCRIBE |  |  |  | taa shay $WEATHER_DESCRIBE |  |  |
 | NYT | Meeting People | Weather | DYNAMIC |  | Tá sé fuar | it is cold |  |  |  | taa shay fooar |  |  |
 | NYT | Meeting People | Weather | DYNAMIC |  | Tá sé fliuch | it is wet |  |  |  | taa shay flu(ch) [(ch) = soft k] |  |  |
@@ -2448,3 +2445,11 @@
 | Giota Beag - Series 2 | 11 |  |  |  | Dúirt siad go raibh sé ar fheabhas | They said that it was excellent |  |  |  |  |  |  |
 | Giota Beag - Series 2 | 11 |  |  |  | Chonaic siad Riverdance | They saw Riverdance |  |  |  |  |  |  |
 | Giota Beag - Series 2 | 11 |  |  |  | Ná bac le mac an bhacaigh is ní bhacfaidh mac an bhacaigh leat! | Don't bother with the son of the beggarman and the son of the beggarman won't bother you! |  |  |  |  |  |  |
+
+## Giota Beag - Series 2 - 12
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag - Series 2 | 12 |  |  |  | Cheannaigh mé bronntanas Nollag | I bought a Christmas present |  |  |  |  |  |  |
+| Giota Beag - Series 2 | 12 |  |  |  | Cad é cheannaigh tú? | What did you buy? |  |  |  |  |  |  |
+| Giota Beag - Series 2 | 12 |  |  |  | Cheannaigh mé geansaí úr | I bought a new jumper |  |  |  |  |  |  |
