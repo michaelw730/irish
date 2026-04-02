@@ -127,7 +127,7 @@ NYT	Meeting People	Weather	PHRASE		Bhí sé...	it was...	repeat for appropriate 
 NYT	Meeting People	Weather	PHRASE		Níl sé...	it is not...	repeat for appropriate weather			taa shay		
 NYT	Meeting People	Weather	TEMPLATE		Tá sé iontach $WEATHER_DESCRIBE	it is very $WEATHER_DESCRIBE				taa shay $WEATHER_DESCRIBE		
 NYT	Meeting People	Weather	PHRASE		Bhí sé iontach …	it was very…				vee shay		
-NYT	Meeting People	Weather	TEMPLATE		Tá sé lá $WEATHER_DESCRIBE	it is a $WEATHER_DESCRIBE day				taa shay laa $WEATHER_DESCRIBE day		
+NYT	Meeting People	Weather	TEMPLATE		Tá sé lá $WEATHER_DESCRIBE	it is a $WEATHER_DESCRIBE day				taa shay laa $WEATHER_DESCRIBE		
 NYT	Meeting People	Weather	PHRASE		Tá	Yes [to agree with the weather]						
 NYT	Meeting People	Weather	SENTENCE		Tá, cinnte.	It is indeed/surely.				teh, kintche		
 NYT	Meeting People	Weather	SENTENCE		Tá lá breá ann.	It's a fine day.				teh leh breah ann		
