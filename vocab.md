@@ -170,19 +170,19 @@
 | NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach geal | it is very bright |  |  |  | taa shay gyal |  |  |
 | NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach dorcha | it is very dark |  |  |  | taa shay dora-ha |  |  |
 | NYT | Meeting People | Weather | PHRASE |  | Bhí sé iontach … | it was very… |  |  |  | vee shay |  |  |
-| NYT | Meeting People | Weather | TEMPLATE |  | Tá sé lá $WEATHER_DESCRIBE | it is a $WEATHER_DESCRIBE day | repeat for appropriate weather |  |  | taa shay laa $WEATHER_DESCRIBE day |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá fuar | it is a cold day | repeat for appropriate weather |  |  | taa shay laa fooar day |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá fliuch | it is a wet day | repeat for appropriate weather |  |  | taa shay laa flu(ch) [(ch) = soft k] day |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá te | it is a hot day | repeat for appropriate weather |  |  | taa shay laa chay day |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá báistí | it is a rainy day | repeat for appropriate weather |  |  | taa shay laa  day |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá gaofar | it is a windy day | repeat for appropriate weather |  |  | taa shay laa gweefor/geefo? day |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá tirim | it is a dry day | repeat for appropriate weather |  |  | taa shay laa Chur-im day |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá taise | it is a damp day | repeat for appropriate weather |  |  | taa shay laa tasha day |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá grianmhar | it is a sunny day | repeat for appropriate weather |  |  | taa shay laa grain-wur day |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá scamillach | it is a cloudy day | repeat for appropriate weather |  |  | taa shay laa scam-ill-ock day |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá ceomhar | it is a foggy day | repeat for appropriate weather |  |  | taa shay laa kyowar?? day |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá geal | it is a bright day | repeat for appropriate weather |  |  | taa shay laa gyal day |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá dorcha | it is a dark day | repeat for appropriate weather |  |  | taa shay laa dora-ha day |  |  |
+| NYT | Meeting People | Weather | TEMPLATE |  | Tá sé lá $WEATHER_DESCRIBE | it is a $WEATHER_DESCRIBE day |  |  |  | taa shay laa $WEATHER_DESCRIBE day |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá fuar | it is a cold day |  |  |  | taa shay laa fooar day |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá fliuch | it is a wet day |  |  |  | taa shay laa flu(ch) [(ch) = soft k] day |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá te | it is a hot day |  |  |  | taa shay laa chay day |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá báistí | it is a rainy day |  |  |  | taa shay laa  day |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá gaofar | it is a windy day |  |  |  | taa shay laa gweefor/geefo? day |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá tirim | it is a dry day |  |  |  | taa shay laa Chur-im day |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá taise | it is a damp day |  |  |  | taa shay laa tasha day |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá grianmhar | it is a sunny day |  |  |  | taa shay laa grain-wur day |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá scamillach | it is a cloudy day |  |  |  | taa shay laa scam-ill-ock day |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá ceomhar | it is a foggy day |  |  |  | taa shay laa kyowar?? day |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá geal | it is a bright day |  |  |  | taa shay laa gyal day |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá dorcha | it is a dark day |  |  |  | taa shay laa dora-ha day |  |  |
 | NYT | Meeting People | Weather | PHRASE |  | Tá | Yes [to agree with the weather] |  |  |  |  |  |  |
 | NYT | Meeting People | Weather | SENTENCE |  | Tá, cinnte. | It is indeed/surely. |  |  |  | teh, kintche |  |  |
 | NYT | Meeting People | Weather | SENTENCE |  | Tá lá breá ann. | It's a fine day. |  |  |  | teh leh breah ann |  |  |
