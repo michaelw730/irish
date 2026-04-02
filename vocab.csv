@@ -612,10 +612,8 @@ NYT	What you want		SENTENCE		B'fhearr ...	I'd prefer ...				bear...
 NYT	What you want		SENTENCE		B'fhearr liom gloine uisce.	I'd prefer a glass of water.				Bear liom glinye ish-ke		
 NYT	What you want		SENTENCE		Sláinte!	Cheers!			Health!			
 NYT	What you want		SENTENCE		Sláinte mhór	Cheers (response??)						
-NYT	What you want		SENTENCE		... duitse.	... for you.						
-NYT	What you want		SENTENCE		Pionta beorach duitse.	A pint of beer for you.						
-NYT	What you want		SENTENCE		Seo do ...	Here's your ...						
-NYT	What you want		SENTENCE		Seo do phionta	Here's your pint.						
+NYT	What you want		SENTENCE		$WHAT_YOU_WANT duitse.	... for you.						
+NYT	What you want		SENTENCE		Seo do $WHAT_YOU_WANT	Here's your ...						
 NYT	What you want		SENTENCE		Sláinte mhaith agat i bhfad ó bhrón.	Good health, free from sorrow.						
 NYT	What you want		SENTENCE		Sláinte do bheo agus tróicaire do mharbh.	Health to the living and mercy on the dead.						
 NYT	What you want		SENTENCE		Go mba fada a mhairfidh tú.	Long life to you						

@@ -1045,10 +1045,60 @@
 | NYT | What you want |  | SENTENCE |  | B'fhearr liom gloine uisce. | I'd prefer a glass of water. |  |  |  | Bear liom glinye ish-ke |  |  |
 | NYT | What you want |  | SENTENCE |  | Sláinte! | Cheers! |  |  | Health! |  |  |  |
 | NYT | What you want |  | SENTENCE |  | Sláinte mhór | Cheers (response??) |  |  |  |  |  |  |
-| NYT | What you want |  | SENTENCE |  | ... duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | SENTENCE |  | Pionta beorach duitse. | A pint of beer for you. |  |  |  |  |  |  |
-| NYT | What you want |  | SENTENCE |  | Seo do ... | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | SENTENCE |  | Seo do phionta | Here's your pint. |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | $WHAT_YOU_WANT duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | caife duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | caife dubh duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | caife bán duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | tae duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | tae láidir duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | tae lag duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | sú oráiste duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | uisce duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | beoir duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | fíon bán duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | fíon dearg duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | uisce beatha duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | sceallógaí duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | briosca duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | bágún duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | pota tae duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | gloine uisce duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | pionta beorach duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | cupa tae duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | tae le bainne duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | leac oighir duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | uachtar reoite duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | ceapaire duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | milseáin duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | úll duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | cuidiú duitse. | ... for you. |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Seo do $WHAT_YOU_WANT | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do caife | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do caife dubh | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do caife bán | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do tae | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do tae láidir | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do tae lag | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do sú oráiste | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do uisce | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do beoir | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do fíon bán | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do fíon dearg | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do uisce beatha | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do sceallógaí | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do briosca | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do bágún | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do pota tae | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do gloine uisce | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do pionta beorach | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do cupa tae | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do tae le bainne | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do leac oighir | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do uachtar reoite | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do ceapaire | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do milseáin | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do úll | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do cuidiú | Here's your ... |  |  |  |  |  |  |
 | NYT | What you want |  | SENTENCE |  | Sláinte mhaith agat i bhfad ó bhrón. | Good health, free from sorrow. |  |  |  |  |  |  |
 | NYT | What you want |  | SENTENCE |  | Sláinte do bheo agus tróicaire do mharbh. | Health to the living and mercy on the dead. |  |  |  |  |  |  |
 | NYT | What you want |  | SENTENCE |  | Go mba fada a mhairfidh tú. | Long life to you |  |  |  |  |  |  |
@@ -2715,3 +2765,5 @@
 | NYT | 14 |  |  |  | Ceithre phunt | Four pounds |  |  |  |  |  |  |
 | NYT | 14 |  |  |  | Cúig phunt | Five pounds |  |  |  |  |  |  |
 | NYT | 14 |  |  |  | Sé phunt | Six pounds |  |  |  |  |  |  |
+| NYT | 14 |  |  |  | Seacht bpunt | Seven pounds |  |  |  |  |  |  |
+| NYT | 14 |  |  |  | Ocht bpunt | Eight pounds |  |  |  |  |  |  |
