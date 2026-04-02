@@ -88,14 +88,14 @@
 | NYT | Meeting People |  | PHRASE |  | Tá sibh | You are  |  | p |  |  |  |  |
 | NYT | Meeting People |  | PHRASE |  | Tá siad | They are |  |  |  |  |  |  |
 | NYT | Meeting People |  | TEMPLATE |  | Tá mé $HOW_I_AM. | I am $HOW_I_AM | Repeat for other pronouns/person’s name |  |  |  |  |  |
-| NYT | Meeting People | DYNAMIC  |  | DYNAMIC  |  | Tá mé go maith. | I am well | Repeat for other pronouns/person’s name |  |  |  |  |  |
-| NYT | Meeting People | DYNAMIC  |  | DYNAMIC  |  | Tá mé go breá. | I am fine | Repeat for other pronouns/person’s name |  |  |  |  |  |
-| NYT | Meeting People | DYNAMIC  |  | DYNAMIC  |  | Tá mé maith go leor. | I am very good | Repeat for other pronouns/person’s name |  |  |  |  |  |
-| NYT | Meeting People | DYNAMIC  |  | DYNAMIC  |  | Tá mé ceart go leor. | I am alright | Repeat for other pronouns/person’s name |  |  |  |  |  |
-| NYT | Meeting People | DYNAMIC  |  | DYNAMIC  |  | Tá mé go holc. | I am awful | Repeat for other pronouns/person’s name |  |  |  |  |  |
-| NYT | Meeting People | DYNAMIC  |  | DYNAMIC  |  | Tá mé go measaratha. | I am reasonable/middling | Repeat for other pronouns/person’s name |  |  |  |  |  |
-| NYT | Meeting People | DYNAMIC  |  | DYNAMIC  |  | Tá mé go measaratha maith. | I am reasonable/middling good | Repeat for other pronouns/person’s name |  |  |  |  |  |
-| NYT | Meeting People | DYNAMIC  |  | DYNAMIC  |  | Tá mé i gceart. | I am rightly | Repeat for other pronouns/person’s name |  |  |  |  |  |
+| NYT | Meeting People | DYNAMIC  |  |  | Tá mé go maith. | I am well | Repeat for other pronouns/person’s name |  |  |  |  |  |
+| NYT | Meeting People | DYNAMIC  |  |  | Tá mé go breá. | I am fine | Repeat for other pronouns/person’s name |  |  |  |  |  |
+| NYT | Meeting People | DYNAMIC  |  |  | Tá mé maith go leor. | I am very good | Repeat for other pronouns/person’s name |  |  |  |  |  |
+| NYT | Meeting People | DYNAMIC  |  |  | Tá mé ceart go leor. | I am alright | Repeat for other pronouns/person’s name |  |  |  |  |  |
+| NYT | Meeting People | DYNAMIC  |  |  | Tá mé go holc. | I am awful | Repeat for other pronouns/person’s name |  |  |  |  |  |
+| NYT | Meeting People | DYNAMIC  |  |  | Tá mé go measaratha. | I am reasonable/middling | Repeat for other pronouns/person’s name |  |  |  |  |  |
+| NYT | Meeting People | DYNAMIC  |  |  | Tá mé go measaratha maith. | I am reasonable/middling good | Repeat for other pronouns/person’s name |  |  |  |  |  |
+| NYT | Meeting People | DYNAMIC  |  |  | Tá mé i gceart. | I am rightly | Repeat for other pronouns/person’s name |  |  |  |  |  |
 | NYT | Meeting People |  | SENTENCE |  | Níl mé go maith. | I am not good | Repeat for other pronouns/person’s name |  |  |  |  |  |
 | NYT | Meeting People |  | SENTENCE |  | Níl caill orm | I am not too bad (or There's no loss upon me) |  |  |  |  |  |  |
 | NYT | Meeting People |  | QUESTION |  | Agus tú féin? | And yourself? |  |  |  | Agus tu hain? |  |  |
@@ -142,55 +142,55 @@
 | NYT | Meeting People | Weather | WORD |  | iontach fliuch | very wet |  |  |  | flu(ch) [(ch) = soft k] |  |  |
 | NYT | Meeting People | Weather | WORD |  | iontach te | very hot |  |  |  | ta shay chay |  |  |
 | NYT | Meeting People | Weather | TEMPLATE |  | Tá sé $WEATHER_DESCRIBE | it is $WEATHER_DESCRIBE |  |  |  | taa shay $WEATHER_DESCRIBE |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé fuar | it is cold |  |  |  | taa shay fooar |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé fliuch | it is wet |  |  |  | taa shay flu(ch) [(ch) = soft k] |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé te | it is hot |  |  |  | taa shay chay |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé báistí | it is rainy |  |  |  | taa shay  |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé gaofar | it is windy |  |  |  | taa shay gweefor/geefo? |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé tirim | it is dry |  |  |  | taa shay Chur-im |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé taise | it is damp |  |  |  | taa shay tasha |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé grianmhar | it is sunny |  |  |  | taa shay grain-wur |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé scamillach | it is cloudy |  |  |  | taa shay scam-ill-ock |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé ceomhar | it is foggy |  |  |  | taa shay kyowar?? |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé geal | it is bright |  |  |  | taa shay gyal |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé dorcha | it is dark |  |  |  | taa shay dora-ha |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé fuar | it is cold |  |  |  | taa shay fooar |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé fliuch | it is wet |  |  |  | taa shay flu(ch) [(ch) = soft k] |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé te | it is hot |  |  |  | taa shay chay |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé báistí | it is rainy |  |  |  | taa shay  |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé gaofar | it is windy |  |  |  | taa shay gweefor/geefo? |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé tirim | it is dry |  |  |  | taa shay Chur-im |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé taise | it is damp |  |  |  | taa shay tasha |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé grianmhar | it is sunny |  |  |  | taa shay grain-wur |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé scamillach | it is cloudy |  |  |  | taa shay scam-ill-ock |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé ceomhar | it is foggy |  |  |  | taa shay kyowar?? |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé geal | it is bright |  |  |  | taa shay gyal |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé dorcha | it is dark |  |  |  | taa shay dora-ha |  |  |
 | NYT | Meeting People | Weather | TEMPLATE |  | Tá sé $WEATHER_DESCRIBE2 | it is $WEATHER_DESCRIBE2 |  |  |  | taa shay $WEATHER_DESCRIBE2 |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé ag cur fearthainne | it is raining |  |  |  | taa shay ig cur far-heen-ya |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé ag cur sneachta | it is snowing |  |  |  | taa shay ag cur snock-ta |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé ag cur fearthainne | it is raining |  |  |  | taa shay ig cur far-heen-ya |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé ag cur sneachta | it is snowing |  |  |  | taa shay ag cur snock-ta |  |  |
 | NYT | Meeting People | Weather | PHRASE |  | Bhí sé... | it was... | repeat for appropriate weather |  |  | vee shay |  |  |
 | NYT | Meeting People | Weather | PHRASE |  | Níl sé... | it is not... | repeat for appropriate weather |  |  | taa shay |  |  |
 | NYT | Meeting People | Weather | TEMPLATE |  | Tá sé iontach $WEATHER_DESCRIBE | it is very $WEATHER_DESCRIBE |  |  |  | taa shay $WEATHER_DESCRIBE |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé iontach fuar | it is very cold |  |  |  | taa shay fooar |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé iontach fliuch | it is very wet |  |  |  | taa shay flu(ch) [(ch) = soft k] |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé iontach te | it is very hot |  |  |  | taa shay chay |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé iontach báistí | it is very rainy |  |  |  | taa shay  |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé iontach gaofar | it is very windy |  |  |  | taa shay gweefor/geefo? |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé iontach tirim | it is very dry |  |  |  | taa shay Chur-im |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé iontach taise | it is very damp |  |  |  | taa shay tasha |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé iontach grianmhar | it is very sunny |  |  |  | taa shay grain-wur |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé iontach scamillach | it is very cloudy |  |  |  | taa shay scam-ill-ock |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé iontach ceomhar | it is very foggy |  |  |  | taa shay kyowar?? |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé iontach geal | it is very bright |  |  |  | taa shay gyal |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé iontach dorcha | it is very dark |  |  |  | taa shay dora-ha |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé iontach fuar | it is very cold |  |  |  | taa shay fooar |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé iontach fliuch | it is very wet |  |  |  | taa shay flu(ch) [(ch) = soft k] |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé iontach te | it is very hot |  |  |  | taa shay chay |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé iontach báistí | it is very rainy |  |  |  | taa shay  |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé iontach gaofar | it is very windy |  |  |  | taa shay gweefor/geefo? |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé iontach tirim | it is very dry |  |  |  | taa shay Chur-im |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé iontach taise | it is very damp |  |  |  | taa shay tasha |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé iontach grianmhar | it is very sunny |  |  |  | taa shay grain-wur |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé iontach scamillach | it is very cloudy |  |  |  | taa shay scam-ill-ock |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé iontach ceomhar | it is very foggy |  |  |  | taa shay kyowar?? |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé iontach geal | it is very bright |  |  |  | taa shay gyal |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé iontach dorcha | it is very dark |  |  |  | taa shay dora-ha |  |  |
 | NYT | Meeting People | Weather | PHRASE |  | Bhí sé iontach … | it was very… |  |  |  | vee shay |  |  |
 | NYT | Meeting People | Weather | TEMPLATE |  | Tá sé lá $WEATHER_DESCRIBE | it is a $WEATHER_DESCRIBE day | repeat for appropriate weather |  |  | taa shay laa $WEATHER_DESCRIBE day |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé lá fuar | it is a cold day | repeat for appropriate weather |  |  | taa shay laa fooar day |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé lá fliuch | it is a wet day | repeat for appropriate weather |  |  | taa shay laa flu(ch) [(ch) = soft k] day |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé lá te | it is a hot day | repeat for appropriate weather |  |  | taa shay laa chay day |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé lá báistí | it is a rainy day | repeat for appropriate weather |  |  | taa shay laa  day |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé lá gaofar | it is a windy day | repeat for appropriate weather |  |  | taa shay laa gweefor/geefo? day |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé lá tirim | it is a dry day | repeat for appropriate weather |  |  | taa shay laa Chur-im day |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé lá taise | it is a damp day | repeat for appropriate weather |  |  | taa shay laa tasha day |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé lá grianmhar | it is a sunny day | repeat for appropriate weather |  |  | taa shay laa grain-wur day |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé lá scamillach | it is a cloudy day | repeat for appropriate weather |  |  | taa shay laa scam-ill-ock day |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé lá ceomhar | it is a foggy day | repeat for appropriate weather |  |  | taa shay laa kyowar?? day |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé lá geal | it is a bright day | repeat for appropriate weather |  |  | taa shay laa gyal day |  |  |
-| NYT | Meeting People | DYNAMIC  | Weather | DYNAMIC  |  | Tá sé lá dorcha | it is a dark day | repeat for appropriate weather |  |  | taa shay laa dora-ha day |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé lá fuar | it is a cold day | repeat for appropriate weather |  |  | taa shay laa fooar day |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé lá fliuch | it is a wet day | repeat for appropriate weather |  |  | taa shay laa flu(ch) [(ch) = soft k] day |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé lá te | it is a hot day | repeat for appropriate weather |  |  | taa shay laa chay day |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé lá báistí | it is a rainy day | repeat for appropriate weather |  |  | taa shay laa  day |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé lá gaofar | it is a windy day | repeat for appropriate weather |  |  | taa shay laa gweefor/geefo? day |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé lá tirim | it is a dry day | repeat for appropriate weather |  |  | taa shay laa Chur-im day |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé lá taise | it is a damp day | repeat for appropriate weather |  |  | taa shay laa tasha day |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé lá grianmhar | it is a sunny day | repeat for appropriate weather |  |  | taa shay laa grain-wur day |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé lá scamillach | it is a cloudy day | repeat for appropriate weather |  |  | taa shay laa scam-ill-ock day |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé lá ceomhar | it is a foggy day | repeat for appropriate weather |  |  | taa shay laa kyowar?? day |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé lá geal | it is a bright day | repeat for appropriate weather |  |  | taa shay laa gyal day |  |  |
+| NYT | Meeting People | DYNAMIC  | Weather |  | Tá sé lá dorcha | it is a dark day | repeat for appropriate weather |  |  | taa shay laa dora-ha day |  |  |
 | NYT | Meeting People | Weather | PHRASE |  | Tá | Yes [to agree with the weather] |  |  |  |  |  |  |
 | NYT | Meeting People | Weather | SENTENCE |  | Tá, cinnte. | It is indeed/surely. |  |  |  | teh, kintche |  |  |
 | NYT | Meeting People | Weather | SENTENCE |  | Tá lá breá ann. | It's a fine day. |  |  |  | teh leh breah ann |  |  |
 | NYT | Meeting People | Weather | SENTENCE |  | Tá lá breá ann inniu. | It's a fine day today. |  |  |  | teh leh breah ann inn-u |  |  |
-| NYT | Meeting People | Weather | PHRASE |  | ...Buíochas le Dia | ...thank God |  |  |  | bwayhas le djia |  | is used quite frequently in this context. |
+| NYT | Meeting People | Weather | PHRASE |  | Buíochas le Dia | Thank God | Said after “it’s a good day” for example |  |  | bwayhas le djia |  | is used quite frequently in this context. |
 | NYT | Meeting People | Weather | SENTENCE |  | Tá drochlá ann. | It's a bad day. |  |  |  | teh drock-leh ann |  |  |
 | NYT | Meeting People | Weather | SENTENCE |  | Tá drochlá ann inniu. | It's a bad day today. |  |  |  | teh drock-leh ann inn-u |  |  |
 
@@ -599,48 +599,48 @@
 | NYT | Languages |  | WORD | LANGUAGE2 | Gearmáinise | German |  |  |  |  |  |  |
 | NYT | Languages |  | WORD | LANGUAGE2 | Iodáilise | Italian |  |  |  |  |  |  |
 | NYT | Languages |  | TEMPLATE |  | An bhfuil $LANGUAGE agat? | Can you speak $LANGUAGE? |  |  | Have you $LANGUAGE? Is $LANGUAGE at you? |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | An bhfuil Gaeilge agat? | Can you speak Irish? |  |  | Have you Irish? Is Irish at you? |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | An bhfuil Fraincis agat? | Can you speak French? |  |  | Have you French? Is French at you? |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | An bhfuil Béarla agat? | Can you speak English? |  |  | Have you English? Is English at you? |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | An bhfuil Gearmáinis agat? | Can you speak German? |  |  | Have you German? Is German at you? |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | An bhfuil Iodáilis agat? | Can you speak Italian? |  |  | Have you Italian? Is Italian at you? |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | An bhfuil Spáinnis agat? | Can you speak Spanish? |  |  | Have you Spanish? Is Spanish at you? |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | An bhfuil Breatnais agat? | Can you speak Welsh? |  |  | Have you Welsh? Is Welsh at you? |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | An bhfuil Gaeilge na hAlban agat? | Can you speak Gaelic (Scotland)? |  |  | Have you Gaelic (Scotland)? Is Gaelic (Scotland) at you? |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | An bhfuil Gaeilge agat? | Can you speak Irish? |  |  | Have you Irish? Is Irish at you? |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | An bhfuil Fraincis agat? | Can you speak French? |  |  | Have you French? Is French at you? |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | An bhfuil Béarla agat? | Can you speak English? |  |  | Have you English? Is English at you? |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | An bhfuil Gearmáinis agat? | Can you speak German? |  |  | Have you German? Is German at you? |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | An bhfuil Iodáilis agat? | Can you speak Italian? |  |  | Have you Italian? Is Italian at you? |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | An bhfuil Spáinnis agat? | Can you speak Spanish? |  |  | Have you Spanish? Is Spanish at you? |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | An bhfuil Breatnais agat? | Can you speak Welsh? |  |  | Have you Welsh? Is Welsh at you? |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | An bhfuil Gaeilge na hAlban agat? | Can you speak Gaelic (Scotland)? |  |  | Have you Gaelic (Scotland)? Is Gaelic (Scotland) at you? |  |  |  |
 | NYT | Languages |  | TEMPLATE |  | Tá $LANGUAGE líofa agam. | I speak $LANGUAGE fluently. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá Gaeilge líofa agam. | I speak Irish fluently. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá Fraincis líofa agam. | I speak French fluently. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá Béarla líofa agam. | I speak English fluently. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá Gearmáinis líofa agam. | I speak German fluently. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá Iodáilis líofa agam. | I speak Italian fluently. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá Spáinnis líofa agam. | I speak Spanish fluently. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá Breatnais líofa agam. | I speak Welsh fluently. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá Gaeilge na hAlban líofa agam. | I speak Gaelic (Scotland) fluently. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá Gaeilge líofa agam. | I speak Irish fluently. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá Fraincis líofa agam. | I speak French fluently. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá Béarla líofa agam. | I speak English fluently. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá Gearmáinis líofa agam. | I speak German fluently. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá Iodáilis líofa agam. | I speak Italian fluently. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá Spáinnis líofa agam. | I speak Spanish fluently. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá Breatnais líofa agam. | I speak Welsh fluently. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá Gaeilge na hAlban líofa agam. | I speak Gaelic (Scotland) fluently. |  |  |  |  |  |  |
 | NYT | Languages |  | SENTENCE |  | Tá beagán $LANGUAGE2 agam. | I speak a little $LANGUAGE2. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá beagán Gaeilge agam. | I speak a little Irish. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá beagán Fraincise agam. | I speak a little French. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá beagán Gearmáinise agam. | I speak a little German. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá beagán Iodáilise agam. | I speak a little Italian. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá beagán Gaeilge agam. | I speak a little Irish. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá beagán Fraincise agam. | I speak a little French. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá beagán Gearmáinise agam. | I speak a little German. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá beagán Iodáilise agam. | I speak a little Italian. |  |  |  |  |  |  |
 | NYT | Languages |  | SENTENCE |  | Tá mé ag foghlaim. | I'm learning. |  |  |  |  |  |  |
 | NYT | Languages |  | SENTENCE |  | Tá mé ag foghlaim $LANGUAGE2. | I'm learning $LANGUAGE2. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge. | I'm learning Irish. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá mé ag foghlaim Fraincise. | I'm learning French. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá mé ag foghlaim Gearmáinise. | I'm learning German. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá mé ag foghlaim Iodáilise. | I'm learning Italian. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá mé ag foghlaim Gaeilge. | I'm learning Irish. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá mé ag foghlaim Fraincise. | I'm learning French. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá mé ag foghlaim Gearmáinise. | I'm learning German. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá mé ag foghlaim Iodáilise. | I'm learning Italian. |  |  |  |  |  |  |
 | NYT | Languages |  | SENTENCE |  | Níl mórán $LANGUAGE2 agam. | I can't speak much $LANGUAGE2. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Níl mórán Gaeilge agam. | I can't speak much Irish. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Níl mórán Fraincise agam. | I can't speak much French. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Níl mórán Gearmáinise agam. | I can't speak much German. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Níl mórán Iodáilise agam. | I can't speak much Italian. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Níl mórán Gaeilge agam. | I can't speak much Irish. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Níl mórán Fraincise agam. | I can't speak much French. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Níl mórán Gearmáinise agam. | I can't speak much German. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Níl mórán Iodáilise agam. | I can't speak much Italian. |  |  |  |  |  |  |
 | NYT | Languages |  | TEMPLATE |  | Níl aon $LANGUAGE agam. | I don't speak $LANGUAGE. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Níl aon Gaeilge agam. | I don't speak Irish. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Níl aon Fraincis agam. | I don't speak French. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Níl aon Béarla agam. | I don't speak English. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Níl aon Gearmáinis agam. | I don't speak German. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Níl aon Iodáilis agam. | I don't speak Italian. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Níl aon Spáinnis agam. | I don't speak Spanish. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Níl aon Breatnais agam. | I don't speak Welsh. |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Níl aon Gaeilge na hAlban agam. | I don't speak Gaelic (Scotland). |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Níl aon Gaeilge agam. | I don't speak Irish. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Níl aon Fraincis agam. | I don't speak French. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Níl aon Béarla agam. | I don't speak English. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Níl aon Gearmáinis agam. | I don't speak German. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Níl aon Iodáilis agam. | I don't speak Italian. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Níl aon Spáinnis agam. | I don't speak Spanish. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Níl aon Breatnais agam. | I don't speak Welsh. |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Níl aon Gaeilge na hAlban agam. | I don't speak Gaelic (Scotland). |  |  |  |  |  |  |
 | NYT | Languages |  | SENTENCE |  | Tá. | Yes. |  |  |  |  |  |  |
 | NYT | Languages |  | SENTENCE |  | Níl. | No. |  |  |  |  |  |  |
 | NYT | Languages |  | SENTENCE |  | Beagán. | A little. |  |  |  |  |  |  |
@@ -652,10 +652,10 @@
 | NYT | Languages |  | SENTENCE |  | Níl aon Fhraincis nó Spáinnis agam. | I speak neither French nor Spanish. | repeat for other languages |  |  |  |  |  |
 | NYT | Languages |  | QUESTION |  | Cá háit? | Where? |  |  |  | Ca hatch? |  | If you tell someone that you are learning a language, you might be asked where: |
 | NYT | Languages |  | QUESTION |  | Cá bhfuil tú ag foghlaim $LANGUAGE2? | Where are you learning $LANGUAGE2? |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Gaeilge? | Where are you learning Irish? |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Fraincise? | Where are you learning French? |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Gearmáinise? | Where are you learning German? |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Cá bhfuil tú ag foghlaim Iodáilise? | Where are you learning Italian? |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Cá bhfuil tú ag foghlaim Gaeilge? | Where are you learning Irish? |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Cá bhfuil tú ag foghlaim Fraincise? | Where are you learning French? |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Cá bhfuil tú ag foghlaim Gearmáinise? | Where are you learning German? |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Cá bhfuil tú ag foghlaim Iodáilise? | Where are you learning Italian? |  |  |  |  |  |  |
 | NYT | Languages |  | PHRASE | LANG_LEARN_SOURCE | ón teilifís | from the television |  |  |  |  |  |  |
 | NYT | Languages |  | PHRASE | LANG_LEARN_SOURCE | ón raidió | from the radio |  |  |  |  |  |  |
 | NYT | Languages |  | PHRASE | LANG_LEARN_SOURCE | ag rang oíche | at a night class |  |  |  |  |  |  |
@@ -664,42 +664,42 @@
 | NYT | Languages |  | PHRASE | LANG_LEARN_SOURCE | ó físeán | from video |  |  |  |  |  |  |
 | NYT | Languages |  | PHRASE | LANG_LEARN_SOURCE | ó físeáin | from videos |  |  |  |  |  |  |
 | NYT | Languages |  | TEMPLATE |  | Tá mé ag foghlaim Gaeilge $LANG_LEARN_SOURCE. | I am learning Irish $LANG_LEARN_SOURCE. | repeat for other languages |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ón teilifís. | I am learning Irish from the television. | repeat for other languages |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ón raidió. | I am learning Irish from the radio. | repeat for other languages |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ag rang oíche. | I am learning Irish at a night class. | repeat for other languages |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge san ollscoil. | I am learning Irish at the university. | repeat for other languages |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ó fhístéipeanna sa bhaile. | I am learning Irish from videotapes at home. | repeat for other languages |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ó físeán. | I am learning Irish from video. | repeat for other languages |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tá mé ag foghlaim Gaeilge ó físeáin. | I am learning Irish from videos. | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá mé ag foghlaim Gaeilge ón teilifís. | I am learning Irish from the television. | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá mé ag foghlaim Gaeilge ón raidió. | I am learning Irish from the radio. | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá mé ag foghlaim Gaeilge ag rang oíche. | I am learning Irish at a night class. | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá mé ag foghlaim Gaeilge san ollscoil. | I am learning Irish at the university. | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá mé ag foghlaim Gaeilge ó fhístéipeanna sa bhaile. | I am learning Irish from videotapes at home. | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá mé ag foghlaim Gaeilge ó físeán. | I am learning Irish from video. | repeat for other languages |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tá mé ag foghlaim Gaeilge ó físeáin. | I am learning Irish from videos. | repeat for other languages |  |  |  |  |  |
 | NYT | Languages |  | TEMPLATE |  | An dtuigeann tú $LANGUAGE? | Do you understand $LANGUAGE? |  |  |  | an diggin to $LANGUAGE? |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | An dtuigeann tú Gaeilge? | Do you understand Irish? |  |  |  | an diggin to ? |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | An dtuigeann tú Fraincis? | Do you understand French? |  |  |  | an diggin to ? |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | An dtuigeann tú Béarla? | Do you understand English? |  |  |  | an diggin to ? |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | An dtuigeann tú Gearmáinis? | Do you understand German? |  |  |  | an diggin to ? |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | An dtuigeann tú Iodáilis? | Do you understand Italian? |  |  |  | an diggin to ? |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | An dtuigeann tú Spáinnis? | Do you understand Spanish? |  |  |  | an diggin to ? |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | An dtuigeann tú Breatnais? | Do you understand Welsh? |  |  |  | an diggin to ? |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | An dtuigeann tú Gaeilge na hAlban? | Do you understand Gaelic (Scotland)? |  |  |  | an diggin to ? |  |  |
+| NYT | Languages | DYNAMIC  |  |  | An dtuigeann tú Gaeilge? | Do you understand Irish? |  |  |  | an diggin to ? |  |  |
+| NYT | Languages | DYNAMIC  |  |  | An dtuigeann tú Fraincis? | Do you understand French? |  |  |  | an diggin to ? |  |  |
+| NYT | Languages | DYNAMIC  |  |  | An dtuigeann tú Béarla? | Do you understand English? |  |  |  | an diggin to ? |  |  |
+| NYT | Languages | DYNAMIC  |  |  | An dtuigeann tú Gearmáinis? | Do you understand German? |  |  |  | an diggin to ? |  |  |
+| NYT | Languages | DYNAMIC  |  |  | An dtuigeann tú Iodáilis? | Do you understand Italian? |  |  |  | an diggin to ? |  |  |
+| NYT | Languages | DYNAMIC  |  |  | An dtuigeann tú Spáinnis? | Do you understand Spanish? |  |  |  | an diggin to ? |  |  |
+| NYT | Languages | DYNAMIC  |  |  | An dtuigeann tú Breatnais? | Do you understand Welsh? |  |  |  | an diggin to ? |  |  |
+| NYT | Languages | DYNAMIC  |  |  | An dtuigeann tú Gaeilge na hAlban? | Do you understand Gaelic (Scotland)? |  |  |  | an diggin to ? |  |  |
 | NYT | Languages |  | SENTENCE |  | Tuigim. | Yes (I do understand). |  |  |  |  |  |  |
 | NYT | Languages |  | SENTENCE |  | Ní thuigim. | No (I don't understand). |  |  |  |  |  |  |
 | NYT | Languages |  | TEMPLATE |  | Tuigim $LANGUAGE | I do understand $LANGUAGE |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tuigim Gaeilge | I do understand Irish |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tuigim Fraincis | I do understand French |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tuigim Béarla | I do understand English |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tuigim Gearmáinis | I do understand German |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tuigim Iodáilis | I do understand Italian |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tuigim Spáinnis | I do understand Spanish |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tuigim Breatnais | I do understand Welsh |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Tuigim Gaeilge na hAlban | I do understand Gaelic (Scotland) |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tuigim Gaeilge | I do understand Irish |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tuigim Fraincis | I do understand French |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tuigim Béarla | I do understand English |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tuigim Gearmáinis | I do understand German |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tuigim Iodáilis | I do understand Italian |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tuigim Spáinnis | I do understand Spanish |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tuigim Breatnais | I do understand Welsh |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Tuigim Gaeilge na hAlban | I do understand Gaelic (Scotland) |  |  |  |  |  |  |
 | NYT | Languages |  | TEMPLATE |  | Ní thuigim $LANGUAGE | I don't understand $LANGUAGE |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Ní thuigim Gaeilge | I don't understand Irish |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Ní thuigim Fraincis | I don't understand French |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Ní thuigim Béarla | I don't understand English |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Ní thuigim Gearmáinis | I don't understand German |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Ní thuigim Iodáilis | I don't understand Italian |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Ní thuigim Spáinnis | I don't understand Spanish |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Ní thuigim Breatnais | I don't understand Welsh |  |  |  |  |  |  |
-| NYT | Languages | DYNAMIC  |  | DYNAMIC  |  | Ní thuigim Gaeilge na hAlban | I don't understand Gaelic (Scotland) |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Ní thuigim Gaeilge | I don't understand Irish |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Ní thuigim Fraincis | I don't understand French |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Ní thuigim Béarla | I don't understand English |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Ní thuigim Gearmáinis | I don't understand German |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Ní thuigim Iodáilis | I don't understand Italian |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Ní thuigim Spáinnis | I don't understand Spanish |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Ní thuigim Breatnais | I don't understand Welsh |  |  |  |  |  |  |
+| NYT | Languages | DYNAMIC  |  |  | Ní thuigim Gaeilge na hAlban | I don't understand Gaelic (Scotland) |  |  |  |  |  |  |
 
 ## NYT - Expressing Opinions
 
