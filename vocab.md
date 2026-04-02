@@ -1045,60 +1045,60 @@
 | NYT | What you want |  | SENTENCE |  | B'fhearr liom gloine uisce. | I'd prefer a glass of water. |  |  |  | Bear liom glinye ish-ke |  |  |
 | NYT | What you want |  | SENTENCE |  | Sláinte! | Cheers! |  |  | Health! |  |  |  |
 | NYT | What you want |  | SENTENCE |  | Sláinte mhór | Cheers (response??) |  |  |  |  |  |  |
-| NYT | What you want |  | SENTENCE |  | $WHAT_YOU_WANT duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | caife duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | caife dubh duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | caife bán duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | tae duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | tae láidir duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | tae lag duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | sú oráiste duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | uisce duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | beoir duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | fíon bán duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | fíon dearg duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | uisce beatha duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | sceallógaí duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | briosca duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | bágún duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | pota tae duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | gloine uisce duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | pionta beorach duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | cupa tae duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | tae le bainne duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | leac oighir duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | uachtar reoite duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | ceapaire duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | milseáin duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | úll duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | cuidiú duitse. | ... for you. |  |  |  |  |  |  |
-| NYT | What you want |  | SENTENCE |  | Seo do $WHAT_YOU_WANT | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do caife | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do caife dubh | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do caife bán | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do tae | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do tae láidir | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do tae lag | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do sú oráiste | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do uisce | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do beoir | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do fíon bán | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do fíon dearg | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do uisce beatha | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do sceallógaí | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do briosca | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do bágún | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do pota tae | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do gloine uisce | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do pionta beorach | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do cupa tae | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do tae le bainne | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do leac oighir | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do uachtar reoite | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do ceapaire | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do milseáin | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do úll | Here's your ... |  |  |  |  |  |  |
-| NYT | What you want |  | DYNAMIC |  | Seo do cuidiú | Here's your ... |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | $WHAT_YOU_WANT duitse. | $WHAT_YOU_WANT for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | caife duitse. | coffee for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | caife dubh duitse. | black coffee for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | caife bán duitse. | white coffee for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | tae duitse. | tea for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | tae láidir duitse. | strong tea for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | tae lag duitse. | weak tea for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | sú oráiste duitse. | orange juice for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | uisce duitse. | water for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | beoir duitse. | beer for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | fíon bán duitse. | white wine for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | fíon dearg duitse. | red wine for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | uisce beatha duitse. | whiskey for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | sceallógaí duitse. | chips for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | briosca duitse. | a biscuit for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | bágún duitse. | bacon for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | pota tae duitse. | a pot of tea for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | gloine uisce duitse. | a glass of water for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | pionta beorach duitse. | a pint of beer for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | cupa tae duitse. | cup of tea for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | tae le bainne duitse. | tea with milk for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | leac oighir duitse. | ice for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | uachtar reoite duitse. | ice cream for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | ceapaire duitse. | sandwich for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | milseáin duitse. | sweets for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | úll duitse. | apple for you. |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | cuidiú duitse. | help for you. |  |  |  |  |  |  |
+| NYT | What you want |  | SENTENCE |  | Seo do $WHAT_YOU_WANT | Here's your $WHAT_YOU_WANT |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do caife | Here's your coffee |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do caife dubh | Here's your black coffee |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do caife bán | Here's your white coffee |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do tae | Here's your tea |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do tae láidir | Here's your strong tea |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do tae lag | Here's your weak tea |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do sú oráiste | Here's your orange juice |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do uisce | Here's your water |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do beoir | Here's your beer |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do fíon bán | Here's your white wine |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do fíon dearg | Here's your red wine |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do uisce beatha | Here's your whiskey |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do sceallógaí | Here's your chips |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do briosca | Here's your a biscuit |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do bágún | Here's your bacon |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do pota tae | Here's your a pot of tea |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do gloine uisce | Here's your a glass of water |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do pionta beorach | Here's your a pint of beer |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do cupa tae | Here's your cup of tea |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do tae le bainne | Here's your tea with milk |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do leac oighir | Here's your ice |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do uachtar reoite | Here's your ice cream |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do ceapaire | Here's your sandwich |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do milseáin | Here's your sweets |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do úll | Here's your apple |  |  |  |  |  |  |
+| NYT | What you want |  | DYNAMIC |  | Seo do cuidiú | Here's your help |  |  |  |  |  |  |
 | NYT | What you want |  | SENTENCE |  | Sláinte mhaith agat i bhfad ó bhrón. | Good health, free from sorrow. |  |  |  |  |  |  |
 | NYT | What you want |  | SENTENCE |  | Sláinte do bheo agus tróicaire do mharbh. | Health to the living and mercy on the dead. |  |  |  |  |  |  |
 | NYT | What you want |  | SENTENCE |  | Go mba fada a mhairfidh tú. | Long life to you |  |  |  |  |  |  |
@@ -1110,85 +1110,108 @@
 
 | program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| NYT | Where you are going |  |  |  | Cá bhfuil tú ag dul? | Where are you going? |  | s |  | Ca will to a-gull |  |  |
-| NYT | Where you are going |  |  |  | Cá bhfuil sibh ag dul? | Where are you going? |  | p |  | Ca will to a-gull |  |  |
-| NYT | Where you are going |  |  |  | Cá bhfuil tusa ag dul? | Where are *you* going? |  | s |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá mé ag dul ... | I'm going ... |  |  |  | Taw may a gul |  |  |
-| NYT | Where you are going |  |  |  | Tá mé ag dul go ... | I'm going to ... |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá mé ag dul go Leitir Ceanainn. | I'm going to Letterkenny. |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá mé ag dul go dtí an garáiste. | I'm going to the garage. |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá muid ag dul go dtí an garáiste. | We're going to the garage. |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | banc | bank |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | teach an phobail | church |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | oifig an phoist | post office |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | caife | cafe |  |  |  | ca-fay |  |  |
-| NYT | Where you are going |  |  |  | garáiste | garage |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | teach | house |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | tithe | houses |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | teach tábhairne | pub |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | tithe tábhairne | pubs |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | bialann | restaurant |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | páirc | park |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | siopa | shop |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | siopaí | shops |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | siopa búistéara | butcher's shop |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | siopa poitigéara | chemist shop |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | siopa bróg | shoe shop |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | siopa éadaigh | clothes shop |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | ionad spóirt | sports centre |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | ionad siopadóireachta | shopping center |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | ollmhargadh | supermarket |  |  |  | ollwarragoo |  |  |
-| NYT | Where you are going |  |  |  | ospidéal | hospital |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | otharlann | hospital |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | pictiúrlann | cinema |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | sólann | leisure centre |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | codladh | sleep |  |  |  | coh-loo |  |  |
-| NYT | Where you are going |  |  |  | Tá mé ag dul go dtí an t-ionad spóirt. | I'm going to the sports centre. |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá mé ag dul go dtí an t-ionad siopadóireachta. | I'm going to the shopping centre. |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá mé ag dul go dtí an t-ollmhargadh. | I'm going to the supermarket. |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá mé ag dul go dtí an bhialann. | I'm going to the restaurant. |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá mé ag dul abhaile. | I'm going home. |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá mé ag dul amach. | I'm going out. |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá mé ag dul go hoifig an phoist. | I am going to the post ofice |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá mé ag dul go teach an phobail. | I am going to the church |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | tá mé ag dul a chodladh | I am going to sleep |  |  |  | ...hoh-loo |  |  |
-| NYT | Where you are going |  |  |  | ansin | then |  |  |  |  |  | as in I'm going to ... and then I'm going to... |
-| NYT | Where you are going |  |  |  | Go Baile Átha Cliath | To dublin |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Go hArd Mhacha* | To Armagh |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Go Dún Pádraig | To Downpatrick |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá mé ag dul go dtí an t-ospidéal. | I am going to the hospital. |  |  |  |  |  | Go dtí is used before nouns that are preceded by the article: |
-| NYT | Where you are going |  |  |  | Cad é an t-am? | What time? |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Cad é an t-am atá tú ag dul go Dún Geanainn? | What time are you going to Dungannon? |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Cá huair? | When? |  |  |  | ca hoo-ar |  |  |
-| NYT | Where you are going |  |  |  | Cá huair atá tú ag dul go Corcaigh? | When are you going to Cork? |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá mé ag dul go Gaillimh... | I'm going to Galway... |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá mé ag dul... | I'm going ... |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | ...ag a dó a chlog | at two o'clock |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | ...i gceann leathuair an chloig | in half an hour |  |  |  | i gen le-hoor a clig |  |  |
-| NYT | Where you are going |  |  |  | ...i gceann uair an chloig | in an hour's time |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | ...i gceann trí huaire go leith | in three-and-a-half hours' time |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | ...anois | now |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | ...níos moille | later |  |  |  | nees mullya |  |  |
-| NYT | Where you are going |  |  |  | ...i gceann tamaill | in a while |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | ...anocht | tonight |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | ...amárach | tomorrow |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | ...ar maidin | in the morning |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | ...meán lae | midday |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | ...san iarnóin | in the afternoon |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | ...tráthnóna | in the evening |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | ...san oíche | in the night |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | uair | an hour |  |  |  |  |  | This word occurs quite frequently in everyday speech, so it is well worth learning the different forms. |
-| NYT | Where you are going |  |  |  | dhá uair | two hours |  |  |  |  |  | The word uair is irregular when preceded by numbers: |
-| NYT | Where you are going |  |  |  | trí ... sé huaire | three ... six hours |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | seacht ... deich n-uaire | seven ... ten hours |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá sé chóir a bheith ... | It's almost ... |  |  |  | Taw shay hor a veh |  |  |
-| NYT | Where you are going |  |  |  | Tá sé chóir a bheith a dó a chlog. | It's almost two o'clock. |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá sé chóir a bheith a seacht. | It's almost seven. |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá sé chóir a bheith leath i ndiaidh a haon. | It's almost half one. |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá sé leath i ndiaidh a haon. | It's half one. |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá sé ceathrú go dtí a dó dhéag | it's a quarter to 12 |  |  |  |  |  |  |
-| NYT | Where you are going |  |  |  | Tá sé ceathrú i ndiaidh a cúig | it's a quarter past 5 |  |  |  | tay shay ca-ru i nyay a quig |  |  |
-| NYT | Where you are going |  |  |  | scrúdú | exam |  |  |  |  |  | as in "scrúdú ar maidin" == "exam in the morning" |
+| NYT | Where you are going |  | SENTENCE |  | AG RÁ CÁ BHFUIL TÚ AG DUL | SAYING WHERE YOU’RE GOING |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | banc | bank |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | teach an phobail | church |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | oifig an phoist | post office |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | caife | cafe |  |  |  | ca-fay |  |  |
+| NYT | Where you are going |  | WORD |  | garáiste | garage |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | teach | house |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | tithe | houses |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | teach tábhairne | pub |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | tithe tábhairne | pubs |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | bialann | restaurant |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | páirc | park |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | siopa | shop |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | siopaí | shops |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | siopa búistéara | butcher's shop |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | siopa poitigéara | chemist shop |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | siopa bróg | shoe shop |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | siopa éadaigh | clothes shop |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | ionad spóirt | sports centre |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | ionad siopadóireachta | shopping centre |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | ollmhargadh | supermarket |  |  |  | ollwarragoo |  |  |
+| NYT | Where you are going |  | WORD |  | ospidéal | hospital |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | otharlann | hospital |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | pictiúrlann | cinema |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | sólann | leisure centre |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | codladh | sleep |  |  |  | coh-loo |  |  |
+| NYT | Where you are going |  | WORD |  | aerfort | airport |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | amharclann | theatre |  |  |  |  |  |  |
+| NYT | Where you are going |  | QUESTION |  | Cá bhfuil tú ag dul? | Where are you going? |  | s |  | Ca will to a-gull |  |  |
+| NYT | Where you are going |  | QUESTION |  | Cá bhfuil sibh ag dul? | Where are you going? |  | p |  | Ca will to a-gull |  |  |
+| NYT | Where you are going |  | QUESTION |  | Cá bhfuil tusa ag dul? | Where are *you* going? |  | s |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá mé ag dul ... | I'm going ... |  |  |  | Taw may a gul |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá mé ag dul go ... | I'm going to ... |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá mé ag dul go Leitir Ceanainn. | I'm going to Letterkenny. |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá mé ag dul go dtí an garáiste. | I'm going to the garage. |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá muid ag dul go dtí an garáiste. | We're going to the garage. |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá mé ag dul go dtí an t-ionad spóirt. | I'm going to the sports centre. |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá mé ag dul go dtí an t-ionad siopadóireachta. | I'm going to the shopping centre. |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá mé ag dul go dtí an t-ollmhargadh. | I'm going to the supermarket. |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá mé ag dul go dtí an bhialann. | I'm going to the restaurant. |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá mé ag dul go hoifig an phoist. | I am going to the post office |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá mé ag dul go teach an phobail. | I am going to the church |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá mé ag dul go dtí an t-ospidéal. | I am going to the hospital. |  |  |  |  |  | Go dtí is used before nouns that are preceded by the article: |
+| NYT | Where you are going |  | SENTENCE |  | Tá mé ag dul abhaile. | I'm going home. |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá mé ag dul amach. | I'm going out. |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | tá mé ag dul a chodladh | I am going to sleep |  |  |  | ...hoh-loo |  |  |
+| NYT | Where you are going |  | WORD |  | ansin | then |  |  |  |  |  | as in I'm going to ... and then I'm going to... |
+| NYT | Where you are going |  | SENTENCE |  | Go Baile Átha Cliath | To Dublin |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Go hArd Mhacha* | To Armagh |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Go Dún Pádraig | To Downpatrick |  |  |  |  |  |  |
+| NYT | Where you are going |  | QUESTION |  | Cad é an t-am? | What time? |  |  |  |  |  |  |
+| NYT | Where you are going |  | QUESTION |  | Cad é an t-am atá tú ag dul go Dún Geanainn? | What time are you going to Dungannon? |  |  |  |  |  |  |
+| NYT | Where you are going |  | QUESTION |  | Cá huair? | When? |  |  |  | ca hoo-ar |  |  |
+| NYT | Where you are going |  | QUESTION |  | Cá huair atá tú ag dul go Corcaigh? | When are you going to Cork? |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD | GOING_WHEN | ag a dó a chlog | at two o'clock |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD | GOING_WHEN | i gceann leathuair an chloig | in half an hour |  |  |  | i gen le-hoor a clig |  |  |
+| NYT | Where you are going |  | WORD | GOING_WHEN | i gceann uair an chloig | in an hour's time |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD | GOING_WHEN | i gceann trí huaire go leith | in three-and-a-half hours' time |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD | GOING_WHEN | anois | now |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD | GOING_WHEN | níos moille | later |  |  |  | nees mullya |  |  |
+| NYT | Where you are going |  | WORD | GOING_WHEN | i gceann tamaill | in a while |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD | GOING_WHEN | anocht | tonight |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD | GOING_WHEN | amárach | tomorrow |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD | GOING_WHEN | ar maidin | in the morning |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD | GOING_WHEN | meán lae | midday |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD | GOING_WHEN | san iarnóin | in the afternoon |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD | GOING_WHEN | tráthnóna | in the evening |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD | GOING_WHEN | san oíche | in the night |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá mé ag dul go Gaillimh... | I'm going to Galway... |  |  |  |  |  |  |
+| NYT | Where you are going |  | TEMPLATE |  | Tá mé ag dul $GOING_WHEN | I'm going $GOING_WHEN |  |  |  |  |  |  |
+| NYT | Where you are going |  | DYNAMIC |  | Tá mé ag dul ag a dó a chlog | I'm going at two o'clock |  |  |  |  |  |  |
+| NYT | Where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann leathuair an chloig | I'm going in half an hour |  |  |  |  |  |  |
+| NYT | Where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann uair an chloig | I'm going in an hour's time |  |  |  |  |  |  |
+| NYT | Where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire go leith | I'm going in three-and-a-half hours' time |  |  |  |  |  |  |
+| NYT | Where you are going |  | DYNAMIC |  | Tá mé ag dul anois | I'm going now |  |  |  |  |  |  |
+| NYT | Where you are going |  | DYNAMIC |  | Tá mé ag dul níos moille | I'm going later |  |  |  |  |  |  |
+| NYT | Where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann tamaill | I'm going in a while |  |  |  |  |  |  |
+| NYT | Where you are going |  | DYNAMIC |  | Tá mé ag dul anocht | I'm going tonight |  |  |  |  |  |  |
+| NYT | Where you are going |  | DYNAMIC |  | Tá mé ag dul amárach | I'm going tomorrow |  |  |  |  |  |  |
+| NYT | Where you are going |  | DYNAMIC |  | Tá mé ag dul ar maidin | I'm going in the morning |  |  |  |  |  |  |
+| NYT | Where you are going |  | DYNAMIC |  | Tá mé ag dul meán lae | I'm going midday |  |  |  |  |  |  |
+| NYT | Where you are going |  | DYNAMIC |  | Tá mé ag dul san iarnóin | I'm going in the afternoon |  |  |  |  |  |  |
+| NYT | Where you are going |  | DYNAMIC |  | Tá mé ag dul tráthnóna | I'm going in the evening |  |  |  |  |  |  |
+| NYT | Where you are going |  | DYNAMIC |  | Tá mé ag dul san oíche | I'm going in the night |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | uair | an hour |  |  |  |  |  | This word occurs quite frequently in everyday speech, so it is well worth learning the different forms. |
+| NYT | Where you are going |  | WORD |  | dhá uair | two hours |  |  |  |  |  | The word uair is irregular when preceded by numbers: |
+| NYT | Where you are going |  | WORD |  | trí huaire | Three hours |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | Ceathair huaire  | four hours |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | Cúig huaire  | five hours |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | Sé huaire  | six hours |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | seacht n-uaire | seven hours |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | hocht n-uaire | eight hours |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | naoi n-uaire | nine hours |  |  |  |  |  |  |
+| NYT | Where you are going |  | WORD |  | deich n-uaire | ten hours |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá sé chóir a bheith ... | It's almost ... |  |  |  | Taw shay hor a veh |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá sé chóir a bheith a dó a chlog. | It's almost two o'clock. |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá sé chóir a bheith a seacht. | It's almost seven. |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá sé chóir a bheith leath i ndiaidh a haon. | It's almost half one. |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá sé leath i ndiaidh a haon. | It's half one. |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá sé ceathrú go dtí a dó dhéag | it's a quarter to 12 |  |  |  |  |  |  |
+| NYT | Where you are going |  | SENTENCE |  | Tá sé ceathrú i ndiaidh a cúig | it's a quarter past 5 |  |  |  | tay shay ca-ru i nyay a quig |  |  |
+| NYT | Where you are going |  | WORD |  | scrúdú | exam |  |  |  |  |  | as in "scrúdú ar maidin" == "exam in the morning" |
 
 ## NYT - What job you do
 
@@ -2758,12 +2781,3 @@
 | NYT | 14 |  |  |  | Ar mhaith leat prátaí? | Would you like some potatoes? |  |  |  |  |  |  |
 | NYT | 14 |  |  |  | Ar mhaith leat tuilleadh pasta? | Would you like some more pasta? |  |  |  |  |  |  |
 | NYT | 14 |  |  |  | Níor mhaith, níl ocras orm | No, I wouldn’t like any, I’m not hungry |  |  |  |  |  |  |
-| NYT | 14 |  |  |  | Ba mhaith, cuid mhór le do thoil | Yes, I’d like a lot please |  |  |  |  |  |  |
-| NYT | 14 |  |  |  | Glasraí | Vegetables |  |  |  |  |  |  |
-| NYT | 14 |  |  |  | Dhá phunt | Two pounds |  |  |  |  |  |  |
-| NYT | 14 |  |  |  | Trí phunt | Three pounds |  |  |  |  |  |  |
-| NYT | 14 |  |  |  | Ceithre phunt | Four pounds |  |  |  |  |  |  |
-| NYT | 14 |  |  |  | Cúig phunt | Five pounds |  |  |  |  |  |  |
-| NYT | 14 |  |  |  | Sé phunt | Six pounds |  |  |  |  |  |  |
-| NYT | 14 |  |  |  | Seacht bpunt | Seven pounds |  |  |  |  |  |  |
-| NYT | 14 |  |  |  | Ocht bpunt | Eight pounds |  |  |  |  |  |  |
