@@ -411,9 +411,9 @@ It can be difficult to remember all the different prepositional pronouns - but j
 
 [vocab.csv](vocab.csv#Greetings)
 
-### Unit 1
+### Unit 1 - Meeting People
 
-#### Meeting People Simply
+#### Meeting People
 
 [vocab.csv](vocab.csv#Meeting+People)
 
@@ -432,7 +432,7 @@ The words mé and tú are called pronouns and are used when you don't need to or
 
 [vocab.csv](vocab.csv#Weather)
 
-### Unit 2
+### Unit 2 - Introductions
 
 #### Introductions
 

@@ -285,56 +285,6 @@ NYT	Person Background	Numbers			nócha	ninety				noe-kah
 NYT	Person Background	Numbers			céad	hundred				cay-d		
 NYT	Person Background	Numbers			míle	thousand				meala		
 NYT	Person Background	Numbers			milliún	million				millyun		
-NYT	Person Background	Numbers			aon bhliain amhain	1 YEAR						
-NYT	Person Background	Numbers			dhá bhliain	2 YEARS						
-NYT	Person Background	Numbers			trí bliana	3 YEARS						
-NYT	Person Background	Numbers			ceithre bliana	4 YEARS						
-NYT	Person Background	Numbers			cúig bliana	5 YEARS						
-NYT	Person Background	Numbers			sé bliana	6 YEARS						
-NYT	Person Background	Numbers			seacht mbliana	7 YEARS						
-NYT	Person Background	Numbers			ocht mbliana	8 YEARS						
-NYT	Person Background	Numbers			naoi mbliana	9 YEARS						
-NYT	Person Background	Numbers			deich mbliana	10 YEARS						
-NYT	Person Background	Numbers			aon bhliain déag	11 YEARS						
-NYT	Person Background	Numbers			dhá bhliain déag	12 YEARS						
-NYT	Person Background	Numbers			trí bliana déag	13 YEARS						
-NYT	Person Background	Numbers			ceithre bliana déag	14 YEARS						
-NYT	Person Background	Numbers			cúig bliana déag	15 YEARS						
-NYT	Person Background	Numbers			sé bliana déag	16 YEARS						
-NYT	Person Background	Numbers			seacht mbliana déag	17 YEARS						
-NYT	Person Background	Numbers			ocht mbliana déag	18 YEARS						
-NYT	Person Background	Numbers			naoi mbliana déag	19 YEARS						
-NYT	Person Background	Numbers			fiche bliain	20 YEARS						
-NYT	Person Background	Numbers			aon bliain is fiche	21 YEARS						
-NYT	Person Background	Numbers			dhá bhliain is fiche	22 YEARS						
-NYT	Person Background	Numbers			trí bliana is fiche	23 YEARS						
-NYT	Person Background	Numbers			ceithre bliana is fiche	24 YEARS						
-NYT	Person Background	Numbers			cúig bliana is fiche	25 YEARS						
-NYT	Person Background	Numbers			sé bliana is fiche	26 YEARS						
-NYT	Person Background	Numbers			seacht mbliana is fiche	27 YEARS						
-NYT	Person Background	Numbers			ocht mbliana is fiche	28 YEARS						
-NYT	Person Background	Numbers			naoi mbliana is fiche	29 YEARS						
-NYT	Person Background	Numbers			tríocha bliain	30 YEARS						
-NYT	Person Background	Numbers			daichead bliain	40 YEARS						
-NYT	Person Background	Numbers			caoga bliain	50 YEARS						
-NYT	Person Background	Numbers			seasca bliain	60 YEARS						
-NYT	Person Background	Numbers			seachtó bliain	70 YEARS						
-NYT	Person Background	Numbers			ochtó bliain	80 YEARS						
-NYT	Person Background	Numbers			nócha bliain	90 YEARS						
-NYT	Person Background	Numbers			céad bliain	100 YEARS						
-NYT	Person Background	Numbers			an chéad	first						
-NYT	Person Background	Numbers			an dara	second						
-NYT	Person Background	Numbers			an triú	third						
-NYT	Person Background	Numbers			an ceathrú	fourth						
-NYT	Person Background	Numbers			an cúigiú	fifth						
-NYT	Person Background	Numbers			an séú	sixth						
-NYT	Person Background	Numbers			an seachtú	seventh						
-NYT	Person Background	Numbers			an t-ochtú	eighth						
-NYT	Person Background	Numbers			an naoú	ninth						
-NYT	Person Background	Numbers			an deichiú	tenth						
-NYT	Person Background	Numbers			an t-aonú lá déag	the eleventh day						
-NYT	Person Background	Numbers			an fichiú	twentieth						
-NYT	Person Background	Numbers			an t-aonú lá is fiche	the twenty-first day						
 NYT	Person Background	Phone			Cad é d'uimhir fóin?	What's your phone number?						
 NYT	Person Background	Phone			D'uimhir fóin?	Your phone number?						
 NYT	Person Background	Time			am	time				am		
@@ -1147,6 +1097,43 @@ NYT	Family2				seacht mbliana	seven years
 NYT	Family2				ocht mbliana	eight years						
 NYT	Family2				naoi mbliana	nine years						
 NYT	Family2				deich mbliana	ten years						
+NYT	Family2				aon bhliain amhain	1 YEAR						
+NYT	Family2				dhá bhliain	2 YEARS						
+NYT	Family2				trí bliana	3 YEARS						
+NYT	Family2				ceithre bliana	4 YEARS						
+NYT	Family2				cúig bliana	5 YEARS						
+NYT	Family2				sé bliana	6 YEARS						
+NYT	Family2				seacht mbliana	7 YEARS						
+NYT	Family2				ocht mbliana	8 YEARS						
+NYT	Family2				naoi mbliana	9 YEARS						
+NYT	Family2				deich mbliana	10 YEARS						
+NYT	Family2				aon bhliain déag	11 YEARS						
+NYT	Family2				dhá bhliain déag	12 YEARS						
+NYT	Family2				trí bliana déag	13 YEARS						
+NYT	Family2				ceithre bliana déag	14 YEARS						
+NYT	Family2				cúig bliana déag	15 YEARS						
+NYT	Family2				sé bliana déag	16 YEARS						
+NYT	Family2				seacht mbliana déag	17 YEARS						
+NYT	Family2				ocht mbliana déag	18 YEARS						
+NYT	Family2				naoi mbliana déag	19 YEARS						
+NYT	Family2				fiche bliain	20 YEARS						
+NYT	Family2				aon bliain is fiche	21 YEARS						
+NYT	Family2				dhá bhliain is fiche	22 YEARS						
+NYT	Family2				trí bliana is fiche	23 YEARS						
+NYT	Family2				ceithre bliana is fiche	24 YEARS						
+NYT	Family2				cúig bliana is fiche	25 YEARS						
+NYT	Family2				sé bliana is fiche	26 YEARS						
+NYT	Family2				seacht mbliana is fiche	27 YEARS						
+NYT	Family2				ocht mbliana is fiche	28 YEARS						
+NYT	Family2				naoi mbliana is fiche	29 YEARS						
+NYT	Family2				tríocha bliain	30 YEARS						
+NYT	Family2				daichead bliain	40 YEARS						
+NYT	Family2				caoga bliain	50 YEARS						
+NYT	Family2				seasca bliain	60 YEARS						
+NYT	Family2				seachtó bliain	70 YEARS						
+NYT	Family2				ochtó bliain	80 YEARS						
+NYT	Family2				nócha bliain	90 YEARS						
+NYT	Family2				céad bliain	100 YEARS						
 NYT	Family2				Cá bhfuil sé ina chónaí anois?	Where does he live now?						
 NYT	Family2				Cá bhfuil sí ina cónaí anois?	Where does she live now?						
 NYT	Family2				Cá bhfuil siad ina gcónaí anois?	Where do they live now?						
