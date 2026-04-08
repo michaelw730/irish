@@ -76,14 +76,14 @@
 | NYT | Meeting People |  | PHRASE |  | Tá sibh | You are  |  | p |  |  |  |  |  |
 | NYT | Meeting People |  | PHRASE |  | Tá siad | They are |  |  |  |  |  |  |  |
 | NYT | Meeting People |  | TEMPLATE |  | Tá mé $HOW_I_AM. | I am $HOW_I_AM | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
-| NYT | Meeting People |  | DYNAMIC |  | Tá mé go maith. | I am well | Repeat for other pronouns/person’s name |  |  |  |  |  |
-| NYT | Meeting People |  | DYNAMIC |  | Tá mé go breá. | I am fine | Repeat for other pronouns/person’s name |  |  |  |  |  |
-| NYT | Meeting People |  | DYNAMIC |  | Tá mé maith go leor. | I am very good | Repeat for other pronouns/person’s name |  |  |  |  |  |
-| NYT | Meeting People |  | DYNAMIC |  | Tá mé ceart go leor. | I am alright | Repeat for other pronouns/person’s name |  |  |  |  |  |
-| NYT | Meeting People |  | DYNAMIC |  | Tá mé go holc. | I am awful | Repeat for other pronouns/person’s name |  |  |  |  |  |
-| NYT | Meeting People |  | DYNAMIC |  | Tá mé go measaratha. | I am reasonable/middling | Repeat for other pronouns/person’s name |  |  |  |  |  |
-| NYT | Meeting People |  | DYNAMIC |  | Tá mé go measaratha maith. | I am reasonable/middling good | Repeat for other pronouns/person’s name |  |  |  |  |  |
-| NYT | Meeting People |  | DYNAMIC |  | Tá mé i gceart. | I am rightly | Repeat for other pronouns/person’s name |  |  |  |  |  |
+| NYT | Meeting People |  | DYNAMIC |  | Tá mé go maith. | I am well | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
+| NYT | Meeting People |  | DYNAMIC |  | Tá mé go breá. | I am fine | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
+| NYT | Meeting People |  | DYNAMIC |  | Tá mé maith go leor. | I am very good | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
+| NYT | Meeting People |  | DYNAMIC |  | Tá mé ceart go leor. | I am alright | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
+| NYT | Meeting People |  | DYNAMIC |  | Tá mé go holc. | I am awful | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
+| NYT | Meeting People |  | DYNAMIC |  | Tá mé go measaratha. | I am reasonable/middling | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
+| NYT | Meeting People |  | DYNAMIC |  | Tá mé go measaratha maith. | I am reasonable/middling good | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
+| NYT | Meeting People |  | DYNAMIC |  | Tá mé i gceart. | I am rightly | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
 | NYT | Meeting People |  | SENTENCE |  | Níl mé go maith. | I am not good | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
 | NYT | Meeting People |  | SENTENCE |  | Níl caill orm | I am not too bad (or There's no loss upon me) |  |  |  |  |  |  |  |
 | NYT | Meeting People |  | QUESTION |  | Agus tú féin? | And yourself? |  |  |  |  | Agus tu hain? |  |  |
@@ -126,50 +126,50 @@
 | NYT | Meeting People | Weather | WORD | WEATHER_DESCRIBE2 | ag cur sneachta | snowing |  |  |  |  | ag cur snock-ta |  |  |
 | NYT | Meeting People | Weather | WORD |  | iontach | extremely / very |  |  |  |  | inta? |  |  |
 | NYT | Meeting People | Weather | TEMPLATE |  | Tá sé $WEATHER_DESCRIBE | it is $WEATHER_DESCRIBE |  |  |  |  | taa shay $WEATHER_DESCRIBE |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé fuar | it is cold |  |  |  | taa shay fooar |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé fliuch | it is wet |  |  |  | taa shay flu(ch) [(ch) = soft k] |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé te | it is hot |  |  |  | taa shay chay |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé báistí | it is rainy |  |  |  | taa shay  |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé gaofar | it is windy |  |  |  | taa shay gweefor/geefo? |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé tirim | it is dry |  |  |  | taa shay Chur-im |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé taise | it is damp |  |  |  | taa shay tasha |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé grianmhar | it is sunny |  |  |  | taa shay grain-wur |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé scamillach | it is cloudy |  |  |  | taa shay scam-ill-ock |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé ceomhar | it is foggy |  |  |  | taa shay kyowar?? |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé geal | it is bright |  |  |  | taa shay gyal |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé dorcha | it is dark |  |  |  | taa shay dora-ha |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé fuar | it is cold |  |  |  |  | taa shay fooar |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé fliuch | it is wet |  |  |  |  | taa shay flu(ch) [(ch) = soft k] |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé te | it is hot |  |  |  |  | taa shay chay |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé báistí | it is rainy |  |  |  |  | taa shay  |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé gaofar | it is windy |  |  |  |  | taa shay gweefor/geefo? |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé tirim | it is dry |  |  |  |  | taa shay Chur-im |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé taise | it is damp |  |  |  |  | taa shay tasha |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé grianmhar | it is sunny |  |  |  |  | taa shay grain-wur |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé scamillach | it is cloudy |  |  |  |  | taa shay scam-ill-ock |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé ceomhar | it is foggy |  |  |  |  | taa shay kyowar?? |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé geal | it is bright |  |  |  |  | taa shay gyal |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé dorcha | it is dark |  |  |  |  | taa shay dora-ha |  |  |
 | NYT | Meeting People | Weather | TEMPLATE |  | Tá sé $WEATHER_DESCRIBE2 | it is $WEATHER_DESCRIBE2 |  |  |  |  | taa shay $WEATHER_DESCRIBE2 |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé ag cur fearthainne | it is raining |  |  |  | taa shay ig cur far-heen-ya |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé ag cur sneachta | it is snowing |  |  |  | taa shay ag cur snock-ta |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé ag cur fearthainne | it is raining |  |  |  |  | taa shay ig cur far-heen-ya |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé ag cur sneachta | it is snowing |  |  |  |  | taa shay ag cur snock-ta |  |  |
 | NYT | Meeting People | Weather | PHRASE |  | Bhí sé... | it was... | repeat for appropriate weather |  |  |  | vee shay |  |  |
 | NYT | Meeting People | Weather | PHRASE |  | Níl sé... | it is not... | repeat for appropriate weather |  |  |  | taa shay |  |  |
 | NYT | Meeting People | Weather | TEMPLATE |  | Tá sé iontach $WEATHER_DESCRIBE | it is very $WEATHER_DESCRIBE |  |  |  |  | taa shay $WEATHER_DESCRIBE |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach fuar | it is very cold |  |  |  | taa shay fooar |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach fliuch | it is very wet |  |  |  | taa shay flu(ch) [(ch) = soft k] |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach te | it is very hot |  |  |  | taa shay chay |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach báistí | it is very rainy |  |  |  | taa shay  |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach gaofar | it is very windy |  |  |  | taa shay gweefor/geefo? |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach tirim | it is very dry |  |  |  | taa shay Chur-im |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach taise | it is very damp |  |  |  | taa shay tasha |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach grianmhar | it is very sunny |  |  |  | taa shay grain-wur |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach scamillach | it is very cloudy |  |  |  | taa shay scam-ill-ock |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach ceomhar | it is very foggy |  |  |  | taa shay kyowar?? |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach geal | it is very bright |  |  |  | taa shay gyal |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach dorcha | it is very dark |  |  |  | taa shay dora-ha |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach fuar | it is very cold |  |  |  |  | taa shay fooar |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach fliuch | it is very wet |  |  |  |  | taa shay flu(ch) [(ch) = soft k] |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach te | it is very hot |  |  |  |  | taa shay chay |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach báistí | it is very rainy |  |  |  |  | taa shay  |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach gaofar | it is very windy |  |  |  |  | taa shay gweefor/geefo? |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach tirim | it is very dry |  |  |  |  | taa shay Chur-im |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach taise | it is very damp |  |  |  |  | taa shay tasha |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach grianmhar | it is very sunny |  |  |  |  | taa shay grain-wur |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach scamillach | it is very cloudy |  |  |  |  | taa shay scam-ill-ock |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach ceomhar | it is very foggy |  |  |  |  | taa shay kyowar?? |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach geal | it is very bright |  |  |  |  | taa shay gyal |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé iontach dorcha | it is very dark |  |  |  |  | taa shay dora-ha |  |  |
 | NYT | Meeting People | Weather | PHRASE |  | Bhí sé iontach … | it was very… |  |  |  |  | vee shay |  |  |
 | NYT | Meeting People | Weather | TEMPLATE |  | Tá sé lá $WEATHER_DESCRIBE | it is a $WEATHER_DESCRIBE day |  |  |  |  | taa shay laa $WEATHER_DESCRIBE |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá fuar | it is a cold day |  |  |  | taa shay laa fooar |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá fliuch | it is a wet day |  |  |  | taa shay laa flu(ch) [(ch) = soft k] |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá te | it is a hot day |  |  |  | taa shay laa chay |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá báistí | it is a rainy day |  |  |  | taa shay laa  |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá gaofar | it is a windy day |  |  |  | taa shay laa gweefor/geefo? |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá tirim | it is a dry day |  |  |  | taa shay laa Chur-im |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá taise | it is a damp day |  |  |  | taa shay laa tasha |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá grianmhar | it is a sunny day |  |  |  | taa shay laa grain-wur |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá scamillach | it is a cloudy day |  |  |  | taa shay laa scam-ill-ock |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá ceomhar | it is a foggy day |  |  |  | taa shay laa kyowar?? |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá geal | it is a bright day |  |  |  | taa shay laa gyal |  |  |
-| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá dorcha | it is a dark day |  |  |  | taa shay laa dora-ha |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá fuar | it is a cold day |  |  |  |  | taa shay laa fooar |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá fliuch | it is a wet day |  |  |  |  | taa shay laa flu(ch) [(ch) = soft k] |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá te | it is a hot day |  |  |  |  | taa shay laa chay |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá báistí | it is a rainy day |  |  |  |  | taa shay laa  |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá gaofar | it is a windy day |  |  |  |  | taa shay laa gweefor/geefo? |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá tirim | it is a dry day |  |  |  |  | taa shay laa Chur-im |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá taise | it is a damp day |  |  |  |  | taa shay laa tasha |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá grianmhar | it is a sunny day |  |  |  |  | taa shay laa grain-wur |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá scamillach | it is a cloudy day |  |  |  |  | taa shay laa scam-ill-ock |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá ceomhar | it is a foggy day |  |  |  |  | taa shay laa kyowar?? |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá geal | it is a bright day |  |  |  |  | taa shay laa gyal |  |  |
+| NYT | Meeting People | Weather | DYNAMIC |  | Tá sé lá dorcha | it is a dark day |  |  |  |  | taa shay laa dora-ha |  |  |
 | NYT | Meeting People | Weather | PHRASE |  | Tá | Yes [to agree with the weather] |  |  |  |  |  |  |  |
 | NYT | Meeting People | Weather | SENTENCE |  | Tá, cinnte. | It is indeed/surely. |  |  |  |  | teh, kintche |  |  |
 | NYT | Meeting People | Weather | SENTENCE |  | Tá lá breá ann. | It's a fine day. |  |  |  |  | teh leh breah ann |  |  |
@@ -372,31 +372,31 @@
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a haon déag a chlog | 11 o’clock |  |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a dó dhéag a chlog | 12 o’clock |  |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé $HOUR_O_CLOCK.  | It's $HOUR_O_CLOCK. | repeat for each hour |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a haon a chlog.  | It's 1 o’clock. | repeat for each hour |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a dó a chlog.  | It's 2 o’clock. | repeat for each hour |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a trí a chlog.  | It's 3 o’clock. | repeat for each hour |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a ceathair a chlog.  | It's 4 o’clock. | repeat for each hour |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a cúig a chlog.  | It's 5 o’clock. | repeat for each hour |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a sé a chlog.  | It's 6 o’clock. | repeat for each hour |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a seacht a chlog.  | It's 7 o’clock. | repeat for each hour |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a hocht a chlog.  | It's 8 o’clock. | repeat for each hour |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a naoi a chlog.  | It's 9 o’clock. | repeat for each hour |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a deich a chlog.  | It's 10 o’clock. | repeat for each hour |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a haon déag a chlog.  | It's 11 o’clock. | repeat for each hour |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a dó dhéag a chlog.  | It's 12 o’clock. | repeat for each hour |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a haon a chlog.  | It's 1 o’clock. | repeat for each hour |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a dó a chlog.  | It's 2 o’clock. | repeat for each hour |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a trí a chlog.  | It's 3 o’clock. | repeat for each hour |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a ceathair a chlog.  | It's 4 o’clock. | repeat for each hour |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a cúig a chlog.  | It's 5 o’clock. | repeat for each hour |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a sé a chlog.  | It's 6 o’clock. | repeat for each hour |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a seacht a chlog.  | It's 7 o’clock. | repeat for each hour |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a hocht a chlog.  | It's 8 o’clock. | repeat for each hour |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a naoi a chlog.  | It's 9 o’clock. | repeat for each hour |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a deich a chlog.  | It's 10 o’clock. | repeat for each hour |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a haon déag a chlog.  | It's 11 o’clock. | repeat for each hour |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a dó dhéag a chlog.  | It's 12 o’clock. | repeat for each hour |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Bhí sé $HOUR_O_CLOCK. | It was $HOUR_O_CLOCK. | repeat for each hour |  |  |  | vee shay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a haon a chlog. | It was 1 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a dó a chlog. | It was 2 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a trí a chlog. | It was 3 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a ceathair a chlog. | It was 4 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a cúig a chlog. | It was 5 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a sé a chlog. | It was 6 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a seacht a chlog. | It was 7 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a hocht a chlog. | It was 8 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a naoi a chlog. | It was 9 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a deich a chlog. | It was 10 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a haon déag a chlog. | It was 11 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a dó dhéag a chlog. | It was 12 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a haon a chlog. | It was 1 o’clock. | repeat for each hour |  |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a dó a chlog. | It was 2 o’clock. | repeat for each hour |  |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a trí a chlog. | It was 3 o’clock. | repeat for each hour |  |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a ceathair a chlog. | It was 4 o’clock. | repeat for each hour |  |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a cúig a chlog. | It was 5 o’clock. | repeat for each hour |  |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a sé a chlog. | It was 6 o’clock. | repeat for each hour |  |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a seacht a chlog. | It was 7 o’clock. | repeat for each hour |  |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a hocht a chlog. | It was 8 o’clock. | repeat for each hour |  |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a naoi a chlog. | It was 9 o’clock. | repeat for each hour |  |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a deich a chlog. | It was 10 o’clock. | repeat for each hour |  |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a haon déag a chlog. | It was 11 o’clock. | repeat for each hour |  |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a dó dhéag a chlog. | It was 12 o’clock. | repeat for each hour |  |  |  | vee shay... |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | soicind | second |  |  |  |  | second |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | bomaite | minute |  |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | ceathrú | quarter |  |  |  |  | ceahroo |  |  |
@@ -408,83 +408,83 @@
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | cúig i ndiaidh | five past?? | repeat for each time |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | fiche go dtí | twenty to | repeat for each time |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé ceathrú i ndiaidh $HOUR_O_CLOCK | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a trí a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a ceathair a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a cúig a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a sé a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a seacht a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a hocht a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a naoi a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a deich a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon déag a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó dhéag a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a trí a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a ceathair a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a cúig a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a sé a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a seacht a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a hocht a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a naoi a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a deich a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon déag a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó dhéag a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé leath i ndiaidh $HOUR_O_CLOCK | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a trí a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a ceathair a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a cúig a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a sé a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a seacht a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a hocht a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a naoi a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a deich a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon déag a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó dhéag a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a trí a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a ceathair a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a cúig a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a sé a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a seacht a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a hocht a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a naoi a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a deich a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon déag a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó dhéag a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé ceathrú go dtí $HOUR_O_CLOCK | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a trí a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a ceathair a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a cúig a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a sé a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a seacht a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a hocht a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a naoi a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a deich a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon déag a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó dhéag a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a trí a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a ceathair a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a cúig a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a sé a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a seacht a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a hocht a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a naoi a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a deich a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon déag a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó dhéag a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé cúig bomaite i ndiaidh $HOUR_O_CLOCK | five minutes past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a trí a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a ceathair a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a cúig a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a sé a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a seacht a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a hocht a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a naoi a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a deich a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon déag a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó dhéag a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a trí a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a ceathair a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a cúig a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a sé a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a seacht a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a hocht a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a naoi a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a deich a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon déag a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó dhéag a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé cúig i ndiaidh $HOUR_O_CLOCK | five past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon a chlog | five past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó a chlog | five past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a trí a chlog | five past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a ceathair a chlog | five past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a cúig a chlog | five past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a sé a chlog | five past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a seacht a chlog | five past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a hocht a chlog | five past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a naoi a chlog | five past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a deich a chlog | five past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon déag a chlog | five past?? | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó dhéag a chlog | five past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a trí a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a ceathair a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a cúig a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a sé a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a seacht a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a hocht a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a naoi a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a deich a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon déag a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó dhéag a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé fiche go dtí $HOUR_O_CLOCK | twenty to | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon a chlog | twenty to | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó a chlog | twenty to | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a trí a chlog | twenty to | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a ceathair a chlog | twenty to | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a cúig a chlog | twenty to | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a sé a chlog | twenty to | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a seacht a chlog | twenty to | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a hocht a chlog | twenty to | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a naoi a chlog | twenty to | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a deich a chlog | twenty to | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon déag a chlog | twenty to | repeat for each time |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó dhéag a chlog | twenty to | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a trí a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a ceathair a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a cúig a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a sé a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a seacht a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a hocht a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a naoi a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a deich a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon déag a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó dhéag a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
 
 ## NYT - Discussing Languages
 
@@ -506,48 +506,48 @@
 | NYT | Discussing Languages | Languages | WORD | LANGUAGE2 | Gearmáinise | German |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | WORD | LANGUAGE2 | Iodáilise | Italian |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | TEMPLATE |  | An bhfuil $LANGUAGE agat? | Can you speak $LANGUAGE? |  |  |  | Have you $LANGUAGE? Is $LANGUAGE at you? |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gaeilge agat? | Can you speak Irish? |  |  | Have you Irish? Is Irish at you? |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Fraincis agat? | Can you speak French? |  |  | Have you French? Is French at you? |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Béarla agat? | Can you speak English? |  |  | Have you English? Is English at you? |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gearmáinis agat? | Can you speak German? |  |  | Have you German? Is German at you? |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Iodáilis agat? | Can you speak Italian? |  |  | Have you Italian? Is Italian at you? |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Spáinnis agat? | Can you speak Spanish? |  |  | Have you Spanish? Is Spanish at you? |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Breatnais agat? | Can you speak Welsh? |  |  | Have you Welsh? Is Welsh at you? |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gaeilge na hAlban agat? | Can you speak Gaelic (Scotland)? |  |  | Have you Gaelic (Scotland)? Is Gaelic (Scotland) at you? |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gaeilge agat? | Can you speak Irish? |  |  |  | Have you Irish? Is Irish at you? |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Fraincis agat? | Can you speak French? |  |  |  | Have you French? Is French at you? |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Béarla agat? | Can you speak English? |  |  |  | Have you English? Is English at you? |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gearmáinis agat? | Can you speak German? |  |  |  | Have you German? Is German at you? |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Iodáilis agat? | Can you speak Italian? |  |  |  | Have you Italian? Is Italian at you? |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Spáinnis agat? | Can you speak Spanish? |  |  |  | Have you Spanish? Is Spanish at you? |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Breatnais agat? | Can you speak Welsh? |  |  |  | Have you Welsh? Is Welsh at you? |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gaeilge na hAlban agat? | Can you speak Gaelic (Scotland)? |  |  |  | Have you Gaelic (Scotland)? Is Gaelic (Scotland) at you? |  |  |  |
 | NYT | Discussing Languages | Languages | TEMPLATE |  | Tá $LANGUAGE líofa agam. | I speak $LANGUAGE fluently. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Gaeilge líofa agam. | I speak Irish fluently. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Fraincis líofa agam. | I speak French fluently. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Béarla líofa agam. | I speak English fluently. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Gearmáinis líofa agam. | I speak German fluently. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Iodáilis líofa agam. | I speak Italian fluently. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Spáinnis líofa agam. | I speak Spanish fluently. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Breatnais líofa agam. | I speak Welsh fluently. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Gaeilge na hAlban líofa agam. | I speak Gaelic (Scotland) fluently. |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Gaeilge líofa agam. | I speak Irish fluently. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Fraincis líofa agam. | I speak French fluently. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Béarla líofa agam. | I speak English fluently. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Gearmáinis líofa agam. | I speak German fluently. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Iodáilis líofa agam. | I speak Italian fluently. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Spáinnis líofa agam. | I speak Spanish fluently. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Breatnais líofa agam. | I speak Welsh fluently. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Gaeilge na hAlban líofa agam. | I speak Gaelic (Scotland) fluently. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Tá beagán $LANGUAGE2 agam. | I speak a little $LANGUAGE2. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Gaeilge agam. | I speak a little Irish. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Fraincise agam. | I speak a little French. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Gearmáinise agam. | I speak a little German. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Iodáilise agam. | I speak a little Italian. |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Gaeilge agam. | I speak a little Irish. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Fraincise agam. | I speak a little French. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Gearmáinise agam. | I speak a little German. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Iodáilise agam. | I speak a little Italian. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Tá mé ag foghlaim. | I'm learning. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Tá mé ag foghlaim $LANGUAGE2. | I'm learning $LANGUAGE2. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge. | I'm learning Irish. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Fraincise. | I'm learning French. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gearmáinise. | I'm learning German. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Iodáilise. | I'm learning Italian. |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge. | I'm learning Irish. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Fraincise. | I'm learning French. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gearmáinise. | I'm learning German. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Iodáilise. | I'm learning Italian. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Níl mórán $LANGUAGE2 agam. | I can't speak much $LANGUAGE2. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Gaeilge agam. | I can't speak much Irish. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Fraincise agam. | I can't speak much French. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Gearmáinise agam. | I can't speak much German. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Iodáilise agam. | I can't speak much Italian. |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Gaeilge agam. | I can't speak much Irish. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Fraincise agam. | I can't speak much French. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Gearmáinise agam. | I can't speak much German. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Iodáilise agam. | I can't speak much Italian. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | TEMPLATE |  | Níl aon $LANGUAGE agam. | I don't speak $LANGUAGE. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Gaeilge agam. | I don't speak Irish. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Fraincis agam. | I don't speak French. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Béarla agam. | I don't speak English. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Gearmáinis agam. | I don't speak German. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Iodáilis agam. | I don't speak Italian. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Spáinnis agam. | I don't speak Spanish. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Breatnais agam. | I don't speak Welsh. |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Gaeilge na hAlban agam. | I don't speak Gaelic (Scotland). |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Gaeilge agam. | I don't speak Irish. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Fraincis agam. | I don't speak French. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Béarla agam. | I don't speak English. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Gearmáinis agam. | I don't speak German. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Iodáilis agam. | I don't speak Italian. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Spáinnis agam. | I don't speak Spanish. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Breatnais agam. | I don't speak Welsh. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Gaeilge na hAlban agam. | I don't speak Gaelic (Scotland). |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Tá. | Yes. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Níl. | No. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Beagán. | A little. |  |  |  |  |  |  |  |
@@ -559,10 +559,10 @@
 | NYT | Discussing Languages | Languages | SENTENCE |  | Níl aon Fhraincis nó Spáinnis agam. | I speak neither French nor Spanish. | repeat for other languages |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | QUESTION |  | Cá háit? | Where? |  |  |  |  | Ca hatch? |  | If you tell someone that you are learning a language, you might be asked where: |
 | NYT | Discussing Languages | Languages | QUESTION |  | Cá bhfuil tú ag foghlaim $LANGUAGE2? | Where are you learning $LANGUAGE2? |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Cá bhfuil tú ag foghlaim Gaeilge? | Where are you learning Irish? |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Cá bhfuil tú ag foghlaim Fraincise? | Where are you learning French? |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Cá bhfuil tú ag foghlaim Gearmáinise? | Where are you learning German? |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Cá bhfuil tú ag foghlaim Iodáilise? | Where are you learning Italian? |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Cá bhfuil tú ag foghlaim Gaeilge? | Where are you learning Irish? |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Cá bhfuil tú ag foghlaim Fraincise? | Where are you learning French? |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Cá bhfuil tú ag foghlaim Gearmáinise? | Where are you learning German? |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Cá bhfuil tú ag foghlaim Iodáilise? | Where are you learning Italian? |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | ón teilifís | from the television |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | ón raidió | from the radio |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | ag rang oíche | at a night class |  |  |  |  |  |  |  |
@@ -571,42 +571,42 @@
 | NYT | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | ó físeán | from video |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | ó físeáin | from videos |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | TEMPLATE |  | Tá mé ag foghlaim Gaeilge $LANG_LEARN_SOURCE. | I am learning Irish $LANG_LEARN_SOURCE. | repeat for other languages |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ón teilifís. | I am learning Irish from the television. | repeat for other languages |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ón raidió. | I am learning Irish from the radio. | repeat for other languages |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ag rang oíche. | I am learning Irish at a night class. | repeat for other languages |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge san ollscoil. | I am learning Irish at the university. | repeat for other languages |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ó fhístéipeanna sa bhaile. | I am learning Irish from videotapes at home. | repeat for other languages |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ó físeán. | I am learning Irish from video. | repeat for other languages |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ó físeáin. | I am learning Irish from videos. | repeat for other languages |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ón teilifís. | I am learning Irish from the television. | repeat for other languages |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ón raidió. | I am learning Irish from the radio. | repeat for other languages |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ag rang oíche. | I am learning Irish at a night class. | repeat for other languages |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge san ollscoil. | I am learning Irish at the university. | repeat for other languages |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ó fhístéipeanna sa bhaile. | I am learning Irish from videotapes at home. | repeat for other languages |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ó físeán. | I am learning Irish from video. | repeat for other languages |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ó físeáin. | I am learning Irish from videos. | repeat for other languages |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | TEMPLATE |  | An dtuigeann tú $LANGUAGE? | Do you understand $LANGUAGE? |  |  |  |  | an diggin to $LANGUAGE? |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gaeilge? | Do you understand Irish? |  |  |  | an diggin to ? |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Fraincis? | Do you understand French? |  |  |  | an diggin to ? |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Béarla? | Do you understand English? |  |  |  | an diggin to ? |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gearmáinis? | Do you understand German? |  |  |  | an diggin to ? |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Iodáilis? | Do you understand Italian? |  |  |  | an diggin to ? |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Spáinnis? | Do you understand Spanish? |  |  |  | an diggin to ? |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Breatnais? | Do you understand Welsh? |  |  |  | an diggin to ? |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gaeilge na hAlban? | Do you understand Gaelic (Scotland)? |  |  |  | an diggin to ? |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gaeilge? | Do you understand Irish? |  |  |  |  | an diggin to ? |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Fraincis? | Do you understand French? |  |  |  |  | an diggin to ? |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Béarla? | Do you understand English? |  |  |  |  | an diggin to ? |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gearmáinis? | Do you understand German? |  |  |  |  | an diggin to ? |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Iodáilis? | Do you understand Italian? |  |  |  |  | an diggin to ? |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Spáinnis? | Do you understand Spanish? |  |  |  |  | an diggin to ? |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Breatnais? | Do you understand Welsh? |  |  |  |  | an diggin to ? |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gaeilge na hAlban? | Do you understand Gaelic (Scotland)? |  |  |  |  | an diggin to ? |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Tuigim. | Yes (I do understand). |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Ní thuigim. | No (I don't understand). |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | TEMPLATE |  | Tuigim $LANGUAGE | I do understand $LANGUAGE |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tuigim Gaeilge | I do understand Irish |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tuigim Fraincis | I do understand French |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tuigim Béarla | I do understand English |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tuigim Gearmáinis | I do understand German |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tuigim Iodáilis | I do understand Italian |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tuigim Spáinnis | I do understand Spanish |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tuigim Breatnais | I do understand Welsh |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tuigim Gaeilge na hAlban | I do understand Gaelic (Scotland) |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tuigim Gaeilge | I do understand Irish |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tuigim Fraincis | I do understand French |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tuigim Béarla | I do understand English |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tuigim Gearmáinis | I do understand German |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tuigim Iodáilis | I do understand Italian |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tuigim Spáinnis | I do understand Spanish |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tuigim Breatnais | I do understand Welsh |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tuigim Gaeilge na hAlban | I do understand Gaelic (Scotland) |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | TEMPLATE |  | Ní thuigim $LANGUAGE | I don't understand $LANGUAGE |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Gaeilge | I don't understand Irish |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Fraincis | I don't understand French |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Béarla | I don't understand English |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Gearmáinis | I don't understand German |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Iodáilis | I don't understand Italian |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Spáinnis | I don't understand Spanish |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Breatnais | I don't understand Welsh |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Gaeilge na hAlban | I don't understand Gaelic (Scotland) |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Gaeilge | I don't understand Irish |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Fraincis | I don't understand French |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Béarla | I don't understand English |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Gearmáinis | I don't understand German |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Iodáilis | I don't understand Italian |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Spáinnis | I don't understand Spanish |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Breatnais | I don't understand Welsh |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Gaeilge na hAlban | I don't understand Gaelic (Scotland) |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Counting things |  |  | teanga | a language |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Counting things |  |  | teangacha | languages |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Counting things |  |  | teanga amháin | one language |  |  |  |  |  |  |  |
@@ -692,162 +692,162 @@
 | NYT | Expressing Opinions |  | WORD |  | mar shampla | for example |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD |  | go háirithe | especially |  |  |  |  | go hairy-heh |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | Is maith liom $THINGS_TO_LIKE | I like $THINGS_TO_LIKE |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha faisnéise | I like documentaries |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha spóirt | I like sports programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha ceoil | I like music programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha cainte | I like talk shows |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha dúlra | I like nature programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom seacláid | I like chocolate |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom portán | I like crab |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag rith | I like go running. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom amharc ar an teilifís | I like watch television. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom éisteacht le ceol | I like listen to music. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag snámh | I like go swimming. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig scannáin | I like go to films. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig drámaí | I like go to plays. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom imirt | I like tennis |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom leadóg a imirt | I like play tennis |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol | I like music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol traidisiúnta | I like traditional music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol clasaiceach | I like classical music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom snagcheol | I like jazz |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom roc-cheol | I like rock music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom popcheol | I like popular music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha faisnéise | I like documentaries |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha spóirt | I like sports programmes |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha ceoil | I like music programmes |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha cainte | I like talk shows |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha dúlra | I like nature programmes |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom seacláid | I like chocolate |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom portán | I like crab |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag rith | I like go running. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom amharc ar an teilifís | I like watch television. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom éisteacht le ceol | I like listen to music. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag snámh | I like go swimming. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig scannáin | I like go to films. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig drámaí | I like go to plays. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom imirt | I like tennis |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom leadóg a imirt | I like play tennis |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol | I like music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol traidisiúnta | I like traditional music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol clasaiceach | I like classical music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom snagcheol | I like jazz |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom roc-cheol | I like rock music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom popcheol | I like popular music |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | Is breá liom $THINGS_TO_LIKE | I really like $THINGS_TO_LIKE |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha faisnéise | I really like documentaries |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha spóirt | I really like sports programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha ceoil | I really like music programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha cainte | I really like talk shows |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha dúlra | I really like nature programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom seacláid | I really like chocolate |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom portán | I really like crab |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag rith | I really like go running. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom amharc ar an teilifís | I really like watch television. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom éisteacht le ceol | I really like listen to music. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag snámh | I really like go swimming. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig scannáin | I really like go to films. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig drámaí | I really like go to plays. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom imirt | I really like tennis |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom leadóg a imirt | I really like play tennis |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol | I really like music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol traidisiúnta | I really like traditional music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol clasaiceach | I really like classical music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom snagcheol | I really like jazz |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom roc-cheol | I really like rock music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom popcheol | I really like popular music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha faisnéise | I really like documentaries |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha spóirt | I really like sports programmes |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha ceoil | I really like music programmes |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha cainte | I really like talk shows |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha dúlra | I really like nature programmes |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom seacláid | I really like chocolate |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom portán | I really like crab |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag rith | I really like go running. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom amharc ar an teilifís | I really like watch television. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom éisteacht le ceol | I really like listen to music. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag snámh | I really like go swimming. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig scannáin | I really like go to films. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig drámaí | I really like go to plays. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom imirt | I really like tennis |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom leadóg a imirt | I really like play tennis |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol | I really like music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol traidisiúnta | I really like traditional music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol clasaiceach | I really like classical music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom snagcheol | I really like jazz |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom roc-cheol | I really like rock music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom popcheol | I really like popular music |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Tá dúil mhór agam i(n)... | I really like ... |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | Ní maith liom $THINGS_TO_LIKE | I don't like $THINGS_TO_LIKE |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha faisnéise | I don't like documentaries |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha spóirt | I don't like sports programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha ceoil | I don't like music programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha cainte | I don't like talk shows |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha dúlra | I don't like nature programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom seacláid | I don't like chocolate |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom portán | I don't like crab |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith | I don't like go running. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom amharc ar an teilifís | I don't like watch television. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol | I don't like listen to music. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh | I don't like go swimming. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin | I don't like go to films. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí | I don't like go to plays. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt | I don't like tennis |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom leadóg a imirt | I don't like play tennis |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol | I don't like music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol traidisiúnta | I don't like traditional music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol clasaiceach | I don't like classical music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom snagcheol | I don't like jazz |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom roc-cheol | I don't like rock music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom popcheol | I don't like popular music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha faisnéise | I don't like documentaries |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha spóirt | I don't like sports programmes |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha ceoil | I don't like music programmes |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha cainte | I don't like talk shows |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha dúlra | I don't like nature programmes |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom seacláid | I don't like chocolate |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom portán | I don't like crab |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith | I don't like go running. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom amharc ar an teilifís | I don't like watch television. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol | I don't like listen to music. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh | I don't like go swimming. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin | I don't like go to films. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí | I don't like go to plays. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt | I don't like tennis |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom leadóg a imirt | I don't like play tennis |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol | I don't like music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol traidisiúnta | I don't like traditional music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol clasaiceach | I don't like classical music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom snagcheol | I don't like jazz |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom roc-cheol | I don't like rock music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom popcheol | I don't like popular music |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | Ní maith liom $THINGS_TO_LIKE ar chor ar bith. | I don't like $THINGS_TO_LIKE at all. |  |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha faisnéise ar chor ar bith. | I don't like documentaries at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha spóirt ar chor ar bith. | I don't like sports programmes at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha ceoil ar chor ar bith. | I don't like music programmes at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha cainte ar chor ar bith. | I don't like talk shows at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha dúlra ar chor ar bith. | I don't like nature programmes at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom seacláid ar chor ar bith. | I don't like chocolate at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom portán ar chor ar bith. | I don't like crab at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith ar chor ar bith. | I don't like go running. at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom amharc ar an teilifís ar chor ar bith. | I don't like watch television. at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol ar chor ar bith. | I don't like listen to music. at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh ar chor ar bith. | I don't like go swimming. at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin ar chor ar bith. | I don't like go to films. at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí ar chor ar bith. | I don't like go to plays. at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt ar chor ar bith. | I don't like tennis at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom leadóg a imirt ar chor ar bith. | I don't like play tennis at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol ar chor ar bith. | I don't like music at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol traidisiúnta ar chor ar bith. | I don't like traditional music at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol clasaiceach ar chor ar bith. | I don't like classical music at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom snagcheol ar chor ar bith. | I don't like jazz at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom roc-cheol ar chor ar bith. | I don't like rock music at all. |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom popcheol ar chor ar bith. | I don't like popular music at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha faisnéise ar chor ar bith. | I don't like documentaries at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha spóirt ar chor ar bith. | I don't like sports programmes at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha ceoil ar chor ar bith. | I don't like music programmes at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha cainte ar chor ar bith. | I don't like talk shows at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha dúlra ar chor ar bith. | I don't like nature programmes at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom seacláid ar chor ar bith. | I don't like chocolate at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom portán ar chor ar bith. | I don't like crab at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith ar chor ar bith. | I don't like go running. at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom amharc ar an teilifís ar chor ar bith. | I don't like watch television. at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol ar chor ar bith. | I don't like listen to music. at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh ar chor ar bith. | I don't like go swimming. at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin ar chor ar bith. | I don't like go to films. at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí ar chor ar bith. | I don't like go to plays. at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt ar chor ar bith. | I don't like tennis at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom leadóg a imirt ar chor ar bith. | I don't like play tennis at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol ar chor ar bith. | I don't like music at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol traidisiúnta ar chor ar bith. | I don't like traditional music at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol clasaiceach ar chor ar bith. | I don't like classical music at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom snagcheol ar chor ar bith. | I don't like jazz at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom roc-cheol ar chor ar bith. | I don't like rock music at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom popcheol ar chor ar bith. | I don't like popular music at all. |  |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Ní maith liom ar chor ar bith é. | I don't like it at all. |  |  |  |  | ...ar har a bee ay |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Ní maith liom ar chor ar bith iad. | I don't like them at all. |  |  |  |  | ...ar har a bee ead |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | Is fuath liom $THINGS_TO_LIKE | I hate $THINGS_TO_LIKE |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha faisnéise | I hate documentaries |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha spóirt | I hate sports programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha ceoil | I hate music programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha cainte | I hate talk shows |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha dúlra | I hate nature programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom seacláid | I hate chocolate |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom portán | I hate crab |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag rith | I hate go running. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom amharc ar an teilifís | I hate watch television. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom éisteacht le ceol | I hate listen to music. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag snámh | I hate go swimming. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig scannáin | I hate go to films. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig drámaí | I hate go to plays. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom imirt | I hate tennis |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom leadóg a imirt | I hate play tennis |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol | I hate music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol traidisiúnta | I hate traditional music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol clasaiceach | I hate classical music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom snagcheol | I hate jazz |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom roc-cheol | I hate rock music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom popcheol | I hate popular music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha faisnéise | I hate documentaries |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha spóirt | I hate sports programmes |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha ceoil | I hate music programmes |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha cainte | I hate talk shows |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha dúlra | I hate nature programmes |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom seacláid | I hate chocolate |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom portán | I hate crab |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag rith | I hate go running. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom amharc ar an teilifís | I hate watch television. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom éisteacht le ceol | I hate listen to music. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag snámh | I hate go swimming. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig scannáin | I hate go to films. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig drámaí | I hate go to plays. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom imirt | I hate tennis |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom leadóg a imirt | I hate play tennis |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol | I hate music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol traidisiúnta | I hate traditional music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol clasaiceach | I hate classical music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom snagcheol | I hate jazz |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom roc-cheol | I hate rock music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom popcheol | I hate popular music |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | An maith leat $THINGS_TO_LIKE? | Do you like $THINGS_TO_LIKE? |  |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha faisnéise? | Do you like documentaries? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha spóirt? | Do you like sports programmes? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha ceoil? | Do you like music programmes? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha cainte? | Do you like talk shows? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha dúlra? | Do you like nature programmes? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat seacláid? | Do you like chocolate? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat portán? | Do you like crab? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag rith? | Do you like go running.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat amharc ar an teilifís? | Do you like watch television.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat éisteacht le ceol? | Do you like listen to music.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag snámh? | Do you like go swimming.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig scannáin? | Do you like go to films.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig drámaí? | Do you like go to plays.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat imirt? | Do you like tennis? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat leadóg a imirt? | Do you like play tennis? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol? | Do you like music? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol traidisiúnta? | Do you like traditional music? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol clasaiceach? | Do you like classical music? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat snagcheol? | Do you like jazz? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat roc-cheol? | Do you like rock music? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat popcheol? | Do you like popular music? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha faisnéise? | Do you like documentaries? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha spóirt? | Do you like sports programmes? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha ceoil? | Do you like music programmes? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha cainte? | Do you like talk shows? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha dúlra? | Do you like nature programmes? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat seacláid? | Do you like chocolate? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat portán? | Do you like crab? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag rith? | Do you like go running.? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat amharc ar an teilifís? | Do you like watch television.? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat éisteacht le ceol? | Do you like listen to music.? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag snámh? | Do you like go swimming.? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig scannáin? | Do you like go to films.? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig drámaí? | Do you like go to plays.? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat imirt? | Do you like tennis? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat leadóg a imirt? | Do you like play tennis? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol? | Do you like music? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol traidisiúnta? | Do you like traditional music? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol clasaiceach? | Do you like classical music? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat snagcheol? | Do you like jazz? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat roc-cheol? | Do you like rock music? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat popcheol? | Do you like popular music? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | An maith libh $THINGS_TO_LIKE? | Do you like $$THINGS_TO_LIKE? |  |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha faisnéise? | Do you like documentaries? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha spóirt? | Do you like sports programmes? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha ceoil? | Do you like music programmes? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha cainte? | Do you like talk shows? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha dúlra? | Do you like nature programmes? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh seacláid? | Do you like chocolate? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh portán? | Do you like crab? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag rith? | Do you like go running.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh amharc ar an teilifís? | Do you like watch television.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh éisteacht le ceol? | Do you like listen to music.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag snámh? | Do you like go swimming.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig scannáin? | Do you like go to films.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig drámaí? | Do you like go to plays.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh imirt? | Do you like tennis? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh leadóg a imirt? | Do you like play tennis? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol? | Do you like music? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol traidisiúnta? | Do you like traditional music? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol clasaiceach? | Do you like classical music? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh snagcheol? | Do you like jazz? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh roc-cheol? | Do you like rock music? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh popcheol? | Do you like popular music? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha faisnéise? | Do you like documentaries? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha spóirt? | Do you like sports programmes? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha ceoil? | Do you like music programmes? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha cainte? | Do you like talk shows? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha dúlra? | Do you like nature programmes? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh seacláid? | Do you like chocolate? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh portán? | Do you like crab? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag rith? | Do you like go running.? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh amharc ar an teilifís? | Do you like watch television.? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh éisteacht le ceol? | Do you like listen to music.? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag snámh? | Do you like go swimming.? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig scannáin? | Do you like go to films.? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig drámaí? | Do you like go to plays.? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh imirt? | Do you like tennis? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh leadóg a imirt? | Do you like play tennis? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol? | Do you like music? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol traidisiúnta? | Do you like traditional music? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol clasaiceach? | Do you like classical music? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh snagcheol? | Do you like jazz? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh roc-cheol? | Do you like rock music? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh popcheol? | Do you like popular music? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag garraíodóireacht | gardening |  |  |  |  | ag garaderact |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag péinteáil | painting |  |  |  |  | ag paint-al |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag cócaireacht | cooking |  |  |  |  | ag cocker-act |  |  |
@@ -855,71 +855,71 @@
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag léamh | reading |  |  |  |  | ag lay-oh |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag siúl | walking |  |  |  |  | ag shool |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | Is maith liom a bheith $THINGS_TO_LIKE_TO_DO | I like $THINGS_TO_LIKE_TO_DO |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag garraíodóireacht | I like gardening |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag péinteáil | I like painting |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag cócaireacht | I like cooking |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag iascaireacht | I like fishing |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag léamh | I like reading |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag siúl | I like walking |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag garraíodóireacht | I like gardening |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag péinteáil | I like painting |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag cócaireacht | I like cooking |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag iascaireacht | I like fishing |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag léamh | I like reading |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag siúl | I like walking |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | Ní maith liom a bheith $THINGS_TO_LIKE_TO_DO | I like $THINGS_TO_LIKE_TO_DO |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag garraíodóireacht | I like gardening |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag péinteáil | I like painting |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag cócaireacht | I like cooking |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag iascaireacht | I like fishing |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag léamh | I like reading |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag siúl | I like walking |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag garraíodóireacht | I like gardening |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag péinteáil | I like painting |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag cócaireacht | I like cooking |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag iascaireacht | I like fishing |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag léamh | I like reading |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag siúl | I like walking |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | Is fuath liom a bheith $THINGS_TO_LIKE_TO_DO | I like $THINGS_TO_LIKE_TO_DO |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag garraíodóireacht | I like gardening |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag péinteáil | I like painting |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag cócaireacht | I like cooking |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag iascaireacht | I like fishing |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag léamh | I like reading |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag siúl | I like walking |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag garraíodóireacht | I like gardening |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag péinteáil | I like painting |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag cócaireacht | I like cooking |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag iascaireacht | I like fishing |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag léamh | I like reading |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag siúl | I like walking |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD |  | Cineál | Type |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | An maith leat $THINGS_TO_LIKE? | Do you like $THINGS_TO_LIKE? |  |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha faisnéise? | Do you like documentaries? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha spóirt? | Do you like sports programmes? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha ceoil? | Do you like music programmes? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha cainte? | Do you like talk shows? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha dúlra? | Do you like nature programmes? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat seacláid? | Do you like chocolate? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat portán? | Do you like crab? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag rith? | Do you like go running.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat amharc ar an teilifís? | Do you like watch television.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat éisteacht le ceol? | Do you like listen to music.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag snámh? | Do you like go swimming.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig scannáin? | Do you like go to films.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig drámaí? | Do you like go to plays.? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat imirt? | Do you like tennis? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat leadóg a imirt? | Do you like play tennis? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol? | Do you like music? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol traidisiúnta? | Do you like traditional music? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol clasaiceach? | Do you like classical music? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat snagcheol? | Do you like jazz? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat roc-cheol? | Do you like rock music? |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat popcheol? | Do you like popular music? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha faisnéise? | Do you like documentaries? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha spóirt? | Do you like sports programmes? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha ceoil? | Do you like music programmes? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha cainte? | Do you like talk shows? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha dúlra? | Do you like nature programmes? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat seacláid? | Do you like chocolate? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat portán? | Do you like crab? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag rith? | Do you like go running.? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat amharc ar an teilifís? | Do you like watch television.? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat éisteacht le ceol? | Do you like listen to music.? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag snámh? | Do you like go swimming.? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig scannáin? | Do you like go to films.? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig drámaí? | Do you like go to plays.? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat imirt? | Do you like tennis? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat leadóg a imirt? | Do you like play tennis? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol? | Do you like music? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol traidisiúnta? | Do you like traditional music? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol clasaiceach? | Do you like classical music? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat snagcheol? | Do you like jazz? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat roc-cheol? | Do you like rock music? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat popcheol? | Do you like popular music? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | An maith libh $THINGS_TO_LIKE? | Do you like $$THINGS_TO_LIKE? |  |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha faisnéise? | Do you like documentaries? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha spóirt? | Do you like sports programmes? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha ceoil? | Do you like music programmes? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha cainte? | Do you like talk shows? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha dúlra? | Do you like nature programmes? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh seacláid? | Do you like chocolate? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh portán? | Do you like crab? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag rith? | Do you like go running.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh amharc ar an teilifís? | Do you like watch television.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh éisteacht le ceol? | Do you like listen to music.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag snámh? | Do you like go swimming.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig scannáin? | Do you like go to films.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig drámaí? | Do you like go to plays.? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh imirt? | Do you like tennis? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh leadóg a imirt? | Do you like play tennis? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol? | Do you like music? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol traidisiúnta? | Do you like traditional music? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol clasaiceach? | Do you like classical music? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh snagcheol? | Do you like jazz? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh roc-cheol? | Do you like rock music? |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh popcheol? | Do you like popular music? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha faisnéise? | Do you like documentaries? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha spóirt? | Do you like sports programmes? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha ceoil? | Do you like music programmes? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha cainte? | Do you like talk shows? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha dúlra? | Do you like nature programmes? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh seacláid? | Do you like chocolate? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh portán? | Do you like crab? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag rith? | Do you like go running.? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh amharc ar an teilifís? | Do you like watch television.? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh éisteacht le ceol? | Do you like listen to music.? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag snámh? | Do you like go swimming.? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig scannáin? | Do you like go to films.? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig drámaí? | Do you like go to plays.? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh imirt? | Do you like tennis? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh leadóg a imirt? | Do you like play tennis? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol? | Do you like music? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol traidisiúnta? | Do you like traditional music? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol clasaiceach? | Do you like classical music? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh snagcheol? | Do you like jazz? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh roc-cheol? | Do you like rock music? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh popcheol? | Do you like popular music? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Is maith. | Yes. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Ní maith. | No. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Is breá liom é/í/iad. | I really like it. |  |  |  |  |  |  |  |
@@ -930,27 +930,27 @@
 | NYT | Expressing Opinions |  | QUESTION |  | An maith leatsa é? | Do you like it? |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | QUESTION |  | An maith leat féin é? | Do you like it yourself? |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Is fearr liom $THINGS_TO_LIKE | I prefer $THINGS_TO_LIKE |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha faisnéise | I prefer documentaries |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha spóirt | I prefer sports programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha ceoil | I prefer music programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha cainte | I prefer talk shows |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha dúlra | I prefer nature programmes |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom seacláid | I prefer chocolate |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom portán | I prefer crab |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag rith | I prefer go running. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom amharc ar an teilifís | I prefer watch television. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom éisteacht le ceol | I prefer listen to music. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag snámh | I prefer go swimming. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig scannáin | I prefer go to films. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig drámaí | I prefer go to plays. |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom imirt | I prefer tennis |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom leadóg a imirt | I prefer play tennis |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol | I prefer music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol traidisiúnta | I prefer traditional music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol clasaiceach | I prefer classical music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom snagcheol | I prefer jazz |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom roc-cheol | I prefer rock music |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom popcheol | I prefer popular music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha faisnéise | I prefer documentaries |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha spóirt | I prefer sports programmes |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha ceoil | I prefer music programmes |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha cainte | I prefer talk shows |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha dúlra | I prefer nature programmes |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom seacláid | I prefer chocolate |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom portán | I prefer crab |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag rith | I prefer go running. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom amharc ar an teilifís | I prefer watch television. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom éisteacht le ceol | I prefer listen to music. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag snámh | I prefer go swimming. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig scannáin | I prefer go to films. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig drámaí | I prefer go to plays. |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom imirt | I prefer tennis |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom leadóg a imirt | I prefer play tennis |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol | I prefer music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol traidisiúnta | I prefer traditional music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol clasaiceach | I prefer classical music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom snagcheol | I prefer jazz |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom roc-cheol | I prefer rock music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom popcheol | I prefer popular music |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Is maith liom snagcheoil ach is fearr liom ceol traidisiúnta. | I like jazz but I prefer traditional music. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Is maith liomsa fosta é | I like it too/as well |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Is fearr liomsa fosta é | I prefer it too/as well |  |  |  |  |  |  |  |
@@ -1024,60 +1024,60 @@
 | NYT | ORDERING DRINKS |  | QUESTION |  | Cad é atá de dhíth ort? | What do you want? |  |  |  |  |  |  | You can use the following when addressing a friend or family member: |
 | NYT | ORDERING DRINKS |  | QUESTION |  | Cad é atá de dhíth oraibh? | What do you want?  |  | p |  |  |  |  | You can use the following when addressing a friend or family member: |
 | NYT | ORDERING DRINKS |  | TEMPLATE |  | Ba mhaith liom $WHAT_YOU_WANT | I'd like $WHAT_YOU_WANT |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom caife | I'd like coffee |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom caife dubh | I'd like black coffee |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom caife bán | I'd like white coffee |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom tae | I'd like tea |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom tae láidir | I'd like strong tea |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom tae lag | I'd like weak tea |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom sú oráiste | I'd like orange juice |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom uisce | I'd like water |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom beoir | I'd like beer |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom fíon bán | I'd like white wine |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom fíon dearg | I'd like red wine |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom uisce beatha | I'd like whiskey |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom sceallógaí | I'd like chips |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom briosca | I'd like a biscuit |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom bágún | I'd like bacon |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom pota tae | I'd like a pot of tea |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom gloine uisce | I'd like a glass of water |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom pionta beorach | I'd like a pint of beer |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom cupa tae | I'd like cup of tea |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom tae le bainne | I'd like tea with milk |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom leac oighir | I'd like ice |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom uachtar reoite | I'd like ice cream |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom ceapaire | I'd like sandwich |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom milseáin | I'd like sweets |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom úll | I'd like apple |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom cuidiú | I'd like help |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom caife | I'd like coffee |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom caife dubh | I'd like black coffee |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom caife bán | I'd like white coffee |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom tae | I'd like tea |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom tae láidir | I'd like strong tea |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom tae lag | I'd like weak tea |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom sú oráiste | I'd like orange juice |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom uisce | I'd like water |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom beoir | I'd like beer |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom fíon bán | I'd like white wine |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom fíon dearg | I'd like red wine |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom uisce beatha | I'd like whiskey |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom sceallógaí | I'd like chips |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom briosca | I'd like a biscuit |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom bágún | I'd like bacon |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom pota tae | I'd like a pot of tea |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom gloine uisce | I'd like a glass of water |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom pionta beorach | I'd like a pint of beer |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom cupa tae | I'd like cup of tea |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom tae le bainne | I'd like tea with milk |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom leac oighir | I'd like ice |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom uachtar reoite | I'd like ice cream |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom ceapaire | I'd like sandwich |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom milseáin | I'd like sweets |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom úll | I'd like apple |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom cuidiú | I'd like help |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Ba mhaith liom ag dul amach | I'd like to go out |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | TEMPLATE |  | $WHAT_YOU_WANT domhsa. | $WHAT_YOU_WANT for me. |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | caife domhsa. | coffee for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | caife dubh domhsa. | black coffee for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | caife bán domhsa. | white coffee for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | tae domhsa. | tea for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | tae láidir domhsa. | strong tea for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | tae lag domhsa. | weak tea for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | sú oráiste domhsa. | orange juice for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | uisce domhsa. | water for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | beoir domhsa. | beer for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | fíon bán domhsa. | white wine for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | fíon dearg domhsa. | red wine for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | uisce beatha domhsa. | whiskey for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | sceallógaí domhsa. | chips for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | briosca domhsa. | a biscuit for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | bágún domhsa. | bacon for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | pota tae domhsa. | a pot of tea for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | gloine uisce domhsa. | a glass of water for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | pionta beorach domhsa. | a pint of beer for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | cupa tae domhsa. | cup of tea for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | tae le bainne domhsa. | tea with milk for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | leac oighir domhsa. | ice for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | uachtar reoite domhsa. | ice cream for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | ceapaire domhsa. | sandwich for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | milseáin domhsa. | sweets for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | úll domhsa. | apple for me. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | cuidiú domhsa. | help for me. |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | caife domhsa. | coffee for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | caife dubh domhsa. | black coffee for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | caife bán domhsa. | white coffee for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | tae domhsa. | tea for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | tae láidir domhsa. | strong tea for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | tae lag domhsa. | weak tea for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | sú oráiste domhsa. | orange juice for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | uisce domhsa. | water for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | beoir domhsa. | beer for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | fíon bán domhsa. | white wine for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | fíon dearg domhsa. | red wine for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | uisce beatha domhsa. | whiskey for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | sceallógaí domhsa. | chips for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | briosca domhsa. | a biscuit for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | bágún domhsa. | bacon for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | pota tae domhsa. | a pot of tea for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | gloine uisce domhsa. | a glass of water for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | pionta beorach domhsa. | a pint of beer for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | cupa tae domhsa. | cup of tea for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | tae le bainne domhsa. | tea with milk for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | leac oighir domhsa. | ice for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | uachtar reoite domhsa. | ice cream for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | ceapaire domhsa. | sandwich for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | milseáin domhsa. | sweets for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | úll domhsa. | apple for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | cuidiú domhsa. | help for me. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | QUESTION |  | Rud ar bith eile? | Anything else? |  |  |  |  | Rud ar bee ella? |  |  |
 | NYT | ORDERING DRINKS |  | PHRASE |  | ... le do thoil. | ... please. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Go raibh maith agat. | Thank you. |  |  |  |  |  |  |  |
@@ -1089,59 +1089,59 @@
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Tógaim. | I do. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Ní thógaim. | I don't. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | TEMPLATE |  | Ar mhaith leat $WHAT_YOU_WANT? | Would you like $WHAT_YOU_WANT? |  | s |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat caife? | Would you like coffee? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat caife dubh? | Would you like black coffee? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat caife bán? | Would you like white coffee? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat tae? | Would you like tea? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat tae láidir? | Would you like strong tea? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat tae lag? | Would you like weak tea? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat sú oráiste? | Would you like orange juice? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat uisce? | Would you like water? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat beoir? | Would you like beer? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat fíon bán? | Would you like white wine? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat fíon dearg? | Would you like red wine? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat uisce beatha? | Would you like whiskey? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat sceallógaí? | Would you like chips? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat briosca? | Would you like a biscuit? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat bágún? | Would you like bacon? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat pota tae? | Would you like a pot of tea? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat gloine uisce? | Would you like a glass of water? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat pionta beorach? | Would you like a pint of beer? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat cupa tae? | Would you like cup of tea? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat tae le bainne? | Would you like tea with milk? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat leac oighir? | Would you like ice? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat uachtar reoite? | Would you like ice cream? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat ceapaire? | Would you like sandwich? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat milseáin? | Would you like sweets? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat úll? | Would you like apple? |  | s |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat cuidiú? | Would you like help? |  | s |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat caife? | Would you like coffee? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat caife dubh? | Would you like black coffee? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat caife bán? | Would you like white coffee? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat tae? | Would you like tea? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat tae láidir? | Would you like strong tea? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat tae lag? | Would you like weak tea? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat sú oráiste? | Would you like orange juice? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat uisce? | Would you like water? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat beoir? | Would you like beer? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat fíon bán? | Would you like white wine? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat fíon dearg? | Would you like red wine? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat uisce beatha? | Would you like whiskey? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat sceallógaí? | Would you like chips? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat briosca? | Would you like a biscuit? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat bágún? | Would you like bacon? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat pota tae? | Would you like a pot of tea? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat gloine uisce? | Would you like a glass of water? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat pionta beorach? | Would you like a pint of beer? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat cupa tae? | Would you like cup of tea? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat tae le bainne? | Would you like tea with milk? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat leac oighir? | Would you like ice? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat uachtar reoite? | Would you like ice cream? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat ceapaire? | Would you like sandwich? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat milseáin? | Would you like sweets? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat úll? | Would you like apple? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat cuidiú? | Would you like help? |  | s |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | TEMPLATE |  | Ar mhaith libh $WHAT_YOU_WANT? | Would you like $WHAT_YOU_WANT? |  | p |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh caife? | Would you like coffee? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh caife dubh? | Would you like black coffee? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh caife bán? | Would you like white coffee? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh tae? | Would you like tea? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh tae láidir? | Would you like strong tea? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh tae lag? | Would you like weak tea? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh sú oráiste? | Would you like orange juice? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh uisce? | Would you like water? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh beoir? | Would you like beer? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh fíon bán? | Would you like white wine? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh fíon dearg? | Would you like red wine? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh uisce beatha? | Would you like whiskey? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh sceallógaí? | Would you like chips? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh briosca? | Would you like a biscuit? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh bágún? | Would you like bacon? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh pota tae? | Would you like a pot of tea? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh gloine uisce? | Would you like a glass of water? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh pionta beorach? | Would you like a pint of beer? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh cupa tae? | Would you like cup of tea? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh tae le bainne? | Would you like tea with milk? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh leac oighir? | Would you like ice? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh uachtar reoite? | Would you like ice cream? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh ceapaire? | Would you like sandwich? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh milseáin? | Would you like sweets? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh úll? | Would you like apple? |  | p |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh cuidiú? | Would you like help? |  | p |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh caife? | Would you like coffee? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh caife dubh? | Would you like black coffee? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh caife bán? | Would you like white coffee? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh tae? | Would you like tea? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh tae láidir? | Would you like strong tea? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh tae lag? | Would you like weak tea? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh sú oráiste? | Would you like orange juice? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh uisce? | Would you like water? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh beoir? | Would you like beer? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh fíon bán? | Would you like white wine? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh fíon dearg? | Would you like red wine? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh uisce beatha? | Would you like whiskey? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh sceallógaí? | Would you like chips? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh briosca? | Would you like a biscuit? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh bágún? | Would you like bacon? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh pota tae? | Would you like a pot of tea? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh gloine uisce? | Would you like a glass of water? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh pionta beorach? | Would you like a pint of beer? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh cupa tae? | Would you like cup of tea? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh tae le bainne? | Would you like tea with milk? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh leac oighir? | Would you like ice? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh uachtar reoite? | Would you like ice cream? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh ceapaire? | Would you like sandwich? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh milseáin? | Would you like sweets? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh úll? | Would you like apple? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh cuidiú? | Would you like help? |  | p |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Ba mhaith. | Yes (I would). |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Níor mhaith. | No (I wouldn't). |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | B'fhearr ... | I'd prefer ... |  |  |  |  | bear... |  |  |
@@ -1149,59 +1149,59 @@
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Sláinte! | Cheers! |  |  |  | Health! |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Sláinte mhór | Cheers (response??) |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | $WHAT_YOU_WANT duitse. | $WHAT_YOU_WANT for you. |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | caife duitse. | coffee for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | caife dubh duitse. | black coffee for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | caife bán duitse. | white coffee for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | tae duitse. | tea for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | tae láidir duitse. | strong tea for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | tae lag duitse. | weak tea for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | sú oráiste duitse. | orange juice for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | uisce duitse. | water for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | beoir duitse. | beer for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | fíon bán duitse. | white wine for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | fíon dearg duitse. | red wine for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | uisce beatha duitse. | whiskey for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | sceallógaí duitse. | chips for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | briosca duitse. | a biscuit for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | bágún duitse. | bacon for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | pota tae duitse. | a pot of tea for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | gloine uisce duitse. | a glass of water for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | pionta beorach duitse. | a pint of beer for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | cupa tae duitse. | cup of tea for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | tae le bainne duitse. | tea with milk for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | leac oighir duitse. | ice for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | uachtar reoite duitse. | ice cream for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | ceapaire duitse. | sandwich for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | milseáin duitse. | sweets for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | úll duitse. | apple for you. |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | cuidiú duitse. | help for you. |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | caife duitse. | coffee for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | caife dubh duitse. | black coffee for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | caife bán duitse. | white coffee for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | tae duitse. | tea for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | tae láidir duitse. | strong tea for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | tae lag duitse. | weak tea for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | sú oráiste duitse. | orange juice for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | uisce duitse. | water for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | beoir duitse. | beer for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | fíon bán duitse. | white wine for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | fíon dearg duitse. | red wine for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | uisce beatha duitse. | whiskey for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | sceallógaí duitse. | chips for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | briosca duitse. | a biscuit for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | bágún duitse. | bacon for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | pota tae duitse. | a pot of tea for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | gloine uisce duitse. | a glass of water for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | pionta beorach duitse. | a pint of beer for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | cupa tae duitse. | cup of tea for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | tae le bainne duitse. | tea with milk for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | leac oighir duitse. | ice for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | uachtar reoite duitse. | ice cream for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | ceapaire duitse. | sandwich for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | milseáin duitse. | sweets for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | úll duitse. | apple for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | cuidiú duitse. | help for you. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Seo do $WHAT_YOU_WANT | Here's your $WHAT_YOU_WANT |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do caife | Here's your coffee |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do caife dubh | Here's your black coffee |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do caife bán | Here's your white coffee |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do tae | Here's your tea |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do tae láidir | Here's your strong tea |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do tae lag | Here's your weak tea |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do sú oráiste | Here's your orange juice |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do uisce | Here's your water |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do beoir | Here's your beer |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do fíon bán | Here's your white wine |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do fíon dearg | Here's your red wine |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do uisce beatha | Here's your whiskey |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do sceallógaí | Here's your chips |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do briosca | Here's your a biscuit |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do bágún | Here's your bacon |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do pota tae | Here's your a pot of tea |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do gloine uisce | Here's your a glass of water |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do pionta beorach | Here's your a pint of beer |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do cupa tae | Here's your cup of tea |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do tae le bainne | Here's your tea with milk |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do leac oighir | Here's your ice |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do uachtar reoite | Here's your ice cream |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do ceapaire | Here's your sandwich |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do milseáin | Here's your sweets |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do úll | Here's your apple |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do cuidiú | Here's your help |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do caife | Here's your coffee |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do caife dubh | Here's your black coffee |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do caife bán | Here's your white coffee |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do tae | Here's your tea |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do tae láidir | Here's your strong tea |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do tae lag | Here's your weak tea |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do sú oráiste | Here's your orange juice |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do uisce | Here's your water |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do beoir | Here's your beer |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do fíon bán | Here's your white wine |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do fíon dearg | Here's your red wine |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do uisce beatha | Here's your whiskey |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do sceallógaí | Here's your chips |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do briosca | Here's your a biscuit |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do bágún | Here's your bacon |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do pota tae | Here's your a pot of tea |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do gloine uisce | Here's your a glass of water |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do pionta beorach | Here's your a pint of beer |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do cupa tae | Here's your cup of tea |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do tae le bainne | Here's your tea with milk |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do leac oighir | Here's your ice |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do uachtar reoite | Here's your ice cream |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do ceapaire | Here's your sandwich |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do milseáin | Here's your sweets |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do úll | Here's your apple |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do cuidiú | Here's your help |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Sláinte mhaith agat i bhfad ó bhrón. | Good health, free from sorrow. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Sláinte do bheo agus tróicaire do mharbh. | Health to the living and mercy on the dead. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Go mba fada a mhairfidh tú. | Long life to you |  |  |  |  |  |  |  |
@@ -1291,20 +1291,20 @@
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | san oíche | in the night |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go Gaillimh... | I'm going to Galway... |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | TEMPLATE |  | Tá mé ag dul $GOING_WHEN | I'm going $GOING_WHEN |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a dó a chlog | I'm going at two o'clock |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann leathuair an chloig | I'm going in half an hour |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann uair an chloig | I'm going in an hour's time |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire go leith | I'm going in three-and-a-half hours' time |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul anois | I'm going now |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul níos moille | I'm going later |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann tamaill | I'm going in a while |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul anocht | I'm going tonight |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul amárach | I'm going tomorrow |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul ar maidin | I'm going in the morning |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul meán lae | I'm going midday |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul san iarnóin | I'm going in the afternoon |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul tráthnóna | I'm going in the evening |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul san oíche | I'm going in the night |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a dó a chlog | I'm going at two o'clock |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann leathuair an chloig | I'm going in half an hour |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann uair an chloig | I'm going in an hour's time |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire go leith | I'm going in three-and-a-half hours' time |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul anois | I'm going now |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul níos moille | I'm going later |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann tamaill | I'm going in a while |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul anocht | I'm going tonight |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul amárach | I'm going tomorrow |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul ar maidin | I'm going in the morning |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul meán lae | I'm going midday |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul san iarnóin | I'm going in the afternoon |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul tráthnóna | I'm going in the evening |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul san oíche | I'm going in the night |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | uair | an hour |  |  |  |  |  |  | This word occurs quite frequently in everyday speech, so it is well worth learning the different forms. |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | dhá uair | two hours |  |  |  |  |  |  | The word uair is irregular when preceded by numbers: |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | trí huaire | Three hours |  |  |  |  |  |  |  |
@@ -1316,57 +1316,57 @@
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | naoi n-uaire | nine hours |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | deich n-uaire | ten hours |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith $HOUR_O_CLOCK | It's almost $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a haon a chlog | It's almost 1 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a dó a chlog | It's almost 2 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a trí a chlog | It's almost 3 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a ceathair a chlog | It's almost 4 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a cúig a chlog | It's almost 5 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a sé a chlog | It's almost 6 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a seacht a chlog | It's almost 7 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a hocht a chlog | It's almost 8 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a naoi a chlog | It's almost 9 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a deich a chlog | It's almost 10 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a haon déag a chlog | It's almost 11 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a dó dhéag a chlog | It's almost 12 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a haon a chlog | It's almost 1 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a dó a chlog | It's almost 2 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a trí a chlog | It's almost 3 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a ceathair a chlog | It's almost 4 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a cúig a chlog | It's almost 5 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a sé a chlog | It's almost 6 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a seacht a chlog | It's almost 7 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a hocht a chlog | It's almost 8 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a naoi a chlog | It's almost 9 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a deich a chlog | It's almost 10 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a haon déag a chlog | It's almost 11 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a dó dhéag a chlog | It's almost 12 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith leath i ndiaidh $HOUR_O_CLOCK | It's almost half past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon a chlog | It's almost half past 1 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó a chlog | It's almost half past 2 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a trí a chlog | It's almost half past 3 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a ceathair a chlog | It's almost half past 4 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a cúig a chlog | It's almost half past 5 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a sé a chlog | It's almost half past 6 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a seacht a chlog | It's almost half past 7 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a hocht a chlog | It's almost half past 8 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a naoi a chlog | It's almost half past 9 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a deich a chlog | It's almost half past 10 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon déag a chlog | It's almost half past 11 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó dhéag a chlog | It's almost half past 12 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon a chlog | It's almost half past 1 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó a chlog | It's almost half past 2 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a trí a chlog | It's almost half past 3 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a ceathair a chlog | It's almost half past 4 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a cúig a chlog | It's almost half past 5 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a sé a chlog | It's almost half past 6 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a seacht a chlog | It's almost half past 7 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a hocht a chlog | It's almost half past 8 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a naoi a chlog | It's almost half past 9 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a deich a chlog | It's almost half past 10 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon déag a chlog | It's almost half past 11 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó dhéag a chlog | It's almost half past 12 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú go dtí $HOUR_O_CLOCK | It's almost quarter to $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon a chlog | It's almost quarter to 1 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó a chlog | It's almost quarter to 2 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a trí a chlog | It's almost quarter to 3 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a ceathair a chlog | It's almost quarter to 4 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a cúig a chlog | It's almost quarter to 5 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a sé a chlog | It's almost quarter to 6 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a seacht a chlog | It's almost quarter to 7 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a hocht a chlog | It's almost quarter to 8 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a naoi a chlog | It's almost quarter to 9 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a deich a chlog | It's almost quarter to 10 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon déag a chlog | It's almost quarter to 11 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó dhéag a chlog | It's almost quarter to 12 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon a chlog | It's almost quarter to 1 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó a chlog | It's almost quarter to 2 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a trí a chlog | It's almost quarter to 3 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a ceathair a chlog | It's almost quarter to 4 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a cúig a chlog | It's almost quarter to 5 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a sé a chlog | It's almost quarter to 6 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a seacht a chlog | It's almost quarter to 7 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a hocht a chlog | It's almost quarter to 8 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a naoi a chlog | It's almost quarter to 9 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a deich a chlog | It's almost quarter to 10 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon déag a chlog | It's almost quarter to 11 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó dhéag a chlog | It's almost quarter to 12 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú i ndiaidh $HOUR_O_CLOCK | It's almost quarter past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon a chlog | It's almost quarter past 1 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó a chlog | It's almost quarter past 2 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a trí a chlog | It's almost quarter past 3 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a ceathair a chlog | It's almost quarter past 4 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a cúig a chlog | It's almost quarter past 5 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a sé a chlog | It's almost quarter past 6 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a seacht a chlog | It's almost quarter past 7 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a hocht a chlog | It's almost quarter past 8 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a naoi a chlog | It's almost quarter past 9 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a deich a chlog | It's almost quarter past 10 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon déag a chlog | It's almost quarter past 11 o’clock |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó dhéag a chlog | It's almost quarter past 12 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon a chlog | It's almost quarter past 1 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó a chlog | It's almost quarter past 2 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a trí a chlog | It's almost quarter past 3 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a ceathair a chlog | It's almost quarter past 4 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a cúig a chlog | It's almost quarter past 5 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a sé a chlog | It's almost quarter past 6 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a seacht a chlog | It's almost quarter past 7 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a hocht a chlog | It's almost quarter past 8 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a naoi a chlog | It's almost quarter past 9 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a deich a chlog | It's almost quarter past 10 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon déag a chlog | It's almost quarter past 11 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó dhéag a chlog | It's almost quarter past 12 o’clock |  |  |  |  | Taw shay hor a veh |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | scrúdú | exam |  |  |  |  |  |  | as in "scrúdú ar maidin" == "exam in the morning" |
 
 ## NYT - DISCUSSING JOBS
@@ -1402,49 +1402,49 @@
 | NYT | DISCUSSING JOBS |  | WORD |  | bunscoil | primary school |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | WORD |  | meánscoil | secondary school |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | TEMPLATE |  | Is $JOB mé. | I'm a $JOB |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is feirmeoir mé. | I'm a farmer |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is siopadóir mé. | I'm a shopkeeper |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is búistéir mé. | I'm a butcher |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is meicneoir mé. | I'm a mechanic |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir mé. | I'm a teacher |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is rúnaí mé. | I'm a secretary |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is oibrí monarchan mé. | I'm a factory worker |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is banaltra mé. | I'm a nurse |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is dochtúir mé. | I'm a doctor |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is tiománaí mé. | I'm a driver |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is bainisteoir mé. | I'm a manager |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is freastalaí mé. | I'm a waiter |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is tógálaí mé. | I'm a builder |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is siúinéir mé. | I'm a carpenter |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is bean tí mé. | I'm a housewife |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is leictreoir mé. | I'm a electrician |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is iascaire mé. | I'm a fisherman |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is innealtóir mé. | I'm a engineer |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is innealtóir ríomhaireachta mé. | I'm a computer engineer |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is ríomhchláraitheoir mé. | I'm a programmer |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is aisteoir mé. | I'm a actor |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is feirmeoir mé. | I'm a farmer |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is siopadóir mé. | I'm a shopkeeper |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is búistéir mé. | I'm a butcher |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is meicneoir mé. | I'm a mechanic |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir mé. | I'm a teacher |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is rúnaí mé. | I'm a secretary |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is oibrí monarchan mé. | I'm a factory worker |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is banaltra mé. | I'm a nurse |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is dochtúir mé. | I'm a doctor |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is tiománaí mé. | I'm a driver |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is bainisteoir mé. | I'm a manager |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is freastalaí mé. | I'm a waiter |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is tógálaí mé. | I'm a builder |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is siúinéir mé. | I'm a carpenter |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is bean tí mé. | I'm a housewife |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is leictreoir mé. | I'm a electrician |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is iascaire mé. | I'm a fisherman |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is innealtóir mé. | I'm a engineer |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is innealtóir ríomhaireachta mé. | I'm a computer engineer |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is ríomhchláraitheoir mé. | I'm a programmer |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is aisteoir mé. | I'm a actor |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | TEMPLATE |  | $JOB atá ionam | I'm a $JOB |  |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | feirmeoir atá ionam | I'm a farmer |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | siopadóir atá ionam | I'm a shopkeeper |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | búistéir atá ionam | I'm a butcher |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | meicneoir atá ionam | I'm a mechanic |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir atá ionam | I'm a teacher |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | rúnaí atá ionam | I'm a secretary |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | oibrí monarchan atá ionam | I'm a factory worker |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | banaltra atá ionam | I'm a nurse |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | dochtúir atá ionam | I'm a doctor |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | tiománaí atá ionam | I'm a driver |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | bainisteoir atá ionam | I'm a manager |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | freastalaí atá ionam | I'm a waiter |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | tógálaí atá ionam | I'm a builder |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | siúinéir atá ionam | I'm a carpenter |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | bean tí atá ionam | I'm a housewife |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | leictreoir atá ionam | I'm a electrician |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | iascaire atá ionam | I'm a fisherman |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir atá ionam | I'm a engineer |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir ríomhaireachta atá ionam | I'm a computer engineer |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | ríomhchláraitheoir atá ionam | I'm a programmer |  |  |  | .. atá unam |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | aisteoir atá ionam | I'm a actor |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | feirmeoir atá ionam | I'm a farmer |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | siopadóir atá ionam | I'm a shopkeeper |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | búistéir atá ionam | I'm a butcher |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | meicneoir atá ionam | I'm a mechanic |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir atá ionam | I'm a teacher |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | rúnaí atá ionam | I'm a secretary |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | oibrí monarchan atá ionam | I'm a factory worker |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | banaltra atá ionam | I'm a nurse |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | dochtúir atá ionam | I'm a doctor |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | tiománaí atá ionam | I'm a driver |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | bainisteoir atá ionam | I'm a manager |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | freastalaí atá ionam | I'm a waiter |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | tógálaí atá ionam | I'm a builder |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | siúinéir atá ionam | I'm a carpenter |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | bean tí atá ionam | I'm a housewife |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | leictreoir atá ionam | I'm a electrician |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | iascaire atá ionam | I'm a fisherman |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir atá ionam | I'm a engineer |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir ríomhaireachta atá ionam | I'm a computer engineer |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | ríomhchláraitheoir atá ionam | I'm a programmer |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | aisteoir atá ionam | I'm a actor |  |  |  |  | .. atá unam |  |  |
 | NYT | DISCUSSING JOBS |  | QUESTION |  | Cad é an post atá agat? | What job do you do? |  |  |  | Where are you working? |  |  |  |
 | NYT | DISCUSSING JOBS |  | QUESTION |  | Cad é an tslí bheatha atá agat? | What do you do for a living? |  |  |  |  | cadj ay an tshlee veha ataa agat |  |  |
 | NYT | DISCUSSING JOBS |  | QUESTION |  | Cad é an post atá ag Michael? | What job does Michael have? |  |  |  |  |  |  |  |
@@ -1464,43 +1464,43 @@
 | NYT | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i dteach tábhairne | in a pub |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | WORD |  | stáisiún peitril | petrol station |  |  |  |  | stashon petrol |  |  |
 | NYT | DISCUSSING JOBS |  | TEMPLATE |  | Tá mé ag obair $IN_WORKPLACE | I work $IN_WORKPLACE |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i monarcha | I work in a factory |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in oifig | I work in an office |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in scoil | I work in a school |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i siopa | I work in a shop |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i mbunscoil | I work in a primary school |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i meánscoil | I work in a secondary school |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in otharlann | I work in a hospital |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in óstán | I work in a hotel |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i gcaife | I work in a cafe |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i mbialann | I work in a restaurant |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i ngaráiste | I work in a garage |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in ollmhargadh | I work in a supermarket |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i dteach tábhairne | I work in a pub |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i monarcha | I work in a factory |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in oifig | I work in an office |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in scoil | I work in a school |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i siopa | I work in a shop |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i mbunscoil | I work in a primary school |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i meánscoil | I work in a secondary school |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in otharlann | I work in a hospital |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in óstán | I work in a hotel |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i gcaife | I work in a cafe |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i mbialann | I work in a restaurant |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i ngaráiste | I work in a garage |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in ollmhargadh | I work in a supermarket |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i dteach tábhairne | I work in a pub |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | TEMPLATE |  | Bhí mé ag obair $IN_WORKPLACE | I worked $IN_WORKPLACE |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i monarcha | I worked in a factory |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in oifig | I worked in an office |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in scoil | I worked in a school |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i siopa | I worked in a shop |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i mbunscoil | I worked in a primary school |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i meánscoil | I worked in a secondary school |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in otharlann | I worked in a hospital |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in óstán | I worked in a hotel |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i gcaife | I worked in a cafe |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i mbialann | I worked in a restaurant |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i ngaráiste | I worked in a garage |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in ollmhargadh | I worked in a supermarket |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i dteach tábhairne | I worked in a pub |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i monarcha | I worked in a factory |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in oifig | I worked in an office |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in scoil | I worked in a school |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i siopa | I worked in a shop |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i mbunscoil | I worked in a primary school |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i meánscoil | I worked in a secondary school |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in otharlann | I worked in a hospital |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in óstán | I worked in a hotel |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i gcaife | I worked in a cafe |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i mbialann | I worked in a restaurant |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i ngaráiste | I worked in a garage |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in ollmhargadh | I worked in a supermarket |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i dteach tábhairne | I worked in a pub |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | tá mé neirbhíseach | i am nervous |  |  |  |  | taa may nervishoch |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | SHOP_TYPE | siopa bróg | shoe shop |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | SHOP_TYPE | siopa leabhar | bookshop |  |  |  |  | ta shopa loar agam |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | SHOP_TYPE | bácús | bakery |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | SHOP_TYPE | teach lóistín | guesthouse |  |  |  |  | ...lostcheen... |  |  |
 | NYT | DISCUSSING JOBS |  | TEMPLATE |  | Tá $SHOP_TYPE agam. | I have a $SHOP_TYPE. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá siopa bróg agam. | I have a shoe shop. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá siopa leabhar agam. | I have a bookshop. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá bácús agam. | I have a bakery. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá teach lóistín agam. | I have a guesthouse. |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá siopa bróg agam. | I have a shoe shop. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá siopa leabhar agam. | I have a bookshop. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá bácús agam. | I have a bakery. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá teach lóistín agam. | I have a guesthouse. |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | QUESTION |  | An maith leat do phost? | Do you like your job? |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | QUESTION |  | An maith leat do chuid oibre? | Do you like your work? |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | Níl mé ag obair ... | I'm not working... |  |  |  |  |  |  |  |
@@ -1509,75 +1509,75 @@
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | Tá mé éirithe as | I'm retired |  |  |  |  | ...airy-a ass |  |  |
 | NYT | DISCUSSING JOBS |  | QUESTION |  | Cad é an post a bhí agat? | What job did you have? |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | TEMPLATE |  | $JOB a bhí ionam | I was a $JOB |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | feirmeoir a bhí ionam | I was a farmer |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | siopadóir a bhí ionam | I was a shopkeeper |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | búistéir a bhí ionam | I was a butcher |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | meicneoir a bhí ionam | I was a mechanic |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir a bhí ionam | I was a teacher |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | rúnaí a bhí ionam | I was a secretary |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | oibrí monarchan a bhí ionam | I was a factory worker |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | banaltra a bhí ionam | I was a nurse |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | dochtúir a bhí ionam | I was a doctor |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | tiománaí a bhí ionam | I was a driver |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | bainisteoir a bhí ionam | I was a manager |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | freastalaí a bhí ionam | I was a waiter |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | tógálaí a bhí ionam | I was a builder |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | siúinéir a bhí ionam | I was a carpenter |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | bean tí a bhí ionam | I was a housewife |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | leictreoir a bhí ionam | I was a electrician |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | iascaire a bhí ionam | I was a fisherman |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir a bhí ionam | I was a engineer |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir ríomhaireachta a bhí ionam | I was a computer engineer |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | ríomhchláraitheoir a bhí ionam | I was a programmer |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | aisteoir a bhí ionam | I was a actor |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | feirmeoir a bhí ionam | I was a farmer |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | siopadóir a bhí ionam | I was a shopkeeper |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | búistéir a bhí ionam | I was a butcher |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | meicneoir a bhí ionam | I was a mechanic |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir a bhí ionam | I was a teacher |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | rúnaí a bhí ionam | I was a secretary |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | oibrí monarchan a bhí ionam | I was a factory worker |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | banaltra a bhí ionam | I was a nurse |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | dochtúir a bhí ionam | I was a doctor |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | tiománaí a bhí ionam | I was a driver |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | bainisteoir a bhí ionam | I was a manager |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | freastalaí a bhí ionam | I was a waiter |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | tógálaí a bhí ionam | I was a builder |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | siúinéir a bhí ionam | I was a carpenter |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | bean tí a bhí ionam | I was a housewife |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | leictreoir a bhí ionam | I was a electrician |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | iascaire a bhí ionam | I was a fisherman |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir a bhí ionam | I was a engineer |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir ríomhaireachta a bhí ionam | I was a computer engineer |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | ríomhchláraitheoir a bhí ionam | I was a programmer |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | aisteoir a bhí ionam | I was a actor |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | Ba mhúinteoir mé. | I was a teacher. |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | Ba mheicneoir mé. | I was a mechanic |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | B'oibrí monarchan mé. | I was a factory worker |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | B'fheirmeoir mé. | I was a farmer |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | TEMPLATE |  | $JOB a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | feirmeoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | siopadóir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | búistéir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | meicneoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | rúnaí a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | oibrí monarchan a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | banaltra a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | dochtúir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | tiománaí a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | bainisteoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | freastalaí a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | tógálaí a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | siúinéir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | bean tí a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | leictreoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | iascaire a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir ríomhaireachta a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | ríomhchláraitheoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | aisteoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | feirmeoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | siopadóir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | búistéir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | meicneoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | rúnaí a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | oibrí monarchan a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | banaltra a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | dochtúir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | tiománaí a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | bainisteoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | freastalaí a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | tógálaí a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | siúinéir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | bean tí a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | leictreoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | iascaire a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir ríomhaireachta a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | ríomhchláraitheoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | aisteoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | QUESTION |  | An $JOB tú? | Are you a $JOB? |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An feirmeoir tú? | Are you a farmer? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An siopadóir tú? | Are you a shopkeeper? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An búistéir tú? | Are you a butcher? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An meicneoir tú? | Are you a mechanic? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An múinteoir tú? | Are you a teacher? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An rúnaí tú? | Are you a secretary? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An oibrí monarchan tú? | Are you a factory worker? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An banaltra tú? | Are you a nurse? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An dochtúir tú? | Are you a doctor? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An tiománaí tú? | Are you a driver? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An bainisteoir tú? | Are you a manager? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An freastalaí tú? | Are you a waiter? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An tógálaí tú? | Are you a builder? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An siúinéir tú? | Are you a carpenter? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An bean tí tú? | Are you a housewife? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An leictreoir tú? | Are you a electrician? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An iascaire tú? | Are you a fisherman? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An innealtóir tú? | Are you a engineer? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An innealtóir ríomhaireachta tú? | Are you a computer engineer? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An ríomhchláraitheoir tú? | Are you a programmer? |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An aisteoir tú? | Are you a actor? |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An feirmeoir tú? | Are you a farmer? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An siopadóir tú? | Are you a shopkeeper? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An búistéir tú? | Are you a butcher? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An meicneoir tú? | Are you a mechanic? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An múinteoir tú? | Are you a teacher? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An rúnaí tú? | Are you a secretary? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An oibrí monarchan tú? | Are you a factory worker? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An banaltra tú? | Are you a nurse? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An dochtúir tú? | Are you a doctor? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An tiománaí tú? | Are you a driver? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An bainisteoir tú? | Are you a manager? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An freastalaí tú? | Are you a waiter? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An tógálaí tú? | Are you a builder? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An siúinéir tú? | Are you a carpenter? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An bean tí tú? | Are you a housewife? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An leictreoir tú? | Are you a electrician? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An iascaire tú? | Are you a fisherman? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An innealtóir tú? | Are you a engineer? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An innealtóir ríomhaireachta tú? | Are you a computer engineer? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An ríomhchláraitheoir tú? | Are you a programmer? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An aisteoir tú? | Are you a actor? |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | Is ea. | Yes (I am). |  |  |  |  | sha?? or ish-aa?? |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | Ní hea. | No (I'm not). |  |  |  |  | nee ha |  |  |
 
