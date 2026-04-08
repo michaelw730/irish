@@ -359,20 +359,44 @@
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Cén t-am é? | What time is it? |  |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Cén t-am? | What time? |  |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | a chlog | o'clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | a haon a chlog | 1 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | a dó a chlog | 2 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | a trí a chlog | 3 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | a ceathair a chlog | 4 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | a cúig a chlog | 5 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | a sé a chlog | 6 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | a seacht a chlog | 7 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | a hocht a chlog | 8 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | a naoi a chlog | 9 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | a deich a chlog | 10 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | a haon déag a chlog | 11 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | a dó dhéag a chlog | 12 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé ... a chlog.  | It's ... o'clock. | repeat for each hour |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Bhí sé ... a chlog. | It was ... o'clock. | repeat for each hour |  |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a haon a chlog | 1 o’clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a dó a chlog | 2 o’clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a trí a chlog | 3 o’clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a ceathair a chlog | 4 o’clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a cúig a chlog | 5 o’clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a sé a chlog | 6 o’clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a seacht a chlog | 7 o’clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a hocht a chlog | 8 o’clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a naoi a chlog | 9 o’clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a deich a chlog | 10 o’clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a haon déag a chlog | 11 o’clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a dó dhéag a chlog | 12 o’clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé $HOUR_O_CLOCK.  | It's $HOUR_O_CLOCK. | repeat for each hour |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a haon a chlog.  | It's 1 o’clock. | repeat for each hour |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a dó a chlog.  | It's 2 o’clock. | repeat for each hour |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a trí a chlog.  | It's 3 o’clock. | repeat for each hour |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a ceathair a chlog.  | It's 4 o’clock. | repeat for each hour |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a cúig a chlog.  | It's 5 o’clock. | repeat for each hour |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a sé a chlog.  | It's 6 o’clock. | repeat for each hour |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a seacht a chlog.  | It's 7 o’clock. | repeat for each hour |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a hocht a chlog.  | It's 8 o’clock. | repeat for each hour |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a naoi a chlog.  | It's 9 o’clock. | repeat for each hour |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a deich a chlog.  | It's 10 o’clock. | repeat for each hour |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a haon déag a chlog.  | It's 11 o’clock. | repeat for each hour |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a dó dhéag a chlog.  | It's 12 o’clock. | repeat for each hour |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Bhí sé $HOUR_O_CLOCK. | It was $HOUR_O_CLOCK. | repeat for each hour |  |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a haon a chlog. | It was 1 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a dó a chlog. | It was 2 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a trí a chlog. | It was 3 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a ceathair a chlog. | It was 4 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a cúig a chlog. | It was 5 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a sé a chlog. | It was 6 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a seacht a chlog. | It was 7 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a hocht a chlog. | It was 8 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a naoi a chlog. | It was 9 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a deich a chlog. | It was 10 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a haon déag a chlog. | It was 11 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a dó dhéag a chlog. | It was 12 o’clock. | repeat for each hour |  |  | vee shay... |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | soicind | second |  |  |  |  | second |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | bomaite | minute |  |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | ceathrú | quarter |  |  |  |  | ceahroo |  |  |
@@ -383,6 +407,84 @@
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | cúig bomaite i ndiaidh | five minutes past?? | repeat for each time |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | cúig i ndiaidh | five past?? | repeat for each time |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | fiche go dtí | twenty to | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé ceathrú i ndiaidh $HOUR_O_CLOCK | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a trí a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a ceathair a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a cúig a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a sé a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a seacht a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a hocht a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a naoi a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a deich a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon déag a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó dhéag a chlog | a quarter past ... | repeat for each time |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé leath i ndiaidh $HOUR_O_CLOCK | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a trí a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a ceathair a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a cúig a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a sé a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a seacht a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a hocht a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a naoi a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a deich a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon déag a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó dhéag a chlog | half past ... | repeat for each time |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé ceathrú go dtí $HOUR_O_CLOCK | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a trí a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a ceathair a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a cúig a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a sé a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a seacht a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a hocht a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a naoi a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a deich a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon déag a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó dhéag a chlog | a quarter to ... | repeat for each time |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé cúig bomaite i ndiaidh $HOUR_O_CLOCK | five minutes past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a trí a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a ceathair a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a cúig a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a sé a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a seacht a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a hocht a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a naoi a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a deich a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon déag a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó dhéag a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé cúig i ndiaidh $HOUR_O_CLOCK | five past?? | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon a chlog | five past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó a chlog | five past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a trí a chlog | five past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a ceathair a chlog | five past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a cúig a chlog | five past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a sé a chlog | five past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a seacht a chlog | five past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a hocht a chlog | five past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a naoi a chlog | five past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a deich a chlog | five past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon déag a chlog | five past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó dhéag a chlog | five past?? | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé fiche go dtí $HOUR_O_CLOCK | twenty to | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon a chlog | twenty to | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó a chlog | twenty to | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a trí a chlog | twenty to | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a ceathair a chlog | twenty to | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a cúig a chlog | twenty to | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a sé a chlog | twenty to | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a seacht a chlog | twenty to | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a hocht a chlog | twenty to | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a naoi a chlog | twenty to | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a deich a chlog | twenty to | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon déag a chlog | twenty to | repeat for each time |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó dhéag a chlog | twenty to | repeat for each time |  |  |  |  |  |
 
 ## NYT - Discussing Languages
 
@@ -582,11 +684,11 @@
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | leadóg a imirt | play tennis |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol | music |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD |  | Cineálacha ceoil | Types of music |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE3 | ceol traidisiúnta | traditional music |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE3 | ceol clasaiceach | classical music |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE3 | snagcheol | jazz |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE3 | roc-cheol | rock music |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE3 | popcheol | popular music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol traidisiúnta | traditional music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol clasaiceach | classical music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | snagcheol | jazz |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | roc-cheol | rock music |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | popcheol | popular music |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD |  | mar shampla | for example |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD |  | go háirithe | especially |  |  |  |  | go hairy-heh |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | Is maith liom $THINGS_TO_LIKE | I like $THINGS_TO_LIKE |  |  |  |  |  |  |  |
@@ -606,6 +708,11 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom imirt | I like tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom leadóg a imirt | I like play tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol | I like music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol traidisiúnta | I like traditional music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol clasaiceach | I like classical music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom snagcheol | I like jazz |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom roc-cheol | I like rock music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom popcheol | I like popular music |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | Is breá liom $THINGS_TO_LIKE | I really like $THINGS_TO_LIKE |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha faisnéise | I really like documentaries |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha spóirt | I really like sports programmes |  |  |  |  |  |  |
@@ -623,6 +730,11 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom imirt | I really like tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom leadóg a imirt | I really like play tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol | I really like music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol traidisiúnta | I really like traditional music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol clasaiceach | I really like classical music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom snagcheol | I really like jazz |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom roc-cheol | I really like rock music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom popcheol | I really like popular music |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Tá dúil mhór agam i(n)... | I really like ... |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | Ní maith liom $THINGS_TO_LIKE | I don't like $THINGS_TO_LIKE |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha faisnéise | I don't like documentaries |  |  |  |  |  |  |
@@ -641,6 +753,11 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt | I don't like tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom leadóg a imirt | I don't like play tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol | I don't like music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol traidisiúnta | I don't like traditional music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol clasaiceach | I don't like classical music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom snagcheol | I don't like jazz |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom roc-cheol | I don't like rock music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom popcheol | I don't like popular music |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | Ní maith liom $THINGS_TO_LIKE ar chor ar bith. | I don't like $THINGS_TO_LIKE at all. |  |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha faisnéise ar chor ar bith. | I don't like documentaries at all. |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha spóirt ar chor ar bith. | I don't like sports programmes at all. |  |  |  | ...ar har a bee |  |  |
@@ -658,6 +775,11 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt ar chor ar bith. | I don't like tennis at all. |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom leadóg a imirt ar chor ar bith. | I don't like play tennis at all. |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol ar chor ar bith. | I don't like music at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol traidisiúnta ar chor ar bith. | I don't like traditional music at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol clasaiceach ar chor ar bith. | I don't like classical music at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom snagcheol ar chor ar bith. | I don't like jazz at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom roc-cheol ar chor ar bith. | I don't like rock music at all. |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom popcheol ar chor ar bith. | I don't like popular music at all. |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Ní maith liom ar chor ar bith é. | I don't like it at all. |  |  |  |  | ...ar har a bee ay |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Ní maith liom ar chor ar bith iad. | I don't like them at all. |  |  |  |  | ...ar har a bee ead |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | Is fuath liom $THINGS_TO_LIKE | I hate $THINGS_TO_LIKE |  |  |  |  |  |  |  |
@@ -677,6 +799,11 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom imirt | I hate tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom leadóg a imirt | I hate play tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol | I hate music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol traidisiúnta | I hate traditional music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol clasaiceach | I hate classical music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom snagcheol | I hate jazz |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom roc-cheol | I hate rock music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom popcheol | I hate popular music |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | An maith leat $THINGS_TO_LIKE? | Do you like $THINGS_TO_LIKE? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha faisnéise? | Do you like documentaries? |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha spóirt? | Do you like sports programmes? |  |  | s |  |  |  |
@@ -694,6 +821,11 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat imirt? | Do you like tennis? |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat leadóg a imirt? | Do you like play tennis? |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol? | Do you like music? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol traidisiúnta? | Do you like traditional music? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol clasaiceach? | Do you like classical music? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat snagcheol? | Do you like jazz? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat roc-cheol? | Do you like rock music? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat popcheol? | Do you like popular music? |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | An maith libh $THINGS_TO_LIKE? | Do you like $$THINGS_TO_LIKE? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha faisnéise? | Do you like documentaries? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha spóirt? | Do you like sports programmes? |  |  | p |  |  |  |
@@ -711,6 +843,11 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh imirt? | Do you like tennis? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh leadóg a imirt? | Do you like play tennis? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol? | Do you like music? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol traidisiúnta? | Do you like traditional music? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol clasaiceach? | Do you like classical music? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh snagcheol? | Do you like jazz? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh roc-cheol? | Do you like rock music? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh popcheol? | Do you like popular music? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag garraíodóireacht | gardening |  |  |  |  | ag garaderact |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag péinteáil | painting |  |  |  |  | ag paint-al |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag cócaireacht | cooking |  |  |  |  | ag cocker-act |  |  |
@@ -756,6 +893,11 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat imirt? | Do you like tennis? |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat leadóg a imirt? | Do you like play tennis? |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol? | Do you like music? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol traidisiúnta? | Do you like traditional music? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol clasaiceach? | Do you like classical music? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat snagcheol? | Do you like jazz? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat roc-cheol? | Do you like rock music? |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat popcheol? | Do you like popular music? |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | TEMPLATE |  | An maith libh $THINGS_TO_LIKE? | Do you like $$THINGS_TO_LIKE? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha faisnéise? | Do you like documentaries? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha spóirt? | Do you like sports programmes? |  |  | p |  |  |  |
@@ -773,6 +915,11 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh imirt? | Do you like tennis? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh leadóg a imirt? | Do you like play tennis? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol? | Do you like music? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol traidisiúnta? | Do you like traditional music? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol clasaiceach? | Do you like classical music? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh snagcheol? | Do you like jazz? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh roc-cheol? | Do you like rock music? |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh popcheol? | Do you like popular music? |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Is maith. | Yes. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Ní maith. | No. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Is breá liom é/í/iad. | I really like it. |  |  |  |  |  |  |  |
@@ -799,6 +946,11 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom imirt | I prefer tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom leadóg a imirt | I prefer play tennis |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol | I prefer music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol traidisiúnta | I prefer traditional music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol clasaiceach | I prefer classical music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom snagcheol | I prefer jazz |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom roc-cheol | I prefer rock music |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom popcheol | I prefer popular music |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Is maith liom snagcheoil ach is fearr liom ceol traidisiúnta. | I like jazz but I prefer traditional music. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Is maith liomsa fosta é | I like it too/as well |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Is fearr liomsa fosta é | I prefer it too/as well |  |  |  |  |  |  |  |
@@ -1163,13 +1315,58 @@
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | hocht n-uaire | eight hours |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | naoi n-uaire | nine hours |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | deich n-uaire | ten hours |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá sé chóir a bheith ... | It's almost ... |  |  |  |  | Taw shay hor a veh |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá sé chóir a bheith a dó a chlog. | It's almost two o'clock. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá sé chóir a bheith a seacht. | It's almost seven. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá sé chóir a bheith leath i ndiaidh a haon. | It's almost half one. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá sé leath i ndiaidh a haon. | It's half one. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá sé ceathrú go dtí a dó dhéag | it's a quarter to 12 |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá sé ceathrú i ndiaidh a cúig | it's a quarter past 5 |  |  |  |  | tay shay ca-ru i nyay a quig |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith $HOUR_O_CLOCK | It's almost $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a haon a chlog | It's almost 1 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a dó a chlog | It's almost 2 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a trí a chlog | It's almost 3 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a ceathair a chlog | It's almost 4 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a cúig a chlog | It's almost 5 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a sé a chlog | It's almost 6 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a seacht a chlog | It's almost 7 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a hocht a chlog | It's almost 8 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a naoi a chlog | It's almost 9 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a deich a chlog | It's almost 10 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a haon déag a chlog | It's almost 11 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a dó dhéag a chlog | It's almost 12 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith leath i ndiaidh $HOUR_O_CLOCK | It's almost half past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon a chlog | It's almost half past 1 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó a chlog | It's almost half past 2 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a trí a chlog | It's almost half past 3 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a ceathair a chlog | It's almost half past 4 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a cúig a chlog | It's almost half past 5 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a sé a chlog | It's almost half past 6 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a seacht a chlog | It's almost half past 7 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a hocht a chlog | It's almost half past 8 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a naoi a chlog | It's almost half past 9 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a deich a chlog | It's almost half past 10 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon déag a chlog | It's almost half past 11 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó dhéag a chlog | It's almost half past 12 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú go dtí $HOUR_O_CLOCK | It's almost quarter to $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon a chlog | It's almost quarter to 1 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó a chlog | It's almost quarter to 2 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a trí a chlog | It's almost quarter to 3 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a ceathair a chlog | It's almost quarter to 4 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a cúig a chlog | It's almost quarter to 5 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a sé a chlog | It's almost quarter to 6 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a seacht a chlog | It's almost quarter to 7 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a hocht a chlog | It's almost quarter to 8 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a naoi a chlog | It's almost quarter to 9 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a deich a chlog | It's almost quarter to 10 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon déag a chlog | It's almost quarter to 11 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó dhéag a chlog | It's almost quarter to 12 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú i ndiaidh $HOUR_O_CLOCK | It's almost quarter past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon a chlog | It's almost quarter past 1 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó a chlog | It's almost quarter past 2 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a trí a chlog | It's almost quarter past 3 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a ceathair a chlog | It's almost quarter past 4 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a cúig a chlog | It's almost quarter past 5 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a sé a chlog | It's almost quarter past 6 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a seacht a chlog | It's almost quarter past 7 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a hocht a chlog | It's almost quarter past 8 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a naoi a chlog | It's almost quarter past 9 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a deich a chlog | It's almost quarter past 10 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon déag a chlog | It's almost quarter past 11 o’clock |  |  |  | Taw shay hor a veh |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó dhéag a chlog | It's almost quarter past 12 o’clock |  |  |  | Taw shay hor a veh |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | scrúdú | exam |  |  |  |  |  |  | as in "scrúdú ar maidin" == "exam in the morning" |
 
 ## NYT - DISCUSSING JOBS
@@ -1383,12 +1580,12 @@
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | An aisteoir tú? | Are you a actor? |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | Is ea. | Yes (I am). |  |  |  |  | sha?? or ish-aa?? |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | Ní hea. | No (I'm not). |  |  |  |  | nee ha |  |  |
-| NYT | DISCUSSING JOBS |  | WORD |  | AG TABHAIRT ORDUITHE AGUS TREORACHA | GIVING ORDERS AND INSTRUCTIONS |  |  |  |  |  |  |  |
 
 ## NYT - GIVING ORDERS AND INSTRUCTIONS
 
 | program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| NYT | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | AG TABHAIRT ORDUITHE AGUS TREORACHA | GIVING ORDERS AND INSTRUCTIONS |  |  |  |  | ag torch ord-iha agus troar-aha |  |  |
 | NYT | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Tar isteach. | Come in |  | s |  |  |  |  |  |
 | NYT | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Tagaigí isteach. | Come in |  | p |  |  |  |  |  |
 | NYT | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Taraigí isteach. | Come in |  | p |  |  |  |  |  |
@@ -2913,6 +3110,3 @@
 | Giota Beag | 14 |  |  |  | Níor mhaith, níl ocras orm | No, I wouldn’t like any, I’m not hungry |  |  |  |  |  |  |  |
 | Giota Beag | 14 |  |  |  | Ba mhaith, cuid mhór le do thoil | Yes, I’d like a lot please |  |  |  |  |  |  |  |
 | Giota Beag | 14 |  |  |  | Glasraí | Vegetables |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Dhá phunt | Two pounds |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Trí phunt | Three pounds |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Ceithre phunt | Four pounds |  |  |  |  |  |  |  |

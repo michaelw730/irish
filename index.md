@@ -651,7 +651,7 @@ It is shortened to B' before a vowel or fh + vowel.
 
 
 |AG TABHAIRT ORDUITHE AGUS TREORACHA |GIVING
-ORDERS AND INSTRUCTIONS|ag torch ord-iha agus troar-aha
+ORDERS AND INSTRUCTIONS|
 
 The instructions above are neutral and can be used when speaking to children and adults, formally or informally.
 The remaining phrases in this unit, however, are usually only used when addressing children or a close friend. (They are also used occasionally when someone is too annoyed to use the more polite form!)
