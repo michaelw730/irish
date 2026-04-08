@@ -318,12 +318,12 @@ NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			ceathrú go dtí ...	a quarter to ...	
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			cúig bomaite i ndiaidh	five minutes past??	repeat for each time						
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			cúig i ndiaidh	five past??	repeat for each time						
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			fiche go dtí	twenty to	repeat for each time						
-NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé ceathrú i ndiaidh $HOUR_O_CLOCK	a quarter past ...	repeat for each time				ceahroo i nyay...		
-NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé leath i ndiaidh $HOUR_O_CLOCK	half past ...	repeat for each time				la i nyay...		
-NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé ceathrú go dtí $HOUR_O_CLOCK	a quarter to ...	repeat for each time				ceahroo go gee..		
-NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé cúig bomaite i ndiaidh $HOUR_O_CLOCK	five minutes past??	repeat for each time						
-NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé cúig i ndiaidh $HOUR_O_CLOCK	five past??	repeat for each time						
-NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé fiche go dtí $HOUR_O_CLOCK	twenty to	repeat for each time						
+NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé ceathrú i ndiaidh $HOUR_O_CLOCK	It is a quarter past $HOUR_O_CLOCK	repeat for each time				ceahroo i nyay...		
+NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé leath i ndiaidh $HOUR_O_CLOCK	It is half past $HOUR_O_CLOCK	repeat for each time				la i nyay...		
+NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé ceathrú go dtí $HOUR_O_CLOCK	It is a quarter to $HOUR_O_CLOCK	repeat for each time				ceahroo go gee..		
+NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé cúig bomaite i ndiaidh $HOUR_O_CLOCK	It is five minutes past $HOUR_O_CLOCK	repeat for each time						
+NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé cúig i ndiaidh $HOUR_O_CLOCK	It is five past $HOUR_O_CLOCK	repeat for each time						
+NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé fiche go dtí $HOUR_O_CLOCK	It is twenty to $HOUR_O_CLOCK	repeat for each time						
 NYT	Discussing Languages	Languages	PHRASE		Ag plé teangacha	Discussing languages					tchangaha??		
 NYT	Discussing Languages	Languages	WORD		teanga	a language					tchangy??		
 NYT	Discussing Languages	Languages	WORD		teangacha	Languages					tchangaha??		

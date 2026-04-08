@@ -494,10 +494,6 @@ Counting numbers you need the a...
 
 In everyday speech the a preceding the numbers is often not pronounced. It is always used, however, after the word uimhir, (number): uimhir a cúig == number five
 
-* As above, some numbers require a change to the word bliain (year)   —  an added   séimhiú (added “h” after second letter), or urú (added letter before word, in this case “m”), or another change in pronunciation (added “a” at the end or second “i” is dropped  e.g. bliana)
-* If you want to say what age you are, you add d’aois (age) e.g. Tá mé seacht mbliana is fiche d’aois.
-* The number dhá is highlighted because it has changed from the ordinary number dó (two).
-
 ##### Ordinal numbers = first, second
 
 ##### Counting things
@@ -586,13 +582,9 @@ do (for / to) + mé (me) + sa (which is used to add emphasis to mé).
 
 # Where you are going
 
-AG RÁ CÁ BHFUIL TÚ AG DUL | SAYING WHERE YOU’RE
-GOING| a reh..
+AG RÁ CÁ BHFUIL TÚ AG DUL | SAYING WHERE YOU’RE GOING
 
 ASKING SOMEONE WHERE THEY ARE GOING
-
-
-^ MW - notice the t in front of vowels
 
 There are different ways of saying 'to' in Irish, depending on where you're going. Go is used in front of names of places and other nouns that are not preceded by the article an (the):
 
@@ -622,16 +614,13 @@ The word chuig is used instead of go or go dtí when you're talking about going 
 *Go doesn't affect words that begin with a consonant, but if the name begins with a vowel, h is placed before it.
 * times are different in other dialects
 
-*** QUARTER PAST ETC IS MISSING - GET FROM giota beag ***
-
 ### Unit 8
 
 # What job you do
 
 SAYING WHAT JOB YOU DO
 
-|AG PLÉ POSTANNA | DISCUSSING JOBS|ag play postanny
-
+|AG PLÉ POSTANNA | DISCUSSING JOBS
 
 You use Is to refer to the job you have at the moment but Ba when you are talking about the work you did in the past:
 
@@ -650,8 +639,7 @@ It is shortened to B' before a vowel or fh + vowel.
 # Giving orders and instructions
 
 
-|AG TABHAIRT ORDUITHE AGUS TREORACHA |GIVING
-ORDERS AND INSTRUCTIONS|
+|AG TABHAIRT ORDUITHE AGUS TREORACHA |GIVING ORDERS AND INSTRUCTIONS
 
 The instructions above are neutral and can be used when speaking to children and adults, formally or informally.
 The remaining phrases in this unit, however, are usually only used when addressing children or a close friend. (They are also used occasionally when someone is too annoyed to use the more polite form!)
@@ -685,7 +673,6 @@ fanaigí	imigí
 
 # The family part 1
 
-
 AN TEAGHLACH 1 | THE FAMILY 1
 
 The Irish equivalents of word like 'my' and 'your' that denote possession affect words in different ways.
@@ -715,8 +702,7 @@ SAYING WHAT YOUR CHILDREN ARE DOING
 
 # Saying what you did
 
-
-|AG RÁ CAD É A RINNE TÚ | SAYING WHAT YOU DID| a(g?) raa cadje a run too
+|AG RÁ CAD É A RINNE TÚ | SAYING WHAT YOU DID
 
 ASKING SOMEONE WHERE THEY WENT
 
@@ -809,6 +795,10 @@ You learnt earlier that the numbers 2-6 cause a séimhiú in words beginning wit
 1 year	2 years	3-6 years	7-10 years
 bliain	dhá bhliain	... bliana	... mbliana
 
+
+* As above, some numbers require a change to the word bliain (year)   —  an added   séimhiú (added “h” after second letter), or urú (added letter before word, in this case “m”), or another change in pronunciation (added “a” at the end or second “i” is dropped  e.g. bliana)
+* If you want to say what age you are, you add d’aois (age) e.g. Tá mé seacht mbliana is fiche d’aois.
+* The number dhá is highlighted because it has changed from the ordinary number dó (two).
 
 [vocab.csv](vocab.csv#Family2)
 

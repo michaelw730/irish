@@ -407,84 +407,84 @@
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | cúig bomaite i ndiaidh | five minutes past?? | repeat for each time |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | cúig i ndiaidh | five past?? | repeat for each time |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | fiche go dtí | twenty to | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé ceathrú i ndiaidh $HOUR_O_CLOCK | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a trí a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a ceathair a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a cúig a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a sé a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a seacht a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a hocht a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a naoi a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a deich a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon déag a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó dhéag a chlog | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé leath i ndiaidh $HOUR_O_CLOCK | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a trí a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a ceathair a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a cúig a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a sé a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a seacht a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a hocht a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a naoi a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a deich a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon déag a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó dhéag a chlog | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé ceathrú go dtí $HOUR_O_CLOCK | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a trí a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a ceathair a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a cúig a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a sé a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a seacht a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a hocht a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a naoi a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a deich a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon déag a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó dhéag a chlog | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé cúig bomaite i ndiaidh $HOUR_O_CLOCK | five minutes past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a trí a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a ceathair a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a cúig a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a sé a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a seacht a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a hocht a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a naoi a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a deich a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon déag a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó dhéag a chlog | five minutes past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé cúig i ndiaidh $HOUR_O_CLOCK | five past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a trí a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a ceathair a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a cúig a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a sé a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a seacht a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a hocht a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a naoi a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a deich a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon déag a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó dhéag a chlog | five past?? | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé fiche go dtí $HOUR_O_CLOCK | twenty to | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a trí a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a ceathair a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a cúig a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a sé a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a seacht a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a hocht a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a naoi a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a deich a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon déag a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó dhéag a chlog | twenty to | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé ceathrú i ndiaidh $HOUR_O_CLOCK | It is a quarter past $HOUR_O_CLOCK | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon a chlog | It is a quarter past 1 o’clock | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó a chlog | It is a quarter past 2 o’clock | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a trí a chlog | It is a quarter past 3 o’clock | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a ceathair a chlog | It is a quarter past 4 o’clock | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a cúig a chlog | It is a quarter past 5 o’clock | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a sé a chlog | It is a quarter past 6 o’clock | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a seacht a chlog | It is a quarter past 7 o’clock | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a hocht a chlog | It is a quarter past 8 o’clock | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a naoi a chlog | It is a quarter past 9 o’clock | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a deich a chlog | It is a quarter past 10 o’clock | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon déag a chlog | It is a quarter past 11 o’clock | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó dhéag a chlog | It is a quarter past 12 o’clock | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé leath i ndiaidh $HOUR_O_CLOCK | It is half past $HOUR_O_CLOCK | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon a chlog | It is half past 1 o’clock | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó a chlog | It is half past 2 o’clock | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a trí a chlog | It is half past 3 o’clock | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a ceathair a chlog | It is half past 4 o’clock | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a cúig a chlog | It is half past 5 o’clock | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a sé a chlog | It is half past 6 o’clock | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a seacht a chlog | It is half past 7 o’clock | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a hocht a chlog | It is half past 8 o’clock | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a naoi a chlog | It is half past 9 o’clock | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a deich a chlog | It is half past 10 o’clock | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon déag a chlog | It is half past 11 o’clock | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó dhéag a chlog | It is half past 12 o’clock | repeat for each time |  |  |  | la i nyay... |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé ceathrú go dtí $HOUR_O_CLOCK | It is a quarter to $HOUR_O_CLOCK | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon a chlog | It is a quarter to 1 o’clock | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó a chlog | It is a quarter to 2 o’clock | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a trí a chlog | It is a quarter to 3 o’clock | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a ceathair a chlog | It is a quarter to 4 o’clock | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a cúig a chlog | It is a quarter to 5 o’clock | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a sé a chlog | It is a quarter to 6 o’clock | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a seacht a chlog | It is a quarter to 7 o’clock | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a hocht a chlog | It is a quarter to 8 o’clock | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a naoi a chlog | It is a quarter to 9 o’clock | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a deich a chlog | It is a quarter to 10 o’clock | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon déag a chlog | It is a quarter to 11 o’clock | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó dhéag a chlog | It is a quarter to 12 o’clock | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé cúig bomaite i ndiaidh $HOUR_O_CLOCK | It is five minutes past $HOUR_O_CLOCK | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon a chlog | It is five minutes past 1 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó a chlog | It is five minutes past 2 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a trí a chlog | It is five minutes past 3 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a ceathair a chlog | It is five minutes past 4 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a cúig a chlog | It is five minutes past 5 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a sé a chlog | It is five minutes past 6 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a seacht a chlog | It is five minutes past 7 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a hocht a chlog | It is five minutes past 8 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a naoi a chlog | It is five minutes past 9 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a deich a chlog | It is five minutes past 10 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon déag a chlog | It is five minutes past 11 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó dhéag a chlog | It is five minutes past 12 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé cúig i ndiaidh $HOUR_O_CLOCK | It is five past $HOUR_O_CLOCK | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon a chlog | It is five past 1 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó a chlog | It is five past 2 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a trí a chlog | It is five past 3 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a ceathair a chlog | It is five past 4 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a cúig a chlog | It is five past 5 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a sé a chlog | It is five past 6 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a seacht a chlog | It is five past 7 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a hocht a chlog | It is five past 8 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a naoi a chlog | It is five past 9 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a deich a chlog | It is five past 10 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon déag a chlog | It is five past 11 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó dhéag a chlog | It is five past 12 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé fiche go dtí $HOUR_O_CLOCK | It is twenty to $HOUR_O_CLOCK | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon a chlog | It is twenty to 1 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó a chlog | It is twenty to 2 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a trí a chlog | It is twenty to 3 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a ceathair a chlog | It is twenty to 4 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a cúig a chlog | It is twenty to 5 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a sé a chlog | It is twenty to 6 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a seacht a chlog | It is twenty to 7 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a hocht a chlog | It is twenty to 8 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a naoi a chlog | It is twenty to 9 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a deich a chlog | It is twenty to 10 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon déag a chlog | It is twenty to 11 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó dhéag a chlog | It is twenty to 12 o’clock | repeat for each time |  |  |  |  |  |  |
 
 ## NYT - Discussing Languages
 
