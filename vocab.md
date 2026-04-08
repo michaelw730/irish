@@ -1145,7 +1145,7 @@
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Ba mhaith. | Yes (I would). |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Níor mhaith. | No (I wouldn't). |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | B'fhearr ... | I'd prefer ... |  |  |  |  | bear... |  |  |
-| NYT | ORDERING DRINKS |  | SENTENCE |  | B'fhearr liom gloine uisce. | I'd prefer a glass of water. |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| NYT | ORDERING DRINKS |  | SENTENCE |  | B'fhearr liom $HWAT_YOU_WANT | I'd prefer a glass of water. |  |  |  |  | Bear liom glinye ish-ke |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Sláinte! | Cheers! |  |  |  | Health! |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Sláinte mhór | Cheers (response??) |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | $WHAT_YOU_WANT duitse. | $WHAT_YOU_WANT for you. |  |  |  |  |  |  |  |
@@ -1214,56 +1214,68 @@
 | program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | AG RÁ CÁ BHFUIL TÚ AG DUL | SAYING WHERE YOU’RE GOING |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | banc | bank |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | teach an phobail | church |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | oifig an phoist | post office |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | caife | cafe |  |  |  |  | ca-fay |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | garáiste | garage |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | teach | house |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | tithe | houses |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | teach tábhairne | pub |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | tithe tábhairne | pubs |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | bialann | restaurant |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | páirc | park |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | siopa | shop |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | siopaí | shops |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | siopa búistéara | butcher's shop |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | siopa poitigéara | chemist shop |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | siopa bróg | shoe shop |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | siopa éadaigh | clothes shop |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | ionad spóirt | sports centre |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | ionad siopadóireachta | shopping centre |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | ollmhargadh | supermarket |  |  |  |  | ollwarragoo |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | ospidéal | hospital |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | otharlann | hospital |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | pictiúrlann | cinema |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | sólann | leisure centre |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | codladh | sleep |  |  |  |  | coh-loo |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | aerfort | airport |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | amharclann | theatre |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | an caife | the café |  |  | m |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | an amharclann | the theatre |  |  | f |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | an garáiste | the garage |  |  | m |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | an teach tábhairne | the pub |  |  | m |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | an pháirc | the park |  |  | f |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | an phictiúrlann  | the cinema |  |  | f |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | an t-sólann  | the leisure centre |  |  | f |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | an t-aerfort | the airport |  |  | m |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | banc | bank |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | teach an phobail | church |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | oifig an phoist | post office |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | caife | cafe |  |  |  |  | ca-fay |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | garáiste | garage |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | teach | house |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | tithe | houses |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | teach tábhairne | pub |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | tithe tábhairne | pubs |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | bialann | restaurant |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | páirc | park |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | siopa | shop |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | siopaí | shops |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | siopa búistéara | butcher's shop |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | siopa poitigéara | chemist shop |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | siopa bróg | shoe shop |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | siopa éadaigh | clothes shop |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | ionad spóirt | sports centre |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | ionad siopadóireachta | shopping centre |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | ollmhargadh | supermarket |  |  |  |  | ollwarragoo |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | ospidéal | hospital |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | otharlann | hospital |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | pictiúrlann | cinema |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | sólann | leisure centre |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | codladh | sleep |  |  |  |  | coh-loo |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | aerfort | airport |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | amharclann | theatre |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an caife | the café |  |  | m |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an amharclann | the theatre |  |  | f |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an garáiste | the garage |  |  | m |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an teach tábhairne | the pub |  |  | m |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an pháirc | the park |  |  | f |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an phictiúrlann  | the cinema |  |  | f |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an t-sólann  | the leisure centre |  |  | f |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an t-aerfort | the airport |  |  | m |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an t-ionad spóirt | the sports centre |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an t-ionad siopadóireachta | the shopping centre |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an t-ollmhargadh | the supermarket |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an bhialann | the restaurant |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an t-ospidéal | the hospital |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | QUESTION |  | Cá bhfuil tú ag dul? | Where are you going? |  | s |  |  | Ca will to a-gull |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | QUESTION |  | Cá bhfuil sibh ag dul? | Where are you going? |  | p |  |  | Ca will to a-gull |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | QUESTION |  | Cá bhfuil tusa ag dul? | Where are *you* going? |  | s |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul ... | I'm going ... |  |  |  |  | Taw may a gul |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go ... | I'm going to ... |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go Leitir Ceanainn. | I'm going to Letterkenny. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go dtí an garáiste. | I'm going to the garage. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá muid ag dul go dtí an garáiste. | We're going to the garage. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go dtí an t-ionad spóirt. | I'm going to the sports centre. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go dtí an t-ionad siopadóireachta. | I'm going to the shopping centre. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go dtí an t-ollmhargadh. | I'm going to the supermarket. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go dtí an bhialann. | I'm going to the restaurant. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go dtí $THE_PLACES. | I'm going to $THE_PLACES. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an caife. | I'm going to the café. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an amharclann. | I'm going to the theatre. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an garáiste. | I'm going to the garage. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an teach tábhairne. | I'm going to the pub. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an pháirc. | I'm going to the park. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an phictiúrlann . | I'm going to the cinema. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-sólann . | I'm going to the leisure centre. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-aerfort. | I'm going to the airport. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ionad spóirt. | I'm going to the sports centre. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ionad siopadóireachta. | I'm going to the shopping centre. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ollmhargadh. | I'm going to the supermarket. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an bhialann. | I'm going to the restaurant. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ospidéal. | I'm going to the hospital. |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go hoifig an phoist. | I am going to the post office |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go teach an phobail. | I am going to the church |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go dtí an t-ospidéal. | I am going to the hospital. |  |  |  |  |  |  | Go dtí is used before nouns that are preceded by the article: |
 | NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul abhaile. | I'm going home. |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul amach. | I'm going out. |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | tá mé ag dul a chodladh | I am going to sleep |  |  |  |  | ...hoh-loo |  |  |
@@ -3110,3 +3122,4 @@
 | Giota Beag | 14 |  |  |  | Níor mhaith, níl ocras orm | No, I wouldn’t like any, I’m not hungry |  |  |  |  |  |  |  |
 | Giota Beag | 14 |  |  |  | Ba mhaith, cuid mhór le do thoil | Yes, I’d like a lot please |  |  |  |  |  |  |  |
 | Giota Beag | 14 |  |  |  | Glasraí | Vegetables |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Dhá phunt | Two pounds |  |  |  |  |  |  |  |
