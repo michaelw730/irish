@@ -257,12 +257,7 @@
 | NYT | Introductions |  | WORD |  | eilit | doe |  |  |  |  |  |  |  |
 | NYT | Introductions |  | WORD |  | torc | boar |  |  |  |  |  |  |  |
 | NYT | Introductions |  | WORD |  | gabhar | goat |  |  |  |  |  |  |  |
-
-## Various - Introductions
-
-| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Various | Introductions |  | SENTENCE |  | go dtí sin | until then |  |  |  |  |  |  |  |
+| NYT | Introductions |  | SENTENCE |  | go dtí sin | until then |  |  |  |  |  |  |  |
 
 ## NYT - SPEAKING ABOUT YOUR BACKGROUND
 
