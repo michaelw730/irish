@@ -6,7 +6,7 @@ Various	Greetings etc				beannachtaí	Greetings					baan-ak-tee
 Various	Greetings etc				arís	again.							
 Various	Greetings etc				le do thoil	please		s			le de hull		
 Various	Greetings etc				le bhur dtoil	please		p			le wer dul		
-Various	Greetings etc				Gabh mo leithscéal	Excuse me							
+Various	Greetings etc				gabh mo leithscéal	Excuse me							
 Various	Greetings etc				Fan bomaite	Wait a minute							
 Various	Greetings etc				Tóg go bog é	Take it easy					Toe-g geh bow-g eh		
 Various	Greetings etc				póg mo thóin	kiss my ass					powg moh hoe-n		
@@ -17,16 +17,8 @@ Various	Greetings etc				Tá a fhios agam	I know					Ta us agam
 Various	Greetings etc				freagair	reply/answer					freggar		
 Various	Greetings etc				cur Gaeilge air?	What's irish for?							
 Various	Greetings etc				sparán	purse					sparaan		
-Various	Greetings etc				go dtí sin	until then							
 Various	Greetings etc				lá breithe shona	happy birthday					laa brayha		
 Various	Greetings etc				lá breithe shona duit	happy birthday to you							
-Various	Greetings etc				Béal Feirste	Belfast					bell firstye		mouth of the river farset
-Various	Greetings etc				béal	mouth					bell		
-Various	Greetings etc				guala(?)	shoulder					goola		
-Various	Greetings etc				chos(?)	foot					cos		
-Various	Greetings etc				ceann(?)	head					cyun		
-Various	Greetings etc				droim(?)	back					drim		
-Various	Greetings etc				toín(?)	backside					towin		
 NYT	Meeting People		WORD		Fáilte	Welcome							
 NYT	Meeting People		PHRASE		Tá fáilte romhat	you're welcome				There is a welcome for / before you			
 NYT	Meeting People		WORD		Aonad 1	Unit 1					Ay-nid a hein		
@@ -135,6 +127,13 @@ NYT	Meeting People	Goodbyes	SENTENCE		Feicfidh mé arís thú.	I'll see you agai
 NYT	Meeting People	Goodbyes	SENTENCE		Feicfidh mé amárach thú	I'll see you tomorrow.					Fecky may amarach hu		
 NYT	Meeting People		WORD		deireadh	end					djeroo		
 NYT	Meeting People		SENTENCE		Tá Sin deireadh le aonad 1	That's the end of unit 1					Sin djeroo le ay-nid...		
+NYT	Meeting People				Béal Feirste	Belfast					bell firstye		mouth of the river farset
+NYT	Meeting People				béal	mouth					bell		
+NYT	Meeting People				guala(?)	shoulder					goola		
+NYT	Meeting People				chos(?)	foot					cos		
+NYT	Meeting People				ceann(?)	head					cyun		
+NYT	Meeting People				droim(?)	back					drim		
+NYT	Meeting People				toín(?)	backside					towin		
 NYT	Introductions		PHRASE		Cur in aithne	Introductions					cur in an-yuh		
 NYT	Introductions		WORD		ainm	Name							
 NYT	Introductions		WORD		sloinne	surname					slin-you		
@@ -193,6 +192,12 @@ NYT	Introductions	Family Introductions	SENTENCE		Seo mo dheartháir.	This is my 
 NYT	Introductions	Family Introductions	SENTENCE		Seo mo dheirfiúr.	This is my sister					Shaw mo yerifur		
 NYT	Introductions	Family Introductions	SENTENCE		Seo mo chuid iníonacha...	these are my daughters					Shaw whid nyeenacha...		
 NYT	Introductions	Family Introductions	SENTENCE		Seo mo chuid mac...	these are my sons					Shaw whid mawk...		
+NYT	Introductions		SENTENCE		Ar mhaith leat cluiche?	Would you like a game?							
+NYT	Introductions		WORD		bó	cow							
+NYT	Introductions		WORD		eilit	doe							
+NYT	Introductions		WORD		torc	boar							
+NYT	Introductions		WORD		gabhar	goat							
+Various	Introductions		SENTENCE		go dtí sin	until then							
 NYT	SPEAKING ABOUT YOUR BACKGROUND		WORD		CÚLRA	BACKGROUND					koolra		
 NYT	SPEAKING ABOUT YOUR BACKGROUND		PHRASE		AG LABHAIRT FAOI DO CHÚLRA	SPEAKING ABOUT YOUR BACKGROUND					a lortch fwee do hkoolra		
 NYT	SPEAKING ABOUT YOUR BACKGROUND		QUESTION		Cá as tú?	Where are you from?							After giving your response, you can ask the same question in the following ways:

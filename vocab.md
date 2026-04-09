@@ -10,7 +10,7 @@
 | Various | Greetings etc |  |  |  | arís | again. |  |  |  |  |  |  |  |
 | Various | Greetings etc |  |  |  | le do thoil | please |  | s |  |  | le de hull |  |  |
 | Various | Greetings etc |  |  |  | le bhur dtoil | please |  | p |  |  | le wer dul |  |  |
-| Various | Greetings etc |  |  |  | Gabh mo leithscéal | Excuse me |  |  |  |  |  |  |  |
+| Various | Greetings etc |  |  |  | gabh mo leithscéal | Excuse me |  |  |  |  |  |  |  |
 | Various | Greetings etc |  |  |  | Fan bomaite | Wait a minute |  |  |  |  |  |  |  |
 | Various | Greetings etc |  |  |  | Tóg go bog é | Take it easy |  |  |  |  | Toe-g geh bow-g eh |  |  |
 | Various | Greetings etc |  |  |  | póg mo thóin | kiss my ass |  |  |  |  | powg moh hoe-n |  |  |
@@ -21,16 +21,8 @@
 | Various | Greetings etc |  |  |  | freagair | reply/answer |  |  |  |  | freggar |  |  |
 | Various | Greetings etc |  |  |  | cur Gaeilge air? | What's irish for? |  |  |  |  |  |  |  |
 | Various | Greetings etc |  |  |  | sparán | purse |  |  |  |  | sparaan |  |  |
-| Various | Greetings etc |  |  |  | go dtí sin | until then |  |  |  |  |  |  |  |
 | Various | Greetings etc |  |  |  | lá breithe shona | happy birthday |  |  |  |  | laa brayha |  |  |
 | Various | Greetings etc |  |  |  | lá breithe shona duit | happy birthday to you |  |  |  |  |  |  |  |
-| Various | Greetings etc |  |  |  | Béal Feirste | Belfast |  |  |  |  | bell firstye |  | mouth of the river farset |
-| Various | Greetings etc |  |  |  | béal | mouth |  |  |  |  | bell |  |  |
-| Various | Greetings etc |  |  |  | guala(?) | shoulder |  |  |  |  | goola |  |  |
-| Various | Greetings etc |  |  |  | chos(?) | foot |  |  |  |  | cos |  |  |
-| Various | Greetings etc |  |  |  | ceann(?) | head |  |  |  |  | cyun |  |  |
-| Various | Greetings etc |  |  |  | droim(?) | back |  |  |  |  | drim |  |  |
-| Various | Greetings etc |  |  |  | toín(?) | backside |  |  |  |  | towin |  |  |
 
 ## NYT - Meeting People
 
@@ -190,6 +182,13 @@
 | NYT | Meeting People | Goodbyes | SENTENCE |  | Feicfidh mé amárach thú | I'll see you tomorrow. |  |  |  |  | Fecky may amarach hu |  |  |
 | NYT | Meeting People |  | WORD |  | deireadh | end |  |  |  |  | djeroo |  |  |
 | NYT | Meeting People |  | SENTENCE |  | Tá Sin deireadh le aonad 1 | That's the end of unit 1 |  |  |  |  | Sin djeroo le ay-nid... |  |  |
+| NYT | Meeting People |  |  |  | Béal Feirste | Belfast |  |  |  |  | bell firstye |  | mouth of the river farset |
+| NYT | Meeting People |  |  |  | béal | mouth |  |  |  |  | bell |  |  |
+| NYT | Meeting People |  |  |  | guala(?) | shoulder |  |  |  |  | goola |  |  |
+| NYT | Meeting People |  |  |  | chos(?) | foot |  |  |  |  | cos |  |  |
+| NYT | Meeting People |  |  |  | ceann(?) | head |  |  |  |  | cyun |  |  |
+| NYT | Meeting People |  |  |  | droim(?) | back |  |  |  |  | drim |  |  |
+| NYT | Meeting People |  |  |  | toín(?) | backside |  |  |  |  | towin |  |  |
 
 ## NYT - Introductions
 
@@ -253,6 +252,17 @@
 | NYT | Introductions | Family Introductions | SENTENCE |  | Seo mo dheirfiúr. | This is my sister |  |  |  |  | Shaw mo yerifur |  |  |
 | NYT | Introductions | Family Introductions | SENTENCE |  | Seo mo chuid iníonacha... | these are my daughters |  |  |  |  | Shaw whid nyeenacha... |  |  |
 | NYT | Introductions | Family Introductions | SENTENCE |  | Seo mo chuid mac... | these are my sons |  |  |  |  | Shaw whid mawk... |  |  |
+| NYT | Introductions |  | SENTENCE |  | Ar mhaith leat cluiche? | Would you like a game? |  |  |  |  |  |  |  |
+| NYT | Introductions |  | WORD |  | bó | cow |  |  |  |  |  |  |  |
+| NYT | Introductions |  | WORD |  | eilit | doe |  |  |  |  |  |  |  |
+| NYT | Introductions |  | WORD |  | torc | boar |  |  |  |  |  |  |  |
+| NYT | Introductions |  | WORD |  | gabhar | goat |  |  |  |  |  |  |  |
+
+## Various - Introductions
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Various | Introductions |  | SENTENCE |  | go dtí sin | until then |  |  |  |  |  |  |  |
 
 ## NYT - SPEAKING ABOUT YOUR BACKGROUND
 
@@ -3118,8 +3128,3 @@
 | Giota Beag | 14 |  |  |  | An t-anlann donn | The brown sauce |  |  |  |  |  |  |  |
 | Giota Beag | 14 |  |  |  | An t-anlann dearg | The red sauce |  |  |  |  |  |  |  |
 | Giota Beag | 14 |  |  |  | Ar mhaith leat prátaí? | Would you like some potatoes? |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Ar mhaith leat tuilleadh pasta? | Would you like some more pasta? |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Níor mhaith, níl ocras orm | No, I wouldn’t like any, I’m not hungry |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Ba mhaith, cuid mhór le do thoil | Yes, I’d like a lot please |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Glasraí | Vegetables |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Dhá phunt | Two pounds |  |  |  |  |  |  |  |
