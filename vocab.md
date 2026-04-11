@@ -490,6 +490,7 @@
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a deich a chlog | It is twenty to 10 o’clock | repeat for each time |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon déag a chlog | It is twenty to 11 o’clock | repeat for each time |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó dhéag a chlog | It is twenty to 12 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | An bhfuil dráma anocht? | Is the play tonight? |  |  |  |  |  |  |  |
 
 ## NYT - Discussing Languages
 
@@ -510,6 +511,11 @@
 | NYT | Discussing Languages | Languages | WORD | LANGUAGE2 | Fraincise | French |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | WORD | LANGUAGE2 | Gearmáinise | German |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | WORD | LANGUAGE2 | Iodáilise | Italian |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | WORD | LANGUAGE3 | Gaeilge | Irish |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | WORD | LANGUAGE3 | Fhraincis | French |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | WORD | LANGUAGE3 | Ghearmáinis | German |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | WORD | LANGUAGE3 | Spáinnis | Spanish |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | WORD | LANGUAGE3 | Iodáilis | Italian |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | TEMPLATE |  | An bhfuil $LANGUAGE agat? | Can you speak $LANGUAGE? |  |  |  | Have you $LANGUAGE? Is $LANGUAGE at you? |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gaeilge agat? | Can you speak Irish? |  |  |  | Have you Irish? Is Irish at you? |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Fraincis agat? | Can you speak French? |  |  |  | Have you French? Is French at you? |  |  |  |
@@ -519,6 +525,24 @@
 | NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Spáinnis agat? | Can you speak Spanish? |  |  |  | Have you Spanish? Is Spanish at you? |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Breatnais agat? | Can you speak Welsh? |  |  |  | Have you Welsh? Is Welsh at you? |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gaeilge na hAlban agat? | Can you speak Gaelic (Scotland)? |  |  |  | Have you Gaelic (Scotland)? Is Gaelic (Scotland) at you? |  |  |  |
+| NYT | Discussing Languages | Languages | TEMPLATE |  | An bhfuil $LANGUAGE ag Tony? | Can Tony speak $LANGUAGE? |  |  |  | Has Tondy $LANGUAGE? Is $LANGUAGE at Tony? |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gaeilge ag Tony? | Can Tony speak Irish? |  |  |  | Has Tondy Irish? Is Irish at Tony? |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Fraincis ag Tony? | Can Tony speak French? |  |  |  | Has Tondy French? Is French at Tony? |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Béarla ag Tony? | Can Tony speak English? |  |  |  | Has Tondy English? Is English at Tony? |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gearmáinis ag Tony? | Can Tony speak German? |  |  |  | Has Tondy German? Is German at Tony? |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Iodáilis ag Tony? | Can Tony speak Italian? |  |  |  | Has Tondy Italian? Is Italian at Tony? |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Spáinnis ag Tony? | Can Tony speak Spanish? |  |  |  | Has Tondy Spanish? Is Spanish at Tony? |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Breatnais ag Tony? | Can Tony speak Welsh? |  |  |  | Has Tondy Welsh? Is Welsh at Tony? |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gaeilge na hAlban ag Tony? | Can Tony speak Gaelic (Scotland)? |  |  |  | Has Tondy Gaelic (Scotland)? Is Gaelic (Scotland) at Tony? |  |  |  |
+| NYT | Discussing Languages | Languages | TEMPLATE |  | Tá $LANGUAGE agam. | I speak $LANGUAGE. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Gaeilge agam. | I speak Irish. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Fraincis agam. | I speak French. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Béarla agam. | I speak English. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Gearmáinis agam. | I speak German. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Iodáilis agam. | I speak Italian. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Spáinnis agam. | I speak Spanish. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Breatnais agam. | I speak Welsh. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Gaeilge na hAlban agam. | I speak Gaelic (Scotland). |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | TEMPLATE |  | Tá $LANGUAGE líofa agam. | I speak $LANGUAGE fluently. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Gaeilge líofa agam. | I speak Irish fluently. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Fraincis líofa agam. | I speak French fluently. |  |  |  |  |  |  |  |
@@ -528,35 +552,49 @@
 | NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Spáinnis líofa agam. | I speak Spanish fluently. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Breatnais líofa agam. | I speak Welsh fluently. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | Tá Gaeilge na hAlban líofa agam. | I speak Gaelic (Scotland) fluently. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | TEMPLATE |  | Tá líofa agam. | I speak fluently. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | TEMPLATE |  | Tá líofa agamsa. | *I* speak fluently. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Tá beagán $LANGUAGE2 agam. | I speak a little $LANGUAGE2. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Gaeilge agam. | I speak a little Irish. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Fraincise agam. | I speak a little French. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Gearmáinise agam. | I speak a little German. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Iodáilise agam. | I speak a little Italian. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Tá mé ag foghlaim. | I'm learning. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | SENTENCE |  | Tá mé ag foghlaim $LANGUAGE2. | I'm learning $LANGUAGE2. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge. | I'm learning Irish. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Fraincise. | I'm learning French. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gearmáinise. | I'm learning German. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Iodáilise. | I'm learning Italian. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | SENTENCE |  | Tá mé ag foghlaim $LANGUAGE2. | I'm learning $LANGUAGE2. | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge. | I'm learning Irish. | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Fraincise. | I'm learning French. | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gearmáinise. | I'm learning German. | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Iodáilise. | I'm learning Italian. | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Níl mórán $LANGUAGE2 agam. | I can't speak much $LANGUAGE2. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Gaeilge agam. | I can't speak much Irish. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Fraincise agam. | I can't speak much French. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Gearmáinise agam. | I can't speak much German. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Iodáilise agam. | I can't speak much Italian. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | TEMPLATE |  | Níl aon $LANGUAGE agam. | I don't speak $LANGUAGE. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Gaeilge agam. | I don't speak Irish. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Fraincis agam. | I don't speak French. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Béarla agam. | I don't speak English. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Gearmáinis agam. | I don't speak German. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Iodáilis agam. | I don't speak Italian. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Spáinnis agam. | I don't speak Spanish. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Breatnais agam. | I don't speak Welsh. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Gaeilge na hAlban agam. | I don't speak Gaelic (Scotland). |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | SENTENCE |  | Níl mórán $LANGUAGE2 agam ach tá mé ag foghlaim. | I can't speak much $LANGUAGE2 but I am learning. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Gaeilge agam ach tá mé ag foghlaim. | I can't speak much Irish but I am learning. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Fraincise agam ach tá mé ag foghlaim. | I can't speak much French but I am learning. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Gearmáinise agam ach tá mé ag foghlaim. | I can't speak much German but I am learning. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Iodáilise agam ach tá mé ag foghlaim. | I can't speak much Italian but I am learning. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | TEMPLATE |  | Níl aon $LANGUAGE3 agam. | I don't speak $LANGUAGE. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Gaeilge agam. | I don't speak LANGUAGE. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Fhraincis agam. | I don't speak LANGUAGE. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Ghearmáinis agam. | I don't speak LANGUAGE. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Spáinnis agam. | I don't speak LANGUAGE. |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Níl aon Iodáilis agam. | I don't speak LANGUAGE. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Tá. | Yes. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Níl. | No. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Beagán. | A little. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Tá. Tá mé líofa. | Yes. I'm fluent. |  |  |  |  | Ta. Ta may leefa |  |  |
+| NYT | Discussing Languages | Languages | SENTENCE |  | an bhfuil tú ag foghlaim? | Are you learning? |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | SENTENCE |  | an bhfuil tú ag foghlaim $LANGUAGE? | Are you learning $LANGUAGE? |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Gaeilge? | Are you learning Irish? |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Fraincis? | Are you learning French? |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Béarla? | Are you learning English? |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Gearmáinis? | Are you learning German? |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Iodáilis? | Are you learning Italian? |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Spáinnis? | Are you learning Spanish? |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Breatnais? | Are you learning Welsh? |  |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Gaeilge na hAlban? | Are you learning Gaelic (Scotland)? |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | QUESTION |  | Cad é na teangacha atá agat? | Which/what languages can you speak? |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | QUESTION |  | Cad é na teangacha eile atá agat? | Which/what other languages can you speak? |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Tá Fraincis agus Gearmáinis agam. | I speak French and German. | repeat for other languages |  |  |  |  |  |  |
@@ -668,7 +706,8 @@
 
 | program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| NYT | Expressing Opinions |  | PHRASE |  | AG CUR TUAIRIMÍ IN IÚL | Expressing opinions |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | PHRASE |  | AG CUR TUAIRIMÍ IN IÚL | Expressing opinions |  |  |  |  | ag cur toor-a-me in yool |  |  |
+| NYT | Expressing Opinions |  | PHRASE |  | Caithimh aimsire | Pastimes |  |  |  |  | cahiv amshira |  |  |
 | NYT | Expressing Opinions |  | WORD |  | banc | bank |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD |  | clár | programme |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD |  | cláracha | programmes |  |  |  |  |  |  |  |
@@ -679,6 +718,9 @@
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha dúlra | nature programmes |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | seacláid | chocolate |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | portán | crab |  |  |  |  | porthaan |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cáis | cheese |  |  |  |  | kesh |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ríomhairí | computers |  |  |  |  | Ree-war-ee |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | bláthanna | flowers |  |  |  |  | Blee-hena |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul ag rith | go running. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | amharc ar an teilifís | watch television. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | éisteacht le ceol | listen to music. |  |  |  |  |  |  |  |
@@ -704,6 +746,9 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha dúlra | I like nature programmes |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom seacláid | I like chocolate |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom portán | I like crab |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom cáis | I like cheese |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom ríomhairí | I like computers |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom bláthanna | I like flowers |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag rith | I like go running. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom amharc ar an teilifís | I like watch television. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom éisteacht le ceol | I like listen to music. |  |  |  |  |  |  |  |
@@ -726,6 +771,9 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha dúlra | I really like nature programmes |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom seacláid | I really like chocolate |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom portán | I really like crab |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom cáis | I really like cheese |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom ríomhairí | I really like computers |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom bláthanna | I really like flowers |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag rith | I really like go running. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom amharc ar an teilifís | I really like watch television. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom éisteacht le ceol | I really like listen to music. |  |  |  |  |  |  |  |
@@ -749,6 +797,9 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha dúlra | I don't like nature programmes |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom seacláid | I don't like chocolate |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom portán | I don't like crab |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cáis | I don't like cheese |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ríomhairí | I don't like computers |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom bláthanna | I don't like flowers |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith | I don't like go running. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom amharc ar an teilifís | I don't like watch television. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol | I don't like listen to music. |  |  |  |  |  |  |  |
@@ -771,6 +822,9 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha dúlra ar chor ar bith. | I don't like nature programmes at all. |  |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom seacláid ar chor ar bith. | I don't like chocolate at all. |  |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom portán ar chor ar bith. | I don't like crab at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cáis ar chor ar bith. | I don't like cheese at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ríomhairí ar chor ar bith. | I don't like computers at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom bláthanna ar chor ar bith. | I don't like flowers at all. |  |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith ar chor ar bith. | I don't like go running. at all. |  |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom amharc ar an teilifís ar chor ar bith. | I don't like watch television. at all. |  |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol ar chor ar bith. | I don't like listen to music. at all. |  |  |  |  | ...ar har a bee |  |  |
@@ -795,6 +849,9 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha dúlra | I hate nature programmes |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom seacláid | I hate chocolate |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom portán | I hate crab |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cáis | I hate cheese |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ríomhairí | I hate computers |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom bláthanna | I hate flowers |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag rith | I hate go running. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom amharc ar an teilifís | I hate watch television. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom éisteacht le ceol | I hate listen to music. |  |  |  |  |  |  |  |
@@ -817,6 +874,9 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha dúlra? | Do you like nature programmes? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat seacláid? | Do you like chocolate? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat portán? | Do you like crab? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cáis? | Do you like cheese? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ríomhairí? | Do you like computers? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat bláthanna? | Do you like flowers? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag rith? | Do you like go running.? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat amharc ar an teilifís? | Do you like watch television.? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat éisteacht le ceol? | Do you like listen to music.? |  |  |  | s |  |  |  |
@@ -839,6 +899,9 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha dúlra? | Do you like nature programmes? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh seacláid? | Do you like chocolate? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh portán? | Do you like crab? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cáis? | Do you like cheese? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ríomhairí? | Do you like computers? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh bláthanna? | Do you like flowers? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag rith? | Do you like go running.? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh amharc ar an teilifís? | Do you like watch television.? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh éisteacht le ceol? | Do you like listen to music.? |  |  |  | p |  |  |  |
@@ -889,6 +952,9 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha dúlra? | Do you like nature programmes? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat seacláid? | Do you like chocolate? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat portán? | Do you like crab? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat cáis? | Do you like cheese? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ríomhairí? | Do you like computers? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat bláthanna? | Do you like flowers? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag rith? | Do you like go running.? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat amharc ar an teilifís? | Do you like watch television.? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat éisteacht le ceol? | Do you like listen to music.? |  |  |  | s |  |  |  |
@@ -911,6 +977,9 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha dúlra? | Do you like nature programmes? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh seacláid? | Do you like chocolate? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh portán? | Do you like crab? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh cáis? | Do you like cheese? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ríomhairí? | Do you like computers? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh bláthanna? | Do you like flowers? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag rith? | Do you like go running.? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh amharc ar an teilifís? | Do you like watch television.? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh éisteacht le ceol? | Do you like listen to music.? |  |  |  | p |  |  |  |
@@ -942,6 +1011,9 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha dúlra | I prefer nature programmes |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom seacláid | I prefer chocolate |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom portán | I prefer crab |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cáis | I prefer cheese |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ríomhairí | I prefer computers |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom bláthanna | I prefer flowers |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag rith | I prefer go running. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom amharc ar an teilifís | I prefer watch television. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom éisteacht le ceol | I prefer listen to music. |  |  |  |  |  |  |  |
@@ -960,7 +1032,7 @@
 | NYT | Expressing Opinions |  | SENTENCE |  | Is maith liomsa fosta é | I like it too/as well |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | SENTENCE |  | Is fearr liomsa fosta é | I prefer it too/as well |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD |  | bia | food |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | WORD |  | deoch | drink |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | WHAT_YOU_WANT | deoch | drink |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | PHRASE |  | bia agus deoch | food and drink |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD |  | feoil | meat |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD |  | glasraí | vegetables |  |  |  |  |  |  |  |
@@ -1029,6 +1101,7 @@
 | NYT | ORDERING DRINKS |  | QUESTION |  | Cad é atá de dhíth ort? | What do you want? |  |  |  |  |  |  | You can use the following when addressing a friend or family member: |
 | NYT | ORDERING DRINKS |  | QUESTION |  | Cad é atá de dhíth oraibh? | What do you want?  |  | p |  |  |  |  | You can use the following when addressing a friend or family member: |
 | NYT | ORDERING DRINKS |  | TEMPLATE |  | Ba mhaith liom $WHAT_YOU_WANT | I'd like $WHAT_YOU_WANT |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom deoch | I'd like drink |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom caife | I'd like coffee |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom caife dubh | I'd like black coffee |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom caife bán | I'd like white coffee |  |  |  |  |  |  |  |
@@ -1057,6 +1130,7 @@
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom cuidiú | I'd like help |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Ba mhaith liom ag dul amach | I'd like to go out |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | TEMPLATE |  | $WHAT_YOU_WANT domhsa. | $WHAT_YOU_WANT for me. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | deoch domhsa. | drink for me. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | caife domhsa. | coffee for me. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | caife dubh domhsa. | black coffee for me. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | caife bán domhsa. | white coffee for me. |  |  |  |  |  |  |  |
@@ -1094,6 +1168,7 @@
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Tógaim. | I do. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Ní thógaim. | I don't. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | TEMPLATE |  | Ar mhaith leat $WHAT_YOU_WANT? | Would you like $WHAT_YOU_WANT? |  | s |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat deoch? | Would you like drink? |  | s |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat caife? | Would you like coffee? |  | s |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat caife dubh? | Would you like black coffee? |  | s |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat caife bán? | Would you like white coffee? |  | s |  |  |  |  |  |
@@ -1121,6 +1196,7 @@
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat úll? | Would you like apple? |  | s |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat cuidiú? | Would you like help? |  | s |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | TEMPLATE |  | Ar mhaith libh $WHAT_YOU_WANT? | Would you like $WHAT_YOU_WANT? |  | p |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh deoch? | Would you like drink? |  | p |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh caife? | Would you like coffee? |  | p |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh caife dubh? | Would you like black coffee? |  | p |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh caife bán? | Would you like white coffee? |  | p |  |  |  |  |  |
@@ -1154,6 +1230,7 @@
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Sláinte! | Cheers! |  |  |  | Health! |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Sláinte mhór | Cheers (response??) |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | $WHAT_YOU_WANT duitse. | $WHAT_YOU_WANT for you. |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | deoch duitse. | drink for you. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | caife duitse. | coffee for you. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | caife dubh duitse. | black coffee for you. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | caife bán duitse. | white coffee for you. |  |  |  |  |  |  |  |
@@ -1181,6 +1258,7 @@
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | úll duitse. | apple for you. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | cuidiú duitse. | help for you. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Seo do $WHAT_YOU_WANT | Here's your $WHAT_YOU_WANT |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do deoch | Here's your drink |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do caife | Here's your coffee |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do caife dubh | Here's your black coffee |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do caife bán | Here's your white coffee |  |  |  |  |  |  |  |
@@ -1246,6 +1324,7 @@
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | codladh | sleep |  |  |  |  | coh-loo |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | aerfort | airport |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | amharclann | theatre |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | gealach | moon |  |  |  |  | gallack |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an caife | the café |  |  | m |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an amharclann | the theatre |  |  | f |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an garáiste | the garage |  |  | m |  |  |  |  |
@@ -1259,6 +1338,7 @@
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an t-ollmhargadh | the supermarket |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an bhialann | the restaurant |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an t-ospidéal | the hospital |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an ghealach | the moon |  |  |  |  | an yallach |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | QUESTION |  | Cá bhfuil tú ag dul? | Where are you going? |  | s |  |  | Ca will to a-gull |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | QUESTION |  | Cá bhfuil sibh ag dul? | Where are you going? |  | p |  |  | Ca will to a-gull |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | QUESTION |  | Cá bhfuil tusa ag dul? | Where are *you* going? |  | s |  |  |  |  |  |
@@ -1279,6 +1359,7 @@
 | NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ollmhargadh. | I'm going to the supermarket. |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an bhialann. | I'm going to the restaurant. |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ospidéal. | I'm going to the hospital. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an ghealach. | I'm going to the moon. |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go hoifig an phoist. | I am going to the post office |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go teach an phobail. | I am going to the church |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul abhaile. | I'm going home. |  |  |  |  |  |  |  |
@@ -1295,10 +1376,11 @@
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | ag a dó a chlog | at two o'clock |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | i gceann leathuair an chloig | in half an hour |  |  |  |  | i gen le-hoor a clig |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | i gceann uair an chloig | in an hour's time |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | i gceann trí huaire an chlog | in three-and-a-half hours' time |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | i gceann trí huaire go leith | in three-and-a-half hours' time |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | i gceann tamaill | in a while |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | anois | now |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | níos moille | later |  |  |  |  | nees mullya |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | i gceann tamaill | in a while |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | anocht | tonight |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | amárach | tomorrow |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | ar maidin | in the morning |  |  |  |  |  |  |  |
@@ -1311,10 +1393,11 @@
 | NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a dó a chlog | I'm going at two o'clock |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann leathuair an chloig | I'm going in half an hour |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann uair an chloig | I'm going in an hour's time |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire an chlog | I'm going in three-and-a-half hours' time |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire go leith | I'm going in three-and-a-half hours' time |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann tamaill | I'm going in a while |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul anois | I'm going now |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul níos moille | I'm going later |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann tamaill | I'm going in a while |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul anocht | I'm going tonight |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul amárach | I'm going tomorrow |  |  |  |  |  |  |  |
 | NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul ar maidin | I'm going in the morning |  |  |  |  |  |  |  |
@@ -1395,6 +1478,8 @@
 | NYT | DISCUSSING JOBS |  | WORD |  | ag obair | working |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | WORD |  | post | job |  |  |  |  | paw-st |  |  |
 | NYT | DISCUSSING JOBS |  | WORD |  | postanna | jobs |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | WORD |  | bunscoil | primary school |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | WORD |  | meánscoil | secondary school |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | JOB | feirmeoir | farmer |  |  |  |  | fer-mer |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | JOB | siopadóir | shopkeeper |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | JOB | búistéir | butcher |  |  |  |  |  |  |  |
@@ -1416,8 +1501,8 @@
 | NYT | DISCUSSING JOBS |  | WORD | JOB | innealtóir ríomhaireachta | computer engineer |  |  |  |  | inyaltar re-whar-achta |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | JOB | ríomhchláraitheoir | programmer |  |  |  |  | reo-clar-e-har |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | JOB | aisteoir | actor |  |  |  |  | asteor |  |  |
-| NYT | DISCUSSING JOBS |  | WORD |  | bunscoil | primary school |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | WORD |  | meánscoil | secondary school |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | WORD | JOB | múinteoir bunscoile | primary school teacher |  |  |  |  | asteor |  |  |
+| NYT | DISCUSSING JOBS |  | WORD | JOB | múinteoir meánscoile | secondary school teacher |  |  |  |  | asteor |  |  |
 | NYT | DISCUSSING JOBS |  | TEMPLATE |  | Is $JOB mé. | I'm a $JOB |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is feirmeoir mé. | I'm a farmer |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is siopadóir mé. | I'm a shopkeeper |  |  |  |  |  |  |  |
@@ -1440,6 +1525,8 @@
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is innealtóir ríomhaireachta mé. | I'm a computer engineer |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is ríomhchláraitheoir mé. | I'm a programmer |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is aisteoir mé. | I'm a actor |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir bunscoile mé. | I'm a primary school teacher |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir meánscoile mé. | I'm a secondary school teacher |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | TEMPLATE |  | $JOB atá ionam | I'm a $JOB |  |  |  |  | .. atá unam |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | feirmeoir atá ionam | I'm a farmer |  |  |  |  | .. atá unam |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | siopadóir atá ionam | I'm a shopkeeper |  |  |  |  | .. atá unam |  |  |
@@ -1462,10 +1549,13 @@
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir ríomhaireachta atá ionam | I'm a computer engineer |  |  |  |  | .. atá unam |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | ríomhchláraitheoir atá ionam | I'm a programmer |  |  |  |  | .. atá unam |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | aisteoir atá ionam | I'm a actor |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir bunscoile atá ionam | I'm a primary school teacher |  |  |  |  | .. atá unam |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir meánscoile atá ionam | I'm a secondary school teacher |  |  |  |  | .. atá unam |  |  |
 | NYT | DISCUSSING JOBS |  | QUESTION |  | Cad é an post atá agat? | What job do you do? |  |  |  | Where are you working? |  |  |  |
 | NYT | DISCUSSING JOBS |  | QUESTION |  | Cad é an tslí bheatha atá agat? | What do you do for a living? |  |  |  |  | cadj ay an tshlee veha ataa agat |  |  |
 | NYT | DISCUSSING JOBS |  | QUESTION |  | Cad é an post atá ag Michael? | What job does Michael have? |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | QUESTION |  | Cá bhfuil tú ag obair? | Where do you work? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | QUESTION |  | Cá bhfuil tusa ag obair? | Where do *you* work? |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i monarcha | in a factory |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | in oifig | in an office |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | in scoil | in a school |  |  |  |  |  |  |  |
@@ -1547,8 +1637,12 @@
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir ríomhaireachta a bhí ionam | I was a computer engineer |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | ríomhchláraitheoir a bhí ionam | I was a programmer |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | aisteoir a bhí ionam | I was a actor |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir bunscoile a bhí ionam | I was a primary school teacher |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir meánscoile a bhí ionam | I was a secondary school teacher |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | Ba mhúinteoir mé. | I was a teacher. |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | Ba mheicneoir mé. | I was a mechanic |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | SENTENCE |  | Ba dhochtúir mé. | I was a doctor |  |  |  |  | ba gochter ma |  |  |
+| NYT | DISCUSSING JOBS |  | SENTENCE |  | Ba banaltra mé. | I was a nurse |  |  |  |  | ba gochter ma |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | B'oibrí monarchan mé. | I was a factory worker |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | B'fheirmeoir mé. | I was a farmer |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | TEMPLATE |  | $JOB a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
@@ -1573,6 +1667,8 @@
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir ríomhaireachta a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | ríomhchláraitheoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | aisteoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir bunscoile a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir meánscoile a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | QUESTION |  | An $JOB tú? | Are you a $JOB? |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | An feirmeoir tú? | Are you a farmer? |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | An siopadóir tú? | Are you a shopkeeper? |  |  |  |  |  |  |  |
@@ -1595,6 +1691,8 @@
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | An innealtóir ríomhaireachta tú? | Are you a computer engineer? |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | An ríomhchláraitheoir tú? | Are you a programmer? |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | An aisteoir tú? | Are you a actor? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An múinteoir bunscoile tú? | Are you a primary school teacher? |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | An múinteoir meánscoile tú? | Are you a secondary school teacher? |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | Is ea. | Yes (I am). |  |  |  |  | sha?? or ish-aa?? |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | Ní hea. | No (I'm not). |  |  |  |  | nee ha |  |  |
 
@@ -3093,33 +3191,3 @@
 | Giota Beag | 13 |  |  |  | Tá deich seomra ann | There are ten rooms in it |  |  |  |  |  |  |  |
 | Giota Beag | 13 |  |  |  | Cá mhéad seomra luí atá ann? | How many bedrooms are in it? |  |  |  |  |  |  |  |
 | Giota Beag | 13 |  |  |  | Tá ceithre sheomra luí ann | There are four bedrooms in it |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Tá trí sheomra luí thuas staighre.. | There are three bedrooms upstairs… |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | ..agus seomra luí amháin thíos staighre | ..and one bedroom downstairs |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Cá bhfuil Liam? | Where is Liam? |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Tá sé sa seomra suí | He is in the sitting room |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Tá sí sa seomra folctha | She is in the bathroom |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Tá sé sa ghairdín | He is in the garden |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Tá sí sa gharáiste | She is in the garage |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Tá sé sa chistin | He is in the kitchen |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Tá sí sa seomra luí | She is in the bedroom |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Níl aon tinteán mar do thinteán féin! | There’s no hearth like your own hearth! |  |  |  |  |  |  |  |
-
-## Giota Beag - 14
-
-| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag | 14 |  |  |  | Sa chistin | In the kitchen |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Tá an dinnéar réidh | The dinner is ready |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | A phaistí, tá an tae réidh | Children, the tea is ready |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | An bhfuil an lón réidh? | Is the lunch ready? |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Tá sé beagnach réidh | It’s nearly ready |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Suigh síos ag an tábla anois | Sit down at the table now |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Cuir chugam scian agus forc le do thoil | Pass me a knife and a fork please |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Cuir chugam pláta le do thoil | Pass me a plate please |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Cuir chugam gloine le do thoil | Pass me a glass please |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Seo duit | Here you are |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Spúnóg | Spoon |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Salann agus Piobar | Salt and Pepper |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | An t-anlann donn | The brown sauce |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | An t-anlann dearg | The red sauce |  |  |  |  |  |  |  |
-| Giota Beag | 14 |  |  |  | Ar mhaith leat prátaí? | Would you like some potatoes? |  |  |  |  |  |  |  |

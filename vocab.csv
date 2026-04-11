@@ -329,6 +329,7 @@ NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé ceathrú go dtí $HOUR_O_CLOCK
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé cúig bomaite i ndiaidh $HOUR_O_CLOCK	It is five minutes past $HOUR_O_CLOCK	repeat for each time						
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé cúig i ndiaidh $HOUR_O_CLOCK	It is five past $HOUR_O_CLOCK	repeat for each time						
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé fiche go dtí $HOUR_O_CLOCK	It is twenty to $HOUR_O_CLOCK	repeat for each time						
+NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			An bhfuil dráma anocht?	Is the play tonight?							
 NYT	Discussing Languages	Languages	PHRASE		Ag plé teangacha	Discussing languages					tchangaha??		
 NYT	Discussing Languages	Languages	WORD		teanga	a language					tchangy??		
 NYT	Discussing Languages	Languages	WORD		teangacha	Languages					tchangaha??		
@@ -344,17 +345,29 @@ NYT	Discussing Languages	Languages	WORD	LANGUAGE2	Gaeilge	Irish
 NYT	Discussing Languages	Languages	WORD	LANGUAGE2	Fraincise	French							
 NYT	Discussing Languages	Languages	WORD	LANGUAGE2	Gearmáinise	German							
 NYT	Discussing Languages	Languages	WORD	LANGUAGE2	Iodáilise	Italian							
+NYT	Discussing Languages	Languages	WORD	LANGUAGE3	Gaeilge	Irish							
+NYT	Discussing Languages	Languages	WORD	LANGUAGE3	Fhraincis	French							
+NYT	Discussing Languages	Languages	WORD	LANGUAGE3	Ghearmáinis	German							
+NYT	Discussing Languages	Languages	WORD	LANGUAGE3	Spáinnis	Spanish							
+NYT	Discussing Languages	Languages	WORD	LANGUAGE3	Iodáilis	Italian							
 NYT	Discussing Languages	Languages	TEMPLATE		An bhfuil $LANGUAGE agat?	Can you speak $LANGUAGE?				Have you $LANGUAGE? Is $LANGUAGE at you?			
+NYT	Discussing Languages	Languages	TEMPLATE		An bhfuil $LANGUAGE ag Tony?	Can Tony speak $LANGUAGE?				Has Tondy $LANGUAGE? Is $LANGUAGE at Tony?			
+NYT	Discussing Languages	Languages	TEMPLATE		Tá $LANGUAGE agam.	I speak $LANGUAGE.							
 NYT	Discussing Languages	Languages	TEMPLATE		Tá $LANGUAGE líofa agam.	I speak $LANGUAGE fluently.							
+NYT	Discussing Languages	Languages	TEMPLATE		Tá líofa agam.	I speak fluently.							
+NYT	Discussing Languages	Languages	TEMPLATE		Tá líofa agamsa.	*I* speak fluently.							
 NYT	Discussing Languages	Languages	SENTENCE		Tá beagán $LANGUAGE2 agam.	I speak a little $LANGUAGE2.							
 NYT	Discussing Languages	Languages	SENTENCE		Tá mé ag foghlaim.	I'm learning.							
-NYT	Discussing Languages	Languages	SENTENCE		Tá mé ag foghlaim $LANGUAGE2.	I'm learning $LANGUAGE2.							
+NYT	Discussing Languages	Languages	SENTENCE		Tá mé ag foghlaim $LANGUAGE2.	I'm learning $LANGUAGE2.	Repeat for other pronouns/person’s name						
 NYT	Discussing Languages	Languages	SENTENCE		Níl mórán $LANGUAGE2 agam.	I can't speak much $LANGUAGE2.							
-NYT	Discussing Languages	Languages	TEMPLATE		Níl aon $LANGUAGE agam.	I don't speak $LANGUAGE.							
+NYT	Discussing Languages	Languages	SENTENCE		Níl mórán $LANGUAGE2 agam ach tá mé ag foghlaim.	I can't speak much $LANGUAGE2 but I am learning.							
+NYT	Discussing Languages	Languages	TEMPLATE		Níl aon $LANGUAGE3 agam.	I don't speak $LANGUAGE.							
 NYT	Discussing Languages	Languages	SENTENCE		Tá.	Yes.							
 NYT	Discussing Languages	Languages	SENTENCE		Níl.	No.							
 NYT	Discussing Languages	Languages	SENTENCE		Beagán.	A little.							
 NYT	Discussing Languages	Languages	SENTENCE		Tá. Tá mé líofa.	Yes. I'm fluent.					Ta. Ta may leefa		
+NYT	Discussing Languages	Languages	SENTENCE		an bhfuil tú ag foghlaim?	Are you learning?							
+NYT	Discussing Languages	Languages	SENTENCE		an bhfuil tú ag foghlaim $LANGUAGE?	Are you learning $LANGUAGE?							
 NYT	Discussing Languages	Languages	QUESTION		Cad é na teangacha atá agat?	Which/what languages can you speak?							
 NYT	Discussing Languages	Languages	QUESTION		Cad é na teangacha eile atá agat?	Which/what other languages can you speak?							
 NYT	Discussing Languages	Languages	SENTENCE		Tá Fraincis agus Gearmáinis agam.	I speak French and German.	repeat for other languages						
@@ -426,7 +439,8 @@ NYT	Discussing Languages	Counting things			cóta	coat
 NYT	Discussing Languages	Counting things			naoi gcóta	nine coats							
 NYT	Discussing Languages	Counting things			geansaí	jumper							
 NYT	Discussing Languages	Counting things			deich ngeansaí	nine jumpers							
-NYT	Expressing Opinions		PHRASE		AG CUR TUAIRIMÍ IN IÚL	Expressing opinions							
+NYT	Expressing Opinions		PHRASE		AG CUR TUAIRIMÍ IN IÚL	Expressing opinions					ag cur toor-a-me in yool		
+NYT	Expressing Opinions		PHRASE		Caithimh aimsire	Pastimes					cahiv amshira		
 NYT	Expressing Opinions		WORD		banc	bank							
 NYT	Expressing Opinions		WORD		clár	programme							
 NYT	Expressing Opinions		WORD		cláracha	programmes							
@@ -437,6 +451,9 @@ NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	cláracha cainte	talk shows
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	cláracha dúlra	nature programmes							
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	seacláid	chocolate							
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	portán	crab					porthaan		
+NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	cáis	cheese					kesh		
+NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	ríomhairí	computers					Ree-war-ee		
+NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	bláthanna	flowers					Blee-hena		
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul ag rith	go running.							
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	amharc ar an teilifís	watch television.							
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	éisteacht le ceol	listen to music.							
@@ -490,7 +507,7 @@ NYT	Expressing Opinions		SENTENCE		Is maith liom snagcheoil ach is fearr liom ce
 NYT	Expressing Opinions		SENTENCE		Is maith liomsa fosta é	I like it too/as well							
 NYT	Expressing Opinions		SENTENCE		Is fearr liomsa fosta é	I prefer it too/as well							
 NYT	Expressing Opinions		WORD		bia	food							
-NYT	Expressing Opinions		WORD		deoch	drink							
+NYT	Expressing Opinions		WORD	WHAT_YOU_WANT	deoch	drink							
 NYT	Expressing Opinions		PHRASE		bia agus deoch	food and drink							
 NYT	Expressing Opinions		WORD		feoil	meat							
 NYT	Expressing Opinions		WORD		glasraí	vegetables							
@@ -610,6 +627,7 @@ NYT	SAYING WHERE YOU’RE GOING		WORD	PLACES	sólann	leisure centre
 NYT	SAYING WHERE YOU’RE GOING		WORD	PLACES	codladh	sleep					coh-loo		
 NYT	SAYING WHERE YOU’RE GOING		WORD	PLACES	aerfort	airport							
 NYT	SAYING WHERE YOU’RE GOING		WORD	PLACES	amharclann	theatre							
+NYT	SAYING WHERE YOU’RE GOING		WORD	PLACES	gealach	moon					gallack		
 NYT	SAYING WHERE YOU’RE GOING		WORD	THE_PLACES	an caife	the café			m				
 NYT	SAYING WHERE YOU’RE GOING		WORD	THE_PLACES	an amharclann	the theatre			f				
 NYT	SAYING WHERE YOU’RE GOING		WORD	THE_PLACES	an garáiste	the garage			m				
@@ -623,6 +641,7 @@ NYT	SAYING WHERE YOU’RE GOING		WORD	THE_PLACES	an t-ionad siopadóireachta	the
 NYT	SAYING WHERE YOU’RE GOING		WORD	THE_PLACES	an t-ollmhargadh	the supermarket							
 NYT	SAYING WHERE YOU’RE GOING		WORD	THE_PLACES	an bhialann	the restaurant							
 NYT	SAYING WHERE YOU’RE GOING		WORD	THE_PLACES	an t-ospidéal	the hospital							
+NYT	SAYING WHERE YOU’RE GOING		WORD	THE_PLACES	an ghealach	the moon					an yallach		
 NYT	SAYING WHERE YOU’RE GOING		QUESTION		Cá bhfuil tú ag dul?	Where are you going?		s			Ca will to a-gull		
 NYT	SAYING WHERE YOU’RE GOING		QUESTION		Cá bhfuil sibh ag dul?	Where are you going?		p			Ca will to a-gull		
 NYT	SAYING WHERE YOU’RE GOING		QUESTION		Cá bhfuil tusa ag dul?	Where are *you* going?		s					
@@ -646,10 +665,11 @@ NYT	SAYING WHERE YOU’RE GOING		QUESTION		Cá huair atá tú ag dul go Corcaigh
 NYT	SAYING WHERE YOU’RE GOING		WORD	GOING_WHEN	ag a dó a chlog	at two o'clock							
 NYT	SAYING WHERE YOU’RE GOING		WORD	GOING_WHEN	i gceann leathuair an chloig	in half an hour					i gen le-hoor a clig		
 NYT	SAYING WHERE YOU’RE GOING		WORD	GOING_WHEN	i gceann uair an chloig	in an hour's time							
+NYT	SAYING WHERE YOU’RE GOING		WORD	GOING_WHEN	i gceann trí huaire an chlog	in three-and-a-half hours' time							
 NYT	SAYING WHERE YOU’RE GOING		WORD	GOING_WHEN	i gceann trí huaire go leith	in three-and-a-half hours' time							
+NYT	SAYING WHERE YOU’RE GOING		WORD	GOING_WHEN	i gceann tamaill	in a while							
 NYT	SAYING WHERE YOU’RE GOING		WORD	GOING_WHEN	anois	now							
 NYT	SAYING WHERE YOU’RE GOING		WORD	GOING_WHEN	níos moille	later					nees mullya		
-NYT	SAYING WHERE YOU’RE GOING		WORD	GOING_WHEN	i gceann tamaill	in a while							
 NYT	SAYING WHERE YOU’RE GOING		WORD	GOING_WHEN	anocht	tonight							
 NYT	SAYING WHERE YOU’RE GOING		WORD	GOING_WHEN	amárach	tomorrow							
 NYT	SAYING WHERE YOU’RE GOING		WORD	GOING_WHEN	ar maidin	in the morning							
@@ -679,6 +699,8 @@ NYT	DISCUSSING JOBS		WORD		obair	work
 NYT	DISCUSSING JOBS		WORD		ag obair	working							
 NYT	DISCUSSING JOBS		WORD		post	job					paw-st		
 NYT	DISCUSSING JOBS		WORD		postanna	jobs							
+NYT	DISCUSSING JOBS		WORD		bunscoil	primary school							
+NYT	DISCUSSING JOBS		WORD		meánscoil	secondary school							
 NYT	DISCUSSING JOBS		WORD	JOB	feirmeoir	farmer					fer-mer		
 NYT	DISCUSSING JOBS		WORD	JOB	siopadóir	shopkeeper							
 NYT	DISCUSSING JOBS		WORD	JOB	búistéir	butcher							
@@ -700,14 +722,15 @@ NYT	DISCUSSING JOBS		WORD	JOB	innealtóir	engineer					inyaltar
 NYT	DISCUSSING JOBS		WORD	JOB	innealtóir ríomhaireachta	computer engineer					inyaltar re-whar-achta		
 NYT	DISCUSSING JOBS		WORD	JOB	ríomhchláraitheoir	programmer					reo-clar-e-har		
 NYT	DISCUSSING JOBS		WORD	JOB	aisteoir	actor					asteor		
-NYT	DISCUSSING JOBS		WORD		bunscoil	primary school							
-NYT	DISCUSSING JOBS		WORD		meánscoil	secondary school							
+NYT	DISCUSSING JOBS		WORD	JOB	múinteoir bunscoile	primary school teacher					asteor		
+NYT	DISCUSSING JOBS		WORD	JOB	múinteoir meánscoile	secondary school teacher					asteor		
 NYT	DISCUSSING JOBS		TEMPLATE		Is $JOB mé.	I'm a $JOB							
 NYT	DISCUSSING JOBS		TEMPLATE		$JOB atá ionam	I'm a $JOB					.. atá unam		
 NYT	DISCUSSING JOBS		QUESTION		Cad é an post atá agat?	What job do you do?				Where are you working?			
 NYT	DISCUSSING JOBS		QUESTION		Cad é an tslí bheatha atá agat?	What do you do for a living?					cadj ay an tshlee veha ataa agat		
 NYT	DISCUSSING JOBS		QUESTION		Cad é an post atá ag Michael?	What job does Michael have?							
 NYT	DISCUSSING JOBS		QUESTION		Cá bhfuil tú ag obair?	Where do you work?							
+NYT	DISCUSSING JOBS		QUESTION		Cá bhfuil tusa ag obair?	Where do *you* work?							
 NYT	DISCUSSING JOBS		WORD	IN_WORKPLACE	i monarcha	in a factory							
 NYT	DISCUSSING JOBS		WORD	IN_WORKPLACE	in oifig	in an office							
 NYT	DISCUSSING JOBS		WORD	IN_WORKPLACE	in scoil	in a school							
@@ -740,6 +763,8 @@ NYT	DISCUSSING JOBS		QUESTION		Cad é an post a bhí agat?	What job did you have
 NYT	DISCUSSING JOBS		TEMPLATE		$JOB a bhí ionam	I was a $JOB							
 NYT	DISCUSSING JOBS		SENTENCE		Ba mhúinteoir mé.	I was a teacher.							
 NYT	DISCUSSING JOBS		SENTENCE		Ba mheicneoir mé.	I was a mechanic							
+NYT	DISCUSSING JOBS		SENTENCE		Ba dhochtúir mé.	I was a doctor					ba gochter ma		
+NYT	DISCUSSING JOBS		SENTENCE		Ba banaltra mé.	I was a nurse					ba gochter ma		
 NYT	DISCUSSING JOBS		SENTENCE		B'oibrí monarchan mé.	I was a factory worker							
 NYT	DISCUSSING JOBS		SENTENCE		B'fheirmeoir mé.	I was a farmer							
 NYT	DISCUSSING JOBS		TEMPLATE		$JOB a bhí ionam.	I was a secretary.							
