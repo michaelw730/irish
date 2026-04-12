@@ -8,8 +8,6 @@
 | Various | Greetings etc |  |  |  | Oíche mhaith. | Good evening/night. |  |  |  |  |  |  |  |
 | Various | Greetings etc |  |  |  | beannachtaí | Greetings |  |  |  |  | baan-ak-tee |  |  |
 | Various | Greetings etc |  |  |  | arís | again. |  |  |  |  |  |  |  |
-| Various | Greetings etc |  |  |  | le do thoil | please |  | s |  |  | le de hull |  |  |
-| Various | Greetings etc |  |  |  | le bhur dtoil | please |  | p |  |  | le wer dul |  |  |
 | Various | Greetings etc |  |  |  | gabh mo leithscéal | Excuse me |  |  |  |  |  |  |  |
 | Various | Greetings etc |  |  |  | Fan bomaite | Wait a minute |  |  |  |  |  |  |  |
 | Various | Greetings etc |  |  |  | Tóg go bog é | Take it easy |  |  |  |  | Toe-g geh bow-g eh |  |  |
@@ -53,13 +51,13 @@
 | NYT | Meeting People |  | PHRASE | HOW_I_AM | go measaratha | reasonable/middling |  |  |  |  |  |  |  |
 | NYT | Meeting People |  | PHRASE | HOW_I_AM | go measaratha maith | reasonable/middling good |  |  |  |  |  |  |  |
 | NYT | Meeting People |  | PHRASE | HOW_I_AM | i gceart | rightly |  |  |  |  |  |  |  |
-| NYT | Meeting People |  | WORD |  | mé | I |  |  |  |  |  |  |  |
-| NYT | Meeting People |  | WORD |  | tú | you |  | s |  |  |  |  |  |
-| NYT | Meeting People |  | WORD |  | sé | he |  |  |  |  |  |  |  |
-| NYT | Meeting People |  | WORD |  | sí | she |  |  |  |  |  |  |  |
-| NYT | Meeting People |  | WORD |  | muid | we |  |  |  |  |  |  |  |
-| NYT | Meeting People |  | WORD |  | sibh | you |  | p |  |  |  |  |  |
-| NYT | Meeting People |  | WORD |  | siad | they  |  |  |  |  |  |  |  |
+| NYT | Meeting People |  | WORD | PRONOUN | mé | I |  |  |  |  |  |  |  |
+| NYT | Meeting People |  | WORD | PRONOUN | tú | you |  | s |  |  |  |  |  |
+| NYT | Meeting People |  | WORD | PRONOUN | sé | he |  |  |  |  |  |  |  |
+| NYT | Meeting People |  | WORD | PRONOUN | sí | she |  |  |  |  |  |  |  |
+| NYT | Meeting People |  | WORD | PRONOUN | muid | we |  |  |  |  |  |  |  |
+| NYT | Meeting People |  | WORD | PRONOUN | sibh | you |  | p |  |  |  |  |  |
+| NYT | Meeting People |  | WORD | PRONOUN | siad | they  |  |  |  |  |  |  |  |
 | NYT | Meeting People |  | PHRASE |  | Tá mé | I am |  |  |  |  |  |  |  |
 | NYT | Meeting People |  | PHRASE |  | Tá tú | You are  |  | s |  |  |  |  |  |
 | NYT | Meeting People |  | PHRASE |  | Tá sé | He/it is |  |  |  |  |  |  |  |
@@ -727,7 +725,7 @@
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul ag snámh | go swimming. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul chuig scannáin | go to films. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul chuig drámaí | go to plays. |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | imirt | tennis |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | imirt | play |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | leadóg a imirt | play tennis |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol | music |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | WORD |  | Cineálacha ceoil | Types of music |  |  |  |  |  |  |  |
@@ -755,7 +753,7 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag snámh | I like go swimming. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig scannáin | I like go to films. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig drámaí | I like go to plays. |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom imirt | I like tennis |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom imirt | I like play |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom leadóg a imirt | I like play tennis |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol | I like music |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol traidisiúnta | I like traditional music |  |  |  |  |  |  |  |
@@ -780,7 +778,7 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag snámh | I really like go swimming. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig scannáin | I really like go to films. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig drámaí | I really like go to plays. |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom imirt | I really like tennis |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom imirt | I really like play |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom leadóg a imirt | I really like play tennis |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol | I really like music |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol traidisiúnta | I really like traditional music |  |  |  |  |  |  |  |
@@ -806,7 +804,7 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh | I don't like go swimming. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin | I don't like go to films. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí | I don't like go to plays. |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt | I don't like tennis |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt | I don't like play |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom leadóg a imirt | I don't like play tennis |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol | I don't like music |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol traidisiúnta | I don't like traditional music |  |  |  |  |  |  |  |
@@ -831,7 +829,7 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh ar chor ar bith. | I don't like go swimming. at all. |  |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin ar chor ar bith. | I don't like go to films. at all. |  |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí ar chor ar bith. | I don't like go to plays. at all. |  |  |  |  | ...ar har a bee |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt ar chor ar bith. | I don't like tennis at all. |  |  |  |  | ...ar har a bee |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt ar chor ar bith. | I don't like play at all. |  |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom leadóg a imirt ar chor ar bith. | I don't like play tennis at all. |  |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol ar chor ar bith. | I don't like music at all. |  |  |  |  | ...ar har a bee |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol traidisiúnta ar chor ar bith. | I don't like traditional music at all. |  |  |  |  | ...ar har a bee |  |  |
@@ -858,7 +856,7 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag snámh | I hate go swimming. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig scannáin | I hate go to films. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig drámaí | I hate go to plays. |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom imirt | I hate tennis |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom imirt | I hate play |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom leadóg a imirt | I hate play tennis |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol | I hate music |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol traidisiúnta | I hate traditional music |  |  |  |  |  |  |  |
@@ -883,7 +881,7 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag snámh? | Do you like go swimming.? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig scannáin? | Do you like go to films.? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig drámaí? | Do you like go to plays.? |  |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat imirt? | Do you like tennis? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat imirt? | Do you like play? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat leadóg a imirt? | Do you like play tennis? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol? | Do you like music? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol traidisiúnta? | Do you like traditional music? |  |  |  | s |  |  |  |
@@ -908,7 +906,7 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag snámh? | Do you like go swimming.? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig scannáin? | Do you like go to films.? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig drámaí? | Do you like go to plays.? |  |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh imirt? | Do you like tennis? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh imirt? | Do you like play? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh leadóg a imirt? | Do you like play tennis? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol? | Do you like music? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol traidisiúnta? | Do you like traditional music? |  |  |  | p |  |  |  |
@@ -961,7 +959,7 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag snámh? | Do you like go swimming.? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig scannáin? | Do you like go to films.? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig drámaí? | Do you like go to plays.? |  |  |  | s |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat imirt? | Do you like tennis? |  |  |  | s |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat imirt? | Do you like play? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat leadóg a imirt? | Do you like play tennis? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol? | Do you like music? |  |  |  | s |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol traidisiúnta? | Do you like traditional music? |  |  |  | s |  |  |  |
@@ -986,7 +984,7 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag snámh? | Do you like go swimming.? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig scannáin? | Do you like go to films.? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig drámaí? | Do you like go to plays.? |  |  |  | p |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh imirt? | Do you like tennis? |  |  |  | p |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh imirt? | Do you like play? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh leadóg a imirt? | Do you like play tennis? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol? | Do you like music? |  |  |  | p |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol traidisiúnta? | Do you like traditional music? |  |  |  | p |  |  |  |
@@ -1020,7 +1018,7 @@
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag snámh | I prefer go swimming. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig scannáin | I prefer go to films. |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig drámaí | I prefer go to plays. |  |  |  |  |  |  |  |
-| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom imirt | I prefer tennis |  |  |  |  |  |  |  |
+| NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom imirt | I prefer play |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom leadóg a imirt | I prefer play tennis |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol | I prefer music |  |  |  |  |  |  |  |
 | NYT | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol traidisiúnta | I prefer traditional music |  |  |  |  |  |  |  |
@@ -1503,30 +1501,31 @@
 | NYT | DISCUSSING JOBS |  | WORD | JOB | aisteoir | actor |  |  |  |  | asteor |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | JOB | múinteoir bunscoile | primary school teacher |  |  |  |  | asteor |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | JOB | múinteoir meánscoile | secondary school teacher |  |  |  |  | asteor |  |  |
-| NYT | DISCUSSING JOBS |  | TEMPLATE |  | Is $JOB mé. | I'm a $JOB |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is feirmeoir mé. | I'm a farmer |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is siopadóir mé. | I'm a shopkeeper |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is búistéir mé. | I'm a butcher |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is meicneoir mé. | I'm a mechanic |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir mé. | I'm a teacher |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is rúnaí mé. | I'm a secretary |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is oibrí monarchan mé. | I'm a factory worker |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is banaltra mé. | I'm a nurse |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is dochtúir mé. | I'm a doctor |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is tiománaí mé. | I'm a driver |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is bainisteoir mé. | I'm a manager |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is freastalaí mé. | I'm a waiter |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is tógálaí mé. | I'm a builder |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is siúinéir mé. | I'm a carpenter |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is bean tí mé. | I'm a housewife |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is leictreoir mé. | I'm a electrician |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is iascaire mé. | I'm a fisherman |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is innealtóir mé. | I'm a engineer |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is innealtóir ríomhaireachta mé. | I'm a computer engineer |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is ríomhchláraitheoir mé. | I'm a programmer |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is aisteoir mé. | I'm a actor |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir bunscoile mé. | I'm a primary school teacher |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir meánscoile mé. | I'm a secondary school teacher |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | WORD |  | garraí | garden |  |  |  |  | gary |  |  |
+| NYT | DISCUSSING JOBS |  | TEMPLATE |  | Is $JOB mé. | I'm a $JOB | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is feirmeoir mé. | I'm a farmer | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is siopadóir mé. | I'm a shopkeeper | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is búistéir mé. | I'm a butcher | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is meicneoir mé. | I'm a mechanic | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir mé. | I'm a teacher | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is rúnaí mé. | I'm a secretary | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is oibrí monarchan mé. | I'm a factory worker | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is banaltra mé. | I'm a nurse | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is dochtúir mé. | I'm a doctor | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is tiománaí mé. | I'm a driver | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is bainisteoir mé. | I'm a manager | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is freastalaí mé. | I'm a waiter | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is tógálaí mé. | I'm a builder | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is siúinéir mé. | I'm a carpenter | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is bean tí mé. | I'm a housewife | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is leictreoir mé. | I'm a electrician | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is iascaire mé. | I'm a fisherman | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is innealtóir mé. | I'm a engineer | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is innealtóir ríomhaireachta mé. | I'm a computer engineer | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is ríomhchláraitheoir mé. | I'm a programmer | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is aisteoir mé. | I'm a actor | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir bunscoile mé. | I'm a primary school teacher | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir meánscoile mé. | I'm a secondary school teacher | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | TEMPLATE |  | $JOB atá ionam | I'm a $JOB |  |  |  |  | .. atá unam |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | feirmeoir atá ionam | I'm a farmer |  |  |  |  | .. atá unam |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | siopadóir atá ionam | I'm a shopkeeper |  |  |  |  | .. atá unam |  |  |
@@ -1569,6 +1568,7 @@
 | NYT | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i ngaráiste | in a garage |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | in ollmhargadh | in a supermarket |  |  |  |  | ollwarragoo |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i dteach tábhairne | in a pub |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i ngarraí | in a garden |  |  |  |  | in narry |  |  |
 | NYT | DISCUSSING JOBS |  | WORD |  | stáisiún peitril | petrol station |  |  |  |  | stashon petrol |  |  |
 | NYT | DISCUSSING JOBS |  | TEMPLATE |  | Tá mé ag obair $IN_WORKPLACE | I work $IN_WORKPLACE |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i monarcha | I work in a factory |  |  |  |  |  |  |  |
@@ -1584,6 +1584,7 @@
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i ngaráiste | I work in a garage |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in ollmhargadh | I work in a supermarket |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i dteach tábhairne | I work in a pub |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i ngarraí | I work in a garden |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | TEMPLATE |  | Bhí mé ag obair $IN_WORKPLACE | I worked $IN_WORKPLACE |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i monarcha | I worked in a factory |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in oifig | I worked in an office |  |  |  |  |  |  |  |
@@ -1598,6 +1599,22 @@
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i ngaráiste | I worked in a garage |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in ollmhargadh | I worked in a supermarket |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i dteach tábhairne | I worked in a pub |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i ngarraí | I worked in a garden |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | TEMPLATE |  | Tá mé ag obair $IN_WORKPLACE i mBeal Feirste | I work $IN_WORKPLACE in Belfast |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i monarcha i mBeal Feirste | I work in a factory in Belfast |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in oifig i mBeal Feirste | I work in an office in Belfast |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in scoil i mBeal Feirste | I work in a school in Belfast |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i siopa i mBeal Feirste | I work in a shop in Belfast |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i mbunscoil i mBeal Feirste | I work in a primary school in Belfast |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i meánscoil i mBeal Feirste | I work in a secondary school in Belfast |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in otharlann i mBeal Feirste | I work in a hospital in Belfast |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in óstán i mBeal Feirste | I work in a hotel in Belfast |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i gcaife i mBeal Feirste | I work in a cafe in Belfast |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i mbialann i mBeal Feirste | I work in a restaurant in Belfast |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i ngaráiste i mBeal Feirste | I work in a garage in Belfast |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in ollmhargadh i mBeal Feirste | I work in a supermarket in Belfast |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i dteach tábhairne i mBeal Feirste | I work in a pub in Belfast |  |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i ngarraí i mBeal Feirste | I work in a garden in Belfast |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | tá mé neirbhíseach | i am nervous |  |  |  |  | taa may nervishoch |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | SHOP_TYPE | siopa bróg | shoe shop |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | SHOP_TYPE | siopa leabhar | bookshop |  |  |  |  | ta shopa loar agam |  |  |
@@ -1723,6 +1740,8 @@
 | NYT | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Bígí ciúin! | Be quiet! |  | p |  |  | bigee cue-in |  |  |
 | NYT | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Bí suaimhneach! | Be quiet! |  | s |  |  | be swinna |  |  |
 | NYT | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Bígí suaimhneach! | Be quiet! |  | p |  |  | bigee swinna |  |  |
+| NYT | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | le do thoil | please |  | s |  |  | le de hull |  |  |
+| NYT | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | le bhur dtoil | please |  | p |  |  | le wer dul |  |  |
 | NYT | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Fan socair! | Stay quiet! |  | s |  |  |  |  |  |
 | NYT | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Fanaigí socair! | Stay quiet! |  | p |  |  |  |  |  |
 | NYT | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Gabh amach! | Get out! |  | s |  |  | go amak (throaty k) |  |  |
@@ -1752,6 +1771,7 @@
 | NYT | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Tá deifir orm | I am in a hurry |  |  |  |  |  |  |  |
 | NYT | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | tá sibh mall | you're late |  | p |  |  |  |  |  |
 | NYT | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | bean éigin | some woman |  |  |  |  | ban ay-gan |  |  |
+| NYT | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Coimhéad tú féin | Look out yourself |  |  |  |  |  |  |  |
 
 ## NYT - Family1
 
@@ -1768,6 +1788,18 @@
 | NYT | Family1 |  | WORD |  | bean chéile | wife |  |  |  | woman spouse | ban hayla |  |  |
 | NYT | Family1 |  | WORD |  | teaghlach | family (as a whole including parents) |  |  |  |  | chay-la |  |  |
 | NYT | Family1 |  | WORD |  | an teaghlach | the family (as a whole including parents) |  |  |  |  | an chay-la |  |  |
+| NYT | Family1 |  | WORD |  | cuid | part |  |  |  |  | cudge |  |  |
+
+## NYT - Family2
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| NYT | Family2 |  | WORD |  | cuid a haon | part one |  |  |  |  |  |  |  |
+
+## NYT - Family1
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | NYT | Family1 |  | SENTENCE |  | Tá mé pósta. | I'm married. |  |  |  |  | taa meh pawsta |  |  |
 | NYT | Family1 |  | SENTENCE |  | Níl mé pósta. | I'm not married. |  |  |  |  | nil meh pawsta |  |  |
 | NYT | Family1 |  | SENTENCE |  | Tá mé singil. | I'm single. |  |  |  |  |  |  |  |
@@ -1852,16 +1884,26 @@
 | NYT | Family1 |  | WORD |  | lón inniu | lunch today |  |  |  |  | loan in-nu |  |  |
 | NYT | Family1 |  | WORD |  | meánlae | midday |  |  |  |  |  |  |  |
 | NYT | Family1 |  | WORD |  | an chéad Aibreán | first of april |  |  |  |  | an chid A-ibrin |  |  |
-| NYT | Family1 |  | WORD |  | duine amháin | one person |  |  |  |  | dinye awan |  |  |
-| NYT | Family1 |  | WORD |  | beirt | two people |  |  |  |  | birch |  |  |
-| NYT | Family1 |  | WORD |  | triúr | three people |  |  |  |  | true-er |  |  |
-| NYT | Family1 |  | WORD |  | ceathrar | four people |  |  |  |  | cah-rer |  |  |
-| NYT | Family1 |  | WORD |  | cúigear | five people |  |  |  |  | cooiger |  |  |
-| NYT | Family1 |  | WORD |  | seisear | six people |  |  |  |  | shesher |  |  |
-| NYT | Family1 |  | WORD |  | seachtar | seven people |  |  |  |  | shocktar |  |  |
-| NYT | Family1 |  | WORD |  | ochtar | eight people |  |  |  |  | oktar |  |  |
-| NYT | Family1 |  | WORD |  | naonúr | nine people |  |  |  |  | neenar |  |  |
-| NYT | Family1 |  | WORD |  | deichniúr | ten people |  |  |  |  | djenur |  |  |
+| NYT | Family1 |  | WORD | NUM_PEOPLE | duine amháin | one (person) |  |  |  |  | dinye awan |  |  |
+| NYT | Family1 |  | WORD | NUM_PEOPLE | beirt | two (people) |  |  |  |  | birch |  |  |
+| NYT | Family1 |  | WORD | NUM_PEOPLE | triúr | three (people) |  |  |  |  | true-er |  |  |
+| NYT | Family1 |  | WORD | NUM_PEOPLE | ceathrar | four (people) |  |  |  |  | cah-rer |  |  |
+| NYT | Family1 |  | WORD | NUM_PEOPLE | cúigear | five (people) |  |  |  |  | cooiger |  |  |
+| NYT | Family1 |  | WORD | NUM_PEOPLE | seisear | six (people) |  |  |  |  | shesher |  |  |
+| NYT | Family1 |  | WORD | NUM_PEOPLE | seachtar | seven (people) |  |  |  |  | shocktar |  |  |
+| NYT | Family1 |  | WORD | NUM_PEOPLE | ochtar | eight (people) |  |  |  |  | oktar |  |  |
+| NYT | Family1 |  | WORD | NUM_PEOPLE | naonúr | nine (people) |  |  |  |  | neenar |  |  |
+| NYT | Family1 |  | WORD | NUM_PEOPLE | deichniúr | ten (people) |  |  |  |  | djenur |  |  |
+| NYT | Family1 |  | WORD | NUM_CHILDREN | páiste amháin | one child |  |  |  |  | dinye awan |  |  |
+| NYT | Family1 |  | WORD | NUM_CHILDREN | beirt pháistí | two children |  |  |  |  | birch |  |  |
+| NYT | Family1 |  | WORD | NUM_CHILDREN | triúr páistí | three children |  |  |  |  | true-er |  |  |
+| NYT | Family1 |  | WORD | NUM_CHILDREN | ceathrar páistí | four children |  |  |  |  | cah-rer |  |  |
+| NYT | Family1 |  | WORD | NUM_CHILDREN | cúigear páistí | five children |  |  |  |  | cooiger |  |  |
+| NYT | Family1 |  | WORD | NUM_CHILDREN | seisear páistí | six children |  |  |  |  | shesher |  |  |
+| NYT | Family1 |  | WORD | NUM_CHILDREN | seachtar páistí | seven children |  |  |  |  | shocktar |  |  |
+| NYT | Family1 |  | WORD | NUM_CHILDREN | ochtar páistí | eight children |  |  |  |  | oktar |  |  |
+| NYT | Family1 |  | WORD | NUM_CHILDREN | naonúr páistí | nine children |  |  |  |  | neenar |  |  |
+| NYT | Family1 |  | WORD | NUM_CHILDREN | deichniúr páistí | ten children |  |  |  |  | djenur |  |  |
 | NYT | Family1 |  | WORD |  | seisear iníonacha |  |  |  |  |  |  |  |  |
 | NYT | Family1 |  | WORD |  | triúr mac |  |  |  |  |  |  |  |  |
 | NYT | Family1 |  | WORD |  | ceathrar buachaillí |  |  |  |  |  |  |  |  |
@@ -1870,16 +1912,45 @@
 | NYT | Family1 |  | WORD |  | mac amháin |  |  |  |  |  |  |  |  |
 | NYT | Family1 |  | WORD |  | beirt mhac |  |  |  |  |  |  |  |  |
 | NYT | Family1 |  | WORD |  | beirt chailíní |  |  |  |  |  |  |  |  |
-| NYT | Family1 |  | SENTENCE |  | Tá $NUMBER páiste agam. | I have $NUMBER children. |  |  |  |  |  |  |  |
-| NYT | Family1 |  | NOUN |  | scoil | school |  |  |  |  | skull |  |  |
-| NYT | Family1 |  | NOUN |  | naíonra | playschool |  |  |  |  | neenra |  |  |
-| NYT | Family1 |  | NOUN |  | naíscoil | nursery school |  |  |  |  | nee-skull |  |  |
-| NYT | Family1 |  | NOUN |  | bunscoil | primary school |  |  |  |  | bun-skull |  |  |
-| NYT | Family1 |  | NOUN |  | meánscoil | secondary school |  |  |  |  | man-skull |  |  |
-| NYT | Family1 |  | NOUN |  | ollscoil | university |  |  |  |  | ol-skull |  |  |
-| NYT | Family1 |  | PHRASE |  | Tá ... acu ar an scoil. | ... of them are at school. |  |  |  |  |  |  |  |
-| NYT | Family1 |  | SENTENCE |  | Tá beirt acu ar an scoil. | Two of them are at school. |  |  |  |  | ...acu air an skull |  |  |
-| NYT | Family1 |  | SENTENCE |  | Tá duine amháin acu sa naíonra. | One of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| NYT | Family1 |  | SENTENCE |  | Tá $NUM_CHILDREN agam. | I have $NUM_CHILDREN. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá páiste amháin agam. | I have one child. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá beirt pháistí agam. | I have two children. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá triúr páistí agam. | I have three children. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá ceathrar páistí agam. | I have four children. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá cúigear páistí agam. | I have five children. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá seisear páistí agam. | I have six children. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá seachtar páistí agam. | I have seven children. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá ochtar páistí agam. | I have eight children. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá naonúr páistí agam. | I have nine children. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá deichniúr páistí agam. | I have ten children. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | NOUN | SCHOOL_TYPE | scoil | school |  |  |  |  | skull |  |  |
+| NYT | Family1 |  | NOUN | SCHOOL_TYPE | naíonra | playschool |  |  |  |  | neenra |  |  |
+| NYT | Family1 |  | NOUN | SCHOOL_TYPE | naíscoil | nursery school |  |  |  |  | nee-skull |  |  |
+| NYT | Family1 |  | NOUN | SCHOOL_TYPE | bunscoil | primary school |  |  |  |  | bun-skull |  |  |
+| NYT | Family1 |  | NOUN | SCHOOL_TYPE | meánscoil | secondary school |  |  |  |  | man-skull |  |  |
+| NYT | Family1 |  | NOUN | SCHOOL_TYPE | ollscoil | university |  |  |  |  | ol-skull |  |  |
+| NYT | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an scoil. | $NUM_PEOPLE of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an scoil. | one (person) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá beirt acu ar an scoil. | two (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá triúr acu ar an scoil. | three (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá ceathrar acu ar an scoil. | four (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá cúigear acu ar an scoil. | five (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá seisear acu ar an scoil. | six (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá seachtar acu ar an scoil. | seven (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an scoil. | eight (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an scoil. | nine (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an scoil. | ten (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu sa naíonra. | $NUM_PEOPLE of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá duine amháin acu sa naíonra. | one (person) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá beirt acu sa naíonra. | two (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá triúr acu sa naíonra. | three (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá ceathrar acu sa naíonra. | four (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá cúigear acu sa naíonra. | five (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá seisear acu sa naíonra. | six (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá seachtar acu sa naíonra. | seven (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá ochtar acu sa naíonra. | eight (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá naonúr acu sa naíonra. | nine (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá deichniúr acu sa naíonra. | ten (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
 | NYT | Family1 |  | SENTENCE |  | Tá Síle ar an bhunscoil. | Síle is at primary school. |  |  |  |  | ...ar an whunskull |  |  |
 | NYT | Family1 |  | SENTENCE |  | Tá Aodh ar an mheánscoil. | Aodh is at secondary school. |  |  |  |  | ...vanskull??? |  |  |
 | NYT | Family1 |  | SENTENCE |  | Tá Nóra ar an ollscoil. | Nóra is at university. |  |  |  |  | ..ol-skull |  |  |
@@ -1891,23 +1962,36 @@
 | NYT | SAYING WHAT YOU DID |  | NOUN |  | seachtain | week |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | NOUN |  | deireadh | end |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | WORD |  | an deireadh seachtaine | the weekend |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | WORD |  | ag an deireadh seachtaine | at the weekend |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | WORD |  | inniú | today |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | WORD |  | inné | yesterday |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | WORD |  | arú inné | the day before yesterday |  |  |  |  | aroo inyay |  |  |
-| NYT | SAYING WHAT YOU DID |  | WORD |  | aréir | last night |  |  |  |  | a-rare |  |  |
-| NYT | SAYING WHAT YOU DID |  | WORD |  | arú aréir | the night before last |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | WORD |  | maidin inné | yesterday morning |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | WORD |  | maidin inniú | this morning |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | ag an deireadh seachtaine | at the weekend |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | inniú | today |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | inné | yesterday |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | arú inné | the day before yesterday |  |  |  |  | aroo inyay |  |  |
+| NYT | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | aréir | last night |  |  |  |  | a-rare |  |  |
+| NYT | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | arú aréir | the night before last |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | maidin inné | yesterday morning |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | maidin inniú | this morning |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | NOUN |  | bainis | wedding (ceremony) |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Cá háit? | Where? |  |  |  |  | Ca hatch? |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Cá háit a ndeachaigh* tú? | Where did you go? |  | s |  |  | Ca hatch a dja-ha too? |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Cá háit a ndeachaigh* sibh? | Where did you go? |  | p |  |  | Ca hatch a dja-ha shiv? |  |  |
-| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Cá háit a ndeachaigh* tú ...? | Where did you go ... |  |  |  |  | Ca hatch a dja-ha too? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Cá háit a ndeachaigh* tú inné? | Where did you go yesterday? |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Cá háit a ndeachaigh* tú ag an deireadh seachtaine? | Where did you go at the weekend? |  |  |  |  | Ca hatch a dja-ha too ag an djeroo shockt-in-ye? |  |  |
-| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Cad é rinne tú...? | What did you do...? |  |  |  |  | Ca jay rin too...? |  |  |
-| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Cad é rinne tú ag an deireadh seachtaine? | What did you do at the weekend? |  |  |  |  | Ca jay rin too ag an djeroo shock-tin-ya? |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | Cá háit a ndeachaigh* tú $RECENT_PERIODS? | Where did you go $RECENT_PERIODS? |  |  |  |  | Ca hatch a dja-ha too? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú ag an deireadh seachtaine? | Where did you go at the weekend? |  |  |  |  | Ca hatch a dja-ha too? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú inniú? | Where did you go today? |  |  |  |  | Ca hatch a dja-ha too? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú inné? | Where did you go yesterday? |  |  |  |  | Ca hatch a dja-ha too? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú arú inné? | Where did you go the day before yesterday? |  |  |  |  | Ca hatch a dja-ha too? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú aréir? | Where did you go last night? |  |  |  |  | Ca hatch a dja-ha too? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú arú aréir? | Where did you go the night before last? |  |  |  |  | Ca hatch a dja-ha too? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú maidin inné? | Where did you go yesterday morning? |  |  |  |  | Ca hatch a dja-ha too? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú maidin inniú? | Where did you go this morning? |  |  |  |  | Ca hatch a dja-ha too? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | Cad é rinne tú $RECENT_PERIODS? | What did you do $RECENT_PERIODS? |  |  |  |  | Ca jay rin too...? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú ag an deireadh seachtaine? | What did you do at the weekend? |  |  |  |  | Ca jay rin too...? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú inniú? | What did you do today? |  |  |  |  | Ca jay rin too...? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú inné? | What did you do yesterday? |  |  |  |  | Ca jay rin too...? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú arú inné? | What did you do the day before yesterday? |  |  |  |  | Ca jay rin too...? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú aréir? | What did you do last night? |  |  |  |  | Ca jay rin too...? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú arú aréir? | What did you do the night before last? |  |  |  |  | Ca jay rin too...? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú maidin inné? | What did you do yesterday morning? |  |  |  |  | Ca jay rin too...? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú maidin inniú? | What did you do this morning? |  |  |  |  | Ca jay rin too...? |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé ... | I went ... |  |  |  |  | wheh meh ... ---->> who-e meh |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé ag snámh. | I went swimming. |  |  |  |  | wheh meh a sna-o |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé ag siúl. | I went walking. |  |  |  |  | wheh meh a shool |  |  |
@@ -1918,11 +2002,17 @@
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé go dtí an siopa | I went to the shop |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé chuig cluiche peile | I went to a football match |  |  |  |  | ...clooha pella?? |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé chuig an dochtúir. | I went to the doctor. |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé chuig an dráma. | I went to a play. |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Bhí mé ag bainis. | I was at a wedding. |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'imir mé cispheil. | I played basketball. |  |  |  |  | Djimir meh kish-fell |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'imir mé leadóg | I played tennis. |  |  |  |  | Djimir meh kish-fell |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'amharc mé ar fhíseáin. | I watched videos. |  |  |  |  | dark meh ar eesh-aan |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'amharc mé an teilifís. | I watched the teilifís. |  |  |  |  | dark meh ar eesh-aan |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'amharc mé an scannán. | I watched the teilifís. |  |  |  |  | dark meh ar eesh-aan |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'éist mé le dlúthdhioscaí. | I listened to CDs. |  |  |  |  | djeest meh le dluduskee |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'éist mé le ceol. | I listened to music. |  |  |  |  | djeest meh le dluduskee |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'ól mé cúpla deoch. | I had a few drinks. |  |  |  |  | dol meh coupla jaw |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'ól mé cúpla pionta. | I had a few pints. |  |  |  |  | dol meh coupla jaw |  |  |
 | NYT | SAYING WHAT YOU DID |  | NOUN |  | scannán | film |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Caithfidh mé labhairt leat inniu | I need to see you today |  |  |  |  | ???? |  |  |
 | NYT | SAYING WHAT YOU DID |  | NOUN |  | ceolchoirm | concert |  |  |  |  |  |  |  |
@@ -1934,21 +2024,22 @@
 | NYT | SAYING WHAT YOU DID |  |  |  | shuigh sé síos | he sat down |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | VERB |  | druid | close |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  |  |  | dhruid sí | she closed |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  |  |  | dhruid sí an doras | she closed the door |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | VERB |  | ól | drink |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  |  |  | d'ól mé | I drank |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | VERB |  | fan | wait |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | d'fhan mé | I waited |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | bhí mé | I was |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | rinne mé | I did/made |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | chuala tú | you heard |  |  |  |  | (throaty) cwilla to |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | dúirt sé | he said |  |  |  |  | doortch sheh |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | fuair sí | she got |  |  |  |  | foo-er she |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | d'ith muid | we ate |  |  |  |  | dgee mwidg |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | chonaic sibh | you saw |  |  |  |  | (throaty) honic shiv |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | thug siad | they gave |  |  |  |  | hug shade |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | chuaigh mé | I went |  |  |  |  | who-e meh |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | rug sí ar | she caught |  |  |  |  | rug she ar |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | tháinig sé | he came |  |  |  |  | hanig sheh |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | d'fhan $PRONOUNS | $PRONOUNS waited |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | bhí $PRONOUNS | $PRONOUNS was |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | rinne $PRONOUNS | $PRONOUNS did/made |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | chuala $PRONOUNS | $PRONOUNS heard |  |  |  |  | (throaty) cwilla to |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | dúirt $PRONOUNS | $PRONOUNS said |  |  |  |  | doortch sheh |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | fuair $PRONOUNS | $PRONOUNS got |  |  |  |  | foo-er she |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | d'ith $PRONOUNS | $PRONOUNS ate |  |  |  |  | dgee mwidg |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | chonaic $PRONOUNS | $PRONOUNS saw |  |  |  |  | (throaty) honic shiv |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | thug $PRONOUNS | $PRONOUNS gave |  |  |  |  | hug shade |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | chuaigh $PRONOUNS | $PRONOUNS went |  |  |  |  | who-e meh |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | rug  $PRONOUNS ar | $PRONOUNS caught |  |  |  |  | rug she ar |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | tháinig  $PRONOUNS | $PRONOUNS came |  |  |  |  | hanig sheh |  |  |
 | NYT | SAYING WHAT YOU DID |  |  |  | Chuir mé litir chuig Anna. | I sent a letter to Anna. |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  |  |  | Chaith sé cnámh chuig an mhadadh. | He threw a bone to the dog. |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  |  |  | maidin Dé Máirt | Tuesday morning |  |  |  |  |  |  |  |
@@ -3167,27 +3258,3 @@
 | Giota Beag | 12 |  |  |  | Cad é cheannaigh tú? | What did you buy? |  |  |  |  |  |  |  |
 | Giota Beag | 12 |  |  |  | Cheannaigh mé geansaí úr | I bought a new jumper |  |  |  |  |  |  |  |
 | Giota Beag | 12 |  |  |  | Cheannaigh mé Crann Nollag | I bought a Christmas tree |  |  |  |  |  |  |  |
-| Giota Beag | 12 |  |  |  | Cá mhéad a bhí air? | How much was it? |  |  |  |  |  |  |  |
-| Giota Beag | 12 |  |  |  | Fuair mé cárta Nollag ó Una | I got a Christmas card from Una |  |  |  |  |  |  |  |
-| Giota Beag | 12 |  |  |  | An bhfuair? | Did you get? |  |  |  |  |  |  |  |
-| Giota Beag | 12 |  |  |  | Chuir mé cárta Nollag chuig Séamas | I sent a Christmas card to Séamas |  |  |  |  |  |  |  |
-| Giota Beag | 12 |  |  |  | Cá bhfuil Oifig an Phoist? | Where is the Post Office? |  |  |  |  |  |  |  |
-| Giota Beag | 12 |  |  |  | Gabh go dtí barr na sráide agus tiontaigh ar clé | Go to the top of the street and turn left |  |  |  |  |  |  |  |
-| Giota Beag | 12 |  |  |  | Gabh díreach ar aghaidh agus tá sé ar dheis | Go straight ahead and it's on the right |  |  |  |  |  |  |  |
-| Giota Beag | 12 |  |  |  | Tá sé os do chomhair | It's opposite you/in front of you |  |  |  |  |  |  |  |
-| Giota Beag | 12 |  |  |  | Cinnte! | Certainly! |  |  |  |  |  |  |  |
-
-## Giota Beag - 13
-
-| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag | 13 |  |  |  | Tá sé in aice le Dún Geanainn | It’s near Dungannon |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Cén sórt tí é? | What kind of house is it? |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Is bungaló é | It’s a bungalow |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Is teach sraithe é | It’s a terraced house |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Is teach leathscoite é | It’s a semi-detached house |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Is teach scoite é | It’s a detached house |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Cá mhéad seomra atá ann? | How many rooms are in it? |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Tá deich seomra ann | There are ten rooms in it |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Cá mhéad seomra luí atá ann? | How many bedrooms are in it? |  |  |  |  |  |  |  |
-| Giota Beag | 13 |  |  |  | Tá ceithre sheomra luí ann | There are four bedrooms in it |  |  |  |  |  |  |  |
