@@ -42,13 +42,13 @@ NYT	Meeting People		PHRASE	HOW_I_AM	go holc	awful
 NYT	Meeting People		PHRASE	HOW_I_AM	go measaratha	reasonable/middling							
 NYT	Meeting People		PHRASE	HOW_I_AM	go measaratha maith	reasonable/middling good							
 NYT	Meeting People		PHRASE	HOW_I_AM	i gceart	rightly							
-NYT	Meeting People		WORD	PRONOUN	mé	I							
-NYT	Meeting People		WORD	PRONOUN	tú	you		s					
-NYT	Meeting People		WORD	PRONOUN	sé	he							
-NYT	Meeting People		WORD	PRONOUN	sí	she							
-NYT	Meeting People		WORD	PRONOUN	muid	we							
-NYT	Meeting People		WORD	PRONOUN	sibh	you		p					
-NYT	Meeting People		WORD	PRONOUN	siad	they 							
+NYT	Meeting People		WORD	PRONOUNS	mé	I							
+NYT	Meeting People		WORD	PRONOUNS	tú	you		s					
+NYT	Meeting People		WORD	PRONOUNS	sé	he							
+NYT	Meeting People		WORD	PRONOUNS	sí	she							
+NYT	Meeting People		WORD	PRONOUNS	muid	we							
+NYT	Meeting People		WORD	PRONOUNS	sibh	you		p					
+NYT	Meeting People		WORD	PRONOUNS	siad	they 							
 NYT	Meeting People		PHRASE		Tá mé	I am							
 NYT	Meeting People		PHRASE		Tá tú	You are 		s					
 NYT	Meeting People		PHRASE		Tá sé	He/it is							
