@@ -2010,7 +2010,7 @@
 | NYT | SAYING WHAT YOU DID |  | NOUN |  | mí (mhí) | month |  |  |  |  | mee (vee) |  |  |
 | NYT | SAYING WHAT YOU DID |  | VERB |  | suigh | sit |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  |  |  | suigh síos | sit down |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | shuigh $PRONOUNS | $PRONOUNS sat |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  |  |  | shuigh $PRONOUNS | $PRONOUNS sat |  |  |  |  | $PRONOUNS |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh mé | I sat |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh tú | you sat |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh sé | he sat |  |  |  |  |  |  |  |
@@ -2018,7 +2018,7 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh muid | we sat |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh sibh | you sat |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh siad | they  sat |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | shuigh $PRONOUNS síos | $PRONOUNS sat down |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  |  |  | shuigh $PRONOUNS síos | $PRONOUNS sat down |  |  |  |  | $PRONOUNS |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh mé síos | I sat down |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh tú síos | you sat down |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh sé síos | he sat down |  |  |  |  |  |  |  |
@@ -2035,7 +2035,7 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid muid | we closed |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid sibh | you closed |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid siad | they  closed |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | dhruid $PRONOUNS an doras | $PRONOUNS closed the door |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  |  |  | dhruid $PRONOUNS an doras | $PRONOUNS closed the door |  |  |  |  | $PRONOUNS |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid mé an doras | I closed the door |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid tú an doras | you closed the door |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid sé an doras | he closed the door |  |  |  |  |  |  |  |
@@ -2043,7 +2043,7 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid muid an doras | we closed the door |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid sibh an doras | you closed the door |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid siad an doras | they  closed the door |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | VERB |  | ól | drink |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | VERB |  | ól | drink |  |  |  |  | $PRONOUNS |  |  |
 | NYT | SAYING WHAT YOU DID |  |  |  | d'ól $PRONOUNS | $PRONOUNS drank |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ól mé | I drank |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ól tú | you drank |  |  |  |  |  |  |  |
@@ -2052,8 +2052,8 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ól muid | we drank |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ól sibh | you drank |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ól siad | they  drank |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | VERB |  | fan | wait |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | d'fhan $PRONOUNS | $PRONOUNS waited |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | VERB |  | fan | wait |  |  |  |  | $PRONOUNS |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | d'fhan $PRONOUNS | $PRONOUNS waited |  |  |  |  | $PRONOUNS |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan mé | I waited |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan tú | you waited |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan sé | he waited |  |  |  |  |  |  |  |
@@ -2061,7 +2061,7 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan muid | we waited |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan sibh | you waited |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan siad | they  waited |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | bhí $PRONOUNS | $PRONOUNS was |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | bhí $PRONOUNS | $PRONOUNS was |  |  |  |  | $PRONOUNS |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí mé | I was |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí tú | you was |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí sé | he was |  |  |  |  |  |  |  |
@@ -2069,7 +2069,7 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí muid | we was |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí sibh | you was |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí siad | they  was |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | rinne $PRONOUNS | $PRONOUNS did/made |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | rinne $PRONOUNS | $PRONOUNS did/made |  |  |  |  | $PRONOUNS |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne mé | I did/made |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne tú | you did/made |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne sé | he did/made |  |  |  |  |  |  |  |
