@@ -2020,13 +2020,13 @@
 | NYT | SAYING WHAT YOU DID |  | NOUN |  | mí (mhí) | month |  |  |  |  | mee (vee) |  |  |
 | NYT | SAYING WHAT YOU DID |  | VERB |  | suigh | sit |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  |  |  | suigh síos | sit down |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | shuigh sé | he sat |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | shuigh sé síos | he sat down |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  |  |  | shuigh $PRONOUNS | he sat |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  |  |  | shuigh $PRONOUNS síos | he sat down |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | VERB |  | druid | close |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | dhruid sí | she closed |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | dhruid sí an doras | she closed the door |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  |  |  | dhruid $PRONOUNS | $PRONOUNS closed |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  |  |  | dhruid $PRONOUNS an doras | $PRONOUNS closed the door |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | VERB |  | ól | drink |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | d'ól mé | I drank |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  |  |  | d'ól $PRONOUNS | $PRONOUNS drank |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | VERB |  | fan | wait |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | d'fhan $PRONOUNS | $PRONOUNS waited |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | bhí $PRONOUNS | $PRONOUNS was |  |  |  |  |  |  |  |
