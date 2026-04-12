@@ -1789,17 +1789,7 @@
 | NYT | Family1 |  | WORD |  | teaghlach | family (as a whole including parents) |  |  |  |  | chay-la |  |  |
 | NYT | Family1 |  | WORD |  | an teaghlach | the family (as a whole including parents) |  |  |  |  | an chay-la |  |  |
 | NYT | Family1 |  | WORD |  | cuid | part |  |  |  |  | cudge |  |  |
-
-## NYT - Family2
-
-| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| NYT | Family2 |  | WORD |  | cuid a haon | part one |  |  |  |  |  |  |  |
-
-## NYT - Family1
-
-| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| NYT | Family1 |  | WORD |  | cuid a haon | part one |  |  |  |  |  |  |  |
 | NYT | Family1 |  | SENTENCE |  | Tá mé pósta. | I'm married. |  |  |  |  | taa meh pawsta |  |  |
 | NYT | Family1 |  | SENTENCE |  | Níl mé pósta. | I'm not married. |  |  |  |  | nil meh pawsta |  |  |
 | NYT | Family1 |  | SENTENCE |  | Tá mé singil. | I'm single. |  |  |  |  |  |  |  |
