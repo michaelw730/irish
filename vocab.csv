@@ -1009,8 +1009,8 @@ NYT	SAYING WHAT YOU DID		NOUN		coirm cheoil	concert
 NYT	SAYING WHAT YOU DID		NOUN		mí (mhí)	month					mee (vee)		
 NYT	SAYING WHAT YOU DID		VERB		suigh	sit							
 NYT	SAYING WHAT YOU DID				suigh síos	sit down							
-NYT	SAYING WHAT YOU DID				shuigh $PRONOUNS	he sat							
-NYT	SAYING WHAT YOU DID				shuigh $PRONOUNS síos	he sat down							
+NYT	SAYING WHAT YOU DID				shuigh $PRONOUNS	$PRONOUNS sat							
+NYT	SAYING WHAT YOU DID				shuigh $PRONOUNS síos	$PRONOUNS sat down							
 NYT	SAYING WHAT YOU DID		VERB		druid	close							
 NYT	SAYING WHAT YOU DID				dhruid $PRONOUNS	$PRONOUNS closed							
 NYT	SAYING WHAT YOU DID				dhruid $PRONOUNS an doras	$PRONOUNS closed the door							
@@ -1020,15 +1020,15 @@ NYT	SAYING WHAT YOU DID		VERB		fan	wait
 NYT	SAYING WHAT YOU DID		TEMPLATE		d'fhan $PRONOUNS	$PRONOUNS waited							
 NYT	SAYING WHAT YOU DID		TEMPLATE		bhí $PRONOUNS	$PRONOUNS was							
 NYT	SAYING WHAT YOU DID		TEMPLATE		rinne $PRONOUNS	$PRONOUNS did/made							
-NYT	SAYING WHAT YOU DID		TEMPLATE		chuala $PRONOUNS	$PRONOUNS heard					(throaty) cwilla to		
-NYT	SAYING WHAT YOU DID		TEMPLATE		dúirt $PRONOUNS	$PRONOUNS said					doortch sheh		
-NYT	SAYING WHAT YOU DID		TEMPLATE		fuair $PRONOUNS	$PRONOUNS got					foo-er she		
-NYT	SAYING WHAT YOU DID		TEMPLATE		d'ith $PRONOUNS	$PRONOUNS ate					dgee mwidg		
-NYT	SAYING WHAT YOU DID		TEMPLATE		chonaic $PRONOUNS	$PRONOUNS saw					(throaty) honic shiv		
-NYT	SAYING WHAT YOU DID		TEMPLATE		thug $PRONOUNS	$PRONOUNS gave					hug shade		
-NYT	SAYING WHAT YOU DID		TEMPLATE		chuaigh $PRONOUNS	$PRONOUNS went					who-e meh		
-NYT	SAYING WHAT YOU DID		TEMPLATE		rug  $PRONOUNS ar	$PRONOUNS caught					rug she ar		
-NYT	SAYING WHAT YOU DID		TEMPLATE		tháinig  $PRONOUNS	$PRONOUNS came					hanig sheh		
+NYT	SAYING WHAT YOU DID		TEMPLATE		chuala $PRONOUNS	$PRONOUNS heard					(throaty) cwilla $PRONOUNS		
+NYT	SAYING WHAT YOU DID		TEMPLATE		dúirt $PRONOUNS	$PRONOUNS said					doortch $PRONOUNS		
+NYT	SAYING WHAT YOU DID		TEMPLATE		fuair $PRONOUNS	$PRONOUNS got					foo-er $PRONOUNS		
+NYT	SAYING WHAT YOU DID		TEMPLATE		d'ith $PRONOUNS	$PRONOUNS ate					dgee $PRONOUNS		
+NYT	SAYING WHAT YOU DID		TEMPLATE		chonaic $PRONOUNS	$PRONOUNS saw					(throaty) honic $PRONOUNS		
+NYT	SAYING WHAT YOU DID		TEMPLATE		thug $PRONOUNS	$PRONOUNS gave					hug $PRONOUNS		
+NYT	SAYING WHAT YOU DID		TEMPLATE		chuaigh $PRONOUNS	$PRONOUNS went					who-e $PRONOUNS		
+NYT	SAYING WHAT YOU DID		TEMPLATE		rug $PRONOUNS ar	$PRONOUNS caught					rug $PRONOUNS ar		
+NYT	SAYING WHAT YOU DID		TEMPLATE		tháinig $PRONOUNS	$PRONOUNS came					hanig $PRONOUNS		
 NYT	SAYING WHAT YOU DID				Chuir mé litir chuig Anna.	I sent a letter to Anna.							
 NYT	SAYING WHAT YOU DID				Chaith sé cnámh chuig an mhadadh.	He threw a bone to the dog.							
 NYT	SAYING WHAT YOU DID				maidin Dé Máirt	Tuesday morning							
