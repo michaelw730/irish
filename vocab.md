@@ -1662,30 +1662,6 @@
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | Ba banaltra mé. | I was a nurse |  |  |  |  | ba gochter ma |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | B'oibrí monarchan mé. | I was a factory worker |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | SENTENCE |  | B'fheirmeoir mé. | I was a farmer |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | TEMPLATE |  | $JOB a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | feirmeoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | siopadóir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | búistéir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | meicneoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | rúnaí a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | oibrí monarchan a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | banaltra a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | dochtúir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | tiománaí a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | bainisteoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | freastalaí a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | tógálaí a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | siúinéir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | bean tí a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | leictreoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | iascaire a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir ríomhaireachta a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | ríomhchláraitheoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | aisteoir a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir bunscoile a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir meánscoile a bhí ionam. | I was a secretary. |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | QUESTION |  | An $JOB tú? | Are you a $JOB? |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | An feirmeoir tú? | Are you a farmer? |  |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | An siopadóir tú? | Are you a shopkeeper? |  |  |  |  |  |  |  |
@@ -3367,3 +3343,4 @@
 | Giota Beag | 12 |  |  |  | Cad é cheannaigh tú? | What did you buy? |  |  |  |  |  |  |  |
 | Giota Beag | 12 |  |  |  | Cheannaigh mé geansaí úr | I bought a new jumper |  |  |  |  |  |  |  |
 | Giota Beag | 12 |  |  |  | Cheannaigh mé Crann Nollag | I bought a Christmas tree |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Cá mhéad a bhí air? | How much was it? |  |  |  |  |  |  |  |
