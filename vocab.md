@@ -1965,12 +1965,39 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir sibh | you played |  |  |  |  | Jimir  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir siad | they  played |  |  |  |  | Jimir  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'imir mé cispheil. | I played basketball. |  |  |  |  | Djimir meh kish-fell |  |  |
-| NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'imir mé leadóg | I played tennis. |  |  |  |  | Djimir meh kish-fell |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'imir mé leadóg | I played tennis. |  |  |  |  | Djimir meh la-dog |  |  |
+| NYT | SAYING WHAT YOU DID |  | VERB |  | amharc | watch |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | D'amharc $PRONOUNS | $PRONOUNS watched |  |  |  |  | Dark $PRONOUNS |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc mé | I watched |  |  |  |  | Dark  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc tú | you watched |  |  |  |  | Dark  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc sé | he watched |  |  |  |  | Dark  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc sí | she watched |  |  |  |  | Dark  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc muid | we watched |  |  |  |  | Dark  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc sibh | you watched |  |  |  |  | Dark  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc siad | they  watched |  |  |  |  | Dark  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'amharc mé ar fhíseáin. | I watched videos. |  |  |  |  | dark meh ar eesh-aan |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'amharc mé an teilifís. | I watched the teilifís. |  |  |  |  | dark meh ar eesh-aan |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'amharc mé scannán. | I watched a film. |  |  |  |  | dark meh ar eesh-aan |  |  |
+| NYT | SAYING WHAT YOU DID |  | VERB |  | éist | listen to  |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | D'eist $PRONOUNS | $PRONOUNS listened |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist mé | I listened |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist tú | you listened |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist sé | he listened |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist sí | she listened |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist muid | we listened |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist sibh | you listened |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist siad | they  listened |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'éist mé le dlúthdhioscaí. | I listened to CDs. |  |  |  |  | djeest meh le dluduskee |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'éist mé le ceol. | I listened to music. |  |  |  |  | djeest meh le dluduskee |  |  |
+| NYT | SAYING WHAT YOU DID |  | VERB |  | ól | drink |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | D’ól $PRONOUNS | $PRONOUNS drink |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ól mé | I drink |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ól tú | you drink |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ól sé | he drink |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ól sí | she drink |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ól muid | we drink |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ól sibh | you drink |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ól siad | they  drink |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'ól mé cúpla deoch. | I had a few drinks. |  |  |  |  | dol meh coupla jaw |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'ól mé cúpla pionta. | I had a few pints. |  |  |  |  | dol meh coupla jaw |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Caithfidh mé labhairt leat inniu | I need to see you today |  |  |  |  | ???? |  |  |
@@ -2085,7 +2112,8 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic muid | we saw |  |  |  |  | (throaty) honic  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic sibh | you saw |  |  |  |  | (throaty) honic  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic siad | they  saw |  |  |  |  | (throaty) honic  |  |  |
-| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | chonaic mé Brian inné | I saw Brian today |  |  |  |  | (throaty) honic $PRONOUNS |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | chonaic mé Brian inné | I saw Brian today |  |  |  |  | (throaty) honic |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | chonaic mé Síle Dé Luain | I saw Sheila on Monday |  |  |  |  | (throaty) honic |  |  |
 | NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | thug $PRONOUNS | $PRONOUNS gave |  |  |  |  | hug $PRONOUNS |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | thug mé | I gave |  |  |  |  | hug  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | thug tú | you gave |  |  |  |  | hug  |  |  |
@@ -2145,15 +2173,36 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith sibh | you threw |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith siad | they  threw |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  |  |  | Chaith sé cnámh chuig an mhadadh. | He threw a bone to the dog. |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | maidin Dé Máirt | Tuesday morning |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | tráthnóna Déardaoin | Thursday evening |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | oíche Luain | Monday night |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | oíche Mháirt | Tuesday night |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | oíche Chéadaoin | Wednesday night |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | oíche Dhéardaoin | Thursday night |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | oíche Aoine | Friday night |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | oíche Shathairn | Saturday night |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | oíche Dhomhnaigh | Sunday night |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Luain | Monday |  |  |  |  | je luan |  |  |
+| NYT | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Máirt | Tuesday |  |  |  |  | je mwarch |  |  |
+| NYT | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Céadaoin | Wednesday |  |  |  |  | je ceadine |  |  |
+| NYT | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Déardaoin | Thursday |  |  |  |  | jeardine |  |  |
+| NYT | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé hAoine | Friday |  |  |  |  | je heanya |  |  |
+| NYT | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Sathairn | Saturday |  |  |  |  | je sahern |  |  |
+| NYT | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Domhnaigh | Sunday |  |  |  |  | je doughny |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | maidin $DAYS_OF_WEEK | $DAYS_OF_WEEK morning |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé Luain | Monday morning |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé Máirt | Tuesday morning |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé Céadaoin | Wednesday morning |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Déardaoin | Thursday morning |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé hAoine | Friday morning |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé Sathairn | Saturday morning |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé Domhnaigh | Sunday morning |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | tráthnóna $DAYS_OF_WEEK | $DAYS_OF_WEEK evening |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé Luain | Monday evening |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé Máirt | Tuesday evening |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé Céadaoin | Wednesday evening |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Déardaoin | Thursday evening |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé hAoine | Friday evening |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé Sathairn | Saturday evening |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé Domhnaigh | Sunday evening |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | oíche Luain | Monday night |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | oíche Mháirt | Tuesday night |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | oíche Chéadaoin | Wednesday night |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | oíche Dhéardaoin | Thursday night |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | oíche Aoine | Friday night |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | oíche Shathairn | Saturday night |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | oíche Dhomhnaigh | Sunday night |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Cá huair? | When? |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Cá huair a chuaigh tú go Leitir Ceanainn? | When did you go to Letterkenny? |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Cén lá a chuaigh tú go Leitir Ceanainn? | What/which day did you go to Letterkenny? |  |  |  |  |  |  |  |
@@ -2175,6 +2224,9 @@
 | NYT | SAYING WHAT YOU DID |  |  |  | go hArd Mhacha | to Armagh |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  |  |  | go dtí an banc | to the bank |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  |  |  | chuig dráma | to a play |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  |  |  | Chífidh mé maidin Dé hAoine tú | I’ll see you on Friday morning |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  |  |  | Tháinig Máirín tráthnóna Dé Sathairn | Máirín came on Saturday evening |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  |  |  | Thart fá leath i ndiaidh a hocht | Around half past 8 |  |  |  |  |  |  |  |
 
 ## NYT - Taking your leave
 
@@ -3330,25 +3382,3 @@
 | Giota Beag | 10 |  |  |  | Chuaigh muid go dtí an bhialann ar dtús | We went to the restaurant first |  |  |  |  |  |  |  |
 | Giota Beag | 10 |  |  |  | Chuaigh muid go dtí an phictiúrlann ina dhiaidh sin | We went to the cinema afterwards |  |  |  |  |  |  |  |
 | Giota Beag | 10 |  |  |  | Ar dtús chuaigh muid go dtí an phictiúrlann | Firstly, we went to the cinema |  |  |  |  |  |  |  |
-| Giota Beag | 10 |  |  |  | Rinne mé an dinnéar. Rinne mé pizza | I made the dinner. I made pizza |  |  |  |  |  |  |  |
-| Giota Beag | 10 |  |  |  | Rinne mé an dinnéar Dé Satharn | I made the dinner on Saturday |  |  |  |  |  |  |  |
-| Giota Beag | 10 |  |  |  | Rinne mé an dinnéar aréir | I made the dinner last night |  |  |  |  |  |  |  |
-| Giota Beag | 10 |  |  |  | Tháinig mo dheartháir | My brother came |  |  |  |  |  |  |  |
-| Giota Beag | 10 |  |  |  | agus an teaghlach | and the family |  |  |  |  |  |  |  |
-| Giota Beag | 10 |  |  |  | Tháinig mo chara | My friend came |  |  |  |  |  |  |  |
-| Giota Beag | 10 |  |  |  | Tháinig mo dheirfiúr | My sister came |  |  |  |  |  |  |  |
-| Giota Beag | 10 |  |  |  | Rinne mé dearmad | I forgot |  |  |  |  |  |  |  |
-
-## Giota Beag - 11
-
-| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag | 11 |  |  |  | Thug mé airgead dóibh | I gave them money |  |  |  |  |  |  |  |
-| Giota Beag | 11 |  |  |  | Chuaigh sé go Londain | He went to London |  |  |  |  |  |  |  |
-| Giota Beag | 11 |  |  |  | Thug siad cuairt ar an iarsmalann | They visited the museum |  |  |  |  |  |  |  |
-| Giota Beag | 11 |  |  |  | Chuala siad faoin ghorta | They heard about the famine |  |  |  |  |  |  |  |
-| Giota Beag | 11 |  |  |  | Chonaic mé Cats | I saw Cats |  |  |  |  |  |  |  |
-| Giota Beag | 11 |  |  |  | Chuala muid Big Ben | We heard Big Ben |  |  |  |  |  |  |  |
-| Giota Beag | 11 |  |  |  | Dúirt siad go raibh sé ar fheabhas | They said that it was excellent |  |  |  |  |  |  |  |
-| Giota Beag | 11 |  |  |  | Chonaic siad Riverdance | They saw Riverdance |  |  |  |  |  |  |  |
-| Giota Beag | 11 |  |  |  | Ná bac le mac an bhacaigh is ní bhacfaidh mac an bhacaigh leat! | Don't bother with the son of the beggarman and the son of the beggarman won't bother you! |  |  |  |  |  |  |  |

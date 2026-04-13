@@ -988,12 +988,18 @@ NYT	SAYING WHAT YOU DID		TEMPLATE		Cá háit a ndeachaigh* tú $RECENT_PERIODS?	
 NYT	SAYING WHAT YOU DID		VERB		imir	play							
 NYT	SAYING WHAT YOU DID		TEMPLATE		D'imir $PRONOUNS	$PRONOUNS played					Jimir $PRONOUNS		
 NYT	SAYING WHAT YOU DID		PHRASE		D'imir mé cispheil.	I played basketball.					Djimir meh kish-fell		
-NYT	SAYING WHAT YOU DID		PHRASE		D'imir mé leadóg	I played tennis.					Djimir meh kish-fell		
+NYT	SAYING WHAT YOU DID		PHRASE		D'imir mé leadóg	I played tennis.					Djimir meh la-dog		
+NYT	SAYING WHAT YOU DID		VERB		amharc	watch							
+NYT	SAYING WHAT YOU DID		TEMPLATE		D'amharc $PRONOUNS	$PRONOUNS watched					Dark $PRONOUNS		
 NYT	SAYING WHAT YOU DID		PHRASE		D'amharc mé ar fhíseáin.	I watched videos.					dark meh ar eesh-aan		
 NYT	SAYING WHAT YOU DID		PHRASE		D'amharc mé an teilifís.	I watched the teilifís.					dark meh ar eesh-aan		
 NYT	SAYING WHAT YOU DID		PHRASE		D'amharc mé scannán.	I watched a film.					dark meh ar eesh-aan		
+NYT	SAYING WHAT YOU DID		VERB		éist	listen to 							
+NYT	SAYING WHAT YOU DID		TEMPLATE		D'eist $PRONOUNS	$PRONOUNS listened							
 NYT	SAYING WHAT YOU DID		PHRASE		D'éist mé le dlúthdhioscaí.	I listened to CDs.					djeest meh le dluduskee		
 NYT	SAYING WHAT YOU DID		PHRASE		D'éist mé le ceol.	I listened to music.					djeest meh le dluduskee		
+NYT	SAYING WHAT YOU DID		VERB		ól	drink							
+NYT	SAYING WHAT YOU DID		TEMPLATE		D’ól $PRONOUNS	$PRONOUNS drink							
 NYT	SAYING WHAT YOU DID		PHRASE		D'ól mé cúpla deoch.	I had a few drinks.					dol meh coupla jaw		
 NYT	SAYING WHAT YOU DID		PHRASE		D'ól mé cúpla pionta.	I had a few pints.					dol meh coupla jaw		
 NYT	SAYING WHAT YOU DID		PHRASE		Caithfidh mé labhairt leat inniu	I need to see you today					????		
@@ -1017,7 +1023,8 @@ NYT	SAYING WHAT YOU DID		TEMPLATE		dúirt $PRONOUNS	$PRONOUNS said					doortch $
 NYT	SAYING WHAT YOU DID		TEMPLATE		fuair $PRONOUNS	$PRONOUNS got					foo-er $PRONOUNS		
 NYT	SAYING WHAT YOU DID		TEMPLATE		d'ith $PRONOUNS	$PRONOUNS ate					dgee $PRONOUNS		
 NYT	SAYING WHAT YOU DID		TEMPLATE		chonaic $PRONOUNS	$PRONOUNS saw					(throaty) honic $PRONOUNS		
-NYT	SAYING WHAT YOU DID		TEMPLATE		chonaic mé Brian inné	I saw Brian today					(throaty) honic $PRONOUNS		
+NYT	SAYING WHAT YOU DID		TEMPLATE		chonaic mé Brian inné	I saw Brian today					(throaty) honic		
+NYT	SAYING WHAT YOU DID		TEMPLATE		chonaic mé Síle Dé Luain	I saw Sheila on Monday					(throaty) honic		
 NYT	SAYING WHAT YOU DID		TEMPLATE		thug $PRONOUNS	$PRONOUNS gave					hug $PRONOUNS		
 NYT	SAYING WHAT YOU DID		TEMPLATE		chuaigh $PRONOUNS	$PRONOUNS went					who-e $PRONOUNS		
 NYT	SAYING WHAT YOU DID		PHRASE		Chuaigh mé ag snámh.	I went swimming.					wheh meh a sna-o		
@@ -1035,15 +1042,22 @@ NYT	SAYING WHAT YOU DID		TEMPLATE		Chuir $PRONOUNS	$PRONOUNS sent
 NYT	SAYING WHAT YOU DID				Chuir mé litir chuig Anna.	I sent a letter to Anna.							
 NYT	SAYING WHAT YOU DID		TEMPLATE		Chaith $PRONOUNS	$PRONOUNS threw							
 NYT	SAYING WHAT YOU DID				Chaith sé cnámh chuig an mhadadh.	He threw a bone to the dog.							
-NYT	SAYING WHAT YOU DID				maidin Dé Máirt	Tuesday morning							
-NYT	SAYING WHAT YOU DID				tráthnóna Déardaoin	Thursday evening							
-NYT	SAYING WHAT YOU DID				oíche Luain	Monday night							
-NYT	SAYING WHAT YOU DID				oíche Mháirt	Tuesday night							
-NYT	SAYING WHAT YOU DID				oíche Chéadaoin	Wednesday night							
-NYT	SAYING WHAT YOU DID				oíche Dhéardaoin	Thursday night							
-NYT	SAYING WHAT YOU DID				oíche Aoine	Friday night							
-NYT	SAYING WHAT YOU DID				oíche Shathairn	Saturday night							
-NYT	SAYING WHAT YOU DID				oíche Dhomhnaigh	Sunday night							
+NYT	SAYING WHAT YOU DID		WORD	DAYS_OF_WEEK	Dé Luain	Monday					je luan		
+NYT	SAYING WHAT YOU DID		WORD	DAYS_OF_WEEK	Dé Máirt	Tuesday					je mwarch		
+NYT	SAYING WHAT YOU DID		WORD	DAYS_OF_WEEK	Dé Céadaoin	Wednesday					je ceadine		
+NYT	SAYING WHAT YOU DID		WORD	DAYS_OF_WEEK	Déardaoin	Thursday					jeardine		
+NYT	SAYING WHAT YOU DID		WORD	DAYS_OF_WEEK	Dé hAoine	Friday					je heanya		
+NYT	SAYING WHAT YOU DID		WORD	DAYS_OF_WEEK	Dé Sathairn	Saturday					je sahern		
+NYT	SAYING WHAT YOU DID		WORD	DAYS_OF_WEEK	Dé Domhnaigh	Sunday					je doughny		
+NYT	SAYING WHAT YOU DID		PHRASE		maidin $DAYS_OF_WEEK	$DAYS_OF_WEEK morning							
+NYT	SAYING WHAT YOU DID		PHRASE		tráthnóna $DAYS_OF_WEEK	$DAYS_OF_WEEK evening							
+NYT	SAYING WHAT YOU DID		PHRASE		oíche Luain	Monday night							
+NYT	SAYING WHAT YOU DID		PHRASE		oíche Mháirt	Tuesday night							
+NYT	SAYING WHAT YOU DID		PHRASE		oíche Chéadaoin	Wednesday night							
+NYT	SAYING WHAT YOU DID		PHRASE		oíche Dhéardaoin	Thursday night							
+NYT	SAYING WHAT YOU DID		PHRASE		oíche Aoine	Friday night							
+NYT	SAYING WHAT YOU DID		PHRASE		oíche Shathairn	Saturday night							
+NYT	SAYING WHAT YOU DID		PHRASE		oíche Dhomhnaigh	Sunday night							
 NYT	SAYING WHAT YOU DID		PHRASE		Cá huair?	When?							
 NYT	SAYING WHAT YOU DID		PHRASE		Cá huair a chuaigh tú go Leitir Ceanainn?	When did you go to Letterkenny?							
 NYT	SAYING WHAT YOU DID		PHRASE		Cén lá a chuaigh tú go Leitir Ceanainn?	What/which day did you go to Letterkenny?							
@@ -1065,6 +1079,9 @@ NYT	SAYING WHAT YOU DID				Bhain mé an-sult as.	I really enjoyed it.					win me
 NYT	SAYING WHAT YOU DID				go hArd Mhacha	to Armagh							
 NYT	SAYING WHAT YOU DID				go dtí an banc	to the bank							
 NYT	SAYING WHAT YOU DID				chuig dráma	to a play							
+NYT	SAYING WHAT YOU DID				Chífidh mé maidin Dé hAoine tú	I’ll see you on Friday morning							
+NYT	SAYING WHAT YOU DID				Tháinig Máirín tráthnóna Dé Sathairn	Máirín came on Saturday evening							
+NYT	SAYING WHAT YOU DID				Thart fá leath i ndiaidh a hocht	Around half past 8							
 NYT	Taking your leave				AG FÁGÁIL COMHLUADAIR	TAKING YOUR LEAVE					Ag faygal cool-wah-der		
 NYT	Taking your leave				Caithfidh mé imeacht.	I have to go.					Ka-heh meh imackt		
 NYT	Taking your leave				Caithfidh mé imeacht arís.	I have to go again.							
