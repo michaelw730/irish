@@ -1955,6 +1955,15 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú arú aréir? | Where did you go the night before last? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú maidin inné? | Where did you go yesterday morning? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú maidin inniú? | Where did you go this morning? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Cad é rinne tú $RECENT_PERIODS? | What did you do $RECENT_PERIODS? |  |  |  |  | Ca jay rin too $RECENT_PERIODS? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú ag an deireadh seachtaine? | What did you do at the weekend? |  |  |  |  | Ca jay rin too ? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú inniú? | What did you do today? |  |  |  |  | Ca jay rin too ? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú inné? | What did you do yesterday? |  |  |  |  | Ca jay rin too ? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú arú inné? | What did you do the day before yesterday? |  |  |  |  | Ca jay rin too aroo inyay? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú aréir? | What did you do last night? |  |  |  |  | Ca jay rin too a-rare? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú arú aréir? | What did you do the night before last? |  |  |  |  | Ca jay rin too ? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú maidin inné? | What did you do yesterday morning? |  |  |  |  | Ca jay rin too ? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú maidin inniú? | What did you do this morning? |  |  |  |  | Ca jay rin too ? |  |  |
 | NYT | SAYING WHAT YOU DID |  | VERB |  | imir | play |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | D'imir $PRONOUNS | $PRONOUNS played |  |  |  |  | Jimir $PRONOUNS |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir mé | I played |  |  |  |  | Jimir  |  |  |
@@ -3381,4 +3390,3 @@
 | Giota Beag | 10 |  |  |  | Fuair me leabhar úr fosta | I also got a new book |  |  |  |  |  |  |  |
 | Giota Beag | 10 |  |  |  | Chuaigh muid go dtí an bhialann ar dtús | We went to the restaurant first |  |  |  |  |  |  |  |
 | Giota Beag | 10 |  |  |  | Chuaigh muid go dtí an phictiúrlann ina dhiaidh sin | We went to the cinema afterwards |  |  |  |  |  |  |  |
-| Giota Beag | 10 |  |  |  | Ar dtús chuaigh muid go dtí an phictiúrlann | Firstly, we went to the cinema |  |  |  |  |  |  |  |

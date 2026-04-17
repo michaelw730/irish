@@ -985,6 +985,7 @@ NYT	SAYING WHAT YOU DID		PHRASE		Cá háit?	Where?					Ca hatch?
 NYT	SAYING WHAT YOU DID		PHRASE		Cá háit a ndeachaigh* tú?	Where did you go?		s			Ca hatch a dja-ha too?		
 NYT	SAYING WHAT YOU DID		PHRASE		Cá háit a ndeachaigh* sibh?	Where did you go?		p			Ca hatch a dja-ha shiv $RECENT_PERIODS?		
 NYT	SAYING WHAT YOU DID		TEMPLATE		Cá háit a ndeachaigh* tú $RECENT_PERIODS?	Where did you go $RECENT_PERIODS?					Ca hatch a dja-ha too $RECENT_PERIODS?		* The n at the beginning of this word is not pronounced in the Ulster dialect.
+NYT	SAYING WHAT YOU DID		PHRASE		Cad é rinne tú $RECENT_PERIODS?	What did you do $RECENT_PERIODS?					Ca jay rin too $RECENT_PERIODS?		
 NYT	SAYING WHAT YOU DID		VERB		imir	play							
 NYT	SAYING WHAT YOU DID		TEMPLATE		D'imir $PRONOUNS	$PRONOUNS played					Jimir $PRONOUNS		
 NYT	SAYING WHAT YOU DID		PHRASE		D'imir mé cispheil.	I played basketball.					Djimir meh kish-fell		
