@@ -1955,15 +1955,15 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú arú aréir? | Where did you go the night before last? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú maidin inné? | Where did you go yesterday morning? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú maidin inniú? | Where did you go this morning? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Cad é rinne tú $RECENT_PERIODS? | What did you do $RECENT_PERIODS? |  |  |  |  | Ca jay rin too $RECENT_PERIODS? |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú ag an deireadh seachtaine? | What did you do at the weekend? |  |  |  |  | Ca jay rin too ? |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú inniú? | What did you do today? |  |  |  |  | Ca jay rin too ? |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú inné? | What did you do yesterday? |  |  |  |  | Ca jay rin too ? |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú arú inné? | What did you do the day before yesterday? |  |  |  |  | Ca jay rin too aroo inyay? |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú aréir? | What did you do last night? |  |  |  |  | Ca jay rin too a-rare? |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú arú aréir? | What did you do the night before last? |  |  |  |  | Ca jay rin too ? |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú maidin inné? | What did you do yesterday morning? |  |  |  |  | Ca jay rin too ? |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é rinne tú maidin inniú? | What did you do this morning? |  |  |  |  | Ca jay rin too ? |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Cad é a rinne tú $RECENT_PERIODS? | What did you do $RECENT_PERIODS? |  |  |  |  | Ca jay rin too $RECENT_PERIODS? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú ag an deireadh seachtaine? | What did you do at the weekend? |  |  |  |  | Ca jay rin too ? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú inniú? | What did you do today? |  |  |  |  | Ca jay rin too ? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú inné? | What did you do yesterday? |  |  |  |  | Ca jay rin too ? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú arú inné? | What did you do the day before yesterday? |  |  |  |  | Ca jay rin too aroo inyay? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú aréir? | What did you do last night? |  |  |  |  | Ca jay rin too a-rare? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú arú aréir? | What did you do the night before last? |  |  |  |  | Ca jay rin too ? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú maidin inné? | What did you do yesterday morning? |  |  |  |  | Ca jay rin too ? |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú maidin inniú? | What did you do this morning? |  |  |  |  | Ca jay rin too ? |  |  |
 | NYT | SAYING WHAT YOU DID |  | VERB |  | imir | play |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | D'imir $PRONOUNS | $PRONOUNS played |  |  |  |  | Jimir $PRONOUNS |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir mé | I played |  |  |  |  | Jimir  |  |  |
@@ -2072,7 +2072,15 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí sibh | you was |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí siad | they  was |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Bhí mé ag bainis. | I was at a wedding. |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Bhí mé ag bainis. | I was at a wedding. |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Bhí mé i nDoire $RECENT_PERIODS | I was in Derry $RECENT_PERIODS |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire ag an deireadh seachtaine | I was in Derry at the weekend |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire inniú | I was in Derry today |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire inné | I was in Derry yesterday |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire arú inné | I was in Derry the day before yesterday |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire aréir | I was in Derry last night |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire arú aréir | I was in Derry the night before last |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire maidin inné | I was in Derry yesterday morning |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire maidin inniú | I was in Derry this morning |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | rinne $PRONOUNS | $PRONOUNS did/made |  |  |  |  | $PRONOUNS |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne mé | I did/made |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne tú | you did/made |  |  |  |  |  |  |  |
@@ -2122,7 +2130,14 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic sibh | you saw |  |  |  |  | (throaty) honic  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic siad | they  saw |  |  |  |  | (throaty) honic  |  |  |
 | NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | chonaic mé Brian inné | I saw Brian today |  |  |  |  | (throaty) honic |  |  |
-| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | chonaic mé Síle Dé Luain | I saw Sheila on Monday |  |  |  |  | (throaty) honic |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | chonaic mé Síle $DAYS_OF_WEEK | I saw Sheila on $DAYS_OF_WEEK |  |  |  |  | (throaty) honic |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé Luain | I saw Sheila on Monday |  |  |  |  | (throaty) honic |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé Máirt | I saw Sheila on Tuesday |  |  |  |  | (throaty) honic |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé Céadaoin | I saw Sheila on Wednesday |  |  |  |  | (throaty) honic |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Déardaoin | I saw Sheila on Thursday |  |  |  |  | (throaty) honic |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé hAoine | I saw Sheila on Friday |  |  |  |  | (throaty) honic |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé Sathairn | I saw Sheila on Saturday |  |  |  |  | (throaty) honic |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé Domhnaigh | I saw Sheila on Sunday |  |  |  |  | (throaty) honic |  |  |
 | NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | thug $PRONOUNS | $PRONOUNS gave |  |  |  |  | hug $PRONOUNS |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | thug mé | I gave |  |  |  |  | hug  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | thug tú | you gave |  |  |  |  | hug  |  |  |
@@ -2143,11 +2158,14 @@
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé ag siúl. | I went walking. |  |  |  |  | wheh meh a shool |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé ag bainis. | I went to a wedding. |  |  |  |  | wheh meh a bawnish |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh muid ag rothaíocht. | We went cycling. |  |  |  |  | wheh mwidgh ag ro-he-ocht (ro-he-art>>) |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé ag iascaireacht | I went fishing |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé féin agus Sinead ag rothaíocht. | Myself and Sinead went cycling. |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé go Béal Feirste ag siopadóireacht. | I went to Belfast shopping. |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé go dtí an siopa | I went to the shop |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé chuig cluiche peile | I went to a football match |  |  |  |  | ...clooha pella?? |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé chuig an dochtúir. | I went to the doctor. |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé chuig dráma. | I went to a play. |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé go dtí an leabharlann. | I went to the library |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | rug $PRONOUNS ar | $PRONOUNS caught |  |  |  |  | rug $PRONOUNS ar |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rug mé ar | I caught |  |  |  |  | rug  ar |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rug tú ar | you caught |  |  |  |  | rug  ar |  |  |
@@ -3387,6 +3405,3 @@
 | Giota Beag | 10 |  |  |  | Fuair mé cárta agus fuair mé bronntanas | I got a card and I got a present |  |  |  |  |  |  |  |
 | Giota Beag | 10 |  |  |  | Fuair mé geansaí nua | I got a new jumper |  |  |  |  |  |  |  |
 | Giota Beag | 10 |  |  |  | Fuair mé leabhar nua | I got a new book |  |  |  |  |  |  |  |
-| Giota Beag | 10 |  |  |  | Fuair me leabhar úr fosta | I also got a new book |  |  |  |  |  |  |  |
-| Giota Beag | 10 |  |  |  | Chuaigh muid go dtí an bhialann ar dtús | We went to the restaurant first |  |  |  |  |  |  |  |
-| Giota Beag | 10 |  |  |  | Chuaigh muid go dtí an phictiúrlann ina dhiaidh sin | We went to the cinema afterwards |  |  |  |  |  |  |  |
