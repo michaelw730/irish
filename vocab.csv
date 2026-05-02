@@ -309,8 +309,8 @@ NYT	SPEAKING ABOUT YOUR BACKGROUND	Time		HOUR_O_CLOCK	a naoi a chlog	9 o’clock
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time		HOUR_O_CLOCK	a deich a chlog	10 o’clock							
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time		HOUR_O_CLOCK	a haon déag a chlog	11 o’clock							
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time		HOUR_O_CLOCK	a dó dhéag a chlog	12 o’clock							
-NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé $HOUR_O_CLOCK. 	It's $HOUR_O_CLOCK.	repeat for each hour						
-NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Bhí sé $HOUR_O_CLOCK.	It was $HOUR_O_CLOCK.	repeat for each hour				vee shay...		
+NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé $HOUR_O_CLOCK. 	It's $HOUR_O_CLOCK.	repeat for each hour				ta shay $HOUR_O_CLOCK.		
+NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Bhí sé $HOUR_O_CLOCK.	It was $HOUR_O_CLOCK.	repeat for each hour				vee shay $HOUR_O_CLOCK		
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			soicind	second					second		
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			bomaite	minute							
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			ceathrú	quarter					ceahroo		
@@ -321,9 +321,9 @@ NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			ceathrú go dtí ...	a quarter to ...	
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			cúig bomaite i ndiaidh	five minutes past??	repeat for each time						
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			cúig i ndiaidh	five past??	repeat for each time						
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			fiche go dtí	twenty to	repeat for each time						
-NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé ceathrú i ndiaidh $HOUR_O_CLOCK	It is a quarter past $HOUR_O_CLOCK	repeat for each time				ceahroo i nyay...		
-NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé leath i ndiaidh $HOUR_O_CLOCK	It is half past $HOUR_O_CLOCK	repeat for each time				la i nyay...		
-NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé ceathrú go dtí $HOUR_O_CLOCK	It is a quarter to $HOUR_O_CLOCK	repeat for each time				ceahroo go gee..		
+NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé ceathrú i ndiaidh $HOUR_O_CLOCK	It is a quarter past $HOUR_O_CLOCK	repeat for each time				ceahroo i nyay  $HOUR_O_CLOCK		
+NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé leath i ndiaidh $HOUR_O_CLOCK	It is half past $HOUR_O_CLOCK	repeat for each time				la i nyay  $HOUR_O_CLOCK		
+NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé ceathrú go dtí $HOUR_O_CLOCK	It is a quarter to $HOUR_O_CLOCK	repeat for each time				ceahroo go gee  $HOUR_O_CLOCK		
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé cúig bomaite i ndiaidh $HOUR_O_CLOCK	It is five minutes past $HOUR_O_CLOCK	repeat for each time						
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé cúig i ndiaidh $HOUR_O_CLOCK	It is five past $HOUR_O_CLOCK	repeat for each time						
 NYT	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé fiche go dtí $HOUR_O_CLOCK	It is twenty to $HOUR_O_CLOCK	repeat for each time						
@@ -349,7 +349,7 @@ NYT	Discussing Languages	Languages	WORD	LANGUAGE3	Ghearmáinis	German
 NYT	Discussing Languages	Languages	WORD	LANGUAGE3	Spáinnis	Spanish							
 NYT	Discussing Languages	Languages	WORD	LANGUAGE3	Iodáilis	Italian							
 NYT	Discussing Languages	Languages	TEMPLATE		An bhfuil $LANGUAGE agat?	Can you speak $LANGUAGE?				Have you $LANGUAGE? Is $LANGUAGE at you?			
-NYT	Discussing Languages	Languages	TEMPLATE		An bhfuil $LANGUAGE ag Tony?	Can Tony speak $LANGUAGE?				Has Tondy $LANGUAGE? Is $LANGUAGE at Tony?			
+NYT	Discussing Languages	Languages	TEMPLATE		An bhfuil $LANGUAGE ag Tony?	Can Tony speak $LANGUAGE?				Has Tony $LANGUAGE? Is $LANGUAGE at Tony?			
 NYT	Discussing Languages	Languages	TEMPLATE		Tá $LANGUAGE agam.	I speak $LANGUAGE.							
 NYT	Discussing Languages	Languages	TEMPLATE		Tá $LANGUAGE líofa agam.	I speak $LANGUAGE fluently.							
 NYT	Discussing Languages	Languages	TEMPLATE		Tá líofa agam.	I speak fluently.							
@@ -359,7 +359,7 @@ NYT	Discussing Languages	Languages	SENTENCE		Tá mé ag foghlaim.	I'm learning.
 NYT	Discussing Languages	Languages	SENTENCE		Tá mé ag foghlaim $LANGUAGE2.	I'm learning $LANGUAGE2.	Repeat for other pronouns/person’s name						
 NYT	Discussing Languages	Languages	SENTENCE		Níl mórán $LANGUAGE2 agam.	I can't speak much $LANGUAGE2.							
 NYT	Discussing Languages	Languages	SENTENCE		Níl mórán $LANGUAGE2 agam ach tá mé ag foghlaim.	I can't speak much $LANGUAGE2 but I am learning.							
-NYT	Discussing Languages	Languages	TEMPLATE		Níl aon $LANGUAGE3 agam.	I don't speak $LANGUAGE.							
+NYT	Discussing Languages	Languages	TEMPLATE		Níl aon $LANGUAGE3 agam.	I don't speak $LANGUAGE3.							
 NYT	Discussing Languages	Languages	SENTENCE		Tá.	Yes.							
 NYT	Discussing Languages	Languages	SENTENCE		Níl.	No.							
 NYT	Discussing Languages	Languages	SENTENCE		Beagán.	A little.							
@@ -461,6 +461,7 @@ NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul chuig drámaí	go to plays.
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	imirt	play							
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	leadóg a imirt	play tennis							
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	ceol	music							
+NYT	Expressing Opinions		WORD		Cineál	Type							
 NYT	Expressing Opinions		WORD		Cineálacha ceoil	Types of music							
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	ceol traidisiúnta	traditional music							
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE	ceol clasaiceach	classical music							
@@ -478,7 +479,7 @@ NYT	Expressing Opinions		SENTENCE		Ní maith liom ar chor ar bith é.	I don't li
 NYT	Expressing Opinions		SENTENCE		Ní maith liom ar chor ar bith iad.	I don't like them at all.					...ar har a bee ead		
 NYT	Expressing Opinions		TEMPLATE		Is fuath liom $THINGS_TO_LIKE	I hate $THINGS_TO_LIKE							
 NYT	Expressing Opinions		TEMPLATE		An maith leat $THINGS_TO_LIKE?	Do you like $THINGS_TO_LIKE?				s			
-NYT	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE?	Do you like $$THINGS_TO_LIKE?				p			
+NYT	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE?	Do you like $THINGS_TO_LIKE?				p			
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE_TO_DO	ag garraíodóireacht	gardening					ag garaderact		
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE_TO_DO	ag péinteáil	painting					ag paint-al		
 NYT	Expressing Opinions		WORD	THINGS_TO_LIKE_TO_DO	ag cócaireacht	cooking					ag cocker-act		
@@ -488,9 +489,8 @@ NYT	Expressing Opinions		WORD	THINGS_TO_LIKE_TO_DO	ag siúl	walking					ag shool
 NYT	Expressing Opinions		TEMPLATE		Is maith liom a bheith $THINGS_TO_LIKE_TO_DO	I like $THINGS_TO_LIKE_TO_DO							
 NYT	Expressing Opinions		TEMPLATE		Ní maith liom a bheith $THINGS_TO_LIKE_TO_DO	I like $THINGS_TO_LIKE_TO_DO							
 NYT	Expressing Opinions		TEMPLATE		Is fuath liom a bheith $THINGS_TO_LIKE_TO_DO	I like $THINGS_TO_LIKE_TO_DO							
-NYT	Expressing Opinions		WORD		Cineál	Type							
-NYT	Expressing Opinions		TEMPLATE		An maith leat $THINGS_TO_LIKE?	Do you like $THINGS_TO_LIKE?				s			
-NYT	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE?	Do you like $$THINGS_TO_LIKE?				p			
+NYT	Expressing Opinions		TEMPLATE		An maith leat $THINGS_TO_LIKE_TO_DO?	Do you like $THINGS_TO_LIKE?				s			
+NYT	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE_TO_DO?	Do you like $THINGS_TO_LIKE?				p			
 NYT	Expressing Opinions		SENTENCE		Is maith.	Yes.							
 NYT	Expressing Opinions		SENTENCE		Ní maith.	No.							
 NYT	Expressing Opinions		SENTENCE		Is breá liom é/í/iad.	I really like it.							
@@ -586,7 +586,7 @@ NYT	ORDERING DRINKS		TEMPLATE		Ar mhaith libh $WHAT_YOU_WANT?	Would you like $WH
 NYT	ORDERING DRINKS		SENTENCE		Ba mhaith.	Yes (I would).							
 NYT	ORDERING DRINKS		SENTENCE		Níor mhaith.	No (I wouldn't).							
 NYT	ORDERING DRINKS		SENTENCE		B'fhearr ...	I'd prefer ...					bear...		
-NYT	ORDERING DRINKS		SENTENCE		B'fhearr liom $HWAT_YOU_WANT	I'd prefer a glass of water.					Bear liom glinye ish-ke		
+NYT	ORDERING DRINKS		SENTENCE		B'fhearr liom $WHAT_YOU_WANT	I'd prefer $WHAT_YOU_WANT					Bear liom glinye ish-ke		
 NYT	ORDERING DRINKS		SENTENCE		Sláinte!	Cheers!				Health!			
 NYT	ORDERING DRINKS		SENTENCE		Sláinte mhór	Cheers (response??)							
 NYT	ORDERING DRINKS		SENTENCE		$WHAT_YOU_WANT duitse.	$WHAT_YOU_WANT for you.							
@@ -687,10 +687,10 @@ NYT	SAYING WHERE YOU’RE GOING		WORD		seacht n-uaire	seven hours
 NYT	SAYING WHERE YOU’RE GOING		WORD		hocht n-uaire	eight hours							
 NYT	SAYING WHERE YOU’RE GOING		WORD		naoi n-uaire	nine hours							
 NYT	SAYING WHERE YOU’RE GOING		WORD		deich n-uaire	ten hours							
-NYT	SAYING WHERE YOU’RE GOING		TEMPLATE		Tá sé chóir a bheith $HOUR_O_CLOCK	It's almost $HOUR_O_CLOCK					Taw shay hor a veh		
-NYT	SAYING WHERE YOU’RE GOING		TEMPLATE		Tá sé chóir a bheith leath i ndiaidh $HOUR_O_CLOCK	It's almost half past $HOUR_O_CLOCK					Taw shay hor a veh		
-NYT	SAYING WHERE YOU’RE GOING		TEMPLATE		Tá sé chóir a bheith ceathrú go dtí $HOUR_O_CLOCK	It's almost quarter to $HOUR_O_CLOCK					Taw shay hor a veh		
-NYT	SAYING WHERE YOU’RE GOING		TEMPLATE		Tá sé chóir a bheith ceathrú i ndiaidh $HOUR_O_CLOCK	It's almost quarter past $HOUR_O_CLOCK					Taw shay hor a veh		
+NYT	SAYING WHERE YOU’RE GOING		TEMPLATE		Tá sé chóir a bheith $HOUR_O_CLOCK	It's almost $HOUR_O_CLOCK					Taw shay hor a veh $HOUR_O_CLOCK		
+NYT	SAYING WHERE YOU’RE GOING		TEMPLATE		Tá sé chóir a bheith leath i ndiaidh $HOUR_O_CLOCK	It's almost half past $HOUR_O_CLOCK					Taw shay hor a veh la in nyay $HOUR_O_CLOCK		
+NYT	SAYING WHERE YOU’RE GOING		TEMPLATE		Tá sé chóir a bheith ceathrú go dtí $HOUR_O_CLOCK	It's almost quarter to $HOUR_O_CLOCK					Taw shay hor a veh cahru go gee $HOUR_O_CLOCK		
+NYT	SAYING WHERE YOU’RE GOING		TEMPLATE		Tá sé chóir a bheith ceathrú i ndiaidh $HOUR_O_CLOCK	It's almost quarter past $HOUR_O_CLOCK					Taw shay hor a veh cahrun I nyay $HOUR_O_CLOCK		
 NYT	SAYING WHERE YOU’RE GOING		WORD		scrúdú	exam							"as in ""scrúdú ar maidin"" == ""exam in the morning"""
 NYT	DISCUSSING JOBS		WORD		AG PLÉ POSTANNA	DISCUSSING JOBS							
 NYT	DISCUSSING JOBS		WORD		obair	work							
