@@ -1057,6 +1057,7 @@
 | NYT | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | milseáin | sweets |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | úll | apple |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | cuidiú | help |  |  |  |  | coodjoo |  |  |
+| NYT | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT2 | phionta | pint |  |  |  |  | pinta |  |  |
 | NYT | ORDERING DRINKS |  | QUESTION |  | Cad é ba mhaith leat? | What would you like? |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | QUESTION |  | Cad é ba mhaith leatsa? | What would *you* like? |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | QUESTION |  | Cad é ba mhaith libh? | What would you like? |  | s |  |  |  |  |  |
@@ -1246,34 +1247,8 @@
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | milseáin duitse. | sweets for you. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | úll duitse. | apple for you. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | DYNAMIC |  | cuidiú duitse. | help for you. |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | SENTENCE |  | Seo do $WHAT_YOU_WANT | Here's your $WHAT_YOU_WANT |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do deoch | Here's your drink |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do caife | Here's your coffee |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do caife dubh | Here's your black coffee |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do caife bán | Here's your white coffee |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do tae | Here's your tea |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do tae láidir | Here's your strong tea |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do tae lag | Here's your weak tea |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do sú oráiste | Here's your orange juice |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do uisce | Here's your water |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do beoir | Here's your beer |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do fíon bán | Here's your white wine |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do fíon dearg | Here's your red wine |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do uisce beatha | Here's your whiskey |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do sceallógaí | Here's your chips |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do briosca | Here's your a biscuit |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do bágún | Here's your bacon |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do pota tae | Here's your a pot of tea |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do gloine uisce | Here's your a glass of water |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do pionta beorach | Here's your a pint of beer |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do cupa tae | Here's your cup of tea |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do tae le bainne | Here's your tea with milk |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do leac oighir | Here's your ice |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do uachtar reoite | Here's your ice cream |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do ceapaire | Here's your sandwich |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do milseáin | Here's your sweets |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do úll | Here's your apple |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do cuidiú | Here's your help |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | SENTENCE |  | Seo do $WHAT_YOU_WANT2 | Here's your $WHAT_YOU_WANT2 |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | DYNAMIC |  | Seo do phionta | Here's your pint |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Sláinte mhaith agat i bhfad ó bhrón. | Good health, free from sorrow. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Sláinte do bheo agus tróicaire do mharbh. | Health to the living and mercy on the dead. |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Go mba fada a mhairfidh tú. | Long life to you |  |  |  |  |  |  |  |
@@ -3395,4 +3370,3 @@
 | Giota Beag | 10 |  |  |  | Bhí mo bhreithlá ann Dé hAoine | It was my birthday on Friday |  |  |  |  |  |  |  |
 | Giota Beag | 10 |  |  |  | Fuair mé cárta agus fuair mé bronntanas | I got a card and I got a present |  |  |  |  |  |  |  |
 | Giota Beag | 10 |  |  |  | Fuair mé geansaí nua | I got a new jumper |  |  |  |  |  |  |  |
-| Giota Beag | 10 |  |  |  | Fuair mé leabhar nua | I got a new book |  |  |  |  |  |  |  |

@@ -563,6 +563,7 @@ NYT	ORDERING DRINKS		WORD	WHAT_YOU_WANT	ceapaire	sandwich
 NYT	ORDERING DRINKS		WORD	WHAT_YOU_WANT	milseáin	sweets							
 NYT	ORDERING DRINKS		WORD	WHAT_YOU_WANT	úll	apple							
 NYT	ORDERING DRINKS		WORD	WHAT_YOU_WANT	cuidiú	help					coodjoo		
+NYT	ORDERING DRINKS		WORD	WHAT_YOU_WANT2	phionta	pint					pinta		
 NYT	ORDERING DRINKS		QUESTION		Cad é ba mhaith leat?	What would you like?							
 NYT	ORDERING DRINKS		QUESTION		Cad é ba mhaith leatsa?	What would *you* like?							
 NYT	ORDERING DRINKS		QUESTION		Cad é ba mhaith libh?	What would you like?		s					
@@ -590,7 +591,7 @@ NYT	ORDERING DRINKS		SENTENCE		B'fhearr liom $WHAT_YOU_WANT	I'd prefer $WHAT_YOU
 NYT	ORDERING DRINKS		SENTENCE		Sláinte!	Cheers!				Health!			
 NYT	ORDERING DRINKS		SENTENCE		Sláinte mhór	Cheers (response??)							
 NYT	ORDERING DRINKS		SENTENCE		$WHAT_YOU_WANT duitse.	$WHAT_YOU_WANT for you.							
-NYT	ORDERING DRINKS		SENTENCE		Seo do $WHAT_YOU_WANT	Here's your $WHAT_YOU_WANT							
+NYT	ORDERING DRINKS		SENTENCE		Seo do $WHAT_YOU_WANT2	Here's your $WHAT_YOU_WANT2							
 NYT	ORDERING DRINKS		SENTENCE		Sláinte mhaith agat i bhfad ó bhrón.	Good health, free from sorrow.							
 NYT	ORDERING DRINKS		SENTENCE		Sláinte do bheo agus tróicaire do mharbh.	Health to the living and mercy on the dead.							
 NYT	ORDERING DRINKS		SENTENCE		Go mba fada a mhairfidh tú.	Long life to you							
