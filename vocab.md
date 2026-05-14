@@ -1896,6 +1896,17 @@
 | NYT | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an scoil. | eight (people) of them are at school. |  |  |  |  |  |  |  |
 | NYT | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an scoil. | nine (people) of them are at school. |  |  |  |  |  |  |  |
 | NYT | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an scoil. | ten (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an naíscoil. | $NUM_PEOPLE of them are at nursery school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an naíscoil. | one (person) of them are at nursery school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá beirt acu ar an naíscoil. | two (people) of them are at nursery school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá triúr acu ar an naíscoil. | three (people) of them are at nursery school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá ceathrar acu ar an naíscoil. | four (people) of them are at nursery school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá cúigear acu ar an naíscoil. | five (people) of them are at nursery school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá seisear acu ar an naíscoil. | six (people) of them are at nursery school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá seachtar acu ar an naíscoil. | seven (people) of them are at nursery school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an naíscoil. | eight (people) of them are at nursery school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an naíscoil. | nine (people) of them are at nursery school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an naíscoil. | ten (people) of them are at nursery school. |  |  |  |  |  |  |  |
 | NYT | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an bhunscoil. | $NUM_PEOPLE of them are at primary school. |  |  |  |  |  |  |  |
 | NYT | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an bhunscoil. | one (person) of them are at primary school. |  |  |  |  |  |  |  |
 | NYT | Family1 |  | DYNAMIC |  | Tá beirt acu ar an bhunscoil. | two (people) of them are at primary school. |  |  |  |  |  |  |  |
@@ -1929,6 +1940,9 @@
 | NYT | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an ollscoil. | eight (people) of them are at university. |  |  |  |  |  |  |  |
 | NYT | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an ollscoil. | nine (people) of them are at university. |  |  |  |  |  |  |  |
 | NYT | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an ollscoil. | ten (people) of them are at university. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | SENTENCE |  | Tá sé sa naíonra | He is in the playschool. |  |  |  |  | ...ar an whunskull |  |  |
+| NYT | Family1 |  | SENTENCE |  | Tá Síle ar an scoil. | Síle is at school. |  |  |  |  | ...ar an whunskull |  |  |
+| NYT | Family1 |  | SENTENCE |  | Tá Síle ar an naíscoil. | Síle is at nursery school. |  |  |  |  | ...ar an whunskull |  |  |
 | NYT | Family1 |  | SENTENCE |  | Tá Síle ar an bhunscoil. | Síle is at primary school. |  |  |  |  | ...ar an whunskull |  |  |
 | NYT | Family1 |  | SENTENCE |  | Tá Aodh ar an mheánscoil. | Aodh is at secondary school. |  |  |  |  | ...vanskull??? |  |  |
 | NYT | Family1 |  | SENTENCE |  | Tá Nóra ar an ollscoil. | Nóra is at university. |  |  |  |  | ..ol-skull |  |  |
@@ -3399,7 +3413,3 @@
 | Giota Beag | 9 |  |  |  | Tá tinneas orm | I'm sick |  |  |  |  |  |  |  |
 | Giota Beag | 9 |  |  |  | Tá mé go measartha | I'm not too bad |  |  |  |  |  |  |  |
 | Giota Beag | 9 |  |  |  | Tá slaghdán orm | I have a cold |  |  |  |  |  |  |  |
-| Giota Beag | 9 |  |  |  | Tá tinneas cinn orm | I have a headache |  |  |  |  |  |  |  |
-| Giota Beag | 9 |  |  |  | Tá tinneas goile orm fosta | I also have a stomach ache |  |  |  |  |  |  |  |
-| Giota Beag | 9 |  |  |  | Tinneas fiacaile | Toothache |  |  |  |  |  |  |  |
-| Giota Beag | 9 |  |  |  | Tá biseach orm | I'm better |  |  |  |  |  |  |  |
