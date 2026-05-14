@@ -1837,14 +1837,14 @@
 | NYT | Family1 |  | WORD | NUM_CHILDREN | ochtar páistí | eight children |  |  |  |  | oktar |  |  |
 | NYT | Family1 |  | WORD | NUM_CHILDREN | naonúr páistí | nine children |  |  |  |  | neenar |  |  |
 | NYT | Family1 |  | WORD | NUM_CHILDREN | deichniúr páistí | ten children |  |  |  |  | djenur |  |  |
-| NYT | Family1 |  | WORD |  | seisear iníonacha |  |  |  |  |  |  |  |  |
-| NYT | Family1 |  | WORD |  | triúr mac |  |  |  |  |  |  |  |  |
-| NYT | Family1 |  | WORD |  | ceathrar buachaillí |  |  |  |  |  |  |  |  |
-| NYT | Family1 |  | WORD |  | cúigear cailíní |  |  |  |  |  |  |  |  |
-| NYT | Family1 |  | WORD |  | triúr iníonacha |  |  |  |  |  |  |  |  |
-| NYT | Family1 |  | WORD |  | mac amháin |  |  |  |  |  |  |  |  |
-| NYT | Family1 |  | WORD |  | beirt mhac |  |  |  |  |  |  |  |  |
-| NYT | Family1 |  | WORD |  | beirt chailíní |  |  |  |  |  |  |  |  |
+| NYT | Family1 |  | WORD | NUM_SONS | mac amháin | one son |  |  |  |  |  |  |  |
+| NYT | Family1 |  | WORD | NUM_SONS | beirt mhac | two sons |  |  |  |  |  |  |  |
+| NYT | Family1 |  | WORD | NUM_SONS | triúr mac | three sons |  |  |  |  |  |  |  |
+| NYT | Family1 |  | WORD | NUM_DAUGHTERS | triúr iníonacha | three daughters |  |  |  |  |  |  |  |
+| NYT | Family1 |  | WORD | NUM_DAUGHTERS | seisear iníonacha | six girls |  |  |  |  |  |  |  |
+| NYT | Family1 |  | WORD | NUM_BOYS | ceathrar buachaillí | four boys |  |  |  |  |  |  |  |
+| NYT | Family1 |  | WORD | NUM_GIRLS | beirt chailíní | two girls |  |  |  |  |  |  |  |
+| NYT | Family1 |  | WORD | NUM_GIRLS | cúigear cailíní | five girls |  |  |  |  |  |  |  |
 | NYT | Family1 |  | SENTENCE |  | Tá $NUM_CHILDREN agam. | I have $NUM_CHILDREN. |  |  |  |  |  |  |  |
 | NYT | Family1 |  | DYNAMIC |  | Tá páiste amháin agam. | I have one child. |  |  |  |  |  |  |  |
 | NYT | Family1 |  | DYNAMIC |  | Tá beirt pháistí agam. | I have two children. |  |  |  |  |  |  |  |
@@ -1856,23 +1856,24 @@
 | NYT | Family1 |  | DYNAMIC |  | Tá ochtar páistí agam. | I have eight children. |  |  |  |  |  |  |  |
 | NYT | Family1 |  | DYNAMIC |  | Tá naonúr páistí agam. | I have nine children. |  |  |  |  |  |  |  |
 | NYT | Family1 |  | DYNAMIC |  | Tá deichniúr páistí agam. | I have ten children. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | SENTENCE |  | Tá $NUM_SONS agam. | I have $NUM_SONS. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá mac amháin agam. | I have one son. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá beirt mhac agam. | I have two sons. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá triúr mac agam. | I have three sons. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | SENTENCE |  | Tá $NUM_DAUGHTERS agam. | I have $NUM_DAUGHTERS. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá triúr iníonacha agam. | I have three daughters. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá seisear iníonacha agam. | I have six girls. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | SENTENCE |  | Tá $NUM_BOYS agam. | I have $NUM_BOYS. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá ceathrar buachaillí agam. | I have four boys. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | SENTENCE |  | Tá $NUM_GIRLS agam. | I have $NUM_GIRLS. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá beirt chailíní agam. | I have two girls. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá cúigear cailíní agam. | I have five girls. |  |  |  |  |  |  |  |
 | NYT | Family1 |  | NOUN | SCHOOL_TYPE | scoil | school |  |  |  |  | skull |  |  |
 | NYT | Family1 |  | NOUN | SCHOOL_TYPE | naíonra | playschool |  |  |  |  | neenra |  |  |
 | NYT | Family1 |  | NOUN | SCHOOL_TYPE | naíscoil | nursery school |  |  |  |  | nee-skull |  |  |
 | NYT | Family1 |  | NOUN | SCHOOL_TYPE | bunscoil | primary school |  |  |  |  | bun-skull |  |  |
 | NYT | Family1 |  | NOUN | SCHOOL_TYPE | meánscoil | secondary school |  |  |  |  | man-skull |  |  |
 | NYT | Family1 |  | NOUN | SCHOOL_TYPE | ollscoil | university |  |  |  |  | ol-skull |  |  |
-| NYT | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an scoil. | $NUM_PEOPLE of them are at school. |  |  |  |  |  |  |  |
-| NYT | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an scoil. | one (person) of them are at school. |  |  |  |  |  |  |  |
-| NYT | Family1 |  | DYNAMIC |  | Tá beirt acu ar an scoil. | two (people) of them are at school. |  |  |  |  |  |  |  |
-| NYT | Family1 |  | DYNAMIC |  | Tá triúr acu ar an scoil. | three (people) of them are at school. |  |  |  |  |  |  |  |
-| NYT | Family1 |  | DYNAMIC |  | Tá ceathrar acu ar an scoil. | four (people) of them are at school. |  |  |  |  |  |  |  |
-| NYT | Family1 |  | DYNAMIC |  | Tá cúigear acu ar an scoil. | five (people) of them are at school. |  |  |  |  |  |  |  |
-| NYT | Family1 |  | DYNAMIC |  | Tá seisear acu ar an scoil. | six (people) of them are at school. |  |  |  |  |  |  |  |
-| NYT | Family1 |  | DYNAMIC |  | Tá seachtar acu ar an scoil. | seven (people) of them are at school. |  |  |  |  |  |  |  |
-| NYT | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an scoil. | eight (people) of them are at school. |  |  |  |  |  |  |  |
-| NYT | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an scoil. | nine (people) of them are at school. |  |  |  |  |  |  |  |
-| NYT | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an scoil. | ten (people) of them are at school. |  |  |  |  |  |  |  |
 | NYT | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu sa naíonra. | $NUM_PEOPLE of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
 | NYT | Family1 |  | DYNAMIC |  | Tá duine amháin acu sa naíonra. | one (person) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
 | NYT | Family1 |  | DYNAMIC |  | Tá beirt acu sa naíonra. | two (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
@@ -1884,6 +1885,50 @@
 | NYT | Family1 |  | DYNAMIC |  | Tá ochtar acu sa naíonra. | eight (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
 | NYT | Family1 |  | DYNAMIC |  | Tá naonúr acu sa naíonra. | nine (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
 | NYT | Family1 |  | DYNAMIC |  | Tá deichniúr acu sa naíonra. | ten (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| NYT | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an scoil. | $NUM_PEOPLE of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an scoil. | one (person) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá beirt acu ar an scoil. | two (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá triúr acu ar an scoil. | three (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá ceathrar acu ar an scoil. | four (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá cúigear acu ar an scoil. | five (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá seisear acu ar an scoil. | six (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá seachtar acu ar an scoil. | seven (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an scoil. | eight (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an scoil. | nine (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an scoil. | ten (people) of them are at school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an bhunscoil. | $NUM_PEOPLE of them are at primary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an bhunscoil. | one (person) of them are at primary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá beirt acu ar an bhunscoil. | two (people) of them are at primary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá triúr acu ar an bhunscoil. | three (people) of them are at primary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá ceathrar acu ar an bhunscoil. | four (people) of them are at primary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá cúigear acu ar an bhunscoil. | five (people) of them are at primary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá seisear acu ar an bhunscoil. | six (people) of them are at primary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá seachtar acu ar an bhunscoil. | seven (people) of them are at primary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an bhunscoil. | eight (people) of them are at primary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an bhunscoil. | nine (people) of them are at primary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an bhunscoil. | ten (people) of them are at primary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an mheánscoil. | $NUM_PEOPLE of them are at secondary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an mheánscoil. | one (person) of them are at secondary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá beirt acu ar an mheánscoil. | two (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá triúr acu ar an mheánscoil. | three (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá ceathrar acu ar an mheánscoil. | four (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá cúigear acu ar an mheánscoil. | five (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá seisear acu ar an mheánscoil. | six (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá seachtar acu ar an mheánscoil. | seven (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an mheánscoil. | eight (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an mheánscoil. | nine (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an mheánscoil. | ten (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an ollscoil. | $NUM_PEOPLE of them are at university. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an ollscoil. | one (person) of them are at university. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá beirt acu ar an ollscoil. | two (people) of them are at university. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá triúr acu ar an ollscoil. | three (people) of them are at university. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá ceathrar acu ar an ollscoil. | four (people) of them are at university. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá cúigear acu ar an ollscoil. | five (people) of them are at university. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá seisear acu ar an ollscoil. | six (people) of them are at university. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá seachtar acu ar an ollscoil. | seven (people) of them are at university. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an ollscoil. | eight (people) of them are at university. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an ollscoil. | nine (people) of them are at university. |  |  |  |  |  |  |  |
+| NYT | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an ollscoil. | ten (people) of them are at university. |  |  |  |  |  |  |  |
 | NYT | Family1 |  | SENTENCE |  | Tá Síle ar an bhunscoil. | Síle is at primary school. |  |  |  |  | ...ar an whunskull |  |  |
 | NYT | Family1 |  | SENTENCE |  | Tá Aodh ar an mheánscoil. | Aodh is at secondary school. |  |  |  |  | ...vanskull??? |  |  |
 | NYT | Family1 |  | SENTENCE |  | Tá Nóra ar an ollscoil. | Nóra is at university. |  |  |  |  | ..ol-skull |  |  |
@@ -3358,15 +3403,3 @@
 | Giota Beag | 9 |  |  |  | Tá tinneas goile orm fosta | I also have a stomach ache |  |  |  |  |  |  |  |
 | Giota Beag | 9 |  |  |  | Tinneas fiacaile | Toothache |  |  |  |  |  |  |  |
 | Giota Beag | 9 |  |  |  | Tá biseach orm | I'm better |  |  |  |  |  |  |  |
-| Giota Beag | 9 |  |  |  | Orm, ort, air, uirthi | On me, on you, on him, on her |  |  |  |  |  |  |  |
-| Giota Beag | 9 |  |  |  | Tá drochspionn orm | I'm not in great form |  |  |  |  |  |  |  |
-| Giota Beag | 9 |  |  |  | Tá spionn mhaith orm | I'm in great form |  |  |  |  |  |  |  |
-| Giota Beag | 9 |  |  |  | Tá mé buartha | I'm sorry/I'm worried |  |  |  |  |  |  |  |
-
-## Giota Beag - 10
-
-| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag | 10 |  |  |  | Bhí mo bhreithlá ann Dé hAoine | It was my birthday on Friday |  |  |  |  |  |  |  |
-| Giota Beag | 10 |  |  |  | Fuair mé cárta agus fuair mé bronntanas | I got a card and I got a present |  |  |  |  |  |  |  |
-| Giota Beag | 10 |  |  |  | Fuair mé geansaí nua | I got a new jumper |  |  |  |  |  |  |  |

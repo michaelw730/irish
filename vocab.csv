@@ -945,23 +945,30 @@ NYT	Family1		WORD	NUM_CHILDREN	seachtar páistí	seven children					shocktar
 NYT	Family1		WORD	NUM_CHILDREN	ochtar páistí	eight children					oktar		
 NYT	Family1		WORD	NUM_CHILDREN	naonúr páistí	nine children					neenar		
 NYT	Family1		WORD	NUM_CHILDREN	deichniúr páistí	ten children					djenur		
-NYT	Family1		WORD		seisear iníonacha								
-NYT	Family1		WORD		triúr mac								
-NYT	Family1		WORD		ceathrar buachaillí								
-NYT	Family1		WORD		cúigear cailíní								
-NYT	Family1		WORD		triúr iníonacha								
-NYT	Family1		WORD		mac amháin								
-NYT	Family1		WORD		beirt mhac								
-NYT	Family1		WORD		beirt chailíní								
+NYT	Family1		WORD	NUM_SONS	mac amháin	one son							
+NYT	Family1		WORD	NUM_SONS	beirt mhac	two sons							
+NYT	Family1		WORD	NUM_SONS	triúr mac	three sons							
+NYT	Family1		WORD	NUM_DAUGHTERS	triúr iníonacha	three daughters							
+NYT	Family1		WORD	NUM_DAUGHTERS	seisear iníonacha	six girls							
+NYT	Family1		WORD	NUM_BOYS	ceathrar buachaillí	four boys							
+NYT	Family1		WORD	NUM_GIRLS	beirt chailíní	two girls							
+NYT	Family1		WORD	NUM_GIRLS	cúigear cailíní	five girls							
 NYT	Family1		SENTENCE		Tá $NUM_CHILDREN agam.	I have $NUM_CHILDREN.							
+NYT	Family1		SENTENCE		Tá $NUM_SONS agam.	I have $NUM_SONS.							
+NYT	Family1		SENTENCE		Tá $NUM_DAUGHTERS agam.	I have $NUM_DAUGHTERS.							
+NYT	Family1		SENTENCE		Tá $NUM_BOYS agam.	I have $NUM_BOYS.							
+NYT	Family1		SENTENCE		Tá $NUM_GIRLS agam.	I have $NUM_GIRLS.							
 NYT	Family1		NOUN	SCHOOL_TYPE	scoil	school					skull		
 NYT	Family1		NOUN	SCHOOL_TYPE	naíonra	playschool					neenra		
 NYT	Family1		NOUN	SCHOOL_TYPE	naíscoil	nursery school					nee-skull		
 NYT	Family1		NOUN	SCHOOL_TYPE	bunscoil	primary school					bun-skull		
 NYT	Family1		NOUN	SCHOOL_TYPE	meánscoil	secondary school					man-skull		
 NYT	Family1		NOUN	SCHOOL_TYPE	ollscoil	university					ol-skull		
-NYT	Family1		TEMPLATE		Tá $NUM_PEOPLE acu ar an scoil.	$NUM_PEOPLE of them are at school.							
 NYT	Family1		TEMPLATE		Tá $NUM_PEOPLE acu sa naíonra.	$NUM_PEOPLE of them is in playschool.					.. sa neenra		
+NYT	Family1		TEMPLATE		Tá $NUM_PEOPLE acu ar an scoil.	$NUM_PEOPLE of them are at school.							
+NYT	Family1		TEMPLATE		Tá $NUM_PEOPLE acu ar an bhunscoil.	$NUM_PEOPLE of them are at primary school.							
+NYT	Family1		TEMPLATE		Tá $NUM_PEOPLE acu ar an mheánscoil.	$NUM_PEOPLE of them are at secondary school.							
+NYT	Family1		TEMPLATE		Tá $NUM_PEOPLE acu ar an ollscoil.	$NUM_PEOPLE of them are at university.							
 NYT	Family1		SENTENCE		Tá Síle ar an bhunscoil.	Síle is at primary school.					...ar an whunskull		
 NYT	Family1		SENTENCE		Tá Aodh ar an mheánscoil.	Aodh is at secondary school.					...vanskull???		
 NYT	Family1		SENTENCE		Tá Nóra ar an ollscoil.	Nóra is at university.					..ol-skull		
