@@ -718,6 +718,19 @@ IRREGULAR VERBS
 
 As we mentioned before, Irish only has a handful of verbs that don't follow all the rules. Here are the past-tense forms of those verbs:
 
+* bhí mé (I was) - be
+* rinne mé (I did) - do
+* chuala tú (you heard) - hear
+* dúirt sé (he said) - say
+* fuair sí (she got) - get
+* d’ith muid (we ate) - eat
+* chonaic sibh (you saw) - see
+* thug siad (they gave) - give
+* chuaigh mé (I went) - go
+* rug sí ar (she caught) - catch
+* tháinig sé (he came) - come
+
+
 [what-you-did.csv](what-you-did.csv)
 
 * [Doing things on Days of the Week](dates.md#doing-things-on-days-of-the-week)

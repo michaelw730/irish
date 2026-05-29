@@ -993,6 +993,7 @@ NYT	SAYING WHAT YOU DID		NOUN		scannán	film
 NYT	SAYING WHAT YOU DID		NOUN		ceolchoirm	concert							
 NYT	SAYING WHAT YOU DID		NOUN		coirm cheoil	concert							
 NYT	SAYING WHAT YOU DID		NOUN		mí (mhí)	month					mee (vee)		
+NYT	SAYING WHAT YOU DID		NOUN		liathróid	ball					La-hridge		
 NYT	SAYING WHAT YOU DID		PHRASE		Cá háit?	Where?					Ca hatch?		
 NYT	SAYING WHAT YOU DID		PHRASE		Cá háit a ndeachaigh* tú?	Where did you go?		s			Ca hatch a dja-ha too?		
 NYT	SAYING WHAT YOU DID		PHRASE		Cá háit a ndeachaigh* sibh?	Where did you go?		p			Ca hatch a dja-ha shiv $RECENT_PERIODS?		
@@ -1029,10 +1030,13 @@ NYT	SAYING WHAT YOU DID		TEMPLATE		bhí $PRONOUNS	$PRONOUNS was					Vee $PRONOUN
 NYT	SAYING WHAT YOU DID		PHRASE		Bhí mé ag bainis.	I was at a wedding.					vee me ag bannish		
 NYT	SAYING WHAT YOU DID		PHRASE		Bhí mé i nDoire $RECENT_PERIODS	I was in Derry $RECENT_PERIODS					vee me in nirra $RECENT_PERIODS		
 NYT	SAYING WHAT YOU DID		TEMPLATE		rinne $PRONOUNS	$PRONOUNS did/made					Rinn $PRONOUNS		
+NYT	SAYING WHAT YOU DID		PHRASE		rinne $PRONOUNS an dinnéar	$PRONOUNS made the dinner							
 NYT	SAYING WHAT YOU DID		TEMPLATE		chuala $PRONOUNS	$PRONOUNS heard					(throaty) cwilla $PRONOUNS		
+NYT	SAYING WHAT YOU DID		PHRASE		Chuala $PRONOUNS ceol	$PRONOUNS heard music							
 NYT	SAYING WHAT YOU DID		TEMPLATE		dúirt $PRONOUNS	$PRONOUNS said					doortch $PRONOUNS		
 NYT	SAYING WHAT YOU DID		TEMPLATE		fuair $PRONOUNS	$PRONOUNS got					foo-er $PRONOUNS		
 NYT	SAYING WHAT YOU DID		TEMPLATE		d'ith $PRONOUNS	$PRONOUNS ate					dgee $PRONOUNS		
+NYT	SAYING WHAT YOU DID		PHRASE		D’ith $PRONOUNS dinnéar	$PRONOUNS ate dinner							
 NYT	SAYING WHAT YOU DID		TEMPLATE		chonaic $PRONOUNS	$PRONOUNS saw					(throaty) honic $PRONOUNS		
 NYT	SAYING WHAT YOU DID		TEMPLATE		chonaic mé Brian inné	I saw Brian today					(throaty) honic		
 NYT	SAYING WHAT YOU DID		TEMPLATE		chonaic mé Síle $DAYS_OF_WEEK	I saw Sheila on $DAYS_OF_WEEK					(throaty) honic		
@@ -1051,12 +1055,13 @@ NYT	SAYING WHAT YOU DID		PHRASE		Chuaigh mé chuig an dochtúir.	I went to the d
 NYT	SAYING WHAT YOU DID		PHRASE		Chuaigh mé chuig dráma.	I went to a play.							
 NYT	SAYING WHAT YOU DID		PHRASE		Chuaigh mé go dtí an leabharlann.	I went to the library							
 NYT	SAYING WHAT YOU DID		TEMPLATE		rug $PRONOUNS ar	$PRONOUNS caught					rug $PRONOUNS ar		
+NYT	SAYING WHAT YOU DID		PHRASE		Rug $PRONOUNS liathróid	$PRONOUNS caught a ball							
 NYT	SAYING WHAT YOU DID		TEMPLATE		tháinig $PRONOUNS	$PRONOUNS came					hanig $PRONOUNS		
-NYT	SAYING WHAT YOU DID				Tháinig Máirín tráthnóna Dé Sathairn	Máirín came on Saturday evening							
+NYT	SAYING WHAT YOU DID		PHRASE		Tháinig Máirín tráthnóna Dé Sathairn	Máirín came on Saturday evening							
 NYT	SAYING WHAT YOU DID		TEMPLATE		Chuir $PRONOUNS	$PRONOUNS sent							
-NYT	SAYING WHAT YOU DID				Chuir mé litir chuig Anna.	I sent a letter to Anna.							
+NYT	SAYING WHAT YOU DID		PHRASE		Chuir mé litir chuig Anna.	I sent a letter to Anna.							
 NYT	SAYING WHAT YOU DID		TEMPLATE		Chaith $PRONOUNS	$PRONOUNS threw							
-NYT	SAYING WHAT YOU DID				Chaith sé cnámh chuig an mhadadh.	He threw a bone to the dog.							
+NYT	SAYING WHAT YOU DID		PHRASE		Chaith sé cnámh chuig an mhadadh.	He threw a bone to the dog.							
 NYT	SAYING WHAT YOU DID		WORD	DAYS_OF_WEEK	Dé Luain	Monday					je luan		
 NYT	SAYING WHAT YOU DID		WORD	DAYS_OF_WEEK	Dé Máirt	Tuesday					je mwarch		
 NYT	SAYING WHAT YOU DID		WORD	DAYS_OF_WEEK	Dé Céadaoin	Wednesday					je ceadine		

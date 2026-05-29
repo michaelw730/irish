@@ -1968,6 +1968,7 @@
 | NYT | SAYING WHAT YOU DID |  | NOUN |  | ceolchoirm | concert |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | NOUN |  | coirm cheoil | concert |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | NOUN |  | mí (mhí) | month |  |  |  |  | mee (vee) |  |  |
+| NYT | SAYING WHAT YOU DID |  | NOUN |  | liathróid | ball |  |  |  |  | La-hridge |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Cá háit? | Where? |  |  |  |  | Ca hatch? |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Cá háit a ndeachaigh* tú? | Where did you go? |  | s |  |  | Ca hatch a dja-ha too? |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Cá háit a ndeachaigh* sibh? | Where did you go? |  | p |  |  | Ca hatch a dja-ha shiv $RECENT_PERIODS? |  |  |
@@ -2105,6 +2106,14 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne muid | we did/made |  |  |  |  | Rinn mwidge |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne sibh | you did/made |  |  |  |  | Rinn shiv |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne siad | they  did/made |  |  |  |  | Rinn Shee-id |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | rinne $PRONOUNS an dinnéar | $PRONOUNS made the dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne mé an dinnéar | I made the dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne tú an dinnéar | you made the dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne sé an dinnéar | he made the dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne sí an dinnéar | she made the dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne muid an dinnéar | we made the dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne sibh an dinnéar | you made the dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne siad an dinnéar | they  made the dinner |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | chuala $PRONOUNS | $PRONOUNS heard |  |  |  |  | (throaty) cwilla $PRONOUNS |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala mé | I heard |  |  |  |  | (throaty) cwilla meh |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala tú | you heard |  |  |  |  | (throaty) cwilla too |  |  |
@@ -2113,6 +2122,14 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala muid | we heard |  |  |  |  | (throaty) cwilla mwidge |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala sibh | you heard |  |  |  |  | (throaty) cwilla shiv |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala siad | they  heard |  |  |  |  | (throaty) cwilla Shee-id |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuala $PRONOUNS ceol | $PRONOUNS heard music |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala mé ceol | I heard music |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala tú ceol | you heard music |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala sé ceol | he heard music |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala sí ceol | she heard music |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala muid ceol | we heard music |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala sibh ceol | you heard music |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala siad ceol | they  heard music |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | dúirt $PRONOUNS | $PRONOUNS said |  |  |  |  | doortch $PRONOUNS |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | dúirt mé | I said |  |  |  |  | doortch meh |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | dúirt tú | you said |  |  |  |  | doortch too |  |  |
@@ -2137,6 +2154,14 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith muid | we ate |  |  |  |  | dgee mwidge |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith sibh | you ate |  |  |  |  | dgee shiv |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith siad | they  ate |  |  |  |  | dgee Shee-id |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | D’ith $PRONOUNS dinnéar | $PRONOUNS ate dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ith mé dinnéar | I ate dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ith tú dinnéar | you ate dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ith sé dinnéar | he ate dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ith sí dinnéar | she ate dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ith muid dinnéar | we ate dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ith sibh dinnéar | you ate dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ith siad dinnéar | they  ate dinner |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | chonaic $PRONOUNS | $PRONOUNS saw |  |  |  |  | (throaty) honic $PRONOUNS |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé | I saw |  |  |  |  | (throaty) honic meh |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic tú | you saw |  |  |  |  | (throaty) honic too |  |  |
@@ -2190,6 +2215,14 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rug muid ar | we caught |  |  |  |  | rug mwidge ar |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rug sibh ar | you caught |  |  |  |  | rug shiv ar |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | rug siad ar | they  caught |  |  |  |  | rug Shee-id ar |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Rug $PRONOUNS liathróid | $PRONOUNS caught a ball |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug mé liathróid | I caught a ball |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug tú liathróid | you caught a ball |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug sé liathróid | he caught a ball |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug sí liathróid | she caught a ball |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug muid liathróid | we caught a ball |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug sibh liathróid | you caught a ball |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug siad liathróid | they  caught a ball |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | tháinig $PRONOUNS | $PRONOUNS came |  |  |  |  | hanig $PRONOUNS |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig mé | I came |  |  |  |  | hanig meh |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig tú | you came |  |  |  |  | hanig too |  |  |
@@ -2198,7 +2231,7 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig muid | we came |  |  |  |  | hanig mwidge |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig sibh | you came |  |  |  |  | hanig shiv |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig siad | they  came |  |  |  |  | hanig Shee-id |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | Tháinig Máirín tráthnóna Dé Sathairn | Máirín came on Saturday evening |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Tháinig Máirín tráthnóna Dé Sathairn | Máirín came on Saturday evening |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | Chuir $PRONOUNS | $PRONOUNS sent |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir mé | I sent |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir tú | you sent |  |  |  |  |  |  |  |
@@ -2207,7 +2240,7 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir muid | we sent |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir sibh | you sent |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir siad | they  sent |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | Chuir mé litir chuig Anna. | I sent a letter to Anna. |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuir mé litir chuig Anna. | I sent a letter to Anna. |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | Chaith $PRONOUNS | $PRONOUNS threw |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith mé | I threw |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith tú | you threw |  |  |  |  |  |  |  |
@@ -2216,7 +2249,7 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith muid | we threw |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith sibh | you threw |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith siad | they  threw |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  |  |  | Chaith sé cnámh chuig an mhadadh. | He threw a bone to the dog. |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chaith sé cnámh chuig an mhadadh. | He threw a bone to the dog. |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Luain | Monday |  |  |  |  | je luan |  |  |
 | NYT | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Máirt | Tuesday |  |  |  |  | je mwarch |  |  |
 | NYT | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Céadaoin | Wednesday |  |  |  |  | je ceadine |  |  |
@@ -3401,8 +3434,3 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Giota Beag | 9 |  |  |  | Tinneas | Sickness |  |  |  |  |  |  |  |
 | Giota Beag | 9 |  |  |  | Cad é atá ort? | What's wrong with you? |  |  |  |  |  |  |  |
-| Giota Beag | 9 |  |  |  | Tá tinneas orm | I'm sick |  |  |  |  |  |  |  |
-| Giota Beag | 9 |  |  |  | Tá mé go measartha | I'm not too bad |  |  |  |  |  |  |  |
-| Giota Beag | 9 |  |  |  | Tá slaghdán orm | I have a cold |  |  |  |  |  |  |  |
-| Giota Beag | 9 |  |  |  | Tá tinneas cinn orm | I have a headache |  |  |  |  |  |  |  |
-| Giota Beag | 9 |  |  |  | Tá tinneas goile orm fosta | I also have a stomach ache |  |  |  |  |  |  |  |
