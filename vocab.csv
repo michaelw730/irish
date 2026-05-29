@@ -42,13 +42,13 @@ NYT	Meeting People		PHRASE	HOW_I_AM	go holc	awful
 NYT	Meeting People		PHRASE	HOW_I_AM	go measaratha	reasonable/middling							
 NYT	Meeting People		PHRASE	HOW_I_AM	go measaratha maith	reasonable/middling good							
 NYT	Meeting People		PHRASE	HOW_I_AM	i gceart	rightly							
-NYT	Meeting People		WORD	PRONOUNS	mé	I							
-NYT	Meeting People		WORD	PRONOUNS	tú	you		s					
-NYT	Meeting People		WORD	PRONOUNS	sé	he							
-NYT	Meeting People		WORD	PRONOUNS	sí	she							
-NYT	Meeting People		WORD	PRONOUNS	muid	we							
-NYT	Meeting People		WORD	PRONOUNS	sibh	you		p					
-NYT	Meeting People		WORD	PRONOUNS	siad	they 							
+NYT	Meeting People		WORD	PRONOUNS	mé	I					meh		
+NYT	Meeting People		WORD	PRONOUNS	tú	you		s			too		
+NYT	Meeting People		WORD	PRONOUNS	sé	he					shay		
+NYT	Meeting People		WORD	PRONOUNS	sí	she					shee		
+NYT	Meeting People		WORD	PRONOUNS	muid	we					mwidge		
+NYT	Meeting People		WORD	PRONOUNS	sibh	you		p			shiv		
+NYT	Meeting People		WORD	PRONOUNS	siad	they 					Shee-id		
 NYT	Meeting People		PHRASE		Tá mé	I am							
 NYT	Meeting People		PHRASE		Tá tú	You are 		s					
 NYT	Meeting People		PHRASE		Tá sé	He/it is							
@@ -1005,32 +1005,30 @@ NYT	SAYING WHAT YOU DID		PHRASE		D'imir mé leadóg	I played tennis.					Djimir 
 NYT	SAYING WHAT YOU DID		VERB		amharc	watch							
 NYT	SAYING WHAT YOU DID		TEMPLATE		D'amharc $PRONOUNS	$PRONOUNS watched					Dark $PRONOUNS		
 NYT	SAYING WHAT YOU DID		PHRASE		D'amharc mé ar fhíseáin.	I watched videos.					dark meh ar eesh-aan		
-NYT	SAYING WHAT YOU DID		PHRASE		D'amharc mé an teilifís.	I watched the teilifís.					dark meh ar eesh-aan		
-NYT	SAYING WHAT YOU DID		PHRASE		D'amharc mé scannán.	I watched a film.					dark meh ar eesh-aan		
+NYT	SAYING WHAT YOU DID		PHRASE		D'amharc mé an teilifís.	I watched the teilifís.					dark meh an telefish		
+NYT	SAYING WHAT YOU DID		PHRASE		D'amharc mé scannán.	I watched a film.					dark meh scannan		
 NYT	SAYING WHAT YOU DID		VERB		éist	listen to 							
 NYT	SAYING WHAT YOU DID		TEMPLATE		D'eist $PRONOUNS	$PRONOUNS listened							
 NYT	SAYING WHAT YOU DID		PHRASE		D'éist mé le dlúthdhioscaí.	I listened to CDs.					djeest meh le dluduskee		
-NYT	SAYING WHAT YOU DID		PHRASE		D'éist mé le ceol.	I listened to music.					djeest meh le dluduskee		
+NYT	SAYING WHAT YOU DID		PHRASE		D'éist mé le ceol.	I listened to music.					djeest meh le cyol		
 NYT	SAYING WHAT YOU DID		VERB		ól	drink							
-NYT	SAYING WHAT YOU DID		TEMPLATE		D’ól $PRONOUNS	$PRONOUNS drink							
+NYT	SAYING WHAT YOU DID		TEMPLATE		D’ól $PRONOUNS	$PRONOUNS drink					doll $PRONOUNS		
 NYT	SAYING WHAT YOU DID		PHRASE		D'ól mé cúpla deoch.	I had a few drinks.					dol meh coupla jaw		
-NYT	SAYING WHAT YOU DID		PHRASE		D'ól mé cúpla pionta.	I had a few pints.					dol meh coupla jaw		
-NYT	SAYING WHAT YOU DID		PHRASE		Caithfidh mé labhairt leat inniu	I need to see you today					????		
-NYT	SAYING WHAT YOU DID		VERB		suigh	sit							
-NYT	SAYING WHAT YOU DID				suigh síos	sit down							
-NYT	SAYING WHAT YOU DID				shuigh $PRONOUNS	$PRONOUNS sat					$PRONOUNS		
-NYT	SAYING WHAT YOU DID				shuigh $PRONOUNS síos	$PRONOUNS sat down					$PRONOUNS		
-NYT	SAYING WHAT YOU DID		VERB		druid	close							
-NYT	SAYING WHAT YOU DID				dhruid $PRONOUNS	$PRONOUNS closed							
-NYT	SAYING WHAT YOU DID				dhruid $PRONOUNS an doras	$PRONOUNS closed the door					$PRONOUNS		
-NYT	SAYING WHAT YOU DID		VERB		ól	drink					$PRONOUNS		
-NYT	SAYING WHAT YOU DID				d'ól $PRONOUNS	$PRONOUNS drank							
-NYT	SAYING WHAT YOU DID		VERB		fan	wait					$PRONOUNS		
-NYT	SAYING WHAT YOU DID		TEMPLATE		d'fhan $PRONOUNS	$PRONOUNS waited					$PRONOUNS		
-NYT	SAYING WHAT YOU DID		TEMPLATE		bhí $PRONOUNS	$PRONOUNS was					$PRONOUNS		
-NYT	SAYING WHAT YOU DID		PHRASE		Bhí mé ag bainis.	I was at a wedding.							
-NYT	SAYING WHAT YOU DID		PHRASE		Bhí mé i nDoire $RECENT_PERIODS	I was in Derry $RECENT_PERIODS							
-NYT	SAYING WHAT YOU DID		TEMPLATE		rinne $PRONOUNS	$PRONOUNS did/made					$PRONOUNS		
+NYT	SAYING WHAT YOU DID		PHRASE		D'ól mé cúpla pionta.	I had a few pints.					dol meh coupla pinta		
+NYT	SAYING WHAT YOU DID		PHRASE		Caithfidh mé labhairt leat inniu	I need to see you today					chiffy me lorch leat innyou		
+NYT	SAYING WHAT YOU DID		VERB		suigh	sit					shees		
+NYT	SAYING WHAT YOU DID				suigh síos	sit down					see shees		
+NYT	SAYING WHAT YOU DID				shuigh $PRONOUNS	$PRONOUNS sat					hee $PRONOUNS		
+NYT	SAYING WHAT YOU DID				shuigh $PRONOUNS síos	$PRONOUNS sat down					hee $PRONOUNS shees		
+NYT	SAYING WHAT YOU DID		VERB		druid	close					dridge		
+NYT	SAYING WHAT YOU DID				dhruid $PRONOUNS	$PRONOUNS closed					hridge $PRONOUNS		
+NYT	SAYING WHAT YOU DID				dhruid $PRONOUNS an doras	$PRONOUNS closed the door					Hridge $PRONOUNS the door		
+NYT	SAYING WHAT YOU DID		VERB		fan	wait					fan		
+NYT	SAYING WHAT YOU DID		TEMPLATE		d'fhan $PRONOUNS	$PRONOUNS waited					Dan $PRONOUNS		
+NYT	SAYING WHAT YOU DID		TEMPLATE		bhí $PRONOUNS	$PRONOUNS was					Vee $PRONOUNS		
+NYT	SAYING WHAT YOU DID		PHRASE		Bhí mé ag bainis.	I was at a wedding.					vee me ag bannish		
+NYT	SAYING WHAT YOU DID		PHRASE		Bhí mé i nDoire $RECENT_PERIODS	I was in Derry $RECENT_PERIODS					vee me in nirra $RECENT_PERIODS		
+NYT	SAYING WHAT YOU DID		TEMPLATE		rinne $PRONOUNS	$PRONOUNS did/made					Rinn $PRONOUNS		
 NYT	SAYING WHAT YOU DID		TEMPLATE		chuala $PRONOUNS	$PRONOUNS heard					(throaty) cwilla $PRONOUNS		
 NYT	SAYING WHAT YOU DID		TEMPLATE		dúirt $PRONOUNS	$PRONOUNS said					doortch $PRONOUNS		
 NYT	SAYING WHAT YOU DID		TEMPLATE		fuair $PRONOUNS	$PRONOUNS got					foo-er $PRONOUNS		
@@ -1054,6 +1052,7 @@ NYT	SAYING WHAT YOU DID		PHRASE		Chuaigh mé chuig dráma.	I went to a play.
 NYT	SAYING WHAT YOU DID		PHRASE		Chuaigh mé go dtí an leabharlann.	I went to the library							
 NYT	SAYING WHAT YOU DID		TEMPLATE		rug $PRONOUNS ar	$PRONOUNS caught					rug $PRONOUNS ar		
 NYT	SAYING WHAT YOU DID		TEMPLATE		tháinig $PRONOUNS	$PRONOUNS came					hanig $PRONOUNS		
+NYT	SAYING WHAT YOU DID				Tháinig Máirín tráthnóna Dé Sathairn	Máirín came on Saturday evening							
 NYT	SAYING WHAT YOU DID		TEMPLATE		Chuir $PRONOUNS	$PRONOUNS sent							
 NYT	SAYING WHAT YOU DID				Chuir mé litir chuig Anna.	I sent a letter to Anna.							
 NYT	SAYING WHAT YOU DID		TEMPLATE		Chaith $PRONOUNS	$PRONOUNS threw							
@@ -1096,7 +1095,6 @@ NYT	SAYING WHAT YOU DID				go hArd Mhacha	to Armagh
 NYT	SAYING WHAT YOU DID				go dtí an banc	to the bank							
 NYT	SAYING WHAT YOU DID				chuig dráma	to a play							
 NYT	SAYING WHAT YOU DID				Chífidh mé maidin Dé hAoine tú	I’ll see you on Friday morning							
-NYT	SAYING WHAT YOU DID				Tháinig Máirín tráthnóna Dé Sathairn	Máirín came on Saturday evening							
 NYT	SAYING WHAT YOU DID				Thart fá leath i ndiaidh a hocht	Around half past 8							
 NYT	Taking your leave				AG FÁGÁIL COMHLUADAIR	TAKING YOUR LEAVE					Ag faygal cool-wah-der		
 NYT	Taking your leave				Caithfidh mé imeacht.	I have to go.					Ka-heh meh imackt		
