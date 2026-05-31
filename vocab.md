@@ -2199,7 +2199,7 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chuaigh siad | they  went |  |  |  |  | who-e Shee-id |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé ag snámh. | I went swimming. |  |  |  |  | wheh meh a sna-o |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé ag siúl. | I went walking. |  |  |  |  | wheh meh a shool |  |  |
-| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé ag bainis. | I went to a wedding. |  |  |  |  | wheh meh a bawnish |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé chuig bainis. | I went to a wedding. |  |  |  |  | wheh meh a bawnish |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh muid ag rothaíocht. | We went cycling. |  |  |  |  | wheh mwidgh ag ro-he-ocht (ro-he-art>>) |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé ag iascaireacht | I went fishing |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé féin agus Sinead ag rothaíocht. | Myself and Sinead went cycling. |  |  |  |  |  |  |  |
