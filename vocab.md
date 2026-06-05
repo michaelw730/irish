@@ -65,16 +65,16 @@
 | NYT | Meeting People |  | PHRASE |  | Tá muid | We are |  |  |  |  |  |  |  |
 | NYT | Meeting People |  | PHRASE |  | Tá sibh | You are  |  | p |  |  |  |  |  |
 | NYT | Meeting People |  | PHRASE |  | Tá siad | They are |  |  |  |  |  |  |  |
-| NYT | Meeting People |  | TEMPLATE |  | Tá mé $HOW_I_AM. | I am $HOW_I_AM | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
-| NYT | Meeting People |  | DYNAMIC |  | Tá mé go maith. | I am well | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
-| NYT | Meeting People |  | DYNAMIC |  | Tá mé go breá. | I am fine | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
-| NYT | Meeting People |  | DYNAMIC |  | Tá mé maith go leor. | I am very good | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
-| NYT | Meeting People |  | DYNAMIC |  | Tá mé ceart go leor. | I am alright | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
-| NYT | Meeting People |  | DYNAMIC |  | Tá mé go holc. | I am awful | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
-| NYT | Meeting People |  | DYNAMIC |  | Tá mé go measaratha. | I am reasonable/middling | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
-| NYT | Meeting People |  | DYNAMIC |  | Tá mé go measaratha maith. | I am reasonable/middling good | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
-| NYT | Meeting People |  | DYNAMIC |  | Tá mé i gceart. | I am rightly | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
-| NYT | Meeting People |  | SENTENCE |  | Níl mé go maith. | I am not good | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
+| NYT | Meeting People |  | TEMPLATE |  | Tá mé $HOW_I_AM. | I am $HOW_I_AM | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| NYT | Meeting People |  | DYNAMIC |  | Tá mé go maith. | I am well | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| NYT | Meeting People |  | DYNAMIC |  | Tá mé go breá. | I am fine | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| NYT | Meeting People |  | DYNAMIC |  | Tá mé maith go leor. | I am very good | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| NYT | Meeting People |  | DYNAMIC |  | Tá mé ceart go leor. | I am alright | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| NYT | Meeting People |  | DYNAMIC |  | Tá mé go holc. | I am awful | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| NYT | Meeting People |  | DYNAMIC |  | Tá mé go measaratha. | I am reasonable/middling | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| NYT | Meeting People |  | DYNAMIC |  | Tá mé go measaratha maith. | I am reasonable/middling good | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| NYT | Meeting People |  | DYNAMIC |  | Tá mé i gceart. | I am rightly | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| NYT | Meeting People |  | SENTENCE |  | Níl mé go maith. | I am not good | Repeat for other pronouns/person's name |  |  |  |  |  |  |
 | NYT | Meeting People |  | SENTENCE |  | Níl caill orm | I am not too bad (or There's no loss upon me) |  |  |  |  |  |  |  |
 | NYT | Meeting People |  | QUESTION |  | Agus tú féin? | And yourself? |  |  |  |  | Agus tu hain? |  |  |
 | NYT | Meeting People |  | SENTENCE |  | Is maith sin | That's good/great |  |  |  |  |  |  |  |
@@ -87,7 +87,7 @@
 | NYT | Meeting People |  | WORD |  | Cluiche | game |  |  |  |  | Clee-ha |  |  |
 | NYT | Meeting People |  | WORD |  | fichille | chess |  |  |  |  | feel-ha |  |  |
 | NYT | Meeting People |  | PHRASE |  | Cluiche fichille? | A game of chess?/Chess game? |  |  |  |  | Clee-ha feel-ha |  |  |
-| NYT | Meeting People |  | QUESTION |  | An bhfuil tú go maith? | Are you well? | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
+| NYT | Meeting People |  | QUESTION |  | An bhfuil tú go maith? | Are you well? | Repeat for other pronouns/person's name |  |  |  |  |  |  |
 | NYT | Meeting People |  | WORD |  | Faisnéis | Information |  |  |  |  |  |  |  |
 | NYT | Meeting People | Weather | WORD |  | lá | day |  |  |  |  | laa?? |  |  |
 | NYT | Meeting People | Weather | WORD |  | grian | sun |  |  |  |  | grain |  |  |
@@ -164,7 +164,7 @@
 | NYT | Meeting People | Weather | SENTENCE |  | Tá, cinnte. | It is indeed/surely. |  |  |  |  | teh, kintche |  |  |
 | NYT | Meeting People | Weather | SENTENCE |  | Tá lá breá ann. | It's a fine day. |  |  |  |  | teh leh breah ann |  |  |
 | NYT | Meeting People | Weather | SENTENCE |  | Tá lá breá ann inniu. | It's a fine day today. |  |  |  |  | teh leh breah ann inn-u |  |  |
-| NYT | Meeting People | Weather | PHRASE |  | Buíochas le Dia | Thank God | Said after “it’s a good day” for example |  |  |  | bwayhas le djia |  | is used quite frequently in this context. |
+| NYT | Meeting People | Weather | PHRASE |  | Buíochas le Dia | Thank God | Said after “it's a good day” for example |  |  |  | bwayhas le djia |  | is used quite frequently in this context. |
 | NYT | Meeting People | Weather | SENTENCE |  | Tá drochlá ann. | It's a bad day. |  |  |  |  | teh drock-leh ann |  |  |
 | NYT | Meeting People | Weather | SENTENCE |  | Tá drochlá ann inniu. | It's a bad day today. |  |  |  |  | teh drock-leh ann inn-u |  |  |
 | NYT | Meeting People | Goodbyes | SENTENCE |  | Slán! | Goodbye. |  |  |  | Safe/Health | slawn or slen |  |  |
@@ -199,7 +199,7 @@
 | NYT | Introductions |  | QUESTION |  | Cad é an t-ainm atá ort? | What is your name? | Try other on prep pronouns – orm/ort/air/uirthi/orainn/oraibh/orthu |  |  | What name is on you? |  |  |  |
 | NYT | Introductions |  | QUESTION |  | Cad é an t-ainm atá ort féin? | What is your own name? |  |  |  |  |  |  |  |
 | NYT | Introductions |  | QUESTION |  | Cad é an t-ainm atá ortsa? | What is *your* name? |  |  |  |  |  |  |  |
-| NYT | Introductions |  | SENTENCE |  | >$NAME an t-ainm atá orm. | My name is $NAME | Ask the other person’s name |  |  | $NAME is the name on me |  |  |  |
+| NYT | Introductions |  | SENTENCE |  | >$NAME an t-ainm atá orm. | My name is $NAME | Ask the other person's name |  |  | $NAME is the name on me |  |  |  |
 | NYT | Introductions |  | QUESTION |  | Cé thusa? | Who are you? |  |  |  |  | Kay husa? |  |  |
 | NYT | Introductions |  | SENTENCE |  | >Is mise $NAME | I am $NAME |  |  |  |  |  |  |  |
 | NYT | Introductions |  | SENTENCE |  | >Mise $NAME | I'm $NAME |  |  |  |  |  |  |  |
@@ -362,44 +362,44 @@
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Cén t-am é? | What time is it? |  |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Cén t-am? | What time? |  |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | a chlog | o'clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a haon a chlog | 1 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a dó a chlog | 2 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a trí a chlog | 3 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a ceathair a chlog | 4 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a cúig a chlog | 5 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a sé a chlog | 6 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a seacht a chlog | 7 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a hocht a chlog | 8 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a naoi a chlog | 9 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a deich a chlog | 10 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a haon déag a chlog | 11 o’clock |  |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a dó dhéag a chlog | 12 o’clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a haon a chlog | 1 o'clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a dó a chlog | 2 o'clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a trí a chlog | 3 o'clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a ceathair a chlog | 4 o'clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a cúig a chlog | 5 o'clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a sé a chlog | 6 o'clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a seacht a chlog | 7 o'clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a hocht a chlog | 8 o'clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a naoi a chlog | 9 o'clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a deich a chlog | 10 o'clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a haon déag a chlog | 11 o'clock |  |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a dó dhéag a chlog | 12 o'clock |  |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé $HOUR_O_CLOCK.  | It's $HOUR_O_CLOCK. | repeat for each hour |  |  |  | ta shay $HOUR_O_CLOCK. |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a haon a chlog.  | It's 1 o’clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a dó a chlog.  | It's 2 o’clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a trí a chlog.  | It's 3 o’clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a ceathair a chlog.  | It's 4 o’clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a cúig a chlog.  | It's 5 o’clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a sé a chlog.  | It's 6 o’clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a seacht a chlog.  | It's 7 o’clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a hocht a chlog.  | It's 8 o’clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a naoi a chlog.  | It's 9 o’clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a deich a chlog.  | It's 10 o’clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a haon déag a chlog.  | It's 11 o’clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a dó dhéag a chlog.  | It's 12 o’clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a haon a chlog.  | It's 1 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a dó a chlog.  | It's 2 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a trí a chlog.  | It's 3 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a ceathair a chlog.  | It's 4 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a cúig a chlog.  | It's 5 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a sé a chlog.  | It's 6 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a seacht a chlog.  | It's 7 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a hocht a chlog.  | It's 8 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a naoi a chlog.  | It's 9 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a deich a chlog.  | It's 10 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a haon déag a chlog.  | It's 11 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a dó dhéag a chlog.  | It's 12 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Bhí sé $HOUR_O_CLOCK. | It was $HOUR_O_CLOCK. | repeat for each hour |  |  |  | vee shay $HOUR_O_CLOCK |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a haon a chlog. | It was 1 o’clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a dó a chlog. | It was 2 o’clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a trí a chlog. | It was 3 o’clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a ceathair a chlog. | It was 4 o’clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a cúig a chlog. | It was 5 o’clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a sé a chlog. | It was 6 o’clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a seacht a chlog. | It was 7 o’clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a hocht a chlog. | It was 8 o’clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a naoi a chlog. | It was 9 o’clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a deich a chlog. | It was 10 o’clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a haon déag a chlog. | It was 11 o’clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a dó dhéag a chlog. | It was 12 o’clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a haon a chlog. | It was 1 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a dó a chlog. | It was 2 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a trí a chlog. | It was 3 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a ceathair a chlog. | It was 4 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a cúig a chlog. | It was 5 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a sé a chlog. | It was 6 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a seacht a chlog. | It was 7 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a hocht a chlog. | It was 8 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a naoi a chlog. | It was 9 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a deich a chlog. | It was 10 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a haon déag a chlog. | It was 11 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a dó dhéag a chlog. | It was 12 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | soicind | second |  |  |  |  | second |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | bomaite | minute |  |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | ceathrú | quarter |  |  |  |  | ceahroo |  |  |
@@ -411,83 +411,83 @@
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | cúig i ndiaidh | five past?? | repeat for each time |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | fiche go dtí | twenty to | repeat for each time |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé ceathrú i ndiaidh $HOUR_O_CLOCK | It is a quarter past $HOUR_O_CLOCK | repeat for each time |  |  |  | ceahroo i nyay  $HOUR_O_CLOCK |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon a chlog | It is a quarter past 1 o’clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó a chlog | It is a quarter past 2 o’clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a trí a chlog | It is a quarter past 3 o’clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a ceathair a chlog | It is a quarter past 4 o’clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a cúig a chlog | It is a quarter past 5 o’clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a sé a chlog | It is a quarter past 6 o’clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a seacht a chlog | It is a quarter past 7 o’clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a hocht a chlog | It is a quarter past 8 o’clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a naoi a chlog | It is a quarter past 9 o’clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a deich a chlog | It is a quarter past 10 o’clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon déag a chlog | It is a quarter past 11 o’clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó dhéag a chlog | It is a quarter past 12 o’clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon a chlog | It is a quarter past 1 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó a chlog | It is a quarter past 2 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a trí a chlog | It is a quarter past 3 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a ceathair a chlog | It is a quarter past 4 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a cúig a chlog | It is a quarter past 5 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a sé a chlog | It is a quarter past 6 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a seacht a chlog | It is a quarter past 7 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a hocht a chlog | It is a quarter past 8 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a naoi a chlog | It is a quarter past 9 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a deich a chlog | It is a quarter past 10 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon déag a chlog | It is a quarter past 11 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó dhéag a chlog | It is a quarter past 12 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé leath i ndiaidh $HOUR_O_CLOCK | It is half past $HOUR_O_CLOCK | repeat for each time |  |  |  | la i nyay  $HOUR_O_CLOCK |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon a chlog | It is half past 1 o’clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó a chlog | It is half past 2 o’clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a trí a chlog | It is half past 3 o’clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a ceathair a chlog | It is half past 4 o’clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a cúig a chlog | It is half past 5 o’clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a sé a chlog | It is half past 6 o’clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a seacht a chlog | It is half past 7 o’clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a hocht a chlog | It is half past 8 o’clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a naoi a chlog | It is half past 9 o’clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a deich a chlog | It is half past 10 o’clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon déag a chlog | It is half past 11 o’clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó dhéag a chlog | It is half past 12 o’clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon a chlog | It is half past 1 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó a chlog | It is half past 2 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a trí a chlog | It is half past 3 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a ceathair a chlog | It is half past 4 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a cúig a chlog | It is half past 5 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a sé a chlog | It is half past 6 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a seacht a chlog | It is half past 7 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a hocht a chlog | It is half past 8 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a naoi a chlog | It is half past 9 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a deich a chlog | It is half past 10 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon déag a chlog | It is half past 11 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó dhéag a chlog | It is half past 12 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé ceathrú go dtí $HOUR_O_CLOCK | It is a quarter to $HOUR_O_CLOCK | repeat for each time |  |  |  | ceahroo go gee  $HOUR_O_CLOCK |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon a chlog | It is a quarter to 1 o’clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó a chlog | It is a quarter to 2 o’clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a trí a chlog | It is a quarter to 3 o’clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a ceathair a chlog | It is a quarter to 4 o’clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a cúig a chlog | It is a quarter to 5 o’clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a sé a chlog | It is a quarter to 6 o’clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a seacht a chlog | It is a quarter to 7 o’clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a hocht a chlog | It is a quarter to 8 o’clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a naoi a chlog | It is a quarter to 9 o’clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a deich a chlog | It is a quarter to 10 o’clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon déag a chlog | It is a quarter to 11 o’clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó dhéag a chlog | It is a quarter to 12 o’clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon a chlog | It is a quarter to 1 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó a chlog | It is a quarter to 2 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a trí a chlog | It is a quarter to 3 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a ceathair a chlog | It is a quarter to 4 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a cúig a chlog | It is a quarter to 5 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a sé a chlog | It is a quarter to 6 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a seacht a chlog | It is a quarter to 7 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a hocht a chlog | It is a quarter to 8 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a naoi a chlog | It is a quarter to 9 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a deich a chlog | It is a quarter to 10 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon déag a chlog | It is a quarter to 11 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó dhéag a chlog | It is a quarter to 12 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé cúig bomaite i ndiaidh $HOUR_O_CLOCK | It is five minutes past $HOUR_O_CLOCK | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon a chlog | It is five minutes past 1 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó a chlog | It is five minutes past 2 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a trí a chlog | It is five minutes past 3 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a ceathair a chlog | It is five minutes past 4 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a cúig a chlog | It is five minutes past 5 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a sé a chlog | It is five minutes past 6 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a seacht a chlog | It is five minutes past 7 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a hocht a chlog | It is five minutes past 8 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a naoi a chlog | It is five minutes past 9 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a deich a chlog | It is five minutes past 10 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon déag a chlog | It is five minutes past 11 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó dhéag a chlog | It is five minutes past 12 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon a chlog | It is five minutes past 1 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó a chlog | It is five minutes past 2 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a trí a chlog | It is five minutes past 3 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a ceathair a chlog | It is five minutes past 4 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a cúig a chlog | It is five minutes past 5 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a sé a chlog | It is five minutes past 6 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a seacht a chlog | It is five minutes past 7 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a hocht a chlog | It is five minutes past 8 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a naoi a chlog | It is five minutes past 9 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a deich a chlog | It is five minutes past 10 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon déag a chlog | It is five minutes past 11 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó dhéag a chlog | It is five minutes past 12 o'clock | repeat for each time |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé cúig i ndiaidh $HOUR_O_CLOCK | It is five past $HOUR_O_CLOCK | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon a chlog | It is five past 1 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó a chlog | It is five past 2 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a trí a chlog | It is five past 3 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a ceathair a chlog | It is five past 4 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a cúig a chlog | It is five past 5 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a sé a chlog | It is five past 6 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a seacht a chlog | It is five past 7 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a hocht a chlog | It is five past 8 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a naoi a chlog | It is five past 9 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a deich a chlog | It is five past 10 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon déag a chlog | It is five past 11 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó dhéag a chlog | It is five past 12 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon a chlog | It is five past 1 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó a chlog | It is five past 2 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a trí a chlog | It is five past 3 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a ceathair a chlog | It is five past 4 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a cúig a chlog | It is five past 5 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a sé a chlog | It is five past 6 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a seacht a chlog | It is five past 7 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a hocht a chlog | It is five past 8 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a naoi a chlog | It is five past 9 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a deich a chlog | It is five past 10 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon déag a chlog | It is five past 11 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó dhéag a chlog | It is five past 12 o'clock | repeat for each time |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Tá sé fiche go dtí $HOUR_O_CLOCK | It is twenty to $HOUR_O_CLOCK | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon a chlog | It is twenty to 1 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó a chlog | It is twenty to 2 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a trí a chlog | It is twenty to 3 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a ceathair a chlog | It is twenty to 4 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a cúig a chlog | It is twenty to 5 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a sé a chlog | It is twenty to 6 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a seacht a chlog | It is twenty to 7 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a hocht a chlog | It is twenty to 8 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a naoi a chlog | It is twenty to 9 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a deich a chlog | It is twenty to 10 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon déag a chlog | It is twenty to 11 o’clock | repeat for each time |  |  |  |  |  |  |
-| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó dhéag a chlog | It is twenty to 12 o’clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon a chlog | It is twenty to 1 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó a chlog | It is twenty to 2 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a trí a chlog | It is twenty to 3 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a ceathair a chlog | It is twenty to 4 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a cúig a chlog | It is twenty to 5 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a sé a chlog | It is twenty to 6 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a seacht a chlog | It is twenty to 7 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a hocht a chlog | It is twenty to 8 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a naoi a chlog | It is twenty to 9 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a deich a chlog | It is twenty to 10 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon déag a chlog | It is twenty to 11 o'clock | repeat for each time |  |  |  |  |  |  |
+| NYT | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó dhéag a chlog | It is twenty to 12 o'clock | repeat for each time |  |  |  |  |  |  |
 | NYT | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | An bhfuil dráma anocht? | Is the play tonight? |  |  |  |  |  |  |  |
 
 ## NYT - Discussing Languages
@@ -558,11 +558,11 @@
 | NYT | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Gearmáinise agam. | I speak a little German. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Iodáilise agam. | I speak a little Italian. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Tá mé ag foghlaim. | I'm learning. |  |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | SENTENCE |  | Tá mé ag foghlaim $LANGUAGE2. | I'm learning $LANGUAGE2. | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge. | I'm learning Irish. | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Fraincise. | I'm learning French. | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gearmáinise. | I'm learning German. | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
-| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Iodáilise. | I'm learning Italian. | Repeat for other pronouns/person’s name |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | SENTENCE |  | Tá mé ag foghlaim $LANGUAGE2. | I'm learning $LANGUAGE2. | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge. | I'm learning Irish. | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Fraincise. | I'm learning French. | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gearmáinise. | I'm learning German. | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| NYT | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Iodáilise. | I'm learning Italian. | Repeat for other pronouns/person's name |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | SENTENCE |  | Níl mórán $LANGUAGE2 agam. | I can't speak much $LANGUAGE2. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Gaeilge agam. | I can't speak much Irish. |  |  |  |  |  |  |  |
 | NYT | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Fraincise agam. | I can't speak much French. |  |  |  |  |  |  |  |
@@ -1254,184 +1254,184 @@
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Go mba fada a mhairfidh tú. | Long life to you |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | QUESTION |  | An ólann tú caife? | Do you drink coffee? |  |  |  |  |  |  |  |
 | NYT | ORDERING DRINKS |  | SENTENCE |  | Ólaim. | Yes/I drink |  |  |  |  |  |  |  |
-| NYT | ORDERING DRINKS |  | SENTENCE |  | Ní ólaim | No/I don’t drink |  |  |  |  |  |  |  |
+| NYT | ORDERING DRINKS |  | SENTENCE |  | Ní ólaim | No/I don't drink |  |  |  |  |  |  |  |
 
-## NYT - SAYING WHERE YOU’RE GOING
+## NYT - SAYING WHERE YOU'RE GOING
 
 | program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | AG RÁ CÁ BHFUIL TÚ AG DUL | SAYING WHERE YOU’RE GOING |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | banc | bank |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | teach an phobail | church |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | oifig an phoist | post office |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | caife | cafe |  |  |  |  | ca-fay |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | garáiste | garage |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | teach | house |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | tithe | houses |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | teach tábhairne | pub |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | tithe tábhairne | pubs |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | bialann | restaurant |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | páirc | park |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | siopa | shop |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | siopaí | shops |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | siopa búistéara | butcher's shop |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | siopa poitigéara | chemist shop |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | siopa bróg | shoe shop |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | siopa éadaigh | clothes shop |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | ionad spóirt | sports centre |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | ionad siopadóireachta | shopping centre |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | ollmhargadh | supermarket |  |  |  |  | ollwarragoo |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | ospidéal | hospital |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | otharlann | hospital |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | pictiúrlann | cinema |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | sólann | leisure centre |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | codladh | sleep |  |  |  |  | coh-loo |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | aerfort | airport |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | amharclann | theatre |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | PLACES | gealach | moon |  |  |  |  | gallack |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an caife | the café |  |  | m |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an amharclann | the theatre |  |  | f |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an garáiste | the garage |  |  | m |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an teach tábhairne | the pub |  |  | m |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an pháirc | the park |  |  | f |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an phictiúrlann  | the cinema |  |  | f |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an t-sólann  | the leisure centre |  |  | f |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an t-aerfort | the airport |  |  | m |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an t-ionad spóirt | the sports centre |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an t-ionad siopadóireachta | the shopping centre |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an t-ollmhargadh | the supermarket |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an bhialann | the restaurant |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an t-ospidéal | the hospital |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | THE_PLACES | an ghealach | the moon |  |  |  |  | an yallach |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | QUESTION |  | Cá bhfuil tú ag dul? | Where are you going? |  | s |  |  | Ca will to a-gull |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | QUESTION |  | Cá bhfuil sibh ag dul? | Where are you going? |  | p |  |  | Ca will to a-gull |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | QUESTION |  | Cá bhfuil tusa ag dul? | Where are *you* going? |  | s |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul ... | I'm going ... |  |  |  |  | Taw may a gul |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go ... | I'm going to ... |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go Leitir Ceanainn. | I'm going to Letterkenny. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go dtí $THE_PLACES. | I'm going to $THE_PLACES. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an caife. | I'm going to the café. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an amharclann. | I'm going to the theatre. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an garáiste. | I'm going to the garage. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an teach tábhairne. | I'm going to the pub. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an pháirc. | I'm going to the park. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an phictiúrlann . | I'm going to the cinema. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-sólann . | I'm going to the leisure centre. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-aerfort. | I'm going to the airport. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ionad spóirt. | I'm going to the sports centre. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ionad siopadóireachta. | I'm going to the shopping centre. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ollmhargadh. | I'm going to the supermarket. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an bhialann. | I'm going to the restaurant. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ospidéal. | I'm going to the hospital. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an ghealach. | I'm going to the moon. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go hoifig an phoist. | I am going to the post office |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go teach an phobail. | I am going to the church |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul abhaile. | I'm going home. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul amach. | I'm going out. |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | tá mé ag dul a chodladh | I am going to sleep |  |  |  |  | ...hoh-loo |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | ansin | then |  |  |  |  |  |  | as in I'm going to ... and then I'm going to... |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Go Baile Átha Cliath | To Dublin |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Go hArd Mhacha* | To Armagh |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Go Dún Pádraig | To Downpatrick |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | QUESTION |  | Cad é an t-am? | What time? |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | QUESTION |  | Cad é an t-am atá tú ag dul go Dún Geanainn? | What time are you going to Dungannon? |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | QUESTION |  | Cá huair? | When? |  |  |  |  | ca hoo-ar |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | QUESTION |  | Cá huair atá tú ag dul go Corcaigh? | When are you going to Cork? |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | ag a dó a chlog | at two o'clock |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | i gceann leathuair an chloig | in half an hour |  |  |  |  | i gen le-hoor a clig |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | i gceann uair an chloig | in an hour's time |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | i gceann trí huaire an chlog | in three-and-a-half hours' time |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | i gceann trí huaire go leith | in three-and-a-half hours' time |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | i gceann tamaill | in a while |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | anois | now |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | níos moille | later |  |  |  |  | nees mullya |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | anocht | tonight |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | amárach | tomorrow |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | ar maidin | in the morning |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | meán lae | midday |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | san iarnóin | in the afternoon |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | tráthnóna | in the evening |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD | GOING_WHEN | san oíche | in the night |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | SENTENCE |  | Tá mé ag dul go Gaillimh... | I'm going to Galway... |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | TEMPLATE |  | Tá mé ag dul $GOING_WHEN | I'm going $GOING_WHEN |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a dó a chlog | I'm going at two o'clock |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann leathuair an chloig | I'm going in half an hour |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann uair an chloig | I'm going in an hour's time |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire an chlog | I'm going in three-and-a-half hours' time |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire go leith | I'm going in three-and-a-half hours' time |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann tamaill | I'm going in a while |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul anois | I'm going now |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul níos moille | I'm going later |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul anocht | I'm going tonight |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul amárach | I'm going tomorrow |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul ar maidin | I'm going in the morning |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul meán lae | I'm going midday |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul san iarnóin | I'm going in the afternoon |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul tráthnóna | I'm going in the evening |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá mé ag dul san oíche | I'm going in the night |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | uair | an hour |  |  |  |  |  |  | This word occurs quite frequently in everyday speech, so it is well worth learning the different forms. |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | dhá uair | two hours |  |  |  |  |  |  | The word uair is irregular when preceded by numbers: |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | trí huaire | Three hours |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | Ceathair huaire  | four hours |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | Cúig huaire  | five hours |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | Sé huaire  | six hours |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | seacht n-uaire | seven hours |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | hocht n-uaire | eight hours |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | naoi n-uaire | nine hours |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | deich n-uaire | ten hours |  |  |  |  |  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith $HOUR_O_CLOCK | It's almost $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh $HOUR_O_CLOCK |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a haon a chlog | It's almost 1 o’clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a dó a chlog | It's almost 2 o’clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a trí a chlog | It's almost 3 o’clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a ceathair a chlog | It's almost 4 o’clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a cúig a chlog | It's almost 5 o’clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a sé a chlog | It's almost 6 o’clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a seacht a chlog | It's almost 7 o’clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a hocht a chlog | It's almost 8 o’clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a naoi a chlog | It's almost 9 o’clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a deich a chlog | It's almost 10 o’clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a haon déag a chlog | It's almost 11 o’clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a dó dhéag a chlog | It's almost 12 o’clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith leath i ndiaidh $HOUR_O_CLOCK | It's almost half past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh la in nyay $HOUR_O_CLOCK |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon a chlog | It's almost half past 1 o’clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó a chlog | It's almost half past 2 o’clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a trí a chlog | It's almost half past 3 o’clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a ceathair a chlog | It's almost half past 4 o’clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a cúig a chlog | It's almost half past 5 o’clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a sé a chlog | It's almost half past 6 o’clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a seacht a chlog | It's almost half past 7 o’clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a hocht a chlog | It's almost half past 8 o’clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a naoi a chlog | It's almost half past 9 o’clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a deich a chlog | It's almost half past 10 o’clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon déag a chlog | It's almost half past 11 o’clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó dhéag a chlog | It's almost half past 12 o’clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú go dtí $HOUR_O_CLOCK | It's almost quarter to $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh cahru go gee $HOUR_O_CLOCK |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon a chlog | It's almost quarter to 1 o’clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó a chlog | It's almost quarter to 2 o’clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a trí a chlog | It's almost quarter to 3 o’clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a ceathair a chlog | It's almost quarter to 4 o’clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a cúig a chlog | It's almost quarter to 5 o’clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a sé a chlog | It's almost quarter to 6 o’clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a seacht a chlog | It's almost quarter to 7 o’clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a hocht a chlog | It's almost quarter to 8 o’clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a naoi a chlog | It's almost quarter to 9 o’clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a deich a chlog | It's almost quarter to 10 o’clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon déag a chlog | It's almost quarter to 11 o’clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó dhéag a chlog | It's almost quarter to 12 o’clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú i ndiaidh $HOUR_O_CLOCK | It's almost quarter past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh cahrun I nyay $HOUR_O_CLOCK |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon a chlog | It's almost quarter past 1 o’clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó a chlog | It's almost quarter past 2 o’clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a trí a chlog | It's almost quarter past 3 o’clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a ceathair a chlog | It's almost quarter past 4 o’clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a cúig a chlog | It's almost quarter past 5 o’clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a sé a chlog | It's almost quarter past 6 o’clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a seacht a chlog | It's almost quarter past 7 o’clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a hocht a chlog | It's almost quarter past 8 o’clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a naoi a chlog | It's almost quarter past 9 o’clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a deich a chlog | It's almost quarter past 10 o’clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon déag a chlog | It's almost quarter past 11 o’clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó dhéag a chlog | It's almost quarter past 12 o’clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| NYT | SAYING WHERE YOU’RE GOING |  | WORD |  | scrúdú | exam |  |  |  |  |  |  | as in "scrúdú ar maidin" == "exam in the morning" |
+| NYT | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | AG RÁ CÁ BHFUIL TÚ AG DUL | SAYING WHERE YOU'RE GOING |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | banc | bank |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | teach an phobail | church |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | oifig an phoist | post office |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | caife | cafe |  |  |  |  | ca-fay |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | garáiste | garage |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | teach | house |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | tithe | houses |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | teach tábhairne | pub |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | tithe tábhairne | pubs |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | bialann | restaurant |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | páirc | park |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopa | shop |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopaí | shops |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopa búistéara | butcher's shop |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopa poitigéara | chemist shop |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopa bróg | shoe shop |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopa éadaigh | clothes shop |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | ionad spóirt | sports centre |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | ionad siopadóireachta | shopping centre |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | ollmhargadh | supermarket |  |  |  |  | ollwarragoo |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | ospidéal | hospital |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | otharlann | hospital |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | pictiúrlann | cinema |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | sólann | leisure centre |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | codladh | sleep |  |  |  |  | coh-loo |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | aerfort | airport |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | amharclann | theatre |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | gealach | moon |  |  |  |  | gallack |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an caife | the café |  |  | m |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an amharclann | the theatre |  |  | f |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an garáiste | the garage |  |  | m |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an teach tábhairne | the pub |  |  | m |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an pháirc | the park |  |  | f |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an phictiúrlann  | the cinema |  |  | f |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-sólann  | the leisure centre |  |  | f |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-aerfort | the airport |  |  | m |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-ionad spóirt | the sports centre |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-ionad siopadóireachta | the shopping centre |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-ollmhargadh | the supermarket |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an bhialann | the restaurant |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-ospidéal | the hospital |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an ghealach | the moon |  |  |  |  | an yallach |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cá bhfuil tú ag dul? | Where are you going? |  | s |  |  | Ca will to a-gull |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cá bhfuil sibh ag dul? | Where are you going? |  | p |  |  | Ca will to a-gull |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cá bhfuil tusa ag dul? | Where are *you* going? |  | s |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul ... | I'm going ... |  |  |  |  | Taw may a gul |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go ... | I'm going to ... |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go Leitir Ceanainn. | I'm going to Letterkenny. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go dtí $THE_PLACES. | I'm going to $THE_PLACES. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an caife. | I'm going to the café. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an amharclann. | I'm going to the theatre. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an garáiste. | I'm going to the garage. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an teach tábhairne. | I'm going to the pub. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an pháirc. | I'm going to the park. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an phictiúrlann . | I'm going to the cinema. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-sólann . | I'm going to the leisure centre. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-aerfort. | I'm going to the airport. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ionad spóirt. | I'm going to the sports centre. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ionad siopadóireachta. | I'm going to the shopping centre. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ollmhargadh. | I'm going to the supermarket. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an bhialann. | I'm going to the restaurant. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ospidéal. | I'm going to the hospital. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an ghealach. | I'm going to the moon. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go hoifig an phoist. | I am going to the post office |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go teach an phobail. | I am going to the church |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul abhaile. | I'm going home. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul amach. | I'm going out. |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | tá mé ag dul a chodladh | I am going to sleep |  |  |  |  | ...hoh-loo |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD |  | ansin | then |  |  |  |  |  |  | as in I'm going to ... and then I'm going to... |
+| NYT | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Go Baile Átha Cliath | To Dublin |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Go hArd Mhacha* | To Armagh |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Go Dún Pádraig | To Downpatrick |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cad é an t-am? | What time? |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cad é an t-am atá tú ag dul go Dún Geanainn? | What time are you going to Dungannon? |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cá huair? | When? |  |  |  |  | ca hoo-ar |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cá huair atá tú ag dul go Corcaigh? | When are you going to Cork? |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | ag a dó a chlog | at two o'clock |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | i gceann leathuair an chloig | in half an hour |  |  |  |  | i gen le-hoor a clig |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | i gceann uair an chloig | in an hour's time |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | i gceann trí huaire an chlog | in three-and-a-half hours' time |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | i gceann trí huaire go leith | in three-and-a-half hours' time |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | i gceann tamaill | in a while |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | anois | now |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | níos moille | later |  |  |  |  | nees mullya |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | anocht | tonight |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | amárach | tomorrow |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | ar maidin | in the morning |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | meán lae | midday |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | san iarnóin | in the afternoon |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | tráthnóna | in the evening |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | san oíche | in the night |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go Gaillimh... | I'm going to Galway... |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá mé ag dul $GOING_WHEN | I'm going $GOING_WHEN |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a dó a chlog | I'm going at two o'clock |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann leathuair an chloig | I'm going in half an hour |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann uair an chloig | I'm going in an hour's time |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire an chlog | I'm going in three-and-a-half hours' time |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire go leith | I'm going in three-and-a-half hours' time |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann tamaill | I'm going in a while |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul anois | I'm going now |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul níos moille | I'm going later |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul anocht | I'm going tonight |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul amárach | I'm going tomorrow |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ar maidin | I'm going in the morning |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul meán lae | I'm going midday |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul san iarnóin | I'm going in the afternoon |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul tráthnóna | I'm going in the evening |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul san oíche | I'm going in the night |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD |  | uair | an hour |  |  |  |  |  |  | This word occurs quite frequently in everyday speech, so it is well worth learning the different forms. |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD |  | dhá uair | two hours |  |  |  |  |  |  | The word uair is irregular when preceded by numbers: |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD |  | trí huaire | Three hours |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD |  | Ceathair huaire  | four hours |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD |  | Cúig huaire  | five hours |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD |  | Sé huaire  | six hours |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD |  | seacht n-uaire | seven hours |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD |  | hocht n-uaire | eight hours |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD |  | naoi n-uaire | nine hours |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD |  | deich n-uaire | ten hours |  |  |  |  |  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith $HOUR_O_CLOCK | It's almost $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh $HOUR_O_CLOCK |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a haon a chlog | It's almost 1 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a dó a chlog | It's almost 2 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a trí a chlog | It's almost 3 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a ceathair a chlog | It's almost 4 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a cúig a chlog | It's almost 5 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a sé a chlog | It's almost 6 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a seacht a chlog | It's almost 7 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a hocht a chlog | It's almost 8 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a naoi a chlog | It's almost 9 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a deich a chlog | It's almost 10 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a haon déag a chlog | It's almost 11 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a dó dhéag a chlog | It's almost 12 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith leath i ndiaidh $HOUR_O_CLOCK | It's almost half past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh la in nyay $HOUR_O_CLOCK |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon a chlog | It's almost half past 1 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó a chlog | It's almost half past 2 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a trí a chlog | It's almost half past 3 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a ceathair a chlog | It's almost half past 4 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a cúig a chlog | It's almost half past 5 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a sé a chlog | It's almost half past 6 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a seacht a chlog | It's almost half past 7 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a hocht a chlog | It's almost half past 8 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a naoi a chlog | It's almost half past 9 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a deich a chlog | It's almost half past 10 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon déag a chlog | It's almost half past 11 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó dhéag a chlog | It's almost half past 12 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú go dtí $HOUR_O_CLOCK | It's almost quarter to $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh cahru go gee $HOUR_O_CLOCK |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon a chlog | It's almost quarter to 1 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó a chlog | It's almost quarter to 2 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a trí a chlog | It's almost quarter to 3 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a ceathair a chlog | It's almost quarter to 4 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a cúig a chlog | It's almost quarter to 5 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a sé a chlog | It's almost quarter to 6 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a seacht a chlog | It's almost quarter to 7 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a hocht a chlog | It's almost quarter to 8 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a naoi a chlog | It's almost quarter to 9 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a deich a chlog | It's almost quarter to 10 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon déag a chlog | It's almost quarter to 11 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó dhéag a chlog | It's almost quarter to 12 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú i ndiaidh $HOUR_O_CLOCK | It's almost quarter past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh cahrun I nyay $HOUR_O_CLOCK |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon a chlog | It's almost quarter past 1 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó a chlog | It's almost quarter past 2 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a trí a chlog | It's almost quarter past 3 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a ceathair a chlog | It's almost quarter past 4 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a cúig a chlog | It's almost quarter past 5 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a sé a chlog | It's almost quarter past 6 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a seacht a chlog | It's almost quarter past 7 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a hocht a chlog | It's almost quarter past 8 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a naoi a chlog | It's almost quarter past 9 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a deich a chlog | It's almost quarter past 10 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon déag a chlog | It's almost quarter past 11 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó dhéag a chlog | It's almost quarter past 12 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| NYT | SAYING WHERE YOU'RE GOING |  | WORD |  | scrúdú | exam |  |  |  |  |  |  | as in "scrúdú ar maidin" == "exam in the morning" |
 
 ## NYT - DISCUSSING JOBS
 
@@ -1468,30 +1468,30 @@
 | NYT | DISCUSSING JOBS |  | WORD | JOB | múinteoir bunscoile | primary school teacher |  |  |  |  | asteor |  |  |
 | NYT | DISCUSSING JOBS |  | WORD | JOB | múinteoir meánscoile | secondary school teacher |  |  |  |  | asteor |  |  |
 | NYT | DISCUSSING JOBS |  | WORD |  | garraí | garden |  |  |  |  | gary |  |  |
-| NYT | DISCUSSING JOBS |  | TEMPLATE |  | Is $JOB mé. | I'm a $JOB | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is feirmeoir mé. | I'm a farmer | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is siopadóir mé. | I'm a shopkeeper | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is búistéir mé. | I'm a butcher | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is meicneoir mé. | I'm a mechanic | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir mé. | I'm a teacher | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is rúnaí mé. | I'm a secretary | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is oibrí monarchan mé. | I'm a factory worker | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is banaltra mé. | I'm a nurse | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is dochtúir mé. | I'm a doctor | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is tiománaí mé. | I'm a driver | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is bainisteoir mé. | I'm a manager | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is freastalaí mé. | I'm a waiter | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is tógálaí mé. | I'm a builder | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is siúinéir mé. | I'm a carpenter | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is bean tí mé. | I'm a housewife | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is leictreoir mé. | I'm a electrician | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is iascaire mé. | I'm a fisherman | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is innealtóir mé. | I'm a engineer | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is innealtóir ríomhaireachta mé. | I'm a computer engineer | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is ríomhchláraitheoir mé. | I'm a programmer | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is aisteoir mé. | I'm a actor | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir bunscoile mé. | I'm a primary school teacher | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
-| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir meánscoile mé. | I'm a secondary school teacher | Repeat for other pronouns é/í and person’s name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | TEMPLATE |  | Is $JOB mé. | I'm a $JOB | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is feirmeoir mé. | I'm a farmer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is siopadóir mé. | I'm a shopkeeper | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is búistéir mé. | I'm a butcher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is meicneoir mé. | I'm a mechanic | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir mé. | I'm a teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is rúnaí mé. | I'm a secretary | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is oibrí monarchan mé. | I'm a factory worker | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is banaltra mé. | I'm a nurse | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is dochtúir mé. | I'm a doctor | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is tiománaí mé. | I'm a driver | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is bainisteoir mé. | I'm a manager | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is freastalaí mé. | I'm a waiter | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is tógálaí mé. | I'm a builder | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is siúinéir mé. | I'm a carpenter | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is bean tí mé. | I'm a housewife | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is leictreoir mé. | I'm a electrician | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is iascaire mé. | I'm a fisherman | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is innealtóir mé. | I'm a engineer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is innealtóir ríomhaireachta mé. | I'm a computer engineer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is ríomhchláraitheoir mé. | I'm a programmer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is aisteoir mé. | I'm a actor | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir bunscoile mé. | I'm a primary school teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| NYT | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir meánscoile mé. | I'm a secondary school teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
 | NYT | DISCUSSING JOBS |  | TEMPLATE |  | $JOB atá ionam | I'm a $JOB |  |  |  |  | .. atá unam |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | feirmeoir atá ionam | I'm a farmer |  |  |  |  | .. atá unam |  |  |
 | NYT | DISCUSSING JOBS |  | DYNAMIC |  | siopadóir atá ionam | I'm a shopkeeper |  |  |  |  | .. atá unam |  |  |
@@ -2027,14 +2027,14 @@
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'éist mé le dlúthdhioscaí. | I listened to CDs. |  |  |  |  | djeest meh le dluduskee |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'éist mé le ceol. | I listened to music. |  |  |  |  | djeest meh le cyol |  |  |
 | NYT | SAYING WHAT YOU DID |  | VERB |  | ól | drink |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | D’ól $PRONOUNS | $PRONOUNS drink |  |  |  |  | doll $PRONOUNS |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ól mé | I drink |  |  |  |  | doll meh |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ól tú | you drink |  |  |  |  | doll too |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ól sé | he drink |  |  |  |  | doll shay |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ól sí | she drink |  |  |  |  | doll shee |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ól muid | we drink |  |  |  |  | doll mwidge |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ól sibh | you drink |  |  |  |  | doll shiv |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ól siad | they  drink |  |  |  |  | doll Shee-id |  |  |
+| NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | D'ól $PRONOUNS | $PRONOUNS drink |  |  |  |  | doll $PRONOUNS |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól mé | I drink |  |  |  |  | doll meh |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól tú | you drink |  |  |  |  | doll too |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól sé | he drink |  |  |  |  | doll shay |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól sí | she drink |  |  |  |  | doll shee |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól muid | we drink |  |  |  |  | doll mwidge |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól sibh | you drink |  |  |  |  | doll shiv |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól siad | they  drink |  |  |  |  | doll Shee-id |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'ól mé cúpla deoch. | I had a few drinks. |  |  |  |  | dol meh coupla jaw |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'ól mé cúpla pionta. | I had a few pints. |  |  |  |  | dol meh coupla pinta |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Caithfidh mé labhairt leat inniu | I need to see you today |  |  |  |  | chiffy me lorch leat innyou |  |  |
@@ -2156,14 +2156,14 @@
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith muid | we ate |  |  |  |  | dgee mwidge |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith sibh | you ate |  |  |  |  | dgee shiv |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith siad | they  ate |  |  |  |  | dgee Shee-id |  |  |
-| NYT | SAYING WHAT YOU DID |  | PHRASE |  | D’ith $PRONOUNS dinnéar | $PRONOUNS ate dinner |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ith mé dinnéar | I ate dinner |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ith tú dinnéar | you ate dinner |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ith sé dinnéar | he ate dinner |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ith sí dinnéar | she ate dinner |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ith muid dinnéar | we ate dinner |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ith sibh dinnéar | you ate dinner |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D’ith siad dinnéar | they  ate dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | D'ith $PRONOUNS dinnéar | $PRONOUNS ate dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith mé dinnéar | I ate dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith tú dinnéar | you ate dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith sé dinnéar | he ate dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith sí dinnéar | she ate dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith muid dinnéar | we ate dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith sibh dinnéar | you ate dinner |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith siad dinnéar | they  ate dinner |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | TEMPLATE |  | chonaic $PRONOUNS | $PRONOUNS saw |  |  |  |  | (throaty) honic $PRONOUNS |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé | I saw |  |  |  |  | (throaty) honic meh |  |  |
 | NYT | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic tú | you saw |  |  |  |  | (throaty) honic too |  |  |
@@ -2304,7 +2304,7 @@
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | go hArd Mhacha | to Armagh |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | go dtí an banc | to the bank |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | chuig dráma | to a play |  |  |  |  |  |  |  |
-| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chífidh mé maidin Dé hAoine tú | I’ll see you on Friday morning |  |  |  |  |  |  |  |
+| NYT | SAYING WHAT YOU DID |  | PHRASE |  | Chífidh mé maidin Dé hAoine tú | I'll see you on Friday morning |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Thart fá leath i ndiaidh a hocht | Around half past 8 |  |  |  |  |  |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Beidh mé ag obair inniu | I will be working today |  |  |  |  | bay may ag obar nyou |  |  |
 | NYT | SAYING WHAT YOU DID |  | PHRASE |  | Beidh mé ag bualadh leis | I will be meeting him |  |  |  |  | bay may ag bwayla lesh |  |  |
@@ -2618,9 +2618,9 @@
 | BBC | Personal Traits |  |  |  | gruaig | hair |  |  |  |  |  |  |  |
 | BBC | Personal Traits |  |  |  | Tréithe fisicúla | Physical traits |  |  |  |  |  |  |  |
 | BBC | Personal Traits |  |  |  | Cén aois thú? | What is your age? |  |  |  |  |  |  |  |
-| BBC | Personal Traits |  |  |  | >Tá mé $AGE d’aois. | I am $AGE of age. |  |  |  |  |  |  |  |
-| BBC | Personal Traits |  |  |  | Tá cuma óg orm do m’aois | I appear young for my age |  |  |  |  |  |  |  |
-| BBC | Personal Traits |  |  |  | Tá cuma shean orm do m’aois | I appear old for my age |  |  |  |  |  |  |  |
+| BBC | Personal Traits |  |  |  | >Tá mé $AGE d'aois. | I am $AGE of age. |  |  |  |  |  |  |  |
+| BBC | Personal Traits |  |  |  | Tá cuma óg orm do m'aois | I appear young for my age |  |  |  |  |  |  |  |
+| BBC | Personal Traits |  |  |  | Tá cuma shean orm do m'aois | I appear old for my age |  |  |  |  |  |  |  |
 | BBC | Personal Traits |  |  |  | Cén dath atá ar do chuid gruaige? | What colour is your hair? |  |  |  |  |  |  |  |
 | BBC | Personal Traits |  |  |  | Tá mo chuid gruaige... | My hair is... |  |  |  |  | Ta mo hudge grooiga.. |  |  |
 | BBC | Personal Traits |  |  |  | Tá dath $COLOUR ar mo chuid gruaige | My hair is $COLOUR |  |  |  |  |  |  |  |
@@ -3429,3 +3429,794 @@
 | Giota Beag | 8 |  |  |  | Tá brón orm | I'm sad or sorry |  |  |  |  |  |  |  |
 | Giota Beag | 8 |  |  |  | Fuair sé bás | He died |  |  |  |  |  |  |  |
 | Giota Beag | 8 |  |  |  | Tá brón orm mar fuair sé bás | I'm sad because he died |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Tá fearg orm | I'm angry |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Tá iontas orm | I'm surprised |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Cad é atá ort? | What's wrong with you? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Tá fearg orm mar mhúscail an guthán mé. | I'm angry because the phone woke me. |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Cheannaigh sé bláthanna | He bought flowers |  |  |  |  |  |  |  |
+
+## Giota Beag - 9
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 9 |  |  |  | Tinneas | Sickness |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Cad é atá ort? | What's wrong with you? |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Tá tinneas orm | I'm sick |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Tá mé go measartha | I'm not too bad |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Tá slaghdán orm | I have a cold |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Tá tinneas cinn orm | I have a headache |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Tá tinneas goile orm fosta | I also have a stomach ache |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Tinneas fiacaile | Toothache |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Tá biseach orm | I'm better |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Orm, ort, air, uirthi | On me, on you, on him, on her |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Tá drochspionn orm | I'm not in great form |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Tá spionn mhaith orm | I'm in great form |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Tá mé buartha | I'm sorry/I'm worried |  |  |  |  |  |  |  |
+
+## Giota Beag - 10
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 10 |  |  |  | Bhí mo bhreithlá ann Dé hAoine | It was my birthday on Friday |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Fuair mé cárta agus fuair mé bronntanas | I got a card and I got a present |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Fuair mé geansaí nua | I got a new jumper |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Fuair mé leabhar nua | I got a new book |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Fuair me leabhar úr fosta | I also got a new book |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Chuaigh muid go dtí an bhialann ar dtús | We went to the restaurant first |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Chuaigh muid go dtí an phictiúrlann ina dhiaidh sin | We went to the cinema afterwards |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Ar dtús chuaigh muid go dtí an phictiúrlann | Firstly, we went to the cinema |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Rinne mé an dinnéar. Rinne mé pizza | I made the dinner. I made pizza |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Rinne mé an dinnéar Dé Satharn | I made the dinner on Saturday |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Rinne mé an dinnéar aréir | I made the dinner last night |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Tháinig mo dheartháir | My brother came |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | agus an teaghlach | and the family |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Tháinig mo chara | My friend came |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Tháinig mo dheirfiúr | My sister came |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Rinne mé dearmad | I forgot |  |  |  |  |  |  |  |
+
+## Giota Beag - 11
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 11 |  |  |  | Thug mé airgead dóibh | I gave them money |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Chuaigh sé go Londain | He went to London |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Thug siad cuairt ar an iarsmalann | They visited the museum |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Chuala siad faoin ghorta | They heard about the famine |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Chonaic mé Cats | I saw Cats |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Chuala muid Big Ben | We heard Big Ben |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Dúirt siad go raibh sé ar fheabhas | They said that it was excellent |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Chonaic siad Riverdance | They saw Riverdance |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Ná bac le mac an bhacaigh is ní bhacfaidh mac an bhacaigh leat! | Don't bother with the son of the beggarman and the son of the beggarman won't bother you! |  |  |  |  |  |  |  |
+
+## Giota Beag - 12
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 12 |  |  |  | Cheannaigh mé bronntanas Nollag | I bought a Christmas present |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Cad é cheannaigh tú? | What did you buy? |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Cheannaigh mé geansaí úr | I bought a new jumper |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Cheannaigh mé Crann Nollag | I bought a Christmas tree |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Cá mhéad a bhí air? | How much was it? |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Fuair mé cárta Nollag ó Una | I got a Christmas card from Una |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | An bhfuair? | Did you get? |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Chuir mé cárta Nollag chuig Séamas | I sent a Christmas card to Séamas |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Cá bhfuil Oifig an Phoist? | Where is the Post Office? |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Gabh go dtí barr na sráide agus tiontaigh ar clé | Go to the top of the street and turn left |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Gabh díreach ar aghaidh agus tá sé ar dheis | Go straight ahead and it's on the right |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Tá sé os do chomhair | It's opposite you/in front of you |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Cinnte! | Certainly! |  |  |  |  |  |  |  |
+
+## Giota Beag - 13
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 13 |  |  |  | Tá sé in aice le Dún Geanainn | It's near Dungannon |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Cén sórt tí é? | What kind of house is it? |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Is bungaló é | It's a bungalow |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Is teach sraithe é | It's a terraced house |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Is teach leathscoite é | It's a semi-detached house |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Is teach scoite é | It's a detached house |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Cá mhéad seomra atá ann? | How many rooms are in it? |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Tá deich seomra ann | There are ten rooms in it |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Cá mhéad seomra luí atá ann? | How many bedrooms are in it? |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Tá ceithre sheomra luí ann | There are four bedrooms in it |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Tá trí sheomra luí thuas staighre.. | There are three bedrooms upstairs… |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | ..agus seomra luí amháin thíos staighre | ..and one bedroom downstairs |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Cá bhfuil Liam? | Where is Liam? |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Tá sé sa seomra suí | He is in the sitting room |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Tá sí sa seomra folctha | She is in the bathroom |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Tá sé sa ghairdín | He is in the garden |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Tá sí sa gharáiste | She is in the garage |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Tá sé sa chistin | He is in the kitchen |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Tá sí sa seomra luí | She is in the bedroom |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Níl aon tinteán mar do thinteán féin! | There's no hearth like your own hearth! |  |  |  |  |  |  |  |
+
+## Giota Beag - 14
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 14 |  |  |  | Sa chistin | In the kitchen |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Tá an dinnéar réidh | The dinner is ready |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | A phaistí, tá an tae réidh | Children, the tea is ready |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | An bhfuil an lón réidh? | Is the lunch ready? |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Tá sé beagnach réidh | It's nearly ready |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Suigh síos ag an tábla anois | Sit down at the table now |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Cuir chugam scian agus forc le do thoil | Pass me a knife and a fork please |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Cuir chugam pláta le do thoil | Pass me a plate please |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Cuir chugam gloine le do thoil | Pass me a glass please |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Seo duit | Here you are |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Spúnóg | Spoon |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Salann agus Piobar | Salt and Pepper |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | An t-anlann donn | The brown sauce |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | An t-anlann dearg | The red sauce |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Ar mhaith leat prátaí? | Would you like some potatoes? |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Ar mhaith leat tuilleadh pasta? | Would you like some more pasta? |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Níor mhaith, níl ocras orm | No, I wouldn't like any, I'm not hungry |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Ba mhaith, cuid mhór le do thoil | Yes, I'd like a lot please |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Glasraí | Vegetables |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Dhá phunt | Two pounds |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Trí phunt | Three pounds |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Ceithre phunt | Four pounds |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Cúig phunt | Five pounds |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Sé phunt | Six pounds |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Seacht bpunt | Seven pounds |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Ocht bpunt | Eight pounds |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Naoi bpunt | Nine pounds |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Deich bpunt | Ten pounds |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Tá mé lán go béal | I'm full up |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Bhí sin iontach deas | That was very nice |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Bhí sé sin iontach blasta | That was very tasty |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Bhí sé sin galánta | That was lovely |  |  |  |  |  |  |  |
+
+## Giota Beag - 15
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 15 |  |  |  | Caithfidh mé | I have to, I must |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Caithfidh mé imeacht | I have to go |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Caithfidh mé dul amach | I have to go out |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Caithfidh mé dul go dtí an banc | I have to go to the bank |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Caithfidh mé an dinnéar a dhéanamh | I have to make the dinner |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Caithfidh mé an lón a dhéanamh | I have to make the lunch |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Caithfidh mé cúpla rud a dhéanamh | I have to do a couple of things |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Nollaig Shona duit | Happy Christmas to you |  |  |  |  |  |  |  |
+
+## Giota Beag - 1
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 1 |  |  |  | Bhain mé sult as an lá. | I enjoyed the day. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | Mhúscail mé ar a seacht a chlog. | I awoke at seven o'clock. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | D'ith mé banana agus úll. | I ate a banana and an apple. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | D'ol mé gloine uisce. | I drank a glass of water. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | Shiúil mé go dtí an siopa. | I walked to the shop. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | Cheannaigh mé an nuachtán. | I bought the newspaper. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | Shuigh mé síos. | I sat down. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | Léigh mé an nuachtán. | I read the newspaper. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | D'amharc mé ar an teilifís. | I watched the television. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | D'éist mé le Giota Beag Eile. | I listened to Giota Beag Eile. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | D'fhoghlaim mé Gaeilge. | I learnt Irish. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | ard | tall |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | tanaí | thin |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | Tá mé ard. | I am tall. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | Tá mé tanaí. | I am thin. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | cairdiúil | friendly |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | cainteach | chatty |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | dearmadach | forgetful |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | Tá mé cairdiúil. | I am friendly. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | Tá mé cainteach. | I am chatty. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | Tá mé cairdiúil. | I am friendly. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | Sílim go bhfuil mé cairdiúil. | I think that I am friendly. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | Tá mé cainteach. | I am chatty. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | Sílim go bhfuil mé cainteach. | I think that I am chatty. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | Tá mé tuisceanach. | I am understanding. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | Deirtear go bhfuil mé tuisceanach. | It's said that I am understanding. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | Deirtear go bhfuil mé iontach tuisceanach. | It's said that I'm very understanding. |  |  |  |  |  |  |  |
+| Giota Beag | 1 |  |  |  | Is binn béal ina thost. | Silence is golden. |  |  |  |  |  |  |  |
+
+## Giota Beag - 2
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 2 |  |  |  | Agus chomh maith leis sin | And as well as that |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | Ach ar an drochuair | But unfortunately |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | mar | because |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | Níl mé pósta mar tá mé óg. | I'm not married because I'm young. |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | fosta | also, as well |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | Agus rud eile dó | and furthermore / and another thing |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | deoch beag | a wee drink |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | Ná déan dearmad air sin. | Don't forget about that. |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | Níor bhris focal maith fiacail riamh. | Literally, a good word never broke a tooth.(So it doesn't hurt to say a kind word about someone!) |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | bean chéile | wife |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | mo bhean chéile | my wife |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | cuidiúil | helpful |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | bríomhar | lively, outgoing, bubbly |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | siúlóidí | walks |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | agus caithfidh mise dul léi! | and I have to go with her! |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | ramhar | fat |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | giota beag ramhar | a little overweight |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | ag siúl amach le | going out with, going steady |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | gealgháireach | cheerful |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | smutach | huffy, moody |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | neamhspleách | independent |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | tarcaisneach | sarcastic |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | ó am go ham | from time to time |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | sean | old |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | níos sine | older |  |  |  |  |  |  |  |
+| Giota Beag | 2 |  |  |  | is sine | oldest |  |  |  |  |  |  |  |
+
+## Giota Beag - 3
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 3 |  |  |  | ríomhaire | computer |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | ar an ríomhaire | on the computer |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | ar an idirlíon | on the internet |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | suíomh | site |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | suíomh idirlín | internet site |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | Ponc | dot |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | stríoc chun tosaigh | forward stroke |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | sean | old |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | níos sine | older |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | is sine | oldest |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | óg | young |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | níos óige | younger |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | is óige | youngest |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | an duine is óige | the youngest person, the youngest one |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | an duine is sine | the oldest person, the oldest one |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | fuar | cold |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | níos fuaire | colder |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | te | warm or hot |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | níos teo | warmer |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | luath | early |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | níos luaithe | earlier |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | mall | late |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | níos moille | later |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | Mar a bhíos an cú, bíonn an coileán! |  |  |  |  |  |  |  |  |
+| Giota Beag | 3 |  |  |  | Like father, like son. Or, indeed, like mother like daughter! |  |  |  |  |  |  |  |  |
+
+## Giota Beag - 4
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 4 |  |  |  | maith | good |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | níos fearr | better |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | is fearr | best |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | olc | bad |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | níos measa | worse |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | is measa | worst |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | beag | small |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | níos lú | smaller |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | is lú | smallest |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | mór | large or big |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | níos mó | bigger |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | is mó | biggest |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | ainmnigh | name |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | contae | county |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | club sacair | soccer club |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | i Sasain | in England |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | in Albain | in Scotland |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | Ainmnigh an contae is mó in Éirinn. | Name the biggest or largest county in Ireland. |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | Agus an freagra, the answer… Corcaigh, Cork. |  |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | Ainmnigh an contae is lú in Éirinn. | Name the smallest county in Ireland. |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | Agus an freagra, the answer… Contae Lú, County Louth. |  |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | Ainmnigh an club sacair is fearr i Sasain. |  |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | Name the best soccer club in England. |  |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | Ainmnigh an club sacair is fearr in Albain. |  |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | Name the best soccer club in Scotland. |  |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | Ainmnigh an club sacair is measa i Sasain. |  |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | Name the worst soccer club in England. |  |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | Ainmnigh an club sacair is measa in Albain. |  |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | Name the worst soccer club in Scotland. |  |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | Níl aon leigheas ar an ghrá ach pósadh. | There is no cure for love except marriage. |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | leigheas | cure |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | grá | love |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | Is binn béal ina thost. |  |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | Níor bhris focal maith fiacail riamh. |  |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | Mar a bhíos an cú, bíonn an coileán. |  |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | bean chéile | wife |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | deirfiúr | sister |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | mo bhean chéile | my wife |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | mo dheirfiúr | my sister |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | mo phas | my passport |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | do phas | your passport |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | a phas | his passport |  |  |  |  |  |  |  |
+| Giota Beag | 4 |  |  |  | a pas | her passport |  |  |  |  |  |  |  |
+
+## Giota Beag - 5
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 5 |  |  |  | liom | with me |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | leat | with you |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | leis | with him |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | léi | with her |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | Ba mhaith liom | I'd like |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | Ba mhaith leat | You'd like |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | Ba mhaith leis | He'd like |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | Ba mhaith léi | She'd like |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | dom | to me |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | duit | to you |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | dó | to him |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | di | to her |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | Tabhair dom an leabhar | Give me the book. |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | Thug mé an leabhar duit | I gave the book to you. |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | Thug mé an leabhar dó | Literally, I gave the book to him. |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | Thug mé an leabhar di | Literally, I gave the book to her. |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | mo | my |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | do | your |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | a | his |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | a | her |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | ár | our |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | bhur | your |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | a | their |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | ár scoil | our school |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | bhur lón | your (plural) lunch |  |  |  |  |  |  |  |
+| Giota Beag | 5 |  |  |  | a milseáin | their sweets |  |  |  |  |  |  |  |
+
+## Giota Beag - 6
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 6 |  |  |  | An dtiocfadh leat? | Could you? |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | An dtiocfadh leat gar a dhéanamh? | Could you do a favour? |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | An dtiocfadh leat gar a dhéanamh dom? | Could you do a favour for me? |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | An dtiocfadh leat gar beag a dhéanamh dom? | Could you do a wee favour for me? |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | An dtiocfadh leat an litir seo a chur sa phost | Could you post this letter |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | An dtiocfadh leat mé a thógáil ón bhus? | Could you lift me/collect me from the bus? |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | An dtiocfadh leat mé a thógáil ón siopa? | Could you collect me from the shop |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | An dtiocfadh leat £20 punt a thógáil amach? | Could you take out £20? |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | An dtiocfadh leat scairt a chur ar an gharáiste? | Could you phone the garage? |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | Is fada an bóthar nach mbíonn casadh ann! |  |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | bóthar | road |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | casadh | a turning or a twist |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | Is fada an bóthar | It's a long road |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | …nach mbíonn casadh ann | …which doesn't have a turn or a twist |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | An dtiocfadh leat cúpla gar a dhéanamh dom? | Could you do a couple of favours for me? |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | Thiocfadh | Yes I could |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | Ní thiocfadh | No, I could not |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | Cad é atá ann? | What is it? In this context, what is it - you want me to do |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | Go maire sibh bhur saol úr le chéile | May you live out your new life together. |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | It's nice to look at it as “May you have good health to live out a long life together.” |  |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | Bainis | wedding reception |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | Sláinte is fad saoil agaibh, teach ar bhur mian agaibh |  |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | Talamh gan chíos agaibh, fómhar gach bliain agaibh |  |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | Leanbh gach bliain agaibh, ón lá seo amach! |  |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | Good health and long life to you both, a house of your dreams, |  |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | Land without rent, a harvest each year, |  |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | A child every year, from this day on! |  |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | litir | letter |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | an litir seo | this letter |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | doras |  |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | an doras seo | this door |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | clár | programme |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | an clár seo | this programme |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | cárta | card |  |  |  |  |  |  |  |
+| Giota Beag | 6 |  |  |  | an cárta seo | this card |  |  |  |  |  |  |  |
+
+## Giota Beag - 7
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 7 |  |  |  | An dtiocfadh leat gar beag a dhéanamh? | Could you do a wee favour? |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | An dtiocfadh liom gar beag a dhéanamh? | Could I do a wee favour? |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | An dtiocfadh leis gar beag a dhéanamh? | Could he do a wee favour? |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | An dtiocfadh léi gar beag a dhéanamh? | Could she do a wee favour? |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | An dtiocfadh leat gar beag a dhéanamh dom? | Could you do a wee favour for me? |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | An dtiocfadh leat gar beag a dhéanamh dó? | Could you do a wee favour for him? |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | An dtiocfadh leat gar beag a dhéanamh di? | Could you do a wee favour for her? |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | An dtiocfadh liom gar beag a dhéanamh duit? | Could I do a wee favour for you? |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | Is fada an lá. | It is/has been a long time. |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | Ó, is fada. | Indeed it is/has been a long time. |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | Is fada anlá ó d'ith mé pizza! | It's a long time since I've eaten pizza! |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | Is fada an lá ó d'ól mé caife! | It's a long time since I've drunk coffee! |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | D'éirigh liom. | I passed/succeeded. |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | D'éirigh leat. | You passed/succeeded. |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | D'éirigh leis. | He passed/succeeded. |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | D'éirigh léi. | She passed/succeeded. |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | Cad é mar a d'éirigh leat? | How did you get on? |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | Theip orm. | I failed. |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | Theip ort. | You failed. |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | Theip air. | He failed. |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | Theip uirthi. | She failed. |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | Go maire tú é. | May you have good health to enjoy it. |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | Go maire tú é is go gcaithe tú é. | May you have good health to enjoy it and wear it. |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | Go maire tú é is go gcaithe tú é is go stróca tú é. | May you have good health to enjoy it, wear it and tear it. |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | Go maire tú é is go gcaithe tú é is go stróca tú é is go bpósa tú fear ann. | May you have good health to enjoy it, wear it and tear it and marry a man in it. |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | an litir sin | that letter |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | an clár sin | that programme |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | an gúna sin | that dress |  |  |  |  |  |  |  |
+| Giota Beag | 7 |  |  |  | Cé acu is fearr leat? | Which do you prefer? |  |  |  |  |  |  |  |
+
+## Giota Beag - 8
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 8 |  |  |  | Cad é do bharúil? | What do you think? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | An dtiocfadh leat an dinnéar a dhéanamh? | Could make the dinner? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | an lón | the lunch |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | An dtiocfadh leat an lón a dhéanamh? | Could you make the lunch? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | an bricfeasta | the breakfast |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | An dtiocfadh leat an bricfeasta a dhéanamh? | Could you make the breakfast? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | an suipéar | the supper |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | An dtiocfadh leat an suipéar a dhéanamh? | Could you make the supper? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Ar mhaith leat? | Would you like? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Ar mhaith leat an dinnéar a dhéanamh? | Would you like to make the dinner? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Ar mhaith leat an lón a dhéanamh? | Would you like to make the lunch? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Ar mhaith leat an bricfeasta a dhéanamh? | Would you like to make the breakfast? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Ar mhaith leat dul amach ar shiúlóid? | Would you like to go out for a walk? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Ar mhaith leat dul amach anocht? | Would you like to go out tonight? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Ar mhaith leat dul chuig an phictiúrlann? | Would you like to go to the cinema? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Ar mhaith leat dul amach fá choinne béile anocht? | Would you like to go out for a meal tonight? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Ar mhaith leat buidéal fíona a fháil? | Would you like to get a bottle of wine? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Ar mhaith leat pizza a fháil? | Would you like to get a pizza? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Ar mhaith leat tacsaí a fháil? | Would you like to get a taxi? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Ba mhaith | Yes |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Níor mhaith | No |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Beidh a cuid féin ag an fharraige | The sea will have its own. |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | eile | another |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | bus eile | another bus |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | briosca eile | another biscuit |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | ceann eile | another one |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | clár eile | another programme |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | gúna eile | another dress |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Tá mo sháith agam. | I've had my fill. / I've had enough. |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | rud ar bith eile | anything else |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Ar mhaith leat briosca? | Would you like a biscuit? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Ar mhaith leat ceann eile? | Would you like another one? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Níor mhaith, go raibh maith agat. Tá mo sháith agam. | No, thanks. I've had enough. |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Ar mhaith leat cupán eile tae? | Would you like another cup of tea? |  |  |  |  |  |  |  |
+| Giota Beag | 8 |  |  |  | Ar mhaith leat rud ar bith eile? | Would you like anything else? |  |  |  |  |  |  |  |
+
+## Giota Beag - 9
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 9 |  |  |  | Cad é mar a d'éirigh leat? | How did you get on? |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Bain sult as an lá. | Enjoy the day. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Éirigh ar a seacht a chlog. | Get up at 7 o'clock. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Ith banana agus úll. | Eat a banana and an apple. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Ól deoch uisce. | Drink a glass of water. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Siúil go dtí an siopa. | Walk to the shop. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Ceannaigh an nuachtán. | Buy the paper. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Suigh síos. | Sit down. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Léigh an nuachtán. | Read the paper. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Amharc ar an teilifís. | Watch the TV. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Éist le Giota Níos Mó. | Listen to Giota Níos Mó. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Bain sult as an lá. | Enjoy the day. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Bainim sult as an lá. | I enjoy the day. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Éirigh ar a seacht a chlog. | Get up at 7 o'clock. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Éirím ar a seacht a chlog. | I get up at 7 o'clock. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Ith banana agus ull. | Eat a banana and an apple |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Ithim banana agus úll gach lá. | I eat a banana and an apple every day. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Ól gloine uisce. | Drink a glass of water. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Ólaim gloine uisce gach lá. | I drink a glass of water every day. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Siúil go dtí an siopa. | Walk to the shop |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Siúlaim go dtí an siopa | I walk to the shop |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Ceannaigh an nuachtán | Buy the newspaper. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Ceannaím an nuachtán | I buy the newspaper. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Suigh síos. | Sit down. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Suím síos. | I sit down. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Léigh an nuachtán | Read the newspaper. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Léim an nuachtán | I read the newspaper. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Amharc ar an teilifís. | Watch the television. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Amharcaim ar an teilifís. | I watch the television. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Éist le Giota Níos Mó. | Listen to Giota Níos Mó. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Éistim le Giota Níos Mó gach lá. | I listen to Giota Níos Mó every day. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Seanfhocal Chlár 9: |  |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Bíonn blas ar an bheagán. | A little bit of food is very tasty. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | Ba mhaith liom meachán a chailleadh. | I would like to lose weight. |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | bus eile | another bus |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | an bus eile | the other bus |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | briosca eile | another biscuit |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | an briosca eile | the other biscuit |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | ceann eile | another one |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | an ceann eile | the other one |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | an chéad cheann eile | the next one |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | an bus eile | the other bus |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | an chéad bhus eile | the next bus |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | an clár eile | the other programme |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | clár eile | another programme |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | an chéad chlár eile | the next programme |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | an chéad uair eile | the next time |  |  |  |  |  |  |  |
+| Giota Beag | 9 |  |  |  | an chéad rud eile | the next thing |  |  |  |  |  |  |  |
+
+## Giota Beag - 10
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 10 |  |  |  | Ithim torthaí. | I eat fruit. |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Ní ithim seacláid. | I don't eat chocolate. |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Ithim glasraí ach ní ithim milseáin. | I eat vegetables but I don't eat sweets. |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Ólaim uisce ach ní ólaim caife. | I drink water but I don't drink coffee. |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Éistim le ceol ach ní éistim leis an nuacht. | I listen to music but I don't listen to the news. |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Amharcaim ar an teilifís ach ní amharcaim ar an nuacht | I watch television but I don't watch the news. |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Éirím go luath ar an Satharn ach ní éirím go luath ar an Domhnach. | I get up early on Saturday but I don't get up early on Sunday. |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Tuigim. | I understand. |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Ní thuigim. | I don't understand. |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Tuigim 'Slán' ach ní thuigim 'dochreidte'. | I understand 'goodbye' but I don't understand 'unbelievable'. |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Tuigim Bríd ag caint Gaeilge ach ní thuigim Hiúdaí ag caint Gaeilge. | I understand Bríd speaking Irish but I don't understand Hiúdaí speaking Irish. |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Tuigim 'Pythagoras' ach ní thuigim 'Trigonometry'. | I understand 'Pythagoras' but I don't understand 'Trigonometry'. |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Ní thuigim. | I don't understand. |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Ní cheannaím. | I don't buy. |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Ní shuím. | I don't sit. |  |  |  |  |  |  |  |
+| Giota Beag | 10 |  |  |  | Is maith an t-anlann an t-ocras. | Hunger is a great sauce. |  |  |  |  |  |  |  |
+
+## Giota Beag - 11
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 11 |  |  |  | barraíocht | too much |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | mórán | many |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | go minic | often |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | cuid mhór | a lot |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | níos mó | more |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | níos lú | less |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | a oiread | as much / as many |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Ghiorsaighe óg,'bhfuil Béarla agat? | Young girl, can you speak English? |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Leóga, muise, tá! | Indeed, I can! |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Caidé mar a chuirfeá an madadh amach? | How would you put the dog out? |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | FIX | Out the dog awa!! |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Ithim. | I eat. |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Itheann tú. | You eat. |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | An itheann tú? | Do you eat? |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Tuigim. | I understand. |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Tuigeann tú. | You understand. |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | An dtuigeann tú? | Do you understand? |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Téim. | I go. |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | An dtéann tú? | Do you go? |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | An bhfuil sé fuar? | Is it cold? |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Tá. / Níl. | Yes. / No. |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Déanaim. | I do / make. |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | An ndéanann tú? | Do you do / make? |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | Díolaim as. | I pay for. |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | An ndíolann tú as? | Do you pay for? |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | An dtéann tú chuig an phictiúrlann go minic? | Do you go to the cinema often? |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | An dtéann tú chuig cluiche peile go minic? | Do you go to a football match often? |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | An dtéann tú ag snámh go minic? | Do you go swimming often? |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | An dtéann tú go Béal Feirste go minic? | Do you go to Belfast often? |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | An bhfuil airgead agat? | Do you have money? |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | An ndéanann tú Yoga? | Do you do Yoga? |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | An ndíolann tú as na ranganna? | Do you pay for the classes? |  |  |  |  |  |  |  |
+| Giota Beag | 11 |  |  |  | An ndéanann tú an dinnéar go minic? | Do you make the dinner often? |  |  |  |  |  |  |  |
+
+## Giota Beag - 12
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 12 |  |  |  | Creidim. | I believe. |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Creideann tú. | You believe. |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | An gcreideann tú? | Do you believe? |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Ceannaím. | I buy. |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Ceannaíonn tú. | You buy. |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | An gceannaíonn tú? | Do you buy? |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Bím. | I be. |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Bíonn tú. | You be. |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | An mbíonn tú? - Do you be? |  |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | An mbíonn tú ag obair gach Aoine? | Do you work every Friday? |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | An mbíonn tú ag obair gach Satharn? | Do you work every Saturday? |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | ar an Luan | on Mondays |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | ach an Satharn agus an Domhnach | except Saturday and Sunday |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | ag deireadh na seachtaine | at the weekend |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | trí lá gach seachtain | three days every week |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | An nglanann tú an carr gach Aoine? | Do you clean the car every Friday? |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Glanaim. | I clean. |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Ní glanaim. | I don't clean. |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Glanann tú. | You clean. |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | anois agus arís | now and again |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | na fuinneoga | the windows |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | uair sa mhí | once a month |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | cleachtadh | practice |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | máistreacht | a mastery, perfection |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | Cleachtadh a dhéanann máistreacht. | Practise makes perfect. |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | ár scoil | our school |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | bhur lón | your (pl.) lunch |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | a milseáin | their sweets |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | ár bplátaí | our plates |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | bhur bplátaí | your plates |  |  |  |  |  |  |  |
+| Giota Beag | 12 |  |  |  | a bplátaí | their plates |  |  |  |  |  |  |  |
+
+## Giota Beag - 13
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 13 |  |  |  | Glan an tábla. | Clean the table |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Tá sé glanta. | It's cleaned. |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Déan an lón. | Make the lunch. |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Tá sé déanta. | It's made. |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Líon isteach an fhoirm sin. | Fill in that form. |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Tá sé líonta. | It's filled in. |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | druid | close |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | druidte | closed |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | oscail | open |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | oscailte | opened |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | léigh | read |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | léite | read |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | caill | lose |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | caillte | lost |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Tá an siopa sin druidte ach tá an siopa seo go fóill oscailte. | That shop is closed but this shop is still open |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Close that door please, it's cold. | It is closed. |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Oscail an fhuinneog, le do thoil, tá sé iontach te. | Tá sé oscailte. |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Open the window, please, it's very warm. | It is open. |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Tá Bran caillte. | Bran is lost. |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Tá an leabhar leite. | The book is read. |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | Tá an leabhar léite agam. | I have read the book. |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | croí | heart, dear or love |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | a ghrá | love (when speaking to someone) |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | grá geal mo chroí | the bright love of my heart, my sweetheart |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | mo chroí | my love |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | a ruin | loved one |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | rúin mo chroí | love of my heart |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | a thaiscigh | my dear, darling |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | bris | break |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | briste | broken |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | ith | eat |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | ite | eaten |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | nite | washed |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | thart | over, finished |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | grma can be text for go raibh maith agat | thank you |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | eay can be text for oíche mhaith | goodnight |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | sgf can be text for slán go fóill | goodbye for now |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | ldt can be text for le do thoil | please |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | the letter j can be text for cad é | what |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | the letters an followed by the digit 8, ocht in Irish, can stand for anocht, an8 – tonight |  |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | kwul2 can be cá bhfuil tú? | where are you? |  |  |  |  |  |  |  |
+| Giota Beag | 13 |  |  |  | gao can be grá agam ort | love you |  |  |  |  |  |  |  |
+
+## Giota Beag - 14
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 14 |  |  |  | críochnaigh | finish |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | críochnaigh an crosfhocal sin. | finish that crossword. |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | ceannaigh | buy |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | ceannaigh an nuachtán. | buy the newspaper. |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | cóirigh | arrange or dress |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | cóirigh an leaba | make the bed. |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | ceartaigh | correct |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | ceartaithe | corrected |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | sínigh | sign |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | sínithe | signed |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | roghnaigh | choose |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | roghnaithe | chosen |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | deisigh | repair or fix |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | deisithe | repaired |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Fuair tú scairt ghutháin; tá do ghuthán póca deisithe. | You got a phone call; your mobile phone is fixed. |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Roghnaigh an dath is fearr leat. | Choose the colour you prefer. |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Tá sé roghnaithe agam; gorm. | I have chosen it; blue. |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Sínigh an nóta scoile sin, le do thoil, a chroí. | Sign that school note, please, love. |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Tá sé sínithe agam. | I have it signed. |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Ceartaigh an obair bhaile sin le do thoil. | Correct that homework please. |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Tá an obair bhaile sin ceartaithe agam. | I have that homework corrected. |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | faoiseamh | relief |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | seal beag gairid | a short little while |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | i measc mo dhaoine | among my people |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | ar oileán mara | on a sea island |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | ag siúl cois cladaigh | walking by the shore |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | maidin is tráthnóna | morning and evening |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | ó Luan go Satharn | from Monday to Saturday |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | thiar ag baile | back at home, in the west |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | ó chrá croí | from heart ache |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | ó bhuairt aigne | from anxiety and work |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | ó uaigneas duairc | from dark loneliness |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | ó chaint ghontach | from hurtful talk |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | An bhfuil an leabhar sin léite agat? | Have you read that book? |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Tá an leabhar sin léite aige. | He has read that book. |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Tá an leabhar sin léite aici. | She has read that book. |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Tá an leabhar sin léite againn | We have read that book. |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Tá an leabhar sin léite agaibh | You (pl) have read that book. |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Tá an leabhar sin léite acu | They have read that book. |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Och och mo mhadadh beag | Aw, my wee dog |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | tá piachán i mo sceadamán | I am hoarse |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | ag scairtigh ar mo mhadadh beag. | calling my wee dog. |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | Luím ar mo leabaidh | I lie in my bed |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | 'gus ní chodlaím aon néal go maidin | and I don't sleep a wink |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | ach ag meabhrú ar mo mhadadh beag | thinking of my wee dog |  |  |  |  |  |  |  |
+| Giota Beag | 14 |  |  |  | a d'imigh uaim sa scarthanaigh. | who left me at daybreak. |  |  |  |  |  |  |  |
+
+## Giota Beag - 15
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag | 15 |  |  |  | Bain sult as an lá. | Enjoy the day. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Bainfidh mé sult as an lá. | I will enjoy the day. Bainfidh mé sult as an lá. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Ól gloine uisce | Drink a glass of water. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Ólfaidh mé gloine uisce. | I will drink a glass of water. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Siúil go dtí an siopa. | Walk to the shop. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Siúlfaidh mé go dtí an siopa. | I will walk to the shop. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Suigh síos. | Sit down. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Suífidh mé síos. | I will sit down. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Léigh an nuachtán. | Read the newspaper. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Léifidh mé an nuachtán. | I will read the newspaper. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Amharc ar an teilifís. | Watch the television. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Amharcfaidh mé ar an teilifís. | I will watch the television. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Éist le Giota Níos Mó | Listen to Giota Níos Mó. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Éistfidh mé le GNM gach lá. | I will listen to Giota Níos Mó every day. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | an carr s'agam | my car |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | an carr s'agat | your car |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | an carr s'aige | his car |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | an carr s'aici | her car |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | an carr s'againn | our car |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | an carr s'agaibh | your (pl.) car |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | an carr s'acu | their car |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Chífidh mé. | I will see. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Chífidh mé thú. | I will see you. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Déanfaidh mé. | I will do. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Déanfaidh mé sin amárach. | I will do that tomorrow. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Rachaidh mé. | I will go. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Rachaidh mé ar ais amárach. | I will go back tomorrow. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Scairtfidh mé. | I will call/shout. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Scairtfidh mé ort amárach. | I will phone you tomorrow. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | An rachaidh tú? | Will you go? |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | An rachaidh tú amach anocht? | Will you go out tonight? |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Ní rachaidh | No, I will not go out. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Níl mé cinnte an rachaidh nó nach rachaidh. | I'm not sure if I'll go or not. |  |  |  |  |  |  |  |
+| Giota Beag | 15 |  |  |  | Mol an óige is tiocfaidh sí. | Praise the youth and it will come / they will blossom. |  |  |  |  |  |  |  |
+
+## Other - Places
+
+| program | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Other | Places |  |  |  | Cúige | province (of Ireland/fifths) |  |  |  |  | cwig-a |  |  |
+| Other | Places |  |  |  | Contae | County |  |  |  |  | cont-ay |  |  |
+| Other | Places |  |  |  | Uladh | Ulster |  |  |  |  | ull-oo |  |  |
+| Other | Places |  |  |  | Mumhan | Munster |  |  |  |  | moo-an |  |  |
+| Other | Places |  |  |  | Laighean | Leinster |  |  |  |  | lie-on |  |  |
+| Other | Places |  |  |  | Connachta | Connacht |  |  |  |  | con-awcta |  |  |
+| Other | Places |  |  |  | Cúige Uladh | County Ulster |  |  |  |  | cwig-a ull-oo |  |  |
+| Other | Places |  |  |  | Cúige Mumhan | County Munster |  |  |  |  | cwig-a moo-an |  |  |
+| Other | Places |  |  |  | Cúige Laighean | County Leinster |  |  |  |  | cwig-a lie-on |  |  |
+| Other | Places |  |  |  | Cúige Chonnacht | County Connacht |  |  |  |  | cwig-a hon-awct |  |  |
+| Other | Places |  |  |  | Aontroim (Contae Aontroma) | Antrim |  |  |  |  |  |  | Ulster |
+| Other | Places |  |  |  | Ard Mhacha (Contae Ard Mhacha) | Armagh |  |  |  |  |  |  | Ulster |
+| Other | Places |  |  |  | Ceatharlach (Contae Cheatharlach) | Carlow |  |  |  |  |  |  | Leinster |
+| Other | Places |  |  |  | An Cabhán (Contae an Chabháin) | Cavan |  |  |  |  |  |  | Ulster |
+| Other | Places |  |  |  | An Clár (Contae an Chláir) | Clare |  |  |  |  |  |  | Munster |
+| Other | Places |  |  |  | Corcaigh (Contae Chorcaí) | Cork |  |  |  |  |  |  | Munster |
+| Other | Places |  |  |  | Dún na nGall (Contae Dhún na nGall) | Donegal |  |  |  |  |  |  | Ulster |
+| Other | Places |  |  |  | An Dún (Contae an Dúin) | Down |  |  |  |  |  |  | Ulster |
+| Other | Places |  |  |  | Baile Átha Cliath (Contae Bhaile Átha Cliath) | Dublin |  |  |  |  |  |  | Leinster |
+| Other | Places |  |  |  | Fear Manach (Contae Fhear Manach) | Fermanagh |  |  |  |  |  |  | Ulster |
+| Other | Places |  |  |  | Gaillimh (Contae na Gaillimhe) | Galway |  |  |  |  |  |  | Connacht |
+| Other | Places |  |  |  | Ciarraí (Contae Chiarraí) | Kerry |  |  |  |  |  |  | Munster |
+| Other | Places |  |  |  | Cill Dara (Contae Chill Dara) | Kildare |  |  |  |  |  |  | Leinster |
+| Other | Places |  |  |  | Cill Chainnigh (Contae Chill Chainnigh) | Kilkenny |  |  |  |  |  |  | Leinster |
+| Other | Places |  |  |  | Laois (Contae Laoise) | Laois |  |  |  |  |  |  | Leinster |
+| Other | Places |  |  |  | Liatroim (Contae Liatroma) | Leitrim |  |  |  |  |  |  | Connacht |
+| Other | Places |  |  |  | Luimneach (Contae Luimnigh) | Limerick |  |  |  |  |  |  | Munster |
+| Other | Places |  |  |  | Doire (Contae Dhoire) | Derry |  |  |  |  |  |  | Ulster |
+| Other | Places |  |  |  | An Longfort (Contae an Longfoirt) | Longford |  |  |  |  |  |  | Leinster |
+| Other | Places |  |  |  | Lú (Contae Lú) | Louth |  |  |  |  |  |  | Leinster |
+| Other | Places |  |  |  | Maigh Eo (Contae Mhaigh Eo) | Mayo |  |  |  |  |  |  | Connacht |
+| Other | Places |  |  |  | An Mhí (Contae na Mí) | Meath |  |  |  |  |  |  | Leinster |
+| Other | Places |  |  |  | Muineachán (Contae Mhuineacháin) | Monaghan |  |  |  |  |  |  | Ulster |
+| Other | Places |  |  |  | Uíbh Fhailí (Contae Uíbh Fhailí) | Offaly |  |  |  |  |  |  | Leinster |
+| Other | Places |  |  |  | Ros Comáin (Contae Ros Comáin) | Roscommon |  |  |  |  |  |  | Connacht |
+| Other | Places |  |  |  | Sligeach (Contae Shligigh) | Sligo |  |  |  |  |  |  | Connacht |
+| Other | Places |  |  |  | Tiobraid Árann (Contae Thiobraid Árann) | Tipperary |  |  |  |  |  |  | Munster |
+| Other | Places |  |  |  | Tír Eoghain (Contae Thír Eoghain) | Tyrone |  |  |  |  |  |  | Ulster |
+| Other | Places |  |  |  | Port Láirge (Contae Phort Láirge) | Waterford |  |  |  |  |  |  | Munster |
+| Other | Places |  |  |  | An Iarmhí (Contae na hIarmhí) | Westmeath |  |  |  |  |  |  | Leinster |
+| Other | Places |  |  |  | Loch Garman (Contae Loch Garman) | Wexford |  |  |  |  |  |  | Leinster |
+| Other | Places |  |  |  | Cill Mhantáin (Contae Chill Mhantáin) | Wicklow |  |  |  |  |  |  | Leinster |
+| Other | Places |  |  |  | Doire > nDoire | Derry |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | Baile Átha Cliath > mBaile Átha Cliath | Dublin |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | Corcaigh > gCorcaigh | Cork |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | Gleann Gormliath | Glengormley |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | Gaoth Dobhair > nGaoth Dobhair | Gweedore |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | Birmingham | Birmingham |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | Gort an Choirce | Gortahork |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | Leitir Ceanainn | Letterkenny |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | Cnoc Fola | Bloody Foreland |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | > mBéal Feirste | Belfast |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | > nGlaschú | Glasgow |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | > bPort Rois | Portrush |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | >gCúil Raithlin | Coleraine |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | >nDun Dealgan | Dundalk |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | Dún Geanainn | Dungannon |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | Léim an Mhadaidh | Limavady |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | Port an Dúnáin | Portadown |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | Nua-Eabhrac | New York |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | >nDún Éidin | Edinburgh |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | an Ghearmáin | Germany |  |  |  |  |  |  |  |
+| Other | Places |  |  |  | an Fhrainc | France |  |  |  |  |  |  |  |
