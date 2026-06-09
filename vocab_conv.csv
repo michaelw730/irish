@@ -14,7 +14,6 @@ Various	1	Greetings etc				Níl a fhios agam	I don't know					neil us agam
 Various	1	Greetings etc				Tá a fhios agam	I know					Ta us agam		
 Various	1	Greetings etc				freagair	reply/answer					freggar		
 Various	1	Greetings etc				cur Gaeilge air?	What's irish for?							
-Various	1	Greetings etc				sparán	purse					sparaan		
 Various	1	Greetings etc				lá breithe shona	happy birthday					laa brayha		
 Various	1	Greetings etc				lá breithe shona duit	happy birthday to you							
 Now You’re Talking	1	Meeting People		WORD		Fáilte	Welcome							
@@ -178,6 +177,7 @@ Now You’re Talking	1	Meeting People				chos(?)	foot					cos
 Now You’re Talking	1	Meeting People				ceann(?)	head					cyun		
 Now You’re Talking	1	Meeting People				droim(?)	back					drim		
 Now You’re Talking	1	Meeting People				toín(?)	backside					towin		
+Now You’re Talking	1	Meeting People				sparán	purse					sparaan		
 Now You’re Talking	2	Introductions		PHRASE		Cur in aithne	Introductions					cur in an-yuh		
 Now You’re Talking	2	Introductions		WORD		ainm	Name							
 Now You’re Talking	2	Introductions		WORD		sloinne	surname					slin-you		
@@ -2276,6 +2276,9 @@ Now You’re Talking	12	Taking your leave		PHRASE		Tá mé mall.	I'm late.
 Now You’re Talking	12	Taking your leave		PHRASE		Tá mé mall don dráma.	I'm late for the play.							
 Now You’re Talking	12	Taking your leave		PHRASE		Tá mé mall don scannan.	I'm late for the film.							
 Now You’re Talking	12	Taking your leave		PHRASE		Tá deifir orm.	I'm in a hurry.							
+Now You’re Talking	12	Taking your leave		WORD		cuairteoir	visitor							
+Now You’re Talking	12	Taking your leave		WORD		cuairteoirí	visitors							
+Now You’re Talking	12	Taking your leave		WORD		cruinniú	meeting (event)							
 Now You’re Talking	12	Taking your leave		PHRASE		Tá mé ag súil le cuairteoirí.	I'm expecting visitors.							
 Now You’re Talking	12	Taking your leave		PHRASE		Tá mé ag dul chuig cruinniú.	I'm going to a meeting.							
 Now You’re Talking	12	Taking your leave		PHRASE		Fan tamall beag eile!	Stay a little while longer!							
@@ -3817,64 +3820,66 @@ Giota Beag 3	15	15				Níl mé cinnte an rachaidh nó nach rachaidh.	I'm not sur
 Giota Beag 3	15	15				Mol an óige is tiocfaidh sí.	Praise the youth and it will come / they will blossom.							
 Other	1	Places				Cúige	province (of Ireland/fifths)					cwig-a		
 Other	1	Places				Contae	County					cont-ay		
-Other	1	Places				Uladh	Ulster					ull-oo		
-Other	1	Places				Mumhan	Munster					moo-an		
-Other	1	Places				Laighean	Leinster					lie-on		
-Other	1	Places				Connachta	Connacht					con-awcta		
-Other	1	Places				Cúige Uladh	County Ulster					cwig-a ull-oo		
-Other	1	Places				Cúige Mumhan	County Munster					cwig-a moo-an		
-Other	1	Places				Cúige Laighean	County Leinster					cwig-a lie-on		
-Other	1	Places				Cúige Chonnacht	County Connacht					cwig-a hon-awct		
-Other	1	Places				Aontroim (Contae Aontroma)	Antrim							Ulster
-Other	1	Places				Ard Mhacha (Contae Ard Mhacha)	Armagh							Ulster
-Other	1	Places				Ceatharlach (Contae Cheatharlach)	Carlow							Leinster
-Other	1	Places				An Cabhán (Contae an Chabháin)	Cavan							Ulster
-Other	1	Places				An Clár (Contae an Chláir)	Clare							Munster
-Other	1	Places				Corcaigh (Contae Chorcaí)	Cork							Munster
-Other	1	Places				Dún na nGall (Contae Dhún na nGall)	Donegal							Ulster
-Other	1	Places				An Dún (Contae an Dúin)	Down							Ulster
-Other	1	Places				Baile Átha Cliath (Contae Bhaile Átha Cliath)	Dublin							Leinster
-Other	1	Places				Fear Manach (Contae Fhear Manach)	Fermanagh							Ulster
-Other	1	Places				Gaillimh (Contae na Gaillimhe)	Galway							Connacht
-Other	1	Places				Ciarraí (Contae Chiarraí)	Kerry							Munster
-Other	1	Places				Cill Dara (Contae Chill Dara)	Kildare							Leinster
-Other	1	Places				Cill Chainnigh (Contae Chill Chainnigh)	Kilkenny							Leinster
-Other	1	Places				Laois (Contae Laoise)	Laois							Leinster
-Other	1	Places				Liatroim (Contae Liatroma)	Leitrim							Connacht
-Other	1	Places				Luimneach (Contae Luimnigh)	Limerick							Munster
-Other	1	Places				Doire (Contae Dhoire)	Derry							Ulster
-Other	1	Places				An Longfort (Contae an Longfoirt)	Longford							Leinster
-Other	1	Places				Lú (Contae Lú)	Louth							Leinster
-Other	1	Places				Maigh Eo (Contae Mhaigh Eo)	Mayo							Connacht
-Other	1	Places				An Mhí (Contae na Mí)	Meath							Leinster
-Other	1	Places				Muineachán (Contae Mhuineacháin)	Monaghan							Ulster
-Other	1	Places				Uíbh Fhailí (Contae Uíbh Fhailí)	Offaly							Leinster
-Other	1	Places				Ros Comáin (Contae Ros Comáin)	Roscommon							Connacht
-Other	1	Places				Sligeach (Contae Shligigh)	Sligo							Connacht
-Other	1	Places				Tiobraid Árann (Contae Thiobraid Árann)	Tipperary							Munster
-Other	1	Places				Tír Eoghain (Contae Thír Eoghain)	Tyrone							Ulster
-Other	1	Places				Port Láirge (Contae Phort Láirge)	Waterford							Munster
-Other	1	Places				An Iarmhí (Contae na hIarmhí)	Westmeath							Leinster
-Other	1	Places				Loch Garman (Contae Loch Garman)	Wexford							Leinster
-Other	1	Places				Cill Mhantáin (Contae Chill Mhantáin)	Wicklow							Leinster
-Other	1	Places				Doire > nDoire	Derry							
-Other	1	Places				Baile Átha Cliath > mBaile Átha Cliath	Dublin							
-Other	1	Places				Corcaigh > gCorcaigh	Cork							
-Other	1	Places				Gleann Gormliath	Glengormley							
-Other	1	Places				Gaoth Dobhair > nGaoth Dobhair	Gweedore							
-Other	1	Places				Birmingham	Birmingham							
-Other	1	Places				Gort an Choirce	Gortahork							
-Other	1	Places				Leitir Ceanainn	Letterkenny							
-Other	1	Places				Cnoc Fola	Bloody Foreland							
-Other	1	Places				> mBéal Feirste	Belfast							
-Other	1	Places				> nGlaschú	Glasgow							
-Other	1	Places				> bPort Rois	Portrush							
-Other	1	Places				>gCúil Raithlin	Coleraine							
-Other	1	Places				>nDun Dealgan	Dundalk							
-Other	1	Places				Dún Geanainn	Dungannon							
-Other	1	Places				Léim an Mhadaidh	Limavady							
-Other	1	Places				Port an Dúnáin	Portadown							
-Other	1	Places				Nua-Eabhrac	New York							
-Other	1	Places				>nDún Éidin	Edinburgh							
-Other	1	Places				an Ghearmáin	Germany							
-Other	1	Places				an Fhrainc	France							
+Other	1	Places			PROVINCES	Uladh	Ulster					ull-oo		
+Other	1	Places			PROVINCES	Mumhan	Munster					moo-an		
+Other	1	Places			PROVINCES	Laighean	Leinster					lie-on		
+Other	1	Places			PROVINCES	Connachta	Connacht					con-awcta		
+Other	1	Places			PROVINCES2	Cúige Uladh	Province (fifth) Ulster					cwig-a ull-oo		
+Other	1	Places			PROVINCES2	Cúige Mumhan	Province (fifth) Munster					cwig-a moo-an		
+Other	1	Places			PROVINCES2	Cúige Laighean	Province (fifth) Leinster					cwig-a lie-on		
+Other	1	Places			PROVINCES2	Cúige Chonnacht	Province (fifth) Connacht					cwig-a hon-awct		
+Other	1	Places			COUNTIES	Aontroim (Contae Aontroma)	Antrim							Ulster
+Other	1	Places			COUNTIES	Ard Mhacha (Contae Ard Mhacha)	Armagh							Ulster
+Other	1	Places			COUNTIES	Ceatharlach (Contae Cheatharlach)	Carlow							Leinster
+Other	1	Places			COUNTIES	An Cabhán (Contae an Chabháin)	Cavan							Ulster
+Other	1	Places			COUNTIES	An Clár (Contae an Chláir)	Clare							Munster
+Other	1	Places			COUNTIES	Corcaigh (Contae Chorcaí)	Cork							Munster
+Other	1	Places			COUNTIES	Dún na nGall (Contae Dhún na nGall)	Donegal							Ulster
+Other	1	Places			COUNTIES	An Dún (Contae an Dúin)	Down							Ulster
+Other	1	Places			COUNTIES	Baile Átha Cliath (Contae Bhaile Átha Cliath)	Dublin							Leinster
+Other	1	Places			COUNTIES	Fear Manach (Contae Fhear Manach)	Fermanagh							Ulster
+Other	1	Places			COUNTIES	Gaillimh (Contae na Gaillimhe)	Galway							Connacht
+Other	1	Places			COUNTIES	Ciarraí (Contae Chiarraí)	Kerry							Munster
+Other	1	Places			COUNTIES	Cill Dara (Contae Chill Dara)	Kildare							Leinster
+Other	1	Places			COUNTIES	Cill Chainnigh (Contae Chill Chainnigh)	Kilkenny							Leinster
+Other	1	Places			COUNTIES	Laois (Contae Laoise)	Laois							Leinster
+Other	1	Places			COUNTIES	Liatroim (Contae Liatroma)	Leitrim							Connacht
+Other	1	Places			COUNTIES	Luimneach (Contae Luimnigh)	Limerick							Munster
+Other	1	Places			COUNTIES	Doire (Contae Dhoire)	Derry							Ulster
+Other	1	Places			COUNTIES	An Longfort (Contae an Longfoirt)	Longford							Leinster
+Other	1	Places			COUNTIES	Lú (Contae Lú)	Louth							Leinster
+Other	1	Places			COUNTIES	Maigh Eo (Contae Mhaigh Eo)	Mayo							Connacht
+Other	1	Places			COUNTIES	An Mhí (Contae na Mí)	Meath							Leinster
+Other	1	Places			COUNTIES	Muineachán (Contae Mhuineacháin)	Monaghan							Ulster
+Other	1	Places			COUNTIES	Uíbh Fhailí (Contae Uíbh Fhailí)	Offaly							Leinster
+Other	1	Places			COUNTIES	Ros Comáin (Contae Ros Comáin)	Roscommon							Connacht
+Other	1	Places			COUNTIES	Sligeach (Contae Shligigh)	Sligo							Connacht
+Other	1	Places			COUNTIES	Tiobraid Árann (Contae Thiobraid Árann)	Tipperary							Munster
+Other	1	Places			COUNTIES	Tír Eoghain (Contae Thír Eoghain)	Tyrone							Ulster
+Other	1	Places			COUNTIES	Port Láirge (Contae Phort Láirge)	Waterford							Munster
+Other	1	Places			COUNTIES	An Iarmhí (Contae na hIarmhí)	Westmeath							Leinster
+Other	1	Places			COUNTIES	Loch Garman (Contae Loch Garman)	Wexford							Leinster
+Other	1	Places			COUNTIES	Cill Mhantáin (Contae Chill Mhantáin)	Wicklow							Leinster
+Other	1	Places			PLACE	Baile Átha Cliath	Dublin							
+Other	1	Places			PLACE	Gleann Gormliath	Glengormley							
+Other	1	Places			PLACE	Gaoth Dobhair	Gweedore							
+Other	1	Places			PLACE	Birmingham	Birmingham							
+Other	1	Places			PLACE	Gort an Choirce	Gortahork							
+Other	1	Places			PLACE	Leitir Ceanainn	Letterkenny							
+Other	1	Places			PLACE	Cnoc Fola	Bloody Foreland							
+Other	1	Places			PLACE	Dún Geanainn	Dungannon							
+Other	1	Places			PLACE	Léim an Mhadaidh	Limavady							
+Other	1	Places			PLACE	Port an Dúnáin	Portadown							
+Other	1	Places			PLACE	Nua-Eabhrac	New York							
+Other	1	Places			IN_PLACE	I mBéal Feirste	In Belfast							
+Other	1	Places			IN_PLACE	I nGlaschú	In Glasgow							
+Other	1	Places			IN_PLACE	i bPort Rois	In Portrush							
+Other	1	Places			IN_PLACE	I gCúil Raithlin	In Coleraine							
+Other	1	Places			IN_PLACE	I nDun Dealgan	In Dundalk							
+Other	1	Places			IN_PLACE	I nDún Éidin	In Edinburgh							
+Other	1	Places			IN_PLACE	I nGaoth Dobhair	in Gweedore							
+Other	1	Places			IN_PLACE	I mBaile Átha Cliath	in Dublin							
+Other	1	Places			IN_PLACE	I gCorcaigh	in Cork							
+Other	1	Places			IN_PLACE	I nDoire	in Derry							
+Other	1	Places			COUNTRIES	an Ghearmáin	Germany							
+Other	1	Places			COUNTRIES	an Fhrainc	France							
