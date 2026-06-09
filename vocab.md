@@ -2310,6 +2310,7 @@
 | Now You’re Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Beidh mé ag bualadh leis | I will be meeting him |  |  |  |  | bay may ag bwayla lesh |  |  |
 | Now You’re Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Ba mhaith liom a bheith i mo cheoltóir | i would like to be a musician |  |  |  |  |  |  |  |
 | Now You’re Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | b'fhéidir | maybe |  |  |  |  | bayjor |  |  |
+| Now You’re Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D’ol mé barraíocht | I drank too muh |  |  |  |  |  |  |  |
 
 ## Now You’re Talking - Taking your leave
 
