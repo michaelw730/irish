@@ -283,9 +283,9 @@
 | Now You’re Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá sé go maith | It is good |  |  |  |  |  |  |  |
 | Now You’re Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | An maith leat é? | Do you like it? |  |  |  |  |  |  |  |
 | Now You’re Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Is maith liom é. | I like it. |  |  |  |  |  |  |  |
-| Now You’re Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Is maith. | I like it. |  |  |  |  |  |  | Shorter and acceptable |
+| Now You’re Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Is maith. | I like. |  |  |  |  |  |  | Shorter and acceptable |
 | Now You’re Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Níl maith liom é. | I do not like it. |  |  |  |  |  |  |  |
-| Now You’re Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Níl maith. | I do not like it. |  |  |  |  |  |  | Shorter and acceptable |
+| Now You’re Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Níl maith. | I do not like. |  |  |  |  |  |  | Shorter and acceptable |
 | Now You’re Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | seoladh | address |  |  |  |  | shaw-loo |  |  |
 | Now You’re Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cad é an seoladh atá agat? | What's your address? |  |  |  |  |  |  |  |
 | Now You’re Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | breithe | birth |  |  |  |  | eh-tch vrey-ha |  |  |
@@ -719,12 +719,12 @@
 | Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cáis | cheese |  |  |  |  | kesh |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ríomhairí | computers |  |  |  |  | Ree-war-ee |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | bláthanna | flowers |  |  |  |  | Blee-hena |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul ag rith | go running. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | amharc ar an teilifís | watch television. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | éisteacht le ceol | listen to music. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul ag snámh | go swimming. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul chuig scannáin | go to films. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul chuig drámaí | go to plays. |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul ag rith | go running |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | amharc ar an teilifís | watch television |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | éisteacht le ceol | listen to music |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul ag snámh | go swimming |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul chuig scannáin | go to films |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul chuig drámaí | go to plays |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | imirt | play |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | leadóg a imirt | play tennis |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol | music |  |  |  |  |  |  |  |
@@ -748,12 +748,12 @@
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom cáis | I like cheese |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom ríomhairí | I like computers |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom bláthanna | I like flowers |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag rith | I like go running. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom amharc ar an teilifís | I like watch television. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom éisteacht le ceol | I like listen to music. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag snámh | I like go swimming. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig scannáin | I like go to films. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig drámaí | I like go to plays. |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag rith | I like go running |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom amharc ar an teilifís | I like watch television |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom éisteacht le ceol | I like listen to music |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag snámh | I like go swimming |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig scannáin | I like go to films |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig drámaí | I like go to plays |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom imirt | I like play |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom leadóg a imirt | I like play tennis |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol | I like music |  |  |  |  |  |  |  |
@@ -773,12 +773,12 @@
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom cáis | I really like cheese |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom ríomhairí | I really like computers |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom bláthanna | I really like flowers |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag rith | I really like go running. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom amharc ar an teilifís | I really like watch television. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom éisteacht le ceol | I really like listen to music. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag snámh | I really like go swimming. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig scannáin | I really like go to films. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig drámaí | I really like go to plays. |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag rith | I really like go running |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom amharc ar an teilifís | I really like watch television |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom éisteacht le ceol | I really like listen to music |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag snámh | I really like go swimming |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig scannáin | I really like go to films |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig drámaí | I really like go to plays |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom imirt | I really like play |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom leadóg a imirt | I really like play tennis |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol | I really like music |  |  |  |  |  |  |  |
@@ -799,12 +799,12 @@
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cáis | I don't like cheese |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ríomhairí | I don't like computers |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom bláthanna | I don't like flowers |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith | I don't like go running. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom amharc ar an teilifís | I don't like watch television. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol | I don't like listen to music. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh | I don't like go swimming. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin | I don't like go to films. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí | I don't like go to plays. |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith | I don't like go running |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom amharc ar an teilifís | I don't like watch television |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol | I don't like listen to music |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh | I don't like go swimming |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin | I don't like go to films |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí | I don't like go to plays |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt | I don't like play |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom leadóg a imirt | I don't like play tennis |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol | I don't like music |  |  |  |  |  |  |  |
@@ -824,12 +824,12 @@
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cáis ar chor ar bith. | I don't like cheese at all. |  |  |  |  | ...ar har a bee |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ríomhairí ar chor ar bith. | I don't like computers at all. |  |  |  |  | ...ar har a bee |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom bláthanna ar chor ar bith. | I don't like flowers at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith ar chor ar bith. | I don't like go running. at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom amharc ar an teilifís ar chor ar bith. | I don't like watch television. at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol ar chor ar bith. | I don't like listen to music. at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh ar chor ar bith. | I don't like go swimming. at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin ar chor ar bith. | I don't like go to films. at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí ar chor ar bith. | I don't like go to plays. at all. |  |  |  |  | ...ar har a bee |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith ar chor ar bith. | I don't like go running at all. |  |  |  |  | ...ar har a bee |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom amharc ar an teilifís ar chor ar bith. | I don't like watch television at all. |  |  |  |  | ...ar har a bee |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol ar chor ar bith. | I don't like listen to music at all. |  |  |  |  | ...ar har a bee |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh ar chor ar bith. | I don't like go swimming at all. |  |  |  |  | ...ar har a bee |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin ar chor ar bith. | I don't like go to films at all. |  |  |  |  | ...ar har a bee |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí ar chor ar bith. | I don't like go to plays at all. |  |  |  |  | ...ar har a bee |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt ar chor ar bith. | I don't like play at all. |  |  |  |  | ...ar har a bee |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom leadóg a imirt ar chor ar bith. | I don't like play tennis at all. |  |  |  |  | ...ar har a bee |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol ar chor ar bith. | I don't like music at all. |  |  |  |  | ...ar har a bee |  |  |
@@ -851,12 +851,12 @@
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cáis | I hate cheese |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ríomhairí | I hate computers |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom bláthanna | I hate flowers |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag rith | I hate go running. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom amharc ar an teilifís | I hate watch television. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom éisteacht le ceol | I hate listen to music. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag snámh | I hate go swimming. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig scannáin | I hate go to films. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig drámaí | I hate go to plays. |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag rith | I hate go running |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom amharc ar an teilifís | I hate watch television |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom éisteacht le ceol | I hate listen to music |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag snámh | I hate go swimming |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig scannáin | I hate go to films |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig drámaí | I hate go to plays |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom imirt | I hate play |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom leadóg a imirt | I hate play tennis |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol | I hate music |  |  |  |  |  |  |  |
@@ -876,12 +876,12 @@
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat cáis? | Do you like cheese? |  |  |  | s |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ríomhairí? | Do you like computers? |  |  |  | s |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat bláthanna? | Do you like flowers? |  |  |  | s |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag rith? | Do you like go running.? |  |  |  | s |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat amharc ar an teilifís? | Do you like watch television.? |  |  |  | s |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat éisteacht le ceol? | Do you like listen to music.? |  |  |  | s |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag snámh? | Do you like go swimming.? |  |  |  | s |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig scannáin? | Do you like go to films.? |  |  |  | s |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig drámaí? | Do you like go to plays.? |  |  |  | s |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag rith? | Do you like go running? |  |  |  | s |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat amharc ar an teilifís? | Do you like watch television? |  |  |  | s |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat éisteacht le ceol? | Do you like listen to music? |  |  |  | s |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag snámh? | Do you like go swimming? |  |  |  | s |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig scannáin? | Do you like go to films? |  |  |  | s |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig drámaí? | Do you like go to plays? |  |  |  | s |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat imirt? | Do you like play? |  |  |  | s |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat leadóg a imirt? | Do you like play tennis? |  |  |  | s |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol? | Do you like music? |  |  |  | s |  |  |  |
@@ -901,12 +901,12 @@
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh cáis? | Do you like cheese? |  |  |  | p |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ríomhairí? | Do you like computers? |  |  |  | p |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh bláthanna? | Do you like flowers? |  |  |  | p |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag rith? | Do you like go running.? |  |  |  | p |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh amharc ar an teilifís? | Do you like watch television.? |  |  |  | p |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh éisteacht le ceol? | Do you like listen to music.? |  |  |  | p |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag snámh? | Do you like go swimming.? |  |  |  | p |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig scannáin? | Do you like go to films.? |  |  |  | p |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig drámaí? | Do you like go to plays.? |  |  |  | p |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag rith? | Do you like go running? |  |  |  | p |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh amharc ar an teilifís? | Do you like watch television? |  |  |  | p |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh éisteacht le ceol? | Do you like listen to music? |  |  |  | p |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag snámh? | Do you like go swimming? |  |  |  | p |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig scannáin? | Do you like go to films? |  |  |  | p |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig drámaí? | Do you like go to plays? |  |  |  | p |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh imirt? | Do you like play? |  |  |  | p |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh leadóg a imirt? | Do you like play tennis? |  |  |  | p |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol? | Do you like music? |  |  |  | p |  |  |  |
@@ -928,20 +928,20 @@
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag iascaireacht | I like fishing |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag léamh | I like reading |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag siúl | I like walking |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | TEMPLATE |  | Ní maith liom a bheith $THINGS_TO_LIKE_TO_DO | I like $THINGS_TO_LIKE_TO_DO |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag garraíodóireacht | I like gardening |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag péinteáil | I like painting |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag cócaireacht | I like cooking |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag iascaireacht | I like fishing |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag léamh | I like reading |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag siúl | I like walking |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | TEMPLATE |  | Is fuath liom a bheith $THINGS_TO_LIKE_TO_DO | I like $THINGS_TO_LIKE_TO_DO |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag garraíodóireacht | I like gardening |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag péinteáil | I like painting |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag cócaireacht | I like cooking |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag iascaireacht | I like fishing |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag léamh | I like reading |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag siúl | I like walking |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | TEMPLATE |  | Ní maith liom a bheith $THINGS_TO_LIKE_TO_DO | I do not like $THINGS_TO_LIKE_TO_DO |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag garraíodóireacht | I do not like gardening |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag péinteáil | I do not like painting |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag cócaireacht | I do not like cooking |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag iascaireacht | I do not like fishing |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag léamh | I do not like reading |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag siúl | I do not like walking |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | TEMPLATE |  | Is fuath liom a bheith $THINGS_TO_LIKE_TO_DO | I hate $THINGS_TO_LIKE_TO_DO |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag garraíodóireacht | I hate gardening |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag péinteáil | I hate painting |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag cócaireacht | I hate cooking |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag iascaireacht | I hate fishing |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag léamh | I hate reading |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag siúl | I hate walking |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | TEMPLATE |  | An maith leat $THINGS_TO_LIKE_TO_DO? | Do you like $THINGS_TO_LIKE? |  |  |  | s |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ag garraíodóireacht? | Do you like THINGS_TO_LIKE? |  |  |  | s |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ag péinteáil? | Do you like THINGS_TO_LIKE? |  |  |  | s |  |  |  |
@@ -976,12 +976,12 @@
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cáis | I prefer cheese |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ríomhairí | I prefer computers |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom bláthanna | I prefer flowers |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag rith | I prefer go running. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom amharc ar an teilifís | I prefer watch television. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom éisteacht le ceol | I prefer listen to music. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag snámh | I prefer go swimming. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig scannáin | I prefer go to films. |  |  |  |  |  |  |  |
-| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig drámaí | I prefer go to plays. |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag rith | I prefer go running |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom amharc ar an teilifís | I prefer watch television |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom éisteacht le ceol | I prefer listen to music |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag snámh | I prefer go swimming |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig scannáin | I prefer go to films |  |  |  |  |  |  |  |
+| Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig drámaí | I prefer go to plays |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom imirt | I prefer play |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom leadóg a imirt | I prefer play tennis |  |  |  |  |  |  |  |
 | Now You’re Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol | I prefer music |  |  |  |  |  |  |  |

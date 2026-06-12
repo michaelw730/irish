@@ -415,7 +415,7 @@ It can be difficult to remember all the different prepositional pronouns - but j
 
 #### Meeting People
 
-[vocab.csv](vocab.csv#Meeting+People)
+[vocab.md](vocab.md#Meeting+People)
 
 #### Faisnéis | Information
 

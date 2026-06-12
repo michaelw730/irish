@@ -218,9 +218,9 @@ Now You’re Talking	3	SPEAKING ABOUT YOUR BACKGROUND		SENTENCE		Tá sé deas	It
 Now You’re Talking	3	SPEAKING ABOUT YOUR BACKGROUND		SENTENCE		Tá sé go maith	It is good							
 Now You’re Talking	3	SPEAKING ABOUT YOUR BACKGROUND		QUESTION		An maith leat é?	Do you like it?							
 Now You’re Talking	3	SPEAKING ABOUT YOUR BACKGROUND		SENTENCE		Is maith liom é.	I like it.							
-Now You’re Talking	3	SPEAKING ABOUT YOUR BACKGROUND		SENTENCE		Is maith.	I like it.							Shorter and acceptable
+Now You’re Talking	3	SPEAKING ABOUT YOUR BACKGROUND		SENTENCE		Is maith.	I like.							Shorter and acceptable
 Now You’re Talking	3	SPEAKING ABOUT YOUR BACKGROUND		SENTENCE		Níl maith liom é.	I do not like it.							
-Now You’re Talking	3	SPEAKING ABOUT YOUR BACKGROUND		SENTENCE		Níl maith.	I do not like it.							Shorter and acceptable
+Now You’re Talking	3	SPEAKING ABOUT YOUR BACKGROUND		SENTENCE		Níl maith.	I do not like.							Shorter and acceptable
 Now You’re Talking	3	SPEAKING ABOUT YOUR BACKGROUND		WORD		seoladh	address					shaw-loo		
 Now You’re Talking	3	SPEAKING ABOUT YOUR BACKGROUND		QUESTION		Cad é an seoladh atá agat?	What's your address?							
 Now You’re Talking	3	SPEAKING ABOUT YOUR BACKGROUND		WORD		breithe	birth					eh-tch vrey-ha		
@@ -452,12 +452,12 @@ Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	portán	crab				
 Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	cáis	cheese					kesh		
 Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	ríomhairí	computers					Ree-war-ee		
 Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	bláthanna	flowers					Blee-hena		
-Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul ag rith	go running.							
-Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	amharc ar an teilifís	watch television.							
-Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	éisteacht le ceol	listen to music.							
-Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul ag snámh	go swimming.							
-Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul chuig scannáin	go to films.							
-Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul chuig drámaí	go to plays.							
+Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul ag rith	go running							
+Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	amharc ar an teilifís	watch television							
+Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	éisteacht le ceol	listen to music							
+Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul ag snámh	go swimming							
+Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul chuig scannáin	go to films							
+Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul chuig drámaí	go to plays							
 Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	imirt	play							
 Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	leadóg a imirt	play tennis							
 Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE	ceol	music							
@@ -487,8 +487,8 @@ Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE_TO_DO	ag iascair
 Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE_TO_DO	ag léamh	reading					ag lay-oh		
 Now You’re Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE_TO_DO	ag siúl	walking					ag shool		
 Now You’re Talking	5	Expressing Opinions		TEMPLATE		Is maith liom a bheith $THINGS_TO_LIKE_TO_DO	I like $THINGS_TO_LIKE_TO_DO							
-Now You’re Talking	5	Expressing Opinions		TEMPLATE		Ní maith liom a bheith $THINGS_TO_LIKE_TO_DO	I like $THINGS_TO_LIKE_TO_DO							
-Now You’re Talking	5	Expressing Opinions		TEMPLATE		Is fuath liom a bheith $THINGS_TO_LIKE_TO_DO	I like $THINGS_TO_LIKE_TO_DO							
+Now You’re Talking	5	Expressing Opinions		TEMPLATE		Ní maith liom a bheith $THINGS_TO_LIKE_TO_DO	I do not like $THINGS_TO_LIKE_TO_DO							
+Now You’re Talking	5	Expressing Opinions		TEMPLATE		Is fuath liom a bheith $THINGS_TO_LIKE_TO_DO	I hate $THINGS_TO_LIKE_TO_DO							
 Now You’re Talking	5	Expressing Opinions		TEMPLATE		An maith leat $THINGS_TO_LIKE_TO_DO?	Do you like $THINGS_TO_LIKE?				s			
 Now You’re Talking	5	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE_TO_DO?	Do you like $THINGS_TO_LIKE?				p			
 Now You’re Talking	5	Expressing Opinions		SENTENCE		Is maith.	Yes.							
