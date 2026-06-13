@@ -1110,12 +1110,12 @@ Now You’re Talking	11	SAYING WHAT YOU DID		PHRASE		Ba mhaith liom a bheith i m
 Now You’re Talking	11	SAYING WHAT YOU DID		PHRASE		b'fhéidir	maybe					bayjor		
 Now You’re Talking	11	SAYING WHAT YOU DID		PHRASE		D’ol mé barraíocht	I drank too muh							
 Now You’re Talking	12	Taking your leave		PHRASE		AG FÁGÁIL COMHLUADAIR	TAKING YOUR LEAVE					Ag faygal cool-wah-der		
-Now You’re Talking	12	Taking your leave		PHRASE		Caithfidh mé imeacht.	I have to go.					Ka-heh meh imackt		
-Now You’re Talking	12	Taking your leave		PHRASE		Caithfidh mé imeacht arís.	I have to go again.							
-Now You’re Talking	12	Taking your leave		PHRASE		Caithfidh mé imeacht anois.	I have to go now.							
-Now You’re Talking	12	Taking your leave		PHRASE		Éist, caithfidh mé imeacht.	Listen, I have to go.							
-Now You’re Talking	12	Taking your leave		PHRASE		Caithfidh mé ag dul abhaile.	I have to go home.							
-Now You’re Talking	12	Taking your leave		PHRASE		Tá mé ag imeacht.	I am going.							
+Now You’re Talking	12	Taking your leave		PHRASE		Caithfidh mé imeacht.	I have to go.				I have to leave	Ka-heh meh imackt		
+Now You’re Talking	12	Taking your leave		PHRASE		Caithfidh mé imeacht arís.	I have to go again.				I have to leave again			
+Now You’re Talking	12	Taking your leave		PHRASE		Caithfidh mé imeacht anois.	I have to go now.				I have to leave now			
+Now You’re Talking	12	Taking your leave		PHRASE		Éist, caithfidh mé imeacht.	Listen, I have to go.				Listen, I have to leave			
+Now You’re Talking	12	Taking your leave		PHRASE		Caithfidh mé ag dul abhaile.	I have to go home.				I have to go home			
+Now You’re Talking	12	Taking your leave		PHRASE		Tá mé ag imeacht.	I am going.				I am leaving			
 Now You’re Talking	12	Taking your leave		PHRASE		Tá mé ag dul abhaile.	I am going home.							
 Now You’re Talking	12	Taking your leave		PHRASE		Tá mé ag dul chun an bhaile.	I am going home.							
 Now You’re Talking	12	Taking your leave		PHRASE		Maith go leor.	All right.							
@@ -1153,10 +1153,11 @@ Now You’re Talking	12	Taking your leave		WORD		seachtain	week			f
 Now You’re Talking	12	Taking your leave		WORD		coicís	fortnight			f		Coc-ish		
 Now You’re Talking	12	Taking your leave		WORD		mí	month			f				
 Now You’re Talking	12	Taking your leave		WORD		bliain	year			f				
+Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mél tú.	I'll see you							
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé ar ball tú.	I'll see you in a while/I'll see you later.							
-Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé i gceann leathuaire* tú.	I'll see you in half an hour.							
+Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé i gceann leathuaire tú.	I'll see you in half an hour.							
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé anocht tú.	I'll see you tonight.							
-Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé anocht tú mar sin.	I'll see you tonight mar sin							
+Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé anocht tú mar sin.	I'll see you tonight then							
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé amárach tú.	I'll see you tomorrow.							
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé tráthnóna tú.	I'll see you this evening.							
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé ar maidin tú.	I'll see you in the morning.							
