@@ -1153,9 +1153,16 @@ Now You’re Talking	12	Taking your leave		WORD		seachtain	week			f
 Now You’re Talking	12	Taking your leave		WORD		coicís	fortnight			f		Coc-ish		
 Now You’re Talking	12	Taking your leave		WORD		mí	month			f				
 Now You’re Talking	12	Taking your leave		WORD		bliain	year			f				
+Now You’re Talking	12	Taking your leave		WORD		an lae	the day			m				
+Now You’re Talking	12	Taking your leave		WORD		na seachtaine	The week			f				
+Now You’re Talking	12	Taking your leave		WORD		an choicís	The fortnight			f		Coc-ish		
+Now You’re Talking	12	Taking your leave		WORD		an mhí 	month			f				
+Now You’re Talking	12	Taking your leave		WORD		an bhliain	the year			f				
+Now You’re Talking	13	Taking your leave		WORD		ar an tseachtain seo chugainn	next week				this week towards us			
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mél tú.	I'll see you							
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé ar ball tú.	I'll see you in a while/I'll see you later.							
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé i gceann leathuaire tú.	I'll see you in half an hour.							
+Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé i gceann uair an chloig tú.	I'll see you in an hour.							
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé anocht tú.	I'll see you tonight.							
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé anocht tú mar sin.	I'll see you tonight then							
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé amárach tú.	I'll see you tomorrow.							
@@ -1163,10 +1170,10 @@ Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé tráthnóna tú.
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé ar maidin tú.	I'll see you in the morning.							
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé i gceann cúpla lá tú.	I'll see you in a few days' time.							
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé ar an tseachtain seo chugainn tú.	I'll see you next week.							
+Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé an mhí seo chugainn tú.	I'll see you next month.							
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé i gceann seachtaine tú.	I'll see you in a week's time.							
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé i gceann coicíse tú.	I'll see you in a fortnight's time.							
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé i gceann míosa tú.	I'll see you in a month's time.							
-Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé an mhí seo chugainn tú.	I'll see you next month.							
 Now You’re Talking	12	Taking your leave		PHRASE		Chífidh mé ag a trí a chlog tú.	I'll see you at three o clock.							
 Now You’re Talking	12	Taking your leave		PHRASE		I gceann míosa?	in a month?							
 Now You’re Talking	12	Taking your leave		PHRASE		Go dtí an Fhrainc	to France							
