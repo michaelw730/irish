@@ -548,12 +548,17 @@ Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	uisce	water
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	beoir	beer					byor		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon bán	white wine					fee-in baan		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon dearg	red wine							
+Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon súilíneach	sparkling wine							
+Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon géal	bright (white) wine							
+Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon bandearg	pink (rosé) wine							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	uisce beatha	whiskey					ishka beh-ha		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	sceallógaí	chips							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	briosca	a biscuit					briska		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	bágún	bacon					baa-gun		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	pota tae	a pot of tea							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	gloine uisce	a glass of water							
+Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	gloine fíon	a glass of wine							
+Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	gloine gin	a glass of gin							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	pionta beorach	a pint of beer							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	cupa tae	cup of tea							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	tae le bainne	tea with milk							
@@ -728,7 +733,7 @@ Now You're Talking	8	DISCUSSING JOBS		WORD		garraí	garden					gary
 Now You're Talking	8	DISCUSSING JOBS		TEMPLATE		Is $JOB mé.	I'm a $JOB	Repeat for other pronouns é/í and person's name						
 Now You're Talking	8	DISCUSSING JOBS		TEMPLATE		$JOB atá ionam	I'm a $JOB					.. atá unam		
 Now You're Talking	8	DISCUSSING JOBS		QUESTION		Cad é an post atá agat?	What job do you do?				Where are you working?			
-Now You're Talking	8	DISCUSSING JOBS		QUESTION		Cad é an tslí bheatha atá agat?	What do you do for a living?					cadj ay an tshlee veha ataa agat		
+Now You're Talking	8	DISCUSSING JOBS		QUESTION		Cad é an tslí bheatha atá agat?	What do you do for a living?				way of life	cadj ay an tshlee veha ataa agat		
 Now You're Talking	8	DISCUSSING JOBS		QUESTION		Cad é an post atá ag Michael?	What job does Michael have?							
 Now You're Talking	8	DISCUSSING JOBS		QUESTION		Cá bhfuil tú ag obair?	Where do you work?							
 Now You're Talking	8	DISCUSSING JOBS		QUESTION		Cá bhfuil tusa ag obair?	Where do *you* work?							
@@ -748,8 +753,9 @@ Now You're Talking	8	DISCUSSING JOBS		WORD	IN_WORKPLACE	i dteach tábhairne	in a
 Now You're Talking	8	DISCUSSING JOBS		WORD	IN_WORKPLACE	i ngarraí	in a garden					in narry		
 Now You're Talking	8	DISCUSSING JOBS		WORD		stáisiún peitril	petrol station					stashon petrol		
 Now You're Talking	8	DISCUSSING JOBS		TEMPLATE		Tá mé ag obair $IN_WORKPLACE	I work $IN_WORKPLACE							
-Now You're Talking	8	DISCUSSING JOBS		TEMPLATE		Bhí mé ag obair $IN_WORKPLACE	I worked $IN_WORKPLACE							
-Now You're Talking	8	DISCUSSING JOBS		TEMPLATE		Tá mé ag obair $IN_WORKPLACE i mBeal Feirste	I work $IN_WORKPLACE in Belfast							
+Now You're Talking	8	DISCUSSING JOBS		TEMPLATE		Bhí mé ag obair $IN_WORKPLACE	I worked $IN_WORKPLACE							Past
+Now You're Talking	8	DISCUSSING JOBS		TEMPLATE		Tá mé ag obair $IN_WORKPLACE i mBeal Feirste	I work $IN_WORKPLACE in Belfast							Present
+Now You're Talking	8	DISCUSSING JOBS		TEMPLATE		Beidh mé ag obair $IN_WORKPLACE i mBeal Feirste	I will work $IN_WORKPLACE in Belfast							Future
 Now You're Talking	8	DISCUSSING JOBS		SENTENCE		tá mé neirbhíseach	i am nervous					taa may nervishoch		
 Now You're Talking	8	DISCUSSING JOBS		WORD	SHOP_TYPE	siopa bróg	shoe shop							
 Now You're Talking	8	DISCUSSING JOBS		WORD	SHOP_TYPE	siopa leabhar	bookshop					ta shopa loar agam		
@@ -2754,5 +2760,6 @@ Other	1	Places			IN_PLACE	I nGaoth Dobhair	in Gweedore
 Other	1	Places			IN_PLACE	I mBaile Átha Cliath	in Dublin							
 Other	1	Places			IN_PLACE	I gCorcaigh	in Cork							
 Other	1	Places			IN_PLACE	I nDoire	in Derry							
+Other	1	Places			IN_PLACE	I nDún na nGall								
 Other	1	Places			COUNTRIES	an Ghearmáin	Germany							
 Other	1	Places			COUNTRIES	an Fhrainc	France							

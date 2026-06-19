@@ -1008,12 +1008,17 @@ Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	uisce	water
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	beoir	beer					byor		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon bán	white wine					fee-in baan		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon dearg	red wine							
+Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon súilíneach	sparkling wine							
+Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon géal	bright (white) wine							
+Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon bandearg	pink (rosé) wine							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	uisce beatha	whiskey					ishka beh-ha		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	sceallógaí	chips							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	briosca	a biscuit					briska		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	bágún	bacon					baa-gun		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	pota tae	a pot of tea							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	gloine uisce	a glass of water							
+Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	gloine fíon	a glass of wine							
+Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	gloine gin	a glass of gin							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	pionta beorach	a pint of beer							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	cupa tae	cup of tea							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	tae le bainne	tea with milk							
@@ -1042,12 +1047,17 @@ Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom uisce	I'd like wat
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom beoir	I'd like beer							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom fíon bán	I'd like white wine							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom fíon dearg	I'd like red wine							
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom fíon súilíneach	I'd like sparkling wine							
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom fíon géal	I'd like bright (white) wine							
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom fíon bandearg	I'd like pink (rosé) wine							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom uisce beatha	I'd like whiskey							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom sceallógaí	I'd like chips							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom briosca	I'd like a biscuit							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom bágún	I'd like bacon							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom pota tae	I'd like a pot of tea							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom gloine uisce	I'd like a glass of water							
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom gloine fíon	I'd like a glass of wine							
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom gloine gin	I'd like a glass of gin							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom pionta beorach	I'd like a pint of beer							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom cupa tae	I'd like cup of tea							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ba mhaith liom tae le bainne	I'd like tea with milk							
@@ -1071,12 +1081,17 @@ Now You're Talking	6	ORDERING DRINKS		DYNAMIC		uisce domhsa.	water for me.
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		beoir domhsa.	beer for me.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		fíon bán domhsa.	white wine for me.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		fíon dearg domhsa.	red wine for me.							
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		fíon súilíneach domhsa.	sparkling wine for me.							
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		fíon géal domhsa.	bright (white) wine for me.							
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		fíon bandearg domhsa.	pink (rosé) wine for me.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		uisce beatha domhsa.	whiskey for me.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		sceallógaí domhsa.	chips for me.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		briosca domhsa.	a biscuit for me.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		bágún domhsa.	bacon for me.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		pota tae domhsa.	a pot of tea for me.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		gloine uisce domhsa.	a glass of water for me.							
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		gloine fíon domhsa.	a glass of wine for me.							
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		gloine gin domhsa.	a glass of gin for me.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		pionta beorach domhsa.	a pint of beer for me.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		cupa tae domhsa.	cup of tea for me.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		tae le bainne domhsa.	tea with milk for me.							
@@ -1109,12 +1124,17 @@ Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat uisce?	Would you l
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat beoir?	Would you like beer?		s					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat fíon bán?	Would you like white wine?		s					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat fíon dearg?	Would you like red wine?		s					
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat fíon súilíneach?	Would you like sparkling wine?		s					
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat fíon géal?	Would you like bright (white) wine?		s					
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat fíon bandearg?	Would you like pink (rosé) wine?		s					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat uisce beatha?	Would you like whiskey?		s					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat sceallógaí?	Would you like chips?		s					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat briosca?	Would you like a biscuit?		s					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat bágún?	Would you like bacon?		s					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat pota tae?	Would you like a pot of tea?		s					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat gloine uisce?	Would you like a glass of water?		s					
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat gloine fíon?	Would you like a glass of wine?		s					
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat gloine gin?	Would you like a glass of gin?		s					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat pionta beorach?	Would you like a pint of beer?		s					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat cupa tae?	Would you like cup of tea?		s					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith leat tae le bainne?	Would you like tea with milk?		s					
@@ -1137,12 +1157,17 @@ Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh uisce?	Would you l
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh beoir?	Would you like beer?		p					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh fíon bán?	Would you like white wine?		p					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh fíon dearg?	Would you like red wine?		p					
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh fíon súilíneach?	Would you like sparkling wine?		p					
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh fíon géal?	Would you like bright (white) wine?		p					
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh fíon bandearg?	Would you like pink (rosé) wine?		p					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh uisce beatha?	Would you like whiskey?		p					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh sceallógaí?	Would you like chips?		p					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh briosca?	Would you like a biscuit?		p					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh bágún?	Would you like bacon?		p					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh pota tae?	Would you like a pot of tea?		p					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh gloine uisce?	Would you like a glass of water?		p					
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh gloine fíon?	Would you like a glass of wine?		p					
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh gloine gin?	Would you like a glass of gin?		p					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh pionta beorach?	Would you like a pint of beer?		p					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh cupa tae?	Would you like cup of tea?		p					
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh tae le bainne?	Would you like tea with milk?		p					
@@ -1168,12 +1193,17 @@ Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom uisce	I'd prefer wa
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom beoir	I'd prefer beer					Bear liom glinye ish-ke		
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom fíon bán	I'd prefer white wine					Bear liom glinye ish-ke		
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom fíon dearg	I'd prefer red wine					Bear liom glinye ish-ke		
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom fíon súilíneach	I'd prefer sparkling wine					Bear liom glinye ish-ke		
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom fíon géal	I'd prefer bright (white) wine					Bear liom glinye ish-ke		
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom fíon bandearg	I'd prefer pink (rosé) wine					Bear liom glinye ish-ke		
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom uisce beatha	I'd prefer whiskey					Bear liom glinye ish-ke		
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom sceallógaí	I'd prefer chips					Bear liom glinye ish-ke		
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom briosca	I'd prefer a biscuit					Bear liom glinye ish-ke		
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom bágún	I'd prefer bacon					Bear liom glinye ish-ke		
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom pota tae	I'd prefer a pot of tea					Bear liom glinye ish-ke		
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom gloine uisce	I'd prefer a glass of water					Bear liom glinye ish-ke		
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom gloine fíon	I'd prefer a glass of wine					Bear liom glinye ish-ke		
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom gloine gin	I'd prefer a glass of gin					Bear liom glinye ish-ke		
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom pionta beorach	I'd prefer a pint of beer					Bear liom glinye ish-ke		
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom cupa tae	I'd prefer cup of tea					Bear liom glinye ish-ke		
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom tae le bainne	I'd prefer tea with milk					Bear liom glinye ish-ke		
@@ -1198,12 +1228,17 @@ Now You're Talking	6	ORDERING DRINKS		DYNAMIC		uisce duitse.	water for you.
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		beoir duitse.	beer for you.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		fíon bán duitse.	white wine for you.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		fíon dearg duitse.	red wine for you.							
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		fíon súilíneach duitse.	sparkling wine for you.							
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		fíon géal duitse.	bright (white) wine for you.							
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		fíon bandearg duitse.	pink (rosé) wine for you.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		uisce beatha duitse.	whiskey for you.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		sceallógaí duitse.	chips for you.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		briosca duitse.	a biscuit for you.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		bágún duitse.	bacon for you.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		pota tae duitse.	a pot of tea for you.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		gloine uisce duitse.	a glass of water for you.							
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		gloine fíon duitse.	a glass of wine for you.							
+Now You're Talking	6	ORDERING DRINKS		DYNAMIC		gloine gin duitse.	a glass of gin for you.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		pionta beorach duitse.	a pint of beer for you.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		cupa tae duitse.	cup of tea for you.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		tae le bainne duitse.	tea with milk for you.							
@@ -1474,7 +1509,7 @@ Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		aisteoir atá ionam	I'm a actor		
 Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		múinteoir bunscoile atá ionam	I'm a primary school teacher					.. atá unam		
 Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		múinteoir meánscoile atá ionam	I'm a secondary school teacher					.. atá unam		
 Now You're Talking	8	DISCUSSING JOBS		QUESTION		Cad é an post atá agat?	What job do you do?				Where are you working?			
-Now You're Talking	8	DISCUSSING JOBS		QUESTION		Cad é an tslí bheatha atá agat?	What do you do for a living?					cadj ay an tshlee veha ataa agat		
+Now You're Talking	8	DISCUSSING JOBS		QUESTION		Cad é an tslí bheatha atá agat?	What do you do for a living?				way of life	cadj ay an tshlee veha ataa agat		
 Now You're Talking	8	DISCUSSING JOBS		QUESTION		Cad é an post atá ag Michael?	What job does Michael have?							
 Now You're Talking	8	DISCUSSING JOBS		QUESTION		Cá bhfuil tú ag obair?	Where do you work?							
 Now You're Talking	8	DISCUSSING JOBS		QUESTION		Cá bhfuil tusa ag obair?	Where do *you* work?							
@@ -1508,36 +1543,51 @@ Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i ngaráiste	I w
 Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair in ollmhargadh	I work in a supermarket							
 Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i dteach tábhairne	I work in a pub							
 Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i ngarraí	I work in a garden							
-Now You're Talking	8	DISCUSSING JOBS		TEMPLATE		Bhí mé ag obair $IN_WORKPLACE	I worked $IN_WORKPLACE							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i monarcha	I worked in a factory							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair in oifig	I worked in an office							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair in scoil	I worked in a school							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i siopa	I worked in a shop							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i mbunscoil	I worked in a primary school							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i meánscoil	I worked in a secondary school							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair in otharlann	I worked in a hospital							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair in óstán	I worked in a hotel							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i gcaife	I worked in a cafe							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i mbialann	I worked in a restaurant							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i ngaráiste	I worked in a garage							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair in ollmhargadh	I worked in a supermarket							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i dteach tábhairne	I worked in a pub							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i ngarraí	I worked in a garden							
-Now You're Talking	8	DISCUSSING JOBS		TEMPLATE		Tá mé ag obair $IN_WORKPLACE i mBeal Feirste	I work $IN_WORKPLACE in Belfast							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i monarcha i mBeal Feirste	I work in a factory in Belfast							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair in oifig i mBeal Feirste	I work in an office in Belfast							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair in scoil i mBeal Feirste	I work in a school in Belfast							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i siopa i mBeal Feirste	I work in a shop in Belfast							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i mbunscoil i mBeal Feirste	I work in a primary school in Belfast							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i meánscoil i mBeal Feirste	I work in a secondary school in Belfast							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair in otharlann i mBeal Feirste	I work in a hospital in Belfast							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair in óstán i mBeal Feirste	I work in a hotel in Belfast							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i gcaife i mBeal Feirste	I work in a cafe in Belfast							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i mbialann i mBeal Feirste	I work in a restaurant in Belfast							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i ngaráiste i mBeal Feirste	I work in a garage in Belfast							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair in ollmhargadh i mBeal Feirste	I work in a supermarket in Belfast							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i dteach tábhairne i mBeal Feirste	I work in a pub in Belfast							
-Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i ngarraí i mBeal Feirste	I work in a garden in Belfast							
+Now You're Talking	8	DISCUSSING JOBS		TEMPLATE		Bhí mé ag obair $IN_WORKPLACE	I worked $IN_WORKPLACE							Past
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i monarcha	I worked in a factory							Past
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair in oifig	I worked in an office							Past
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair in scoil	I worked in a school							Past
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i siopa	I worked in a shop							Past
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i mbunscoil	I worked in a primary school							Past
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i meánscoil	I worked in a secondary school							Past
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair in otharlann	I worked in a hospital							Past
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair in óstán	I worked in a hotel							Past
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i gcaife	I worked in a cafe							Past
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i mbialann	I worked in a restaurant							Past
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i ngaráiste	I worked in a garage							Past
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair in ollmhargadh	I worked in a supermarket							Past
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i dteach tábhairne	I worked in a pub							Past
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Bhí mé ag obair i ngarraí	I worked in a garden							Past
+Now You're Talking	8	DISCUSSING JOBS		TEMPLATE		Tá mé ag obair $IN_WORKPLACE i mBeal Feirste	I work $IN_WORKPLACE in Belfast							Present
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i monarcha i mBeal Feirste	I work in a factory in Belfast							Present
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair in oifig i mBeal Feirste	I work in an office in Belfast							Present
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair in scoil i mBeal Feirste	I work in a school in Belfast							Present
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i siopa i mBeal Feirste	I work in a shop in Belfast							Present
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i mbunscoil i mBeal Feirste	I work in a primary school in Belfast							Present
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i meánscoil i mBeal Feirste	I work in a secondary school in Belfast							Present
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair in otharlann i mBeal Feirste	I work in a hospital in Belfast							Present
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair in óstán i mBeal Feirste	I work in a hotel in Belfast							Present
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i gcaife i mBeal Feirste	I work in a cafe in Belfast							Present
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i mbialann i mBeal Feirste	I work in a restaurant in Belfast							Present
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i ngaráiste i mBeal Feirste	I work in a garage in Belfast							Present
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair in ollmhargadh i mBeal Feirste	I work in a supermarket in Belfast							Present
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i dteach tábhairne i mBeal Feirste	I work in a pub in Belfast							Present
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Tá mé ag obair i ngarraí i mBeal Feirste	I work in a garden in Belfast							Present
+Now You're Talking	8	DISCUSSING JOBS		TEMPLATE		Beidh mé ag obair $IN_WORKPLACE i mBeal Feirste	I will work $IN_WORKPLACE in Belfast							Future
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Beidh mé ag obair i monarcha i mBeal Feirste	I will work in a factory in Belfast							Future
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Beidh mé ag obair in oifig i mBeal Feirste	I will work in an office in Belfast							Future
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Beidh mé ag obair in scoil i mBeal Feirste	I will work in a school in Belfast							Future
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Beidh mé ag obair i siopa i mBeal Feirste	I will work in a shop in Belfast							Future
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Beidh mé ag obair i mbunscoil i mBeal Feirste	I will work in a primary school in Belfast							Future
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Beidh mé ag obair i meánscoil i mBeal Feirste	I will work in a secondary school in Belfast							Future
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Beidh mé ag obair in otharlann i mBeal Feirste	I will work in a hospital in Belfast							Future
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Beidh mé ag obair in óstán i mBeal Feirste	I will work in a hotel in Belfast							Future
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Beidh mé ag obair i gcaife i mBeal Feirste	I will work in a cafe in Belfast							Future
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Beidh mé ag obair i mbialann i mBeal Feirste	I will work in a restaurant in Belfast							Future
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Beidh mé ag obair i ngaráiste i mBeal Feirste	I will work in a garage in Belfast							Future
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Beidh mé ag obair in ollmhargadh i mBeal Feirste	I will work in a supermarket in Belfast							Future
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Beidh mé ag obair i dteach tábhairne i mBeal Feirste	I will work in a pub in Belfast							Future
+Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		Beidh mé ag obair i ngarraí i mBeal Feirste	I will work in a garden in Belfast							Future
 Now You're Talking	8	DISCUSSING JOBS		SENTENCE		tá mé neirbhíseach	i am nervous					taa may nervishoch		
 Now You're Talking	8	DISCUSSING JOBS		WORD	SHOP_TYPE	siopa bróg	shoe shop							
 Now You're Talking	8	DISCUSSING JOBS		WORD	SHOP_TYPE	siopa leabhar	bookshop					ta shopa loar agam		
@@ -3946,5 +3996,6 @@ Other	1	Places			IN_PLACE	I nGaoth Dobhair	in Gweedore
 Other	1	Places			IN_PLACE	I mBaile Átha Cliath	in Dublin							
 Other	1	Places			IN_PLACE	I gCorcaigh	in Cork							
 Other	1	Places			IN_PLACE	I nDoire	in Derry							
+Other	1	Places			IN_PLACE	I nDún na nGall								
 Other	1	Places			COUNTRIES	an Ghearmáin	Germany							
 Other	1	Places			COUNTRIES	an Fhrainc	France							
