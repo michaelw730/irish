@@ -688,6 +688,7 @@ Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		seacht n-uaire	seven hours
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		hocht n-uaire	eight hours							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		naoi n-uaire	nine hours							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		deich n-uaire	ten hours							
+Now You're Talking	8	SAYING WHERE YOU'RE GOING		WORD		chóir a bheith	almost							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		TEMPLATE		Tá sé chóir a bheith $HOUR_O_CLOCK	It's almost $HOUR_O_CLOCK					Taw shay hor a veh $HOUR_O_CLOCK		
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		TEMPLATE		Tá sé chóir a bheith leath i ndiaidh $HOUR_O_CLOCK	It's almost half past $HOUR_O_CLOCK					Taw shay hor a veh la in nyay $HOUR_O_CLOCK		
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		TEMPLATE		Tá sé chóir a bheith ceathrú go dtí $HOUR_O_CLOCK	It's almost quarter to $HOUR_O_CLOCK					Taw shay hor a veh cahru go gee $HOUR_O_CLOCK		
@@ -1187,7 +1188,7 @@ Now You're Talking	12	Taking your leave		WORD		árasán	flat
 Now You're Talking	12	Taking your leave		WORD		ag m'árasán	at my flat							
 Now You're Talking	12	Taking your leave		PHRASE		cé hí an bhean seo mar sin?	Who is this woman then?							
 Now You're Talking	13	Family2				tuismitheoirí	parents							
-Now You're Talking	13	Family2				dheartháireacha	brothers??							
+Now You're Talking	13	Family2				deartháireacha	brothers							
 Now You're Talking	13	Family2				deirfiúracha	sisters							
 Now You're Talking	13	Family2				seanathair	grandfather							
 Now You're Talking	13	Family2				athair mór	grandfather							
@@ -1203,30 +1204,28 @@ Now You're Talking	13	Family2				leasdeirfiúr	stepsister
 Now You're Talking	13	Family2				leasdeartháir	stepbrother							
 Now You're Talking	13	Family2				neacht	niece							
 Now You're Talking	13	Family2				nia	nephew							
-Now You're Talking	13	Family2				Seo ...	This is ...??							
-Now You're Talking	13	Family2				Sin ...	They are ...??							
-Now You're Talking	13	Family2				m'athair mór	my grandfather							
-Now You're Talking	13	Family2				mo mháthair mhór	my grandmother							
-Now You're Talking	13	Family2				mo deartháireacha	my brothers							
-Now You're Talking	13	Family2				mo chuid deartháireacha	my brothers							
-Now You're Talking	13	Family2				mo deirfiúracha	my sisters							
-Now You're Talking	13	Family2				mo chuid deirfiúracha	my sisters							
-Now You're Talking	13	Family2				m'uncail	my uncle							
-Now You're Talking	13	Family2				m'aintín	my aunt							
-Now You're Talking	13	Family2				mo chuid col ceathracha	my cousins							
-Now You're Talking	13	Family2				m'fhear céile	my husband							
-Now You're Talking	13	Family2				mo bhean chéile	my wife							
-Now You're Talking	13	Family2				mo chuid airgid	my money							
-Now You're Talking	13	Family2				mo chuid gruaige	my hair							
-Now You're Talking	13	Family2				mo chuid deirfiúracha	my sisters							
-Now You're Talking	13	Family2				mo chuid col ceathracha	my cousins							
+Now You're Talking	13	Family2		PHRASE	MY_CLOSE_FAMILY1	m'athair mór	my grandfather							
+Now You're Talking	13	Family2		PHRASE	MY_CLOSE_FAMILY1	mo mháthair mhór	my grandmother							
+Now You're Talking	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid deartháireacha	my brothers							
+Now You're Talking	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid deirfiúracha	my sisters							
+Now You're Talking	13	Family2		PHRASE	MY_CLOSE_FAMILY1	m'uncail	my uncle							
+Now You're Talking	13	Family2		PHRASE	MY_CLOSE_FAMILY1	m'aintín	my aunt							
+Now You're Talking	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid col ceathracha	my cousins							
+Now You're Talking	13	Family2		PHRASE	MY_CLOSE_FAMILY1	m'fhear céile	my husband							
+Now You're Talking	13	Family2		PHRASE	MY_CLOSE_FAMILY1	mo bhean chéile	my wife							
+Now You're Talking	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid airgid	my money							
+Now You're Talking	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid gruaige	my hair							
+Now You're Talking	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid deirfiúracha	my sisters							
+Now You're Talking	13	Family2		DYNAMIC		Seo $MY_CLOSE_FAMILY1	This is  $MY_CLOSE_FAMILY1							
+Now You're Talking	13	Family2		DYNAMIC		Seo $MY_CLOSE_FAMILY2	These are $MY_CLOSE_FAMILY2							
+Now You're Talking	13	Family2		DYNAMIC		Sin $MY_CLOSE_FAMILY2	They are $MY_CLOSE_FAMILY2							
 Now You're Talking	13	Family2				Is muidne* ...	We're ...							*In Ulster Irish this word usually has three syllables in everyday speech: muid-in-ne.
 Now You're Talking	13	Family2				Is muidne deirfiúracha John.	We're John's sisters.							
 Now You're Talking	13	Family2				Is muidne deartháireacha Laura.	We're Laura's brothers.							
 Now You're Talking	13	Family2				Cad é an aois atá tú?	What age are you?							
 Now You're Talking	13	Family2				Cen aois atá tú?	What age are you?							
 Now You're Talking	13	Family2				Cad é an aois atá sé?	What age is he?							
-Now You're Talking	13	Family2				AOIS	AGE							
+Now You're Talking	13	Family2				aois	age							
 Now You're Talking	13	Family2				bliain (d'aois)	one year (old)							
 Now You're Talking	13	Family2				dhá bhliain	two years							
 Now You're Talking	13	Family2				trí bliana	three years							
@@ -1237,7 +1236,7 @@ Now You're Talking	13	Family2				seacht mbliana	seven years
 Now You're Talking	13	Family2				ocht mbliana	eight years							
 Now You're Talking	13	Family2				naoi mbliana	nine years							
 Now You're Talking	13	Family2				deich mbliana	ten years							
-Now You're Talking	13	Family2				aon bhliain amhain	1 YEAR							
+Now You're Talking	13	Family2				aon bhliain (amhain)	1 YEAR only							
 Now You're Talking	13	Family2				dhá bhliain	2 YEARS							
 Now You're Talking	13	Family2				trí bliana	3 YEARS							
 Now You're Talking	13	Family2				ceithre bliana	4 YEARS							
