@@ -2402,7 +2402,7 @@
 | Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chuig cruinniú. | I'm going to a meeting. |  |  |  |  |  |  |  |
 | Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Fan tamall beag eile! | Stay a little while longer! |  |  |  |  |  |  |  |
 | Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chuig ceolchoirm ag a naoi a chlog | I’m going to a concert at nine o clock |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí $HOUR_O_CLOCK | Stay until $HOUR_O_CLOCK |  |  |  |  |  |  |  |
+| Now You're Talking | 12 | Taking your leave |  | TEMPLATE |  | Fan go dtí $HOUR_O_CLOCK | Stay until $HOUR_O_CLOCK |  |  |  |  |  |  |  |
 | Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a haon a chlog | Stay until 1 o'clock |  |  |  |  |  |  |  |
 | Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a dó a chlog | Stay until 2 o'clock |  |  |  |  |  |  |  |
 | Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a trí a chlog | Stay until 3 o'clock |  |  |  |  |  |  |  |
@@ -2447,7 +2447,7 @@
 | Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann seachtaine tú. | I'll see you in a week's time. |  |  |  |  |  |  |  |
 | Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann coicíse tú. | I'll see you in a fortnight's time. |  |  |  |  |  |  |  |
 | Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann míosa tú. | I'll see you in a month's time. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé $DAYS_OF_WEEK tú. | I'll see you $DAYS_OF_WEEK. |  |  |  |  |  |  |  |
+| Now You're Talking | 12 | Taking your leave |  | TEMPLATE |  | Chífidh mé $DAYS_OF_WEEK tú. | I'll see you $DAYS_OF_WEEK. |  |  |  |  |  |  |  |
 | Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Dé Luain tú. | I'll see you Monday. |  |  |  |  |  |  |  |
 | Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Dé Máirt tú. | I'll see you Tuesday. |  |  |  |  |  |  |  |
 | Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Dé Céadaoin tú. | I'll see you Wednesday. |  |  |  |  |  |  |  |
@@ -2510,21 +2510,21 @@
 | Now You're Talking | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid airgid | my money |  |  |  |  |  |  |  |
 | Now You're Talking | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid gruaige | my hair |  |  |  |  |  |  |  |
 | Now You're Talking | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid deirfiúracha | my sisters |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo $MY_CLOSE_FAMILY1 | This is  $MY_CLOSE_FAMILY1 |  |  |  |  |  |  |  |
+| Now You're Talking | 13 | Family2 |  | TEMPLATE |  | Seo $MY_CLOSE_FAMILY1 | This is  $MY_CLOSE_FAMILY1 |  |  |  |  |  |  |  |
 | Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo m'athair mór | This is  my grandfather |  |  |  |  |  |  |  |
 | Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo mo mháthair mhór | This is  my grandmother |  |  |  |  |  |  |  |
 | Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo m'uncail | This is  my uncle |  |  |  |  |  |  |  |
 | Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo m'aintín | This is  my aunt |  |  |  |  |  |  |  |
 | Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo m'fhear céile | This is  my husband |  |  |  |  |  |  |  |
 | Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo mo bhean chéile | This is  my wife |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo $MY_CLOSE_FAMILY2 | These are $MY_CLOSE_FAMILY2 |  |  |  |  |  |  |  |
+| Now You're Talking | 13 | Family2 |  | TEMPLATE |  | Seo $MY_CLOSE_FAMILY2 | These are $MY_CLOSE_FAMILY2 |  |  |  |  |  |  |  |
 | Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid deartháireacha | These are my brothers |  |  |  |  |  |  |  |
 | Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid deirfiúracha | These are my sisters |  |  |  |  |  |  |  |
 | Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid col ceathracha | These are my cousins |  |  |  |  |  |  |  |
 | Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid airgid | These are my money |  |  |  |  |  |  |  |
 | Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid gruaige | These are my hair |  |  |  |  |  |  |  |
 | Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid deirfiúracha | These are my sisters |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Sin $MY_CLOSE_FAMILY2 | They are $MY_CLOSE_FAMILY2 |  |  |  |  |  |  |  |
+| Now You're Talking | 13 | Family2 |  | TEMPLATE |  | Sin $MY_CLOSE_FAMILY2 | They are $MY_CLOSE_FAMILY2 |  |  |  |  |  |  |  |
 | Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Sin mo chuid deartháireacha | They are my brothers |  |  |  |  |  |  |  |
 | Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Sin mo chuid deirfiúracha | They are my sisters |  |  |  |  |  |  |  |
 | Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Sin mo chuid col ceathracha | They are my cousins |  |  |  |  |  |  |  |

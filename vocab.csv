@@ -1151,7 +1151,7 @@ Now You're Talking	12	Taking your leave		PHRASE		Tá mé ag súil le cuairteoir�
 Now You're Talking	12	Taking your leave		PHRASE		Tá mé ag dul chuig cruinniú.	I'm going to a meeting.							
 Now You're Talking	12	Taking your leave		PHRASE		Fan tamall beag eile!	Stay a little while longer!							
 Now You're Talking	12	Taking your leave		PHRASE		Tá mé ag dul chuig ceolchoirm ag a naoi a chlog	I’m going to a concert at nine o clock							
-Now You're Talking	12	Taking your leave		DYNAMIC		Fan go dtí $HOUR_O_CLOCK	Stay until $HOUR_O_CLOCK							
+Now You're Talking	12	Taking your leave		TEMPLATE		Fan go dtí $HOUR_O_CLOCK	Stay until $HOUR_O_CLOCK							
 Now You're Talking	12	Taking your leave		PHRASE		Fan leathuair eile.	Stay another half an hour.							
 Now You're Talking	12	Taking your leave		PHRASE		Fan uair an chloig eile.	Stay another hour.							
 Now You're Talking	12	Taking your leave		PHRASE		Ní thig liom.	I can't.							
@@ -1184,7 +1184,7 @@ Now You're Talking	12	Taking your leave		PHRASE		Chífidh mé an mhí seo chugai
 Now You're Talking	12	Taking your leave		PHRASE		Chífidh mé i gceann seachtaine tú.	I'll see you in a week's time.							
 Now You're Talking	12	Taking your leave		PHRASE		Chífidh mé i gceann coicíse tú.	I'll see you in a fortnight's time.							
 Now You're Talking	12	Taking your leave		PHRASE		Chífidh mé i gceann míosa tú.	I'll see you in a month's time.							
-Now You're Talking	12	Taking your leave		DYNAMIC		Chífidh mé $DAYS_OF_WEEK tú.	I'll see you $DAYS_OF_WEEK.							
+Now You're Talking	12	Taking your leave		TEMPLATE		Chífidh mé $DAYS_OF_WEEK tú.	I'll see you $DAYS_OF_WEEK.							
 Now You're Talking	12	Taking your leave		PHRASE		Chífidh mé ag $HOUR_O_CLOCK tú.	I'll see you at $HOUR_O_CLOCK.							
 Now You're Talking	12	Taking your leave		PHRASE		I gceann míosa?	in a month?							
 Now You're Talking	12	Taking your leave		PHRASE		Go dtí an Fhrainc	to France							
@@ -1223,9 +1223,9 @@ Now You're Talking	13	Family2		PHRASE	MY_CLOSE_FAMILY1	mo bhean chéile	my wife
 Now You're Talking	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid airgid	my money							
 Now You're Talking	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid gruaige	my hair							
 Now You're Talking	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid deirfiúracha	my sisters							
-Now You're Talking	13	Family2		DYNAMIC		Seo $MY_CLOSE_FAMILY1	This is  $MY_CLOSE_FAMILY1							
-Now You're Talking	13	Family2		DYNAMIC		Seo $MY_CLOSE_FAMILY2	These are $MY_CLOSE_FAMILY2							
-Now You're Talking	13	Family2		DYNAMIC		Sin $MY_CLOSE_FAMILY2	They are $MY_CLOSE_FAMILY2							
+Now You're Talking	13	Family2		TEMPLATE		Seo $MY_CLOSE_FAMILY1	This is  $MY_CLOSE_FAMILY1							
+Now You're Talking	13	Family2		TEMPLATE		Seo $MY_CLOSE_FAMILY2	These are $MY_CLOSE_FAMILY2							
+Now You're Talking	13	Family2		TEMPLATE		Sin $MY_CLOSE_FAMILY2	They are $MY_CLOSE_FAMILY2							
 Now You're Talking	13	Family2				Is muidne* ...	We're ...							*In Ulster Irish this word usually has three syllables in everyday speech: muid-in-ne.
 Now You're Talking	13	Family2				Is muidne deirfiúracha John.	We're John's sisters.							
 Now You're Talking	13	Family2				Is muidne deartháireacha Laura.	We're Laura's brothers.							
