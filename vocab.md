@@ -288,8 +288,8 @@
 | Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Níl maith. | I do not like. |  |  |  |  |  |  | Shorter and acceptable |
 | Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | seoladh | address |  |  |  |  | shaw-loo |  |  |
 | Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cad é an seoladh atá agat? | What's your address? |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | breithe | birth |  |  |  |  | eh-tch vrey-ha |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | Aít | place |  |  |  |  | eh-tch vrey-ha |  |  |
+| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | breithe | birth |  |  |  |  | Eh-tch |  |  |
+| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | Aít | place |  |  |  |  | brey-ha |  |  |
 | Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | Aít bhreithe | place of birth |  |  |  |  | eh-tch vrey-ha |  |  |
 | Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | cá bhfuil tú i do áit bhreithe? | where is your place of birth? |  |  |  |  |  |  |  |
 | Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Is as Ard Mhacha **ó dhúchas** mé, ach tá mé i mo chónaí i mBeal Feirste anois. | I'm originally from Armagh, but I live in Belfast now. |  |  |  |  | As Ard Whacha **oh huhas** meh, ack taw may i mo hoaney in mel ferste anish |  |  |
@@ -698,7 +698,8 @@
 | Now You're Talking | 4 | Discussing Languages | Counting things |  |  | cóta | coat |  |  |  |  |  |  |  |
 | Now You're Talking | 4 | Discussing Languages | Counting things |  |  | naoi gcóta | nine coats |  |  |  |  |  |  |  |
 | Now You're Talking | 4 | Discussing Languages | Counting things |  |  | geansaí | jumper |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | deich ngeansaí | nine jumpers |  |  |  |  |  |  |  |
+| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | nine ngeansaí | nine jumpers |  |  |  |  |  |  |  |
+| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | deich ngeansaí | ten jumpers |  |  |  |  |  |  |  |
 
 ## Now You're Talking - Expressing Opinions
 
