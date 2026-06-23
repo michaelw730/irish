@@ -1064,10 +1064,10 @@
 | Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | úll | apple |  |  |  |  |  |  |  |
 | Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | cuidiú | help |  |  |  |  | coodjoo |  |  |
 | Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT2 | phionta | pint |  |  |  |  | pinta |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é ba mhaith leat? | What would you like? |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é ba mhaith leatsa? | What would *you* like? |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é ba mhaith libh? | What would you like? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é atá de dhíth ort? | What do you want? |  |  |  |  |  |  | You can use the following when addressing a friend or family member: |
+| Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é ba mhaith leat? | What would you like? |  | s |  |  |  |  |  |
+| Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é ba mhaith leatsa? | What would *you* like? |  | s |  |  |  |  |  |
+| Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é ba mhaith libh? | What would you like? |  | p |  |  |  |  |  |
+| Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é atá de dhíth ort? | What do you want? |  | s |  |  |  |  | You can use the following when addressing a friend or family member: |
 | Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é atá de dhíth oraibh? | What do you want?  |  | p |  |  |  |  | You can use the following when addressing a friend or family member: |
 | Now You're Talking | 6 | ORDERING DRINKS |  | TEMPLATE |  | Ba mhaith liom $WHAT_YOU_WANT | I'd like $WHAT_YOU_WANT |  |  |  |  |  |  |  |
 | Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom deoch | I'd like drink |  |  |  |  |  |  |  |
