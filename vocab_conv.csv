@@ -194,10 +194,10 @@ Now You're Talking	2	Introductions		SENTENCE		>$SURNAME an sloinne atá orm.	My 
 Now You're Talking	2	Introductions		QUESTION		C'ainm atá ort?	What's your name?	Try other on prep pronouns – orm/ort/air/uirthi/orainn/oraibh/orthu						
 Now You're Talking	2	Introductions		QUESTION		C'ainm atá ortsa?	What's *your* name?							
 Now You're Talking	2	Introductions		SENTENCE		>$NAME	>$NAME							Usually just the surname
-Now You're Talking	2	Introductions		QUESTION		Cé seo?	Who's this?				s			
-Now You're Talking	2	Introductions		QUESTION		Cé hiad seo?	Who's this? Who are these?				p			
+Now You're Talking	2	Introductions		QUESTION		Cé seo?	Who's this?		s					
+Now You're Talking	2	Introductions		QUESTION		Cé hiad seo?	Who's this? Who are these?		p					
 Now You're Talking	2	Introductions		SENTENCE		Seo $NAME	This is $NAME							
-Now You're Talking	2	Introductions		QUESTION		Cé hiad sin?	Who are they/those?				p			
+Now You're Talking	2	Introductions		QUESTION		Cé hiad sin?	Who are they/those?		p					
 Now You're Talking	2	Introductions		QUESTION		Cé hé sin?	Who is he?							
 Now You're Talking	2	Introductions		SENTENCE		> Sin (é) $NAME.	He is $NAME.							
 Now You're Talking	2	Introductions		QUESTION		Cé mise?	Who am I?							
@@ -837,56 +837,56 @@ Now You're Talking	5	Expressing Opinions		DYNAMIC		Is fuath liom ceol clasaiceac
 Now You're Talking	5	Expressing Opinions		DYNAMIC		Is fuath liom snagcheol	I hate jazz							
 Now You're Talking	5	Expressing Opinions		DYNAMIC		Is fuath liom roc-cheol	I hate rock music							
 Now You're Talking	5	Expressing Opinions		DYNAMIC		Is fuath liom popcheol	I hate popular music							
-Now You're Talking	5	Expressing Opinions		TEMPLATE		An maith leat $THINGS_TO_LIKE?	Do you like $THINGS_TO_LIKE?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat cláracha faisnéise?	Do you like documentaries?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat cláracha spóirt?	Do you like sports programmes?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat cláracha ceoil?	Do you like music programmes?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat cláracha cainte?	Do you like talk shows?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat cláracha dúlra?	Do you like nature programmes?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat seacláid?	Do you like chocolate?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat portán?	Do you like crab?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat cáis?	Do you like cheese?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ríomhairí?	Do you like computers?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat bláthanna?	Do you like flowers?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat a dhul ag rith?	Do you like go running?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat amharc ar an teilifís?	Do you like watch television?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat éisteacht le ceol?	Do you like listen to music?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat a dhul ag snámh?	Do you like go swimming?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat a dhul chuig scannáin?	Do you like go to films?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat a dhul chuig drámaí?	Do you like go to plays?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat imirt?	Do you like play?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat leadóg a imirt?	Do you like play tennis?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ceol?	Do you like music?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ceol traidisiúnta?	Do you like traditional music?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ceol clasaiceach?	Do you like classical music?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat snagcheol?	Do you like jazz?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat roc-cheol?	Do you like rock music?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat popcheol?	Do you like popular music?				s			
-Now You're Talking	5	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE?	Do you like $THINGS_TO_LIKE?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh cláracha faisnéise?	Do you like documentaries?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh cláracha spóirt?	Do you like sports programmes?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh cláracha ceoil?	Do you like music programmes?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh cláracha cainte?	Do you like talk shows?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh cláracha dúlra?	Do you like nature programmes?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh seacláid?	Do you like chocolate?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh portán?	Do you like crab?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh cáis?	Do you like cheese?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ríomhairí?	Do you like computers?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh bláthanna?	Do you like flowers?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh a dhul ag rith?	Do you like go running?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh amharc ar an teilifís?	Do you like watch television?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh éisteacht le ceol?	Do you like listen to music?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh a dhul ag snámh?	Do you like go swimming?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh a dhul chuig scannáin?	Do you like go to films?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh a dhul chuig drámaí?	Do you like go to plays?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh imirt?	Do you like play?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh leadóg a imirt?	Do you like play tennis?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ceol?	Do you like music?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ceol traidisiúnta?	Do you like traditional music?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ceol clasaiceach?	Do you like classical music?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh snagcheol?	Do you like jazz?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh roc-cheol?	Do you like rock music?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh popcheol?	Do you like popular music?				p			
+Now You're Talking	5	Expressing Opinions		TEMPLATE		An maith leat $THINGS_TO_LIKE?	Do you like $THINGS_TO_LIKE?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat cláracha faisnéise?	Do you like documentaries?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat cláracha spóirt?	Do you like sports programmes?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat cláracha ceoil?	Do you like music programmes?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat cláracha cainte?	Do you like talk shows?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat cláracha dúlra?	Do you like nature programmes?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat seacláid?	Do you like chocolate?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat portán?	Do you like crab?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat cáis?	Do you like cheese?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ríomhairí?	Do you like computers?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat bláthanna?	Do you like flowers?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat a dhul ag rith?	Do you like go running?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat amharc ar an teilifís?	Do you like watch television?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat éisteacht le ceol?	Do you like listen to music?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat a dhul ag snámh?	Do you like go swimming?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat a dhul chuig scannáin?	Do you like go to films?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat a dhul chuig drámaí?	Do you like go to plays?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat imirt?	Do you like play?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat leadóg a imirt?	Do you like play tennis?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ceol?	Do you like music?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ceol traidisiúnta?	Do you like traditional music?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ceol clasaiceach?	Do you like classical music?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat snagcheol?	Do you like jazz?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat roc-cheol?	Do you like rock music?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat popcheol?	Do you like popular music?		s					
+Now You're Talking	5	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE?	Do you like $THINGS_TO_LIKE?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh cláracha faisnéise?	Do you like documentaries?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh cláracha spóirt?	Do you like sports programmes?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh cláracha ceoil?	Do you like music programmes?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh cláracha cainte?	Do you like talk shows?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh cláracha dúlra?	Do you like nature programmes?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh seacláid?	Do you like chocolate?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh portán?	Do you like crab?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh cáis?	Do you like cheese?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ríomhairí?	Do you like computers?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh bláthanna?	Do you like flowers?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh a dhul ag rith?	Do you like go running?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh amharc ar an teilifís?	Do you like watch television?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh éisteacht le ceol?	Do you like listen to music?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh a dhul ag snámh?	Do you like go swimming?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh a dhul chuig scannáin?	Do you like go to films?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh a dhul chuig drámaí?	Do you like go to plays?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh imirt?	Do you like play?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh leadóg a imirt?	Do you like play tennis?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ceol?	Do you like music?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ceol traidisiúnta?	Do you like traditional music?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ceol clasaiceach?	Do you like classical music?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh snagcheol?	Do you like jazz?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh roc-cheol?	Do you like rock music?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh popcheol?	Do you like popular music?		p					
 Now You're Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE_TO_DO	ag garraíodóireacht	gardening					ag garaderact		
 Now You're Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE_TO_DO	ag péinteáil	painting					ag paint-al		
 Now You're Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE_TO_DO	ag cócaireacht	cooking					ag cocker-act		
@@ -914,20 +914,20 @@ Now You're Talking	5	Expressing Opinions		DYNAMIC		Is fuath liom a bheith ag có
 Now You're Talking	5	Expressing Opinions		DYNAMIC		Is fuath liom a bheith ag iascaireacht	I hate fishing							
 Now You're Talking	5	Expressing Opinions		DYNAMIC		Is fuath liom a bheith ag léamh	I hate reading							
 Now You're Talking	5	Expressing Opinions		DYNAMIC		Is fuath liom a bheith ag siúl	I hate walking							
-Now You're Talking	5	Expressing Opinions		TEMPLATE		An maith leat $THINGS_TO_LIKE_TO_DO?	Do you like $THINGS_TO_LIKE?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ag garraíodóireacht?	Do you like THINGS_TO_LIKE?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ag péinteáil?	Do you like THINGS_TO_LIKE?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ag cócaireacht?	Do you like THINGS_TO_LIKE?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ag iascaireacht?	Do you like THINGS_TO_LIKE?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ag léamh?	Do you like THINGS_TO_LIKE?				s			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ag siúl?	Do you like THINGS_TO_LIKE?				s			
-Now You're Talking	5	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE_TO_DO?	Do you like $THINGS_TO_LIKE?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ag garraíodóireacht?	Do you like THINGS_TO_LIKE?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ag péinteáil?	Do you like THINGS_TO_LIKE?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ag cócaireacht?	Do you like THINGS_TO_LIKE?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ag iascaireacht?	Do you like THINGS_TO_LIKE?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ag léamh?	Do you like THINGS_TO_LIKE?				p			
-Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ag siúl?	Do you like THINGS_TO_LIKE?				p			
+Now You're Talking	5	Expressing Opinions		TEMPLATE		An maith leat $THINGS_TO_LIKE_TO_DO?	Do you like $THINGS_TO_LIKE_TO_DO?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ag garraíodóireacht?	Do you like gardening?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ag péinteáil?	Do you like painting?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ag cócaireacht?	Do you like cooking?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ag iascaireacht?	Do you like fishing?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ag léamh?	Do you like reading?		s					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith leat ag siúl?	Do you like walking?		s					
+Now You're Talking	5	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE_TO_DO?	Do you like $THINGS_TO_LIKE_TO_DO?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ag garraíodóireacht?	Do you like gardening?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ag péinteáil?	Do you like painting?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ag cócaireacht?	Do you like cooking?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ag iascaireacht?	Do you like fishing?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ag léamh?	Do you like reading?		p					
+Now You're Talking	5	Expressing Opinions		DYNAMIC		An maith libh ag siúl?	Do you like walking?		p					
 Now You're Talking	5	Expressing Opinions		SENTENCE		Is maith.	Yes.							
 Now You're Talking	5	Expressing Opinions		SENTENCE		Ní maith.	No.							
 Now You're Talking	5	Expressing Opinions		SENTENCE		Is breá liom é/í/iad.	I really like it.							
@@ -935,7 +935,7 @@ Now You're Talking	5	Expressing Opinions		SENTENCE		Ní maith liom ar chor ar bi
 Now You're Talking	5	Expressing Opinions		SENTENCE		Is fuath liom é/í/iad.	I hate it.							
 Now You're Talking	5	Expressing Opinions		SENTENCE		Tá sé ceart go leor.	It's all right.							
 Now You're Talking	5	Expressing Opinions		QUESTION		An maith leat é?	Do you like it?							
-Now You're Talking	5	Expressing Opinions		QUESTION		An maith leatsa é?	Do you like it?							
+Now You're Talking	5	Expressing Opinions		QUESTION		An maith leatsa é?	Do *you* like it?							
 Now You're Talking	5	Expressing Opinions		QUESTION		An maith leat féin é?	Do you like it yourself?							
 Now You're Talking	5	Expressing Opinions		SENTENCE		Is fearr liom $THINGS_TO_LIKE	I prefer $THINGS_TO_LIKE							
 Now You're Talking	5	Expressing Opinions		DYNAMIC		Is fearr liom cláracha faisnéise	I prefer documentaries							
@@ -1009,17 +1009,17 @@ Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	uisce	water
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	beoir	beer					byor		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon bán	white wine					fee-in baan		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon dearg	red wine							
-Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon súilíneach	sparkling wine							
-Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon géal	bright (white) wine							
-Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon bandearg	pink (rosé) wine							
+Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon súilíneach	sparkling wine							
+Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon géal	bright (white) wine							
+Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon bandearg	pink (rosé) wine							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	uisce beatha	whiskey					ishka beh-ha		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	sceallógaí	chips							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	briosca	a biscuit					briska		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	bágún	bacon					baa-gun		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	pota tae	a pot of tea							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	gloine uisce	a glass of water							
-Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	gloine fíon	a glass of wine							
-Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	gloine gin	a glass of gin							
+Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	gloine fíon	a glass of wine							
+Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	gloine gin	a glass of gin							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	pionta beorach	a pint of beer							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	cupa tae	cup of tea							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	tae le bainne	tea with milk							

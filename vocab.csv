@@ -148,10 +148,10 @@ Now You're Talking	2	Introductions		SENTENCE		>$SURNAME an sloinne atá orm.	My 
 Now You're Talking	2	Introductions		QUESTION		C'ainm atá ort?	What's your name?	Try other on prep pronouns – orm/ort/air/uirthi/orainn/oraibh/orthu						
 Now You're Talking	2	Introductions		QUESTION		C'ainm atá ortsa?	What's *your* name?							
 Now You're Talking	2	Introductions		SENTENCE		>$NAME	>$NAME							Usually just the surname
-Now You're Talking	2	Introductions		QUESTION		Cé seo?	Who's this?				s			
-Now You're Talking	2	Introductions		QUESTION		Cé hiad seo?	Who's this? Who are these?				p			
+Now You're Talking	2	Introductions		QUESTION		Cé seo?	Who's this?		s					
+Now You're Talking	2	Introductions		QUESTION		Cé hiad seo?	Who's this? Who are these?		p					
 Now You're Talking	2	Introductions		SENTENCE		Seo $NAME	This is $NAME							
-Now You're Talking	2	Introductions		QUESTION		Cé hiad sin?	Who are they/those?				p			
+Now You're Talking	2	Introductions		QUESTION		Cé hiad sin?	Who are they/those?		p					
 Now You're Talking	2	Introductions		QUESTION		Cé hé sin?	Who is he?							
 Now You're Talking	2	Introductions		SENTENCE		> Sin (é) $NAME.	He is $NAME.							
 Now You're Talking	2	Introductions		QUESTION		Cé mise?	Who am I?							
@@ -479,8 +479,8 @@ Now You're Talking	5	Expressing Opinions		TEMPLATE		Ní maith liom $THINGS_TO_LI
 Now You're Talking	5	Expressing Opinions		SENTENCE		Ní maith liom ar chor ar bith é.	I don't like it at all.					...ar har a bee ay		
 Now You're Talking	5	Expressing Opinions		SENTENCE		Ní maith liom ar chor ar bith iad.	I don't like them at all.					...ar har a bee ead		
 Now You're Talking	5	Expressing Opinions		TEMPLATE		Is fuath liom $THINGS_TO_LIKE	I hate $THINGS_TO_LIKE							
-Now You're Talking	5	Expressing Opinions		TEMPLATE		An maith leat $THINGS_TO_LIKE?	Do you like $THINGS_TO_LIKE?				s			
-Now You're Talking	5	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE?	Do you like $THINGS_TO_LIKE?				p			
+Now You're Talking	5	Expressing Opinions		TEMPLATE		An maith leat $THINGS_TO_LIKE?	Do you like $THINGS_TO_LIKE?		s					
+Now You're Talking	5	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE?	Do you like $THINGS_TO_LIKE?		p					
 Now You're Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE_TO_DO	ag garraíodóireacht	gardening					ag garaderact		
 Now You're Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE_TO_DO	ag péinteáil	painting					ag paint-al		
 Now You're Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE_TO_DO	ag cócaireacht	cooking					ag cocker-act		
@@ -490,8 +490,8 @@ Now You're Talking	5	Expressing Opinions		WORD	THINGS_TO_LIKE_TO_DO	ag siúl	wal
 Now You're Talking	5	Expressing Opinions		TEMPLATE		Is maith liom a bheith $THINGS_TO_LIKE_TO_DO	I like $THINGS_TO_LIKE_TO_DO							
 Now You're Talking	5	Expressing Opinions		TEMPLATE		Ní maith liom a bheith $THINGS_TO_LIKE_TO_DO	I do not like $THINGS_TO_LIKE_TO_DO							
 Now You're Talking	5	Expressing Opinions		TEMPLATE		Is fuath liom a bheith $THINGS_TO_LIKE_TO_DO	I hate $THINGS_TO_LIKE_TO_DO							
-Now You're Talking	5	Expressing Opinions		TEMPLATE		An maith leat $THINGS_TO_LIKE_TO_DO?	Do you like $THINGS_TO_LIKE?				s			
-Now You're Talking	5	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE_TO_DO?	Do you like $THINGS_TO_LIKE?				p			
+Now You're Talking	5	Expressing Opinions		TEMPLATE		An maith leat $THINGS_TO_LIKE_TO_DO?	Do you like $THINGS_TO_LIKE_TO_DO?		s					
+Now You're Talking	5	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE_TO_DO?	Do you like $THINGS_TO_LIKE_TO_DO?		p					
 Now You're Talking	5	Expressing Opinions		SENTENCE		Is maith.	Yes.							
 Now You're Talking	5	Expressing Opinions		SENTENCE		Ní maith.	No.							
 Now You're Talking	5	Expressing Opinions		SENTENCE		Is breá liom é/í/iad.	I really like it.							
@@ -499,7 +499,7 @@ Now You're Talking	5	Expressing Opinions		SENTENCE		Ní maith liom ar chor ar bi
 Now You're Talking	5	Expressing Opinions		SENTENCE		Is fuath liom é/í/iad.	I hate it.							
 Now You're Talking	5	Expressing Opinions		SENTENCE		Tá sé ceart go leor.	It's all right.							
 Now You're Talking	5	Expressing Opinions		QUESTION		An maith leat é?	Do you like it?							
-Now You're Talking	5	Expressing Opinions		QUESTION		An maith leatsa é?	Do you like it?							
+Now You're Talking	5	Expressing Opinions		QUESTION		An maith leatsa é?	Do *you* like it?							
 Now You're Talking	5	Expressing Opinions		QUESTION		An maith leat féin é?	Do you like it yourself?							
 Now You're Talking	5	Expressing Opinions		SENTENCE		Is fearr liom $THINGS_TO_LIKE	I prefer $THINGS_TO_LIKE							
 Now You're Talking	5	Expressing Opinions		SENTENCE		Is maith liom snagcheoil ach is fearr liom ceol traidisiúnta.	I like jazz but I prefer traditional music.							
@@ -549,17 +549,17 @@ Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	uisce	water
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	beoir	beer					byor		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon bán	white wine					fee-in baan		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon dearg	red wine							
-Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon súilíneach	sparkling wine							
-Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon géal	bright (white) wine							
-Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon bandearg	pink (rosé) wine							
+Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon súilíneach	sparkling wine							
+Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon géal	bright (white) wine							
+Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	fíon bandearg	pink (rosé) wine							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	uisce beatha	whiskey					ishka beh-ha		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	sceallógaí	chips							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	briosca	a biscuit					briska		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	bágún	bacon					baa-gun		
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	pota tae	a pot of tea							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	gloine uisce	a glass of water							
-Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	gloine fíon	a glass of wine							
-Now You're Talking	7	ORDERING DRINKS		WORD	WHAT_YOU_WANT	gloine gin	a glass of gin							
+Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	gloine fíon	a glass of wine							
+Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	gloine gin	a glass of gin							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	pionta beorach	a pint of beer							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	cupa tae	cup of tea							
 Now You're Talking	6	ORDERING DRINKS		WORD	WHAT_YOU_WANT	tae le bainne	tea with milk							
