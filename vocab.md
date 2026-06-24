@@ -1364,7 +1364,7 @@
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go teach an phobail. | I am going to the church |  |  |  |  |  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul abhaile. | I'm going home. |  |  |  |  |  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul amach. | I'm going out. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | tá mé ag dul a chodladh | I am going to sleep |  |  |  |  | ...hoh-loo |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul a chodladh | I am going to sleep |  |  |  |  | ...hoh-loo |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | ansin | then |  |  |  |  |  |  | as in I'm going to ... and then I'm going to... |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Go Baile Átha Cliath | To Dublin |  |  |  |  |  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Go hArd Mhacha* | To Armagh |  |  |  |  |  |  |  |
@@ -1373,11 +1373,17 @@
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cad é an t-am atá tú ag dul go Dún Geanainn? | What time are you going to Dungannon? |  |  |  |  |  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cá huair? | When? |  |  |  |  | ca hoo-ar |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cá huair atá tú ag dul go Corcaigh? | When are you going to Cork? |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | ag a dó a chlog | at two o'clock |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | uair | an hour |  |  |  |  |  |  | This word occurs quite frequently in everyday speech, so it is well worth learning the different forms. |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | dhá uair | two hours |  |  |  |  |  |  | The word uair is irregular when preceded by numbers: |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | trí huaire | three hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | ceathair huaire | four hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | cúig huaire | five hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | sé huaire | six hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | seacht n-uaire | seven hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | hocht n-uaire | eight hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | naoi n-uaire | nine hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | deich n-uaire | ten hours |  |  |  |  |  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | i gceann leathuair an chloig | in half an hour |  |  |  |  | i gen le-hoor a clig |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | i gceann uair an chloig | in an hour's time |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | i gceann trí huaire an chlog | in three-and-a-half hours' time |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | i gceann trí huaire go leith | in three-and-a-half hours' time |  |  |  |  |  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | i gceann tamaill | in a while |  |  |  |  |  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | anois | now |  |  |  |  |  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | níos moille | later |  |  |  |  | nees mullya |  |  |
@@ -1390,11 +1396,7 @@
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | san oíche | in the night |  |  |  |  |  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go Gaillimh... | I'm going to Galway... |  |  |  |  |  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá mé ag dul $GOING_WHEN | I'm going $GOING_WHEN |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a dó a chlog | I'm going at two o'clock |  |  |  |  |  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann leathuair an chloig | I'm going in half an hour |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann uair an chloig | I'm going in an hour's time |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire an chlog | I'm going in three-and-a-half hours' time |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire go leith | I'm going in three-and-a-half hours' time |  |  |  |  |  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann tamaill | I'm going in a while |  |  |  |  |  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul anois | I'm going now |  |  |  |  |  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul níos moille | I'm going later |  |  |  |  |  |  |  |
@@ -1405,16 +1407,41 @@
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul san iarnóin | I'm going in the afternoon |  |  |  |  |  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul tráthnóna | I'm going in the evening |  |  |  |  |  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul san oíche | I'm going in the night |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | uair | an hour |  |  |  |  |  |  | This word occurs quite frequently in everyday speech, so it is well worth learning the different forms. |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | dhá uair | two hours |  |  |  |  |  |  | The word uair is irregular when preceded by numbers: |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | trí huaire | Three hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | Ceathair huaire  | four hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | Cúig huaire  | five hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | Sé huaire  | six hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | seacht n-uaire | seven hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | hocht n-uaire | eight hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | naoi n-uaire | nine hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | deich n-uaire | ten hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá mé ag dul ag $HOUR_O_CLOCK | I'm going at $HOUR_O_CLOCK |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a haon a chlog | I'm going at 1 o'clock |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a dó a chlog | I'm going at 2 o'clock |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a trí a chlog | I'm going at 3 o'clock |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a ceathair a chlog | I'm going at 4 o'clock |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a cúig a chlog | I'm going at 5 o'clock |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a sé a chlog | I'm going at 6 o'clock |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a seacht a chlog | I'm going at 7 o'clock |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a hocht a chlog | I'm going at 8 o'clock |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a naoi a chlog | I'm going at 9 o'clock |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a deich a chlog | I'm going at 10 o'clock |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a haon déag a chlog | I'm going at 11 o'clock |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a dó dhéag a chlog | I'm going at 12 o'clock |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá mé ag dul i gceann $NUM_HOURS an chloig | I'm going in $NUM_HOURS's time |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann uair an chloig | I'm going in an hour's time |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann dhá uair an chloig | I'm going in two hours's time |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire an chloig | I'm going in three hours's time |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann ceathair huaire an chloig | I'm going in four hours's time |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann cúig huaire an chloig | I'm going in five hours's time |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann sé huaire an chloig | I'm going in six hours's time |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann seacht n-uaire an chloig | I'm going in seven hours's time |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann hocht n-uaire an chloig | I'm going in eight hours's time |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann naoi n-uaire an chloig | I'm going in nine hours's time |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann deich n-uaire an chloig | I'm going in ten hours's time |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá mé ag dul i gceann $NUM_HOURS go leith | I'm going in $NUM_HOURS and a half hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann uair go leith | I'm going in an hour and a half hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann dhá uair go leith | I'm going in two hours and a half hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire go leith | I'm going in three hours and a half hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann ceathair huaire go leith | I'm going in four hours and a half hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann cúig huaire go leith | I'm going in five hours and a half hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann sé huaire go leith | I'm going in six hours and a half hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann seacht n-uaire go leith | I'm going in seven hours and a half hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann hocht n-uaire go leith | I'm going in eight hours and a half hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann naoi n-uaire go leith | I'm going in nine hours and a half hours |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann deich n-uaire go leith | I'm going in ten hours and a half hours |  |  |  |  |  |  |  |
 | Now You're Talking | 8 | SAYING WHERE YOU'RE GOING |  | WORD |  | chóir a bheith | almost |  |  |  |  |  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith $HOUR_O_CLOCK | It's almost $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh $HOUR_O_CLOCK |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a haon a chlog | It's almost 1 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
@@ -1429,6 +1456,19 @@
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a deich a chlog | It's almost 10 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a haon déag a chlog | It's almost 11 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a dó dhéag a chlog | It's almost 12 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú i ndiaidh $HOUR_O_CLOCK | It's almost quarter past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh cahrun I nyay $HOUR_O_CLOCK |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon a chlog | It's almost quarter past 1 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó a chlog | It's almost quarter past 2 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a trí a chlog | It's almost quarter past 3 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a ceathair a chlog | It's almost quarter past 4 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a cúig a chlog | It's almost quarter past 5 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a sé a chlog | It's almost quarter past 6 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a seacht a chlog | It's almost quarter past 7 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a hocht a chlog | It's almost quarter past 8 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a naoi a chlog | It's almost quarter past 9 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a deich a chlog | It's almost quarter past 10 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon déag a chlog | It's almost quarter past 11 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó dhéag a chlog | It's almost quarter past 12 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith leath i ndiaidh $HOUR_O_CLOCK | It's almost half past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh la in nyay $HOUR_O_CLOCK |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon a chlog | It's almost half past 1 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó a chlog | It's almost half past 2 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
@@ -1455,20 +1495,8 @@
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a deich a chlog | It's almost quarter to 10 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon déag a chlog | It's almost quarter to 11 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
 | Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó dhéag a chlog | It's almost quarter to 12 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú i ndiaidh $HOUR_O_CLOCK | It's almost quarter past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh cahrun I nyay $HOUR_O_CLOCK |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon a chlog | It's almost quarter past 1 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó a chlog | It's almost quarter past 2 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a trí a chlog | It's almost quarter past 3 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a ceathair a chlog | It's almost quarter past 4 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a cúig a chlog | It's almost quarter past 5 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a sé a chlog | It's almost quarter past 6 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a seacht a chlog | It's almost quarter past 7 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a hocht a chlog | It's almost quarter past 8 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a naoi a chlog | It's almost quarter past 9 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a deich a chlog | It's almost quarter past 10 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon déag a chlog | It's almost quarter past 11 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó dhéag a chlog | It's almost quarter past 12 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | scrúdú | exam |  |  |  |  |  |  | as in "scrúdú ar maidin" == "exam in the morning" |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | scrúdú | exam |  |  |  |  |  |  |  |
+| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | scrúdú ar maidin | exam in the morning |  |  |  |  |  |  |  |
 
 ## Now You're Talking - DISCUSSING JOBS
 

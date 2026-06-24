@@ -658,7 +658,7 @@ Now You're Talking	7	SAYING WHERE YOU'RE GOING		SENTENCE		Tá mé ag dul go hoif
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		SENTENCE		Tá mé ag dul go teach an phobail.	I am going to the church							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		SENTENCE		Tá mé ag dul abhaile.	I'm going home.							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		SENTENCE		Tá mé ag dul amach.	I'm going out.							
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		SENTENCE		tá mé ag dul a chodladh	I am going to sleep					...hoh-loo		
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		SENTENCE		Tá mé ag dul a chodladh	I am going to sleep					...hoh-loo		
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		ansin	then							as in I'm going to ... and then I'm going to...
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		SENTENCE		Go Baile Átha Cliath	To Dublin							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		SENTENCE		Go hArd Mhacha*	To Armagh							
@@ -667,11 +667,17 @@ Now You're Talking	7	SAYING WHERE YOU'RE GOING		QUESTION		Cad é an t-am?	What t
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		QUESTION		Cad é an t-am atá tú ag dul go Dún Geanainn?	What time are you going to Dungannon?							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		QUESTION		Cá huair?	When?					ca hoo-ar		
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		QUESTION		Cá huair atá tú ag dul go Corcaigh?	When are you going to Cork?							
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	GOING_WHEN	ag a dó a chlog	at two o'clock							
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	NUM_HOURS	uair	an hour							This word occurs quite frequently in everyday speech, so it is well worth learning the different forms.
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	NUM_HOURS	dhá uair	two hours							The word uair is irregular when preceded by numbers:
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	NUM_HOURS	trí huaire	three hours							
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	NUM_HOURS	ceathair huaire	four hours							
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	NUM_HOURS	cúig huaire	five hours							
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	NUM_HOURS	sé huaire	six hours							
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	NUM_HOURS	seacht n-uaire	seven hours							
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	NUM_HOURS	hocht n-uaire	eight hours							
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	NUM_HOURS	naoi n-uaire	nine hours							
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	NUM_HOURS	deich n-uaire	ten hours							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	GOING_WHEN	i gceann leathuair an chloig	in half an hour					i gen le-hoor a clig		
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	GOING_WHEN	i gceann uair an chloig	in an hour's time							
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	GOING_WHEN	i gceann trí huaire an chlog	in three-and-a-half hours' time							
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	GOING_WHEN	i gceann trí huaire go leith	in three-and-a-half hours' time							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	GOING_WHEN	i gceann tamaill	in a while							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	GOING_WHEN	anois	now							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	GOING_WHEN	níos moille	later					nees mullya		
@@ -684,22 +690,16 @@ Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	GOING_WHEN	tráthnóna	in t
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD	GOING_WHEN	san oíche	in the night							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		SENTENCE		Tá mé ag dul go Gaillimh...	I'm going to Galway...							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		TEMPLATE		Tá mé ag dul $GOING_WHEN	I'm going $GOING_WHEN							
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		uair	an hour							This word occurs quite frequently in everyday speech, so it is well worth learning the different forms.
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		dhá uair	two hours							The word uair is irregular when preceded by numbers:
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		trí huaire	Three hours							
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		Ceathair huaire 	four hours							
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		Cúig huaire 	five hours							
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		Sé huaire 	six hours							
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		seacht n-uaire	seven hours							
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		hocht n-uaire	eight hours							
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		naoi n-uaire	nine hours							
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		deich n-uaire	ten hours							
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		TEMPLATE		Tá mé ag dul ag $HOUR_O_CLOCK	I'm going at $HOUR_O_CLOCK							
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		TEMPLATE		Tá mé ag dul i gceann $NUM_HOURS an chloig	I'm going in $NUM_HOURS's time							
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		TEMPLATE		Tá mé ag dul i gceann $NUM_HOURS go leith	I'm going in $NUM_HOURS and a half hours							
 Now You're Talking	8	SAYING WHERE YOU'RE GOING		WORD		chóir a bheith	almost							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		TEMPLATE		Tá sé chóir a bheith $HOUR_O_CLOCK	It's almost $HOUR_O_CLOCK					Taw shay hor a veh $HOUR_O_CLOCK		
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		TEMPLATE		Tá sé chóir a bheith ceathrú i ndiaidh $HOUR_O_CLOCK	It's almost quarter past $HOUR_O_CLOCK					Taw shay hor a veh cahrun I nyay $HOUR_O_CLOCK		
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		TEMPLATE		Tá sé chóir a bheith leath i ndiaidh $HOUR_O_CLOCK	It's almost half past $HOUR_O_CLOCK					Taw shay hor a veh la in nyay $HOUR_O_CLOCK		
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		TEMPLATE		Tá sé chóir a bheith ceathrú go dtí $HOUR_O_CLOCK	It's almost quarter to $HOUR_O_CLOCK					Taw shay hor a veh cahru go gee $HOUR_O_CLOCK		
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		TEMPLATE		Tá sé chóir a bheith ceathrú i ndiaidh $HOUR_O_CLOCK	It's almost quarter past $HOUR_O_CLOCK					Taw shay hor a veh cahrun I nyay $HOUR_O_CLOCK		
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		scrúdú	exam							"as in ""scrúdú ar maidin"" == ""exam in the morning"""
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		scrúdú	exam							
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		WORD		scrúdú ar maidin	exam in the morning							
 Now You're Talking	8	DISCUSSING JOBS		WORD		AG PLÉ POSTANNA	DISCUSSING JOBS							
 Now You're Talking	8	DISCUSSING JOBS		WORD		obair	work							
 Now You're Talking	8	DISCUSSING JOBS		WORD		ag obair	working							
