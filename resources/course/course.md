@@ -102,7 +102,6 @@ text speak
 - ldt - le de thoil
 
 curses:
-póg mo thóin - kiss my ass
 póg mo thóinsa 
 maigsac - ballbag
 gobachán - slabber

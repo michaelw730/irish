@@ -1,18 +1,10 @@
 program	episode	topic	topic2	type	group	irish	meaning	practice_ideas	s_p	m_f	literal_meaning	phonetic	sound	info
-Various	1	Greetings etc				Maidin mhaith.	Good morning.							
-Various	1	Greetings etc				Tráthnóna maith.	Good afternoon.					tranoana my		
-Various	1	Greetings etc				Oíche mhaith.	Good evening/night.							
-Various	1	Greetings etc				beannachtaí	Greetings					baan-ak-tee		
-Various	1	Greetings etc				arís	again.							
-Various	1	Greetings etc				gabh mo leithscéal	Excuse me							
-Various	1	Greetings etc				Fan bomaite	Wait a minute							
 Various	1	Greetings etc				Tóg go bog é	Take it easy					Toe-g geh bow-g eh		
 Various	1	Greetings etc				póg mo thóin	kiss my ass					powg moh hoe-n		
 Various	1	Greetings etc				Comhghairdeas	Congratulations					co-hard-yes		Not Ulster dialect??
 Various	1	Greetings etc				Comhghairdeachas	Congratulations					co-hard-ye-has		Ulster dialect??
 Various	1	Greetings etc				Níl a fhios agam	I don't know					neil us agam		
 Various	1	Greetings etc				Tá a fhios agam	I know					Ta us agam		
-Various	1	Greetings etc				freagair	reply/answer					freggar		
 Various	1	Greetings etc				cur Gaeilge air?	What's irish for?							
 Various	1	Greetings etc				lá breithe shona	happy birthday					laa brayha		
 Various	1	Greetings etc				lá breithe shona duit	happy birthday to you							
@@ -26,8 +18,13 @@ Now You're Talking	1	Meeting People		PHRASE		Ag bualadh le daoine	Meeting people
 Now You're Talking	1	Meeting People		PHRASE		Dia duit!	Hello! (God to you)		s					
 Now You're Talking	1	Meeting People		PHRASE		Dia is Muire duit.	Hello. (in response)		s					
 Now You're Talking	1	Meeting People		PHRASE		Dia daoibh!	Hello! (God to you)		p					
-Now You're Talking	1	Meeting People		PHRASE		Dia is Muire daoibh	Hello. (in response)		p					
+Now You're Talking	1	Meeting People		WORD		Dia is Muire daoibh	Hello. (in response)		p					
+Now You're Talking	1	Meeting People		WORD		beannachtaí	Greetings					baan-ak-tee		
 Now You're Talking	1	Meeting People		WORD		Haló	Hello (less formal)							
+Now You're Talking	1	Meeting People		WORD		Maidin mhaith.	Good morning.							
+Now You're Talking	1	Meeting People		WORD		Tráthnóna maith.	Good afternoon.					tranoana my		
+Now You're Talking	1	Meeting People		WORD		Oíche mhaith.	Good evening/night.							
+Now You're Talking	1	Meeting People		PHRASE		gabh mo leithscéal	Excuse me							
 Now You're Talking	1	Meeting People		QUESTION		Cad é mar atá tú?	How are you?		s					This greeting is sometimes preceded by Haló.
 Now You're Talking	1	Meeting People		QUESTION		Cad é mar atá tú, $NAME?	How are you, $NAME?		s					This greeting is sometimes preceded by Haló.
 Now You're Talking	1	Meeting People		QUESTION		Cad é mar atá sibh?	How are you?		p					
@@ -78,7 +75,9 @@ Now You're Talking	1	Meeting People		WORD		Cluiche	game					Clee-ha
 Now You're Talking	1	Meeting People		WORD		fichille	chess					feel-ha		
 Now You're Talking	1	Meeting People		PHRASE		Cluiche fichille?	A game of chess?/Chess game?					Clee-ha feel-ha		
 Now You're Talking	1	Meeting People		QUESTION		An bhfuil tú go maith?	Are you well?	Repeat for other pronouns/person's name						
+Various	1	Meeting People		WORD		arís	again.							
 Now You're Talking	1	Meeting People		WORD		Faisnéis	Information							
+Various	1	Meeting People				freagair	reply/answer					freggar		
 Now You're Talking	1	Meeting People	Weather	WORD		lá	day					laa??		
 Now You're Talking	1	Meeting People	Weather	WORD		grian	sun					grain		
 Now You're Talking	1	Meeting People	Weather	WORD		scamill	cloud					scam-ill		
