@@ -84,29 +84,9 @@
 | Now You're Talking | 1 | Meeting People |  | WORD |  | fichille | chess |  |  |  |  | feel-ha |  |  |
 | Now You're Talking | 1 | Meeting People |  | PHRASE |  | Cluiche fichille? | A game of chess?/Chess game? |  |  |  |  | Clee-ha feel-ha |  |  |
 | Now You're Talking | 1 | Meeting People |  | QUESTION |  | An bhfuil tú go maith? | Are you well? | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-
-## Various - Meeting People
-
-| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Various | 1 | Meeting People |  | WORD |  | arís | again. |  |  |  |  |  |  |  |
-
-## Now You're Talking - Meeting People
-
-| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Now You're Talking | 1 | Meeting People |  | WORD |  | arís | again. |  |  |  |  |  |  |  |
 | Now You're Talking | 1 | Meeting People |  | WORD |  | Faisnéis | Information |  |  |  |  |  |  |  |
-
-## Various - Meeting People
-
-| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Various | 1 | Meeting People |  |  |  | freagair | reply/answer |  |  |  |  | freggar |  |  |
-
-## Now You're Talking - Meeting People
-
-| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Now You're Talking | 1 | Meeting People |  |  |  | freagair | reply/answer |  |  |  |  | freggar |  |  |
 | Now You're Talking | 1 | Meeting People | Weather | WORD |  | lá | day |  |  |  |  | laa?? |  |  |
 | Now You're Talking | 1 | Meeting People | Weather | WORD |  | grian | sun |  |  |  |  | grain |  |  |
 | Now You're Talking | 1 | Meeting People | Weather | WORD |  | scamill | cloud |  |  |  |  | scam-ill |  |  |
