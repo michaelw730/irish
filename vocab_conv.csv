@@ -77,7 +77,7 @@ Now You're Talking	1	Meeting People		PHRASE		Cluiche fichille?	A game of chess?/
 Now You're Talking	1	Meeting People		QUESTION		An bhfuil tú go maith?	Are you well?	Repeat for other pronouns/person's name						
 Now You're Talking	1	Meeting People		WORD		arís	again.							
 Now You're Talking	1	Meeting People		WORD		Faisnéis	Information							
-Now You're Talking	1	Meeting People				freagair	reply/answer					freggar		
+Now You're Talking	1	Meeting People		WORD		freagair	reply/answer					freggar		
 Now You're Talking	1	Meeting People	Weather	WORD		lá	day					laa??		
 Now You're Talking	1	Meeting People	Weather	WORD		grian	sun					grain		
 Now You're Talking	1	Meeting People	Weather	WORD		scamill	cloud					scam-ill		
