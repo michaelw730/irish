@@ -301,7 +301,7 @@
 | Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | tuath | countryside |  |  |  |  | too-a |  |  |
 | Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | TEMPLATE |  | Tá mé i mo chónaí ... | I live ... |  |  |  |  |  |  |  |
 | Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí i lár an bhaile. | I live in the centre of town. |  |  |  |  | .. i lar an whalla |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí taobh amuigh den bhaile. | I live outside the town |  |  |  |  | .. too amwee den whalla??? |  |  |
+| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí taobh amuigh den bhaile. | I live outside the town |  |  |  |  | .. tweev amwee den whalla??? |  |  |
 | Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí faoin tuath | I live in the countryside |  |  |  |  | fween too-a |  |  |
 | Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí i lár na cathrach | I live in the city centre. |  |  |  |  | i lar na ceh-hra |  | maybe.. in the center of the city??? |
 | Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí ar shráid Anraí | I live on Henry Street |  |  |  |  | ar hradg anry |  |  |
@@ -2094,7 +2094,7 @@
 | Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'amharc mé ar fhíseáin. | I watched videos. |  |  |  |  | dark meh ar eesh-aan |  |  |
 | Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'amharc mé an teilifís. | I watched the television. |  |  |  |  | dark meh an telefish |  |  |
 | Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'amharc mé scannán. | I watched a film. |  |  |  |  | dark meh scannan |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | VERB |  | éist | listen to  |  |  |  |  |  |  |  |
+| Now You're Talking | 11 | SAYING WHAT YOU DID |  | VERB |  | éist | listen to |  |  |  |  |  |  |  |
 | Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | D'eist $PRONOUNS | $PRONOUNS listened |  |  |  |  |  |  |  |
 | Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist mé | I listened |  |  |  |  |  |  |  |
 | Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist tú | you listened |  |  |  |  |  |  |  |
@@ -4325,38 +4325,70 @@
 | Other | 1 | Places |  |  | PROVINCES2 | Cúige Mumhan | Province (fifth) Munster |  |  |  |  | cwig-a moo-an |  |  |
 | Other | 1 | Places |  |  | PROVINCES2 | Cúige Laighean | Province (fifth) Leinster |  |  |  |  | cwig-a lie-on |  |  |
 | Other | 1 | Places |  |  | PROVINCES2 | Cúige Chonnacht | Province (fifth) Connacht |  |  |  |  | cwig-a hon-awct |  |  |
-| Other | 1 | Places |  |  | COUNTIES | Aontroim (Contae Aontroma) | Antrim |  |  |  |  |  |  | Ulster |
-| Other | 1 | Places |  |  | COUNTIES | Ard Mhacha (Contae Ard Mhacha) | Armagh |  |  |  |  |  |  | Ulster |
-| Other | 1 | Places |  |  | COUNTIES | Ceatharlach (Contae Cheatharlach) | Carlow |  |  |  |  |  |  | Leinster |
-| Other | 1 | Places |  |  | COUNTIES | An Cabhán (Contae an Chabháin) | Cavan |  |  |  |  |  |  | Ulster |
-| Other | 1 | Places |  |  | COUNTIES | An Clár (Contae an Chláir) | Clare |  |  |  |  |  |  | Munster |
-| Other | 1 | Places |  |  | COUNTIES | Corcaigh (Contae Chorcaí) | Cork |  |  |  |  |  |  | Munster |
-| Other | 1 | Places |  |  | COUNTIES | Dún na nGall (Contae Dhún na nGall) | Donegal |  |  |  |  |  |  | Ulster |
-| Other | 1 | Places |  |  | COUNTIES | An Dún (Contae an Dúin) | Down |  |  |  |  |  |  | Ulster |
-| Other | 1 | Places |  |  | COUNTIES | Baile Átha Cliath (Contae Bhaile Átha Cliath) | Dublin |  |  |  |  |  |  | Leinster |
-| Other | 1 | Places |  |  | COUNTIES | Fear Manach (Contae Fhear Manach) | Fermanagh |  |  |  |  |  |  | Ulster |
-| Other | 1 | Places |  |  | COUNTIES | Gaillimh (Contae na Gaillimhe) | Galway |  |  |  |  |  |  | Connacht |
-| Other | 1 | Places |  |  | COUNTIES | Ciarraí (Contae Chiarraí) | Kerry |  |  |  |  |  |  | Munster |
-| Other | 1 | Places |  |  | COUNTIES | Cill Dara (Contae Chill Dara) | Kildare |  |  |  |  |  |  | Leinster |
-| Other | 1 | Places |  |  | COUNTIES | Cill Chainnigh (Contae Chill Chainnigh) | Kilkenny |  |  |  |  |  |  | Leinster |
-| Other | 1 | Places |  |  | COUNTIES | Laois (Contae Laoise) | Laois |  |  |  |  |  |  | Leinster |
-| Other | 1 | Places |  |  | COUNTIES | Liatroim (Contae Liatroma) | Leitrim |  |  |  |  |  |  | Connacht |
-| Other | 1 | Places |  |  | COUNTIES | Luimneach (Contae Luimnigh) | Limerick |  |  |  |  |  |  | Munster |
-| Other | 1 | Places |  |  | COUNTIES | Doire (Contae Dhoire) | Derry |  |  |  |  |  |  | Ulster |
-| Other | 1 | Places |  |  | COUNTIES | An Longfort (Contae an Longfoirt) | Longford |  |  |  |  |  |  | Leinster |
-| Other | 1 | Places |  |  | COUNTIES | Lú (Contae Lú) | Louth |  |  |  |  |  |  | Leinster |
-| Other | 1 | Places |  |  | COUNTIES | Maigh Eo (Contae Mhaigh Eo) | Mayo |  |  |  |  |  |  | Connacht |
-| Other | 1 | Places |  |  | COUNTIES | An Mhí (Contae na Mí) | Meath |  |  |  |  |  |  | Leinster |
-| Other | 1 | Places |  |  | COUNTIES | Muineachán (Contae Mhuineacháin) | Monaghan |  |  |  |  |  |  | Ulster |
-| Other | 1 | Places |  |  | COUNTIES | Uíbh Fhailí (Contae Uíbh Fhailí) | Offaly |  |  |  |  |  |  | Leinster |
-| Other | 1 | Places |  |  | COUNTIES | Ros Comáin (Contae Ros Comáin) | Roscommon |  |  |  |  |  |  | Connacht |
-| Other | 1 | Places |  |  | COUNTIES | Sligeach (Contae Shligigh) | Sligo |  |  |  |  |  |  | Connacht |
-| Other | 1 | Places |  |  | COUNTIES | Tiobraid Árann (Contae Thiobraid Árann) | Tipperary |  |  |  |  |  |  | Munster |
-| Other | 1 | Places |  |  | COUNTIES | Tír Eoghain (Contae Thír Eoghain) | Tyrone |  |  |  |  |  |  | Ulster |
-| Other | 1 | Places |  |  | COUNTIES | Port Láirge (Contae Phort Láirge) | Waterford |  |  |  |  |  |  | Munster |
-| Other | 1 | Places |  |  | COUNTIES | An Iarmhí (Contae na hIarmhí) | Westmeath |  |  |  |  |  |  | Leinster |
-| Other | 1 | Places |  |  | COUNTIES | Loch Garman (Contae Loch Garman) | Wexford |  |  |  |  |  |  | Leinster |
-| Other | 1 | Places |  |  | COUNTIES | Cill Mhantáin (Contae Chill Mhantáin) | Wicklow |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES | Aontroim | Antrim |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES | Ard Mhacha | Armagh |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES | Ceatharlach | Carlow |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES | An Cabhán | Cavan |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES | An Clár | Clare |  |  |  |  |  |  | Munster |
+| Other | 1 | Places |  |  | COUNTIES | Corcaigh | Cork |  |  |  |  |  |  | Munster |
+| Other | 1 | Places |  |  | COUNTIES | Dún na nGall | Donegal |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES | An Dún | Down |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES | Baile Átha Cliath | Dublin |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES | Fear Manach | Fermanagh |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES | Gaillimh | Galway |  |  |  |  |  |  | Connacht |
+| Other | 1 | Places |  |  | COUNTIES | Ciarraí | Kerry |  |  |  |  |  |  | Munster |
+| Other | 1 | Places |  |  | COUNTIES | Cill Dara | Kildare |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES | Cill Chainnigh | Kilkenny |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES | Laois | Laois |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES | Liatroim | Leitrim |  |  |  |  |  |  | Connacht |
+| Other | 1 | Places |  |  | COUNTIES | Luimneach | Limerick |  |  |  |  |  |  | Munster |
+| Other | 1 | Places |  |  | COUNTIES | Doire | Derry |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES | An Longfort | Longford |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES | Lú | Louth |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES | Maigh Eo | Mayo |  |  |  |  |  |  | Connacht |
+| Other | 1 | Places |  |  | COUNTIES | An Mhí | Meath |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES | Muineachán | Monaghan |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES | Uíbh Fhailí | Offaly |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES | Ros Comáin | Roscommon |  |  |  |  |  |  | Connacht |
+| Other | 1 | Places |  |  | COUNTIES | Sligeach | Sligo |  |  |  |  |  |  | Connacht |
+| Other | 1 | Places |  |  | COUNTIES | Tiobraid Árann | Tipperary |  |  |  |  |  |  | Munster |
+| Other | 1 | Places |  |  | COUNTIES | Tír Eoghain | Tyrone |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES | Port Láirge | Waterford |  |  |  |  |  |  | Munster |
+| Other | 1 | Places |  |  | COUNTIES | An Iarmhí | Westmeath |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES | Loch Garman | Wexford |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES | Cill Mhantáin | Wicklow |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES2 | Contae Aontroma | County Antrim |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES3 | Contae Ard Mhacha | County Armagh |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES4 | Contae Cheatharlach | County Carlow |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES5 | Contae an Chabháin | County Cavan |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES6 | Contae an Chláir | County Clare |  |  |  |  |  |  | Munster |
+| Other | 1 | Places |  |  | COUNTIES7 | Contae Chorcaí | County Cork |  |  |  |  |  |  | Munster |
+| Other | 1 | Places |  |  | COUNTIES8 | Contae Dhún na nGall | County Donegal |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES9 | Contae an Dúin | County Down |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES10 | Contae Bhaile Átha Cliath | County Dublin |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES11 | Contae Fhear Manach | County Fermanagh |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES12 | Contae na Gaillimhe | County Galway |  |  |  |  |  |  | Connacht |
+| Other | 1 | Places |  |  | COUNTIES13 | Contae Chiarraí | County Kerry |  |  |  |  |  |  | Munster |
+| Other | 1 | Places |  |  | COUNTIES14 | Contae Chill Dara | County Kildare |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES15 | Contae Chill Chainnigh | County Kilkenny |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES16 | Contae Laoise | County Laois |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES17 | Contae Liatroma | County Leitrim |  |  |  |  |  |  | Connacht |
+| Other | 1 | Places |  |  | COUNTIES18 | Contae Luimnigh | County Limerick |  |  |  |  |  |  | Munster |
+| Other | 1 | Places |  |  | COUNTIES19 | Contae Dhoire | County Derry |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES20 | Contae an Longfoirt | County Longford |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES21 | Contae Lú | County Louth |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES22 | Contae Mhaigh Eo | County Mayo |  |  |  |  |  |  | Connacht |
+| Other | 1 | Places |  |  | COUNTIES23 | Contae na Mí | County Meath |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES24 | Contae Mhuineacháin | County Monaghan |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES25 | Contae Uíbh Fhailí | County Offaly |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES26 | Contae Ros Comáin | County Roscommon |  |  |  |  |  |  | Connacht |
+| Other | 1 | Places |  |  | COUNTIES27 | Contae Shligigh | County Sligo |  |  |  |  |  |  | Connacht |
+| Other | 1 | Places |  |  | COUNTIES28 | Contae Thiobraid Árann | County Tipperary |  |  |  |  |  |  | Munster |
+| Other | 1 | Places |  |  | COUNTIES29 | Contae Thír Eoghain | County Tyrone |  |  |  |  |  |  | Ulster |
+| Other | 1 | Places |  |  | COUNTIES30 | Contae Phort Láirge | County Waterford |  |  |  |  |  |  | Munster |
+| Other | 1 | Places |  |  | COUNTIES31 | Contae na hIarmhí | County Westmeath |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES32 | Contae Loch Garman | County Wexford |  |  |  |  |  |  | Leinster |
+| Other | 1 | Places |  |  | COUNTIES33 | Contae Chill Mhantáin | County Wicklow |  |  |  |  |  |  | Leinster |
 | Other | 1 | Places |  |  | PLACE | Baile Átha Cliath | Dublin |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | PLACE | Gleann Gormliath | Glengormley |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | PLACE | Gaoth Dobhair | Gweedore |  |  |  |  |  |  |  |
