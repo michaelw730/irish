@@ -111,8 +111,32 @@ Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé dorcha	it is dark		
 Now You're Talking	1	Meeting People	Weather	TEMPLATE		Tá sé $WEATHER_DESCRIBE2	it is $WEATHER_DESCRIBE2					taa shay $WEATHER_DESCRIBE2		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé ag cur fearthainne	it is raining					taa shay ig cur far-heen-ya		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé ag cur sneachta	it is snowing					taa shay ag cur snock-ta		
-Now You're Talking	1	Meeting People	Weather	PHRASE		Bhí sé...	it was...	repeat for appropriate weather				vee shay		
-Now You're Talking	1	Meeting People	Weather	PHRASE		Níl sé...	it is not...	repeat for appropriate weather				taa shay		
+Now You're Talking	1	Meeting People	Weather	PHRASE		Bhí sé $WEATHER_DESCRIBE	it was $WEATHER_DESCRIBE	repeat for appropriate weather				vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé fuar	it was cold	repeat for appropriate weather				vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé fliuch	it was wet	repeat for appropriate weather				vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé te	it was hot	repeat for appropriate weather				vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé báistí	it was rainy	repeat for appropriate weather				vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé gaofar	it was windy	repeat for appropriate weather				vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé tirim	it was dry	repeat for appropriate weather				vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé taise	it was damp	repeat for appropriate weather				vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé grianmhar	it was sunny	repeat for appropriate weather				vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé scamillach	it was cloudy	repeat for appropriate weather				vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé ceomhar	it was foggy	repeat for appropriate weather				vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé geal	it was bright	repeat for appropriate weather				vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé dorcha	it was dark	repeat for appropriate weather				vee shay		
+Now You're Talking	1	Meeting People	Weather	PHRASE		Níl sé $WEATHER_DESCRIBE	it is not $WEATHER_DESCRIBE	repeat for appropriate weather				taa shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Níl sé fuar	it is not cold	repeat for appropriate weather				taa shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Níl sé fliuch	it is not wet	repeat for appropriate weather				taa shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Níl sé te	it is not hot	repeat for appropriate weather				taa shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Níl sé báistí	it is not rainy	repeat for appropriate weather				taa shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Níl sé gaofar	it is not windy	repeat for appropriate weather				taa shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Níl sé tirim	it is not dry	repeat for appropriate weather				taa shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Níl sé taise	it is not damp	repeat for appropriate weather				taa shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Níl sé grianmhar	it is not sunny	repeat for appropriate weather				taa shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Níl sé scamillach	it is not cloudy	repeat for appropriate weather				taa shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Níl sé ceomhar	it is not foggy	repeat for appropriate weather				taa shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Níl sé geal	it is not bright	repeat for appropriate weather				taa shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Níl sé dorcha	it is not dark	repeat for appropriate weather				taa shay		
 Now You're Talking	1	Meeting People	Weather	TEMPLATE		Tá sé iontach $WEATHER_DESCRIBE	it is very $WEATHER_DESCRIBE					taa shay $WEATHER_DESCRIBE		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé iontach fuar	it is very cold					taa shay fooar		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé iontach fliuch	it is very wet					taa shay flu(ch) [(ch) = soft k]		
@@ -126,7 +150,19 @@ Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé iontach scamillach	
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé iontach ceomhar	it is very foggy					taa shay kyowar??		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé iontach geal	it is very bright					taa shay gyal		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé iontach dorcha	it is very dark					taa shay dora-ha		
-Now You're Talking	1	Meeting People	Weather	PHRASE		Bhí sé iontach …	it was very…					vee shay		
+Now You're Talking	1	Meeting People	Weather	PHRASE		Bhí sé iontach $WEATHER_DESCRIBE	it was very $WEATHER_DESCRIBE					vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé iontach fuar	it was very cold					vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé iontach fliuch	it was very wet					vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé iontach te	it was very hot					vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé iontach báistí	it was very rainy					vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé iontach gaofar	it was very windy					vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé iontach tirim	it was very dry					vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé iontach taise	it was very damp					vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé iontach grianmhar	it was very sunny					vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé iontach scamillach	it was very cloudy					vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé iontach ceomhar	it was very foggy					vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé iontach geal	it was very bright					vee shay		
+Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé iontach dorcha	it was very dark					vee shay		
 Now You're Talking	1	Meeting People	Weather	TEMPLATE		Tá sé lá $WEATHER_DESCRIBE	it is a $WEATHER_DESCRIBE day					taa shay laa $WEATHER_DESCRIBE		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé lá fuar	it is a cold day					taa shay laa fooar		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé lá fliuch	it is a wet day					taa shay laa flu(ch) [(ch) = soft k]		
@@ -162,11 +198,11 @@ Now You're Talking	1	Meeting People		WORD		deireadh	end					djeroo
 Now You're Talking	1	Meeting People		SENTENCE		Tá Sin deireadh le aonad 1	That's the end of unit 1					Sin djeroo le ay-nid...		
 Now You're Talking	1	Meeting People				Béal Feirste	Belfast					bell firstye		mouth of the river farset
 Now You're Talking	1	Meeting People				béal	mouth					bell		
-Now You're Talking	1	Meeting People				guala(?)	shoulder					goola		
-Now You're Talking	1	Meeting People				chos(?)	foot					cos		
-Now You're Talking	1	Meeting People				ceann(?)	head					cyun		
-Now You're Talking	1	Meeting People				droim(?)	back					drim		
-Now You're Talking	1	Meeting People				toín(?)	backside					towin		
+Now You're Talking	1	Meeting People				gualainn	shoulder					goola		
+Now You're Talking	1	Meeting People				cos	foot					cos		
+Now You're Talking	1	Meeting People				ceann	head					cyun		
+Now You're Talking	1	Meeting People				droim	back					drim		
+Now You're Talking	1	Meeting People				toín	backside					towin		
 Now You're Talking	1	Meeting People	Additional			sparán	purse					sparaan		
 Now You're Talking	1	Meeting People	Additional			Tóg go bog é	Take it easy					Toe-g geh bow-g eh		
 Now You're Talking	1	Meeting People	Additional			póg mo thóin	kiss my ass					powg moh hoe-n		

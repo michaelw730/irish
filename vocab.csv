@@ -89,10 +89,10 @@ Now You're Talking	1	Meeting People	Weather	WORD	WEATHER_DESCRIBE2	ag cur sneach
 Now You're Talking	1	Meeting People	Weather	WORD		iontach	extremely / very					inta?		
 Now You're Talking	1	Meeting People	Weather	TEMPLATE		Tá sé $WEATHER_DESCRIBE	it is $WEATHER_DESCRIBE					taa shay $WEATHER_DESCRIBE		
 Now You're Talking	1	Meeting People	Weather	TEMPLATE		Tá sé $WEATHER_DESCRIBE2	it is $WEATHER_DESCRIBE2					taa shay $WEATHER_DESCRIBE2		
-Now You're Talking	1	Meeting People	Weather	PHRASE		Bhí sé...	it was...	repeat for appropriate weather				vee shay		
-Now You're Talking	1	Meeting People	Weather	PHRASE		Níl sé...	it is not...	repeat for appropriate weather				taa shay		
+Now You're Talking	1	Meeting People	Weather	PHRASE		Bhí sé $WEATHER_DESCRIBE	it was $WEATHER_DESCRIBE	repeat for appropriate weather				vee shay		
+Now You're Talking	1	Meeting People	Weather	PHRASE		Níl sé $WEATHER_DESCRIBE	it is not $WEATHER_DESCRIBE	repeat for appropriate weather				taa shay		
 Now You're Talking	1	Meeting People	Weather	TEMPLATE		Tá sé iontach $WEATHER_DESCRIBE	it is very $WEATHER_DESCRIBE					taa shay $WEATHER_DESCRIBE		
-Now You're Talking	1	Meeting People	Weather	PHRASE		Bhí sé iontach …	it was very…					vee shay		
+Now You're Talking	1	Meeting People	Weather	PHRASE		Bhí sé iontach $WEATHER_DESCRIBE	it was very $WEATHER_DESCRIBE					vee shay		
 Now You're Talking	1	Meeting People	Weather	TEMPLATE		Tá sé lá $WEATHER_DESCRIBE	it is a $WEATHER_DESCRIBE day					taa shay laa $WEATHER_DESCRIBE		
 Now You're Talking	1	Meeting People	Weather	PHRASE		Tá	Yes [to agree with the weather]							
 Now You're Talking	1	Meeting People	Weather	SENTENCE		Tá, cinnte.	It is indeed/surely.					teh, kintche		
@@ -116,11 +116,11 @@ Now You're Talking	1	Meeting People		WORD		deireadh	end					djeroo
 Now You're Talking	1	Meeting People		SENTENCE		Tá Sin deireadh le aonad 1	That's the end of unit 1					Sin djeroo le ay-nid...		
 Now You're Talking	1	Meeting People				Béal Feirste	Belfast					bell firstye		mouth of the river farset
 Now You're Talking	1	Meeting People				béal	mouth					bell		
-Now You're Talking	1	Meeting People				guala(?)	shoulder					goola		
-Now You're Talking	1	Meeting People				chos(?)	foot					cos		
-Now You're Talking	1	Meeting People				ceann(?)	head					cyun		
-Now You're Talking	1	Meeting People				droim(?)	back					drim		
-Now You're Talking	1	Meeting People				toín(?)	backside					towin		
+Now You're Talking	1	Meeting People				gualainn	shoulder					goola		
+Now You're Talking	1	Meeting People				cos	foot					cos		
+Now You're Talking	1	Meeting People				ceann	head					cyun		
+Now You're Talking	1	Meeting People				droim	back					drim		
+Now You're Talking	1	Meeting People				toín	backside					towin		
 Now You're Talking	1	Meeting People	Additional			sparán	purse					sparaan		
 Now You're Talking	1	Meeting People	Additional			Tóg go bog é	Take it easy					Toe-g geh bow-g eh		
 Now You're Talking	1	Meeting People	Additional			póg mo thóin	kiss my ass					powg moh hoe-n		
