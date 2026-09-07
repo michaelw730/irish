@@ -220,21 +220,21 @@ Now You're Talking	2	Introductions		WORD		sloinnte	surnames
 Now You're Talking	2	Introductions		QUESTION		Cad é an t-ainm atá ort?	What is your name?	Try other on prep pronouns – orm/ort/air/uirthi/orainn/oraibh/orthu			What name is on you?			
 Now You're Talking	2	Introductions		QUESTION		Cad é an t-ainm atá ort féin?	What is your own name?							
 Now You're Talking	2	Introductions		QUESTION		Cad é an t-ainm atá ortsa?	What is *your* name?							
-Now You're Talking	2	Introductions		SENTENCE		>$NAME an t-ainm atá orm.	My name is $NAME	Ask the other person's name			$NAME is the name on me			
+Now You're Talking	2	Introductions		SENTENCE		$NAME an t-ainm atá orm.	My name is $NAME	Ask the other person's name			$NAME is the name on me			
 Now You're Talking	2	Introductions		QUESTION		Cé thusa?	Who are you?					Kay husa?		
-Now You're Talking	2	Introductions		SENTENCE		>Is mise $NAME	I am $NAME							
-Now You're Talking	2	Introductions		SENTENCE		>Mise $NAME	I'm $NAME							
+Now You're Talking	2	Introductions		SENTENCE		Is mise $NAME	I am $NAME							
+Now You're Talking	2	Introductions		SENTENCE		Mise $NAME	I'm $NAME							
 Now You're Talking	2	Introductions		QUESTION		Cad é an sloinne atá ort?	What is your surname?					..slinyou..		
-Now You're Talking	2	Introductions		SENTENCE		>$SURNAME an sloinne atá orm.	My surname is $SURNAME							
+Now You're Talking	2	Introductions		SENTENCE		$SURNAME an sloinne atá orm.	My surname is $SURNAME							
 Now You're Talking	2	Introductions		QUESTION		C'ainm atá ort?	What's your name?	Try other on prep pronouns – orm/ort/air/uirthi/orainn/oraibh/orthu						
 Now You're Talking	2	Introductions		QUESTION		C'ainm atá ortsa?	What's *your* name?							
-Now You're Talking	2	Introductions		SENTENCE		>$NAME	>$NAME							Usually just the surname
+Now You're Talking	2	Introductions		SENTENCE		$NAME	$NAME							Usually just the surname
 Now You're Talking	2	Introductions		QUESTION		Cé seo?	Who's this?		s					
 Now You're Talking	2	Introductions		QUESTION		Cé hiad seo?	Who's this? Who are these?		p					
 Now You're Talking	2	Introductions		SENTENCE		Seo $NAME	This is $NAME							
 Now You're Talking	2	Introductions		QUESTION		Cé hiad sin?	Who are they/those?		p					
 Now You're Talking	2	Introductions		QUESTION		Cé hé sin?	Who is he?							
-Now You're Talking	2	Introductions		SENTENCE		> Sin (é) $NAME.	He is $NAME.							
+Now You're Talking	2	Introductions		SENTENCE		Sin (é) $NAME.	He is $NAME.							
 Now You're Talking	2	Introductions		QUESTION		Cé mise?	Who am I?							
 Now You're Talking	2	Introductions		QUESTION		Cé hé?	Who is he?							
 Now You're Talking	2	Introductions		SENTENCE		Is é... é	He is							
