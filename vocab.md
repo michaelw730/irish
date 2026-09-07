@@ -1,18 +1,4 @@
 
-## Various - Greetings etc
-
-| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Various | 1 | Greetings etc |  |  |  | Tóg go bog é | Take it easy |  |  |  |  | Toe-g geh bow-g eh |  |  |
-| Various | 1 | Greetings etc |  |  |  | póg mo thóin | kiss my ass |  |  |  |  | powg moh hoe-n |  |  |
-| Various | 1 | Greetings etc |  |  |  | Comhghairdeas | Congratulations |  |  |  |  | co-hard-yes |  | Not Ulster dialect?? |
-| Various | 1 | Greetings etc |  |  |  | Comhghairdeachas | Congratulations |  |  |  |  | co-hard-ye-has |  | Ulster dialect?? |
-| Various | 1 | Greetings etc |  |  |  | Níl a fhios agam | I don't know |  |  |  |  | neil us agam |  |  |
-| Various | 1 | Greetings etc |  |  |  | Tá a fhios agam | I know |  |  |  |  | Ta us agam |  |  |
-| Various | 1 | Greetings etc |  |  |  | cur Gaeilge air? | What's irish for? |  |  |  |  |  |  |  |
-| Various | 1 | Greetings etc |  |  |  | lá breithe shona | happy birthday |  |  |  |  | laa brayha |  |  |
-| Various | 1 | Greetings etc |  |  |  | lá breithe shona duit | happy birthday to you |  |  |  |  |  |  |  |
-
 ## Now You're Talking - Meeting People
 
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
@@ -185,7 +171,16 @@
 | Now You're Talking | 1 | Meeting People |  |  |  | ceann(?) | head |  |  |  |  | cyun |  |  |
 | Now You're Talking | 1 | Meeting People |  |  |  | droim(?) | back |  |  |  |  | drim |  |  |
 | Now You're Talking | 1 | Meeting People |  |  |  | toín(?) | backside |  |  |  |  | towin |  |  |
-| Now You're Talking | 1 | Meeting People |  |  |  | sparán | purse |  |  |  |  | sparaan |  |  |
+| Now You're Talking | 1 | Meeting People | Additional |  |  | sparán | purse |  |  |  |  | sparaan |  |  |
+| Now You're Talking | 1 | Meeting People | Additional |  |  | Tóg go bog é | Take it easy |  |  |  |  | Toe-g geh bow-g eh |  |  |
+| Now You're Talking | 1 | Meeting People | Additional |  |  | póg mo thóin | kiss my ass |  |  |  |  | powg moh hoe-n |  |  |
+| Now You're Talking | 1 | Meeting People | Additional |  |  | Comhghairdeas | Congratulations |  |  |  |  | co-hard-yes |  | Not Ulster dialect?? |
+| Now You're Talking | 1 | Meeting People | Additional |  |  | Comhghairdeachas | Congratulations |  |  |  |  | co-hard-ye-has |  | Ulster dialect?? |
+| Now You're Talking | 1 | Meeting People | Additional |  |  | Níl a fhios agam | I don't know |  |  |  |  | neil us agam |  |  |
+| Now You're Talking | 1 | Meeting People | Additional |  |  | Tá a fhios agam | I know |  |  |  |  | Ta us agam |  |  |
+| Now You're Talking | 1 | Meeting People | Additional |  |  | cur Gaeilge air? | What's irish for? |  |  |  |  |  |  |  |
+| Now You're Talking | 1 | Meeting People | Additional |  |  | lá breithe shona | happy birthday |  |  |  |  | laa brayha |  |  |
+| Now You're Talking | 1 | Meeting People | Additional |  |  | lá breithe shona duit | happy birthday to you |  |  |  |  |  |  |  |
 
 ## Now You're Talking - Introductions
 
@@ -729,6 +724,7 @@
 | Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | leadóg a imirt | play tennis |  |  |  |  |  |  |  |
 | Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol | music |  |  |  |  |  |  |  |
 | Now You're Talking | 5 | Expressing Opinions |  | WORD |  | Cineál | Type |  |  |  |  |  |  |  |
+| Now You're Talking | 5 | Expressing Opinions |  | WORD |  | Cineálacha | Types of music |  |  |  |  |  |  |  |
 | Now You're Talking | 5 | Expressing Opinions |  | WORD |  | Cineálacha ceoil | Types of music |  |  |  |  |  |  |  |
 | Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol traidisiúnta | traditional music |  |  |  |  |  |  |  |
 | Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol clasaiceach | classical music |  |  |  |  |  |  |  |
