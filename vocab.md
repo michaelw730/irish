@@ -3224,7 +3224,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Giota Beag 1 | 3 | I like shopping! |  |  |  | Tá mé i mo chónaí | I live |  |  |  |  | ta may mo howney |  |  |
 | Giota Beag 1 | 3 | I like shopping! |  |  |  | Tá mé ag obair | I am working |  |  |  |  |  |  |  |
-| Giota Beag 1 | 3 | I like shopping! |  |  |  | i mBéal Feirste in Béal Feirste | Belfast |  |  |  |  |  |  |  |
+| Giota Beag 1 | 3 | I like shopping! |  |  |  | I mBéal Feirste | In Belfast |  |  |  |  |  |  |  |
 | Giota Beag 1 | 3 | I like shopping! |  |  |  | siopadóireacht | shopping |  |  |  |  |  |  |  |
 | Giota Beag 1 | 3 | I like shopping! |  |  |  | sacar | soccer |  |  |  |  |  |  |  |
 | Giota Beag 1 | 3 | I like shopping! |  |  |  | Is maith liom ... | I like ... |  |  |  |  |  |  |  |
