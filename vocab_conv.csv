@@ -111,7 +111,7 @@ Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé dorcha	It is dark		
 Now You're Talking	1	Meeting People	Weather	TEMPLATE		Tá sé $WEATHER_DESCRIBE2	It is $WEATHER_DESCRIBE2					taa shay $WEATHER_DESCRIBE2		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé ag cur fearthainne	It is raining					taa shay ig cur far-heen-ya		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé ag cur sneachta	It is snowing					taa shay ag cur snock-ta		
-Now You're Talking	1	Meeting People	Weather	PHRASE		Bhí sé $WEATHER_DESCRIBE	It was $WEATHER_DESCRIBE	repeat for appropriate weather				vee shay $WEATHER_DESCRIBE		
+Now You're Talking	1	Meeting People	Weather	TEMPLATE		Bhí sé $WEATHER_DESCRIBE	It was $WEATHER_DESCRIBE	repeat for appropriate weather				vee shay $WEATHER_DESCRIBE		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé fuar	It was cold	repeat for appropriate weather				vee shay fooar		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé fliuch	It was wet	repeat for appropriate weather				vee shay flu(ch) [(ch) = soft k]		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé te	It was hot	repeat for appropriate weather				vee shay chay		
@@ -124,7 +124,7 @@ Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé scamillach	It was 
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé ceomhar	It was foggy	repeat for appropriate weather				vee shay kyowar??		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé geal	It was bright	repeat for appropriate weather				vee shay gyal		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé dorcha	It was dark	repeat for appropriate weather				vee shay dora-ha		
-Now You're Talking	1	Meeting People	Weather	PHRASE		Níl sé $WEATHER_DESCRIBE	It is not $WEATHER_DESCRIBE	repeat for appropriate weather				Neel shay $WEATHER_DESCRIBE		
+Now You're Talking	1	Meeting People	Weather	TEMPLATE		Níl sé $WEATHER_DESCRIBE	It is not $WEATHER_DESCRIBE	repeat for appropriate weather				Neel shay $WEATHER_DESCRIBE		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Níl sé fuar	It is not cold	repeat for appropriate weather				Neel shay fooar		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Níl sé fliuch	It is not wet	repeat for appropriate weather				Neel shay flu(ch) [(ch) = soft k]		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Níl sé te	It is not hot	repeat for appropriate weather				Neel shay chay		
@@ -150,7 +150,7 @@ Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé iontach scamillach	
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé iontach ceomhar	It is very foggy					taa shay kyowar??		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé iontach geal	It is very bright					taa shay gyal		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Tá sé iontach dorcha	It is very dark					taa shay dora-ha		
-Now You're Talking	1	Meeting People	Weather	PHRASE		Bhí sé iontach $WEATHER_DESCRIBE	It was very $WEATHER_DESCRIBE					vee shay inta $WEATHER_DESCRIBE		
+Now You're Talking	1	Meeting People	Weather	TEMPLATE		Bhí sé iontach $WEATHER_DESCRIBE	It was very $WEATHER_DESCRIBE					vee shay inta $WEATHER_DESCRIBE		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé iontach fuar	It was very cold					vee shay inta fooar		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé iontach fliuch	It was very wet					vee shay inta flu(ch) [(ch) = soft k]		
 Now You're Talking	1	Meeting People	Weather	DYNAMIC		Bhí sé iontach te	It was very hot					vee shay inta chay		
@@ -391,7 +391,7 @@ Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time		HOUR_O_CLOCK	a naoi a 
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time		HOUR_O_CLOCK	a deich a chlog	10 o'clock							
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time		HOUR_O_CLOCK	a haon déag a chlog	11 o'clock							
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time		HOUR_O_CLOCK	a dó dhéag a chlog	12 o'clock							
-Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé $HOUR_O_CLOCK. 	It's $HOUR_O_CLOCK.	repeat for each hour				ta shay $HOUR_O_CLOCK.		
+Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	TEMPLATE		Tá sé $HOUR_O_CLOCK. 	It's $HOUR_O_CLOCK.	repeat for each hour				ta shay $HOUR_O_CLOCK.		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé a haon a chlog. 	It's 1 o'clock.	repeat for each hour				ta shay .		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé a dó a chlog. 	It's 2 o'clock.	repeat for each hour				ta shay .		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé a trí a chlog. 	It's 3 o'clock.	repeat for each hour				ta shay .		
@@ -404,7 +404,7 @@ Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé a naoi
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé a deich a chlog. 	It's 10 o'clock.	repeat for each hour				ta shay .		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé a haon déag a chlog. 	It's 11 o'clock.	repeat for each hour				ta shay .		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé a dó dhéag a chlog. 	It's 12 o'clock.	repeat for each hour				ta shay .		
-Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time			Bhí sé $HOUR_O_CLOCK.	It was $HOUR_O_CLOCK.	repeat for each hour				vee shay $HOUR_O_CLOCK		
+Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	TEMPLATE		Bhí sé $HOUR_O_CLOCK.	It was $HOUR_O_CLOCK.	repeat for each hour				vee shay $HOUR_O_CLOCK		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Bhí sé a haon a chlog.	It was 1 o'clock.	repeat for each hour				vee shay 		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Bhí sé a dó a chlog.	It was 2 o'clock.	repeat for each hour				vee shay 		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Bhí sé a trí a chlog.	It was 3 o'clock.	repeat for each hour				vee shay 		
@@ -427,7 +427,7 @@ Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time			ceathrú go dtí ...	
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time			cúig bomaite i ndiaidh	five minutes past??	repeat for each time						
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time			cúig i ndiaidh	five past??	repeat for each time						
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time			fiche go dtí	twenty to	repeat for each time						
-Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé ceathrú i ndiaidh $HOUR_O_CLOCK	It is a quarter past $HOUR_O_CLOCK	repeat for each time				ceahroo i nyay  $HOUR_O_CLOCK		
+Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	TEMPLATE		Tá sé ceathrú i ndiaidh $HOUR_O_CLOCK	It is a quarter past $HOUR_O_CLOCK	repeat for each time				ceahroo i nyay  $HOUR_O_CLOCK		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé ceathrú i ndiaidh a haon a chlog	It is a quarter past 1 o'clock	repeat for each time				ceahroo i nyay  		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé ceathrú i ndiaidh a dó a chlog	It is a quarter past 2 o'clock	repeat for each time				ceahroo i nyay  		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé ceathrú i ndiaidh a trí a chlog	It is a quarter past 3 o'clock	repeat for each time				ceahroo i nyay  		
@@ -440,7 +440,7 @@ Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé ceathr
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé ceathrú i ndiaidh a deich a chlog	It is a quarter past 10 o'clock	repeat for each time				ceahroo i nyay  		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé ceathrú i ndiaidh a haon déag a chlog	It is a quarter past 11 o'clock	repeat for each time				ceahroo i nyay  		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé ceathrú i ndiaidh a dó dhéag a chlog	It is a quarter past 12 o'clock	repeat for each time				ceahroo i nyay  		
-Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé leath i ndiaidh $HOUR_O_CLOCK	It is half past $HOUR_O_CLOCK	repeat for each time				la i nyay  $HOUR_O_CLOCK		
+Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	TEMPLATE		Tá sé leath i ndiaidh $HOUR_O_CLOCK	It is half past $HOUR_O_CLOCK	repeat for each time				la i nyay  $HOUR_O_CLOCK		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé leath i ndiaidh a haon a chlog	It is half past 1 o'clock	repeat for each time				la i nyay  		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé leath i ndiaidh a dó a chlog	It is half past 2 o'clock	repeat for each time				la i nyay  		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé leath i ndiaidh a trí a chlog	It is half past 3 o'clock	repeat for each time				la i nyay  		
@@ -453,7 +453,7 @@ Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé leath 
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé leath i ndiaidh a deich a chlog	It is half past 10 o'clock	repeat for each time				la i nyay  		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé leath i ndiaidh a haon déag a chlog	It is half past 11 o'clock	repeat for each time				la i nyay  		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé leath i ndiaidh a dó dhéag a chlog	It is half past 12 o'clock	repeat for each time				la i nyay  		
-Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé ceathrú go dtí $HOUR_O_CLOCK	It is a quarter to $HOUR_O_CLOCK	repeat for each time				ceahroo go gee  $HOUR_O_CLOCK		
+Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	TEMPLATE		Tá sé ceathrú go dtí $HOUR_O_CLOCK	It is a quarter to $HOUR_O_CLOCK	repeat for each time				ceahroo go gee  $HOUR_O_CLOCK		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé ceathrú go dtí a haon a chlog	It is a quarter to 1 o'clock	repeat for each time				ceahroo go gee  		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé ceathrú go dtí a dó a chlog	It is a quarter to 2 o'clock	repeat for each time				ceahroo go gee  		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé ceathrú go dtí a trí a chlog	It is a quarter to 3 o'clock	repeat for each time				ceahroo go gee  		
@@ -466,7 +466,7 @@ Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé ceathr
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé ceathrú go dtí a deich a chlog	It is a quarter to 10 o'clock	repeat for each time				ceahroo go gee  		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé ceathrú go dtí a haon déag a chlog	It is a quarter to 11 o'clock	repeat for each time				ceahroo go gee  		
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé ceathrú go dtí a dó dhéag a chlog	It is a quarter to 12 o'clock	repeat for each time				ceahroo go gee  		
-Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé cúig bomaite i ndiaidh $HOUR_O_CLOCK	It is five minutes past $HOUR_O_CLOCK	repeat for each time						
+Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	TEMPLATE		Tá sé cúig bomaite i ndiaidh $HOUR_O_CLOCK	It is five minutes past $HOUR_O_CLOCK	repeat for each time						
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé cúig bomaite i ndiaidh a haon a chlog	It is five minutes past 1 o'clock	repeat for each time						
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé cúig bomaite i ndiaidh a dó a chlog	It is five minutes past 2 o'clock	repeat for each time						
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé cúig bomaite i ndiaidh a trí a chlog	It is five minutes past 3 o'clock	repeat for each time						
@@ -479,7 +479,7 @@ Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé cúig 
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé cúig bomaite i ndiaidh a deich a chlog	It is five minutes past 10 o'clock	repeat for each time						
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé cúig bomaite i ndiaidh a haon déag a chlog	It is five minutes past 11 o'clock	repeat for each time						
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé cúig bomaite i ndiaidh a dó dhéag a chlog	It is five minutes past 12 o'clock	repeat for each time						
-Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé cúig i ndiaidh $HOUR_O_CLOCK	It is five past $HOUR_O_CLOCK	repeat for each time						
+Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	TEMPLATE		Tá sé cúig i ndiaidh $HOUR_O_CLOCK	It is five past $HOUR_O_CLOCK	repeat for each time						
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé cúig i ndiaidh a haon a chlog	It is five past 1 o'clock	repeat for each time						
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé cúig i ndiaidh a dó a chlog	It is five past 2 o'clock	repeat for each time						
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé cúig i ndiaidh a trí a chlog	It is five past 3 o'clock	repeat for each time						
@@ -492,7 +492,7 @@ Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé cúig 
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé cúig i ndiaidh a deich a chlog	It is five past 10 o'clock	repeat for each time						
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé cúig i ndiaidh a haon déag a chlog	It is five past 11 o'clock	repeat for each time						
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé cúig i ndiaidh a dó dhéag a chlog	It is five past 12 o'clock	repeat for each time						
-Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time			Tá sé fiche go dtí $HOUR_O_CLOCK	It is twenty to $HOUR_O_CLOCK	repeat for each time						
+Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	TEMPLATE		Tá sé fiche go dtí $HOUR_O_CLOCK	It is twenty to $HOUR_O_CLOCK	repeat for each time						
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé fiche go dtí a haon a chlog	It is twenty to 1 o'clock	repeat for each time						
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé fiche go dtí a dó a chlog	It is twenty to 2 o'clock	repeat for each time						
 Now You're Talking	3	SPEAKING ABOUT YOUR BACKGROUND	Time	DYNAMIC		Tá sé fiche go dtí a trí a chlog	It is twenty to 3 o'clock	repeat for each time						
@@ -562,25 +562,25 @@ Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Tá Iodáilis líof
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Tá Spáinnis líofa agam.	I speak Spanish fluently.							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Tá Breatnais líofa agam.	I speak Welsh fluently.							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Tá Gaeilge na hAlban líofa agam.	I speak Gaelic (Scotland) fluently.							
-Now You're Talking	4	Discussing Languages	Languages	TEMPLATE		Tá líofa agam.	I speak fluently.							
-Now You're Talking	4	Discussing Languages	Languages	TEMPLATE		Tá líofa agamsa.	*I* speak fluently.							
-Now You're Talking	4	Discussing Languages	Languages	SENTENCE		Tá beagán $LANGUAGE2 agam.	I speak a little $LANGUAGE2.							
+Now You're Talking	4	Discussing Languages	Languages	SENTENCE		Tá líofa agam.	I speak fluently.							
+Now You're Talking	4	Discussing Languages	Languages	SENTENCE		Tá líofa agamsa.	*I* speak fluently.							
+Now You're Talking	4	Discussing Languages	Languages	TEMPLATE		Tá beagán $LANGUAGE2 agam.	I speak a little $LANGUAGE2.							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Tá beagán Gaeilge agam.	I speak a little Irish.							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Tá beagán Fraincise agam.	I speak a little French.							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Tá beagán Gearmáinise agam.	I speak a little German.							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Tá beagán Iodáilise agam.	I speak a little Italian.							
 Now You're Talking	4	Discussing Languages	Languages	SENTENCE		Tá mé ag foghlaim.	I'm learning.							
-Now You're Talking	4	Discussing Languages	Languages	SENTENCE		Tá mé ag foghlaim $LANGUAGE2.	I'm learning $LANGUAGE2.	Repeat for other pronouns/person's name						
+Now You're Talking	4	Discussing Languages	Languages	TEMPLATE		Tá mé ag foghlaim $LANGUAGE2.	I'm learning $LANGUAGE2.	Repeat for other pronouns/person's name						
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Tá mé ag foghlaim Gaeilge.	I'm learning Irish.	Repeat for other pronouns/person's name						
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Tá mé ag foghlaim Fraincise.	I'm learning French.	Repeat for other pronouns/person's name						
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Tá mé ag foghlaim Gearmáinise.	I'm learning German.	Repeat for other pronouns/person's name						
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Tá mé ag foghlaim Iodáilise.	I'm learning Italian.	Repeat for other pronouns/person's name						
-Now You're Talking	4	Discussing Languages	Languages	SENTENCE		Níl mórán $LANGUAGE2 agam.	I can't speak much $LANGUAGE2.							
+Now You're Talking	4	Discussing Languages	Languages	TEMPLATE		Níl mórán $LANGUAGE2 agam.	I can't speak much $LANGUAGE2.							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Níl mórán Gaeilge agam.	I can't speak much Irish.							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Níl mórán Fraincise agam.	I can't speak much French.							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Níl mórán Gearmáinise agam.	I can't speak much German.							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Níl mórán Iodáilise agam.	I can't speak much Italian.							
-Now You're Talking	4	Discussing Languages	Languages	SENTENCE		Níl mórán $LANGUAGE2 agam ach tá mé ag foghlaim.	I can't speak much $LANGUAGE2 but I am learning.							
+Now You're Talking	4	Discussing Languages	Languages	TEMPLATE		Níl mórán $LANGUAGE2 agam ach tá mé ag foghlaim.	I can't speak much $LANGUAGE2 but I am learning.							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Níl mórán Gaeilge agam ach tá mé ag foghlaim.	I can't speak much Irish but I am learning.							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Níl mórán Fraincise agam ach tá mé ag foghlaim.	I can't speak much French but I am learning.							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Níl mórán Gearmáinise agam ach tá mé ag foghlaim.	I can't speak much German but I am learning.							
@@ -596,7 +596,7 @@ Now You're Talking	4	Discussing Languages	Languages	SENTENCE		Níl.	No.
 Now You're Talking	4	Discussing Languages	Languages	SENTENCE		Beagán.	A little.							
 Now You're Talking	4	Discussing Languages	Languages	SENTENCE		Tá. Tá mé líofa.	Yes. I'm fluent.					Ta. Ta may leefa		
 Now You're Talking	4	Discussing Languages	Languages	SENTENCE		an bhfuil tú ag foghlaim?	Are you learning?							
-Now You're Talking	4	Discussing Languages	Languages	SENTENCE		an bhfuil tú ag foghlaim $LANGUAGE?	Are you learning $LANGUAGE?							
+Now You're Talking	4	Discussing Languages	Languages	TEMPLATE		an bhfuil tú ag foghlaim $LANGUAGE?	Are you learning $LANGUAGE?							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		an bhfuil tú ag foghlaim Gaeilge?	Are you learning Irish?							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		an bhfuil tú ag foghlaim Fraincis?	Are you learning French?							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		an bhfuil tú ag foghlaim Béarla?	Are you learning English?							
@@ -611,7 +611,7 @@ Now You're Talking	4	Discussing Languages	Languages	SENTENCE		Tá Fraincis agus 
 Now You're Talking	4	Discussing Languages	Languages	SENTENCE		Tá Iodáilis agam ach níl aon Spáinnis agam.	I speak Italian but I can't speak Spanish.	repeat for other languages						
 Now You're Talking	4	Discussing Languages	Languages	SENTENCE		Níl aon Fhraincis nó Spáinnis agam.	I speak neither French nor Spanish.	repeat for other languages						
 Now You're Talking	4	Discussing Languages	Languages	QUESTION		Cá háit?	Where?					Ca hatch?		If you tell someone that you are learning a language, you might be asked where:
-Now You're Talking	4	Discussing Languages	Languages	QUESTION		Cá bhfuil tú ag foghlaim $LANGUAGE2?	Where are you learning $LANGUAGE2?							
+Now You're Talking	4	Discussing Languages	Languages	TEMPLATE		Cá bhfuil tú ag foghlaim $LANGUAGE2?	Where are you learning $LANGUAGE2?							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Cá bhfuil tú ag foghlaim Gaeilge?	Where are you learning Irish?							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Cá bhfuil tú ag foghlaim Fraincise?	Where are you learning French?							
 Now You're Talking	4	Discussing Languages	Languages	DYNAMIC		Cá bhfuil tú ag foghlaim Gearmáinise?	Where are you learning German?							
@@ -974,7 +974,7 @@ Now You're Talking	5	Expressing Opinions		SENTENCE		Tá sé ceart go leor.	It's 
 Now You're Talking	5	Expressing Opinions		QUESTION		An maith leat é?	Do you like it?							
 Now You're Talking	5	Expressing Opinions		QUESTION		An maith leatsa é?	Do *you* like it?							
 Now You're Talking	5	Expressing Opinions		QUESTION		An maith leat féin é?	Do you like it yourself?							
-Now You're Talking	5	Expressing Opinions		SENTENCE		Is fearr liom $THINGS_TO_LIKE	I prefer $THINGS_TO_LIKE							
+Now You're Talking	5	Expressing Opinions		TEMPLATE		Is fearr liom $THINGS_TO_LIKE	I prefer $THINGS_TO_LIKE							
 Now You're Talking	5	Expressing Opinions		DYNAMIC		Is fearr liom cláracha faisnéise	I prefer documentaries							
 Now You're Talking	5	Expressing Opinions		DYNAMIC		Is fearr liom cláracha spóirt	I prefer sports programmes							
 Now You're Talking	5	Expressing Opinions		DYNAMIC		Is fearr liom cláracha ceoil	I prefer music programmes							
@@ -1218,7 +1218,7 @@ Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Ar mhaith libh cuidiú?	Would you
 Now You're Talking	6	ORDERING DRINKS		SENTENCE		Ba mhaith.	Yes (I would).							
 Now You're Talking	6	ORDERING DRINKS		SENTENCE		Níor mhaith.	No (I wouldn't).							
 Now You're Talking	6	ORDERING DRINKS		SENTENCE		B'fhearr ...	I'd prefer ...					bear...		
-Now You're Talking	6	ORDERING DRINKS		SENTENCE		B'fhearr liom $WHAT_YOU_WANT	I'd prefer $WHAT_YOU_WANT					Bear liom glinye ish-ke		
+Now You're Talking	6	ORDERING DRINKS		TEMPLATE		B'fhearr liom $WHAT_YOU_WANT	I'd prefer $WHAT_YOU_WANT					Bear liom glinye ish-ke		
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom deoch	I'd prefer drink					Bear liom glinye ish-ke		
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom caife	I'd prefer coffee					Bear liom glinye ish-ke		
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom caife dubh	I'd prefer black coffee					Bear liom glinye ish-ke		
@@ -1253,7 +1253,7 @@ Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom úll	I'd prefer app
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		B'fhearr liom cuidiú	I'd prefer help					Bear liom glinye ish-ke		
 Now You're Talking	6	ORDERING DRINKS		SENTENCE		Sláinte!	Cheers!				Health!			
 Now You're Talking	6	ORDERING DRINKS		SENTENCE		Sláinte mhór	Cheers (response??)							
-Now You're Talking	6	ORDERING DRINKS		SENTENCE		$WHAT_YOU_WANT duitse.	$WHAT_YOU_WANT for you.							
+Now You're Talking	6	ORDERING DRINKS		TEMPLATE		$WHAT_YOU_WANT duitse.	$WHAT_YOU_WANT for you.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		deoch duitse.	drink for you.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		caife duitse.	coffee for you.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		caife dubh duitse.	black coffee for you.							
@@ -1286,7 +1286,7 @@ Now You're Talking	6	ORDERING DRINKS		DYNAMIC		ceapaire duitse.	sandwich for you
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		milseáin duitse.	sweets for you.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		úll duitse.	apple for you.							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		cuidiú duitse.	help for you.							
-Now You're Talking	6	ORDERING DRINKS		SENTENCE		Seo do $WHAT_YOU_WANT2	Here's your $WHAT_YOU_WANT2							
+Now You're Talking	6	ORDERING DRINKS		TEMPLATE		Seo do $WHAT_YOU_WANT2	Here's your $WHAT_YOU_WANT2							
 Now You're Talking	6	ORDERING DRINKS		DYNAMIC		Seo do phionta	Here's your pint							
 Now You're Talking	6	ORDERING DRINKS		SENTENCE		Sláinte mhaith agat i bhfad ó bhrón.	Good health, free from sorrow.							
 Now You're Talking	6	ORDERING DRINKS		SENTENCE		Sláinte do bheo agus tróicaire do mharbh.	Health to the living and mercy on the dead.							
@@ -1343,7 +1343,7 @@ Now You're Talking	7	SAYING WHERE YOU'RE GOING		QUESTION		Cá bhfuil tusa ag dul
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		SENTENCE		Tá mé ag dul ...	I'm going ...					Taw may a gul		
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		SENTENCE		Tá mé ag dul go ...	I'm going to ...							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		SENTENCE		Tá mé ag dul go Leitir Ceanainn.	I'm going to Letterkenny.							
-Now You're Talking	7	SAYING WHERE YOU'RE GOING		SENTENCE		Tá mé ag dul go dtí $THE_PLACES.	I'm going to $THE_PLACES.							
+Now You're Talking	7	SAYING WHERE YOU'RE GOING		TEMPLATE		Tá mé ag dul go dtí $THE_PLACES.	I'm going to $THE_PLACES.							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		DYNAMIC		Tá mé ag dul go dtí an caife.	I'm going to the café.							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		DYNAMIC		Tá mé ag dul go dtí an amharclann.	I'm going to the theatre.							
 Now You're Talking	7	SAYING WHERE YOU'RE GOING		DYNAMIC		Tá mé ag dul go dtí an garáiste.	I'm going to the garage.							
@@ -1701,7 +1701,7 @@ Now You're Talking	8	DISCUSSING JOBS		SENTENCE		Ba dhochtúir mé.	I was a docto
 Now You're Talking	8	DISCUSSING JOBS		SENTENCE		Ba banaltra mé.	I was a nurse					ba gochter ma		
 Now You're Talking	8	DISCUSSING JOBS		SENTENCE		B'oibrí monarchan mé.	I was a factory worker							
 Now You're Talking	8	DISCUSSING JOBS		SENTENCE		B'fheirmeoir mé.	I was a farmer							
-Now You're Talking	8	DISCUSSING JOBS		QUESTION		An $JOB tú?	Are you a $JOB?							
+Now You're Talking	8	DISCUSSING JOBS		TEMPLATE		An $JOB tú?	Are you a $JOB?							
 Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		An feirmeoir tú?	Are you a farmer?							
 Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		An siopadóir tú?	Are you a shopkeeper?							
 Now You're Talking	8	DISCUSSING JOBS		DYNAMIC		An búistéir tú?	Are you a butcher?							
@@ -1908,7 +1908,7 @@ Now You're Talking	10	Family1		WORD	NUM_DAUGHTERS	seisear iníonacha	six girls
 Now You're Talking	10	Family1		WORD	NUM_BOYS	ceathrar buachaillí	four boys							
 Now You're Talking	10	Family1		WORD	NUM_GIRLS	beirt chailíní	two girls							
 Now You're Talking	10	Family1		WORD	NUM_GIRLS	cúigear cailíní	five girls							
-Now You're Talking	10	Family1		SENTENCE		Tá $NUM_CHILDREN agam.	I have $NUM_CHILDREN.							
+Now You're Talking	10	Family1		TEMPLATE		Tá $NUM_CHILDREN agam.	I have $NUM_CHILDREN.							
 Now You're Talking	10	Family1		DYNAMIC		Tá páiste amháin agam.	I have one child.							
 Now You're Talking	10	Family1		DYNAMIC		Tá beirt pháistí agam.	I have two children.							
 Now You're Talking	10	Family1		DYNAMIC		Tá triúr páistí agam.	I have three children.							
@@ -1919,16 +1919,16 @@ Now You're Talking	10	Family1		DYNAMIC		Tá seachtar páistí agam.	I have seven
 Now You're Talking	10	Family1		DYNAMIC		Tá ochtar páistí agam.	I have eight children.							
 Now You're Talking	10	Family1		DYNAMIC		Tá naonúr páistí agam.	I have nine children.							
 Now You're Talking	10	Family1		DYNAMIC		Tá deichniúr páistí agam.	I have ten children.							
-Now You're Talking	10	Family1		SENTENCE		Tá $NUM_SONS agam.	I have $NUM_SONS.							
+Now You're Talking	10	Family1		TEMPLATE		Tá $NUM_SONS agam.	I have $NUM_SONS.							
 Now You're Talking	10	Family1		DYNAMIC		Tá mac amháin agam.	I have one son.							
 Now You're Talking	10	Family1		DYNAMIC		Tá beirt mhac agam.	I have two sons.							
 Now You're Talking	10	Family1		DYNAMIC		Tá triúr mac agam.	I have three sons.							
-Now You're Talking	10	Family1		SENTENCE		Tá $NUM_DAUGHTERS agam.	I have $NUM_DAUGHTERS.							
+Now You're Talking	10	Family1		TEMPLATE		Tá $NUM_DAUGHTERS agam.	I have $NUM_DAUGHTERS.							
 Now You're Talking	10	Family1		DYNAMIC		Tá triúr iníonacha agam.	I have three daughters.							
 Now You're Talking	10	Family1		DYNAMIC		Tá seisear iníonacha agam.	I have six girls.							
-Now You're Talking	10	Family1		SENTENCE		Tá $NUM_BOYS agam.	I have $NUM_BOYS.							
+Now You're Talking	10	Family1		TEMPLATE		Tá $NUM_BOYS agam.	I have $NUM_BOYS.							
 Now You're Talking	10	Family1		DYNAMIC		Tá ceathrar buachaillí agam.	I have four boys.							
-Now You're Talking	10	Family1		SENTENCE		Tá $NUM_GIRLS agam.	I have $NUM_GIRLS.							
+Now You're Talking	10	Family1		TEMPLATE		Tá $NUM_GIRLS agam.	I have $NUM_GIRLS.							
 Now You're Talking	10	Family1		DYNAMIC		Tá beirt chailíní agam.	I have two girls.							
 Now You're Talking	10	Family1		DYNAMIC		Tá cúigear cailíní agam.	I have five girls.							
 Now You're Talking	10	Family1		NOUN	SCHOOL_TYPE	scoil	school					skull		
@@ -2041,7 +2041,7 @@ Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		Cá háit a ndeachaigh* tú 
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		Cá háit a ndeachaigh* tú arú aréir?	Where did you go the night before last?					Ca hatch a dja-ha too ?		* The n at the beginning of this word is not pronounced in the Ulster dialect.
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		Cá háit a ndeachaigh* tú maidin inné?	Where did you go yesterday morning?					Ca hatch a dja-ha too ?		* The n at the beginning of this word is not pronounced in the Ulster dialect.
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		Cá háit a ndeachaigh* tú maidin inniú?	Where did you go this morning?					Ca hatch a dja-ha too ?		* The n at the beginning of this word is not pronounced in the Ulster dialect.
-Now You're Talking	11	SAYING WHAT YOU DID		PHRASE		Cad é a rinne tú $RECENT_PERIODS?	What did you do $RECENT_PERIODS?					Ca jay rin too $RECENT_PERIODS?		
+Now You're Talking	11	SAYING WHAT YOU DID		TEMPLATE		Cad é a rinne tú $RECENT_PERIODS?	What did you do $RECENT_PERIODS?					Ca jay rin too $RECENT_PERIODS?		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		Cad é a rinne tú ag an deireadh seachtaine?	What did you do at the weekend?					Ca jay rin too ?		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		Cad é a rinne tú inniú?	What did you do today?					Ca jay rin too ?		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		Cad é a rinne tú inné?	What did you do yesterday?					Ca jay rin too ?		
@@ -2098,7 +2098,7 @@ Now You're Talking	11	SAYING WHAT YOU DID		PHRASE		D'ól mé cúpla pionta.	I ha
 Now You're Talking	11	SAYING WHAT YOU DID		PHRASE		Caithfidh mé labhairt leat inniu	I need to see you today					chiffy me lorch leat innyou		
 Now You're Talking	11	SAYING WHAT YOU DID		VERB		suigh	sit					shees		
 Now You're Talking	11	SAYING WHAT YOU DID				suigh síos	sit down					see shees		
-Now You're Talking	11	SAYING WHAT YOU DID				shuigh $PRONOUNS	$PRONOUNS sat					hee $PRONOUNS		
+Now You're Talking	11	SAYING WHAT YOU DID		TEMPLATE		shuigh $PRONOUNS	$PRONOUNS sat					hee $PRONOUNS		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		shuigh mé	I sat					hee meh		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		shuigh tú	you sat					hee too		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		shuigh sé	he sat					hee shay		
@@ -2106,7 +2106,7 @@ Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		shuigh sí	she sat					hee s
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		shuigh muid	we sat					hee mwidge		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		shuigh sibh	you sat					hee shiv		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		shuigh siad	they  sat					hee Shee-id		
-Now You're Talking	11	SAYING WHAT YOU DID				shuigh $PRONOUNS síos	$PRONOUNS sat down					hee $PRONOUNS shees		
+Now You're Talking	11	SAYING WHAT YOU DID		TEMPLATE		shuigh $PRONOUNS síos	$PRONOUNS sat down					hee $PRONOUNS shees		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		shuigh mé síos	I sat down					hee meh shees		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		shuigh tú síos	you sat down					hee too shees		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		shuigh sé síos	he sat down					hee shay shees		
@@ -2115,7 +2115,7 @@ Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		shuigh muid síos	we sat dow
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		shuigh sibh síos	you sat down					hee shiv shees		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		shuigh siad síos	they  sat down					hee Shee-id shees		
 Now You're Talking	11	SAYING WHAT YOU DID		VERB		druid	close					dridge		
-Now You're Talking	11	SAYING WHAT YOU DID				dhruid $PRONOUNS	$PRONOUNS closed					hridge $PRONOUNS		
+Now You're Talking	11	SAYING WHAT YOU DID		TEMPLATE		dhruid $PRONOUNS	$PRONOUNS closed					hridge $PRONOUNS		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		dhruid mé	I closed					hridge meh		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		dhruid tú	you closed					hridge too		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		dhruid sé	he closed					hridge shay		
@@ -2123,7 +2123,7 @@ Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		dhruid sí	she closed					hr
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		dhruid muid	we closed					hridge mwidge		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		dhruid sibh	you closed					hridge shiv		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		dhruid siad	they  closed					hridge Shee-id		
-Now You're Talking	11	SAYING WHAT YOU DID				dhruid $PRONOUNS an doras	$PRONOUNS closed the door					Hridge $PRONOUNS the door		
+Now You're Talking	11	SAYING WHAT YOU DID		TEMPLATE		dhruid $PRONOUNS an doras	$PRONOUNS closed the door					Hridge $PRONOUNS the door		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		dhruid mé an doras	I closed the door					Hridge meh the door		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		dhruid tú an doras	you closed the door					Hridge too the door		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		dhruid sé an doras	he closed the door					Hridge shay the door		
@@ -2149,7 +2149,7 @@ Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		bhí muid	we was					Vee mwi
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		bhí sibh	you was					Vee shiv		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		bhí siad	they  was					Vee Shee-id		
 Now You're Talking	11	SAYING WHAT YOU DID		PHRASE		Bhí mé ag bainis.	I was at a wedding.					vee me ag bannish		
-Now You're Talking	11	SAYING WHAT YOU DID		PHRASE		Bhí mé i nDoire $RECENT_PERIODS	I was in Derry $RECENT_PERIODS					vee me in nirra $RECENT_PERIODS		
+Now You're Talking	11	SAYING WHAT YOU DID		TEMPLATE		Bhí mé i nDoire $RECENT_PERIODS	I was in Derry $RECENT_PERIODS					vee me in nirra $RECENT_PERIODS		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		Bhí mé i nDoire ag an deireadh seachtaine	I was in Derry at the weekend					vee me in nirra 		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		Bhí mé i nDoire inniú	I was in Derry today					vee me in nirra 		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		Bhí mé i nDoire inné	I was in Derry yesterday					vee me in nirra 		
@@ -2166,7 +2166,7 @@ Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		rinne sí	she did/made					R
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		rinne muid	we did/made					Rinn mwidge		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		rinne sibh	you did/made					Rinn shiv		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		rinne siad	they  did/made					Rinn Shee-id		
-Now You're Talking	11	SAYING WHAT YOU DID		PHRASE		rinne $PRONOUNS an dinnéar	$PRONOUNS made the dinner							
+Now You're Talking	11	SAYING WHAT YOU DID		TEMPLATE		rinne $PRONOUNS an dinnéar	$PRONOUNS made the dinner							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		rinne mé an dinnéar	I made the dinner							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		rinne tú an dinnéar	you made the dinner							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		rinne sé an dinnéar	he made the dinner							
@@ -2182,7 +2182,7 @@ Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		chuala sí	she heard					(th
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		chuala muid	we heard					(throaty) cwilla mwidge		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		chuala sibh	you heard					(throaty) cwilla shiv		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		chuala siad	they  heard					(throaty) cwilla Shee-id		
-Now You're Talking	11	SAYING WHAT YOU DID		PHRASE		Chuala $PRONOUNS ceol	$PRONOUNS heard music							
+Now You're Talking	11	SAYING WHAT YOU DID		TEMPLATE		Chuala $PRONOUNS ceol	$PRONOUNS heard music							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		Chuala mé ceol	I heard music							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		Chuala tú ceol	you heard music							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		Chuala sé ceol	he heard music							
@@ -2214,7 +2214,7 @@ Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		d'ith sí	she ate					dgee s
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		d'ith muid	we ate					dgee mwidge		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		d'ith sibh	you ate					dgee shiv		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		d'ith siad	they  ate					dgee Shee-id		
-Now You're Talking	11	SAYING WHAT YOU DID		PHRASE		D'ith $PRONOUNS dinnéar	$PRONOUNS ate dinner							
+Now You're Talking	11	SAYING WHAT YOU DID		TEMPLATE		D'ith $PRONOUNS dinnéar	$PRONOUNS ate dinner							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		D'ith mé dinnéar	I ate dinner							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		D'ith tú dinnéar	you ate dinner							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		D'ith sé dinnéar	he ate dinner							
@@ -2276,7 +2276,7 @@ Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		rug sí ar	she caught					ru
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		rug muid ar	we caught					rug mwidge ar		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		rug sibh ar	you caught					rug shiv ar		
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		rug siad ar	they  caught					rug Shee-id ar		
-Now You're Talking	11	SAYING WHAT YOU DID		PHRASE		Rug $PRONOUNS liathróid	$PRONOUNS caught a ball							
+Now You're Talking	11	SAYING WHAT YOU DID		TEMPLATE		Rug $PRONOUNS liathróid	$PRONOUNS caught a ball							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		Rug mé liathróid	I caught a ball							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		Rug tú liathróid	you caught a ball							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		Rug sé liathróid	he caught a ball							
@@ -2318,7 +2318,7 @@ Now You're Talking	11	SAYING WHAT YOU DID		WORD	DAYS_OF_WEEK	Déardaoin	Thursday
 Now You're Talking	11	SAYING WHAT YOU DID		WORD	DAYS_OF_WEEK	Dé hAoine	Friday					je heanya		
 Now You're Talking	11	SAYING WHAT YOU DID		WORD	DAYS_OF_WEEK	Dé Sathairn	Saturday					je sahern		
 Now You're Talking	11	SAYING WHAT YOU DID		WORD	DAYS_OF_WEEK	Dé Domhnaigh	Sunday					je doughny		
-Now You're Talking	11	SAYING WHAT YOU DID		PHRASE		maidin $DAYS_OF_WEEK	$DAYS_OF_WEEK morning							
+Now You're Talking	11	SAYING WHAT YOU DID		TEMPLATE		maidin $DAYS_OF_WEEK	$DAYS_OF_WEEK morning							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		maidin Dé Luain	Monday morning							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		maidin Dé Máirt	Tuesday morning							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		maidin Dé Céadaoin	Wednesday morning							
@@ -2326,7 +2326,7 @@ Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		maidin Déardaoin	Thursday m
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		maidin Dé hAoine	Friday morning							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		maidin Dé Sathairn	Saturday morning							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		maidin Dé Domhnaigh	Sunday morning							
-Now You're Talking	11	SAYING WHAT YOU DID		PHRASE		tráthnóna $DAYS_OF_WEEK	$DAYS_OF_WEEK evening							
+Now You're Talking	11	SAYING WHAT YOU DID		TEMPLATE		tráthnóna $DAYS_OF_WEEK	$DAYS_OF_WEEK evening							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		tráthnóna Dé Luain	Monday evening							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		tráthnóna Dé Máirt	Tuesday evening							
 Now You're Talking	11	SAYING WHAT YOU DID		DYNAMIC		tráthnóna Dé Céadaoin	Wednesday evening							
@@ -2456,7 +2456,7 @@ Now You're Talking	12	Taking your leave		DYNAMIC		Chífidh mé Déardaoin tú.	I
 Now You're Talking	12	Taking your leave		DYNAMIC		Chífidh mé Dé hAoine tú.	I'll see you Friday.							
 Now You're Talking	12	Taking your leave		DYNAMIC		Chífidh mé Dé Sathairn tú.	I'll see you Saturday.							
 Now You're Talking	12	Taking your leave		DYNAMIC		Chífidh mé Dé Domhnaigh tú.	I'll see you Sunday.							
-Now You're Talking	12	Taking your leave		PHRASE		Chífidh mé ag $HOUR_O_CLOCK tú.	I'll see you at $HOUR_O_CLOCK.							
+Now You're Talking	12	Taking your leave		TEMPLATE		Chífidh mé ag $HOUR_O_CLOCK tú.	I'll see you at $HOUR_O_CLOCK.							
 Now You're Talking	12	Taking your leave		DYNAMIC		Chífidh mé ag a haon a chlog tú.	I'll see you at 1 o'clock.							
 Now You're Talking	12	Taking your leave		DYNAMIC		Chífidh mé ag a dó a chlog tú.	I'll see you at 2 o'clock.							
 Now You're Talking	12	Taking your leave		DYNAMIC		Chífidh mé ag a trí a chlog tú.	I'll see you at 3 o'clock.							
@@ -2730,12 +2730,12 @@ BBC	2	Personal Traits				Tá cuma óg orm do m'aois	I appear young for my age
 BBC	2	Personal Traits				Tá cuma shean orm do m'aois	I appear old for my age							
 BBC	2	Personal Traits				Cén dath atá ar do chuid gruaige?	What colour is your hair?							
 BBC	2	Personal Traits				Tá mo chuid gruaige...	My hair is...					Ta mo hudge grooiga..		
-BBC	2	Personal Traits				Tá dath $COLOUR ar mo chuid gruaige	My hair is $COLOUR							
+BBC	2	Personal Traits		TEMPLATE		Tá dath $HAIR_COLOUR ar mo chuid gruaige	My hair is $HAIR_COLOUR							
 BBC	2	Personal Traits				Cén dath atá ar do shúile?	What colour are your eyes?							
 BBC	2	Personal Traits				Tá mo shúile...	My eyes are...					Ta mo hula..		
 BBC	2	Personal Traits				Níl mo shúile...	My eyes are not...					Neel mo hula..		
 BBC	2	Personal Traits				...fosta	...as well					fosta		
-BBC	2	Personal Traits				an bhfuil do shúile $COLOUR?	Are your eyes $COLOUR?							
+BBC	2	Personal Traits		TEMPLATE		an bhfuil do shúile $EYE_COLOUR?	Are your eyes $EYE_COLOUR?							
 BBC	2	Personal Traits				ard	tall					aird		
 BBC	2	Personal Traits				beag	small					beug? or bug?		
 BBC	2	Personal Traits				tanaí	slim					tany		
@@ -2983,7 +2983,7 @@ BBC	9	Pets and Animal				Cén sórt peata é/í?	What type of pet is he/she?
 BBC	9	Pets and Animal				Is … é/í.	He/she's a …							
 BBC	9	Pets and Animal				Is madadh é.	He's a dog.							
 BBC	9	Pets and Animal				Is cat í.	She's a cat.							
-BBC	9	Pets and Animal				Tá $ANIMAL agam.	I have a $ANIMAL.							
+BBC	9	Pets and Animal		TEMPLATE		Tá $ANIMAL agam.	I have a $ANIMAL.							
 BBC	9	Pets and Animal				madadh	dog							
 BBC	9	Pets and Animal				cat	cat							
 BBC	9	Pets and Animal				coinín	rabbit							
