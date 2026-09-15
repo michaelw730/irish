@@ -87,13 +87,13 @@ Now You're Talking	1	Meeting People	Weather	WORD	WEATHER_DESCRIBE	dorcha	dark			
 Now You're Talking	1	Meeting People	Weather	WORD	WEATHER_DESCRIBE2	ag cur fearthainne	raining					ig cur far-heen-ya		
 Now You're Talking	1	Meeting People	Weather	WORD	WEATHER_DESCRIBE2	ag cur sneachta	snowing					ag cur snock-ta		
 Now You're Talking	1	Meeting People	Weather	WORD		iontach	extremely / very					inta?		
-Now You're Talking	1	Meeting People	Weather	TEMPLATE		Tá sé $WEATHER_DESCRIBE	it is $WEATHER_DESCRIBE					taa shay $WEATHER_DESCRIBE		
-Now You're Talking	1	Meeting People	Weather	TEMPLATE		Tá sé $WEATHER_DESCRIBE2	it is $WEATHER_DESCRIBE2					taa shay $WEATHER_DESCRIBE2		
-Now You're Talking	1	Meeting People	Weather	PHRASE		Bhí sé $WEATHER_DESCRIBE	it was $WEATHER_DESCRIBE	repeat for appropriate weather				vee shay		
-Now You're Talking	1	Meeting People	Weather	PHRASE		Níl sé $WEATHER_DESCRIBE	it is not $WEATHER_DESCRIBE	repeat for appropriate weather				taa shay		
-Now You're Talking	1	Meeting People	Weather	TEMPLATE		Tá sé iontach $WEATHER_DESCRIBE	it is very $WEATHER_DESCRIBE					taa shay $WEATHER_DESCRIBE		
-Now You're Talking	1	Meeting People	Weather	PHRASE		Bhí sé iontach $WEATHER_DESCRIBE	it was very $WEATHER_DESCRIBE					vee shay		
-Now You're Talking	1	Meeting People	Weather	TEMPLATE		Tá sé lá $WEATHER_DESCRIBE	it is a $WEATHER_DESCRIBE day					taa shay laa $WEATHER_DESCRIBE		
+Now You're Talking	1	Meeting People	Weather	TEMPLATE		Tá sé $WEATHER_DESCRIBE	It is $WEATHER_DESCRIBE					taa shay $WEATHER_DESCRIBE		
+Now You're Talking	1	Meeting People	Weather	TEMPLATE		Tá sé $WEATHER_DESCRIBE2	It is $WEATHER_DESCRIBE2					taa shay $WEATHER_DESCRIBE2		
+Now You're Talking	1	Meeting People	Weather	PHRASE		Bhí sé $WEATHER_DESCRIBE	It was $WEATHER_DESCRIBE	repeat for appropriate weather				vee shay $WEATHER_DESCRIBE		
+Now You're Talking	1	Meeting People	Weather	PHRASE		Níl sé $WEATHER_DESCRIBE	It is not $WEATHER_DESCRIBE	repeat for appropriate weather				Neel shay $WEATHER_DESCRIBE		
+Now You're Talking	1	Meeting People	Weather	TEMPLATE		Tá sé iontach $WEATHER_DESCRIBE	It is very $WEATHER_DESCRIBE					taa shay $WEATHER_DESCRIBE		
+Now You're Talking	1	Meeting People	Weather	PHRASE		Bhí sé iontach $WEATHER_DESCRIBE	It was very $WEATHER_DESCRIBE					vee shay inta $WEATHER_DESCRIBE		
+Now You're Talking	1	Meeting People	Weather	TEMPLATE		Tá sé lá $WEATHER_DESCRIBE	It is a $WEATHER_DESCRIBE day					taa shay laa $WEATHER_DESCRIBE		
 Now You're Talking	1	Meeting People	Weather	PHRASE		Tá	Yes [to agree with the weather]							
 Now You're Talking	1	Meeting People	Weather	SENTENCE		Tá, cinnte.	It is indeed/surely.					teh, kintche		
 Now You're Talking	1	Meeting People	Weather	SENTENCE		Tá lá breá ann.	It's a fine day.					teh leh breah ann		

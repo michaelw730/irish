@@ -99,87 +99,87 @@
 | Now You're Talking | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE2 | ag cur fearthainne | raining |  |  |  |  | ig cur far-heen-ya |  |  |
 | Now You're Talking | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE2 | ag cur sneachta | snowing |  |  |  |  | ag cur snock-ta |  |  |
 | Now You're Talking | 1 | Meeting People | Weather | WORD |  | iontach | extremely / very |  |  |  |  | inta? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | TEMPLATE |  | Tá sé $WEATHER_DESCRIBE | it is $WEATHER_DESCRIBE |  |  |  |  | taa shay $WEATHER_DESCRIBE |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé fuar | it is cold |  |  |  |  | taa shay fooar |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé fliuch | it is wet |  |  |  |  | taa shay flu(ch) [(ch) = soft k] |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé te | it is hot |  |  |  |  | taa shay chay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé báistí | it is rainy |  |  |  |  | taa shay  |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé gaofar | it is windy |  |  |  |  | taa shay gweefor/geefo? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé tirim | it is dry |  |  |  |  | taa shay Chur-im |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé taise | it is damp |  |  |  |  | taa shay tasha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé grianmhar | it is sunny |  |  |  |  | taa shay grain-wur |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé scamillach | it is cloudy |  |  |  |  | taa shay scam-ill-ock |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé ceomhar | it is foggy |  |  |  |  | taa shay kyowar?? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé geal | it is bright |  |  |  |  | taa shay gyal |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé dorcha | it is dark |  |  |  |  | taa shay dora-ha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | TEMPLATE |  | Tá sé $WEATHER_DESCRIBE2 | it is $WEATHER_DESCRIBE2 |  |  |  |  | taa shay $WEATHER_DESCRIBE2 |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé ag cur fearthainne | it is raining |  |  |  |  | taa shay ig cur far-heen-ya |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé ag cur sneachta | it is snowing |  |  |  |  | taa shay ag cur snock-ta |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | PHRASE |  | Bhí sé $WEATHER_DESCRIBE | it was $WEATHER_DESCRIBE | repeat for appropriate weather |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé fuar | it was cold | repeat for appropriate weather |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé fliuch | it was wet | repeat for appropriate weather |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé te | it was hot | repeat for appropriate weather |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé báistí | it was rainy | repeat for appropriate weather |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé gaofar | it was windy | repeat for appropriate weather |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé tirim | it was dry | repeat for appropriate weather |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé taise | it was damp | repeat for appropriate weather |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé grianmhar | it was sunny | repeat for appropriate weather |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé scamillach | it was cloudy | repeat for appropriate weather |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé ceomhar | it was foggy | repeat for appropriate weather |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé geal | it was bright | repeat for appropriate weather |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé dorcha | it was dark | repeat for appropriate weather |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | PHRASE |  | Níl sé $WEATHER_DESCRIBE | it is not $WEATHER_DESCRIBE | repeat for appropriate weather |  |  |  | taa shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé fuar | it is not cold | repeat for appropriate weather |  |  |  | taa shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé fliuch | it is not wet | repeat for appropriate weather |  |  |  | taa shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé te | it is not hot | repeat for appropriate weather |  |  |  | taa shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé báistí | it is not rainy | repeat for appropriate weather |  |  |  | taa shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé gaofar | it is not windy | repeat for appropriate weather |  |  |  | taa shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé tirim | it is not dry | repeat for appropriate weather |  |  |  | taa shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé taise | it is not damp | repeat for appropriate weather |  |  |  | taa shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé grianmhar | it is not sunny | repeat for appropriate weather |  |  |  | taa shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé scamillach | it is not cloudy | repeat for appropriate weather |  |  |  | taa shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé ceomhar | it is not foggy | repeat for appropriate weather |  |  |  | taa shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé geal | it is not bright | repeat for appropriate weather |  |  |  | taa shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé dorcha | it is not dark | repeat for appropriate weather |  |  |  | taa shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | TEMPLATE |  | Tá sé iontach $WEATHER_DESCRIBE | it is very $WEATHER_DESCRIBE |  |  |  |  | taa shay $WEATHER_DESCRIBE |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach fuar | it is very cold |  |  |  |  | taa shay fooar |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach fliuch | it is very wet |  |  |  |  | taa shay flu(ch) [(ch) = soft k] |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach te | it is very hot |  |  |  |  | taa shay chay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach báistí | it is very rainy |  |  |  |  | taa shay  |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach gaofar | it is very windy |  |  |  |  | taa shay gweefor/geefo? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach tirim | it is very dry |  |  |  |  | taa shay Chur-im |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach taise | it is very damp |  |  |  |  | taa shay tasha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach grianmhar | it is very sunny |  |  |  |  | taa shay grain-wur |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach scamillach | it is very cloudy |  |  |  |  | taa shay scam-ill-ock |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach ceomhar | it is very foggy |  |  |  |  | taa shay kyowar?? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach geal | it is very bright |  |  |  |  | taa shay gyal |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach dorcha | it is very dark |  |  |  |  | taa shay dora-ha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | PHRASE |  | Bhí sé iontach $WEATHER_DESCRIBE | it was very $WEATHER_DESCRIBE |  |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach fuar | it was very cold |  |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach fliuch | it was very wet |  |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach te | it was very hot |  |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach báistí | it was very rainy |  |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach gaofar | it was very windy |  |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach tirim | it was very dry |  |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach taise | it was very damp |  |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach grianmhar | it was very sunny |  |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach scamillach | it was very cloudy |  |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach ceomhar | it was very foggy |  |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach geal | it was very bright |  |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach dorcha | it was very dark |  |  |  |  | vee shay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | TEMPLATE |  | Tá sé lá $WEATHER_DESCRIBE | it is a $WEATHER_DESCRIBE day |  |  |  |  | taa shay laa $WEATHER_DESCRIBE |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá fuar | it is a cold day |  |  |  |  | taa shay laa fooar |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá fliuch | it is a wet day |  |  |  |  | taa shay laa flu(ch) [(ch) = soft k] |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá te | it is a hot day |  |  |  |  | taa shay laa chay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá báistí | it is a rainy day |  |  |  |  | taa shay laa  |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá gaofar | it is a windy day |  |  |  |  | taa shay laa gweefor/geefo? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá tirim | it is a dry day |  |  |  |  | taa shay laa Chur-im |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá taise | it is a damp day |  |  |  |  | taa shay laa tasha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá grianmhar | it is a sunny day |  |  |  |  | taa shay laa grain-wur |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá scamillach | it is a cloudy day |  |  |  |  | taa shay laa scam-ill-ock |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá ceomhar | it is a foggy day |  |  |  |  | taa shay laa kyowar?? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá geal | it is a bright day |  |  |  |  | taa shay laa gyal |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá dorcha | it is a dark day |  |  |  |  | taa shay laa dora-ha |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | TEMPLATE |  | Tá sé $WEATHER_DESCRIBE | It is $WEATHER_DESCRIBE |  |  |  |  | taa shay $WEATHER_DESCRIBE |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé fuar | It is cold |  |  |  |  | taa shay fooar |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé fliuch | It is wet |  |  |  |  | taa shay flu(ch) [(ch) = soft k] |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé te | It is hot |  |  |  |  | taa shay chay |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé báistí | It is rainy |  |  |  |  | taa shay  |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé gaofar | It is windy |  |  |  |  | taa shay gweefor/geefo? |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé tirim | It is dry |  |  |  |  | taa shay Chur-im |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé taise | It is damp |  |  |  |  | taa shay tasha |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé grianmhar | It is sunny |  |  |  |  | taa shay grain-wur |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé scamillach | It is cloudy |  |  |  |  | taa shay scam-ill-ock |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé ceomhar | It is foggy |  |  |  |  | taa shay kyowar?? |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé geal | It is bright |  |  |  |  | taa shay gyal |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé dorcha | It is dark |  |  |  |  | taa shay dora-ha |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | TEMPLATE |  | Tá sé $WEATHER_DESCRIBE2 | It is $WEATHER_DESCRIBE2 |  |  |  |  | taa shay $WEATHER_DESCRIBE2 |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé ag cur fearthainne | It is raining |  |  |  |  | taa shay ig cur far-heen-ya |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé ag cur sneachta | It is snowing |  |  |  |  | taa shay ag cur snock-ta |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | PHRASE |  | Bhí sé $WEATHER_DESCRIBE | It was $WEATHER_DESCRIBE | repeat for appropriate weather |  |  |  | vee shay $WEATHER_DESCRIBE |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé fuar | It was cold | repeat for appropriate weather |  |  |  | vee shay fooar |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé fliuch | It was wet | repeat for appropriate weather |  |  |  | vee shay flu(ch) [(ch) = soft k] |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé te | It was hot | repeat for appropriate weather |  |  |  | vee shay chay |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé báistí | It was rainy | repeat for appropriate weather |  |  |  | vee shay  |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé gaofar | It was windy | repeat for appropriate weather |  |  |  | vee shay gweefor/geefo? |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé tirim | It was dry | repeat for appropriate weather |  |  |  | vee shay Chur-im |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé taise | It was damp | repeat for appropriate weather |  |  |  | vee shay tasha |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé grianmhar | It was sunny | repeat for appropriate weather |  |  |  | vee shay grain-wur |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé scamillach | It was cloudy | repeat for appropriate weather |  |  |  | vee shay scam-ill-ock |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé ceomhar | It was foggy | repeat for appropriate weather |  |  |  | vee shay kyowar?? |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé geal | It was bright | repeat for appropriate weather |  |  |  | vee shay gyal |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé dorcha | It was dark | repeat for appropriate weather |  |  |  | vee shay dora-ha |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | PHRASE |  | Níl sé $WEATHER_DESCRIBE | It is not $WEATHER_DESCRIBE | repeat for appropriate weather |  |  |  | Neel shay $WEATHER_DESCRIBE |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé fuar | It is not cold | repeat for appropriate weather |  |  |  | Neel shay fooar |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé fliuch | It is not wet | repeat for appropriate weather |  |  |  | Neel shay flu(ch) [(ch) = soft k] |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé te | It is not hot | repeat for appropriate weather |  |  |  | Neel shay chay |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé báistí | It is not rainy | repeat for appropriate weather |  |  |  | Neel shay  |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé gaofar | It is not windy | repeat for appropriate weather |  |  |  | Neel shay gweefor/geefo? |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé tirim | It is not dry | repeat for appropriate weather |  |  |  | Neel shay Chur-im |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé taise | It is not damp | repeat for appropriate weather |  |  |  | Neel shay tasha |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé grianmhar | It is not sunny | repeat for appropriate weather |  |  |  | Neel shay grain-wur |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé scamillach | It is not cloudy | repeat for appropriate weather |  |  |  | Neel shay scam-ill-ock |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé ceomhar | It is not foggy | repeat for appropriate weather |  |  |  | Neel shay kyowar?? |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé geal | It is not bright | repeat for appropriate weather |  |  |  | Neel shay gyal |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé dorcha | It is not dark | repeat for appropriate weather |  |  |  | Neel shay dora-ha |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | TEMPLATE |  | Tá sé iontach $WEATHER_DESCRIBE | It is very $WEATHER_DESCRIBE |  |  |  |  | taa shay $WEATHER_DESCRIBE |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach fuar | It is very cold |  |  |  |  | taa shay fooar |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach fliuch | It is very wet |  |  |  |  | taa shay flu(ch) [(ch) = soft k] |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach te | It is very hot |  |  |  |  | taa shay chay |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach báistí | It is very rainy |  |  |  |  | taa shay  |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach gaofar | It is very windy |  |  |  |  | taa shay gweefor/geefo? |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach tirim | It is very dry |  |  |  |  | taa shay Chur-im |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach taise | It is very damp |  |  |  |  | taa shay tasha |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach grianmhar | It is very sunny |  |  |  |  | taa shay grain-wur |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach scamillach | It is very cloudy |  |  |  |  | taa shay scam-ill-ock |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach ceomhar | It is very foggy |  |  |  |  | taa shay kyowar?? |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach geal | It is very bright |  |  |  |  | taa shay gyal |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach dorcha | It is very dark |  |  |  |  | taa shay dora-ha |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | PHRASE |  | Bhí sé iontach $WEATHER_DESCRIBE | It was very $WEATHER_DESCRIBE |  |  |  |  | vee shay inta $WEATHER_DESCRIBE |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach fuar | It was very cold |  |  |  |  | vee shay inta fooar |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach fliuch | It was very wet |  |  |  |  | vee shay inta flu(ch) [(ch) = soft k] |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach te | It was very hot |  |  |  |  | vee shay inta chay |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach báistí | It was very rainy |  |  |  |  | vee shay inta  |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach gaofar | It was very windy |  |  |  |  | vee shay inta gweefor/geefo? |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach tirim | It was very dry |  |  |  |  | vee shay inta Chur-im |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach taise | It was very damp |  |  |  |  | vee shay inta tasha |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach grianmhar | It was very sunny |  |  |  |  | vee shay inta grain-wur |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach scamillach | It was very cloudy |  |  |  |  | vee shay inta scam-ill-ock |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach ceomhar | It was very foggy |  |  |  |  | vee shay inta kyowar?? |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach geal | It was very bright |  |  |  |  | vee shay inta gyal |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach dorcha | It was very dark |  |  |  |  | vee shay inta dora-ha |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | TEMPLATE |  | Tá sé lá $WEATHER_DESCRIBE | It is a $WEATHER_DESCRIBE day |  |  |  |  | taa shay laa $WEATHER_DESCRIBE |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá fuar | It is a cold day |  |  |  |  | taa shay laa fooar |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá fliuch | It is a wet day |  |  |  |  | taa shay laa flu(ch) [(ch) = soft k] |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá te | It is a hot day |  |  |  |  | taa shay laa chay |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá báistí | It is a rainy day |  |  |  |  | taa shay laa  |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá gaofar | It is a windy day |  |  |  |  | taa shay laa gweefor/geefo? |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá tirim | It is a dry day |  |  |  |  | taa shay laa Chur-im |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá taise | It is a damp day |  |  |  |  | taa shay laa tasha |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá grianmhar | It is a sunny day |  |  |  |  | taa shay laa grain-wur |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá scamillach | It is a cloudy day |  |  |  |  | taa shay laa scam-ill-ock |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá ceomhar | It is a foggy day |  |  |  |  | taa shay laa kyowar?? |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá geal | It is a bright day |  |  |  |  | taa shay laa gyal |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá dorcha | It is a dark day |  |  |  |  | taa shay laa dora-ha |  |  |
 | Now You're Talking | 1 | Meeting People | Weather | PHRASE |  | Tá | Yes [to agree with the weather] |  |  |  |  |  |  |  |
 | Now You're Talking | 1 | Meeting People | Weather | SENTENCE |  | Tá, cinnte. | It is indeed/surely. |  |  |  |  | teh, kintche |  |  |
 | Now You're Talking | 1 | Meeting People | Weather | SENTENCE |  | Tá lá breá ann. | It's a fine day. |  |  |  |  | teh leh breah ann |  |  |
