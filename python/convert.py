@@ -4,7 +4,7 @@ FILE = "../vocab.csv"
 FILE_CONV = "../vocab_conv.csv"
 FILE_MD = "../vocab.md"
 
-def main_csv():
+def convert_to_csv():
     con = duckdb.connect()
     con.execute(f"CREATE TABLE vocab AS SELECT * FROM read_csv_auto('{FILE}', delim='\t',sample_size = -1, ignore_errors = false);")
     cursor = con.execute("SELECT * FROM vocab")
@@ -36,6 +36,9 @@ def main_csv():
 
         # dynamic
         if "$" in row_as_dict['irish']:
+            if row_as_dict['type'] != "TEMPLATE" and "$NAME" not in row_as_dict['irish'] and "$SURNAME" not in row_as_dict['irish'] and "$AGE" not in row_as_dict['irish']:
+                print(f"Found a dynamic word: {row_as_dict['irish']}")
+                exit()
             # clean up None values
             for key in row_as_dict:
                 if row_as_dict[key] is None:
@@ -82,7 +85,7 @@ def main_csv():
         f.write(header)
         f.write(output)
 
-def main_duckdb():
+def convert_to_markdown():
     con = duckdb.connect()
     con.execute(f"CREATE TABLE vocab AS SELECT * FROM read_csv_auto('{FILE_CONV}', delim='\t');")
     cursor = con.sql("SELECT * FROM vocab")
@@ -122,5 +125,5 @@ def main_duckdb():
         f.write(output)
 
 if __name__ == "__main__":
-    main_csv()
-    main_duckdb()
+    convert_to_csv()
+    convert_to_markdown()

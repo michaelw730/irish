@@ -22,6 +22,10 @@ def main(response, program, episode):
             if row_as_dict[key] is None:
                 row_as_dict[key] = ""
 
+        # skip template rows
+        if row_as_dict['type'] == "TEMPLATE":
+            break
+
         if response == "1":
             question = f"Q: {row_as_dict['irish']} [S/P: {row_as_dict['s_p']}] (INFO: {row_as_dict['info']})"
             answer = f"A: {row_as_dict['meaning']} (IRISH_PHONETIC: {row_as_dict['phonetic']})"
