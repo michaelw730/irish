@@ -4,6 +4,34 @@ FILE = "../vocab.csv"
 FILE_CONV = "../vocab_conv.csv"
 FILE_MD = "../vocab.md"
 
+def data_quality_check():
+    con = duckdb.connect()
+    con.execute(f"CREATE TABLE vocab AS SELECT * FROM read_csv_auto('{FILE}', delim='\t',sample_size = -1, ignore_errors = false);")
+    cursor = con.execute("SELECT * FROM vocab")
+
+    # Extract column names using a list comprehension
+    columns = [desc[0] for desc in cursor.description]
+    print(f"Column names: {columns}")
+
+    all_rows = cursor.fetchall()
+
+    for row in all_rows:
+        if row is None:
+            break
+        print(f"Row: {row}")
+        row_as_dict = dict(zip(columns, row))
+        #print(row)
+
+        row = ('' if item is None else item for item in row)
+
+        # dynamic
+        if "$" in row_as_dict['irish']:
+            if row_as_dict['type'] != "TEMPLATE" and "$NAME" not in row_as_dict['irish'] and "$SURNAME" not in row_as_dict['irish'] and "$AGE" not in row_as_dict['irish']:
+                print(f"Found a dynamic word: {row_as_dict['irish']}")
+                exit()
+
+    print("Data quality check passed. No dynamic words found in non-template rows.")
+
 def convert_to_csv():
     con = duckdb.connect()
     con.execute(f"CREATE TABLE vocab AS SELECT * FROM read_csv_auto('{FILE}', delim='\t',sample_size = -1, ignore_errors = false);")
@@ -36,9 +64,6 @@ def convert_to_csv():
 
         # dynamic
         if "$" in row_as_dict['irish']:
-            if row_as_dict['type'] != "TEMPLATE" and "$NAME" not in row_as_dict['irish'] and "$SURNAME" not in row_as_dict['irish'] and "$AGE" not in row_as_dict['irish']:
-                print(f"Found a dynamic word: {row_as_dict['irish']}")
-                exit()
             # clean up None values
             for key in row_as_dict:
                 if row_as_dict[key] is None:
@@ -125,5 +150,6 @@ def convert_to_markdown():
         f.write(output)
 
 if __name__ == "__main__":
+    data_quality_check()
     convert_to_csv()
     convert_to_markdown()
