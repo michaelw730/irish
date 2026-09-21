@@ -1323,6 +1323,10 @@
 | Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | An ólann tú caife? | Do you drink coffee? |  |  |  |  |  |  |  |
 | Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Ólaim. | Yes/I drink |  |  |  |  |  |  |  |
 | Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Ní ólaim | No/I don't drink |  |  |  |  |  |  |  |
+| Now You're Talking | 6 | ORDERING DRINKS | Additional | SENTENCE |  | Cad é ba mhaith leat a ól? | What would you like to drink? |  |  |  |  |  |  |  |
+| Now You're Talking | 6 | ORDERING DRINKS | Additional | SENTENCE |  | Ar mhaith leat Coke? | Would you like coke? |  |  |  |  |  |  |  |
+| Now You're Talking | 6 | ORDERING DRINKS | Additional | SENTENCE |  | Cad é ba mhaith leat a ól leis an dinnéar? | What would you like to drink with dinner? |  |  |  |  |  |  |  |
+| Now You're Talking | 6 | ORDERING DRINKS | Additional | SENTENCE |  | Cad é ba mhaith leat a ól leis do dhinnéar? | What would you like to drink with your dinner? |  |  |  |  |  |  |  |
 
 ## Now You're Talking - SAYING WHERE YOU'RE GOING
 
