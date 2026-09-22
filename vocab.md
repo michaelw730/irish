@@ -6,7 +6,7 @@
 | Now You're Talking | 1 | Meeting People |  | WORD |  | Fáilte | Welcome |  |  |  |  |  |  |  |
 | Now You're Talking | 1 | Meeting People |  | PHRASE |  | Tá fáilte romhat | you're welcome |  |  |  | There is a welcome for / before you |  |  |  |
 | Now You're Talking | 1 | Meeting People |  | WORD |  | Aonad 1 | Unit 1 |  |  |  |  | Ay-nid a hein |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE |  | fáilte romhat go Aonad 1 | welcome to unit 1 |  |  |  | There is a welcome for / before you |  |  |  |
+| Now You're Talking | 1 | Meeting People |  | PHRASE |  | Fáilte romhat go Aonad 1 | Welcome to unit 1 |  |  |  | There is a welcome for / before you |  |  |  |
 | Now You're Talking | 1 | Meeting People |  | WORD |  | duine | person |  |  |  |  | dinye |  |  |
 | Now You're Talking | 1 | Meeting People |  | WORD |  | daoine | people |  |  |  |  | deeny |  |  |
 | Now You're Talking | 1 | Meeting People |  | PHRASE |  | Ag bualadh le daoine | Meeting people |  |  |  | meeting with people?? | Ag Bwayla le deeny |  |  |
@@ -56,21 +56,21 @@
 | Now You're Talking | 1 | Meeting People |  | DYNAMIC |  | Tá mé go measaratha. | I am reasonable/middling | Repeat for other pronouns/person's name |  |  |  |  |  |  |
 | Now You're Talking | 1 | Meeting People |  | DYNAMIC |  | Tá mé go measaratha maith. | I am reasonable/middling good | Repeat for other pronouns/person's name |  |  |  |  |  |  |
 | Now You're Talking | 1 | Meeting People |  | DYNAMIC |  | Tá mé i gceart. | I am rightly | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Níl mé go maith. | I am not good | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Níl mé go maith | I am not good | Repeat for other pronouns/person's name |  |  |  |  |  |  |
 | Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Níl caill orm | I am not too bad (or There's no loss upon me) |  |  |  |  |  |  |  |
 | Now You're Talking | 1 | Meeting People |  | QUESTION |  | Agus tú féin? | And yourself? |  |  |  |  | Agus tu hain? |  |  |
 | Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Is maith sin | That's good/great |  |  |  |  |  |  |  |
 | Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Go raibh maith agat | Thank you |  | s |  |  |  |  |  |
 | Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Go raibh maith agaibh | Thank you |  | p |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Go raibh céad maith agat | Thank you very much |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Go raibh míle maith agat | Thank you very much |  |  |  |  |  |  |  |
+| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Go raibh céad maith agat | Thank you very much |  |  |  |  |  |  | Thanks a hundred times?? |
+| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Go raibh míle maith agat | Thank you very much |  |  |  |  |  |  | Thanks a million?? |
 | Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Céad míle fáilte | Hundred thousand welcomes |  |  |  |  |  |  |  |
 | Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Go ndéana sé maith duit | May it do you good/May it be good for you |  |  |  |  |  |  | If saying thanks for a pint?? |
 | Now You're Talking | 1 | Meeting People |  | WORD |  | Cluiche | game |  |  |  |  | Clee-ha |  |  |
 | Now You're Talking | 1 | Meeting People |  | WORD |  | fichille | chess |  |  |  |  | feel-ha |  |  |
 | Now You're Talking | 1 | Meeting People |  | PHRASE |  | Cluiche fichille? | A game of chess?/Chess game? |  |  |  |  | Clee-ha feel-ha |  |  |
 | Now You're Talking | 1 | Meeting People |  | QUESTION |  | An bhfuil tú go maith? | Are you well? | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | arís | again. |  |  |  |  |  |  |  |
+| Now You're Talking | 1 | Meeting People |  | WORD |  | arís | again |  |  |  |  |  |  |  |
 | Now You're Talking | 1 | Meeting People |  | WORD |  | Faisnéis | Information |  |  |  |  |  |  |  |
 | Now You're Talking | 1 | Meeting People |  | WORD |  | freagair | reply/answer |  |  |  |  | freggar |  |  |
 | Now You're Talking | 1 | Meeting People | Weather | WORD |  | lá | day |  |  |  |  | laa?? |  |  |
@@ -180,7 +180,7 @@
 | Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá ceomhar | It is a foggy day |  |  |  |  | taa shay laa kyowar?? |  |  |
 | Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá geal | It is a bright day |  |  |  |  | taa shay laa gyal |  |  |
 | Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá dorcha | It is a dark day |  |  |  |  | taa shay laa dora-ha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | PHRASE |  | Tá | Yes [to agree with the weather] |  |  |  |  |  |  |  |
+| Now You're Talking | 1 | Meeting People | Weather | PHRASE |  | Tá | Yes |  |  |  |  |  |  | to agree with the weather |
 | Now You're Talking | 1 | Meeting People | Weather | SENTENCE |  | Tá, cinnte. | It is indeed/surely. |  |  |  |  | teh, kintche |  |  |
 | Now You're Talking | 1 | Meeting People | Weather | SENTENCE |  | Tá lá breá ann. | It's a fine day. |  |  |  |  | teh leh breah ann |  |  |
 | Now You're Talking | 1 | Meeting People | Weather | SENTENCE |  | Tá lá breá ann inniu. | It's a fine day today. |  |  |  |  | teh leh breah ann inn-u |  |  |
@@ -192,29 +192,29 @@
 | Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán leat | Goodbye to you |  | s |  | may safety or health be with you |  |  |  |
 | Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán libh | Goodbye to you |  | p |  |  |  |  |  |
 | Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán abhaile | Safe home |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Ádh mór | Good luck  |  |  |  | big luck | aw more |  |  |
-| Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Ádh mór ort | Good luck to you |  | s |  | big luck on you |  |  |  |
+| Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Ádh mór | Good luck  |  |  |  | big luck | aw more |  | on you |
+| Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Ádh mór ort | Good luck to you |  | s |  | big luck on you |  |  | on you |
 | Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Ádh mór oraibh | Good luck to you |  | p |  |  |  |  |  |
 | Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Chífidh mé tú. | I'll see you. |  |  |  |  |  |  | Ulster dialect?? |
 | Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Feicfidh mé arís thú. | I'll see you again. |  |  |  |  | Fecky may arish hu |  | Not Ulster dialect?? |
 | Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Feicfidh mé amárach thú | I'll see you tomorrow. |  |  |  |  | Fecky may amarach hu |  | Not Ulster dialect?? |
 | Now You're Talking | 1 | Meeting People |  | WORD |  | deireadh | end |  |  |  |  | djeroo |  |  |
-| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Tá Sin deireadh le aonad 1 | That's the end of unit 1 |  |  |  |  | Sin djeroo le ay-nid... |  |  |
-| Now You're Talking | 1 | Meeting People |  |  |  | Béal Feirste | Belfast |  |  |  |  | bell firstye |  | mouth of the river farset |
-| Now You're Talking | 1 | Meeting People |  |  |  | béal | mouth |  |  |  |  | bell |  |  |
-| Now You're Talking | 1 | Meeting People |  |  |  | gualainn | shoulder |  |  |  |  | goola |  |  |
-| Now You're Talking | 1 | Meeting People |  |  |  | cos | foot |  |  |  |  | cos |  |  |
-| Now You're Talking | 1 | Meeting People |  |  |  | ceann | head |  |  |  |  | cyun |  |  |
-| Now You're Talking | 1 | Meeting People |  |  |  | droim | back |  |  |  |  | drim |  |  |
-| Now You're Talking | 1 | Meeting People |  |  |  | toín | backside |  |  |  |  | towin |  |  |
-| Now You're Talking | 1 | Meeting People | Additional |  |  | sparán | purse |  |  |  |  | sparaan |  |  |
-| Now You're Talking | 1 | Meeting People | Additional |  |  | Tóg go bog é | Take it easy |  |  |  |  | Toe-g geh bow-g eh |  |  |
-| Now You're Talking | 1 | Meeting People | Additional |  |  | póg mo thóin | kiss my ass |  |  |  |  | powg moh hoe-n |  |  |
-| Now You're Talking | 1 | Meeting People | Additional |  |  | Comhghairdeas | Congratulations |  |  |  |  | co-hard-yes |  | Not Ulster dialect?? |
-| Now You're Talking | 1 | Meeting People | Additional |  |  | Comhghairdeachas | Congratulations |  |  |  |  | co-hard-ye-has |  | Ulster dialect?? |
-| Now You're Talking | 1 | Meeting People | Additional |  |  | Níl a fhios agam | I don't know |  |  |  |  | neil us agam |  |  |
-| Now You're Talking | 1 | Meeting People | Additional |  |  | Tá a fhios agam | I know |  |  |  |  | Ta us agam |  |  |
-| Now You're Talking | 1 | Meeting People | Additional |  |  | cur Gaeilge air? | What's Irish for? |  |  |  |  | Son-eh |  |  |
+| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Tá sin deireadh le aonad 1 | That's the end of unit 1 |  |  |  |  | Sin djeroo le ay-nid... |  |  |
+| Now You're Talking | 1 | Meeting People |  | WORD |  | Béal Feirste | Belfast |  |  |  |  | bell firstye |  | mouth of the river farset |
+| Now You're Talking | 1 | Meeting People |  | WORD |  | béal | mouth |  |  |  |  | bell |  |  |
+| Now You're Talking | 1 | Meeting People |  | WORD |  | gualainn | shoulder |  |  |  |  | goola |  |  |
+| Now You're Talking | 1 | Meeting People |  | WORD |  | cos | foot |  |  |  |  | cos |  |  |
+| Now You're Talking | 1 | Meeting People |  | WORD |  | ceann | head |  |  |  |  | cyun |  |  |
+| Now You're Talking | 1 | Meeting People |  | WORD |  | droim | back |  |  |  |  | drim |  |  |
+| Now You're Talking | 1 | Meeting People |  | WORD |  | toín | backside |  |  |  |  | towin |  |  |
+| Now You're Talking | 1 | Meeting People |  | WORD |  | sparán | purse |  |  |  |  | sparaan |  |  |
+| Now You're Talking | 1 | Meeting People | Additional | PHRASE |  | Tóg go bog é | Take it easy |  |  |  |  | Toe-g geh bow-g eh |  |  |
+| Now You're Talking | 1 | Meeting People | Additional | PHRASE |  | póg mo thóin | kiss my ass |  |  |  |  | powg moh hoe-n |  |  |
+| Now You're Talking | 1 | Meeting People | Additional | PHRASE |  | Comhghairdeas | Congratulations |  |  |  |  | co-hard-yes |  | Not Ulster dialect?? |
+| Now You're Talking | 1 | Meeting People | Additional | PHRASE |  | Comhghairdeachas | Congratulations |  |  |  |  | co-hard-ye-has |  | Ulster dialect?? |
+| Now You're Talking | 1 | Meeting People | Additional | PHRASE |  | Níl a fhios agam | I don't know |  |  |  |  | neil us agam |  |  |
+| Now You're Talking | 1 | Meeting People | Additional | PHRASE |  | Tá a fhios agam | I know |  |  |  |  | Ta us agam |  |  |
+| Now You're Talking | 1 | Meeting People | Additional | PHRASE |  | cur Gaeilge air? | What's Irish for? |  |  |  |  | Son-eh |  |  |
 | Now You're Talking | 1 | Meeting People | Additional | WORD |  | sona | happy  |  |  |  |  |  |  |  |
 | Now You're Talking | 1 | Meeting People | Additional | WORD |  | breithe | birth |  |  |  |  | Eh-tch |  |  |
 | Now You're Talking | 1 | Meeting People | Additional | PHRASE |  | lá breithe shona | happy birthday |  |  |  |  | laa brayha |  |  |
