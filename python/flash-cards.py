@@ -14,7 +14,7 @@ def main(response, program, episode):
 
     for row in all_rows:
         if row is None:
-            break
+            continue
         row_as_dict = dict(zip(columns, row))
 
         # clean up None values
@@ -24,7 +24,7 @@ def main(response, program, episode):
 
         # skip template rows
         if row_as_dict['type'] == "TEMPLATE":
-            break
+            continue
 
         if response == "1":
             question = f"Q: {row_as_dict['irish']} [S/P: {row_as_dict['s_p']}] (INFO: {row_as_dict['info']})"
