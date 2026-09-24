@@ -319,13 +319,19 @@ Irish on your own	3	Speaking about your background		WORD		taobh amuigh	outside		
 Irish on your own	3	Speaking about your background		WORD		baile	town					balla		
 Irish on your own	3	Speaking about your background		WORD		cathrach	city					ceh-hra		
 Irish on your own	3	Speaking about your background		WORD		tuath	countryside					too-a		
-Irish on your own	3	Speaking about your background		TEMPLATE		Tá mé i mo chónaí ...	I live ...							
-Irish on your own	3	Speaking about your background		SENTENCE		Tá mé i mo chónaí i lár an bhaile.	I live in the centre of town.					.. i lar an whalla		
-Irish on your own	3	Speaking about your background		SENTENCE		Tá mé i mo chónaí taobh amuigh den bhaile.	I live outside the town					.. tweev amwee den whalla???		
-Irish on your own	3	Speaking about your background		SENTENCE		Tá mé i mo chónaí faoin tuath	I live in the countryside					fween too-a		
-Irish on your own	3	Speaking about your background		SENTENCE		Tá mé i mo chónaí i lár na cathrach	I live in the city centre.					i lar na ceh-hra		maybe.. in the center of the city???
-Irish on your own	3	Speaking about your background		SENTENCE		Tá mé i mo chónaí ar shráid Anraí	I live on Henry Street					ar hradg anry		
-Irish on your own	3	Speaking about your background		SENTENCE		Tá mé i mo chónaí ar Bhóthar na Carraige	I live on Carrick Road					ar waw-her na carriga		
+Irish on your own	3	Speaking about your background		SENTENCE	AREAS_TO_LIVE	i lár an bhaile	in the centre of town					I lar an whalla		
+Irish on your own	3	Speaking about your background		SENTENCE	AREAS_TO_LIVE	taobh amuigh den bhaile	outside the town					tweev amwee den whalla???		
+Irish on your own	3	Speaking about your background		SENTENCE	AREAS_TO_LIVE	faoin tuath	in the countryside					fween too-a		
+Irish on your own	3	Speaking about your background		SENTENCE	AREAS_TO_LIVE	i lár na cathrach	in the city centre					i lar na ceh-hra		maybe.. in the center of the city???
+Irish on your own	3	Speaking about your background		SENTENCE	AREAS_TO_LIVE	ar shráid Anraí	on Henry Street					ar hradg anry		
+Irish on your own	3	Speaking about your background		SENTENCE	AREAS_TO_LIVE	ar Bhóthar na Carraige	on Carrick Road					ar hradg anry		
+Irish on your own	3	Speaking about your background		TEMPLATE		Tá mé i mo chónaí $AREAS_TO_LIVE	I live $AREAS_TO_LIVE					Ta may I mo hoe-nay $AREAS_TO_LIVE		
+Irish on your own	3	Speaking about your background		DYNAMIC		Tá mé i mo chónaí i lár an bhaile	I live in the centre of town					Ta may I mo hoe-nay I lar an whalla		
+Irish on your own	3	Speaking about your background		DYNAMIC		Tá mé i mo chónaí taobh amuigh den bhaile	I live outside the town					Ta may I mo hoe-nay tweev amwee den whalla???		
+Irish on your own	3	Speaking about your background		DYNAMIC		Tá mé i mo chónaí faoin tuath	I live in the countryside					Ta may I mo hoe-nay fween too-a		
+Irish on your own	3	Speaking about your background		DYNAMIC		Tá mé i mo chónaí i lár na cathrach	I live in the city centre					Ta may I mo hoe-nay i lar na ceh-hra		
+Irish on your own	3	Speaking about your background		DYNAMIC		Tá mé i mo chónaí ar shráid Anraí	I live on Henry Street					Ta may I mo hoe-nay ar hradg anry		
+Irish on your own	3	Speaking about your background		DYNAMIC		Tá mé i mo chónaí ar Bhóthar na Carraige	I live on Carrick Road					Ta may I mo hoe-nay ar hradg anry		
 Irish on your own	3	Speaking about your background	Numbers			Náid	Zero					Nawj		
 Irish on your own	3	Speaking about your background	Numbers			Aon	One					Ayn		
 Irish on your own	3	Speaking about your background	Numbers			Dó	Two					Doh		
