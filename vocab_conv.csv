@@ -2740,356 +2740,6 @@ Now You're Talking	15	Location and movement 1				thuas	up
 Now You're Talking	15	Location and movement 1				thíos ...	down							
 Now You're Talking	15	Location and movement 1				(taobh) amuigh	outside							
 Now You're Talking	15	Location and movement 1				(taobh) istigh ...	inside							
-BBC Bitesize KS3	1	Feelings				Tá … orm.	I have … on me							
-BBC Bitesize KS3	1	Feelings				Tá áthas orm.	I am happy.							
-BBC Bitesize KS3	1	Feelings				áthas	happy					ahas		
-BBC Bitesize KS3	1	Feelings				brón	sad							
-BBC Bitesize KS3	1	Feelings				tuirse	tired					tur-sha		
-BBC Bitesize KS3	1	Feelings				eagla	afraid					ugla		
-BBC Bitesize KS3	1	Feelings				imní	anxious / worried					imnee		
-BBC Bitesize KS3	1	Feelings				iontas / ionadh	surprised					untas		
-BBC Bitesize KS3	1	Feelings				fearg	angry					farig		
-BBC Bitesize KS3	1	Feelings				uaigneas	lonely					wegniss		
-BBC Bitesize KS3	1	Feelings				sceitimíní	excited					scet-chim-in-yee		
-BBC Bitesize KS3	1	Feelings				náire	embarrassed					ny-ya		
-BBC Bitesize KS3	1	Feelings				Tá áthas orm.	I am happy.							
-BBC Bitesize KS3	1	Feelings				Tá áthas ort.	You are happy.							
-BBC Bitesize KS3	1	Feelings				Tá áthas air.	He is happy.							
-BBC Bitesize KS3	1	Feelings				Tá áthas uirthi.	She is happy.							
-BBC Bitesize KS3	1	Feelings				Tá áthas orainn.	We are happy.							
-BBC Bitesize KS3	1	Feelings				Tá áthas oraibh.	You are happy. (plural)							
-BBC Bitesize KS3	1	Feelings				Tá áthas orthu.	They are happy.							
-BBC Bitesize KS3	1	Feelings				Tá áthas ar Mháire.	Máire is happy.							
-BBC Bitesize KS3	1	Feelings				Tá áthas ar m'athair.	My father is happy.							
-BBC Bitesize KS3	1	Feelings				Tá áthas ar na cailíní.	The girls are happy.							
-BBC Bitesize KS3	2	Personal Traits				Na bunrudaí	The basics							
-BBC Bitesize KS3	2	Personal Traits				sloinne	surname							
-BBC Bitesize KS3	2	Personal Traits				Súile	eyes							
-BBC Bitesize KS3	2	Personal Traits				gruaig	hair							
-BBC Bitesize KS3	2	Personal Traits				Tréithe fisicúla	Physical traits							
-BBC Bitesize KS3	2	Personal Traits				Cén aois thú?	What is your age?							
-BBC Bitesize KS3	2	Personal Traits				>Tá mé $AGE d'aois.	I am $AGE of age.							
-BBC Bitesize KS3	2	Personal Traits				Tá cuma óg orm do m'aois	I appear young for my age							
-BBC Bitesize KS3	2	Personal Traits				Tá cuma shean orm do m'aois	I appear old for my age							
-BBC Bitesize KS3	2	Personal Traits				Cén dath atá ar do chuid gruaige?	What colour is your hair?							
-BBC Bitesize KS3	2	Personal Traits				Tá mo chuid gruaige...	My hair is...					Ta mo hudge grooiga..		
-BBC Bitesize KS3	2	Personal Traits		TEMPLATE		Tá dath $HAIR_COLOUR ar mo chuid gruaige	My hair is $HAIR_COLOUR							
-BBC Bitesize KS3	2	Personal Traits				Cén dath atá ar do shúile?	What colour are your eyes?							
-BBC Bitesize KS3	2	Personal Traits				Tá mo shúile...	My eyes are...					Ta mo hula..		
-BBC Bitesize KS3	2	Personal Traits				Níl mo shúile...	My eyes are not...					Neel mo hula..		
-BBC Bitesize KS3	2	Personal Traits				...fosta	...as well					fosta		
-BBC Bitesize KS3	2	Personal Traits		TEMPLATE		an bhfuil do shúile $EYE_COLOUR?	Are your eyes $EYE_COLOUR?							
-BBC Bitesize KS3	2	Personal Traits				ard	tall					aird		
-BBC Bitesize KS3	2	Personal Traits				beag	small					beug? or bug?		
-BBC Bitesize KS3	2	Personal Traits				tanaí	slim					tany		
-BBC Bitesize KS3	2	Personal Traits				ramhar	fat					rawer		
-BBC Bitesize KS3	2	Personal Traits				óg	young					owg		
-BBC Bitesize KS3	2	Personal Traits				sean	old					shan		
-BBC Bitesize KS3	2	Personal Traits				láidir	strong					ladger		
-BBC Bitesize KS3	2	Personal Traits				lag	weak					lawg		
-BBC Bitesize KS3	2	Personal Traits				díreach	straight					Jiroch		
-BBC Bitesize KS3	2	Personal Traits				catach	curly					catack		
-BBC Bitesize KS3	2	Personal Traits				fada	long					fada		
-BBC Bitesize KS3	2	Personal Traits				gairid	short							
-BBC Bitesize KS3	2	Personal Traits				fionn	blonde					finn		
-BBC Bitesize KS3	2	Personal Traits				rua	red/ginger							
-BBC Bitesize KS3	2	Personal Traits				Tá mé maol	I am bald							
-BBC Bitesize KS3	2	Personal Traits				Tá féasóg orm	I have a beard							
-BBC Bitesize KS3	2	Personal Traits				Caithim spéaclaí	I wear glasses							
-BBC Bitesize KS3	3	Personality Traits				Na bunrudaí	The basics							
-BBC Bitesize KS3	3	Personality Traits				Tréithe pearsanta	Personality traits							
-BBC Bitesize KS3	3	Personality Traits				Cén sórt duine thú?	What type of person are you?							
-BBC Bitesize KS3	3	Personality Traits				Déan cur síos ort féin maidir le tréithe pearsantachta.	Describe your personality traits.							
-BBC Bitesize KS3	3	Personality Traits				Déan cur síos ort féin	Describe yourself							
-BBC Bitesize KS3	3	Personality Traits				Maidir le tréithe pearsantachta,	As regards personality traits,							
-BBC Bitesize KS3	3	Personality Traits				Tá mé ...	I am ...							
-BBC Bitesize KS3	3	Personality Traits				Níl mé ...	I am not ...							
-BBC Bitesize KS3	3	Personality Traits				thig liom a bheith ...	I can be ...							
-BBC Bitesize KS3	3	Personality Traits				sílim go bhfuil mé ...	I think that I am ...							
-BBC Bitesize KS3	3	Personality Traits				sílim nach bhfuil mé ...	I think that I am not ...							
-BBC Bitesize KS3	3	Personality Traits				Is duine spórtúil mé	I am a sporty person							
-BBC Bitesize KS3	3	Personality Traits				síleann mo chairde go bhfuil mé maith ag an chamógaíocht	my friends think I am good at Camogie							
-BBC Bitesize KS3	3	Personality Traits				Is fearr liom bheith ag canadh agus bheith ag éisteacht leis an raidió agus le ceol.	I prefer to sing and to listen to the radio and music.							
-BBC Bitesize KS3	3	Personality Traits				cainteach	chatty							
-BBC Bitesize KS3	3	Personality Traits				ciúin	quiet							
-BBC Bitesize KS3	3	Personality Traits				cairdiúil	friendly							
-BBC Bitesize KS3	3	Personality Traits				míchairdiúil	unfriendly							
-BBC Bitesize KS3	3	Personality Traits				dícheallach	hard-working							
-BBC Bitesize KS3	3	Personality Traits				falsa	lazy							
-BBC Bitesize KS3	3	Personality Traits				greannmhar	funny							
-BBC Bitesize KS3	3	Personality Traits				faiteach	shy / timid							
-BBC Bitesize KS3	3	Personality Traits				ceanndána	headstrong / stubborn							
-BBC Bitesize KS3	3	Personality Traits				cróga	brave							
-BBC Bitesize KS3	3	Personality Traits				deas	nice							
-BBC Bitesize KS3	3	Personality Traits				cliste	clever							
-BBC Bitesize KS3	3	Personality Traits				bómánta	stupid							
-BBC Bitesize KS3	3	Personality Traits				spórtúil	sporty							
-BBC Bitesize KS3	3	Personality Traits				aibí	mature							
-BBC Bitesize KS3	3	Personality Traits				mí-aibí	immature							
-BBC Bitesize KS3	3	Personality Traits				neamhspleách	independent							
-BBC Bitesize KS3	3	Personality Traits				Léigh an sliocht agus freagair fíor nó bréagach.	Read the passage and answer true or false.							
-BBC Bitesize KS3	4	Dates				Maidin	morning							
-BBC Bitesize KS3	4	Dates				ar Maidin	in the morning							
-BBC Bitesize KS3	4	Dates				Tráthnóna	evening					tranoana		may be afternon in some dialects
-BBC Bitesize KS3	4	Dates				iarnóin	afternoon					tranoana		may be only in some dialects
-BBC Bitesize KS3	4	Dates				Oíche	night.							
-BBC Bitesize KS3	4	Dates				inné	yesterday					in-ay		
-BBC Bitesize KS3	4	Dates				aréir	last night					a-rare		
-BBC Bitesize KS3	4	Dates				anocht	tonight					anokt		
-BBC Bitesize KS3	4	Dates				amárach	tomorrow					amwarach		
-BBC Bitesize KS3	4	Dates				inniu	today							
-BBC Bitesize KS3	4	Dates				anois	now							
-BBC Bitesize KS3	4	Dates				arú inné	the day before							
-BBC Bitesize KS3	4	Dates				an tseachtain seo caite	last week (the week just past)							
-BBC Bitesize KS3	4	Dates				bliain ó shin	a year ago							
-BBC Bitesize KS3	4	Dates				anuraidh	last year							
-BBC Bitesize KS3	4	Dates				an mhí seo caite	month just past							
-BBC Bitesize KS3	4	Dates				an samhradh seo caite	last summer (summer just past)							
-BBC Bitesize KS3	4	Dates				cúpla bomaite ó shin	couple of minutes ago							
-BBC Bitesize KS3	4	Dates				lá	day					laa		
-BBC Bitesize KS3	4	Dates				Seachtain	week					shak-tin		
-BBC Bitesize KS3	4	Dates				Mí	month					me		
-BBC Bitesize KS3	4	Dates				bliain	year					blane		
-BBC Bitesize KS3	4	Dates				Leathanta na Seachtaine	days of the week							
-BBC Bitesize KS3	4	Dates				An Luan	Monday					An loo-in		
-BBC Bitesize KS3	4	Dates				An Mháirt	Tuesday					an Wharch		
-BBC Bitesize KS3	4	Dates				An Chéadaoin	Wednesday					an Kayd-een		
-BBC Bitesize KS3	4	Dates				An Déardaoin	Thursday					an Gerard-een		
-BBC Bitesize KS3	4	Dates				An Aoine	Friday					Ann Eenya		
-BBC Bitesize KS3	4	Dates				An Sathairn	Saturday					An Sa-hurn		
-BBC Bitesize KS3	4	Dates				An Domhnach	Sunday					Ann Doe-nac		
-BBC Bitesize KS3	4	Dates				Dé Luain	on Monday					je luan		
-BBC Bitesize KS3	4	Dates				Dé Máirt	on Tuesday					je mwarch		
-BBC Bitesize KS3	4	Dates				Dé Céadaoin	on Wednesday					je ceadine		
-BBC Bitesize KS3	4	Dates				Déardaoin	on Thursday					jeardine		
-BBC Bitesize KS3	4	Dates				Dé hAoine	on Friday					je heanya		
-BBC Bitesize KS3	4	Dates				Dé Sathairn	on Saturday					je sahern		
-BBC Bitesize KS3	4	Dates				Dé Domhnaigh	on Sunday					je doughny		
-BBC Bitesize KS3	4	Dates				Cad é an lá atá ann innui?	What day is it today?							
-BBC Bitesize KS3	4	Dates				Innui an Luan	Today is Monday							
-BBC Bitesize KS3	4	Dates				Cén lá den tseachtain is fearr leat?	Which day of the week do you prefer?							
-BBC Bitesize KS3	4	Dates				Is fearr liom...	I prefer							
-BBC Bitesize KS3	4	Dates				Is maith liom ... ach is fearr liom...	I like ... but I prefer...							
-BBC Bitesize KS3	4	Dates				Eanáir	January					Anar		
-BBC Bitesize KS3	4	Dates				Feabhra	February					Feaohra		
-BBC Bitesize KS3	4	Dates				Márta	March					Maarta		
-BBC Bitesize KS3	4	Dates				Aibreán	April					Ehbran		
-BBC Bitesize KS3	4	Dates				Bealtaine	May					Balltinya		
-BBC Bitesize KS3	4	Dates				Meitheamh	June					Mayhiv		
-BBC Bitesize KS3	4	Dates				Iúil	July					ool		
-BBC Bitesize KS3	4	Dates				Lúnasa	August					loonasa		
-BBC Bitesize KS3	4	Dates				Meán Fómhair	September					man fowar		
-BBC Bitesize KS3	4	Dates				Deireadh Fómhair	October					jeroo fowar		
-BBC Bitesize KS3	4	Dates				Samhain	November					Saaw-in		
-BBC Bitesize KS3	4	Dates				Nollaig	December					Nollig		
-BBC Bitesize KS3	4	Dates				An t-earrach atá ann.	It is spring.							
-BBC Bitesize KS3	4	Dates				An samhradh atá ann.	It is summer.							
-BBC Bitesize KS3	4	Dates				An fómhar atá ann.	It is autumn.							
-BBC Bitesize KS3	4	Dates				An geimhreadh atá ann.	It is winter.							
-BBC Bitesize KS3	5	Colours				dath	colour					deh		
-BBC Bitesize KS3	5	Colours				dathanna	colours							
-BBC Bitesize KS3	5	Colours				Cén dath is fearr leat?	What is your favourite colour?							
-BBC Bitesize KS3	5	Colours				Is fearr liom …	My favourite colour is …							
-BBC Bitesize KS3	5	Colours				Cén dath atá ar…	What colour is… ?							
-BBC Bitesize KS3	5	Colours				Tá dath … air / uirthi.	It is…/Colour is...							
-BBC Bitesize KS3	5	Colours				geal	bright							
-BBC Bitesize KS3	5	Colours				dorcha	dark					durcha		
-BBC Bitesize KS3	5	Colours				bán	white					bawn		
-BBC Bitesize KS3	5	Colours				bándearg > bhándearg	pink					ban dearg		
-BBC Bitesize KS3	5	Colours				glas	green							
-BBC Bitesize KS3	5	Colours				corca	purple							
-BBC Bitesize KS3	5	Colours				donn	brown							
-BBC Bitesize KS3	5	Colours				buí	yellow							
-BBC Bitesize KS3	5	Colours				liath	grey					lea		
-BBC Bitesize KS3	5	Colours				dubh	black					doo (ULSTER)/dove		
-BBC Bitesize KS3	5	Colours				gorm	blue							
-BBC Bitesize KS3	5	Colours				dearg	red					djar-ig		
-BBC Bitesize KS3	5	Colours				cnódhonn	hazel							
-BBC Bitesize KS3	5	Colours				oráiste	orange					orawsht-eh		
-BBC Bitesize KS3	5	Colours				órga	gold							
-BBC Bitesize KS3	6	Family				Daoine eile sa teaghlach	Other people in the family							
-BBC Bitesize KS3	6	Family				Conaím le mo mhamaí / mo dhaidí.	I live with my Mum / my Dad.							
-BBC Bitesize KS3	6	Family				Conaíonn mo sheanmháthair linn.	Our grandmother lives with us.							
-BBC Bitesize KS3	6	Family				Cá mhéad deartháir atá agat?	How many brothers do you have?							
-BBC Bitesize KS3	6	Family				Tá deartháir amháin agam.	I have one brother.							
-BBC Bitesize KS3	6	Family				Tá beirt / triúr / ceathrar / cúigear deartháir atá agam.	I have two / three / four / five brothers.							
-BBC Bitesize KS3	6	Family				Cá mhéad deirfiúr atá agat?	How many sisters do you have?							
-BBC Bitesize KS3	6	Family				Tá deirfiúr amháin agam.	I have one sister.							
-BBC Bitesize KS3	6	Family				Tá beirt / triúr / ceathrar / cúigear deirfiúr atá agam.	I have one / two / three / four / five sisters.							
-BBC Bitesize KS3	6	Family				Níl deartháir nó deirfiúr atá agam.	I don't have any brothers or sisters.							
-BBC Bitesize KS3	6	Family				Is páiste aonair mé.	I'm an only child.							
-BBC Bitesize KS3	6	Family				Is leathchúpla mé.	I'm a twin.							
-BBC Bitesize KS3	6	Family				Cad é an t-ainm atá air / uirthi?	What is his / her name?							
-BBC Bitesize KS3	6	Family				… an t-ainm atá air / uirthi.	… is his / her name.							
-BBC Bitesize KS3	7	My House				Cén sórt tí atá agat?	What sort of house do you have?							
-BBC Bitesize KS3	7	My House				Tá … agam.	I have a _____.							
-BBC Bitesize KS3	7	My House				Is … é.	It's a _____.							
-BBC Bitesize KS3	7	My House				teach dhá urlár	two-storey house							
-BBC Bitesize KS3	7	My House				bungaló	bungalow							
-BBC Bitesize KS3	7	My House				árasán	apartment							
-BBC Bitesize KS3	7	My House				teach leathscoite	semi-detached house							
-BBC Bitesize KS3	7	My House				teach scoite	detached house							
-BBC Bitesize KS3	7	My House				teach sraithe	terrace housing							
-BBC Bitesize KS3	7	My House				teachín	cottage							
-BBC Bitesize KS3	7	My House				teach feirme	farmhouse							
-BBC Bitesize KS3	7	My House				carbhán	caravan							
-BBC Bitesize KS3	7	My House				caisleán	castle							
-BBC Bitesize KS3	7	My House				Cá mhéad seomra atá i do theach?	How many rooms are in your house?							
-BBC Bitesize KS3	7	My House				Tá … seomra i mo theach.	There are _____ rooms in my house.							
-BBC Bitesize KS3	7	My House				I mo theach, tá … ann.	In my house, there is (a) … there.							
-BBC Bitesize KS3	7	My House				Thuas staighre, tá…	Upstairs. there is…							
-BBC Bitesize KS3	7	My House				Thíos staighre, tá…	Downstairs, there is…							
-BBC Bitesize KS3	7	My House				Áiteanna i mo theach	Places in my house							
-BBC Bitesize KS3	7	My House				an chistin	the kitchen							
-BBC Bitesize KS3	7	My House				an seomra leapa / codlata	the bedroom							
-BBC Bitesize KS3	7	My House				an seomra folctha	the bathroom							
-BBC Bitesize KS3	7	My House				an seomra bia	the dining room							
-BBC Bitesize KS3	7	My House				an seomra suí	the sitting room							
-BBC Bitesize KS3	7	My House				an halla (iontrála)	the (entrance) hall							
-BBC Bitesize KS3	7	My House				an leithreas	the toilet							
-BBC Bitesize KS3	7	My House				an seomra staidéir	the study							
-BBC Bitesize KS3	7	My House				an seomra gréine / grianán	the sun room / conservatory							
-BBC Bitesize KS3	7	My House				staighre	stairs							
-BBC Bitesize KS3	7	My House				seomra	room							
-BBC Bitesize KS3	7	My House				dhá sheomra	two rooms							
-BBC Bitesize KS3	7	My House				trí sheomra	three rooms							
-BBC Bitesize KS3	7	My House				ceithre sheomra	four rooms							
-BBC Bitesize KS3	7	My House				cúig sheomra	five rooms							
-BBC Bitesize KS3	7	My House				sé sheomra	six rooms							
-BBC Bitesize KS3	7	My House				seacht seomra	seven rooms							
-BBC Bitesize KS3	7	My House				ocht seomra	eight rooms							
-BBC Bitesize KS3	7	My House				naoi seomra	nine rooms							
-BBC Bitesize KS3	7	My House				deich seomra	ten rooms							
-BBC Bitesize KS3	7	My House				aon seomra dhéag	eleven rooms							
-BBC Bitesize KS3	8	Hobbies and Interests				Caithimh aimsire	Pastimes							
-BBC Bitesize KS3	8	Hobbies and Interests				Spóirt agus aclaíocht	Sports and exercise							
-BBC Bitesize KS3	8	Hobbies and Interests				Spóirt eile	Other sports							
-BBC Bitesize KS3	8	Hobbies and Interests				Siamsaíocht agus cultúr	Entertainment and culture							
-BBC Bitesize KS3	8	Hobbies and Interests				peil Ghaelach	Gaelic football							
-BBC Bitesize KS3	8	Hobbies and Interests				sacar	soccer							
-BBC Bitesize KS3	8	Hobbies and Interests				rugbaí	rugby							
-BBC Bitesize KS3	8	Hobbies and Interests				eitpheil	volleyball							
-BBC Bitesize KS3	8	Hobbies and Interests				snámh	swimming							
-BBC Bitesize KS3	8	Hobbies and Interests				leadóg	tennis							
-BBC Bitesize KS3	8	Hobbies and Interests				dornálaíocht	boxing							
-BBC Bitesize KS3	8	Hobbies and Interests				rothaíocht	cycling							
-BBC Bitesize KS3	8	Hobbies and Interests				reathaíocht	running							
-BBC Bitesize KS3	8	Hobbies and Interests				dreapadóireacht	climbing							
-BBC Bitesize KS3	8	Hobbies and Interests				líonpheil	netball							
-BBC Bitesize KS3	8	Hobbies and Interests				cispheil	basketball							
-BBC Bitesize KS3	8	Hobbies and Interests				iománaíocht / iomáint	hurling							
-BBC Bitesize KS3	8	Hobbies and Interests				camógaíocht	camogie							
-BBC Bitesize KS3	8	Hobbies and Interests				cluiche corr	rounders							
-BBC Bitesize KS3	8	Hobbies and Interests				liathróid láimhe	handball							
-BBC Bitesize KS3	8	Hobbies and Interests				marcaíocht capail	horseriding							
-BBC Bitesize KS3	8	Hobbies and Interests				aclaíocht	athletics							
-BBC Bitesize KS3	8	Hobbies and Interests				damhsa Gaelach	Irish dancing							
-BBC Bitesize KS3	8	Hobbies and Interests				sciáil	skiing							
-BBC Bitesize KS3	8	Hobbies and Interests				scátáil	skating							
-BBC Bitesize KS3	8	Hobbies and Interests				clársciáil	snowboarding							
-BBC Bitesize KS3	8	Hobbies and Interests				surfáil	surfing							
-BBC Bitesize KS3	8	Hobbies and Interests				seoltóireacht	sailing							
-BBC Bitesize KS3	8	Hobbies and Interests				iascaireacht	fishing							
-BBC Bitesize KS3	8	Hobbies and Interests				ceol	music							
-BBC Bitesize KS3	8	Hobbies and Interests				damhsa / rince	dance							
-BBC Bitesize KS3	8	Hobbies and Interests				péinteáil	painting							
-BBC Bitesize KS3	8	Hobbies and Interests				drámaíocht	theatre							
-BBC Bitesize KS3	8	Hobbies and Interests				teilifís	TV							
-BBC Bitesize KS3	8	Hobbies and Interests				ealaíona agus ceardaíocht	arts and crafts							
-BBC Bitesize KS3	8	Hobbies and Interests				cluichí ríomhaire	computer games							
-BBC Bitesize KS3	8	Hobbies and Interests				cluichí cláir	board games							
-BBC Bitesize KS3	8	Hobbies and Interests				raidió	radio							
-BBC Bitesize KS3	8	Hobbies and Interests				Cad iad na caithimh aimsire atá agat?	What pastimes do you have?							
-BBC Bitesize KS3	8	Hobbies and Interests				Cad iad na súimeanna atá agat?	What interests do you have?							
-BBC Bitesize KS3	8	Hobbies and Interests				Is maith liom …	I like …							
-BBC Bitesize KS3	8	Hobbies and Interests				Ní maith liom …	I don't like …							
-BBC Bitesize KS3	8	Hobbies and Interests				Ní miste liom …	I don't mind …							
-BBC Bitesize KS3	8	Hobbies and Interests				Is breá liom …	I love …							
-BBC Bitesize KS3	8	Hobbies and Interests				Is fuath liom …	I hate …							
-BBC Bitesize KS3	8	Hobbies and Interests				Is fearr liom…	I prefer …							
-BBC Bitesize KS3	8	Hobbies and Interests				Tá suim / spéis agam i / sa…	I have an interest in…							
-BBC Bitesize KS3	8	Hobbies and Interests				Caithim a lán ama…	I spend a lot of time…							
-BBC Bitesize KS3	8	Hobbies and Interests				Is maith liom a bheith ag déanamh…	I like to be doing…							
-BBC Bitesize KS3	8	Hobbies and Interests				Éistim le ceol.	I listen to music.							
-BBC Bitesize KS3	8	Hobbies and Interests				Amharcaim ar an teilifís.	I watch TV.							
-BBC Bitesize KS3	8	Hobbies and Interests				Téim go dtí an phictiúrlann.	I go to the cinema.							
-BBC Bitesize KS3	8	Hobbies and Interests				Imrím cluichí ríomhaire.	I play computer games.							
-BBC Bitesize KS3	8	Hobbies and Interests				Déanaim cócaráil.	I cook.							
-BBC Bitesize KS3	8	Hobbies and Interests				Seinnim m'uirlis i mbanna ceoil.	I play my instrument in a music group.							
-BBC Bitesize KS3	8	Hobbies and Interests				Ligim mo scíth.	I relax.							
-BBC Bitesize KS3	9	Pets and Animal				An bhfuil peata agat?	Do you have a pet?							
-BBC Bitesize KS3	9	Pets and Animal				Tá peata agam.	I do have a pet.							
-BBC Bitesize KS3	9	Pets and Animal				Níl peata agam.	I don't have a pet.							
-BBC Bitesize KS3	9	Pets and Animal				Cén t-ainm atá air/uirthi?	What's his/her name?							
-BBC Bitesize KS3	9	Pets and Animal				Pangur an t-ainm atá air/uirthi.	What's his/her name?							
-BBC Bitesize KS3	9	Pets and Animal				Cén sórt peata é/í?	What type of pet is he/she?							
-BBC Bitesize KS3	9	Pets and Animal				Is … é/í.	He/she's a …							
-BBC Bitesize KS3	9	Pets and Animal				Is madadh é.	He's a dog.							
-BBC Bitesize KS3	9	Pets and Animal				Is cat í.	She's a cat.							
-BBC Bitesize KS3	9	Pets and Animal		TEMPLATE		Tá $ANIMAL agam.	I have a $ANIMAL.							
-BBC Bitesize KS3	9	Pets and Animal				madadh	dog							
-BBC Bitesize KS3	9	Pets and Animal				cat	cat							
-BBC Bitesize KS3	9	Pets and Animal				coinín	rabbit							
-BBC Bitesize KS3	9	Pets and Animal				hamstar	hamster							
-BBC Bitesize KS3	9	Pets and Animal				capall	horse							
-BBC Bitesize KS3	9	Pets and Animal				iasc órga	goldfish							
-BBC Bitesize KS3	9	Pets and Animal				nathair	snake							
-BBC Bitesize KS3	9	Pets and Animal				toirtís	tortoise							
-BBC Bitesize KS3	9	Pets and Animal				muc ghuine	guinea pig							
-BBC Bitesize KS3	9	Pets and Animal				pearóid	parrot							
-BBC Bitesize KS3	9	Pets and Animal				Ar an fheirm								
-BBC Bitesize KS3	9	Pets and Animal				muc	pig							
-BBC Bitesize KS3	9	Pets and Animal				bó	cow							
-BBC Bitesize KS3	9	Pets and Animal				cearc	hen							
-BBC Bitesize KS3	9	Pets and Animal				asal	donkey							
-BBC Bitesize KS3	9	Pets and Animal				caora	sheep							
-BBC Bitesize KS3	9	Pets and Animal				gabhar	goat							
-BBC Bitesize KS3	9	Pets and Animal				Ag an zú								
-BBC Bitesize KS3	9	Pets and Animal				tíogar	tiger							
-BBC Bitesize KS3	9	Pets and Animal				eilifint	elephant							
-BBC Bitesize KS3	9	Pets and Animal				srónbheannach	rhino							
-BBC Bitesize KS3	9	Pets and Animal				rón	seal							
-BBC Bitesize KS3	9	Pets and Animal				síota	cheetah							
-BBC Bitesize KS3	9	Pets and Animal				moncaí	monkey							
-BBC Bitesize KS3	9	Pets and Animal				piongain	penguin							
-BBC Bitesize KS3	9	Pets and Animal				leon	lion							
-BBC Bitesize KS3	10	Celebrations and Festivals				Lá na Bliana Úire	New Year's Day (1st January)							
-BBC Bitesize KS3	10	Celebrations and Festivals				Lá Fhéile Bríde	St. Brigid's Day (1st February)							
-BBC Bitesize KS3	10	Celebrations and Festivals				Máirt Inide	Shrove Tuesday							
-BBC Bitesize KS3	10	Celebrations and Festivals				Lá Fhéile Vailintín	Valentine's Day (14th February)							
-BBC Bitesize KS3	10	Celebrations and Festivals				Lá Fhéile Pádraig	St. Patrick's Day (17th March)							
-BBC Bitesize KS3	10	Celebrations and Festivals				Lá na Máthaireacha	Mother's Day							
-BBC Bitesize KS3	10	Celebrations and Festivals				Lá na hAmadán	April Fool's Day (1st April)							
-BBC Bitesize KS3	10	Celebrations and Festivals				Aoine an Chéasta	Good Friday							
-BBC Bitesize KS3	10	Celebrations and Festivals				Domhnach Cásca	Easter Sunday							
-BBC Bitesize KS3	10	Celebrations and Festivals				Lá na nAithreacha	Father's Day							
-BBC Bitesize KS3	10	Celebrations and Festivals				Oíche Shamhna	Halloween							
-BBC Bitesize KS3	10	Celebrations and Festivals				Oíche Nollag	Christmas Eve							
-BBC Bitesize KS3	10	Celebrations and Festivals				Lá Nollag	Christmas Day							
-BBC Bitesize KS3	10	Celebrations and Festivals				Lá Fhéile Stiofáin	St. Stephen's Day (26th December)							
-BBC Bitesize KS3	10	Celebrations and Festivals				cárta	card							
-BBC Bitesize KS3	10	Celebrations and Festivals				beart	parcel							
-BBC Bitesize KS3	10	Celebrations and Festivals				brat	flag							
-BBC Bitesize KS3	10	Celebrations and Festivals				coinneal	candle							
-BBC Bitesize KS3	10	Celebrations and Festivals				tinte ealaíne	fireworks							
-BBC Bitesize KS3	10	Celebrations and Festivals				tine chnámh	bonfire							
-BBC Bitesize KS3	10	Celebrations and Festivals				bronntanas	gift / present							
-BBC Bitesize KS3	10	Celebrations and Festivals				paráid / mórshiúl	parade							
-BBC Bitesize KS3	10	Celebrations and Festivals				slua / scaifte	crowd							
-BBC Bitesize KS3	10	Celebrations and Festivals				siamsaíocht	entertainment							
-BBC Bitesize KS3	10	Celebrations and Festivals				féile	festival							
-BBC Bitesize KS3	10	Celebrations and Festivals				ceiliúradh	celebration							
-BBC Bitesize KS3	10	Celebrations and Festivals				fleá ceoil	music festival							
-BBC Bitesize KS3	10	Celebrations and Festivals				breithlá / lá breithe	birthday							
-BBC Bitesize KS3	10	Celebrations and Festivals				cóisir	party							
-BBC Bitesize KS3	10	Celebrations and Festivals				cóisir bhreithlae	birthday party							
-BBC Bitesize KS3	10	Celebrations and Festivals				gealltanas pósta	engagement							
-BBC Bitesize KS3	10	Celebrations and Festivals				pósadh / bainis	wedding							
-BBC Bitesize KS3	10	Celebrations and Festivals				mí na meala	honeymoon							
-BBC Bitesize KS3	10	Celebrations and Festivals				baisteadh	christening							
-BBC Bitesize KS3	10	Celebrations and Festivals				bás	death							
-BBC Bitesize KS3	10	Celebrations and Festivals				faire / tórramh	wake							
-BBC Bitesize KS3	10	Celebrations and Festivals				sochraid	funeral							
 Giota Beag 1	1	How are you?				giota beag	a little bit					gitta big		
 Giota Beag 1	1	How are you?				Fáilte!	Welcome!							
 Giota Beag 1	1	How are you?				Éist!	Listen!							
@@ -4042,6 +3692,356 @@ Giota Beag 3	15	15				An rachaidh tú amach anocht?	Will you go out tonight?
 Giota Beag 3	15	15				Ní rachaidh	No, I will not go out.							
 Giota Beag 3	15	15				Níl mé cinnte an rachaidh nó nach rachaidh.	I'm not sure if I'll go or not.							
 Giota Beag 3	15	15				Mol an óige is tiocfaidh sí.	Praise the youth and it will come / they will blossom.							
+BBC Bitesize KS3	1	Feelings				Tá … orm.	I have … on me							
+BBC Bitesize KS3	1	Feelings				Tá áthas orm.	I am happy.							
+BBC Bitesize KS3	1	Feelings				áthas	happy					ahas		
+BBC Bitesize KS3	1	Feelings				brón	sad							
+BBC Bitesize KS3	1	Feelings				tuirse	tired					tur-sha		
+BBC Bitesize KS3	1	Feelings				eagla	afraid					ugla		
+BBC Bitesize KS3	1	Feelings				imní	anxious / worried					imnee		
+BBC Bitesize KS3	1	Feelings				iontas / ionadh	surprised					untas		
+BBC Bitesize KS3	1	Feelings				fearg	angry					farig		
+BBC Bitesize KS3	1	Feelings				uaigneas	lonely					wegniss		
+BBC Bitesize KS3	1	Feelings				sceitimíní	excited					scet-chim-in-yee		
+BBC Bitesize KS3	1	Feelings				náire	embarrassed					ny-ya		
+BBC Bitesize KS3	1	Feelings				Tá áthas orm.	I am happy.							
+BBC Bitesize KS3	1	Feelings				Tá áthas ort.	You are happy.							
+BBC Bitesize KS3	1	Feelings				Tá áthas air.	He is happy.							
+BBC Bitesize KS3	1	Feelings				Tá áthas uirthi.	She is happy.							
+BBC Bitesize KS3	1	Feelings				Tá áthas orainn.	We are happy.							
+BBC Bitesize KS3	1	Feelings				Tá áthas oraibh.	You are happy. (plural)							
+BBC Bitesize KS3	1	Feelings				Tá áthas orthu.	They are happy.							
+BBC Bitesize KS3	1	Feelings				Tá áthas ar Mháire.	Máire is happy.							
+BBC Bitesize KS3	1	Feelings				Tá áthas ar m'athair.	My father is happy.							
+BBC Bitesize KS3	1	Feelings				Tá áthas ar na cailíní.	The girls are happy.							
+BBC Bitesize KS3	2	Personal Traits				Na bunrudaí	The basics							
+BBC Bitesize KS3	2	Personal Traits				sloinne	surname							
+BBC Bitesize KS3	2	Personal Traits				Súile	eyes							
+BBC Bitesize KS3	2	Personal Traits				gruaig	hair							
+BBC Bitesize KS3	2	Personal Traits				Tréithe fisicúla	Physical traits							
+BBC Bitesize KS3	2	Personal Traits				Cén aois thú?	What is your age?							
+BBC Bitesize KS3	2	Personal Traits				>Tá mé $AGE d'aois.	I am $AGE of age.							
+BBC Bitesize KS3	2	Personal Traits				Tá cuma óg orm do m'aois	I appear young for my age							
+BBC Bitesize KS3	2	Personal Traits				Tá cuma shean orm do m'aois	I appear old for my age							
+BBC Bitesize KS3	2	Personal Traits				Cén dath atá ar do chuid gruaige?	What colour is your hair?							
+BBC Bitesize KS3	2	Personal Traits				Tá mo chuid gruaige...	My hair is...					Ta mo hudge grooiga..		
+BBC Bitesize KS3	2	Personal Traits		TEMPLATE		Tá dath $HAIR_COLOUR ar mo chuid gruaige	My hair is $HAIR_COLOUR							
+BBC Bitesize KS3	2	Personal Traits				Cén dath atá ar do shúile?	What colour are your eyes?							
+BBC Bitesize KS3	2	Personal Traits				Tá mo shúile...	My eyes are...					Ta mo hula..		
+BBC Bitesize KS3	2	Personal Traits				Níl mo shúile...	My eyes are not...					Neel mo hula..		
+BBC Bitesize KS3	2	Personal Traits				...fosta	...as well					fosta		
+BBC Bitesize KS3	2	Personal Traits		TEMPLATE		an bhfuil do shúile $EYE_COLOUR?	Are your eyes $EYE_COLOUR?							
+BBC Bitesize KS3	2	Personal Traits				ard	tall					aird		
+BBC Bitesize KS3	2	Personal Traits				beag	small					beug? or bug?		
+BBC Bitesize KS3	2	Personal Traits				tanaí	slim					tany		
+BBC Bitesize KS3	2	Personal Traits				ramhar	fat					rawer		
+BBC Bitesize KS3	2	Personal Traits				óg	young					owg		
+BBC Bitesize KS3	2	Personal Traits				sean	old					shan		
+BBC Bitesize KS3	2	Personal Traits				láidir	strong					ladger		
+BBC Bitesize KS3	2	Personal Traits				lag	weak					lawg		
+BBC Bitesize KS3	2	Personal Traits				díreach	straight					Jiroch		
+BBC Bitesize KS3	2	Personal Traits				catach	curly					catack		
+BBC Bitesize KS3	2	Personal Traits				fada	long					fada		
+BBC Bitesize KS3	2	Personal Traits				gairid	short							
+BBC Bitesize KS3	2	Personal Traits				fionn	blonde					finn		
+BBC Bitesize KS3	2	Personal Traits				rua	red/ginger							
+BBC Bitesize KS3	2	Personal Traits				Tá mé maol	I am bald							
+BBC Bitesize KS3	2	Personal Traits				Tá féasóg orm	I have a beard							
+BBC Bitesize KS3	2	Personal Traits				Caithim spéaclaí	I wear glasses							
+BBC Bitesize KS3	3	Personality Traits				Na bunrudaí	The basics							
+BBC Bitesize KS3	3	Personality Traits				Tréithe pearsanta	Personality traits							
+BBC Bitesize KS3	3	Personality Traits				Cén sórt duine thú?	What type of person are you?							
+BBC Bitesize KS3	3	Personality Traits				Déan cur síos ort féin maidir le tréithe pearsantachta.	Describe your personality traits.							
+BBC Bitesize KS3	3	Personality Traits				Déan cur síos ort féin	Describe yourself							
+BBC Bitesize KS3	3	Personality Traits				Maidir le tréithe pearsantachta,	As regards personality traits,							
+BBC Bitesize KS3	3	Personality Traits				Tá mé ...	I am ...							
+BBC Bitesize KS3	3	Personality Traits				Níl mé ...	I am not ...							
+BBC Bitesize KS3	3	Personality Traits				thig liom a bheith ...	I can be ...							
+BBC Bitesize KS3	3	Personality Traits				sílim go bhfuil mé ...	I think that I am ...							
+BBC Bitesize KS3	3	Personality Traits				sílim nach bhfuil mé ...	I think that I am not ...							
+BBC Bitesize KS3	3	Personality Traits				Is duine spórtúil mé	I am a sporty person							
+BBC Bitesize KS3	3	Personality Traits				síleann mo chairde go bhfuil mé maith ag an chamógaíocht	my friends think I am good at Camogie							
+BBC Bitesize KS3	3	Personality Traits				Is fearr liom bheith ag canadh agus bheith ag éisteacht leis an raidió agus le ceol.	I prefer to sing and to listen to the radio and music.							
+BBC Bitesize KS3	3	Personality Traits				cainteach	chatty							
+BBC Bitesize KS3	3	Personality Traits				ciúin	quiet							
+BBC Bitesize KS3	3	Personality Traits				cairdiúil	friendly							
+BBC Bitesize KS3	3	Personality Traits				míchairdiúil	unfriendly							
+BBC Bitesize KS3	3	Personality Traits				dícheallach	hard-working							
+BBC Bitesize KS3	3	Personality Traits				falsa	lazy							
+BBC Bitesize KS3	3	Personality Traits				greannmhar	funny							
+BBC Bitesize KS3	3	Personality Traits				faiteach	shy / timid							
+BBC Bitesize KS3	3	Personality Traits				ceanndána	headstrong / stubborn							
+BBC Bitesize KS3	3	Personality Traits				cróga	brave							
+BBC Bitesize KS3	3	Personality Traits				deas	nice							
+BBC Bitesize KS3	3	Personality Traits				cliste	clever							
+BBC Bitesize KS3	3	Personality Traits				bómánta	stupid							
+BBC Bitesize KS3	3	Personality Traits				spórtúil	sporty							
+BBC Bitesize KS3	3	Personality Traits				aibí	mature							
+BBC Bitesize KS3	3	Personality Traits				mí-aibí	immature							
+BBC Bitesize KS3	3	Personality Traits				neamhspleách	independent							
+BBC Bitesize KS3	3	Personality Traits				Léigh an sliocht agus freagair fíor nó bréagach.	Read the passage and answer true or false.							
+BBC Bitesize KS3	4	Dates				Maidin	morning							
+BBC Bitesize KS3	4	Dates				ar Maidin	in the morning							
+BBC Bitesize KS3	4	Dates				Tráthnóna	evening					tranoana		may be afternon in some dialects
+BBC Bitesize KS3	4	Dates				iarnóin	afternoon					tranoana		may be only in some dialects
+BBC Bitesize KS3	4	Dates				Oíche	night.							
+BBC Bitesize KS3	4	Dates				inné	yesterday					in-ay		
+BBC Bitesize KS3	4	Dates				aréir	last night					a-rare		
+BBC Bitesize KS3	4	Dates				anocht	tonight					anokt		
+BBC Bitesize KS3	4	Dates				amárach	tomorrow					amwarach		
+BBC Bitesize KS3	4	Dates				inniu	today							
+BBC Bitesize KS3	4	Dates				anois	now							
+BBC Bitesize KS3	4	Dates				arú inné	the day before							
+BBC Bitesize KS3	4	Dates				an tseachtain seo caite	last week (the week just past)							
+BBC Bitesize KS3	4	Dates				bliain ó shin	a year ago							
+BBC Bitesize KS3	4	Dates				anuraidh	last year							
+BBC Bitesize KS3	4	Dates				an mhí seo caite	month just past							
+BBC Bitesize KS3	4	Dates				an samhradh seo caite	last summer (summer just past)							
+BBC Bitesize KS3	4	Dates				cúpla bomaite ó shin	couple of minutes ago							
+BBC Bitesize KS3	4	Dates				lá	day					laa		
+BBC Bitesize KS3	4	Dates				Seachtain	week					shak-tin		
+BBC Bitesize KS3	4	Dates				Mí	month					me		
+BBC Bitesize KS3	4	Dates				bliain	year					blane		
+BBC Bitesize KS3	4	Dates				Leathanta na Seachtaine	days of the week							
+BBC Bitesize KS3	4	Dates				An Luan	Monday					An loo-in		
+BBC Bitesize KS3	4	Dates				An Mháirt	Tuesday					an Wharch		
+BBC Bitesize KS3	4	Dates				An Chéadaoin	Wednesday					an Kayd-een		
+BBC Bitesize KS3	4	Dates				An Déardaoin	Thursday					an Gerard-een		
+BBC Bitesize KS3	4	Dates				An Aoine	Friday					Ann Eenya		
+BBC Bitesize KS3	4	Dates				An Sathairn	Saturday					An Sa-hurn		
+BBC Bitesize KS3	4	Dates				An Domhnach	Sunday					Ann Doe-nac		
+BBC Bitesize KS3	4	Dates				Dé Luain	on Monday					je luan		
+BBC Bitesize KS3	4	Dates				Dé Máirt	on Tuesday					je mwarch		
+BBC Bitesize KS3	4	Dates				Dé Céadaoin	on Wednesday					je ceadine		
+BBC Bitesize KS3	4	Dates				Déardaoin	on Thursday					jeardine		
+BBC Bitesize KS3	4	Dates				Dé hAoine	on Friday					je heanya		
+BBC Bitesize KS3	4	Dates				Dé Sathairn	on Saturday					je sahern		
+BBC Bitesize KS3	4	Dates				Dé Domhnaigh	on Sunday					je doughny		
+BBC Bitesize KS3	4	Dates				Cad é an lá atá ann innui?	What day is it today?							
+BBC Bitesize KS3	4	Dates				Innui an Luan	Today is Monday							
+BBC Bitesize KS3	4	Dates				Cén lá den tseachtain is fearr leat?	Which day of the week do you prefer?							
+BBC Bitesize KS3	4	Dates				Is fearr liom...	I prefer							
+BBC Bitesize KS3	4	Dates				Is maith liom ... ach is fearr liom...	I like ... but I prefer...							
+BBC Bitesize KS3	4	Dates				Eanáir	January					Anar		
+BBC Bitesize KS3	4	Dates				Feabhra	February					Feaohra		
+BBC Bitesize KS3	4	Dates				Márta	March					Maarta		
+BBC Bitesize KS3	4	Dates				Aibreán	April					Ehbran		
+BBC Bitesize KS3	4	Dates				Bealtaine	May					Balltinya		
+BBC Bitesize KS3	4	Dates				Meitheamh	June					Mayhiv		
+BBC Bitesize KS3	4	Dates				Iúil	July					ool		
+BBC Bitesize KS3	4	Dates				Lúnasa	August					loonasa		
+BBC Bitesize KS3	4	Dates				Meán Fómhair	September					man fowar		
+BBC Bitesize KS3	4	Dates				Deireadh Fómhair	October					jeroo fowar		
+BBC Bitesize KS3	4	Dates				Samhain	November					Saaw-in		
+BBC Bitesize KS3	4	Dates				Nollaig	December					Nollig		
+BBC Bitesize KS3	4	Dates				An t-earrach atá ann.	It is spring.							
+BBC Bitesize KS3	4	Dates				An samhradh atá ann.	It is summer.							
+BBC Bitesize KS3	4	Dates				An fómhar atá ann.	It is autumn.							
+BBC Bitesize KS3	4	Dates				An geimhreadh atá ann.	It is winter.							
+BBC Bitesize KS3	5	Colours				dath	colour					deh		
+BBC Bitesize KS3	5	Colours				dathanna	colours							
+BBC Bitesize KS3	5	Colours				Cén dath is fearr leat?	What is your favourite colour?							
+BBC Bitesize KS3	5	Colours				Is fearr liom …	My favourite colour is …							
+BBC Bitesize KS3	5	Colours				Cén dath atá ar…	What colour is… ?							
+BBC Bitesize KS3	5	Colours				Tá dath … air / uirthi.	It is…/Colour is...							
+BBC Bitesize KS3	5	Colours				geal	bright							
+BBC Bitesize KS3	5	Colours				dorcha	dark					durcha		
+BBC Bitesize KS3	5	Colours				bán	white					bawn		
+BBC Bitesize KS3	5	Colours				bándearg > bhándearg	pink					ban dearg		
+BBC Bitesize KS3	5	Colours				glas	green							
+BBC Bitesize KS3	5	Colours				corca	purple							
+BBC Bitesize KS3	5	Colours				donn	brown							
+BBC Bitesize KS3	5	Colours				buí	yellow							
+BBC Bitesize KS3	5	Colours				liath	grey					lea		
+BBC Bitesize KS3	5	Colours				dubh	black					doo (ULSTER)/dove		
+BBC Bitesize KS3	5	Colours				gorm	blue							
+BBC Bitesize KS3	5	Colours				dearg	red					djar-ig		
+BBC Bitesize KS3	5	Colours				cnódhonn	hazel							
+BBC Bitesize KS3	5	Colours				oráiste	orange					orawsht-eh		
+BBC Bitesize KS3	5	Colours				órga	gold							
+BBC Bitesize KS3	6	Family				Daoine eile sa teaghlach	Other people in the family							
+BBC Bitesize KS3	6	Family				Conaím le mo mhamaí / mo dhaidí.	I live with my Mum / my Dad.							
+BBC Bitesize KS3	6	Family				Conaíonn mo sheanmháthair linn.	Our grandmother lives with us.							
+BBC Bitesize KS3	6	Family				Cá mhéad deartháir atá agat?	How many brothers do you have?							
+BBC Bitesize KS3	6	Family				Tá deartháir amháin agam.	I have one brother.							
+BBC Bitesize KS3	6	Family				Tá beirt / triúr / ceathrar / cúigear deartháir atá agam.	I have two / three / four / five brothers.							
+BBC Bitesize KS3	6	Family				Cá mhéad deirfiúr atá agat?	How many sisters do you have?							
+BBC Bitesize KS3	6	Family				Tá deirfiúr amháin agam.	I have one sister.							
+BBC Bitesize KS3	6	Family				Tá beirt / triúr / ceathrar / cúigear deirfiúr atá agam.	I have one / two / three / four / five sisters.							
+BBC Bitesize KS3	6	Family				Níl deartháir nó deirfiúr atá agam.	I don't have any brothers or sisters.							
+BBC Bitesize KS3	6	Family				Is páiste aonair mé.	I'm an only child.							
+BBC Bitesize KS3	6	Family				Is leathchúpla mé.	I'm a twin.							
+BBC Bitesize KS3	6	Family				Cad é an t-ainm atá air / uirthi?	What is his / her name?							
+BBC Bitesize KS3	6	Family				… an t-ainm atá air / uirthi.	… is his / her name.							
+BBC Bitesize KS3	7	My House				Cén sórt tí atá agat?	What sort of house do you have?							
+BBC Bitesize KS3	7	My House				Tá … agam.	I have a _____.							
+BBC Bitesize KS3	7	My House				Is … é.	It's a _____.							
+BBC Bitesize KS3	7	My House				teach dhá urlár	two-storey house							
+BBC Bitesize KS3	7	My House				bungaló	bungalow							
+BBC Bitesize KS3	7	My House				árasán	apartment							
+BBC Bitesize KS3	7	My House				teach leathscoite	semi-detached house							
+BBC Bitesize KS3	7	My House				teach scoite	detached house							
+BBC Bitesize KS3	7	My House				teach sraithe	terrace housing							
+BBC Bitesize KS3	7	My House				teachín	cottage							
+BBC Bitesize KS3	7	My House				teach feirme	farmhouse							
+BBC Bitesize KS3	7	My House				carbhán	caravan							
+BBC Bitesize KS3	7	My House				caisleán	castle							
+BBC Bitesize KS3	7	My House				Cá mhéad seomra atá i do theach?	How many rooms are in your house?							
+BBC Bitesize KS3	7	My House				Tá … seomra i mo theach.	There are _____ rooms in my house.							
+BBC Bitesize KS3	7	My House				I mo theach, tá … ann.	In my house, there is (a) … there.							
+BBC Bitesize KS3	7	My House				Thuas staighre, tá…	Upstairs. there is…							
+BBC Bitesize KS3	7	My House				Thíos staighre, tá…	Downstairs, there is…							
+BBC Bitesize KS3	7	My House				Áiteanna i mo theach	Places in my house							
+BBC Bitesize KS3	7	My House				an chistin	the kitchen							
+BBC Bitesize KS3	7	My House				an seomra leapa / codlata	the bedroom							
+BBC Bitesize KS3	7	My House				an seomra folctha	the bathroom							
+BBC Bitesize KS3	7	My House				an seomra bia	the dining room							
+BBC Bitesize KS3	7	My House				an seomra suí	the sitting room							
+BBC Bitesize KS3	7	My House				an halla (iontrála)	the (entrance) hall							
+BBC Bitesize KS3	7	My House				an leithreas	the toilet							
+BBC Bitesize KS3	7	My House				an seomra staidéir	the study							
+BBC Bitesize KS3	7	My House				an seomra gréine / grianán	the sun room / conservatory							
+BBC Bitesize KS3	7	My House				staighre	stairs							
+BBC Bitesize KS3	7	My House				seomra	room							
+BBC Bitesize KS3	7	My House				dhá sheomra	two rooms							
+BBC Bitesize KS3	7	My House				trí sheomra	three rooms							
+BBC Bitesize KS3	7	My House				ceithre sheomra	four rooms							
+BBC Bitesize KS3	7	My House				cúig sheomra	five rooms							
+BBC Bitesize KS3	7	My House				sé sheomra	six rooms							
+BBC Bitesize KS3	7	My House				seacht seomra	seven rooms							
+BBC Bitesize KS3	7	My House				ocht seomra	eight rooms							
+BBC Bitesize KS3	7	My House				naoi seomra	nine rooms							
+BBC Bitesize KS3	7	My House				deich seomra	ten rooms							
+BBC Bitesize KS3	7	My House				aon seomra dhéag	eleven rooms							
+BBC Bitesize KS3	8	Hobbies and Interests				Caithimh aimsire	Pastimes							
+BBC Bitesize KS3	8	Hobbies and Interests				Spóirt agus aclaíocht	Sports and exercise							
+BBC Bitesize KS3	8	Hobbies and Interests				Spóirt eile	Other sports							
+BBC Bitesize KS3	8	Hobbies and Interests				Siamsaíocht agus cultúr	Entertainment and culture							
+BBC Bitesize KS3	8	Hobbies and Interests				peil Ghaelach	Gaelic football							
+BBC Bitesize KS3	8	Hobbies and Interests				sacar	soccer							
+BBC Bitesize KS3	8	Hobbies and Interests				rugbaí	rugby							
+BBC Bitesize KS3	8	Hobbies and Interests				eitpheil	volleyball							
+BBC Bitesize KS3	8	Hobbies and Interests				snámh	swimming							
+BBC Bitesize KS3	8	Hobbies and Interests				leadóg	tennis							
+BBC Bitesize KS3	8	Hobbies and Interests				dornálaíocht	boxing							
+BBC Bitesize KS3	8	Hobbies and Interests				rothaíocht	cycling							
+BBC Bitesize KS3	8	Hobbies and Interests				reathaíocht	running							
+BBC Bitesize KS3	8	Hobbies and Interests				dreapadóireacht	climbing							
+BBC Bitesize KS3	8	Hobbies and Interests				líonpheil	netball							
+BBC Bitesize KS3	8	Hobbies and Interests				cispheil	basketball							
+BBC Bitesize KS3	8	Hobbies and Interests				iománaíocht / iomáint	hurling							
+BBC Bitesize KS3	8	Hobbies and Interests				camógaíocht	camogie							
+BBC Bitesize KS3	8	Hobbies and Interests				cluiche corr	rounders							
+BBC Bitesize KS3	8	Hobbies and Interests				liathróid láimhe	handball							
+BBC Bitesize KS3	8	Hobbies and Interests				marcaíocht capail	horseriding							
+BBC Bitesize KS3	8	Hobbies and Interests				aclaíocht	athletics							
+BBC Bitesize KS3	8	Hobbies and Interests				damhsa Gaelach	Irish dancing							
+BBC Bitesize KS3	8	Hobbies and Interests				sciáil	skiing							
+BBC Bitesize KS3	8	Hobbies and Interests				scátáil	skating							
+BBC Bitesize KS3	8	Hobbies and Interests				clársciáil	snowboarding							
+BBC Bitesize KS3	8	Hobbies and Interests				surfáil	surfing							
+BBC Bitesize KS3	8	Hobbies and Interests				seoltóireacht	sailing							
+BBC Bitesize KS3	8	Hobbies and Interests				iascaireacht	fishing							
+BBC Bitesize KS3	8	Hobbies and Interests				ceol	music							
+BBC Bitesize KS3	8	Hobbies and Interests				damhsa / rince	dance							
+BBC Bitesize KS3	8	Hobbies and Interests				péinteáil	painting							
+BBC Bitesize KS3	8	Hobbies and Interests				drámaíocht	theatre							
+BBC Bitesize KS3	8	Hobbies and Interests				teilifís	TV							
+BBC Bitesize KS3	8	Hobbies and Interests				ealaíona agus ceardaíocht	arts and crafts							
+BBC Bitesize KS3	8	Hobbies and Interests				cluichí ríomhaire	computer games							
+BBC Bitesize KS3	8	Hobbies and Interests				cluichí cláir	board games							
+BBC Bitesize KS3	8	Hobbies and Interests				raidió	radio							
+BBC Bitesize KS3	8	Hobbies and Interests				Cad iad na caithimh aimsire atá agat?	What pastimes do you have?							
+BBC Bitesize KS3	8	Hobbies and Interests				Cad iad na súimeanna atá agat?	What interests do you have?							
+BBC Bitesize KS3	8	Hobbies and Interests				Is maith liom …	I like …							
+BBC Bitesize KS3	8	Hobbies and Interests				Ní maith liom …	I don't like …							
+BBC Bitesize KS3	8	Hobbies and Interests				Ní miste liom …	I don't mind …							
+BBC Bitesize KS3	8	Hobbies and Interests				Is breá liom …	I love …							
+BBC Bitesize KS3	8	Hobbies and Interests				Is fuath liom …	I hate …							
+BBC Bitesize KS3	8	Hobbies and Interests				Is fearr liom…	I prefer …							
+BBC Bitesize KS3	8	Hobbies and Interests				Tá suim / spéis agam i / sa…	I have an interest in…							
+BBC Bitesize KS3	8	Hobbies and Interests				Caithim a lán ama…	I spend a lot of time…							
+BBC Bitesize KS3	8	Hobbies and Interests				Is maith liom a bheith ag déanamh…	I like to be doing…							
+BBC Bitesize KS3	8	Hobbies and Interests				Éistim le ceol.	I listen to music.							
+BBC Bitesize KS3	8	Hobbies and Interests				Amharcaim ar an teilifís.	I watch TV.							
+BBC Bitesize KS3	8	Hobbies and Interests				Téim go dtí an phictiúrlann.	I go to the cinema.							
+BBC Bitesize KS3	8	Hobbies and Interests				Imrím cluichí ríomhaire.	I play computer games.							
+BBC Bitesize KS3	8	Hobbies and Interests				Déanaim cócaráil.	I cook.							
+BBC Bitesize KS3	8	Hobbies and Interests				Seinnim m'uirlis i mbanna ceoil.	I play my instrument in a music group.							
+BBC Bitesize KS3	8	Hobbies and Interests				Ligim mo scíth.	I relax.							
+BBC Bitesize KS3	9	Pets and Animal				An bhfuil peata agat?	Do you have a pet?							
+BBC Bitesize KS3	9	Pets and Animal				Tá peata agam.	I do have a pet.							
+BBC Bitesize KS3	9	Pets and Animal				Níl peata agam.	I don't have a pet.							
+BBC Bitesize KS3	9	Pets and Animal				Cén t-ainm atá air/uirthi?	What's his/her name?							
+BBC Bitesize KS3	9	Pets and Animal				Pangur an t-ainm atá air/uirthi.	What's his/her name?							
+BBC Bitesize KS3	9	Pets and Animal				Cén sórt peata é/í?	What type of pet is he/she?							
+BBC Bitesize KS3	9	Pets and Animal				Is … é/í.	He/she's a …							
+BBC Bitesize KS3	9	Pets and Animal				Is madadh é.	He's a dog.							
+BBC Bitesize KS3	9	Pets and Animal				Is cat í.	She's a cat.							
+BBC Bitesize KS3	9	Pets and Animal		TEMPLATE		Tá $ANIMAL agam.	I have a $ANIMAL.							
+BBC Bitesize KS3	9	Pets and Animal				madadh	dog							
+BBC Bitesize KS3	9	Pets and Animal				cat	cat							
+BBC Bitesize KS3	9	Pets and Animal				coinín	rabbit							
+BBC Bitesize KS3	9	Pets and Animal				hamstar	hamster							
+BBC Bitesize KS3	9	Pets and Animal				capall	horse							
+BBC Bitesize KS3	9	Pets and Animal				iasc órga	goldfish							
+BBC Bitesize KS3	9	Pets and Animal				nathair	snake							
+BBC Bitesize KS3	9	Pets and Animal				toirtís	tortoise							
+BBC Bitesize KS3	9	Pets and Animal				muc ghuine	guinea pig							
+BBC Bitesize KS3	9	Pets and Animal				pearóid	parrot							
+BBC Bitesize KS3	9	Pets and Animal				Ar an fheirm								
+BBC Bitesize KS3	9	Pets and Animal				muc	pig							
+BBC Bitesize KS3	9	Pets and Animal				bó	cow							
+BBC Bitesize KS3	9	Pets and Animal				cearc	hen							
+BBC Bitesize KS3	9	Pets and Animal				asal	donkey							
+BBC Bitesize KS3	9	Pets and Animal				caora	sheep							
+BBC Bitesize KS3	9	Pets and Animal				gabhar	goat							
+BBC Bitesize KS3	9	Pets and Animal				Ag an zú								
+BBC Bitesize KS3	9	Pets and Animal				tíogar	tiger							
+BBC Bitesize KS3	9	Pets and Animal				eilifint	elephant							
+BBC Bitesize KS3	9	Pets and Animal				srónbheannach	rhino							
+BBC Bitesize KS3	9	Pets and Animal				rón	seal							
+BBC Bitesize KS3	9	Pets and Animal				síota	cheetah							
+BBC Bitesize KS3	9	Pets and Animal				moncaí	monkey							
+BBC Bitesize KS3	9	Pets and Animal				piongain	penguin							
+BBC Bitesize KS3	9	Pets and Animal				leon	lion							
+BBC Bitesize KS3	10	Celebrations and Festivals				Lá na Bliana Úire	New Year's Day (1st January)							
+BBC Bitesize KS3	10	Celebrations and Festivals				Lá Fhéile Bríde	St. Brigid's Day (1st February)							
+BBC Bitesize KS3	10	Celebrations and Festivals				Máirt Inide	Shrove Tuesday							
+BBC Bitesize KS3	10	Celebrations and Festivals				Lá Fhéile Vailintín	Valentine's Day (14th February)							
+BBC Bitesize KS3	10	Celebrations and Festivals				Lá Fhéile Pádraig	St. Patrick's Day (17th March)							
+BBC Bitesize KS3	10	Celebrations and Festivals				Lá na Máthaireacha	Mother's Day							
+BBC Bitesize KS3	10	Celebrations and Festivals				Lá na hAmadán	April Fool's Day (1st April)							
+BBC Bitesize KS3	10	Celebrations and Festivals				Aoine an Chéasta	Good Friday							
+BBC Bitesize KS3	10	Celebrations and Festivals				Domhnach Cásca	Easter Sunday							
+BBC Bitesize KS3	10	Celebrations and Festivals				Lá na nAithreacha	Father's Day							
+BBC Bitesize KS3	10	Celebrations and Festivals				Oíche Shamhna	Halloween							
+BBC Bitesize KS3	10	Celebrations and Festivals				Oíche Nollag	Christmas Eve							
+BBC Bitesize KS3	10	Celebrations and Festivals				Lá Nollag	Christmas Day							
+BBC Bitesize KS3	10	Celebrations and Festivals				Lá Fhéile Stiofáin	St. Stephen's Day (26th December)							
+BBC Bitesize KS3	10	Celebrations and Festivals				cárta	card							
+BBC Bitesize KS3	10	Celebrations and Festivals				beart	parcel							
+BBC Bitesize KS3	10	Celebrations and Festivals				brat	flag							
+BBC Bitesize KS3	10	Celebrations and Festivals				coinneal	candle							
+BBC Bitesize KS3	10	Celebrations and Festivals				tinte ealaíne	fireworks							
+BBC Bitesize KS3	10	Celebrations and Festivals				tine chnámh	bonfire							
+BBC Bitesize KS3	10	Celebrations and Festivals				bronntanas	gift / present							
+BBC Bitesize KS3	10	Celebrations and Festivals				paráid / mórshiúl	parade							
+BBC Bitesize KS3	10	Celebrations and Festivals				slua / scaifte	crowd							
+BBC Bitesize KS3	10	Celebrations and Festivals				siamsaíocht	entertainment							
+BBC Bitesize KS3	10	Celebrations and Festivals				féile	festival							
+BBC Bitesize KS3	10	Celebrations and Festivals				ceiliúradh	celebration							
+BBC Bitesize KS3	10	Celebrations and Festivals				fleá ceoil	music festival							
+BBC Bitesize KS3	10	Celebrations and Festivals				breithlá / lá breithe	birthday							
+BBC Bitesize KS3	10	Celebrations and Festivals				cóisir	party							
+BBC Bitesize KS3	10	Celebrations and Festivals				cóisir bhreithlae	birthday party							
+BBC Bitesize KS3	10	Celebrations and Festivals				gealltanas pósta	engagement							
+BBC Bitesize KS3	10	Celebrations and Festivals				pósadh / bainis	wedding							
+BBC Bitesize KS3	10	Celebrations and Festivals				mí na meala	honeymoon							
+BBC Bitesize KS3	10	Celebrations and Festivals				baisteadh	christening							
+BBC Bitesize KS3	10	Celebrations and Festivals				bás	death							
+BBC Bitesize KS3	10	Celebrations and Festivals				faire / tórramh	wake							
+BBC Bitesize KS3	10	Celebrations and Festivals				sochraid	funeral							
 Other	1	Places				Cúige	province (of Ireland/fifths)					cwig-a		
 Other	1	Places				Contae	County					cont-ay		
 Other	1	Places			PROVINCES	Uladh	Ulster					ull-oo		
