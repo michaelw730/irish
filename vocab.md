@@ -276,14 +276,14 @@
 | Irish on your own | 2 | Introductions | Family Basic | WORD |  | iníon* | daughter |  |  |  |  | nyee-in (like news) |  | * In Ulster the i at the beginning of iníon is not pronounced. |
 | Irish on your own | 2 | Introductions | Family Basic | WORD |  | iníonacha | daughters |  |  |  |  |  |  |  |
 | Irish on your own | 2 | Introductions | Family Basic | WORD |  | mac | son |  |  |  |  | mawck |  |  |
-| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo mháthair. | This is my mother |  |  |  |  | Shaw mo wahher |  |  |
-| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo m'athair. | This is my father |  |  |  |  | Shaw maher |  |  |
-| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo m'iníon. | This is my daughter |  |  |  |  | Shaw minyee-in |  |  |
-| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo mhac. | This is my son |  |  |  |  | Shaw  mo wock |  |  |
-| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo dheartháir. | This is my brother |  |  |  |  | Shaw  mo yeahr-her |  |  |
-| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo dheirfiúr. | This is my sister |  |  |  |  | Shaw mo yerifur |  |  |
-| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo chuid iníonacha... | these are my daughters… |  |  |  |  | Shaw whid nyeenacha... |  |  |
-| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo chuid mac... | these are my sons… |  |  |  |  | Shaw whid mawk... |  |  |
+| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo mháthair | This is my mother |  |  |  |  | Shaw mo wahher |  |  |
+| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo m'athair | This is my father |  |  |  |  | Shaw maher |  |  |
+| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo m'iníon | This is my daughter |  |  |  |  | Shaw minyee-in |  |  |
+| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo mhac | This is my son |  |  |  |  | Shaw  mo wock |  |  |
+| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo dheartháir | This is my brother |  |  |  |  | Shaw  mo yeahr-her |  |  |
+| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo dheirfiúr | This is my sister |  |  |  |  | Shaw mo yerifur |  |  |
+| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo chuid iníonacha... | These are my daughters… |  |  |  |  | Shaw whid nyeenacha... |  |  |
+| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo chuid mac... | These are my sons… |  |  |  |  | Shaw whid mawk... |  |  |
 | Irish on your own | 2 | Introductions |  | SENTENCE |  | Ar mhaith leat cluiche? | Would you like a game? |  |  |  |  |  |  |  |
 | Irish on your own | 2 | Introductions |  | WORD | ANIMALS | bó | cow |  |  |  |  |  |  |  |
 | Irish on your own | 2 | Introductions |  | WORD | ANIMALS | eilit | doe |  |  |  |  |  |  |  |
