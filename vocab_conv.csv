@@ -238,7 +238,7 @@ Irish on your own	2	Introductions		QUESTION		Cé hiad seo?	Who's this? Who are t
 Irish on your own	2	Introductions		SENTENCE		Seo $NAME	This is $NAME							
 Irish on your own	2	Introductions		QUESTION		Cé hiad sin?	Who are they/those?		p					
 Irish on your own	2	Introductions		QUESTION		Cé hé sin?	Who is he?							
-Irish on your own	2	Introductions		SENTENCE		Sin (é) $NAME.	He is $NAME.							
+Irish on your own	2	Introductions		SENTENCE		Sin (é) $NAME	He is $NAME							
 Irish on your own	2	Introductions		QUESTION		Cé mise?	Who am I?							
 Irish on your own	2	Introductions		QUESTION		Cé hé?	Who is he?							
 Irish on your own	2	Introductions		SENTENCE		Is é... é	He is							
