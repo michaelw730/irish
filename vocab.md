@@ -4477,6 +4477,7 @@
 | Other | 1 | Places |  |  | PLACE | Léim an Mhadaidh | Limavady |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | PLACE | Port an Dúnáin | Portadown |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | PLACE | Nua-Eabhrac | New York |  |  |  |  |  |  |  |
+| Other | 1 | Places |  |  | PLACE | Droichead na Banna | Banbridge |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | IN_PLACE | I mBéal Feirste | In Belfast |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | IN_PLACE | I nGlaschú | In Glasgow |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | IN_PLACE | i bPort Rois | In Portrush |  |  |  |  |  |  |  |
