@@ -1,2819 +1,2819 @@
 
-## Now You're Talking - Meeting People
+## Irish on your own - Meeting People
 
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Now You're Talking | 1 | Meeting People |  | WORD |  | Fáilte | Welcome |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE |  | Tá fáilte romhat | you're welcome |  |  |  | There is a welcome for / before you |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | Aonad 1 | Unit 1 |  |  |  |  | Ay-nid a hein |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE |  | Fáilte romhat go Aonad 1 | Welcome to unit 1 |  |  |  | There is a welcome for / before you |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | duine | person |  |  |  |  | dinye |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | daoine | people |  |  |  |  | deeny |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE |  | Ag bualadh le daoine | Meeting people |  |  |  | meeting with people?? | Ag Bwayla le deeny |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE |  | Dia duit! | Hello! (God to you) |  | s |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE |  | Dia is Muire duit. | Hello. (in response) |  | s |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE |  | Dia daoibh! | Hello! (God to you) |  | p |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | Dia is Muire daoibh | Hello. (in response) |  | p |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | beannachtaí | Greetings |  |  |  |  | baan-ak-tee |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | Haló | Hello (less formal) |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | Maidin mhaith. | Good morning. |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | Tráthnóna maith. | Good afternoon. |  |  |  |  | tranoana my |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | Oíche mhaith. | Good evening/night. |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE |  | gabh mo leithscéal | Excuse me |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | QUESTION |  | Cad é mar atá tú? | How are you? |  | s |  |  |  |  | This greeting is sometimes preceded by Haló. |
-| Now You're Talking | 1 | Meeting People |  | QUESTION |  | Cad é mar atá tú, $NAME? | How are you, $NAME? |  | s |  |  |  |  | This greeting is sometimes preceded by Haló. |
-| Now You're Talking | 1 | Meeting People |  | QUESTION |  | Cad é mar atá sibh? | How are you? |  | p |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | QUESTION |  | Cad é mar atá tú inniu? | How are you today? |  | s |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE |  | Á, go maith | Ah, well |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE | HOW_I_AM | go maith | well |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE | HOW_I_AM | go breá | fine |  |  |  |  | go brea |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE | HOW_I_AM | maith go leor | very good |  |  |  |  | my go lyor |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE | HOW_I_AM | ceart go leor | alright |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE | HOW_I_AM | go holc | awful |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE | HOW_I_AM | go measaratha | reasonable/middling |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE | HOW_I_AM | go measaratha maith | reasonable/middling good |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE | HOW_I_AM | i gceart | rightly |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD | PRONOUNS | mé | I |  |  |  |  | meh |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD | PRONOUNS | tú | you |  | s |  |  | too |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD | PRONOUNS | sé | he |  |  |  |  | shay |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD | PRONOUNS | sí | she |  |  |  |  | shee |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD | PRONOUNS | muid | we |  |  |  |  | mwidge |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD | PRONOUNS | sibh | you |  | p |  |  | shiv |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD | PRONOUNS | siad | they  |  |  |  |  | Shee-id |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE |  | Tá mé | I am |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE |  | Tá tú | You are  |  | s |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE |  | Tá sé | He/it is |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE |  | Tá sí | she is |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE |  | Tá muid | We are |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE |  | Tá sibh | You are  |  | p |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE |  | Tá siad | They are |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | TEMPLATE |  | Tá mé $HOW_I_AM. | I am $HOW_I_AM | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | DYNAMIC |  | Tá mé go maith. | I am well | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | DYNAMIC |  | Tá mé go breá. | I am fine | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | DYNAMIC |  | Tá mé maith go leor. | I am very good | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | DYNAMIC |  | Tá mé ceart go leor. | I am alright | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | DYNAMIC |  | Tá mé go holc. | I am awful | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | DYNAMIC |  | Tá mé go measaratha. | I am reasonable/middling | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | DYNAMIC |  | Tá mé go measaratha maith. | I am reasonable/middling good | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | DYNAMIC |  | Tá mé i gceart. | I am rightly | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Níl mé go maith | I am not good | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Níl caill orm | I am not too bad (or There's no loss upon me) |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | QUESTION |  | Agus tú féin? | And yourself? |  |  |  |  | Agus tu hain? |  |  |
-| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Is maith sin | That's good/great |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Go raibh maith agat | Thank you |  | s |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Go raibh maith agaibh | Thank you |  | p |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Go raibh céad maith agat | Thank you very much |  |  |  |  |  |  | Thanks a hundred times?? |
-| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Go raibh míle maith agat | Thank you very much |  |  |  |  |  |  | Thanks a million?? |
-| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Céad míle fáilte | Hundred thousand welcomes |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Go ndéana sé maith duit | May it do you good/May it be good for you |  |  |  |  |  |  | If saying thanks for a pint?? |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | Cluiche | game |  |  |  |  | Clee-ha |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | fichille | chess |  |  |  |  | feel-ha |  |  |
-| Now You're Talking | 1 | Meeting People |  | PHRASE |  | Cluiche fichille? | A game of chess?/Chess game? |  |  |  |  | Clee-ha feel-ha |  |  |
-| Now You're Talking | 1 | Meeting People |  | QUESTION |  | An bhfuil tú go maith? | Are you well? | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | arís | again |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | Faisnéis | Information |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | freagair | reply/answer |  |  |  |  | freggar |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD |  | aimsir | weather |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD |  | an aimsir | the weather |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD |  | lá | day |  |  |  |  | laa?? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD |  | grian | sun |  |  |  |  | grain |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD |  | scamill | cloud |  |  |  |  | scam-ill |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD |  | ceo | fog |  |  |  |  | kyo |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD |  | fearthainn | rain |  |  |  |  | far-heen |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD |  | sioc | ice |  |  |  |  | shuck |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD |  | teocht | temperature |  |  |  |  | chalked |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD |  | sneachta | snow |  |  |  |  | snock-ta |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD |  | toirneach | thunder |  |  |  |  | torn-yock |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD |  | tintreach | lightning |  |  |  |  | chin-trock |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD |  | gaoth | wind |  |  |  |  | gwee |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | fuar | cold |  |  |  |  | fooar |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | fliuch | wet |  |  |  |  | flu(ch) [(ch) = soft k] |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | te | hot |  |  |  |  | chay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | báistí | rainy |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | gaofar | windy |  |  |  |  | gweefor/geefo? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | tirim | dry |  |  |  |  | Chur-im |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | taise | damp |  |  |  |  | tasha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | grianmhar | sunny |  |  |  |  | grain-wur |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | scamillach | cloudy |  |  |  |  | scam-ill-ock |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | ceomhar | foggy |  |  |  |  | kyowar?? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | geal | bright |  |  |  |  | gyal |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | dorcha | dark |  |  |  |  | dora-ha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE2 | ag cur fearthainne | raining |  |  |  |  | ig cur far-heen-ya |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE2 | ag cur sneachta | snowing |  |  |  |  | ag cur snock-ta |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | WORD |  | iontach | extremely / very |  |  |  |  | inta? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | TEMPLATE |  | Tá sé $WEATHER_DESCRIBE | It is $WEATHER_DESCRIBE |  |  |  |  | taa shay $WEATHER_DESCRIBE |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé fuar | It is cold |  |  |  |  | taa shay fooar |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé fliuch | It is wet |  |  |  |  | taa shay flu(ch) [(ch) = soft k] |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé te | It is hot |  |  |  |  | taa shay chay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé báistí | It is rainy |  |  |  |  | taa shay  |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé gaofar | It is windy |  |  |  |  | taa shay gweefor/geefo? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé tirim | It is dry |  |  |  |  | taa shay Chur-im |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé taise | It is damp |  |  |  |  | taa shay tasha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé grianmhar | It is sunny |  |  |  |  | taa shay grain-wur |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé scamillach | It is cloudy |  |  |  |  | taa shay scam-ill-ock |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé ceomhar | It is foggy |  |  |  |  | taa shay kyowar?? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé geal | It is bright |  |  |  |  | taa shay gyal |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé dorcha | It is dark |  |  |  |  | taa shay dora-ha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | TEMPLATE |  | Tá sé $WEATHER_DESCRIBE2 | It is $WEATHER_DESCRIBE2 |  |  |  |  | taa shay $WEATHER_DESCRIBE2 |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé ag cur fearthainne | It is raining |  |  |  |  | taa shay ig cur far-heen-ya |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé ag cur sneachta | It is snowing |  |  |  |  | taa shay ag cur snock-ta |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | TEMPLATE |  | Bhí sé $WEATHER_DESCRIBE | It was $WEATHER_DESCRIBE | repeat for appropriate weather |  |  |  | vee shay $WEATHER_DESCRIBE |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé fuar | It was cold | repeat for appropriate weather |  |  |  | vee shay fooar |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé fliuch | It was wet | repeat for appropriate weather |  |  |  | vee shay flu(ch) [(ch) = soft k] |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé te | It was hot | repeat for appropriate weather |  |  |  | vee shay chay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé báistí | It was rainy | repeat for appropriate weather |  |  |  | vee shay  |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé gaofar | It was windy | repeat for appropriate weather |  |  |  | vee shay gweefor/geefo? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé tirim | It was dry | repeat for appropriate weather |  |  |  | vee shay Chur-im |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé taise | It was damp | repeat for appropriate weather |  |  |  | vee shay tasha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé grianmhar | It was sunny | repeat for appropriate weather |  |  |  | vee shay grain-wur |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé scamillach | It was cloudy | repeat for appropriate weather |  |  |  | vee shay scam-ill-ock |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé ceomhar | It was foggy | repeat for appropriate weather |  |  |  | vee shay kyowar?? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé geal | It was bright | repeat for appropriate weather |  |  |  | vee shay gyal |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé dorcha | It was dark | repeat for appropriate weather |  |  |  | vee shay dora-ha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | TEMPLATE |  | Níl sé $WEATHER_DESCRIBE | It is not $WEATHER_DESCRIBE | repeat for appropriate weather |  |  |  | Neel shay $WEATHER_DESCRIBE |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé fuar | It is not cold | repeat for appropriate weather |  |  |  | Neel shay fooar |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé fliuch | It is not wet | repeat for appropriate weather |  |  |  | Neel shay flu(ch) [(ch) = soft k] |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé te | It is not hot | repeat for appropriate weather |  |  |  | Neel shay chay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé báistí | It is not rainy | repeat for appropriate weather |  |  |  | Neel shay  |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé gaofar | It is not windy | repeat for appropriate weather |  |  |  | Neel shay gweefor/geefo? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé tirim | It is not dry | repeat for appropriate weather |  |  |  | Neel shay Chur-im |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé taise | It is not damp | repeat for appropriate weather |  |  |  | Neel shay tasha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé grianmhar | It is not sunny | repeat for appropriate weather |  |  |  | Neel shay grain-wur |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé scamillach | It is not cloudy | repeat for appropriate weather |  |  |  | Neel shay scam-ill-ock |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé ceomhar | It is not foggy | repeat for appropriate weather |  |  |  | Neel shay kyowar?? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé geal | It is not bright | repeat for appropriate weather |  |  |  | Neel shay gyal |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé dorcha | It is not dark | repeat for appropriate weather |  |  |  | Neel shay dora-ha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | TEMPLATE |  | Tá sé iontach $WEATHER_DESCRIBE | It is very $WEATHER_DESCRIBE |  |  |  |  | taa shay $WEATHER_DESCRIBE |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach fuar | It is very cold |  |  |  |  | taa shay fooar |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach fliuch | It is very wet |  |  |  |  | taa shay flu(ch) [(ch) = soft k] |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach te | It is very hot |  |  |  |  | taa shay chay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach báistí | It is very rainy |  |  |  |  | taa shay  |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach gaofar | It is very windy |  |  |  |  | taa shay gweefor/geefo? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach tirim | It is very dry |  |  |  |  | taa shay Chur-im |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach taise | It is very damp |  |  |  |  | taa shay tasha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach grianmhar | It is very sunny |  |  |  |  | taa shay grain-wur |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach scamillach | It is very cloudy |  |  |  |  | taa shay scam-ill-ock |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach ceomhar | It is very foggy |  |  |  |  | taa shay kyowar?? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach geal | It is very bright |  |  |  |  | taa shay gyal |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach dorcha | It is very dark |  |  |  |  | taa shay dora-ha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | TEMPLATE |  | Bhí sé iontach $WEATHER_DESCRIBE | It was very $WEATHER_DESCRIBE |  |  |  |  | vee shay inta $WEATHER_DESCRIBE |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach fuar | It was very cold |  |  |  |  | vee shay inta fooar |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach fliuch | It was very wet |  |  |  |  | vee shay inta flu(ch) [(ch) = soft k] |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach te | It was very hot |  |  |  |  | vee shay inta chay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach báistí | It was very rainy |  |  |  |  | vee shay inta  |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach gaofar | It was very windy |  |  |  |  | vee shay inta gweefor/geefo? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach tirim | It was very dry |  |  |  |  | vee shay inta Chur-im |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach taise | It was very damp |  |  |  |  | vee shay inta tasha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach grianmhar | It was very sunny |  |  |  |  | vee shay inta grain-wur |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach scamillach | It was very cloudy |  |  |  |  | vee shay inta scam-ill-ock |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach ceomhar | It was very foggy |  |  |  |  | vee shay inta kyowar?? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach geal | It was very bright |  |  |  |  | vee shay inta gyal |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach dorcha | It was very dark |  |  |  |  | vee shay inta dora-ha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | TEMPLATE |  | Tá sé lá $WEATHER_DESCRIBE | It is a $WEATHER_DESCRIBE day |  |  |  |  | taa shay laa $WEATHER_DESCRIBE |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá fuar | It is a cold day |  |  |  |  | taa shay laa fooar |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá fliuch | It is a wet day |  |  |  |  | taa shay laa flu(ch) [(ch) = soft k] |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá te | It is a hot day |  |  |  |  | taa shay laa chay |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá báistí | It is a rainy day |  |  |  |  | taa shay laa  |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá gaofar | It is a windy day |  |  |  |  | taa shay laa gweefor/geefo? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá tirim | It is a dry day |  |  |  |  | taa shay laa Chur-im |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá taise | It is a damp day |  |  |  |  | taa shay laa tasha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá grianmhar | It is a sunny day |  |  |  |  | taa shay laa grain-wur |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá scamillach | It is a cloudy day |  |  |  |  | taa shay laa scam-ill-ock |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá ceomhar | It is a foggy day |  |  |  |  | taa shay laa kyowar?? |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá geal | It is a bright day |  |  |  |  | taa shay laa gyal |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá dorcha | It is a dark day |  |  |  |  | taa shay laa dora-ha |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | PHRASE |  | Tá | Yes |  |  |  |  |  |  | to agree with the weather |
-| Now You're Talking | 1 | Meeting People | Weather | SENTENCE |  | Tá, cinnte. | It is indeed/surely. |  |  |  |  | teh, kintche |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | SENTENCE |  | Tá lá breá ann. | It's a fine day. |  |  |  |  | teh leh breah ann |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | SENTENCE |  | Tá lá breá ann inniu. | It's a fine day today. |  |  |  |  | teh leh breah ann inn-u |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | PHRASE |  | Buíochas le Dia | Thank God | Said after “it's a good day” for example |  |  |  | bwayhas le djia |  | is used quite frequently in this context. |
-| Now You're Talking | 1 | Meeting People | Weather | SENTENCE |  | Tá drochlá ann. | It's a bad day. |  |  |  |  | teh drock-leh ann |  |  |
-| Now You're Talking | 1 | Meeting People | Weather | SENTENCE |  | Tá drochlá ann inniu. | It's a bad day today. |  |  |  |  | teh drock-leh ann inn-u |  |  |
-| Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán! | Goodbye. |  |  |  | Safe/Health | slawn or slen |  |  |
-| Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán go fóill | Goodbye for now |  |  |  |  | Slaawn guh foil?? |  | Only say Slán after this as response |
-| Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán leat | Goodbye to you |  | s |  | may safety or health be with you |  |  |  |
-| Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán libh | Goodbye to you |  | p |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán abhaile | Safe home |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Ádh mór | Good luck  |  |  |  | big luck | aw more |  | on you |
-| Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Ádh mór ort | Good luck to you |  | s |  | big luck on you |  |  | on you |
-| Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Ádh mór oraibh | Good luck to you |  | p |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Chífidh mé tú. | I'll see you. |  |  |  |  |  |  | Ulster dialect?? |
-| Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Feicfidh mé arís thú. | I'll see you again. |  |  |  |  | Fecky may arish hu |  | Not Ulster dialect?? |
-| Now You're Talking | 1 | Meeting People | Goodbyes | SENTENCE |  | Feicfidh mé amárach thú | I'll see you tomorrow. |  |  |  |  | Fecky may amarach hu |  | Not Ulster dialect?? |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | deireadh | end |  |  |  |  | djeroo |  |  |
-| Now You're Talking | 1 | Meeting People |  | SENTENCE |  | Tá sin deireadh le aonad 1 | That's the end of unit 1 |  |  |  |  | Sin djeroo le ay-nid... |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | Béal Feirste | Belfast |  |  |  |  | bell firstye |  | mouth of the river farset |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | béal | mouth |  |  |  |  | bell |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | gualainn | shoulder |  |  |  |  | goola |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | cos | foot |  |  |  |  | cos |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | ceann | head |  |  |  |  | cyun |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | droim | back |  |  |  |  | drim |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | toín | backside |  |  |  |  | towin |  |  |
-| Now You're Talking | 1 | Meeting People |  | WORD |  | sparán | purse |  |  |  |  | sparaan |  |  |
-| Now You're Talking | 1 | Meeting People | Additional | PHRASE |  | Tóg go bog é | Take it easy |  |  |  |  | Toe-g geh bow-g eh |  |  |
-| Now You're Talking | 1 | Meeting People | Additional | PHRASE |  | póg mo thóin | kiss my ass |  |  |  |  | powg moh hoe-n |  |  |
-| Now You're Talking | 1 | Meeting People | Additional | PHRASE |  | Comhghairdeas | Congratulations |  |  |  |  | co-hard-yes |  | Not Ulster dialect?? |
-| Now You're Talking | 1 | Meeting People | Additional | PHRASE |  | Comhghairdeachas | Congratulations |  |  |  |  | co-hard-ye-has |  | Ulster dialect?? |
-| Now You're Talking | 1 | Meeting People | Additional | PHRASE |  | Níl a fhios agam | I don't know |  |  |  |  | neil us agam |  |  |
-| Now You're Talking | 1 | Meeting People | Additional | PHRASE |  | Tá a fhios agam | I know |  |  |  |  | Ta us agam |  |  |
-| Now You're Talking | 1 | Meeting People | Additional | PHRASE |  | cur Gaeilge air? | What's Irish for? |  |  |  |  | Son-eh |  |  |
-| Now You're Talking | 1 | Meeting People | Additional | WORD |  | sona | happy  |  |  |  |  |  |  |  |
-| Now You're Talking | 1 | Meeting People | Additional | WORD |  | breithe | birth |  |  |  |  | Eh-tch |  |  |
-| Now You're Talking | 1 | Meeting People | Additional | PHRASE |  | lá breithe shona | happy birthday |  |  |  |  | laa brayha |  |  |
-| Now You're Talking | 1 | Meeting People | Additional | PHRASE |  | lá breithe shona duit | happy birthday to you |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | Fáilte | Welcome |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Tá fáilte romhat | You're welcome |  |  |  | There is a welcome for / before you |  |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | Aonad 1 | Unit 1 |  |  |  |  | Ay-nid a hein |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Fáilte romhat go Aonad 1 | Welcome to unit 1 |  |  |  | There is a welcome for / before you |  |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | duine | person |  |  |  |  | dinye |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | daoine | people |  |  |  |  | deeny |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Ag bualadh le daoine | Meeting people |  |  |  | meeting with people?? | Ag Bwayla le deeny |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Dia duit! | Hello! (God to you) |  | s |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Dia is Muire duit. | Hello. (in response) |  | s |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Dia daoibh! | Hello! (God to you) |  | p |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | Dia is Muire daoibh | Hello. (in response) |  | p |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | beannachtaí | Greetings |  |  |  |  | baan-ak-tee |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | Haló | Hello (less formal) |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | Maidin mhaith. | Good morning. |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | Tráthnóna maith. | Good afternoon. |  |  |  |  | tranoana my |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | Oíche mhaith. | Good evening/night. |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | gabh mo leithscéal | Excuse me |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | QUESTION |  | Cad é mar atá tú? | How are you? |  | s |  |  |  |  | This greeting is sometimes preceded by Haló. |
+| Irish on your own | 1 | Meeting People |  | QUESTION |  | Cad é mar atá tú, $NAME? | How are you, $NAME? |  | s |  |  |  |  | This greeting is sometimes preceded by Haló. |
+| Irish on your own | 1 | Meeting People |  | QUESTION |  | Cad é mar atá sibh? | How are you? |  | p |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | QUESTION |  | Cad é mar atá tú inniu? | How are you today? |  | s |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Á, go maith | Ah, well |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | go maith | well |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | go breá | fine |  |  |  |  | go brea |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | maith go leor | very good |  |  |  |  | my go lyor |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | ceart go leor | alright |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | go holc | awful |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | go measaratha | reasonable/middling |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | go measaratha maith | reasonable/middling good |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | i gceart | rightly |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD | PRONOUNS | mé | I |  |  |  |  | meh |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD | PRONOUNS | tú | you |  | s |  |  | too |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD | PRONOUNS | sé | he |  |  |  |  | shay |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD | PRONOUNS | sí | she |  |  |  |  | shee |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD | PRONOUNS | muid | we |  |  |  |  | mwidge |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD | PRONOUNS | sibh | you |  | p |  |  | shiv |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD | PRONOUNS | siad | they  |  |  |  |  | Shee-id |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Tá mé | I am |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Tá tú | You are  |  | s |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Tá sé | He/it is |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Tá sí | she is |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Tá muid | We are |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Tá sibh | You are  |  | p |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Tá siad | They are |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | TEMPLATE |  | Tá mé $HOW_I_AM. | I am $HOW_I_AM | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | DYNAMIC |  | Tá mé go maith. | I am well | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | DYNAMIC |  | Tá mé go breá. | I am fine | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | DYNAMIC |  | Tá mé maith go leor. | I am very good | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | DYNAMIC |  | Tá mé ceart go leor. | I am alright | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | DYNAMIC |  | Tá mé go holc. | I am awful | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | DYNAMIC |  | Tá mé go measaratha. | I am reasonable/middling | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | DYNAMIC |  | Tá mé go measaratha maith. | I am reasonable/middling good | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | DYNAMIC |  | Tá mé i gceart. | I am rightly | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | SENTENCE |  | Níl mé go maith | I am not good | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | SENTENCE |  | Níl caill orm | I am not too bad (or There's no loss upon me) |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | QUESTION |  | Agus tú féin? | And yourself? |  |  |  |  | Agus tu hain? |  |  |
+| Irish on your own | 1 | Meeting People |  | SENTENCE |  | Is maith sin | That's good/great |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | SENTENCE |  | Go raibh maith agat | Thank you |  | s |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | SENTENCE |  | Go raibh maith agaibh | Thank you |  | p |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | SENTENCE |  | Go raibh céad maith agat | Thank you very much |  |  |  |  |  |  | Thanks a hundred times?? |
+| Irish on your own | 1 | Meeting People |  | SENTENCE |  | Go raibh míle maith agat | Thank you very much |  |  |  |  |  |  | Thanks a million?? |
+| Irish on your own | 1 | Meeting People |  | SENTENCE |  | Céad míle fáilte | Hundred thousand welcomes |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | SENTENCE |  | Go ndéana sé maith duit | May it do you good/May it be good for you |  |  |  |  |  |  | If saying thanks for a pint?? |
+| Irish on your own | 1 | Meeting People |  | WORD |  | Cluiche | game |  |  |  |  | Clee-ha |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | fichille | chess |  |  |  |  | feel-ha |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Cluiche fichille? | A game of chess?/Chess game? |  |  |  |  | Clee-ha feel-ha |  |  |
+| Irish on your own | 1 | Meeting People |  | QUESTION |  | An bhfuil tú go maith? | Are you well? | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | arís | again |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | Faisnéis | Information |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | freagair | reply/answer |  |  |  |  | freggar |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD |  | aimsir | weather |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD |  | an aimsir | the weather |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD |  | lá | day |  |  |  |  | laa?? |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD |  | grian | sun |  |  |  |  | grain |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD |  | scamill | cloud |  |  |  |  | scam-ill |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD |  | ceo | fog |  |  |  |  | kyo |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD |  | fearthainn | rain |  |  |  |  | far-heen |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD |  | sioc | ice |  |  |  |  | shuck |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD |  | teocht | temperature |  |  |  |  | chalked |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD |  | sneachta | snow |  |  |  |  | snock-ta |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD |  | toirneach | thunder |  |  |  |  | torn-yock |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD |  | tintreach | lightning |  |  |  |  | chin-trock |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD |  | gaoth | wind |  |  |  |  | gwee |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | fuar | cold |  |  |  |  | fooar |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | fliuch | wet |  |  |  |  | flu(ch) [(ch) = soft k] |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | te | hot |  |  |  |  | chay |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | báistí | rainy |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | gaofar | windy |  |  |  |  | gweefor/geefo? |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | tirim | dry |  |  |  |  | Chur-im |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | taise | damp |  |  |  |  | tasha |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | grianmhar | sunny |  |  |  |  | grain-wur |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | scamillach | cloudy |  |  |  |  | scam-ill-ock |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | ceomhar | foggy |  |  |  |  | kyowar?? |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | geal | bright |  |  |  |  | gyal |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE | dorcha | dark |  |  |  |  | dora-ha |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE2 | ag cur fearthainne | raining |  |  |  |  | ig cur far-heen-ya |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD | WEATHER_DESCRIBE2 | ag cur sneachta | snowing |  |  |  |  | ag cur snock-ta |  |  |
+| Irish on your own | 1 | Meeting People | Weather | WORD |  | iontach | extremely / very |  |  |  |  | inta? |  |  |
+| Irish on your own | 1 | Meeting People | Weather | TEMPLATE |  | Tá sé $WEATHER_DESCRIBE | It is $WEATHER_DESCRIBE |  |  |  |  | taa shay $WEATHER_DESCRIBE |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé fuar | It is cold |  |  |  |  | taa shay fooar |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé fliuch | It is wet |  |  |  |  | taa shay flu(ch) [(ch) = soft k] |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé te | It is hot |  |  |  |  | taa shay chay |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé báistí | It is rainy |  |  |  |  | taa shay  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé gaofar | It is windy |  |  |  |  | taa shay gweefor/geefo? |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé tirim | It is dry |  |  |  |  | taa shay Chur-im |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé taise | It is damp |  |  |  |  | taa shay tasha |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé grianmhar | It is sunny |  |  |  |  | taa shay grain-wur |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé scamillach | It is cloudy |  |  |  |  | taa shay scam-ill-ock |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé ceomhar | It is foggy |  |  |  |  | taa shay kyowar?? |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé geal | It is bright |  |  |  |  | taa shay gyal |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé dorcha | It is dark |  |  |  |  | taa shay dora-ha |  |  |
+| Irish on your own | 1 | Meeting People | Weather | TEMPLATE |  | Tá sé $WEATHER_DESCRIBE2 | It is $WEATHER_DESCRIBE2 |  |  |  |  | taa shay $WEATHER_DESCRIBE2 |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé ag cur fearthainne | It is raining |  |  |  |  | taa shay ig cur far-heen-ya |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé ag cur sneachta | It is snowing |  |  |  |  | taa shay ag cur snock-ta |  |  |
+| Irish on your own | 1 | Meeting People | Weather | TEMPLATE |  | Bhí sé $WEATHER_DESCRIBE | It was $WEATHER_DESCRIBE | repeat for appropriate weather |  |  |  | vee shay $WEATHER_DESCRIBE |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé fuar | It was cold | repeat for appropriate weather |  |  |  | vee shay fooar |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé fliuch | It was wet | repeat for appropriate weather |  |  |  | vee shay flu(ch) [(ch) = soft k] |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé te | It was hot | repeat for appropriate weather |  |  |  | vee shay chay |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé báistí | It was rainy | repeat for appropriate weather |  |  |  | vee shay  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé gaofar | It was windy | repeat for appropriate weather |  |  |  | vee shay gweefor/geefo? |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé tirim | It was dry | repeat for appropriate weather |  |  |  | vee shay Chur-im |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé taise | It was damp | repeat for appropriate weather |  |  |  | vee shay tasha |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé grianmhar | It was sunny | repeat for appropriate weather |  |  |  | vee shay grain-wur |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé scamillach | It was cloudy | repeat for appropriate weather |  |  |  | vee shay scam-ill-ock |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé ceomhar | It was foggy | repeat for appropriate weather |  |  |  | vee shay kyowar?? |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé geal | It was bright | repeat for appropriate weather |  |  |  | vee shay gyal |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé dorcha | It was dark | repeat for appropriate weather |  |  |  | vee shay dora-ha |  |  |
+| Irish on your own | 1 | Meeting People | Weather | TEMPLATE |  | Níl sé $WEATHER_DESCRIBE | It is not $WEATHER_DESCRIBE | repeat for appropriate weather |  |  |  | Neel shay $WEATHER_DESCRIBE |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé fuar | It is not cold | repeat for appropriate weather |  |  |  | Neel shay fooar |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé fliuch | It is not wet | repeat for appropriate weather |  |  |  | Neel shay flu(ch) [(ch) = soft k] |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé te | It is not hot | repeat for appropriate weather |  |  |  | Neel shay chay |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé báistí | It is not rainy | repeat for appropriate weather |  |  |  | Neel shay  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé gaofar | It is not windy | repeat for appropriate weather |  |  |  | Neel shay gweefor/geefo? |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé tirim | It is not dry | repeat for appropriate weather |  |  |  | Neel shay Chur-im |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé taise | It is not damp | repeat for appropriate weather |  |  |  | Neel shay tasha |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé grianmhar | It is not sunny | repeat for appropriate weather |  |  |  | Neel shay grain-wur |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé scamillach | It is not cloudy | repeat for appropriate weather |  |  |  | Neel shay scam-ill-ock |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé ceomhar | It is not foggy | repeat for appropriate weather |  |  |  | Neel shay kyowar?? |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé geal | It is not bright | repeat for appropriate weather |  |  |  | Neel shay gyal |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Níl sé dorcha | It is not dark | repeat for appropriate weather |  |  |  | Neel shay dora-ha |  |  |
+| Irish on your own | 1 | Meeting People | Weather | TEMPLATE |  | Tá sé iontach $WEATHER_DESCRIBE | It is very $WEATHER_DESCRIBE |  |  |  |  | taa shay $WEATHER_DESCRIBE |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach fuar | It is very cold |  |  |  |  | taa shay fooar |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach fliuch | It is very wet |  |  |  |  | taa shay flu(ch) [(ch) = soft k] |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach te | It is very hot |  |  |  |  | taa shay chay |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach báistí | It is very rainy |  |  |  |  | taa shay  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach gaofar | It is very windy |  |  |  |  | taa shay gweefor/geefo? |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach tirim | It is very dry |  |  |  |  | taa shay Chur-im |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach taise | It is very damp |  |  |  |  | taa shay tasha |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach grianmhar | It is very sunny |  |  |  |  | taa shay grain-wur |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach scamillach | It is very cloudy |  |  |  |  | taa shay scam-ill-ock |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach ceomhar | It is very foggy |  |  |  |  | taa shay kyowar?? |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach geal | It is very bright |  |  |  |  | taa shay gyal |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé iontach dorcha | It is very dark |  |  |  |  | taa shay dora-ha |  |  |
+| Irish on your own | 1 | Meeting People | Weather | TEMPLATE |  | Bhí sé iontach $WEATHER_DESCRIBE | It was very $WEATHER_DESCRIBE |  |  |  |  | vee shay inta $WEATHER_DESCRIBE |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach fuar | It was very cold |  |  |  |  | vee shay inta fooar |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach fliuch | It was very wet |  |  |  |  | vee shay inta flu(ch) [(ch) = soft k] |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach te | It was very hot |  |  |  |  | vee shay inta chay |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach báistí | It was very rainy |  |  |  |  | vee shay inta  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach gaofar | It was very windy |  |  |  |  | vee shay inta gweefor/geefo? |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach tirim | It was very dry |  |  |  |  | vee shay inta Chur-im |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach taise | It was very damp |  |  |  |  | vee shay inta tasha |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach grianmhar | It was very sunny |  |  |  |  | vee shay inta grain-wur |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach scamillach | It was very cloudy |  |  |  |  | vee shay inta scam-ill-ock |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach ceomhar | It was very foggy |  |  |  |  | vee shay inta kyowar?? |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach geal | It was very bright |  |  |  |  | vee shay inta gyal |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Bhí sé iontach dorcha | It was very dark |  |  |  |  | vee shay inta dora-ha |  |  |
+| Irish on your own | 1 | Meeting People | Weather | TEMPLATE |  | Tá sé lá $WEATHER_DESCRIBE | It is a $WEATHER_DESCRIBE day |  |  |  |  | taa shay laa $WEATHER_DESCRIBE |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá fuar | It is a cold day |  |  |  |  | taa shay laa fooar |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá fliuch | It is a wet day |  |  |  |  | taa shay laa flu(ch) [(ch) = soft k] |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá te | It is a hot day |  |  |  |  | taa shay laa chay |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá báistí | It is a rainy day |  |  |  |  | taa shay laa  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá gaofar | It is a windy day |  |  |  |  | taa shay laa gweefor/geefo? |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá tirim | It is a dry day |  |  |  |  | taa shay laa Chur-im |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá taise | It is a damp day |  |  |  |  | taa shay laa tasha |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá grianmhar | It is a sunny day |  |  |  |  | taa shay laa grain-wur |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá scamillach | It is a cloudy day |  |  |  |  | taa shay laa scam-ill-ock |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá ceomhar | It is a foggy day |  |  |  |  | taa shay laa kyowar?? |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá geal | It is a bright day |  |  |  |  | taa shay laa gyal |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | Tá sé lá dorcha | It is a dark day |  |  |  |  | taa shay laa dora-ha |  |  |
+| Irish on your own | 1 | Meeting People | Weather | PHRASE |  | Tá | Yes |  |  |  |  |  |  | to agree with the weather |
+| Irish on your own | 1 | Meeting People | Weather | SENTENCE |  | Tá, cinnte. | It is indeed/surely. |  |  |  |  | teh, kintche |  |  |
+| Irish on your own | 1 | Meeting People | Weather | SENTENCE |  | Tá lá breá ann. | It's a fine day. |  |  |  |  | teh leh breah ann |  |  |
+| Irish on your own | 1 | Meeting People | Weather | SENTENCE |  | Tá lá breá ann inniu. | It's a fine day today. |  |  |  |  | teh leh breah ann inn-u |  |  |
+| Irish on your own | 1 | Meeting People | Weather | PHRASE |  | Buíochas le Dia | Thank God | Said after “it's a good day” for example |  |  |  | bwayhas le djia |  | is used quite frequently in this context. |
+| Irish on your own | 1 | Meeting People | Weather | SENTENCE |  | Tá drochlá ann. | It's a bad day. |  |  |  |  | teh drock-leh ann |  |  |
+| Irish on your own | 1 | Meeting People | Weather | SENTENCE |  | Tá drochlá ann inniu. | It's a bad day today. |  |  |  |  | teh drock-leh ann inn-u |  |  |
+| Irish on your own | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán! | Goodbye. |  |  |  | Safe/Health | slawn or slen |  |  |
+| Irish on your own | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán go fóill | Goodbye for now |  |  |  |  | Slaawn guh foil?? |  | Only say Slán after this as response |
+| Irish on your own | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán leat | Goodbye to you |  | s |  | may safety or health be with you |  |  |  |
+| Irish on your own | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán libh | Goodbye to you |  | p |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán abhaile | Safe home |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Goodbyes | SENTENCE |  | Ádh mór | Good luck  |  |  |  | big luck | aw more |  | on you |
+| Irish on your own | 1 | Meeting People | Goodbyes | SENTENCE |  | Ádh mór ort | Good luck to you |  | s |  | big luck on you |  |  | on you |
+| Irish on your own | 1 | Meeting People | Goodbyes | SENTENCE |  | Ádh mór oraibh | Good luck to you |  | p |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Goodbyes | SENTENCE |  | Chífidh mé tú. | I'll see you. |  |  |  |  |  |  | Ulster dialect?? |
+| Irish on your own | 1 | Meeting People | Goodbyes | SENTENCE |  | Feicfidh mé arís thú. | I'll see you again. |  |  |  |  | Fecky may arish hu |  | Not Ulster dialect?? |
+| Irish on your own | 1 | Meeting People | Goodbyes | SENTENCE |  | Feicfidh mé amárach thú | I'll see you tomorrow. |  |  |  |  | Fecky may amarach hu |  | Not Ulster dialect?? |
+| Irish on your own | 1 | Meeting People |  | WORD |  | deireadh | end |  |  |  |  | djeroo |  |  |
+| Irish on your own | 1 | Meeting People |  | SENTENCE |  | Tá sin deireadh le aonad 1 | That's the end of unit 1 |  |  |  |  | Sin djeroo le ay-nid... |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | Béal Feirste | Belfast |  |  |  |  | bell firstye |  | mouth of the river farset |
+| Irish on your own | 1 | Meeting People |  | WORD |  | béal | mouth |  |  |  |  | bell |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | gualainn | shoulder |  |  |  |  | goola |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | cos | foot |  |  |  |  | cos |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | ceann | head |  |  |  |  | cyun |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | droim | back |  |  |  |  | drim |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | toín | backside |  |  |  |  | towin |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | sparán | purse |  |  |  |  | sparaan |  |  |
+| Irish on your own | 1 | Meeting People | Additional | PHRASE |  | Tóg go bog é | Take it easy |  |  |  |  | Toe-g geh bow-g eh |  |  |
+| Irish on your own | 1 | Meeting People | Additional | PHRASE |  | póg mo thóin | kiss my ass |  |  |  |  | powg moh hoe-n |  |  |
+| Irish on your own | 1 | Meeting People | Additional | PHRASE |  | Comhghairdeas | Congratulations |  |  |  |  | co-hard-yes |  | Not Ulster dialect?? |
+| Irish on your own | 1 | Meeting People | Additional | PHRASE |  | Comhghairdeachas | Congratulations |  |  |  |  | co-hard-ye-has |  | Ulster dialect?? |
+| Irish on your own | 1 | Meeting People | Additional | PHRASE |  | Níl a fhios agam | I don't know |  |  |  |  | neil us agam |  |  |
+| Irish on your own | 1 | Meeting People | Additional | PHRASE |  | Tá a fhios agam | I know |  |  |  |  | Ta us agam |  |  |
+| Irish on your own | 1 | Meeting People | Additional | PHRASE |  | cur Gaeilge air? | What's Irish for? |  |  |  |  | Son-eh |  |  |
+| Irish on your own | 1 | Meeting People | Additional | WORD |  | sona | happy  |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Additional | WORD |  | breithe | birth |  |  |  |  | Eh-tch |  |  |
+| Irish on your own | 1 | Meeting People | Additional | PHRASE |  | lá breithe shona | happy birthday |  |  |  |  | laa brayha |  |  |
+| Irish on your own | 1 | Meeting People | Additional | PHRASE |  | lá breithe shona duit | happy birthday to you |  |  |  |  |  |  |  |
 
-## Now You're Talking - Introductions
-
-| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Now You're Talking | 2 | Introductions |  | PHRASE |  | Cur in aithne | Introductions |  |  |  |  | cur in an-yuh |  |  |
-| Now You're Talking | 2 | Introductions |  | WORD |  | ainm | Name |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | WORD |  | sloinne | surname |  |  |  |  | slin-you |  |  |
-| Now You're Talking | 2 | Introductions |  | WORD |  | sloinnte | surnames |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | QUESTION |  | Cad é an t-ainm atá ort? | What is your name? | Try other on prep pronouns – orm/ort/air/uirthi/orainn/oraibh/orthu |  |  | What name is on you? |  |  |  |
-| Now You're Talking | 2 | Introductions |  | QUESTION |  | Cad é an t-ainm atá ort féin? | What is your own name? |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | QUESTION |  | Cad é an t-ainm atá ortsa? | What is *your* name? |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | SENTENCE |  | $NAME an t-ainm atá orm. | My name is $NAME | Ask the other person's name |  |  | $NAME is the name on me |  |  |  |
-| Now You're Talking | 2 | Introductions |  | QUESTION |  | Cé thusa? | Who are you? |  |  |  |  | Kay husa? |  |  |
-| Now You're Talking | 2 | Introductions |  | SENTENCE |  | Is mise $NAME | I am $NAME |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | SENTENCE |  | Mise $NAME | I'm $NAME |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | QUESTION |  | Cad é an sloinne atá ort? | What is your surname? |  |  |  |  | ..slinyou.. |  |  |
-| Now You're Talking | 2 | Introductions |  | SENTENCE |  | $SURNAME an sloinne atá orm. | My surname is $SURNAME |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | QUESTION |  | C'ainm atá ort? | What's your name? | Try other on prep pronouns – orm/ort/air/uirthi/orainn/oraibh/orthu |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | QUESTION |  | C'ainm atá ortsa? | What's *your* name? |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | SENTENCE |  | $NAME | $NAME |  |  |  |  |  |  | Usually just the surname |
-| Now You're Talking | 2 | Introductions |  | QUESTION |  | Cé seo? | Who's this? |  | s |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | QUESTION |  | Cé hiad seo? | Who's this? Who are these? |  | p |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | SENTENCE |  | Seo $NAME | This is $NAME |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | QUESTION |  | Cé hiad sin? | Who are they/those? |  | p |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | QUESTION |  | Cé hé sin? | Who is he? |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | SENTENCE |  | Sin (é) $NAME. | He is $NAME. |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | QUESTION |  | Cé mise? | Who am I? |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | QUESTION |  | Cé hé? | Who is he? |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | SENTENCE |  | Is é... é | He is |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | QUESTION |  | Cé hí? | Who is she? |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | QUESTION |  | Is í... í | She is |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | QUESTION |  | Cé sinne? | Who are we? |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | QUESTION |  | Cé hiad? | Who are they? |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | SENTENCE |  | Is iad... iad | They are... |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | WORD |  | ar | on |  |  |  |  | air |  |  |
-| Now You're Talking | 2 | Introductions |  | WORD |  | ár | our |  |  |  |  | are |  |  |
-| Now You're Talking | 2 | Introductions |  | WORD |  | fear | man |  |  |  |  | far |  |  |
-| Now You're Talking | 2 | Introductions |  | WORD |  | féar | grass |  |  |  |  | fay-r |  |  |
-| Now You're Talking | 2 | Introductions |  | WORD |  | fionn | blond |  |  |  |  | finn |  |  |
-| Now You're Talking | 2 | Introductions |  | WORD |  | fíon | wine |  |  |  |  | fee-in |  |  |
-| Now You're Talking | 2 | Introductions |  | WORD |  | solas | light |  |  |  |  | sawlas |  |  |
-| Now You're Talking | 2 | Introductions |  | WORD |  | sólás | comfort |  |  |  |  | sow-laas |  |  |
-| Now You're Talking | 2 | Introductions |  | WORD |  | gunna | gun |  |  |  |  | gun-na |  |  |
-| Now You're Talking | 2 | Introductions |  | WORD |  | gúna | dress |  |  |  |  | goona |  |  |
-| Now You're Talking | 2 | Introductions | Family Basic | WORD |  | an teaghlach | the family |  |  |  |  | an chay-la |  |  |
-| Now You're Talking | 2 | Introductions | Family Basic | WORD |  | Mo theaghlach | My family |  |  |  |  | mo hay-la |  |  |
-| Now You're Talking | 2 | Introductions | Family Basic | WORD |  | athair | father |  |  |  |  | aher |  |  |
-| Now You're Talking | 2 | Introductions | Family Basic | WORD |  | máthair | mother |  |  |  |  | mah-her |  |  |
-| Now You're Talking | 2 | Introductions | Family Basic | WORD |  | mamaí | mummy |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions | Family Basic | WORD |  | deirfiúr | sister |  |  |  |  | djerifur |  |  |
-| Now You're Talking | 2 | Introductions | Family Basic | WORD |  | deartháir | brother |  |  |  |  | djarher |  |  |
-| Now You're Talking | 2 | Introductions | Family Basic | WORD |  | iníon* | daughter |  |  |  |  | nyee-in (like news) |  | * In Ulster the i at the beginning of iníon is not pronounced. |
-| Now You're Talking | 2 | Introductions | Family Basic | WORD |  | iníonacha | daughters |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions | Family Basic | WORD |  | mac | son |  |  |  |  | mawck |  |  |
-| Now You're Talking | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo mháthair. | This is my mother |  |  |  |  | Shaw mo wahher |  |  |
-| Now You're Talking | 2 | Introductions | Family Introductions | SENTENCE |  | Seo m'athair. | This is my father |  |  |  |  | Shaw maher |  |  |
-| Now You're Talking | 2 | Introductions | Family Introductions | SENTENCE |  | Seo m'iníon. | This is my daughter |  |  |  |  | Shaw minyee-in |  |  |
-| Now You're Talking | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo mhac. | This is my son |  |  |  |  | Shaw  mo wock |  |  |
-| Now You're Talking | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo dheartháir. | This is my brother |  |  |  |  | Shaw  mo yeahr-her |  |  |
-| Now You're Talking | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo dheirfiúr. | This is my sister |  |  |  |  | Shaw mo yerifur |  |  |
-| Now You're Talking | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo chuid iníonacha... | these are my daughters… |  |  |  |  | Shaw whid nyeenacha... |  |  |
-| Now You're Talking | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo chuid mac... | these are my sons… |  |  |  |  | Shaw whid mawk... |  |  |
-| Now You're Talking | 2 | Introductions |  | SENTENCE |  | Ar mhaith leat cluiche? | Would you like a game? |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | WORD | ANIMALS | bó | cow |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | WORD | ANIMALS | eilit | doe |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | WORD | ANIMALS | torc | boar |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | WORD | ANIMALS | gabhar | goat |  |  |  |  |  |  |  |
-| Now You're Talking | 2 | Introductions |  | SENTENCE |  | go dtí sin | until then |  |  |  |  |  |  |  |
-
-## Now You're Talking - SPEAKING ABOUT YOUR BACKGROUND
+## Irish on your own - Introductions
 
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | CÚLRA | BACKGROUND |  |  |  |  | koolra |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | PHRASE |  | AG LABHAIRT FAOI DO CHÚLRA | SPEAKING ABOUT YOUR BACKGROUND |  |  |  |  | a lortch fwee do hkoolra |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cá as tú? | Where are you from? |  |  |  |  |  |  | After giving your response, you can ask the same question in the following ways: |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cá as túsa? | Where are *you* from? |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cá as tú féin? | Where are you from yourself? |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Agus tú féin? | And yourself? |  |  |  |  | Agus tu hain? |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cárb as thú? | Where are you from? |  |  |  |  | Carb ass who? |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cárb as thú féin? | Where are you from yourself? |  |  |  |  | Carb ass who hain? |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cárb as thú, a $NAME? | Where are you from, $NAME? |  |  |  |  | Carb ass who, $NAME? |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | TEMPLATE |  | Is as ... mé. | I'm from ... |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Is as Dún Geanainn mé. | I'm from Dungannon. |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | As Léim an Mhadaidh. | From Limavady. |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cá bhfuil tú? | Where are you? |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cá bhfuil tú i do chónaí? | Where do you live? |  |  |  | where are you in your living? |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | TEMPLATE |  | Tá mé i mo chónaí i(n)... | I live in... |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí in Aontroim. | I live in Antrim. |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí i nDún Geanainn. | I live in Dungannon. |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | An bhfuil sé deas? | Is it nice? |  |  |  |  | An whil shay jeas? |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá sé deas | It is nice |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá sé go maith | It is good |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | An maith leat é? | Do you like it? |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Is maith liom é. | I like it. |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Is maith. | I like. |  |  |  |  |  |  | Shorter and acceptable |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Níl maith liom é. | I do not like it. |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Níl maith. | I do not like. |  |  |  |  |  |  | Shorter and acceptable |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | seoladh | address |  |  |  |  | shaw-loo |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cad é an seoladh atá agat? | What's your address? |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | Aít | place |  |  |  |  | brey-ha |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | Aít bhreithe | place of birth |  |  |  |  | eh-tch vrey-ha |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | cá bhfuil tú i do áit bhreithe? | where is your place of birth? |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Is as Ard Mhacha **ó dhúchas** mé, ach tá mé i mo chónaí i mBeal Feirste anois. | I'm originally from Armagh, but I live in Belfast now. |  |  |  |  | As Ard Whacha **oh huhas** meh, ack taw may i mo hoaney in mel ferste anish |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | sráid | street |  |  |  |  | sradg |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | bóthar | road |  |  |  |  | baw-her |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | lár | centre |  |  |  |  | lar |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | taobh amuigh | outside |  |  |  |  | too amwee |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | baile | town |  |  |  |  | balla |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | cathrach | city |  |  |  |  | ceh-hra |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | tuath | countryside |  |  |  |  | too-a |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | TEMPLATE |  | Tá mé i mo chónaí ... | I live ... |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí i lár an bhaile. | I live in the centre of town. |  |  |  |  | .. i lar an whalla |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí taobh amuigh den bhaile. | I live outside the town |  |  |  |  | .. tweev amwee den whalla??? |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí faoin tuath | I live in the countryside |  |  |  |  | fween too-a |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí i lár na cathrach | I live in the city centre. |  |  |  |  | i lar na ceh-hra |  | maybe.. in the center of the city??? |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí ar shráid Anraí | I live on Henry Street |  |  |  |  | ar hradg anry |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí ar Bhóthar na Carraige | I live on Carrick Road |  |  |  |  | ar waw-her na carriga |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Náid | Zero |  |  |  |  | Nawj |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Aon | One |  |  |  |  | Ayn |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Dó | Two |  |  |  |  | Doh |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Trí | Three |  |  |  |  | Tree |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Ceathair | Four |  |  |  |  | KYA-hir |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Cúig | Five |  |  |  |  | KOO-ig |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Sé | Six |  |  |  |  | Shay |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Seacht | Seven |  |  |  |  | Shakht |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Ocht | Eight |  |  |  |  | Awkht |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Naoi | Nine |  |  |  |  | Nee |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Deich | Ten |  |  |  |  | Jay |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | uimhir | number |  |  |  |  | ever |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | uimhreacha | numbers |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | na huimhreacha | the numbers |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a náid | zero |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a haon | one |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a dó | two |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a trí | three |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a ceathair | four |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a cúig | five |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a sé | six |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a seacht | seven |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a hocht | eight |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a naoi | nine |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a deich | ten |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a haon déag | eleven |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a dó dhéag | twelve |  |  |  |  | doe yeag |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a trí déag | thirteen |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a ceathair déag | fourteen |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a cúig déag | fifteen |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a sé déag | sixteen |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a seacht déag | seventeen |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a hocht déag | eighteen |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a naoi déag | nineteen |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | fiche | twenty |  |  |  |  | fihha |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | fiche a haon | twenty one |  |  |  |  | fihha a haon |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | triocha | thirty |  |  |  |  | truck-ah |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | daichead/Ceathracha | forty |  |  |  |  | die-hid/Cara-hach |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | caoga | fifty |  |  |  |  | cway-gah |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | seasca | sixty |  |  |  |  | shahs-kah |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | seachtó | seventy |  |  |  |  | shock toe |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | ochtó | eighty |  |  |  |  | uck toe |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | nócha | ninety |  |  |  |  | noe-kah |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | céad | hundred |  |  |  |  | cay-d |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | míle | thousand |  |  |  |  | meala |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | milliún | million |  |  |  |  | millyun |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Phone |  |  | Cad é d'uimhir fóin? | What's your phone number? |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Phone |  |  | D'uimhir fóin? | Your phone number? |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | am | time |  |  |  |  | am |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Cad é an t-am atá sé? | What time is it? |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Cad é an t-am atá sé, le do thoil? | What time is it, please? |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Cad é an t-am? | What time? |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Cén t-am é? | What time is it? |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Cén t-am? | What time? |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | a chlog | o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a haon a chlog | 1 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a dó a chlog | 2 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a trí a chlog | 3 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a ceathair a chlog | 4 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a cúig a chlog | 5 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a sé a chlog | 6 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a seacht a chlog | 7 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a hocht a chlog | 8 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a naoi a chlog | 9 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a deich a chlog | 10 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a haon déag a chlog | 11 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a dó dhéag a chlog | 12 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | TEMPLATE |  | Tá sé $HOUR_O_CLOCK.  | It's $HOUR_O_CLOCK. | repeat for each hour |  |  |  | ta shay $HOUR_O_CLOCK. |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a haon a chlog.  | It's 1 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a dó a chlog.  | It's 2 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a trí a chlog.  | It's 3 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a ceathair a chlog.  | It's 4 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a cúig a chlog.  | It's 5 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a sé a chlog.  | It's 6 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a seacht a chlog.  | It's 7 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a hocht a chlog.  | It's 8 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a naoi a chlog.  | It's 9 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a deich a chlog.  | It's 10 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a haon déag a chlog.  | It's 11 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a dó dhéag a chlog.  | It's 12 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | TEMPLATE |  | Bhí sé $HOUR_O_CLOCK. | It was $HOUR_O_CLOCK. | repeat for each hour |  |  |  | vee shay $HOUR_O_CLOCK |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a haon a chlog. | It was 1 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a dó a chlog. | It was 2 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a trí a chlog. | It was 3 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a ceathair a chlog. | It was 4 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a cúig a chlog. | It was 5 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a sé a chlog. | It was 6 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a seacht a chlog. | It was 7 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a hocht a chlog. | It was 8 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a naoi a chlog. | It was 9 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a deich a chlog. | It was 10 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a haon déag a chlog. | It was 11 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a dó dhéag a chlog. | It was 12 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | soicind | second |  |  |  |  | second |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | bomaite | minute |  |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | ceathrú | quarter |  |  |  |  | ceahroo |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | leath | half |  |  |  |  | la (maybe lya??) |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | ceathrú i ndiaidh ... | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | leath i ndiaidh ... | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | ceathrú go dtí ... | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | cúig bomaite i ndiaidh | five minutes past?? | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | cúig i ndiaidh | five past?? | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | fiche go dtí | twenty to | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | TEMPLATE |  | Tá sé ceathrú i ndiaidh $HOUR_O_CLOCK | It is a quarter past $HOUR_O_CLOCK | repeat for each time |  |  |  | ceahroo i nyay  $HOUR_O_CLOCK |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon a chlog | It is a quarter past 1 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó a chlog | It is a quarter past 2 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a trí a chlog | It is a quarter past 3 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a ceathair a chlog | It is a quarter past 4 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a cúig a chlog | It is a quarter past 5 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a sé a chlog | It is a quarter past 6 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a seacht a chlog | It is a quarter past 7 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a hocht a chlog | It is a quarter past 8 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a naoi a chlog | It is a quarter past 9 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a deich a chlog | It is a quarter past 10 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon déag a chlog | It is a quarter past 11 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó dhéag a chlog | It is a quarter past 12 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | TEMPLATE |  | Tá sé leath i ndiaidh $HOUR_O_CLOCK | It is half past $HOUR_O_CLOCK | repeat for each time |  |  |  | la i nyay  $HOUR_O_CLOCK |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon a chlog | It is half past 1 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó a chlog | It is half past 2 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a trí a chlog | It is half past 3 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a ceathair a chlog | It is half past 4 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a cúig a chlog | It is half past 5 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a sé a chlog | It is half past 6 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a seacht a chlog | It is half past 7 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a hocht a chlog | It is half past 8 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a naoi a chlog | It is half past 9 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a deich a chlog | It is half past 10 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon déag a chlog | It is half past 11 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó dhéag a chlog | It is half past 12 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | TEMPLATE |  | Tá sé ceathrú go dtí $HOUR_O_CLOCK | It is a quarter to $HOUR_O_CLOCK | repeat for each time |  |  |  | ceahroo go gee  $HOUR_O_CLOCK |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon a chlog | It is a quarter to 1 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó a chlog | It is a quarter to 2 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a trí a chlog | It is a quarter to 3 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a ceathair a chlog | It is a quarter to 4 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a cúig a chlog | It is a quarter to 5 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a sé a chlog | It is a quarter to 6 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a seacht a chlog | It is a quarter to 7 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a hocht a chlog | It is a quarter to 8 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a naoi a chlog | It is a quarter to 9 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a deich a chlog | It is a quarter to 10 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon déag a chlog | It is a quarter to 11 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó dhéag a chlog | It is a quarter to 12 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | TEMPLATE |  | Tá sé cúig bomaite i ndiaidh $HOUR_O_CLOCK | It is five minutes past $HOUR_O_CLOCK | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon a chlog | It is five minutes past 1 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó a chlog | It is five minutes past 2 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a trí a chlog | It is five minutes past 3 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a ceathair a chlog | It is five minutes past 4 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a cúig a chlog | It is five minutes past 5 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a sé a chlog | It is five minutes past 6 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a seacht a chlog | It is five minutes past 7 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a hocht a chlog | It is five minutes past 8 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a naoi a chlog | It is five minutes past 9 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a deich a chlog | It is five minutes past 10 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon déag a chlog | It is five minutes past 11 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó dhéag a chlog | It is five minutes past 12 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | TEMPLATE |  | Tá sé cúig i ndiaidh $HOUR_O_CLOCK | It is five past $HOUR_O_CLOCK | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon a chlog | It is five past 1 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó a chlog | It is five past 2 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a trí a chlog | It is five past 3 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a ceathair a chlog | It is five past 4 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a cúig a chlog | It is five past 5 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a sé a chlog | It is five past 6 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a seacht a chlog | It is five past 7 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a hocht a chlog | It is five past 8 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a naoi a chlog | It is five past 9 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a deich a chlog | It is five past 10 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon déag a chlog | It is five past 11 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó dhéag a chlog | It is five past 12 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | TEMPLATE |  | Tá sé fiche go dtí $HOUR_O_CLOCK | It is twenty to $HOUR_O_CLOCK | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon a chlog | It is twenty to 1 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó a chlog | It is twenty to 2 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a trí a chlog | It is twenty to 3 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a ceathair a chlog | It is twenty to 4 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a cúig a chlog | It is twenty to 5 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a sé a chlog | It is twenty to 6 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a seacht a chlog | It is twenty to 7 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a hocht a chlog | It is twenty to 8 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a naoi a chlog | It is twenty to 9 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a deich a chlog | It is twenty to 10 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon déag a chlog | It is twenty to 11 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó dhéag a chlog | It is twenty to 12 o'clock | repeat for each time |  |  |  |  |  |  |
-| Now You're Talking | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | An bhfuil dráma anocht? | Is the play tonight? |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | PHRASE |  | Cur in aithne | Introductions |  |  |  |  | cur in an-yuh |  |  |
+| Irish on your own | 2 | Introductions |  | WORD |  | ainm | Name |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | WORD |  | sloinne | surname |  |  |  |  | slin-you |  |  |
+| Irish on your own | 2 | Introductions |  | WORD |  | sloinnte | surnames |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | QUESTION |  | Cad é an t-ainm atá ort? | What is your name? | Try other on prep pronouns – orm/ort/air/uirthi/orainn/oraibh/orthu |  |  | What name is on you? |  |  |  |
+| Irish on your own | 2 | Introductions |  | QUESTION |  | Cad é an t-ainm atá ort féin? | What is your own name? |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | QUESTION |  | Cad é an t-ainm atá ortsa? | What is *your* name? |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | SENTENCE |  | $NAME an t-ainm atá orm. | My name is $NAME | Ask the other person's name |  |  | $NAME is the name on me |  |  |  |
+| Irish on your own | 2 | Introductions |  | QUESTION |  | Cé thusa? | Who are you? |  |  |  |  | Kay husa? |  |  |
+| Irish on your own | 2 | Introductions |  | SENTENCE |  | Is mise $NAME | I am $NAME |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | SENTENCE |  | Mise $NAME | I'm $NAME |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | QUESTION |  | Cad é an sloinne atá ort? | What is your surname? |  |  |  |  | ..slinyou.. |  |  |
+| Irish on your own | 2 | Introductions |  | SENTENCE |  | $SURNAME an sloinne atá orm. | My surname is $SURNAME |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | QUESTION |  | C'ainm atá ort? | What's your name? | Try other on prep pronouns – orm/ort/air/uirthi/orainn/oraibh/orthu |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | QUESTION |  | C'ainm atá ortsa? | What's *your* name? |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | SENTENCE |  | $NAME | $NAME |  |  |  |  |  |  | Usually just the surname |
+| Irish on your own | 2 | Introductions |  | QUESTION |  | Cé seo? | Who's this? |  | s |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | QUESTION |  | Cé hiad seo? | Who's this? Who are these? |  | p |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | SENTENCE |  | Seo $NAME | This is $NAME |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | QUESTION |  | Cé hiad sin? | Who are they/those? |  | p |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | QUESTION |  | Cé hé sin? | Who is he? |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | SENTENCE |  | Sin (é) $NAME. | He is $NAME. |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | QUESTION |  | Cé mise? | Who am I? |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | QUESTION |  | Cé hé? | Who is he? |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | SENTENCE |  | Is é... é | He is |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | QUESTION |  | Cé hí? | Who is she? |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | QUESTION |  | Is í... í | She is |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | QUESTION |  | Cé sinne? | Who are we? |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | QUESTION |  | Cé hiad? | Who are they? |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | SENTENCE |  | Is iad... iad | They are... |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | WORD |  | ar | on |  |  |  |  | air |  |  |
+| Irish on your own | 2 | Introductions |  | WORD |  | ár | our |  |  |  |  | are |  |  |
+| Irish on your own | 2 | Introductions |  | WORD |  | fear | man |  |  |  |  | far |  |  |
+| Irish on your own | 2 | Introductions |  | WORD |  | féar | grass |  |  |  |  | fay-r |  |  |
+| Irish on your own | 2 | Introductions |  | WORD |  | fionn | blond |  |  |  |  | finn |  |  |
+| Irish on your own | 2 | Introductions |  | WORD |  | fíon | wine |  |  |  |  | fee-in |  |  |
+| Irish on your own | 2 | Introductions |  | WORD |  | solas | light |  |  |  |  | sawlas |  |  |
+| Irish on your own | 2 | Introductions |  | WORD |  | sólás | comfort |  |  |  |  | sow-laas |  |  |
+| Irish on your own | 2 | Introductions |  | WORD |  | gunna | gun |  |  |  |  | gun-na |  |  |
+| Irish on your own | 2 | Introductions |  | WORD |  | gúna | dress |  |  |  |  | goona |  |  |
+| Irish on your own | 2 | Introductions | Family Basic | WORD |  | an teaghlach | the family |  |  |  |  | an chay-la |  |  |
+| Irish on your own | 2 | Introductions | Family Basic | WORD |  | Mo theaghlach | My family |  |  |  |  | mo hay-la |  |  |
+| Irish on your own | 2 | Introductions | Family Basic | WORD |  | athair | father |  |  |  |  | aher |  |  |
+| Irish on your own | 2 | Introductions | Family Basic | WORD |  | máthair | mother |  |  |  |  | mah-her |  |  |
+| Irish on your own | 2 | Introductions | Family Basic | WORD |  | mamaí | mummy |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions | Family Basic | WORD |  | deirfiúr | sister |  |  |  |  | djerifur |  |  |
+| Irish on your own | 2 | Introductions | Family Basic | WORD |  | deartháir | brother |  |  |  |  | djarher |  |  |
+| Irish on your own | 2 | Introductions | Family Basic | WORD |  | iníon* | daughter |  |  |  |  | nyee-in (like news) |  | * In Ulster the i at the beginning of iníon is not pronounced. |
+| Irish on your own | 2 | Introductions | Family Basic | WORD |  | iníonacha | daughters |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions | Family Basic | WORD |  | mac | son |  |  |  |  | mawck |  |  |
+| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo mháthair. | This is my mother |  |  |  |  | Shaw mo wahher |  |  |
+| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo m'athair. | This is my father |  |  |  |  | Shaw maher |  |  |
+| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo m'iníon. | This is my daughter |  |  |  |  | Shaw minyee-in |  |  |
+| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo mhac. | This is my son |  |  |  |  | Shaw  mo wock |  |  |
+| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo dheartháir. | This is my brother |  |  |  |  | Shaw  mo yeahr-her |  |  |
+| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo dheirfiúr. | This is my sister |  |  |  |  | Shaw mo yerifur |  |  |
+| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo chuid iníonacha... | these are my daughters… |  |  |  |  | Shaw whid nyeenacha... |  |  |
+| Irish on your own | 2 | Introductions | Family Introductions | SENTENCE |  | Seo mo chuid mac... | these are my sons… |  |  |  |  | Shaw whid mawk... |  |  |
+| Irish on your own | 2 | Introductions |  | SENTENCE |  | Ar mhaith leat cluiche? | Would you like a game? |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | WORD | ANIMALS | bó | cow |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | WORD | ANIMALS | eilit | doe |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | WORD | ANIMALS | torc | boar |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | WORD | ANIMALS | gabhar | goat |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | SENTENCE |  | go dtí sin | until then |  |  |  |  |  |  |  |
 
-## Now You're Talking - Discussing Languages
+## Irish on your own - SPEAKING ABOUT YOUR BACKGROUND
 
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Now You're Talking | 4 | Discussing Languages | Languages | PHRASE |  | Ag plé teangacha | Discussing languages |  |  |  |  | tchangaha?? |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD |  | teanga | a language |  |  |  |  | tchangy?? |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD |  | teangacha | Languages |  |  |  |  | tchangaha?? |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Gaeilge | Irish |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Fraincis | French |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Béarla | English |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Gearmáinis | German |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Iodáilis | Italian |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Spáinnis | Spanish |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Breatnais | Welsh |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Gaeilge na hAlban | Gaelic (Scotland) |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD | LANGUAGE2 | Gaeilge | Irish |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD | LANGUAGE2 | Fraincise | French |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD | LANGUAGE2 | Gearmáinise | German |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD | LANGUAGE2 | Iodáilise | Italian |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Gaeilge | Irish |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Fhraincis | French |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Ghearmáinis | German |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Spáinnis | Spanish |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Iodáilis | Italian |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | TEMPLATE |  | An bhfuil $LANGUAGE agat? | Can you speak $LANGUAGE? |  |  |  | Have you $LANGUAGE? Is $LANGUAGE at you? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gaeilge agat? | Can you speak Irish? |  |  |  | Have you Irish? Is Irish at you? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Fraincis agat? | Can you speak French? |  |  |  | Have you French? Is French at you? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Béarla agat? | Can you speak English? |  |  |  | Have you English? Is English at you? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gearmáinis agat? | Can you speak German? |  |  |  | Have you German? Is German at you? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Iodáilis agat? | Can you speak Italian? |  |  |  | Have you Italian? Is Italian at you? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Spáinnis agat? | Can you speak Spanish? |  |  |  | Have you Spanish? Is Spanish at you? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Breatnais agat? | Can you speak Welsh? |  |  |  | Have you Welsh? Is Welsh at you? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gaeilge na hAlban agat? | Can you speak Gaelic (Scotland)? |  |  |  | Have you Gaelic (Scotland)? Is Gaelic (Scotland) at you? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | TEMPLATE |  | An bhfuil $LANGUAGE ag Tony? | Can Tony speak $LANGUAGE? |  |  |  | Has Tony $LANGUAGE? Is $LANGUAGE at Tony? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gaeilge ag Tony? | Can Tony speak Irish? |  |  |  | Has Tony Irish? Is Irish at Tony? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Fraincis ag Tony? | Can Tony speak French? |  |  |  | Has Tony French? Is French at Tony? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Béarla ag Tony? | Can Tony speak English? |  |  |  | Has Tony English? Is English at Tony? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gearmáinis ag Tony? | Can Tony speak German? |  |  |  | Has Tony German? Is German at Tony? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Iodáilis ag Tony? | Can Tony speak Italian? |  |  |  | Has Tony Italian? Is Italian at Tony? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Spáinnis ag Tony? | Can Tony speak Spanish? |  |  |  | Has Tony Spanish? Is Spanish at Tony? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Breatnais ag Tony? | Can Tony speak Welsh? |  |  |  | Has Tony Welsh? Is Welsh at Tony? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gaeilge na hAlban ag Tony? | Can Tony speak Gaelic (Scotland)? |  |  |  | Has Tony Gaelic (Scotland)? Is Gaelic (Scotland) at Tony? |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | TEMPLATE |  | Tá $LANGUAGE agam. | I speak $LANGUAGE. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Gaeilge agam. | I speak Irish. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Fraincis agam. | I speak French. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Béarla agam. | I speak English. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Gearmáinis agam. | I speak German. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Iodáilis agam. | I speak Italian. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Spáinnis agam. | I speak Spanish. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Breatnais agam. | I speak Welsh. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Gaeilge na hAlban agam. | I speak Gaelic (Scotland). |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | TEMPLATE |  | Tá $LANGUAGE líofa agam. | I speak $LANGUAGE fluently. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Gaeilge líofa agam. | I speak Irish fluently. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Fraincis líofa agam. | I speak French fluently. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Béarla líofa agam. | I speak English fluently. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Gearmáinis líofa agam. | I speak German fluently. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Iodáilis líofa agam. | I speak Italian fluently. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Spáinnis líofa agam. | I speak Spanish fluently. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Breatnais líofa agam. | I speak Welsh fluently. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Gaeilge na hAlban líofa agam. | I speak Gaelic (Scotland) fluently. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | SENTENCE |  | Tá líofa agam. | I speak fluently. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | SENTENCE |  | Tá líofa agamsa. | *I* speak fluently. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | TEMPLATE |  | Tá beagán $LANGUAGE2 agam. | I speak a little $LANGUAGE2. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Gaeilge agam. | I speak a little Irish. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Fraincise agam. | I speak a little French. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Gearmáinise agam. | I speak a little German. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Iodáilise agam. | I speak a little Italian. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | SENTENCE |  | Tá mé ag foghlaim. | I'm learning. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | TEMPLATE |  | Tá mé ag foghlaim $LANGUAGE2. | I'm learning $LANGUAGE2. | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge. | I'm learning Irish. | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Fraincise. | I'm learning French. | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gearmáinise. | I'm learning German. | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Iodáilise. | I'm learning Italian. | Repeat for other pronouns/person's name |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | TEMPLATE |  | Níl mórán $LANGUAGE2 agam. | I can't speak much $LANGUAGE2. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Gaeilge agam. | I can't speak much Irish. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Fraincise agam. | I can't speak much French. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Gearmáinise agam. | I can't speak much German. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Iodáilise agam. | I can't speak much Italian. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | TEMPLATE |  | Níl mórán $LANGUAGE2 agam ach tá mé ag foghlaim. | I can't speak much $LANGUAGE2 but I am learning. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Gaeilge agam ach tá mé ag foghlaim. | I can't speak much Irish but I am learning. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Fraincise agam ach tá mé ag foghlaim. | I can't speak much French but I am learning. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Gearmáinise agam ach tá mé ag foghlaim. | I can't speak much German but I am learning. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Iodáilise agam ach tá mé ag foghlaim. | I can't speak much Italian but I am learning. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | TEMPLATE |  | Níl aon $LANGUAGE3 agam. | I don't speak $LANGUAGE3. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl aon Gaeilge agam. | I don't speak Irish. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl aon Fhraincis agam. | I don't speak French. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl aon Ghearmáinis agam. | I don't speak German. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl aon Spáinnis agam. | I don't speak Spanish. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl aon Iodáilis agam. | I don't speak Italian. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | SENTENCE |  | Tá. | Yes. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | SENTENCE |  | Níl. | No. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | SENTENCE |  | Beagán. | A little. |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | SENTENCE |  | Tá. Tá mé líofa. | Yes. I'm fluent. |  |  |  |  | Ta. Ta may leefa |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | SENTENCE |  | an bhfuil tú ag foghlaim? | Are you learning? |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | TEMPLATE |  | an bhfuil tú ag foghlaim $LANGUAGE? | Are you learning $LANGUAGE? |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Gaeilge? | Are you learning Irish? |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Fraincis? | Are you learning French? |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Béarla? | Are you learning English? |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Gearmáinis? | Are you learning German? |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Iodáilis? | Are you learning Italian? |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Spáinnis? | Are you learning Spanish? |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Breatnais? | Are you learning Welsh? |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Gaeilge na hAlban? | Are you learning Gaelic (Scotland)? |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | QUESTION |  | Cad é na teangacha atá agat? | Which/what languages can you speak? |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | QUESTION |  | Cad é na teangacha eile atá agat? | Which/what other languages can you speak? |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | SENTENCE |  | Tá Fraincis agus Gearmáinis agam. | I speak French and German. | repeat for other languages |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | SENTENCE |  | Tá Iodáilis agam ach níl aon Spáinnis agam. | I speak Italian but I can't speak Spanish. | repeat for other languages |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | SENTENCE |  | Níl aon Fhraincis nó Spáinnis agam. | I speak neither French nor Spanish. | repeat for other languages |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | QUESTION |  | Cá háit? | Where? |  |  |  |  | Ca hatch? |  | If you tell someone that you are learning a language, you might be asked where: |
-| Now You're Talking | 4 | Discussing Languages | Languages | TEMPLATE |  | Cá bhfuil tú ag foghlaim $LANGUAGE2? | Where are you learning $LANGUAGE2? |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Cá bhfuil tú ag foghlaim Gaeilge? | Where are you learning Irish? |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Cá bhfuil tú ag foghlaim Fraincise? | Where are you learning French? |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Cá bhfuil tú ag foghlaim Gearmáinise? | Where are you learning German? |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Cá bhfuil tú ag foghlaim Iodáilise? | Where are you learning Italian? |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | ón teilifís | from the television |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | ón raidió | from the radio |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | ag rang oíche | at a night class |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | san ollscoil | at the university |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | ó fhístéipeanna sa bhaile | from videotapes at home |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | ó físeán | from video |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | ó físeáin | from videos |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | TEMPLATE |  | Tá mé ag foghlaim Gaeilge $LANG_LEARN_SOURCE. | I am learning Irish $LANG_LEARN_SOURCE. | repeat for other languages |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ón teilifís. | I am learning Irish from the television. | repeat for other languages |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ón raidió. | I am learning Irish from the radio. | repeat for other languages |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ag rang oíche. | I am learning Irish at a night class. | repeat for other languages |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge san ollscoil. | I am learning Irish at the university. | repeat for other languages |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ó fhístéipeanna sa bhaile. | I am learning Irish from videotapes at home. | repeat for other languages |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ó físeán. | I am learning Irish from video. | repeat for other languages |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ó físeáin. | I am learning Irish from videos. | repeat for other languages |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | TEMPLATE |  | An dtuigeann tú $LANGUAGE? | Do you understand $LANGUAGE? |  |  |  |  | an diggin to $LANGUAGE? |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gaeilge? | Do you understand Irish? |  |  |  |  | an diggin to ? |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Fraincis? | Do you understand French? |  |  |  |  | an diggin to ? |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Béarla? | Do you understand English? |  |  |  |  | an diggin to ? |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gearmáinis? | Do you understand German? |  |  |  |  | an diggin to ? |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Iodáilis? | Do you understand Italian? |  |  |  |  | an diggin to ? |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Spáinnis? | Do you understand Spanish? |  |  |  |  | an diggin to ? |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Breatnais? | Do you understand Welsh? |  |  |  |  | an diggin to ? |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gaeilge na hAlban? | Do you understand Gaelic (Scotland)? |  |  |  |  | an diggin to ? |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | SENTENCE |  | Tuigim. | Yes (I do understand). |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | SENTENCE |  | Ní thuigim. | No (I don't understand). |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | TEMPLATE |  | Tuigim $LANGUAGE | I do understand $LANGUAGE |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tuigim Gaeilge | I do understand Irish |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tuigim Fraincis | I do understand French |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tuigim Béarla | I do understand English |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tuigim Gearmáinis | I do understand German |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tuigim Iodáilis | I do understand Italian |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tuigim Spáinnis | I do understand Spanish |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tuigim Breatnais | I do understand Welsh |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Tuigim Gaeilge na hAlban | I do understand Gaelic (Scotland) |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | TEMPLATE |  | Ní thuigim $LANGUAGE | I don't understand $LANGUAGE |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Gaeilge | I don't understand Irish |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Fraincis | I don't understand French |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Béarla | I don't understand English |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Gearmáinis | I don't understand German |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Iodáilis | I don't understand Italian |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Spáinnis | I don't understand Spanish |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Breatnais | I don't understand Welsh |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Gaeilge na hAlban | I don't understand Gaelic (Scotland) |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | teanga | a language |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | teangacha | languages |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | teanga amháin | one language |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | dhá theanga | two languages |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | trí theanga | three languages |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | ceithre theanga | four languages |  |  |  |  | kera |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | cúig theanga | five languages |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | sé theanga | six languages |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | rothar | bicycle |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | rothar amháin | one bicycle |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | dhá rothar | two bicycles |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | cathaoir | chair |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | cathaoir amháin | one chair |  |  |  |  | cih-her?? |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | dhá chathaoir | two chairs |  |  |  |  | yeh hih-her |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | pionta | pint |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | pionta amháin | one pint |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | trí phionta | three pints |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | cúig phionta | five pint |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | seacht bpionta | seven pints |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | ocht bpionta | eight pints |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | deich bpionta | ten pints |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | leabhar | book |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | trí leabhar | three books |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | doras | door |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | doras amháin | one door |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | ceithre dhoras | four doors |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | bosca | box |  |  |  |  | boxsa |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | ceithre bhosca | four boxes |  |  |  |  | kera woxsa |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | ocht mbosca | eight boxes |  |  |  |  | okt moxsa |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | buidéal | bottle |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | buidéal amháin | one bottle |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | cúig bhuidéal | five bottles |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | seacht mbuidéal | seven bottles |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | caife | coffee |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | caife amháin | one coffee |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | sé chaife | six coffees |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | oráiste | orange |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | oráistí | oranges |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | cúig oráiste | five oranges |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | seacht sú oráiste | seven orange juices |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | gloine | glass |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | gloine amháin | one glass |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | naoi ngloine | nine glasses |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | tábla | table |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | ceithre thábla | four tables |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | úll | apple |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | ceithre úll | four apples |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | cóta | coat |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | naoi gcóta | nine coats |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | geansaí | jumper |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | nine ngeansaí | nine jumpers |  |  |  |  |  |  |  |
-| Now You're Talking | 4 | Discussing Languages | Counting things |  |  | deich ngeansaí | ten jumpers |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | CÚLRA | BACKGROUND |  |  |  |  | koolra |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | PHRASE |  | AG LABHAIRT FAOI DO CHÚLRA | SPEAKING ABOUT YOUR BACKGROUND |  |  |  |  | a lortch fwee do hkoolra |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cá as tú? | Where are you from? |  |  |  |  |  |  | After giving your response, you can ask the same question in the following ways: |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cá as túsa? | Where are *you* from? |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cá as tú féin? | Where are you from yourself? |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Agus tú féin? | And yourself? |  |  |  |  | Agus tu hain? |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cárb as thú? | Where are you from? |  |  |  |  | Carb ass who? |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cárb as thú féin? | Where are you from yourself? |  |  |  |  | Carb ass who hain? |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cárb as thú, a $NAME? | Where are you from, $NAME? |  |  |  |  | Carb ass who, $NAME? |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | TEMPLATE |  | Is as ... mé. | I'm from ... |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Is as Dún Geanainn mé. | I'm from Dungannon. |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | As Léim an Mhadaidh. | From Limavady. |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cá bhfuil tú? | Where are you? |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cá bhfuil tú i do chónaí? | Where do you live? |  |  |  | where are you in your living? |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | TEMPLATE |  | Tá mé i mo chónaí i(n)... | I live in... |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí in Aontroim. | I live in Antrim. |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí i nDún Geanainn. | I live in Dungannon. |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | An bhfuil sé deas? | Is it nice? |  |  |  |  | An whil shay jeas? |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá sé deas | It is nice |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá sé go maith | It is good |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | An maith leat é? | Do you like it? |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Is maith liom é. | I like it. |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Is maith. | I like. |  |  |  |  |  |  | Shorter and acceptable |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Níl maith liom é. | I do not like it. |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Níl maith. | I do not like. |  |  |  |  |  |  | Shorter and acceptable |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | seoladh | address |  |  |  |  | shaw-loo |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | Cad é an seoladh atá agat? | What's your address? |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | Aít | place |  |  |  |  | brey-ha |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | Aít bhreithe | place of birth |  |  |  |  | eh-tch vrey-ha |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | QUESTION |  | cá bhfuil tú i do áit bhreithe? | where is your place of birth? |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Is as Ard Mhacha **ó dhúchas** mé, ach tá mé i mo chónaí i mBeal Feirste anois. | I'm originally from Armagh, but I live in Belfast now. |  |  |  |  | As Ard Whacha **oh huhas** meh, ack taw may i mo hoaney in mel ferste anish |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | sráid | street |  |  |  |  | sradg |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | bóthar | road |  |  |  |  | baw-her |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | lár | centre |  |  |  |  | lar |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | taobh amuigh | outside |  |  |  |  | too amwee |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | baile | town |  |  |  |  | balla |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | cathrach | city |  |  |  |  | ceh-hra |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | WORD |  | tuath | countryside |  |  |  |  | too-a |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | TEMPLATE |  | Tá mé i mo chónaí ... | I live ... |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí i lár an bhaile. | I live in the centre of town. |  |  |  |  | .. i lar an whalla |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí taobh amuigh den bhaile. | I live outside the town |  |  |  |  | .. tweev amwee den whalla??? |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí faoin tuath | I live in the countryside |  |  |  |  | fween too-a |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí i lár na cathrach | I live in the city centre. |  |  |  |  | i lar na ceh-hra |  | maybe.. in the center of the city??? |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí ar shráid Anraí | I live on Henry Street |  |  |  |  | ar hradg anry |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND |  | SENTENCE |  | Tá mé i mo chónaí ar Bhóthar na Carraige | I live on Carrick Road |  |  |  |  | ar waw-her na carriga |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Náid | Zero |  |  |  |  | Nawj |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Aon | One |  |  |  |  | Ayn |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Dó | Two |  |  |  |  | Doh |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Trí | Three |  |  |  |  | Tree |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Ceathair | Four |  |  |  |  | KYA-hir |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Cúig | Five |  |  |  |  | KOO-ig |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Sé | Six |  |  |  |  | Shay |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Seacht | Seven |  |  |  |  | Shakht |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Ocht | Eight |  |  |  |  | Awkht |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Naoi | Nine |  |  |  |  | Nee |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | Deich | Ten |  |  |  |  | Jay |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | uimhir | number |  |  |  |  | ever |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | uimhreacha | numbers |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | na huimhreacha | the numbers |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a náid | zero |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a haon | one |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a dó | two |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a trí | three |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a ceathair | four |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a cúig | five |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a sé | six |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a seacht | seven |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a hocht | eight |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a naoi | nine |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a deich | ten |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a haon déag | eleven |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a dó dhéag | twelve |  |  |  |  | doe yeag |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a trí déag | thirteen |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a ceathair déag | fourteen |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a cúig déag | fifteen |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a sé déag | sixteen |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a seacht déag | seventeen |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a hocht déag | eighteen |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | a naoi déag | nineteen |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | fiche | twenty |  |  |  |  | fihha |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | fiche a haon | twenty one |  |  |  |  | fihha a haon |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | triocha | thirty |  |  |  |  | truck-ah |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | daichead/Ceathracha | forty |  |  |  |  | die-hid/Cara-hach |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | caoga | fifty |  |  |  |  | cway-gah |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | seasca | sixty |  |  |  |  | shahs-kah |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | seachtó | seventy |  |  |  |  | shock toe |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | ochtó | eighty |  |  |  |  | uck toe |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | nócha | ninety |  |  |  |  | noe-kah |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | céad | hundred |  |  |  |  | cay-d |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | míle | thousand |  |  |  |  | meala |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Numbers |  |  | milliún | million |  |  |  |  | millyun |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Phone |  |  | Cad é d'uimhir fóin? | What's your phone number? |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Phone |  |  | D'uimhir fóin? | Your phone number? |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | am | time |  |  |  |  | am |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Cad é an t-am atá sé? | What time is it? |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Cad é an t-am atá sé, le do thoil? | What time is it, please? |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Cad é an t-am? | What time? |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Cén t-am é? | What time is it? |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | Cén t-am? | What time? |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | a chlog | o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a haon a chlog | 1 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a dó a chlog | 2 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a trí a chlog | 3 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a ceathair a chlog | 4 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a cúig a chlog | 5 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a sé a chlog | 6 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a seacht a chlog | 7 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a hocht a chlog | 8 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a naoi a chlog | 9 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a deich a chlog | 10 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a haon déag a chlog | 11 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  | HOUR_O_CLOCK | a dó dhéag a chlog | 12 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | TEMPLATE |  | Tá sé $HOUR_O_CLOCK.  | It's $HOUR_O_CLOCK. | repeat for each hour |  |  |  | ta shay $HOUR_O_CLOCK. |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a haon a chlog.  | It's 1 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a dó a chlog.  | It's 2 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a trí a chlog.  | It's 3 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a ceathair a chlog.  | It's 4 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a cúig a chlog.  | It's 5 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a sé a chlog.  | It's 6 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a seacht a chlog.  | It's 7 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a hocht a chlog.  | It's 8 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a naoi a chlog.  | It's 9 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a deich a chlog.  | It's 10 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a haon déag a chlog.  | It's 11 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé a dó dhéag a chlog.  | It's 12 o'clock. | repeat for each hour |  |  |  | ta shay . |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | TEMPLATE |  | Bhí sé $HOUR_O_CLOCK. | It was $HOUR_O_CLOCK. | repeat for each hour |  |  |  | vee shay $HOUR_O_CLOCK |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a haon a chlog. | It was 1 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a dó a chlog. | It was 2 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a trí a chlog. | It was 3 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a ceathair a chlog. | It was 4 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a cúig a chlog. | It was 5 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a sé a chlog. | It was 6 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a seacht a chlog. | It was 7 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a hocht a chlog. | It was 8 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a naoi a chlog. | It was 9 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a deich a chlog. | It was 10 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a haon déag a chlog. | It was 11 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Bhí sé a dó dhéag a chlog. | It was 12 o'clock. | repeat for each hour |  |  |  | vee shay  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | soicind | second |  |  |  |  | second |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | bomaite | minute |  |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | ceathrú | quarter |  |  |  |  | ceahroo |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | leath | half |  |  |  |  | la (maybe lya??) |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | ceathrú i ndiaidh ... | a quarter past ... | repeat for each time |  |  |  | ceahroo i nyay... |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | leath i ndiaidh ... | half past ... | repeat for each time |  |  |  | la i nyay... |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | ceathrú go dtí ... | a quarter to ... | repeat for each time |  |  |  | ceahroo go gee.. |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | cúig bomaite i ndiaidh | five minutes past?? | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | cúig i ndiaidh | five past?? | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | fiche go dtí | twenty to | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | TEMPLATE |  | Tá sé ceathrú i ndiaidh $HOUR_O_CLOCK | It is a quarter past $HOUR_O_CLOCK | repeat for each time |  |  |  | ceahroo i nyay  $HOUR_O_CLOCK |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon a chlog | It is a quarter past 1 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó a chlog | It is a quarter past 2 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a trí a chlog | It is a quarter past 3 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a ceathair a chlog | It is a quarter past 4 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a cúig a chlog | It is a quarter past 5 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a sé a chlog | It is a quarter past 6 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a seacht a chlog | It is a quarter past 7 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a hocht a chlog | It is a quarter past 8 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a naoi a chlog | It is a quarter past 9 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a deich a chlog | It is a quarter past 10 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a haon déag a chlog | It is a quarter past 11 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú i ndiaidh a dó dhéag a chlog | It is a quarter past 12 o'clock | repeat for each time |  |  |  | ceahroo i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | TEMPLATE |  | Tá sé leath i ndiaidh $HOUR_O_CLOCK | It is half past $HOUR_O_CLOCK | repeat for each time |  |  |  | la i nyay  $HOUR_O_CLOCK |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon a chlog | It is half past 1 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó a chlog | It is half past 2 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a trí a chlog | It is half past 3 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a ceathair a chlog | It is half past 4 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a cúig a chlog | It is half past 5 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a sé a chlog | It is half past 6 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a seacht a chlog | It is half past 7 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a hocht a chlog | It is half past 8 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a naoi a chlog | It is half past 9 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a deich a chlog | It is half past 10 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a haon déag a chlog | It is half past 11 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé leath i ndiaidh a dó dhéag a chlog | It is half past 12 o'clock | repeat for each time |  |  |  | la i nyay   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | TEMPLATE |  | Tá sé ceathrú go dtí $HOUR_O_CLOCK | It is a quarter to $HOUR_O_CLOCK | repeat for each time |  |  |  | ceahroo go gee  $HOUR_O_CLOCK |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon a chlog | It is a quarter to 1 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó a chlog | It is a quarter to 2 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a trí a chlog | It is a quarter to 3 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a ceathair a chlog | It is a quarter to 4 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a cúig a chlog | It is a quarter to 5 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a sé a chlog | It is a quarter to 6 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a seacht a chlog | It is a quarter to 7 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a hocht a chlog | It is a quarter to 8 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a naoi a chlog | It is a quarter to 9 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a deich a chlog | It is a quarter to 10 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a haon déag a chlog | It is a quarter to 11 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé ceathrú go dtí a dó dhéag a chlog | It is a quarter to 12 o'clock | repeat for each time |  |  |  | ceahroo go gee   |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | TEMPLATE |  | Tá sé cúig bomaite i ndiaidh $HOUR_O_CLOCK | It is five minutes past $HOUR_O_CLOCK | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon a chlog | It is five minutes past 1 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó a chlog | It is five minutes past 2 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a trí a chlog | It is five minutes past 3 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a ceathair a chlog | It is five minutes past 4 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a cúig a chlog | It is five minutes past 5 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a sé a chlog | It is five minutes past 6 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a seacht a chlog | It is five minutes past 7 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a hocht a chlog | It is five minutes past 8 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a naoi a chlog | It is five minutes past 9 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a deich a chlog | It is five minutes past 10 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a haon déag a chlog | It is five minutes past 11 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig bomaite i ndiaidh a dó dhéag a chlog | It is five minutes past 12 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | TEMPLATE |  | Tá sé cúig i ndiaidh $HOUR_O_CLOCK | It is five past $HOUR_O_CLOCK | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon a chlog | It is five past 1 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó a chlog | It is five past 2 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a trí a chlog | It is five past 3 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a ceathair a chlog | It is five past 4 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a cúig a chlog | It is five past 5 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a sé a chlog | It is five past 6 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a seacht a chlog | It is five past 7 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a hocht a chlog | It is five past 8 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a naoi a chlog | It is five past 9 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a deich a chlog | It is five past 10 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a haon déag a chlog | It is five past 11 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé cúig i ndiaidh a dó dhéag a chlog | It is five past 12 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | TEMPLATE |  | Tá sé fiche go dtí $HOUR_O_CLOCK | It is twenty to $HOUR_O_CLOCK | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon a chlog | It is twenty to 1 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó a chlog | It is twenty to 2 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a trí a chlog | It is twenty to 3 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a ceathair a chlog | It is twenty to 4 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a cúig a chlog | It is twenty to 5 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a sé a chlog | It is twenty to 6 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a seacht a chlog | It is twenty to 7 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a hocht a chlog | It is twenty to 8 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a naoi a chlog | It is twenty to 9 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a deich a chlog | It is twenty to 10 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a haon déag a chlog | It is twenty to 11 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time | DYNAMIC |  | Tá sé fiche go dtí a dó dhéag a chlog | It is twenty to 12 o'clock | repeat for each time |  |  |  |  |  |  |
+| Irish on your own | 3 | SPEAKING ABOUT YOUR BACKGROUND | Time |  |  | An bhfuil dráma anocht? | Is the play tonight? |  |  |  |  |  |  |  |
 
-## Now You're Talking - Expressing Opinions
-
-| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Now You're Talking | 5 | Expressing Opinions |  | PHRASE |  | AG CUR TUAIRIMÍ IN IÚL | Expressing opinions |  |  |  |  | ag cur toor-a-me in yool |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | PHRASE |  | Caithimh aimsire | Pastimes |  |  |  |  | cahiv amshira |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD |  | banc | bank |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD |  | clár | programme |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD |  | cláracha | programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha faisnéise | documentaries |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha spóirt | sports programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha ceoil | music programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha cainte | talk shows |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha dúlra | nature programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | seacláid | chocolate |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | portán | crab |  |  |  |  | porthaan |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cáis | cheese |  |  |  |  | kesh |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ríomhairí | computers |  |  |  |  | Ree-war-ee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | bláthanna | flowers |  |  |  |  | Blee-hena |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul ag rith | go running |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | amharc ar an teilifís | watch television |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | éisteacht le ceol | listen to music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul ag snámh | go swimming |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul chuig scannáin | go to films |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul chuig drámaí | go to plays |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | imirt | play |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | leadóg a imirt | play tennis |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol | music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD |  | Cineál | Type |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD |  | Cineálacha | Types of music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD |  | Cineálacha ceoil | Types of music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol traidisiúnta | traditional music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol clasaiceach | classical music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | snagcheol | jazz |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | roc-cheol | rock music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | popcheol | popular music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | sacar | soccer |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD |  | mar shampla | for example |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD |  | go háirithe | especially |  |  |  |  | go hairy-heh |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | TEMPLATE |  | Is maith liom $THINGS_TO_LIKE | I like $THINGS_TO_LIKE |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha faisnéise | I like documentaries |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha spóirt | I like sports programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha ceoil | I like music programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha cainte | I like talk shows |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha dúlra | I like nature programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom seacláid | I like chocolate |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom portán | I like crab |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom cáis | I like cheese |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom ríomhairí | I like computers |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom bláthanna | I like flowers |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag rith | I like go running |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom amharc ar an teilifís | I like watch television |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom éisteacht le ceol | I like listen to music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag snámh | I like go swimming |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig scannáin | I like go to films |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig drámaí | I like go to plays |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom imirt | I like play |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom leadóg a imirt | I like play tennis |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol | I like music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol traidisiúnta | I like traditional music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol clasaiceach | I like classical music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom snagcheol | I like jazz |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom roc-cheol | I like rock music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom popcheol | I like popular music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom sacar | I like soccer |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | TEMPLATE |  | Is breá liom $THINGS_TO_LIKE | I really like $THINGS_TO_LIKE |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha faisnéise | I really like documentaries |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha spóirt | I really like sports programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha ceoil | I really like music programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha cainte | I really like talk shows |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha dúlra | I really like nature programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom seacláid | I really like chocolate |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom portán | I really like crab |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom cáis | I really like cheese |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom ríomhairí | I really like computers |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom bláthanna | I really like flowers |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag rith | I really like go running |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom amharc ar an teilifís | I really like watch television |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom éisteacht le ceol | I really like listen to music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag snámh | I really like go swimming |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig scannáin | I really like go to films |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig drámaí | I really like go to plays |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom imirt | I really like play |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom leadóg a imirt | I really like play tennis |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol | I really like music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol traidisiúnta | I really like traditional music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol clasaiceach | I really like classical music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom snagcheol | I really like jazz |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom roc-cheol | I really like rock music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom popcheol | I really like popular music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom sacar | I really like soccer |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | SENTENCE |  | Tá dúil mhór agam i(n)... | I really like ... |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | TEMPLATE |  | Ní maith liom $THINGS_TO_LIKE | I don't like $THINGS_TO_LIKE |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha faisnéise | I don't like documentaries |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha spóirt | I don't like sports programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha ceoil | I don't like music programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha cainte | I don't like talk shows |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha dúlra | I don't like nature programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom seacláid | I don't like chocolate |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom portán | I don't like crab |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cáis | I don't like cheese |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ríomhairí | I don't like computers |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom bláthanna | I don't like flowers |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith | I don't like go running |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom amharc ar an teilifís | I don't like watch television |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol | I don't like listen to music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh | I don't like go swimming |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin | I don't like go to films |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí | I don't like go to plays |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt | I don't like play |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom leadóg a imirt | I don't like play tennis |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol | I don't like music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol traidisiúnta | I don't like traditional music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol clasaiceach | I don't like classical music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom snagcheol | I don't like jazz |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom roc-cheol | I don't like rock music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom popcheol | I don't like popular music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom sacar | I don't like soccer |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | TEMPLATE |  | Ní maith liom $THINGS_TO_LIKE ar chor ar bith. | I don't like $THINGS_TO_LIKE at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha faisnéise ar chor ar bith. | I don't like documentaries at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha spóirt ar chor ar bith. | I don't like sports programmes at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha ceoil ar chor ar bith. | I don't like music programmes at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha cainte ar chor ar bith. | I don't like talk shows at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha dúlra ar chor ar bith. | I don't like nature programmes at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom seacláid ar chor ar bith. | I don't like chocolate at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom portán ar chor ar bith. | I don't like crab at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cáis ar chor ar bith. | I don't like cheese at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ríomhairí ar chor ar bith. | I don't like computers at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom bláthanna ar chor ar bith. | I don't like flowers at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith ar chor ar bith. | I don't like go running at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom amharc ar an teilifís ar chor ar bith. | I don't like watch television at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol ar chor ar bith. | I don't like listen to music at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh ar chor ar bith. | I don't like go swimming at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin ar chor ar bith. | I don't like go to films at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí ar chor ar bith. | I don't like go to plays at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt ar chor ar bith. | I don't like play at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom leadóg a imirt ar chor ar bith. | I don't like play tennis at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol ar chor ar bith. | I don't like music at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol traidisiúnta ar chor ar bith. | I don't like traditional music at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol clasaiceach ar chor ar bith. | I don't like classical music at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom snagcheol ar chor ar bith. | I don't like jazz at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom roc-cheol ar chor ar bith. | I don't like rock music at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom popcheol ar chor ar bith. | I don't like popular music at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom sacar ar chor ar bith. | I don't like soccer at all. |  |  |  |  | ...ar har a bee |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | SENTENCE |  | Ní maith liom ar chor ar bith é. | I don't like it at all. |  |  |  |  | ...ar har a bee ay |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | SENTENCE |  | Ní maith liom ar chor ar bith iad. | I don't like them at all. |  |  |  |  | ...ar har a bee ead |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | TEMPLATE |  | Is fuath liom $THINGS_TO_LIKE | I hate $THINGS_TO_LIKE |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha faisnéise | I hate documentaries |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha spóirt | I hate sports programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha ceoil | I hate music programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha cainte | I hate talk shows |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha dúlra | I hate nature programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom seacláid | I hate chocolate |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom portán | I hate crab |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cáis | I hate cheese |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ríomhairí | I hate computers |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom bláthanna | I hate flowers |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag rith | I hate go running |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom amharc ar an teilifís | I hate watch television |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom éisteacht le ceol | I hate listen to music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag snámh | I hate go swimming |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig scannáin | I hate go to films |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig drámaí | I hate go to plays |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom imirt | I hate play |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom leadóg a imirt | I hate play tennis |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol | I hate music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol traidisiúnta | I hate traditional music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol clasaiceach | I hate classical music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom snagcheol | I hate jazz |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom roc-cheol | I hate rock music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom popcheol | I hate popular music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom sacar | I hate soccer |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | TEMPLATE |  | An maith leat $THINGS_TO_LIKE? | Do you like $THINGS_TO_LIKE? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha faisnéise? | Do you like documentaries? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha spóirt? | Do you like sports programmes? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha ceoil? | Do you like music programmes? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha cainte? | Do you like talk shows? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha dúlra? | Do you like nature programmes? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat seacláid? | Do you like chocolate? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat portán? | Do you like crab? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat cáis? | Do you like cheese? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ríomhairí? | Do you like computers? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat bláthanna? | Do you like flowers? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag rith? | Do you like go running? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat amharc ar an teilifís? | Do you like watch television? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat éisteacht le ceol? | Do you like listen to music? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag snámh? | Do you like go swimming? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig scannáin? | Do you like go to films? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig drámaí? | Do you like go to plays? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat imirt? | Do you like play? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat leadóg a imirt? | Do you like play tennis? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol? | Do you like music? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol traidisiúnta? | Do you like traditional music? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol clasaiceach? | Do you like classical music? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat snagcheol? | Do you like jazz? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat roc-cheol? | Do you like rock music? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat popcheol? | Do you like popular music? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat sacar? | Do you like soccer? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | TEMPLATE |  | An maith libh $THINGS_TO_LIKE? | Do you like $THINGS_TO_LIKE? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha faisnéise? | Do you like documentaries? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha spóirt? | Do you like sports programmes? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha ceoil? | Do you like music programmes? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha cainte? | Do you like talk shows? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha dúlra? | Do you like nature programmes? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh seacláid? | Do you like chocolate? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh portán? | Do you like crab? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh cáis? | Do you like cheese? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ríomhairí? | Do you like computers? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh bláthanna? | Do you like flowers? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag rith? | Do you like go running? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh amharc ar an teilifís? | Do you like watch television? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh éisteacht le ceol? | Do you like listen to music? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag snámh? | Do you like go swimming? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig scannáin? | Do you like go to films? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig drámaí? | Do you like go to plays? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh imirt? | Do you like play? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh leadóg a imirt? | Do you like play tennis? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol? | Do you like music? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol traidisiúnta? | Do you like traditional music? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol clasaiceach? | Do you like classical music? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh snagcheol? | Do you like jazz? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh roc-cheol? | Do you like rock music? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh popcheol? | Do you like popular music? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh sacar? | Do you like soccer? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag garraíodóireacht | gardening |  |  |  |  | ag garaderact |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag péinteáil | painting |  |  |  |  | ag paint-al |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag cócaireacht | cooking |  |  |  |  | ag cocker-act |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag iascaireacht | fishing |  |  |  |  | ag isc-a-ract |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag léamh | reading |  |  |  |  | ag lay-oh |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag siúl | walking |  |  |  |  | ag shool |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | TEMPLATE |  | Is maith liom a bheith $THINGS_TO_LIKE_TO_DO | I like $THINGS_TO_LIKE_TO_DO |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag garraíodóireacht | I like gardening |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag péinteáil | I like painting |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag cócaireacht | I like cooking |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag iascaireacht | I like fishing |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag léamh | I like reading |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag siúl | I like walking |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | TEMPLATE |  | Ní maith liom a bheith $THINGS_TO_LIKE_TO_DO | I do not like $THINGS_TO_LIKE_TO_DO |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag garraíodóireacht | I do not like gardening |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag péinteáil | I do not like painting |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag cócaireacht | I do not like cooking |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag iascaireacht | I do not like fishing |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag léamh | I do not like reading |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag siúl | I do not like walking |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | TEMPLATE |  | Is fuath liom a bheith $THINGS_TO_LIKE_TO_DO | I hate $THINGS_TO_LIKE_TO_DO |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag garraíodóireacht | I hate gardening |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag péinteáil | I hate painting |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag cócaireacht | I hate cooking |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag iascaireacht | I hate fishing |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag léamh | I hate reading |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag siúl | I hate walking |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | TEMPLATE |  | An maith leat $THINGS_TO_LIKE_TO_DO? | Do you like $THINGS_TO_LIKE_TO_DO? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ag garraíodóireacht? | Do you like gardening? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ag péinteáil? | Do you like painting? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ag cócaireacht? | Do you like cooking? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ag iascaireacht? | Do you like fishing? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ag léamh? | Do you like reading? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ag siúl? | Do you like walking? |  | s |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | TEMPLATE |  | An maith libh $THINGS_TO_LIKE_TO_DO? | Do you like $THINGS_TO_LIKE_TO_DO? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ag garraíodóireacht? | Do you like gardening? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ag péinteáil? | Do you like painting? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ag cócaireacht? | Do you like cooking? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ag iascaireacht? | Do you like fishing? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ag léamh? | Do you like reading? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ag siúl? | Do you like walking? |  | p |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | SENTENCE |  | Is maith. | Yes. |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | SENTENCE |  | Ní maith. | No. |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | SENTENCE |  | Is breá liom é/í/iad. | I really like it. |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | SENTENCE |  | Ní maith liom ar chor ar bith é. | I don't like it at all. |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | SENTENCE |  | Is fuath liom é/í/iad. | I hate it. |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé ceart go leor. | It's all right. |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | QUESTION |  | An maith leat é? | Do you like it? |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | QUESTION |  | An maith leatsa é? | Do *you* like it? |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | QUESTION |  | An maith leat féin é? | Do you like it yourself? |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | TEMPLATE |  | Is fearr liom $THINGS_TO_LIKE | I prefer $THINGS_TO_LIKE |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha faisnéise | I prefer documentaries |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha spóirt | I prefer sports programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha ceoil | I prefer music programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha cainte | I prefer talk shows |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha dúlra | I prefer nature programmes |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom seacláid | I prefer chocolate |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom portán | I prefer crab |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cáis | I prefer cheese |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ríomhairí | I prefer computers |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom bláthanna | I prefer flowers |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag rith | I prefer go running |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom amharc ar an teilifís | I prefer watch television |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom éisteacht le ceol | I prefer listen to music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag snámh | I prefer go swimming |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig scannáin | I prefer go to films |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig drámaí | I prefer go to plays |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom imirt | I prefer play |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom leadóg a imirt | I prefer play tennis |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol | I prefer music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol traidisiúnta | I prefer traditional music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol clasaiceach | I prefer classical music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom snagcheol | I prefer jazz |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom roc-cheol | I prefer rock music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom popcheol | I prefer popular music |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom sacar | I prefer soccer |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | SENTENCE |  | Is maith liom snagcheoil ach is fearr liom ceol traidisiúnta. | I like jazz but I prefer traditional music. |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | SENTENCE |  | Is maith liomsa fosta é | I like it too/as well |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | SENTENCE |  | Is fearr liomsa fosta é | I prefer it too/as well |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD |  | bia | food |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD | WHAT_YOU_WANT | deoch | drink |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | PHRASE |  | bia agus deoch | food and drink |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD |  | feoil | meat |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD |  | glasraí | vegetables |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD |  | bia mara | seafood |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD |  | sicín | chicken |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD |  | fíon bán | white wine |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD |  | fíon dearg | red wine |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | WORD |  | bialann | restaurant |  |  |  |  | bia-lann |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé maith. | It's good. |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé an-mhaith. | It's very good. |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé measartha maith. | It's reasonably good. |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | SENTENCE |  | Níl sé rómhaith. | It's not too good. |  |  |  |  | ...roh-why |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé go dona. | It's very bad. |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | QUESTION |  | An bhfuil ... maith? | Is ... good? |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | QUESTION |  | An bhfuil an fíon seo maith? | Is this wine good? |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | QUESTION |  | An bhfuil sé seo maith? | Is this good? |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | PHRASE |  | an ceann seo | this one |  |  |  |  |  |  | as in "I prefer this one" |
-| Now You're Talking | 5 | Expressing Opinions |  | QUESTION |  | An bhfuil maith ar bith sa ...? | Is the ... any good? |  |  |  |  |  |  |  |
-| Now You're Talking | 5 | Expressing Opinions |  | QUESTION |  | An bhfuil maith ar bith sa bhialann sin? | Is that restaurant any good? |  |  |  |  | an whil my ar bee sa via-lann sin? |  | said quick |
-| Now You're Talking | 5 | Expressing Opinions |  | QUESTION |  | An bhfuil an bia maith? | Is the food any good? |  |  |  |  |  |  |  |
-
-## Now You're Talking - ORDERING DRINKS
+## Irish on your own - Discussing Languages
 
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD |  | ordú | order |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD |  | ag ordú | ordering |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD |  | deochanna | drinks |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD |  | ag ordú deochanna | ordering drinks |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD |  | cupa | a cup |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD |  | muga | a mug |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD |  | pota | a pot |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD |  | gloine | a glass |  |  |  |  | glinnye |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD |  | pionta | a pint |  |  |  |  | pinta |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD |  | leathphionta | half a pint |  |  |  |  | le-finta |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD |  | buidéal | a bottle |  |  |  |  | bawdjel |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | caife | coffee |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | caife dubh | black coffee |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | caife bán | white coffee |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | tae | tea |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | tae láidir | strong tea |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | tae lag | weak tea |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | sú oráiste | orange juice |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | uisce | water |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | beoir | beer |  |  |  |  | byor |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | fíon bán | white wine |  |  |  |  | fee-in baan |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | fíon dearg | red wine |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | fíon súilíneach | sparkling wine |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | fíon géal | bright (white) wine |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | fíon bandearg | pink (rosé) wine |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | uisce beatha | whiskey |  |  |  |  | ishka beh-ha |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | sceallógaí | chips |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | briosca | a biscuit |  |  |  |  | briska |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | bágún | bacon |  |  |  |  | baa-gun |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | pota tae | a pot of tea |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | gloine uisce | a glass of water |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | gloine fíon | a glass of wine |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | gloine gin | a glass of gin |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | pionta beorach | a pint of beer |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | cupa tae | cup of tea |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | bainne | milk |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | tae le bainne | tea with milk |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | leac oighir | ice |  |  |  |  | lack eye-er |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | uachtar reoite | ice cream |  |  |  |  | wechtar rawtcha |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | ceapaire | sandwich |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | milseáin | sweets |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | úll | apple |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | cuidiú | help |  |  |  |  | coodjoo |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | siúcra | sugar |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | briosca | biscuit |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT2 | phionta | pint |  |  |  |  | pinta |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é ba mhaith leat? | What would you like? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é ba mhaith leatsa? | What would *you* like? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é ba mhaith libh? | What would you like? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é atá de dhíth ort? | What do you want? |  | s |  |  |  |  | You can use the following when addressing a friend or family member: |
-| Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é atá de dhíth oraibh? | What do you want?  |  | p |  |  |  |  | You can use the following when addressing a friend or family member: |
-| Now You're Talking | 6 | ORDERING DRINKS |  | TEMPLATE |  | Ba mhaith liom $WHAT_YOU_WANT | I'd like $WHAT_YOU_WANT |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom deoch | I'd like drink |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom caife | I'd like coffee |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom caife dubh | I'd like black coffee |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom caife bán | I'd like white coffee |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom tae | I'd like tea |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom tae láidir | I'd like strong tea |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom tae lag | I'd like weak tea |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom sú oráiste | I'd like orange juice |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom uisce | I'd like water |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom beoir | I'd like beer |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom fíon bán | I'd like white wine |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom fíon dearg | I'd like red wine |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom fíon súilíneach | I'd like sparkling wine |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom fíon géal | I'd like bright (white) wine |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom fíon bandearg | I'd like pink (rosé) wine |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom uisce beatha | I'd like whiskey |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom sceallógaí | I'd like chips |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom briosca | I'd like a biscuit |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom bágún | I'd like bacon |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom pota tae | I'd like a pot of tea |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom gloine uisce | I'd like a glass of water |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom gloine fíon | I'd like a glass of wine |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom gloine gin | I'd like a glass of gin |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom pionta beorach | I'd like a pint of beer |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom cupa tae | I'd like cup of tea |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom bainne | I'd like milk |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom tae le bainne | I'd like tea with milk |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom leac oighir | I'd like ice |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom uachtar reoite | I'd like ice cream |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom ceapaire | I'd like sandwich |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom milseáin | I'd like sweets |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom úll | I'd like apple |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom cuidiú | I'd like help |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom siúcra | I'd like sugar |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom briosca | I'd like biscuit |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Ba mhaith liom ag dul amach | I'd like to go out |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | TEMPLATE |  | $WHAT_YOU_WANT domhsa. | $WHAT_YOU_WANT for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | deoch domhsa. | drink for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | caife domhsa. | coffee for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | caife dubh domhsa. | black coffee for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | caife bán domhsa. | white coffee for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | tae domhsa. | tea for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | tae láidir domhsa. | strong tea for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | tae lag domhsa. | weak tea for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | sú oráiste domhsa. | orange juice for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | uisce domhsa. | water for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | beoir domhsa. | beer for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon bán domhsa. | white wine for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon dearg domhsa. | red wine for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon súilíneach domhsa. | sparkling wine for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon géal domhsa. | bright (white) wine for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon bandearg domhsa. | pink (rosé) wine for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | uisce beatha domhsa. | whiskey for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | sceallógaí domhsa. | chips for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | briosca domhsa. | a biscuit for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | bágún domhsa. | bacon for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | pota tae domhsa. | a pot of tea for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | gloine uisce domhsa. | a glass of water for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | gloine fíon domhsa. | a glass of wine for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | gloine gin domhsa. | a glass of gin for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | pionta beorach domhsa. | a pint of beer for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | cupa tae domhsa. | cup of tea for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | bainne domhsa. | milk for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | tae le bainne domhsa. | tea with milk for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | leac oighir domhsa. | ice for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | uachtar reoite domhsa. | ice cream for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | ceapaire domhsa. | sandwich for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | milseáin domhsa. | sweets for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | úll domhsa. | apple for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | cuidiú domhsa. | help for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | siúcra domhsa. | sugar for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | briosca domhsa. | biscuit for me. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | Rud ar bith eile? | Anything else? |  |  |  |  | Rud ar bee ella? |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | PHRASE |  | ... le do thoil. | ... please. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Go raibh maith agat. | Thank you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Maith thú. | good on you/well done |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Tá fáilte romhat. | You're welcome. |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Tá fáilte romhaibh. | You're welcome. |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | An dtógann tú bainne? | Do you take milk? |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | An dtógann tú siúcra? | Do you take sugar? |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Tógaim. | I do. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Ní thógaim. | I don't. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | TEMPLATE |  | Ar mhaith leat $WHAT_YOU_WANT? | Would you like $WHAT_YOU_WANT? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat deoch? | Would you like drink? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat caife? | Would you like coffee? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat caife dubh? | Would you like black coffee? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat caife bán? | Would you like white coffee? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat tae? | Would you like tea? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat tae láidir? | Would you like strong tea? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat tae lag? | Would you like weak tea? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat sú oráiste? | Would you like orange juice? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat uisce? | Would you like water? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat beoir? | Would you like beer? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat fíon bán? | Would you like white wine? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat fíon dearg? | Would you like red wine? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat fíon súilíneach? | Would you like sparkling wine? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat fíon géal? | Would you like bright (white) wine? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat fíon bandearg? | Would you like pink (rosé) wine? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat uisce beatha? | Would you like whiskey? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat sceallógaí? | Would you like chips? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat briosca? | Would you like a biscuit? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat bágún? | Would you like bacon? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat pota tae? | Would you like a pot of tea? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat gloine uisce? | Would you like a glass of water? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat gloine fíon? | Would you like a glass of wine? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat gloine gin? | Would you like a glass of gin? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat pionta beorach? | Would you like a pint of beer? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat cupa tae? | Would you like cup of tea? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat bainne? | Would you like milk? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat tae le bainne? | Would you like tea with milk? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat leac oighir? | Would you like ice? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat uachtar reoite? | Would you like ice cream? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat ceapaire? | Would you like sandwich? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat milseáin? | Would you like sweets? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat úll? | Would you like apple? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat cuidiú? | Would you like help? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat siúcra? | Would you like sugar? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat briosca? | Would you like biscuit? |  | s |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | TEMPLATE |  | Ar mhaith libh $WHAT_YOU_WANT? | Would you like $WHAT_YOU_WANT? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh deoch? | Would you like drink? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh caife? | Would you like coffee? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh caife dubh? | Would you like black coffee? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh caife bán? | Would you like white coffee? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh tae? | Would you like tea? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh tae láidir? | Would you like strong tea? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh tae lag? | Would you like weak tea? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh sú oráiste? | Would you like orange juice? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh uisce? | Would you like water? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh beoir? | Would you like beer? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh fíon bán? | Would you like white wine? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh fíon dearg? | Would you like red wine? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh fíon súilíneach? | Would you like sparkling wine? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh fíon géal? | Would you like bright (white) wine? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh fíon bandearg? | Would you like pink (rosé) wine? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh uisce beatha? | Would you like whiskey? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh sceallógaí? | Would you like chips? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh briosca? | Would you like a biscuit? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh bágún? | Would you like bacon? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh pota tae? | Would you like a pot of tea? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh gloine uisce? | Would you like a glass of water? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh gloine fíon? | Would you like a glass of wine? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh gloine gin? | Would you like a glass of gin? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh pionta beorach? | Would you like a pint of beer? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh cupa tae? | Would you like cup of tea? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh bainne? | Would you like milk? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh tae le bainne? | Would you like tea with milk? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh leac oighir? | Would you like ice? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh uachtar reoite? | Would you like ice cream? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh ceapaire? | Would you like sandwich? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh milseáin? | Would you like sweets? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh úll? | Would you like apple? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh cuidiú? | Would you like help? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh siúcra? | Would you like sugar? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh briosca? | Would you like biscuit? |  | p |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Ba mhaith. | Yes (I would). |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Níor mhaith. | No (I wouldn't). |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | B'fhearr ... | I'd prefer ... |  |  |  |  | bear... |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | TEMPLATE |  | B'fhearr liom $WHAT_YOU_WANT | I'd prefer $WHAT_YOU_WANT |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom deoch | I'd prefer drink |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom caife | I'd prefer coffee |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom caife dubh | I'd prefer black coffee |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom caife bán | I'd prefer white coffee |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom tae | I'd prefer tea |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom tae láidir | I'd prefer strong tea |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom tae lag | I'd prefer weak tea |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom sú oráiste | I'd prefer orange juice |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom uisce | I'd prefer water |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom beoir | I'd prefer beer |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom fíon bán | I'd prefer white wine |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom fíon dearg | I'd prefer red wine |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom fíon súilíneach | I'd prefer sparkling wine |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom fíon géal | I'd prefer bright (white) wine |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom fíon bandearg | I'd prefer pink (rosé) wine |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom uisce beatha | I'd prefer whiskey |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom sceallógaí | I'd prefer chips |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom briosca | I'd prefer a biscuit |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom bágún | I'd prefer bacon |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom pota tae | I'd prefer a pot of tea |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom gloine uisce | I'd prefer a glass of water |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom gloine fíon | I'd prefer a glass of wine |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom gloine gin | I'd prefer a glass of gin |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom pionta beorach | I'd prefer a pint of beer |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom cupa tae | I'd prefer cup of tea |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom bainne | I'd prefer milk |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom tae le bainne | I'd prefer tea with milk |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom leac oighir | I'd prefer ice |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom uachtar reoite | I'd prefer ice cream |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom ceapaire | I'd prefer sandwich |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom milseáin | I'd prefer sweets |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom úll | I'd prefer apple |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom cuidiú | I'd prefer help |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom siúcra | I'd prefer sugar |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom briosca | I'd prefer biscuit |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Sláinte! | Cheers! |  |  |  | Health! |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Sláinte mhór | Cheers (response??) |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | TEMPLATE |  | $WHAT_YOU_WANT duitse. | $WHAT_YOU_WANT for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | deoch duitse. | drink for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | caife duitse. | coffee for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | caife dubh duitse. | black coffee for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | caife bán duitse. | white coffee for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | tae duitse. | tea for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | tae láidir duitse. | strong tea for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | tae lag duitse. | weak tea for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | sú oráiste duitse. | orange juice for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | uisce duitse. | water for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | beoir duitse. | beer for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon bán duitse. | white wine for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon dearg duitse. | red wine for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon súilíneach duitse. | sparkling wine for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon géal duitse. | bright (white) wine for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon bandearg duitse. | pink (rosé) wine for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | uisce beatha duitse. | whiskey for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | sceallógaí duitse. | chips for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | briosca duitse. | a biscuit for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | bágún duitse. | bacon for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | pota tae duitse. | a pot of tea for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | gloine uisce duitse. | a glass of water for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | gloine fíon duitse. | a glass of wine for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | gloine gin duitse. | a glass of gin for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | pionta beorach duitse. | a pint of beer for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | cupa tae duitse. | cup of tea for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | bainne duitse. | milk for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | tae le bainne duitse. | tea with milk for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | leac oighir duitse. | ice for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | uachtar reoite duitse. | ice cream for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | ceapaire duitse. | sandwich for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | milseáin duitse. | sweets for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | úll duitse. | apple for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | cuidiú duitse. | help for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | siúcra duitse. | sugar for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | briosca duitse. | biscuit for you. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | TEMPLATE |  | Seo do $WHAT_YOU_WANT2 | Here's your $WHAT_YOU_WANT2 |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | DYNAMIC |  | Seo do phionta | Here's your pint |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Sláinte mhaith agat i bhfad ó bhrón. | Good health, free from sorrow. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Sláinte do bheo agus tróicaire do mharbh. | Health to the living and mercy on the dead. |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Go mba fada a mhairfidh tú. | Long life to you |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | QUESTION |  | An ólann tú caife? | Do you drink coffee? |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Ólaim. | Yes/I drink |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS |  | SENTENCE |  | Ní ólaim | No/I don't drink |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS | Additional | SENTENCE |  | Cad é ba mhaith leat a ól? | What would you like to drink? |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS | Additional | SENTENCE |  | Ar mhaith leat Coke? | Would you like coke? |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS | Additional | SENTENCE |  | Cad é ba mhaith leat a ól leis an dinnéar? | What would you like to drink with dinner? |  |  |  |  |  |  |  |
-| Now You're Talking | 6 | ORDERING DRINKS | Additional | SENTENCE |  | Cad é ba mhaith leat a ól leis do dhinnéar? | What would you like to drink with your dinner? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | PHRASE |  | Ag plé teangacha | Discussing languages |  |  |  |  | tchangaha?? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD |  | teanga | a language |  |  |  |  | tchangy?? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD |  | teangacha | Languages |  |  |  |  | tchangaha?? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Gaeilge | Irish |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Fraincis | French |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Béarla | English |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Gearmáinis | German |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Iodáilis | Italian |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Spáinnis | Spanish |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Breatnais | Welsh |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Gaeilge na hAlban | Gaelic (Scotland) |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE2 | Gaeilge | Irish |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE2 | Fraincise | French |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE2 | Gearmáinise | German |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE2 | Iodáilise | Italian |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Gaeilge | Irish |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Fhraincis | French |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Ghearmáinis | German |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Spáinnis | Spanish |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Iodáilis | Italian |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | An bhfuil $LANGUAGE agat? | Can you speak $LANGUAGE? |  |  |  | Have you $LANGUAGE? Is $LANGUAGE at you? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gaeilge agat? | Can you speak Irish? |  |  |  | Have you Irish? Is Irish at you? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Fraincis agat? | Can you speak French? |  |  |  | Have you French? Is French at you? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Béarla agat? | Can you speak English? |  |  |  | Have you English? Is English at you? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gearmáinis agat? | Can you speak German? |  |  |  | Have you German? Is German at you? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Iodáilis agat? | Can you speak Italian? |  |  |  | Have you Italian? Is Italian at you? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Spáinnis agat? | Can you speak Spanish? |  |  |  | Have you Spanish? Is Spanish at you? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Breatnais agat? | Can you speak Welsh? |  |  |  | Have you Welsh? Is Welsh at you? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gaeilge na hAlban agat? | Can you speak Gaelic (Scotland)? |  |  |  | Have you Gaelic (Scotland)? Is Gaelic (Scotland) at you? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | An bhfuil $LANGUAGE ag Tony? | Can Tony speak $LANGUAGE? |  |  |  | Has Tony $LANGUAGE? Is $LANGUAGE at Tony? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gaeilge ag Tony? | Can Tony speak Irish? |  |  |  | Has Tony Irish? Is Irish at Tony? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Fraincis ag Tony? | Can Tony speak French? |  |  |  | Has Tony French? Is French at Tony? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Béarla ag Tony? | Can Tony speak English? |  |  |  | Has Tony English? Is English at Tony? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gearmáinis ag Tony? | Can Tony speak German? |  |  |  | Has Tony German? Is German at Tony? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Iodáilis ag Tony? | Can Tony speak Italian? |  |  |  | Has Tony Italian? Is Italian at Tony? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Spáinnis ag Tony? | Can Tony speak Spanish? |  |  |  | Has Tony Spanish? Is Spanish at Tony? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Breatnais ag Tony? | Can Tony speak Welsh? |  |  |  | Has Tony Welsh? Is Welsh at Tony? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gaeilge na hAlban ag Tony? | Can Tony speak Gaelic (Scotland)? |  |  |  | Has Tony Gaelic (Scotland)? Is Gaelic (Scotland) at Tony? |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | Tá $LANGUAGE agam. | I speak $LANGUAGE. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Gaeilge agam. | I speak Irish. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Fraincis agam. | I speak French. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Béarla agam. | I speak English. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Gearmáinis agam. | I speak German. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Iodáilis agam. | I speak Italian. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Spáinnis agam. | I speak Spanish. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Breatnais agam. | I speak Welsh. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Gaeilge na hAlban agam. | I speak Gaelic (Scotland). |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | Tá $LANGUAGE líofa agam. | I speak $LANGUAGE fluently. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Gaeilge líofa agam. | I speak Irish fluently. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Fraincis líofa agam. | I speak French fluently. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Béarla líofa agam. | I speak English fluently. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Gearmáinis líofa agam. | I speak German fluently. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Iodáilis líofa agam. | I speak Italian fluently. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Spáinnis líofa agam. | I speak Spanish fluently. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Breatnais líofa agam. | I speak Welsh fluently. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá Gaeilge na hAlban líofa agam. | I speak Gaelic (Scotland) fluently. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Tá líofa agam. | I speak fluently. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Tá líofa agamsa. | *I* speak fluently. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | Tá beagán $LANGUAGE2 agam. | I speak a little $LANGUAGE2. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Gaeilge agam. | I speak a little Irish. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Fraincise agam. | I speak a little French. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Gearmáinise agam. | I speak a little German. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá beagán Iodáilise agam. | I speak a little Italian. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Tá mé ag foghlaim. | I'm learning. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | Tá mé ag foghlaim $LANGUAGE2. | I'm learning $LANGUAGE2. | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge. | I'm learning Irish. | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Fraincise. | I'm learning French. | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gearmáinise. | I'm learning German. | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Iodáilise. | I'm learning Italian. | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | Níl mórán $LANGUAGE2 agam. | I can't speak much $LANGUAGE2. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Gaeilge agam. | I can't speak much Irish. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Fraincise agam. | I can't speak much French. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Gearmáinise agam. | I can't speak much German. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Iodáilise agam. | I can't speak much Italian. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | Níl mórán $LANGUAGE2 agam ach tá mé ag foghlaim. | I can't speak much $LANGUAGE2 but I am learning. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Gaeilge agam ach tá mé ag foghlaim. | I can't speak much Irish but I am learning. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Fraincise agam ach tá mé ag foghlaim. | I can't speak much French but I am learning. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Gearmáinise agam ach tá mé ag foghlaim. | I can't speak much German but I am learning. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl mórán Iodáilise agam ach tá mé ag foghlaim. | I can't speak much Italian but I am learning. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | Níl aon $LANGUAGE3 agam. | I don't speak $LANGUAGE3. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl aon Gaeilge agam. | I don't speak Irish. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl aon Fhraincis agam. | I don't speak French. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl aon Ghearmáinis agam. | I don't speak German. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl aon Spáinnis agam. | I don't speak Spanish. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl aon Iodáilis agam. | I don't speak Italian. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Tá. | Yes. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Níl. | No. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Beagán. | A little. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Tá. Tá mé líofa. | Yes. I'm fluent. |  |  |  |  | Ta. Ta may leefa |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | an bhfuil tú ag foghlaim? | Are you learning? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | an bhfuil tú ag foghlaim $LANGUAGE? | Are you learning $LANGUAGE? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Gaeilge? | Are you learning Irish? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Fraincis? | Are you learning French? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Béarla? | Are you learning English? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Gearmáinis? | Are you learning German? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Iodáilis? | Are you learning Italian? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Spáinnis? | Are you learning Spanish? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Breatnais? | Are you learning Welsh? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Gaeilge na hAlban? | Are you learning Gaelic (Scotland)? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | QUESTION |  | Cad é na teangacha atá agat? | Which/what languages can you speak? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | QUESTION |  | Cad é na teangacha eile atá agat? | Which/what other languages can you speak? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Tá Fraincis agus Gearmáinis agam. | I speak French and German. | repeat for other languages |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Tá Iodáilis agam ach níl aon Spáinnis agam. | I speak Italian but I can't speak Spanish. | repeat for other languages |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Níl aon Fhraincis nó Spáinnis agam. | I speak neither French nor Spanish. | repeat for other languages |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | QUESTION |  | Cá háit? | Where? |  |  |  |  | Ca hatch? |  | If you tell someone that you are learning a language, you might be asked where: |
+| Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | Cá bhfuil tú ag foghlaim $LANGUAGE2? | Where are you learning $LANGUAGE2? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Cá bhfuil tú ag foghlaim Gaeilge? | Where are you learning Irish? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Cá bhfuil tú ag foghlaim Fraincise? | Where are you learning French? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Cá bhfuil tú ag foghlaim Gearmáinise? | Where are you learning German? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Cá bhfuil tú ag foghlaim Iodáilise? | Where are you learning Italian? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | ón teilifís | from the television |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | ón raidió | from the radio |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | ag rang oíche | at a night class |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | san ollscoil | at the university |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | ó fhístéipeanna sa bhaile | from videotapes at home |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | ó físeán | from video |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | PHRASE | LANG_LEARN_SOURCE | ó físeáin | from videos |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | Tá mé ag foghlaim Gaeilge $LANG_LEARN_SOURCE. | I am learning Irish $LANG_LEARN_SOURCE. | repeat for other languages |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ón teilifís. | I am learning Irish from the television. | repeat for other languages |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ón raidió. | I am learning Irish from the radio. | repeat for other languages |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ag rang oíche. | I am learning Irish at a night class. | repeat for other languages |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge san ollscoil. | I am learning Irish at the university. | repeat for other languages |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ó fhístéipeanna sa bhaile. | I am learning Irish from videotapes at home. | repeat for other languages |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ó físeán. | I am learning Irish from video. | repeat for other languages |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ó físeáin. | I am learning Irish from videos. | repeat for other languages |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | An dtuigeann tú $LANGUAGE? | Do you understand $LANGUAGE? |  |  |  |  | an diggin to $LANGUAGE? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gaeilge? | Do you understand Irish? |  |  |  |  | an diggin to ? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Fraincis? | Do you understand French? |  |  |  |  | an diggin to ? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Béarla? | Do you understand English? |  |  |  |  | an diggin to ? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gearmáinis? | Do you understand German? |  |  |  |  | an diggin to ? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Iodáilis? | Do you understand Italian? |  |  |  |  | an diggin to ? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Spáinnis? | Do you understand Spanish? |  |  |  |  | an diggin to ? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Breatnais? | Do you understand Welsh? |  |  |  |  | an diggin to ? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gaeilge na hAlban? | Do you understand Gaelic (Scotland)? |  |  |  |  | an diggin to ? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Tuigim. | Yes (I do understand). |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Ní thuigim. | No (I don't understand). |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | Tuigim $LANGUAGE | I do understand $LANGUAGE |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tuigim Gaeilge | I do understand Irish |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tuigim Fraincis | I do understand French |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tuigim Béarla | I do understand English |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tuigim Gearmáinis | I do understand German |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tuigim Iodáilis | I do understand Italian |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tuigim Spáinnis | I do understand Spanish |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tuigim Breatnais | I do understand Welsh |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tuigim Gaeilge na hAlban | I do understand Gaelic (Scotland) |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | Ní thuigim $LANGUAGE | I don't understand $LANGUAGE |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Gaeilge | I don't understand Irish |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Fraincis | I don't understand French |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Béarla | I don't understand English |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Gearmáinis | I don't understand German |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Iodáilis | I don't understand Italian |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Spáinnis | I don't understand Spanish |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Breatnais | I don't understand Welsh |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Gaeilge na hAlban | I don't understand Gaelic (Scotland) |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | teanga | a language |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | teangacha | languages |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | teanga amháin | one language |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | dhá theanga | two languages |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | trí theanga | three languages |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | ceithre theanga | four languages |  |  |  |  | kera |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | cúig theanga | five languages |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | sé theanga | six languages |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | rothar | bicycle |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | rothar amháin | one bicycle |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | dhá rothar | two bicycles |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | cathaoir | chair |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | cathaoir amháin | one chair |  |  |  |  | cih-her?? |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | dhá chathaoir | two chairs |  |  |  |  | yeh hih-her |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | pionta | pint |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | pionta amháin | one pint |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | trí phionta | three pints |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | cúig phionta | five pint |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | seacht bpionta | seven pints |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | ocht bpionta | eight pints |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | deich bpionta | ten pints |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | leabhar | book |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | trí leabhar | three books |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | doras | door |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | doras amháin | one door |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | ceithre dhoras | four doors |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | bosca | box |  |  |  |  | boxsa |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | ceithre bhosca | four boxes |  |  |  |  | kera woxsa |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | ocht mbosca | eight boxes |  |  |  |  | okt moxsa |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | buidéal | bottle |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | buidéal amháin | one bottle |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | cúig bhuidéal | five bottles |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | seacht mbuidéal | seven bottles |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | caife | coffee |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | caife amháin | one coffee |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | sé chaife | six coffees |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | oráiste | orange |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | oráistí | oranges |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | cúig oráiste | five oranges |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | seacht sú oráiste | seven orange juices |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | gloine | glass |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | gloine amháin | one glass |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | naoi ngloine | nine glasses |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | tábla | table |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | ceithre thábla | four tables |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | úll | apple |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | ceithre úll | four apples |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | cóta | coat |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | naoi gcóta | nine coats |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | geansaí | jumper |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | nine ngeansaí | nine jumpers |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things |  |  | deich ngeansaí | ten jumpers |  |  |  |  |  |  |  |
 
-## Now You're Talking - SAYING WHERE YOU'RE GOING
+## Irish on your own - Expressing Opinions
 
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | AG RÁ CÁ BHFUIL TÚ AG DUL | SAYING WHERE YOU'RE GOING |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | banc | bank |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | teach an phobail | church |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | oifig an phoist | post office |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | caife | cafe |  |  |  |  | ca-fay |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | garáiste | garage |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | teach | house |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | tithe | houses |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | teach tábhairne | pub |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | tithe tábhairne | pubs |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | bialann | restaurant |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | páirc | park |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopa | shop |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopaí | shops |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopa búistéara | butcher's shop |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopa poitigéara | chemist shop |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopa bróg | shoe shop |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopa éadaigh | clothes shop |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | ionad spóirt | sports centre |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | ionad siopadóireachta | shopping centre |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | ollmhargadh | supermarket |  |  |  |  | ollwarragoo |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | ospidéal | hospital |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | otharlann | hospital |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | pictiúrlann | cinema |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | sólann | leisure centre |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | codladh | sleep |  |  |  |  | coh-loo |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | aerfort | airport |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | amharclann | theatre |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | gealach | moon |  |  |  |  | gallack |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an caife | the café |  |  | m |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an amharclann | the theatre |  |  | f |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an garáiste | the garage |  |  | m |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an teach tábhairne | the pub |  |  | m |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an pháirc | the park |  |  | f |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an phictiúrlann  | the cinema |  |  | f |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-sólann  | the leisure centre |  |  | f |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-aerfort | the airport |  |  | m |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-ionad spóirt | the sports centre |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-ionad siopadóireachta | the shopping centre |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-ollmhargadh | the supermarket |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an bhialann | the restaurant |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-ospidéal | the hospital |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an ghealach | the moon |  |  |  |  | an yallach |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cá bhfuil tú ag dul? | Where are you going? |  | s |  |  | Ca will to a-gull |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cá bhfuil sibh ag dul? | Where are you going? |  | p |  |  | Ca will to a-gull |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cá bhfuil tusa ag dul? | Where are *you* going? |  | s |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul ... | I'm going ... |  |  |  |  | Taw may a gul |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go ... | I'm going to ... |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go Leitir Ceanainn. | I'm going to Letterkenny. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá mé ag dul go dtí $THE_PLACES. | I'm going to $THE_PLACES. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an caife. | I'm going to the café. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an amharclann. | I'm going to the theatre. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an garáiste. | I'm going to the garage. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an teach tábhairne. | I'm going to the pub. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an pháirc. | I'm going to the park. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an phictiúrlann . | I'm going to the cinema. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-sólann . | I'm going to the leisure centre. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-aerfort. | I'm going to the airport. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ionad spóirt. | I'm going to the sports centre. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ionad siopadóireachta. | I'm going to the shopping centre. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ollmhargadh. | I'm going to the supermarket. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an bhialann. | I'm going to the restaurant. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ospidéal. | I'm going to the hospital. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an ghealach. | I'm going to the moon. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go hoifig an phoist. | I am going to the post office |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go teach an phobail. | I am going to the church |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul abhaile. | I'm going home. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul amach. | I'm going out. |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul a chodladh | I am going to sleep |  |  |  |  | ...hoh-loo |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | ansin | then |  |  |  |  |  |  | as in I'm going to ... and then I'm going to... |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Go Baile Átha Cliath | To Dublin |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Go hArd Mhacha* | To Armagh |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Go Dún Pádraig | To Downpatrick |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cad é an t-am? | What time? |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cad é an t-am atá tú ag dul go Dún Geanainn? | What time are you going to Dungannon? |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cá huair? | When? |  |  |  |  | ca hoo-ar |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cá huair atá tú ag dul go Corcaigh? | When are you going to Cork? |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | uair | an hour |  |  |  |  |  |  | This word occurs quite frequently in everyday speech, so it is well worth learning the different forms. |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | dhá uair | two hours |  |  |  |  |  |  | The word uair is irregular when preceded by numbers: |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | trí huaire | three hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | ceathair huaire | four hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | cúig huaire | five hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | sé huaire | six hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | seacht n-uaire | seven hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | hocht n-uaire | eight hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | naoi n-uaire | nine hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | deich n-uaire | ten hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | i gceann leathuair an chloig | in half an hour |  |  |  |  | i gen le-hoor a clig |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | i gceann tamaill | in a while |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | anois | now |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | níos moille | later |  |  |  |  | nees mullya |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | anocht | tonight |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | amárach | tomorrow |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | ar maidin | in the morning |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | meán lae | midday |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | san iarnóin | in the afternoon |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | tráthnóna | in the evening |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | san oíche | in the night |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go Gaillimh... | I'm going to Galway... |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá mé ag dul $GOING_WHEN | I'm going $GOING_WHEN |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann leathuair an chloig | I'm going in half an hour |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann tamaill | I'm going in a while |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul anois | I'm going now |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul níos moille | I'm going later |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul anocht | I'm going tonight |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul amárach | I'm going tomorrow |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ar maidin | I'm going in the morning |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul meán lae | I'm going midday |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul san iarnóin | I'm going in the afternoon |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul tráthnóna | I'm going in the evening |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul san oíche | I'm going in the night |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá mé ag dul ag $HOUR_O_CLOCK | I'm going at $HOUR_O_CLOCK |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a haon a chlog | I'm going at 1 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a dó a chlog | I'm going at 2 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a trí a chlog | I'm going at 3 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a ceathair a chlog | I'm going at 4 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a cúig a chlog | I'm going at 5 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a sé a chlog | I'm going at 6 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a seacht a chlog | I'm going at 7 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a hocht a chlog | I'm going at 8 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a naoi a chlog | I'm going at 9 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a deich a chlog | I'm going at 10 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a haon déag a chlog | I'm going at 11 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a dó dhéag a chlog | I'm going at 12 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá mé ag dul i gceann $NUM_HOURS an chloig | I'm going in $NUM_HOURS's time |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann uair an chloig | I'm going in an hour's time |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann dhá uair an chloig | I'm going in two hours's time |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire an chloig | I'm going in three hours's time |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann ceathair huaire an chloig | I'm going in four hours's time |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann cúig huaire an chloig | I'm going in five hours's time |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann sé huaire an chloig | I'm going in six hours's time |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann seacht n-uaire an chloig | I'm going in seven hours's time |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann hocht n-uaire an chloig | I'm going in eight hours's time |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann naoi n-uaire an chloig | I'm going in nine hours's time |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann deich n-uaire an chloig | I'm going in ten hours's time |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá mé ag dul i gceann $NUM_HOURS go leith | I'm going in $NUM_HOURS and a half hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann uair go leith | I'm going in an hour and a half hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann dhá uair go leith | I'm going in two hours and a half hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire go leith | I'm going in three hours and a half hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann ceathair huaire go leith | I'm going in four hours and a half hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann cúig huaire go leith | I'm going in five hours and a half hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann sé huaire go leith | I'm going in six hours and a half hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann seacht n-uaire go leith | I'm going in seven hours and a half hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann hocht n-uaire go leith | I'm going in eight hours and a half hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann naoi n-uaire go leith | I'm going in nine hours and a half hours |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann deich n-uaire go leith | I'm going in ten hours and a half hours |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | SAYING WHERE YOU'RE GOING |  | WORD |  | chóir a bheith | almost |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith $HOUR_O_CLOCK | It's almost $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh $HOUR_O_CLOCK |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a haon a chlog | It's almost 1 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a dó a chlog | It's almost 2 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a trí a chlog | It's almost 3 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a ceathair a chlog | It's almost 4 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a cúig a chlog | It's almost 5 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a sé a chlog | It's almost 6 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a seacht a chlog | It's almost 7 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a hocht a chlog | It's almost 8 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a naoi a chlog | It's almost 9 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a deich a chlog | It's almost 10 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a haon déag a chlog | It's almost 11 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a dó dhéag a chlog | It's almost 12 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú i ndiaidh $HOUR_O_CLOCK | It's almost quarter past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh cahrun I nyay $HOUR_O_CLOCK |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon a chlog | It's almost quarter past 1 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó a chlog | It's almost quarter past 2 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a trí a chlog | It's almost quarter past 3 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a ceathair a chlog | It's almost quarter past 4 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a cúig a chlog | It's almost quarter past 5 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a sé a chlog | It's almost quarter past 6 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a seacht a chlog | It's almost quarter past 7 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a hocht a chlog | It's almost quarter past 8 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a naoi a chlog | It's almost quarter past 9 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a deich a chlog | It's almost quarter past 10 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon déag a chlog | It's almost quarter past 11 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó dhéag a chlog | It's almost quarter past 12 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith leath i ndiaidh $HOUR_O_CLOCK | It's almost half past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh la in nyay $HOUR_O_CLOCK |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon a chlog | It's almost half past 1 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó a chlog | It's almost half past 2 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a trí a chlog | It's almost half past 3 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a ceathair a chlog | It's almost half past 4 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a cúig a chlog | It's almost half past 5 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a sé a chlog | It's almost half past 6 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a seacht a chlog | It's almost half past 7 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a hocht a chlog | It's almost half past 8 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a naoi a chlog | It's almost half past 9 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a deich a chlog | It's almost half past 10 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon déag a chlog | It's almost half past 11 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó dhéag a chlog | It's almost half past 12 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú go dtí $HOUR_O_CLOCK | It's almost quarter to $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh cahru go gee $HOUR_O_CLOCK |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon a chlog | It's almost quarter to 1 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó a chlog | It's almost quarter to 2 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a trí a chlog | It's almost quarter to 3 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a ceathair a chlog | It's almost quarter to 4 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a cúig a chlog | It's almost quarter to 5 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a sé a chlog | It's almost quarter to 6 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a seacht a chlog | It's almost quarter to 7 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a hocht a chlog | It's almost quarter to 8 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a naoi a chlog | It's almost quarter to 9 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a deich a chlog | It's almost quarter to 10 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon déag a chlog | It's almost quarter to 11 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó dhéag a chlog | It's almost quarter to 12 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | scrúdú | exam |  |  |  |  |  |  |  |
-| Now You're Talking | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | scrúdú ar maidin | exam in the morning |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | PHRASE |  | AG CUR TUAIRIMÍ IN IÚL | Expressing opinions |  |  |  |  | ag cur toor-a-me in yool |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | PHRASE |  | Caithimh aimsire | Pastimes |  |  |  |  | cahiv amshira |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | banc | bank |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | clár | programme |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | cláracha | programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha faisnéise | documentaries |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha spóirt | sports programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha ceoil | music programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha cainte | talk shows |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha dúlra | nature programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | seacláid | chocolate |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | portán | crab |  |  |  |  | porthaan |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cáis | cheese |  |  |  |  | kesh |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ríomhairí | computers |  |  |  |  | Ree-war-ee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | bláthanna | flowers |  |  |  |  | Blee-hena |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul ag rith | go running |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | amharc ar an teilifís | watch television |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | éisteacht le ceol | listen to music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul ag snámh | go swimming |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul chuig scannáin | go to films |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul chuig drámaí | go to plays |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | imirt | play |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | leadóg a imirt | play tennis |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol | music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | Cineál | Type |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | Cineálacha | Types of music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | Cineálacha ceoil | Types of music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol traidisiúnta | traditional music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol clasaiceach | classical music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | snagcheol | jazz |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | roc-cheol | rock music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | popcheol | popular music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | sacar | soccer |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | mar shampla | for example |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | go háirithe | especially |  |  |  |  | go hairy-heh |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | TEMPLATE |  | Is maith liom $THINGS_TO_LIKE | I like $THINGS_TO_LIKE |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha faisnéise | I like documentaries |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha spóirt | I like sports programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha ceoil | I like music programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha cainte | I like talk shows |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha dúlra | I like nature programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom seacláid | I like chocolate |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom portán | I like crab |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom cáis | I like cheese |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom ríomhairí | I like computers |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom bláthanna | I like flowers |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag rith | I like go running |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom amharc ar an teilifís | I like watch television |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom éisteacht le ceol | I like listen to music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul ag snámh | I like go swimming |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig scannáin | I like go to films |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a dhul chuig drámaí | I like go to plays |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom imirt | I like play |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom leadóg a imirt | I like play tennis |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol | I like music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol traidisiúnta | I like traditional music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom ceol clasaiceach | I like classical music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom snagcheol | I like jazz |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom roc-cheol | I like rock music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom popcheol | I like popular music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom sacar | I like soccer |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | TEMPLATE |  | Is breá liom $THINGS_TO_LIKE | I really like $THINGS_TO_LIKE |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha faisnéise | I really like documentaries |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha spóirt | I really like sports programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha ceoil | I really like music programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha cainte | I really like talk shows |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom cláracha dúlra | I really like nature programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom seacláid | I really like chocolate |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom portán | I really like crab |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom cáis | I really like cheese |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom ríomhairí | I really like computers |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom bláthanna | I really like flowers |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag rith | I really like go running |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom amharc ar an teilifís | I really like watch television |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom éisteacht le ceol | I really like listen to music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul ag snámh | I really like go swimming |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig scannáin | I really like go to films |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom a dhul chuig drámaí | I really like go to plays |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom imirt | I really like play |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom leadóg a imirt | I really like play tennis |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol | I really like music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol traidisiúnta | I really like traditional music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom ceol clasaiceach | I really like classical music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom snagcheol | I really like jazz |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom roc-cheol | I really like rock music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom popcheol | I really like popular music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is breá liom sacar | I really like soccer |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Tá dúil mhór agam i(n)... | I really like ... |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | TEMPLATE |  | Ní maith liom $THINGS_TO_LIKE | I don't like $THINGS_TO_LIKE |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha faisnéise | I don't like documentaries |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha spóirt | I don't like sports programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha ceoil | I don't like music programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha cainte | I don't like talk shows |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha dúlra | I don't like nature programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom seacláid | I don't like chocolate |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom portán | I don't like crab |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cáis | I don't like cheese |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ríomhairí | I don't like computers |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom bláthanna | I don't like flowers |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith | I don't like go running |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom amharc ar an teilifís | I don't like watch television |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol | I don't like listen to music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh | I don't like go swimming |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin | I don't like go to films |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí | I don't like go to plays |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt | I don't like play |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom leadóg a imirt | I don't like play tennis |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol | I don't like music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol traidisiúnta | I don't like traditional music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol clasaiceach | I don't like classical music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom snagcheol | I don't like jazz |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom roc-cheol | I don't like rock music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom popcheol | I don't like popular music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom sacar | I don't like soccer |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | TEMPLATE |  | Ní maith liom $THINGS_TO_LIKE ar chor ar bith. | I don't like $THINGS_TO_LIKE at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha faisnéise ar chor ar bith. | I don't like documentaries at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha spóirt ar chor ar bith. | I don't like sports programmes at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha ceoil ar chor ar bith. | I don't like music programmes at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha cainte ar chor ar bith. | I don't like talk shows at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cláracha dúlra ar chor ar bith. | I don't like nature programmes at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom seacláid ar chor ar bith. | I don't like chocolate at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom portán ar chor ar bith. | I don't like crab at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom cáis ar chor ar bith. | I don't like cheese at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ríomhairí ar chor ar bith. | I don't like computers at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom bláthanna ar chor ar bith. | I don't like flowers at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag rith ar chor ar bith. | I don't like go running at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom amharc ar an teilifís ar chor ar bith. | I don't like watch television at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom éisteacht le ceol ar chor ar bith. | I don't like listen to music at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul ag snámh ar chor ar bith. | I don't like go swimming at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig scannáin ar chor ar bith. | I don't like go to films at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a dhul chuig drámaí ar chor ar bith. | I don't like go to plays at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom imirt ar chor ar bith. | I don't like play at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom leadóg a imirt ar chor ar bith. | I don't like play tennis at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol ar chor ar bith. | I don't like music at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol traidisiúnta ar chor ar bith. | I don't like traditional music at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom ceol clasaiceach ar chor ar bith. | I don't like classical music at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom snagcheol ar chor ar bith. | I don't like jazz at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom roc-cheol ar chor ar bith. | I don't like rock music at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom popcheol ar chor ar bith. | I don't like popular music at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom sacar ar chor ar bith. | I don't like soccer at all. |  |  |  |  | ...ar har a bee |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Ní maith liom ar chor ar bith é. | I don't like it at all. |  |  |  |  | ...ar har a bee ay |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Ní maith liom ar chor ar bith iad. | I don't like them at all. |  |  |  |  | ...ar har a bee ead |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | TEMPLATE |  | Is fuath liom $THINGS_TO_LIKE | I hate $THINGS_TO_LIKE |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha faisnéise | I hate documentaries |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha spóirt | I hate sports programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha ceoil | I hate music programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha cainte | I hate talk shows |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cláracha dúlra | I hate nature programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom seacláid | I hate chocolate |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom portán | I hate crab |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom cáis | I hate cheese |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ríomhairí | I hate computers |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom bláthanna | I hate flowers |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag rith | I hate go running |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom amharc ar an teilifís | I hate watch television |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom éisteacht le ceol | I hate listen to music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul ag snámh | I hate go swimming |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig scannáin | I hate go to films |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a dhul chuig drámaí | I hate go to plays |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom imirt | I hate play |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom leadóg a imirt | I hate play tennis |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol | I hate music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol traidisiúnta | I hate traditional music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom ceol clasaiceach | I hate classical music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom snagcheol | I hate jazz |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom roc-cheol | I hate rock music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom popcheol | I hate popular music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom sacar | I hate soccer |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | TEMPLATE |  | An maith leat $THINGS_TO_LIKE? | Do you like $THINGS_TO_LIKE? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha faisnéise? | Do you like documentaries? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha spóirt? | Do you like sports programmes? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha ceoil? | Do you like music programmes? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha cainte? | Do you like talk shows? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat cláracha dúlra? | Do you like nature programmes? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat seacláid? | Do you like chocolate? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat portán? | Do you like crab? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat cáis? | Do you like cheese? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ríomhairí? | Do you like computers? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat bláthanna? | Do you like flowers? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag rith? | Do you like go running? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat amharc ar an teilifís? | Do you like watch television? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat éisteacht le ceol? | Do you like listen to music? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul ag snámh? | Do you like go swimming? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig scannáin? | Do you like go to films? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat a dhul chuig drámaí? | Do you like go to plays? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat imirt? | Do you like play? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat leadóg a imirt? | Do you like play tennis? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol? | Do you like music? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol traidisiúnta? | Do you like traditional music? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ceol clasaiceach? | Do you like classical music? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat snagcheol? | Do you like jazz? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat roc-cheol? | Do you like rock music? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat popcheol? | Do you like popular music? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat sacar? | Do you like soccer? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | TEMPLATE |  | An maith libh $THINGS_TO_LIKE? | Do you like $THINGS_TO_LIKE? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha faisnéise? | Do you like documentaries? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha spóirt? | Do you like sports programmes? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha ceoil? | Do you like music programmes? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha cainte? | Do you like talk shows? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh cláracha dúlra? | Do you like nature programmes? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh seacláid? | Do you like chocolate? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh portán? | Do you like crab? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh cáis? | Do you like cheese? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ríomhairí? | Do you like computers? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh bláthanna? | Do you like flowers? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag rith? | Do you like go running? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh amharc ar an teilifís? | Do you like watch television? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh éisteacht le ceol? | Do you like listen to music? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul ag snámh? | Do you like go swimming? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig scannáin? | Do you like go to films? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh a dhul chuig drámaí? | Do you like go to plays? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh imirt? | Do you like play? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh leadóg a imirt? | Do you like play tennis? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol? | Do you like music? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol traidisiúnta? | Do you like traditional music? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ceol clasaiceach? | Do you like classical music? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh snagcheol? | Do you like jazz? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh roc-cheol? | Do you like rock music? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh popcheol? | Do you like popular music? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh sacar? | Do you like soccer? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag garraíodóireacht | gardening |  |  |  |  | ag garaderact |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag péinteáil | painting |  |  |  |  | ag paint-al |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag cócaireacht | cooking |  |  |  |  | ag cocker-act |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag iascaireacht | fishing |  |  |  |  | ag isc-a-ract |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag léamh | reading |  |  |  |  | ag lay-oh |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE_TO_DO | ag siúl | walking |  |  |  |  | ag shool |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | TEMPLATE |  | Is maith liom a bheith $THINGS_TO_LIKE_TO_DO | I like $THINGS_TO_LIKE_TO_DO |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag garraíodóireacht | I like gardening |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag péinteáil | I like painting |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag cócaireacht | I like cooking |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag iascaireacht | I like fishing |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag léamh | I like reading |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom a bheith ag siúl | I like walking |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | TEMPLATE |  | Ní maith liom a bheith $THINGS_TO_LIKE_TO_DO | I do not like $THINGS_TO_LIKE_TO_DO |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag garraíodóireacht | I do not like gardening |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag péinteáil | I do not like painting |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag cócaireacht | I do not like cooking |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag iascaireacht | I do not like fishing |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag léamh | I do not like reading |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Ní maith liom a bheith ag siúl | I do not like walking |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | TEMPLATE |  | Is fuath liom a bheith $THINGS_TO_LIKE_TO_DO | I hate $THINGS_TO_LIKE_TO_DO |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag garraíodóireacht | I hate gardening |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag péinteáil | I hate painting |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag cócaireacht | I hate cooking |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag iascaireacht | I hate fishing |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag léamh | I hate reading |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fuath liom a bheith ag siúl | I hate walking |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | TEMPLATE |  | An maith leat $THINGS_TO_LIKE_TO_DO? | Do you like $THINGS_TO_LIKE_TO_DO? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ag garraíodóireacht? | Do you like gardening? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ag péinteáil? | Do you like painting? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ag cócaireacht? | Do you like cooking? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ag iascaireacht? | Do you like fishing? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ag léamh? | Do you like reading? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith leat ag siúl? | Do you like walking? |  | s |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | TEMPLATE |  | An maith libh $THINGS_TO_LIKE_TO_DO? | Do you like $THINGS_TO_LIKE_TO_DO? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ag garraíodóireacht? | Do you like gardening? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ag péinteáil? | Do you like painting? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ag cócaireacht? | Do you like cooking? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ag iascaireacht? | Do you like fishing? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ag léamh? | Do you like reading? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ag siúl? | Do you like walking? |  | p |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Is maith. | Yes. |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Ní maith. | No. |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Is breá liom é/í/iad. | I really like it. |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Ní maith liom ar chor ar bith é. | I don't like it at all. |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Is fuath liom é/í/iad. | I hate it. |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé ceart go leor. | It's all right. |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | QUESTION |  | An maith leat é? | Do you like it? |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | QUESTION |  | An maith leatsa é? | Do *you* like it? |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | QUESTION |  | An maith leat féin é? | Do you like it yourself? |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | TEMPLATE |  | Is fearr liom $THINGS_TO_LIKE | I prefer $THINGS_TO_LIKE |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha faisnéise | I prefer documentaries |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha spóirt | I prefer sports programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha ceoil | I prefer music programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha cainte | I prefer talk shows |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cláracha dúlra | I prefer nature programmes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom seacláid | I prefer chocolate |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom portán | I prefer crab |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom cáis | I prefer cheese |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ríomhairí | I prefer computers |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom bláthanna | I prefer flowers |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag rith | I prefer go running |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom amharc ar an teilifís | I prefer watch television |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom éisteacht le ceol | I prefer listen to music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul ag snámh | I prefer go swimming |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig scannáin | I prefer go to films |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom a dhul chuig drámaí | I prefer go to plays |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom imirt | I prefer play |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom leadóg a imirt | I prefer play tennis |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol | I prefer music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol traidisiúnta | I prefer traditional music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom ceol clasaiceach | I prefer classical music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom snagcheol | I prefer jazz |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom roc-cheol | I prefer rock music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom popcheol | I prefer popular music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom sacar | I prefer soccer |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Is maith liom snagcheoil ach is fearr liom ceol traidisiúnta. | I like jazz but I prefer traditional music. |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Is maith liomsa fosta é | I like it too/as well |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Is fearr liomsa fosta é | I prefer it too/as well |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | bia | food |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | WHAT_YOU_WANT | deoch | drink |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | PHRASE |  | bia agus deoch | food and drink |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | feoil | meat |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | glasraí | vegetables |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | bia mara | seafood |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | sicín | chicken |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | fíon bán | white wine |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | fíon dearg | red wine |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | bialann | restaurant |  |  |  |  | bia-lann |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé maith. | It's good. |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé an-mhaith. | It's very good. |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé measartha maith. | It's reasonably good. |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Níl sé rómhaith. | It's not too good. |  |  |  |  | ...roh-why |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé go dona. | It's very bad. |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | QUESTION |  | An bhfuil ... maith? | Is ... good? |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | QUESTION |  | An bhfuil an fíon seo maith? | Is this wine good? |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | QUESTION |  | An bhfuil sé seo maith? | Is this good? |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | PHRASE |  | an ceann seo | this one |  |  |  |  |  |  | as in "I prefer this one" |
+| Irish on your own | 5 | Expressing Opinions |  | QUESTION |  | An bhfuil maith ar bith sa ...? | Is the ... any good? |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | QUESTION |  | An bhfuil maith ar bith sa bhialann sin? | Is that restaurant any good? |  |  |  |  | an whil my ar bee sa via-lann sin? |  | said quick |
+| Irish on your own | 5 | Expressing Opinions |  | QUESTION |  | An bhfuil an bia maith? | Is the food any good? |  |  |  |  |  |  |  |
 
-## Now You're Talking - DISCUSSING JOBS
-
-| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD |  | AG PLÉ POSTANNA | DISCUSSING JOBS |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD |  | obair | work |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD |  | ag obair | working |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD |  | post | job |  |  |  |  | paw-st |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD |  | postanna | jobs |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD |  | bunscoil | primary school |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD |  | meánscoil | secondary school |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | feirmeoir | farmer |  |  |  |  | fer-mer |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | siopadóir | shopkeeper |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | búistéir | butcher |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | meicneoir | mechanic |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | múinteoir | teacher |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | rúnaí | secretary |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | oibrí monarchan | factory worker |  |  |  |  | ibri monarchan |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | banaltra | nurse |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | dochtúir | doctor |  |  |  |  | doctoor |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | tiománaí | driver |  |  |  |  | tchumani |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | bainisteoir | manager |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | freastalaí | waiter |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | tógálaí | builder |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | siúinéir | carpenter |  |  |  |  | shoonair |  | aonad 9 |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | bean tí | housewife |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | leictreoir | electrician |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | iascaire | fisherman |  |  |  |  | eesc-ar-a |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | innealtóir | engineer |  |  |  |  | inyaltar |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | innealtóir ríomhaireachta | computer engineer |  |  |  |  | inyaltar re-whar-achta |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | ríomhchláraitheoir | programmer |  |  |  |  | reo-clar-e-har |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | aisteoir | actor |  |  |  |  | asteor |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | múinteoir bunscoile | primary school teacher |  |  |  |  | asteor |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | JOB | múinteoir meánscoile | secondary school teacher |  |  |  |  | asteor |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD |  | garraí | garden |  |  |  |  | gary |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | TEMPLATE |  | Is $JOB mé. | I'm a $JOB | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is feirmeoir mé. | I'm a farmer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is siopadóir mé. | I'm a shopkeeper | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is búistéir mé. | I'm a butcher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is meicneoir mé. | I'm a mechanic | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir mé. | I'm a teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is rúnaí mé. | I'm a secretary | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is oibrí monarchan mé. | I'm a factory worker | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is banaltra mé. | I'm a nurse | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is dochtúir mé. | I'm a doctor | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is tiománaí mé. | I'm a driver | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is bainisteoir mé. | I'm a manager | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is freastalaí mé. | I'm a waiter | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is tógálaí mé. | I'm a builder | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is siúinéir mé. | I'm a carpenter | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is bean tí mé. | I'm a housewife | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is leictreoir mé. | I'm a electrician | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is iascaire mé. | I'm a fisherman | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is innealtóir mé. | I'm a engineer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is innealtóir ríomhaireachta mé. | I'm a computer engineer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is ríomhchláraitheoir mé. | I'm a programmer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is aisteoir mé. | I'm a actor | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir bunscoile mé. | I'm a primary school teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir meánscoile mé. | I'm a secondary school teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | TEMPLATE |  | $JOB atá ionam | I'm a $JOB |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | feirmeoir atá ionam | I'm a farmer |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | siopadóir atá ionam | I'm a shopkeeper |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | búistéir atá ionam | I'm a butcher |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | meicneoir atá ionam | I'm a mechanic |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir atá ionam | I'm a teacher |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | rúnaí atá ionam | I'm a secretary |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | oibrí monarchan atá ionam | I'm a factory worker |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | banaltra atá ionam | I'm a nurse |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | dochtúir atá ionam | I'm a doctor |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | tiománaí atá ionam | I'm a driver |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | bainisteoir atá ionam | I'm a manager |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | freastalaí atá ionam | I'm a waiter |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | tógálaí atá ionam | I'm a builder |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | siúinéir atá ionam | I'm a carpenter |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | bean tí atá ionam | I'm a housewife |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | leictreoir atá ionam | I'm a electrician |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | iascaire atá ionam | I'm a fisherman |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir atá ionam | I'm a engineer |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir ríomhaireachta atá ionam | I'm a computer engineer |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | ríomhchláraitheoir atá ionam | I'm a programmer |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | aisteoir atá ionam | I'm a actor |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir bunscoile atá ionam | I'm a primary school teacher |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir meánscoile atá ionam | I'm a secondary school teacher |  |  |  |  | .. atá unam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | QUESTION |  | Cad é an post atá agat? | What job do you do? |  |  |  | Where are you working? |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | QUESTION |  | Cad é an tslí bheatha atá agat? | What do you do for a living? |  |  |  | way of life | cadj ay an tshlee veha ataa agat |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | QUESTION |  | Cad é an post atá ag Michael? | What job does Michael have? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | QUESTION |  | Cá bhfuil tú ag obair? | Where do you work? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | QUESTION |  | Cá bhfuil tusa ag obair? | Where do *you* work? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i monarcha | in a factory |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | in oifig | in an office |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | in scoil | in a school |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i siopa | in a shop |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i mbunscoil | in a primary school |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i meánscoil | in a secondary school |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | in otharlann | in a hospital |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | in óstán | in a hotel |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i gcaife | in a cafe |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i mbialann | in a restaurant |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i ngaráiste | in a garage |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | in ollmhargadh | in a supermarket |  |  |  |  | ollwarragoo |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i dteach tábhairne | in a pub |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i ngarraí | in a garden |  |  |  |  | in narry |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD |  | stáisiún peitril | petrol station |  |  |  |  | stashon petrol |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | TEMPLATE |  | Tá mé ag obair $IN_WORKPLACE | I work $IN_WORKPLACE |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i monarcha | I work in a factory |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in oifig | I work in an office |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in scoil | I work in a school |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i siopa | I work in a shop |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i mbunscoil | I work in a primary school |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i meánscoil | I work in a secondary school |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in otharlann | I work in a hospital |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in óstán | I work in a hotel |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i gcaife | I work in a cafe |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i mbialann | I work in a restaurant |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i ngaráiste | I work in a garage |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in ollmhargadh | I work in a supermarket |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i dteach tábhairne | I work in a pub |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i ngarraí | I work in a garden |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | TEMPLATE |  | Bhí mé ag obair $IN_WORKPLACE | I worked $IN_WORKPLACE |  |  |  |  |  |  | Past |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i monarcha | I worked in a factory |  |  |  |  |  |  | Past |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in oifig | I worked in an office |  |  |  |  |  |  | Past |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in scoil | I worked in a school |  |  |  |  |  |  | Past |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i siopa | I worked in a shop |  |  |  |  |  |  | Past |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i mbunscoil | I worked in a primary school |  |  |  |  |  |  | Past |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i meánscoil | I worked in a secondary school |  |  |  |  |  |  | Past |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in otharlann | I worked in a hospital |  |  |  |  |  |  | Past |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in óstán | I worked in a hotel |  |  |  |  |  |  | Past |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i gcaife | I worked in a cafe |  |  |  |  |  |  | Past |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i mbialann | I worked in a restaurant |  |  |  |  |  |  | Past |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i ngaráiste | I worked in a garage |  |  |  |  |  |  | Past |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in ollmhargadh | I worked in a supermarket |  |  |  |  |  |  | Past |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i dteach tábhairne | I worked in a pub |  |  |  |  |  |  | Past |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i ngarraí | I worked in a garden |  |  |  |  |  |  | Past |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | TEMPLATE |  | Tá mé ag obair $IN_WORKPLACE i mBeal Feirste | I work $IN_WORKPLACE in Belfast |  |  |  |  |  |  | Present |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i monarcha i mBeal Feirste | I work in a factory in Belfast |  |  |  |  |  |  | Present |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in oifig i mBeal Feirste | I work in an office in Belfast |  |  |  |  |  |  | Present |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in scoil i mBeal Feirste | I work in a school in Belfast |  |  |  |  |  |  | Present |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i siopa i mBeal Feirste | I work in a shop in Belfast |  |  |  |  |  |  | Present |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i mbunscoil i mBeal Feirste | I work in a primary school in Belfast |  |  |  |  |  |  | Present |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i meánscoil i mBeal Feirste | I work in a secondary school in Belfast |  |  |  |  |  |  | Present |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in otharlann i mBeal Feirste | I work in a hospital in Belfast |  |  |  |  |  |  | Present |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in óstán i mBeal Feirste | I work in a hotel in Belfast |  |  |  |  |  |  | Present |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i gcaife i mBeal Feirste | I work in a cafe in Belfast |  |  |  |  |  |  | Present |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i mbialann i mBeal Feirste | I work in a restaurant in Belfast |  |  |  |  |  |  | Present |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i ngaráiste i mBeal Feirste | I work in a garage in Belfast |  |  |  |  |  |  | Present |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in ollmhargadh i mBeal Feirste | I work in a supermarket in Belfast |  |  |  |  |  |  | Present |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i dteach tábhairne i mBeal Feirste | I work in a pub in Belfast |  |  |  |  |  |  | Present |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i ngarraí i mBeal Feirste | I work in a garden in Belfast |  |  |  |  |  |  | Present |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | TEMPLATE |  | Beidh mé ag obair $IN_WORKPLACE i mBeal Feirste | I will work $IN_WORKPLACE in Belfast |  |  |  |  |  |  | Future |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i monarcha i mBeal Feirste | I will work in a factory in Belfast |  |  |  |  |  |  | Future |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair in oifig i mBeal Feirste | I will work in an office in Belfast |  |  |  |  |  |  | Future |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair in scoil i mBeal Feirste | I will work in a school in Belfast |  |  |  |  |  |  | Future |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i siopa i mBeal Feirste | I will work in a shop in Belfast |  |  |  |  |  |  | Future |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i mbunscoil i mBeal Feirste | I will work in a primary school in Belfast |  |  |  |  |  |  | Future |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i meánscoil i mBeal Feirste | I will work in a secondary school in Belfast |  |  |  |  |  |  | Future |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair in otharlann i mBeal Feirste | I will work in a hospital in Belfast |  |  |  |  |  |  | Future |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair in óstán i mBeal Feirste | I will work in a hotel in Belfast |  |  |  |  |  |  | Future |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i gcaife i mBeal Feirste | I will work in a cafe in Belfast |  |  |  |  |  |  | Future |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i mbialann i mBeal Feirste | I will work in a restaurant in Belfast |  |  |  |  |  |  | Future |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i ngaráiste i mBeal Feirste | I will work in a garage in Belfast |  |  |  |  |  |  | Future |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair in ollmhargadh i mBeal Feirste | I will work in a supermarket in Belfast |  |  |  |  |  |  | Future |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i dteach tábhairne i mBeal Feirste | I will work in a pub in Belfast |  |  |  |  |  |  | Future |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i ngarraí i mBeal Feirste | I will work in a garden in Belfast |  |  |  |  |  |  | Future |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | SENTENCE |  | tá mé neirbhíseach | i am nervous |  |  |  |  | taa may nervishoch |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | SHOP_TYPE | siopa bróg | shoe shop |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | SHOP_TYPE | siopa leabhar | bookshop |  |  |  |  | ta shopa loar agam |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | SHOP_TYPE | bácús | bakery |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD | SHOP_TYPE | teach lóistín | guesthouse |  |  |  |  | ...lostcheen... |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | TEMPLATE |  | Tá $SHOP_TYPE agam. | I have a $SHOP_TYPE. |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá siopa bróg agam. | I have a shoe shop. |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá siopa leabhar agam. | I have a bookshop. |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá bácús agam. | I have a bakery. |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá teach lóistín agam. | I have a guesthouse. |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | QUESTION |  | An maith leat do phost? | Do you like your job? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | QUESTION |  | An maith leat do chuid oibre? | Do you like your work? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | SENTENCE |  | Níl mé ag obair ... | I'm not working... |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | SENTENCE |  | Tá mé dífhostaithe... | I'm unemployed... |  |  |  |  | ..djee-ost-aha |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | WORD |  | ... faoi láthair. | ... at the moment (literal: present). |  |  |  |  | ..fee laher |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | SENTENCE |  | Tá mé éirithe as | I'm retired |  |  |  |  | ...airy-a ass |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | QUESTION |  | Cad é an post a bhí agat? | What job did you have? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | TEMPLATE |  | $JOB a bhí ionam | I was a $JOB |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | feirmeoir a bhí ionam | I was a farmer |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | siopadóir a bhí ionam | I was a shopkeeper |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | búistéir a bhí ionam | I was a butcher |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | meicneoir a bhí ionam | I was a mechanic |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir a bhí ionam | I was a teacher |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | rúnaí a bhí ionam | I was a secretary |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | oibrí monarchan a bhí ionam | I was a factory worker |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | banaltra a bhí ionam | I was a nurse |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | dochtúir a bhí ionam | I was a doctor |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | tiománaí a bhí ionam | I was a driver |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | bainisteoir a bhí ionam | I was a manager |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | freastalaí a bhí ionam | I was a waiter |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | tógálaí a bhí ionam | I was a builder |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | siúinéir a bhí ionam | I was a carpenter |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | bean tí a bhí ionam | I was a housewife |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | leictreoir a bhí ionam | I was a electrician |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | iascaire a bhí ionam | I was a fisherman |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir a bhí ionam | I was a engineer |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir ríomhaireachta a bhí ionam | I was a computer engineer |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | ríomhchláraitheoir a bhí ionam | I was a programmer |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | aisteoir a bhí ionam | I was a actor |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir bunscoile a bhí ionam | I was a primary school teacher |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir meánscoile a bhí ionam | I was a secondary school teacher |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | SENTENCE |  | Ba mhúinteoir mé. | I was a teacher. |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | SENTENCE |  | Ba mheicneoir mé. | I was a mechanic |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | SENTENCE |  | Ba dhochtúir mé. | I was a doctor |  |  |  |  | ba gochter ma |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | SENTENCE |  | Ba banaltra mé. | I was a nurse |  |  |  |  | ba gochter ma |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | SENTENCE |  | B'oibrí monarchan mé. | I was a factory worker |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | SENTENCE |  | B'fheirmeoir mé. | I was a farmer |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | TEMPLATE |  | An $JOB tú? | Are you a $JOB? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An feirmeoir tú? | Are you a farmer? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An siopadóir tú? | Are you a shopkeeper? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An búistéir tú? | Are you a butcher? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An meicneoir tú? | Are you a mechanic? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An múinteoir tú? | Are you a teacher? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An rúnaí tú? | Are you a secretary? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An oibrí monarchan tú? | Are you a factory worker? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An banaltra tú? | Are you a nurse? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An dochtúir tú? | Are you a doctor? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An tiománaí tú? | Are you a driver? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An bainisteoir tú? | Are you a manager? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An freastalaí tú? | Are you a waiter? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An tógálaí tú? | Are you a builder? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An siúinéir tú? | Are you a carpenter? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An bean tí tú? | Are you a housewife? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An leictreoir tú? | Are you a electrician? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An iascaire tú? | Are you a fisherman? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An innealtóir tú? | Are you a engineer? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An innealtóir ríomhaireachta tú? | Are you a computer engineer? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An ríomhchláraitheoir tú? | Are you a programmer? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An aisteoir tú? | Are you a actor? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An múinteoir bunscoile tú? | Are you a primary school teacher? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An múinteoir meánscoile tú? | Are you a secondary school teacher? |  |  |  |  |  |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | SENTENCE |  | Is ea. | Yes (I am). |  |  |  |  | sha?? or ish-aa?? |  |  |
-| Now You're Talking | 8 | DISCUSSING JOBS |  | SENTENCE |  | Ní hea. | No (I'm not). |  |  |  |  | nee ha |  |  |
-
-## Now You're Talking - GIVING ORDERS AND INSTRUCTIONS
+## Irish on your own - ORDERING DRINKS
 
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | AG TABHAIRT ORDUITHE AGUS TREORACHA | GIVING ORDERS AND INSTRUCTIONS |  |  |  |  | ag torch ord-iha agus troar-aha |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Tar isteach. | Come in |  | s |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Tagaigí isteach. | Come in |  | p |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Taraigí isteach. | Come in |  | p |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | síos | down |  | s |  |  | shees |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Suigh síos. | sit down |  | s |  |  | see shees |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Suígí síos. | sit down |  | p |  |  | see-gee shees |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Coimhéad! | Look out! or Be careful! |  | s |  |  | cuv-ahd |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Coimhéadaigí! | Look out! or Be careful! |  | p |  |  | cuv-ahd-igi |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Coimhéad an leoraí | mind the lorry |  |  |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Coimhéad an phéint! | Mind the paint! |  |  |  |  | cuv-ahd an faint |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Fan bomaite. | Wait a minute. |  | s |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Fanaigí bomaite. | Wait a minute. |  | p |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Stad! | Stop! |  | s |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Stadaigí! | Stop! |  | p |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Ná déan sin. | Don't do that. |  | s |  |  | na jen sin |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Ná déanaigí sin. | Don't do that. |  | p |  |  | na jenigi sin |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Ná déan seo. | Don't do this. |  |  |  |  | na jen shaw |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Ciúnas! | Quiet!/Silence |  | s |  |  | cuoonyis |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Ciúnigí! | Quiet!/Silence |  | p |  |  | cuoonigee |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Bí ciúin! | Be quiet! |  | s |  |  | be cue-in |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Bígí ciúin! | Be quiet! |  | p |  |  | bigee cue-in |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Bí suaimhneach! | Be quiet! |  | s |  |  | be swinna |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Bígí suaimhneach! | Be quiet! |  | p |  |  | bigee swinna |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | le do thoil | please |  | s |  |  | le de hull |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | le bhur dtoil | please |  | p |  |  | le wer dul |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Fan socair! | Stay quiet! |  | s |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Fanaigí socair! | Stay quiet! |  | p |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Gabh amach! | Get out! |  | s |  |  | go amak (throaty k) |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Gabhaigí amach! | Get out! |  | p |  |  | gogi amak (throaty k) |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Imigh leat! | Away you go (in nice way).  Go away! (in strong voice) |  | s |  |  | immee lat |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Imigí libh! | Away you go (in nice way).  Go away! (in strong voice) |  | p |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Lean ort. | Carry on. |  | s |  |  | lan ort |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Leanaigí oraibh. | Carry on. |  | p |  |  | lanigi oriv |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Tar anseo. | Come here. |  | s |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Tagaigí anseo. | Come here. |  | p |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Taraigí anseo. | Come here. |  | p |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Goitse. | Come here. |  | s |  |  | gutcha |  | Goitse can also be used when you are leaving and when you want someone to come with you. |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Goitsigí | Come here |  | p |  |  | gutchigi |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Goitse. | Come on. |  |  |  |  | gutcha |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Druid an doras. | Shut the door. |  | s |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Druidigí an doras. | Shut the door. |  | p |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Oscail an fhuinneog. | Open the window. |  | s |  |  |  |  | In Donegal an f is placed before oscail in everyday speech but it is generally not written. |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Osclaígí an fhuinneog. | Open the window. |  | p |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Gabh a luí. | Go to bed. |  | s |  |  | go a lee |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Gabhaigí a luí. | Go to bed. |  | p |  |  | go-gee a lee |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Gabh a chodladh. | Go to sleep. |  | s |  |  | go a haw-loo??? |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Éirigh! | Get up! |  | s |  |  | ear-ee |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Éirígí! | Get up! |  | p |  |  | ear-igi |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Déan deifir! | Hurry up! |  | s |  |  | Jen jeffer or Jen jeffra |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Déanaigí deifir! | Hurry up! |  | p |  |  | Jenigy jeffer or Jenigy jeffra |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | ní thig liom | i can't |  |  |  |  | nee hig liom |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Tá deifir orm | I am in a hurry |  |  |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | tá sibh mall | you're late |  | p |  |  |  |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | bean éigin | some woman |  |  |  |  | ban ay-gan |  |  |
-| Now You're Talking | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Coimhéad tú féin | Look out yourself |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD |  | ordú | order |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD |  | ag ordú | ordering |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD |  | deochanna | drinks |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD |  | ag ordú deochanna | ordering drinks |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD |  | cupa | a cup |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD |  | muga | a mug |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD |  | pota | a pot |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD |  | gloine | a glass |  |  |  |  | glinnye |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD |  | pionta | a pint |  |  |  |  | pinta |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD |  | leathphionta | half a pint |  |  |  |  | le-finta |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD |  | buidéal | a bottle |  |  |  |  | bawdjel |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | caife | coffee |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | caife dubh | black coffee |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | caife bán | white coffee |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | tae | tea |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | tae láidir | strong tea |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | tae lag | weak tea |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | sú oráiste | orange juice |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | uisce | water |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | beoir | beer |  |  |  |  | byor |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | fíon bán | white wine |  |  |  |  | fee-in baan |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | fíon dearg | red wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | fíon súilíneach | sparkling wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | fíon géal | bright (white) wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | fíon bandearg | pink (rosé) wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | uisce beatha | whiskey |  |  |  |  | ishka beh-ha |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | sceallógaí | chips |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | briosca | a biscuit |  |  |  |  | briska |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | bágún | bacon |  |  |  |  | baa-gun |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | pota tae | a pot of tea |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | gloine uisce | a glass of water |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | gloine fíon | a glass of wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | gloine gin | a glass of gin |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | pionta beorach | a pint of beer |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | cupa tae | cup of tea |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | bainne | milk |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | tae le bainne | tea with milk |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | leac oighir | ice |  |  |  |  | lack eye-er |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | uachtar reoite | ice cream |  |  |  |  | wechtar rawtcha |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | ceapaire | sandwich |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | milseáin | sweets |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | úll | apple |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | cuidiú | help |  |  |  |  | coodjoo |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | siúcra | sugar |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT | briosca | biscuit |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | WORD | WHAT_YOU_WANT2 | phionta | pint |  |  |  |  | pinta |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é ba mhaith leat? | What would you like? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é ba mhaith leatsa? | What would *you* like? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é ba mhaith libh? | What would you like? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é atá de dhíth ort? | What do you want? |  | s |  |  |  |  | You can use the following when addressing a friend or family member: |
+| Irish on your own | 6 | ORDERING DRINKS |  | QUESTION |  | Cad é atá de dhíth oraibh? | What do you want?  |  | p |  |  |  |  | You can use the following when addressing a friend or family member: |
+| Irish on your own | 6 | ORDERING DRINKS |  | TEMPLATE |  | Ba mhaith liom $WHAT_YOU_WANT | I'd like $WHAT_YOU_WANT |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom deoch | I'd like drink |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom caife | I'd like coffee |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom caife dubh | I'd like black coffee |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom caife bán | I'd like white coffee |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom tae | I'd like tea |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom tae láidir | I'd like strong tea |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom tae lag | I'd like weak tea |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom sú oráiste | I'd like orange juice |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom uisce | I'd like water |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom beoir | I'd like beer |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom fíon bán | I'd like white wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom fíon dearg | I'd like red wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom fíon súilíneach | I'd like sparkling wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom fíon géal | I'd like bright (white) wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom fíon bandearg | I'd like pink (rosé) wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom uisce beatha | I'd like whiskey |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom sceallógaí | I'd like chips |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom briosca | I'd like a biscuit |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom bágún | I'd like bacon |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom pota tae | I'd like a pot of tea |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom gloine uisce | I'd like a glass of water |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom gloine fíon | I'd like a glass of wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom gloine gin | I'd like a glass of gin |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom pionta beorach | I'd like a pint of beer |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom cupa tae | I'd like cup of tea |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom bainne | I'd like milk |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom tae le bainne | I'd like tea with milk |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom leac oighir | I'd like ice |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom uachtar reoite | I'd like ice cream |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom ceapaire | I'd like sandwich |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom milseáin | I'd like sweets |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom úll | I'd like apple |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom cuidiú | I'd like help |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom siúcra | I'd like sugar |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ba mhaith liom briosca | I'd like biscuit |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | SENTENCE |  | Ba mhaith liom ag dul amach | I'd like to go out |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | TEMPLATE |  | $WHAT_YOU_WANT domhsa. | $WHAT_YOU_WANT for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | deoch domhsa. | drink for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | caife domhsa. | coffee for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | caife dubh domhsa. | black coffee for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | caife bán domhsa. | white coffee for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | tae domhsa. | tea for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | tae láidir domhsa. | strong tea for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | tae lag domhsa. | weak tea for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | sú oráiste domhsa. | orange juice for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | uisce domhsa. | water for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | beoir domhsa. | beer for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon bán domhsa. | white wine for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon dearg domhsa. | red wine for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon súilíneach domhsa. | sparkling wine for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon géal domhsa. | bright (white) wine for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon bandearg domhsa. | pink (rosé) wine for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | uisce beatha domhsa. | whiskey for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | sceallógaí domhsa. | chips for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | briosca domhsa. | a biscuit for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | bágún domhsa. | bacon for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | pota tae domhsa. | a pot of tea for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | gloine uisce domhsa. | a glass of water for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | gloine fíon domhsa. | a glass of wine for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | gloine gin domhsa. | a glass of gin for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | pionta beorach domhsa. | a pint of beer for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | cupa tae domhsa. | cup of tea for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | bainne domhsa. | milk for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | tae le bainne domhsa. | tea with milk for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | leac oighir domhsa. | ice for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | uachtar reoite domhsa. | ice cream for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | ceapaire domhsa. | sandwich for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | milseáin domhsa. | sweets for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | úll domhsa. | apple for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | cuidiú domhsa. | help for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | siúcra domhsa. | sugar for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | briosca domhsa. | biscuit for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | QUESTION |  | Rud ar bith eile? | Anything else? |  |  |  |  | Rud ar bee ella? |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | PHRASE |  | ... le do thoil. | ... please. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | SENTENCE |  | Go raibh maith agat. | Thank you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | SENTENCE |  | Maith thú. | good on you/well done |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | SENTENCE |  | Tá fáilte romhat | You're welcome |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | SENTENCE |  | Tá fáilte romhaibh | You're welcome |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | QUESTION |  | An dtógann tú bainne? | Do you take milk? |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | QUESTION |  | An dtógann tú siúcra? | Do you take sugar? |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | SENTENCE |  | Tógaim. | I do. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | SENTENCE |  | Ní thógaim. | I don't. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | TEMPLATE |  | Ar mhaith leat $WHAT_YOU_WANT? | Would you like $WHAT_YOU_WANT? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat deoch? | Would you like drink? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat caife? | Would you like coffee? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat caife dubh? | Would you like black coffee? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat caife bán? | Would you like white coffee? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat tae? | Would you like tea? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat tae láidir? | Would you like strong tea? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat tae lag? | Would you like weak tea? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat sú oráiste? | Would you like orange juice? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat uisce? | Would you like water? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat beoir? | Would you like beer? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat fíon bán? | Would you like white wine? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat fíon dearg? | Would you like red wine? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat fíon súilíneach? | Would you like sparkling wine? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat fíon géal? | Would you like bright (white) wine? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat fíon bandearg? | Would you like pink (rosé) wine? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat uisce beatha? | Would you like whiskey? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat sceallógaí? | Would you like chips? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat briosca? | Would you like a biscuit? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat bágún? | Would you like bacon? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat pota tae? | Would you like a pot of tea? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat gloine uisce? | Would you like a glass of water? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat gloine fíon? | Would you like a glass of wine? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat gloine gin? | Would you like a glass of gin? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat pionta beorach? | Would you like a pint of beer? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat cupa tae? | Would you like cup of tea? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat bainne? | Would you like milk? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat tae le bainne? | Would you like tea with milk? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat leac oighir? | Would you like ice? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat uachtar reoite? | Would you like ice cream? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat ceapaire? | Would you like sandwich? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat milseáin? | Would you like sweets? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat úll? | Would you like apple? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat cuidiú? | Would you like help? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat siúcra? | Would you like sugar? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith leat briosca? | Would you like biscuit? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | TEMPLATE |  | Ar mhaith libh $WHAT_YOU_WANT? | Would you like $WHAT_YOU_WANT? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh deoch? | Would you like drink? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh caife? | Would you like coffee? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh caife dubh? | Would you like black coffee? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh caife bán? | Would you like white coffee? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh tae? | Would you like tea? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh tae láidir? | Would you like strong tea? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh tae lag? | Would you like weak tea? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh sú oráiste? | Would you like orange juice? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh uisce? | Would you like water? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh beoir? | Would you like beer? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh fíon bán? | Would you like white wine? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh fíon dearg? | Would you like red wine? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh fíon súilíneach? | Would you like sparkling wine? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh fíon géal? | Would you like bright (white) wine? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh fíon bandearg? | Would you like pink (rosé) wine? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh uisce beatha? | Would you like whiskey? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh sceallógaí? | Would you like chips? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh briosca? | Would you like a biscuit? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh bágún? | Would you like bacon? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh pota tae? | Would you like a pot of tea? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh gloine uisce? | Would you like a glass of water? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh gloine fíon? | Would you like a glass of wine? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh gloine gin? | Would you like a glass of gin? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh pionta beorach? | Would you like a pint of beer? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh cupa tae? | Would you like cup of tea? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh bainne? | Would you like milk? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh tae le bainne? | Would you like tea with milk? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh leac oighir? | Would you like ice? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh uachtar reoite? | Would you like ice cream? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh ceapaire? | Would you like sandwich? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh milseáin? | Would you like sweets? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh úll? | Would you like apple? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh cuidiú? | Would you like help? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh siúcra? | Would you like sugar? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Ar mhaith libh briosca? | Would you like biscuit? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | SENTENCE |  | Ba mhaith. | Yes (I would). |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | SENTENCE |  | Níor mhaith. | No (I wouldn't). |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | SENTENCE |  | B'fhearr ... | I'd prefer ... |  |  |  |  | bear... |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | TEMPLATE |  | B'fhearr liom $WHAT_YOU_WANT | I'd prefer $WHAT_YOU_WANT |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom deoch | I'd prefer drink |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom caife | I'd prefer coffee |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom caife dubh | I'd prefer black coffee |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom caife bán | I'd prefer white coffee |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom tae | I'd prefer tea |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom tae láidir | I'd prefer strong tea |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom tae lag | I'd prefer weak tea |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom sú oráiste | I'd prefer orange juice |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom uisce | I'd prefer water |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom beoir | I'd prefer beer |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom fíon bán | I'd prefer white wine |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom fíon dearg | I'd prefer red wine |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom fíon súilíneach | I'd prefer sparkling wine |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom fíon géal | I'd prefer bright (white) wine |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom fíon bandearg | I'd prefer pink (rosé) wine |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom uisce beatha | I'd prefer whiskey |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom sceallógaí | I'd prefer chips |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom briosca | I'd prefer a biscuit |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom bágún | I'd prefer bacon |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom pota tae | I'd prefer a pot of tea |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom gloine uisce | I'd prefer a glass of water |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom gloine fíon | I'd prefer a glass of wine |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom gloine gin | I'd prefer a glass of gin |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom pionta beorach | I'd prefer a pint of beer |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom cupa tae | I'd prefer cup of tea |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom bainne | I'd prefer milk |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom tae le bainne | I'd prefer tea with milk |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom leac oighir | I'd prefer ice |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom uachtar reoite | I'd prefer ice cream |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom ceapaire | I'd prefer sandwich |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom milseáin | I'd prefer sweets |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom úll | I'd prefer apple |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom cuidiú | I'd prefer help |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom siúcra | I'd prefer sugar |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | B'fhearr liom briosca | I'd prefer biscuit |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | SENTENCE |  | Sláinte! | Cheers! |  |  |  | Health! |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | SENTENCE |  | Sláinte mhór | Cheers (response??) |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | TEMPLATE |  | $WHAT_YOU_WANT duitse. | $WHAT_YOU_WANT for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | deoch duitse. | drink for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | caife duitse. | coffee for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | caife dubh duitse. | black coffee for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | caife bán duitse. | white coffee for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | tae duitse. | tea for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | tae láidir duitse. | strong tea for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | tae lag duitse. | weak tea for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | sú oráiste duitse. | orange juice for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | uisce duitse. | water for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | beoir duitse. | beer for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon bán duitse. | white wine for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon dearg duitse. | red wine for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon súilíneach duitse. | sparkling wine for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon géal duitse. | bright (white) wine for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | fíon bandearg duitse. | pink (rosé) wine for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | uisce beatha duitse. | whiskey for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | sceallógaí duitse. | chips for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | briosca duitse. | a biscuit for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | bágún duitse. | bacon for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | pota tae duitse. | a pot of tea for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | gloine uisce duitse. | a glass of water for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | gloine fíon duitse. | a glass of wine for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | gloine gin duitse. | a glass of gin for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | pionta beorach duitse. | a pint of beer for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | cupa tae duitse. | cup of tea for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | bainne duitse. | milk for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | tae le bainne duitse. | tea with milk for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | leac oighir duitse. | ice for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | uachtar reoite duitse. | ice cream for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | ceapaire duitse. | sandwich for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | milseáin duitse. | sweets for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | úll duitse. | apple for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | cuidiú duitse. | help for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | siúcra duitse. | sugar for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | briosca duitse. | biscuit for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | TEMPLATE |  | Seo do $WHAT_YOU_WANT2 | Here's your $WHAT_YOU_WANT2 |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | DYNAMIC |  | Seo do phionta | Here's your pint |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | SENTENCE |  | Sláinte mhaith agat i bhfad ó bhrón. | Good health, free from sorrow. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | SENTENCE |  | Sláinte do bheo agus tróicaire do mharbh. | Health to the living and mercy on the dead. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | SENTENCE |  | Go mba fada a mhairfidh tú. | Long life to you |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | QUESTION |  | An ólann tú caife? | Do you drink coffee? |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | SENTENCE |  | Ólaim. | Yes/I drink |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS |  | SENTENCE |  | Ní ólaim | No/I don't drink |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS | Additional | SENTENCE |  | Cad é ba mhaith leat a ól? | What would you like to drink? |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS | Additional | SENTENCE |  | Ar mhaith leat Coke? | Would you like coke? |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS | Additional | SENTENCE |  | Cad é ba mhaith leat a ól leis an dinnéar? | What would you like to drink with dinner? |  |  |  |  |  |  |  |
+| Irish on your own | 6 | ORDERING DRINKS | Additional | SENTENCE |  | Cad é ba mhaith leat a ól leis do dhinnéar? | What would you like to drink with your dinner? |  |  |  |  |  |  |  |
 
-## Now You're Talking - Family1
-
-| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Now You're Talking | 10 | Family1 |  | WORD |  | fear | man |  |  |  |  | faar |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | an fhear | the man |  |  |  |  | an aar |  | ??? |
-| Now You're Talking | 10 | Family1 |  | WORD |  | fir | men |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | bean | woman |  |  |  |  | ban |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | an bhean | the woman |  |  |  |  | an van |  | Feminine noun needs lenited |
-| Now You're Talking | 10 | Family1 |  | WORD |  | mná | women |  |  |  |  | mnaw? |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | céile | spouse |  |  |  |  | kayla |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | fear céile | husband |  |  |  | man spouse | far kayla |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | bean chéile | wife |  |  |  | woman spouse | ban hayla |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | teaghlach | family (as a whole including parents) |  |  |  |  | chay-la |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | an teaghlach | the family (as a whole including parents) |  |  |  |  | an chay-la |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | cuid | part |  |  |  |  | cudge |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | cuid a haon | part one |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá mé pósta. | I'm married. |  |  |  |  | taa meh pawsta |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Níl mé pósta. | I'm not married. |  |  |  |  | nil meh pawsta |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá mé singil. | I'm single. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá mé geallta. | I'm engaged. |  |  |  |  | ...galta |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá mé scartha | I'm separated |  |  |  |  | taa meh scarha |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá mé scartha ó mo bhean (chéile). | I'm separated from my wife. |  |  |  |  | o mo van hayla |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá mé scartha ó m'fhear (céile). | I'm separated from my husband. |  |  |  |  | o mar kayla |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Is baintreach mé. | I'm a widow/widower. |  |  |  |  | is bantrack (thoaty ck) meh |  |  |
-| Now You're Talking | 10 | Family1 |  | QUESTION |  | An bhfuil tú pósta? | Are you married? |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | QUESTION |  | An bhfuil tusa pósta? | Are *you* married? |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | QUESTION |  | An bhfuil tu féin pósta? | Are you married yourself? |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá. | Yes. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Níl. | No. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Níl go fóill. | Not yet. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | páiste | child |  |  |  |  | peh-steh |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | páistí | children |  |  |  |  | peh-stee |  |  |
-| Now You're Talking | 10 | Family1 |  | QUESTION |  | An bhfuil clann agat? | Have you children? |  | s |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | QUESTION |  | An bhfuil clann agaibh? | Have you children? |  | p |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | QUESTION |  | An bhfuil clann agat féin? | Have you children yourself? |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | QUESTION |  | An bhfuil páistí agat? | Have you children? |  | s |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | QUESTION |  | An bhfuil páistí agaibh? | Have you children? |  | p |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá. | Yes. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Níl. | No. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá clann agam. | I have children. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá clann againn. | We have children. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | mac | a son |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | iníon | a daughter |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá mac agam. | I have a son. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá iníon agam. | I have a daughter. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Níl clann ar bith agam. | I have no children at all. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Níl clann ar bith againn. | We have no children at all. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Níl páistí ar bith agam. | I have no children at all. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Níl páistí ar bith againn. | We have no children at all. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá mé ag súil le páiste. | I'm expecting a child. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá mé ag súil le leanbh. | I'm expecting a baby. |  |  |  |  | ..ag sool le lanoo |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá mé torrach. | I'm pregnant. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | ticéad (thieéad) | ticket |  |  |  |  | ticid(hicid) |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | cailín | girl |  |  |  |  | cal-een |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | cailíní | girls |  |  |  |  | cal-eeny |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | girseach | girl |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | girseachaí | girls |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | buachaill | boy |  |  |  |  | bohill or byu-kal (throaty k) |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | buachaillí | boys |  |  |  |  | bohilly or byu-kali (throaty k) |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | gasúr | boy |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | gasúraí | boys |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | QUESTION |  | Cad é mar atá do chlann? | How are your children? |  | s |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | QUESTION |  | Cad é mar atá do chuid páistí? | How are your children? |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | QUESTION |  | Cad é mar atá do chlannsa? | How are *your* children? |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | QUESTION |  | Cad é mar atá do chuid *páistíse*? | How are *your* children? |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | QUESTION |  | Tá siad go maith | They are good. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | mo | my |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | do | your |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | a | his |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | a | her |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | ár | our |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | bhur | your |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | a | their |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | mo mhac | my son |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | do mhac | your son |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | m'iníon | my daughter |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | a iníon | his/her/their daughter |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | bhur n-iníon | your daughter |  | p |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | do mháthair | your mother |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | d'athair | you father |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | a hathair | her father |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | ár n-athair | our father |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | a n-athair | their father |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | a bhean | his woman? |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | a fear | her man |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | ár bpáistí | our children |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | bhur gclann | your clan/children |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | a bpáistí | their children |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | mo chlann | my clan/children |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | do chlann | your children |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | mo mhacsa | *my* son |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | do mhacsa | *your* son |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | do mháthairse | *your* mother |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | d'iníonsa | *your* daughter |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | QUESTION |  | Cá mhéad páiste atá agat? | How many children have you? |  |  |  |  | Ca vhead pawstee ataa agat? |  | Note that the singular form of the noun is used after Cá mhéad? |
-| Now You're Talking | 10 | Family1 |  | QUESTION |  | Cá mhéad cáilín atá agat? | How many girls have you? |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | QUESTION |  | Cá mhéad duine? | How many people? |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | lón inniu | lunch today |  |  |  |  | loan in-nu |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | meánlae | midday |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD |  | an chéad Aibreán | first of april |  |  |  |  | an chid A-ibrin |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_PEOPLE | duine amháin | one (person) |  |  |  |  | dinye awan |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_PEOPLE | beirt | two (people) |  |  |  |  | birch |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_PEOPLE | triúr | three (people) |  |  |  |  | true-er |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_PEOPLE | ceathrar | four (people) |  |  |  |  | cah-rer |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_PEOPLE | cúigear | five (people) |  |  |  |  | cooiger |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_PEOPLE | seisear | six (people) |  |  |  |  | shesher |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_PEOPLE | seachtar | seven (people) |  |  |  |  | shocktar |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_PEOPLE | ochtar | eight (people) |  |  |  |  | oktar |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_PEOPLE | naonúr | nine (people) |  |  |  |  | neenar |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_PEOPLE | deichniúr | ten (people) |  |  |  |  | djenur |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_CHILDREN | páiste amháin | one child |  |  |  |  | dinye awan |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_CHILDREN | beirt pháistí | two children |  |  |  |  | birch |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_CHILDREN | triúr páistí | three children |  |  |  |  | true-er |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_CHILDREN | ceathrar páistí | four children |  |  |  |  | cah-rer |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_CHILDREN | cúigear páistí | five children |  |  |  |  | cooiger |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_CHILDREN | seisear páistí | six children |  |  |  |  | shesher |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_CHILDREN | seachtar páistí | seven children |  |  |  |  | shocktar |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_CHILDREN | ochtar páistí | eight children |  |  |  |  | oktar |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_CHILDREN | naonúr páistí | nine children |  |  |  |  | neenar |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_CHILDREN | deichniúr páistí | ten children |  |  |  |  | djenur |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_SONS | mac amháin | one son |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_SONS | beirt mhac | two sons |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_SONS | triúr mac | three sons |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_DAUGHTERS | triúr iníonacha | three daughters |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_DAUGHTERS | seisear iníonacha | six girls |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_BOYS | ceathrar buachaillí | four boys |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_GIRLS | beirt chailíní | two girls |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | WORD | NUM_GIRLS | cúigear cailíní | five girls |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_CHILDREN agam. | I have $NUM_CHILDREN. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá páiste amháin agam. | I have one child. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá beirt pháistí agam. | I have two children. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá triúr páistí agam. | I have three children. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar páistí agam. | I have four children. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá cúigear páistí agam. | I have five children. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá seisear páistí agam. | I have six children. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá seachtar páistí agam. | I have seven children. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá ochtar páistí agam. | I have eight children. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá naonúr páistí agam. | I have nine children. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá deichniúr páistí agam. | I have ten children. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_SONS agam. | I have $NUM_SONS. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá mac amháin agam. | I have one son. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá beirt mhac agam. | I have two sons. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá triúr mac agam. | I have three sons. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_DAUGHTERS agam. | I have $NUM_DAUGHTERS. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá triúr iníonacha agam. | I have three daughters. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá seisear iníonacha agam. | I have six girls. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_BOYS agam. | I have $NUM_BOYS. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar buachaillí agam. | I have four boys. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_GIRLS agam. | I have $NUM_GIRLS. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá beirt chailíní agam. | I have two girls. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá cúigear cailíní agam. | I have five girls. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | NOUN | SCHOOL_TYPE | scoil | school |  |  |  |  | skull |  |  |
-| Now You're Talking | 10 | Family1 |  | NOUN | SCHOOL_TYPE | naíonra | playschool |  |  |  |  | neenra |  |  |
-| Now You're Talking | 10 | Family1 |  | NOUN | SCHOOL_TYPE | naíscoil | nursery school |  |  |  |  | nee-skull |  |  |
-| Now You're Talking | 10 | Family1 |  | NOUN | SCHOOL_TYPE | bunscoil | primary school |  |  |  |  | bun-skull |  |  |
-| Now You're Talking | 10 | Family1 |  | NOUN | SCHOOL_TYPE | meánscoil | secondary school |  |  |  |  | man-skull |  |  |
-| Now You're Talking | 10 | Family1 |  | NOUN | SCHOOL_TYPE | ollscoil | university |  |  |  |  | ol-skull |  |  |
-| Now You're Talking | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu sa naíonra. | $NUM_PEOPLE of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá duine amháin acu sa naíonra. | one (person) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá beirt acu sa naíonra. | two (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá triúr acu sa naíonra. | three (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar acu sa naíonra. | four (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá cúigear acu sa naíonra. | five (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá seisear acu sa naíonra. | six (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá seachtar acu sa naíonra. | seven (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá ochtar acu sa naíonra. | eight (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá naonúr acu sa naíonra. | nine (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá deichniúr acu sa naíonra. | ten (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
-| Now You're Talking | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an scoil. | $NUM_PEOPLE of them are at school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an scoil. | one (person) of them are at school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá beirt acu ar an scoil. | two (people) of them are at school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá triúr acu ar an scoil. | three (people) of them are at school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar acu ar an scoil. | four (people) of them are at school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá cúigear acu ar an scoil. | five (people) of them are at school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá seisear acu ar an scoil. | six (people) of them are at school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá seachtar acu ar an scoil. | seven (people) of them are at school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an scoil. | eight (people) of them are at school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an scoil. | nine (people) of them are at school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an scoil. | ten (people) of them are at school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an naíscoil. | $NUM_PEOPLE of them are at nursery school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an naíscoil. | one (person) of them are at nursery school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá beirt acu ar an naíscoil. | two (people) of them are at nursery school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá triúr acu ar an naíscoil. | three (people) of them are at nursery school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar acu ar an naíscoil. | four (people) of them are at nursery school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá cúigear acu ar an naíscoil. | five (people) of them are at nursery school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá seisear acu ar an naíscoil. | six (people) of them are at nursery school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá seachtar acu ar an naíscoil. | seven (people) of them are at nursery school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an naíscoil. | eight (people) of them are at nursery school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an naíscoil. | nine (people) of them are at nursery school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an naíscoil. | ten (people) of them are at nursery school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an bhunscoil. | $NUM_PEOPLE of them are at primary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an bhunscoil. | one (person) of them are at primary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá beirt acu ar an bhunscoil. | two (people) of them are at primary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá triúr acu ar an bhunscoil. | three (people) of them are at primary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar acu ar an bhunscoil. | four (people) of them are at primary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá cúigear acu ar an bhunscoil. | five (people) of them are at primary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá seisear acu ar an bhunscoil. | six (people) of them are at primary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá seachtar acu ar an bhunscoil. | seven (people) of them are at primary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an bhunscoil. | eight (people) of them are at primary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an bhunscoil. | nine (people) of them are at primary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an bhunscoil. | ten (people) of them are at primary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an mheánscoil. | $NUM_PEOPLE of them are at secondary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an mheánscoil. | one (person) of them are at secondary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá beirt acu ar an mheánscoil. | two (people) of them are at secondary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá triúr acu ar an mheánscoil. | three (people) of them are at secondary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar acu ar an mheánscoil. | four (people) of them are at secondary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá cúigear acu ar an mheánscoil. | five (people) of them are at secondary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá seisear acu ar an mheánscoil. | six (people) of them are at secondary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá seachtar acu ar an mheánscoil. | seven (people) of them are at secondary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an mheánscoil. | eight (people) of them are at secondary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an mheánscoil. | nine (people) of them are at secondary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an mheánscoil. | ten (people) of them are at secondary school. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an ollscoil. | $NUM_PEOPLE of them are at university. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an ollscoil. | one (person) of them are at university. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá beirt acu ar an ollscoil. | two (people) of them are at university. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá triúr acu ar an ollscoil. | three (people) of them are at university. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar acu ar an ollscoil. | four (people) of them are at university. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá cúigear acu ar an ollscoil. | five (people) of them are at university. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá seisear acu ar an ollscoil. | six (people) of them are at university. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá seachtar acu ar an ollscoil. | seven (people) of them are at university. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an ollscoil. | eight (people) of them are at university. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an ollscoil. | nine (people) of them are at university. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an ollscoil. | ten (people) of them are at university. |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá sé sa naíonra | He is in the playschool. |  |  |  |  | ...ar an whunskull |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá Síle ar an scoil. | Síle is at school. |  |  |  |  | ...ar an whunskull |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá Síle ar an naíscoil. | Síle is at nursery school. |  |  |  |  | ...ar an whunskull |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá Síle ar an bhunscoil. | Síle is at primary school. |  |  |  |  | ...ar an whunskull |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá Aodh ar an mheánscoil. | Aodh is at secondary school. |  |  |  |  | ...vanskull??? |  |  |
-| Now You're Talking | 10 | Family1 |  | SENTENCE |  | Tá Nóra ar an ollscoil. | Nóra is at university. |  |  |  |  | ..ol-skull |  |  |
-| Now You're Talking | 10 | Family1 | Additional | WORD |  | bun | bottom |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 | Additional | WORD |  | meán | méanmide |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 | Additional | WORD |  | ard | high |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 | Additional | WORD |  | rang | class |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 | Additional | WORD |  | bunrang | bottom class |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 | Additional | WORD |  | meánrang | average class |  |  |  |  |  |  |  |
-| Now You're Talking | 10 | Family1 | Additional | WORD |  | ardrang | high class |  |  |  |  |  |  |  |
-
-## Now You're Talking - SAYING WHAT YOU DID
-
-| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | NOUN |  | seachtain | week |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | NOUN |  | deireadh | end |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD |  | an deireadh seachtaine | the weekend |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | ag an deireadh seachtaine | at the weekend |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | inniú | today |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | inné | yesterday |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | arú inné | the day before yesterday |  |  |  |  | aroo inyay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | aréir | last night |  |  |  |  | a-rare |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | arú aréir | the night before last |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | maidin inné | yesterday morning |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | maidin inniú | this morning |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | NOUN |  | bainis | wedding (ceremony) |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD |  | Ag rothaíocht | cycling |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | NOUN |  | scannán | film |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | NOUN |  | ceolchoirm | concert |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | NOUN |  | coirm cheoil | concert |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | NOUN |  | mí | month |  |  |  |  | mee (vee) |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | trí mhí | three months |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | NOUN |  | liathróid | ball |  |  |  |  | La-hridge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD |  | Ag aisteoireacht | acting |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cá háit? | Where? |  |  |  |  | Ca hatch? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cá háit a ndeachaigh* tú? | Where did you go? |  | s |  |  | Ca hatch a dja-ha too? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cá háit a ndeachaigh* sibh? | Where did you go? |  | p |  |  | Ca hatch a dja-ha shiv $RECENT_PERIODS? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | Cá háit a ndeachaigh* tú $RECENT_PERIODS? | Where did you go $RECENT_PERIODS? |  |  |  |  | Ca hatch a dja-ha too $RECENT_PERIODS? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú ag an deireadh seachtaine? | Where did you go at the weekend? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú inniú? | Where did you go today? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú inné? | Where did you go yesterday? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú arú inné? | Where did you go the day before yesterday? |  |  |  |  | Ca hatch a dja-ha too aroo inyay? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú aréir? | Where did you go last night? |  |  |  |  | Ca hatch a dja-ha too a-rare? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú arú aréir? | Where did you go the night before last? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú maidin inné? | Where did you go yesterday morning? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú maidin inniú? | Where did you go this morning? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | Cad é a rinne tú $RECENT_PERIODS? | What did you do $RECENT_PERIODS? |  |  |  |  | Ca jay rin too $RECENT_PERIODS? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú ag an deireadh seachtaine? | What did you do at the weekend? |  |  |  |  | Ca jay rin too ? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú inniú? | What did you do today? |  |  |  |  | Ca jay rin too ? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú inné? | What did you do yesterday? |  |  |  |  | Ca jay rin too ? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú arú inné? | What did you do the day before yesterday? |  |  |  |  | Ca jay rin too aroo inyay? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú aréir? | What did you do last night? |  |  |  |  | Ca jay rin too a-rare? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú arú aréir? | What did you do the night before last? |  |  |  |  | Ca jay rin too ? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú maidin inné? | What did you do yesterday morning? |  |  |  |  | Ca jay rin too ? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú maidin inniú? | What did you do this morning? |  |  |  |  | Ca jay rin too ? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | VERB |  | imir | play |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | D'imir $PRONOUNS | $PRONOUNS played |  |  |  |  | Jimir $PRONOUNS |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir mé | I played |  |  |  |  | Jimir meh |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir tú | you played |  |  |  |  | Jimir too |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir sé | he played |  |  |  |  | Jimir shay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir sí | she played |  |  |  |  | Jimir shee |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir muid | we played |  |  |  |  | Jimir mwidge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir sibh | you played |  |  |  |  | Jimir shiv |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir siad | they  played |  |  |  |  | Jimir Shee-id |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'imir mé cispheil. | I played basketball. |  |  |  |  | Djimir meh kish-fell |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'imir mé leadóg | I played tennis. |  |  |  |  | Djimir meh la-dog |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | VERB |  | amharc | watch |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | D'amharc $PRONOUNS | $PRONOUNS watched |  |  |  |  | Dark $PRONOUNS |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc mé | I watched |  |  |  |  | Dark meh |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc tú | you watched |  |  |  |  | Dark too |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc sé | he watched |  |  |  |  | Dark shay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc sí | she watched |  |  |  |  | Dark shee |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc muid | we watched |  |  |  |  | Dark mwidge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc sibh | you watched |  |  |  |  | Dark shiv |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc siad | they  watched |  |  |  |  | Dark Shee-id |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'amharc mé ar fhíseáin. | I watched videos. |  |  |  |  | dark meh ar eesh-aan |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'amharc mé an teilifís. | I watched the television. |  |  |  |  | dark meh an telefish |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'amharc mé scannán. | I watched a film. |  |  |  |  | dark meh scannan |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | VERB |  | éist | listen to |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | D'eist $PRONOUNS | $PRONOUNS listened |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist mé | I listened |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist tú | you listened |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist sé | he listened |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist sí | she listened |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist muid | we listened |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist sibh | you listened |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist siad | they  listened |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'éist mé le dlúthdhioscaí. | I listened to CDs. |  |  |  |  | djeest meh le dluduskee |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'éist mé le ceol. | I listened to music. |  |  |  |  | djeest meh le cyol |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | VERB |  | ól | drink |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | D'ól $PRONOUNS | $PRONOUNS drink |  |  |  |  | doll $PRONOUNS |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól mé | I drink |  |  |  |  | doll meh |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól tú | you drink |  |  |  |  | doll too |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól sé | he drink |  |  |  |  | doll shay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól sí | she drink |  |  |  |  | doll shee |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól muid | we drink |  |  |  |  | doll mwidge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól sibh | you drink |  |  |  |  | doll shiv |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól siad | they  drink |  |  |  |  | doll Shee-id |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'ól mé cúpla deoch. | I had a few drinks. |  |  |  |  | dol meh coupla jaw |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'ól mé cúpla pionta. | I had a few pints. |  |  |  |  | dol meh coupla pinta |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Caithfidh mé labhairt leat inniu | I need to see you today |  |  |  |  | chiffy me lorch leat innyou |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | VERB |  | suigh | sit |  |  |  |  | shees |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  |  |  | suigh síos | sit down |  |  |  |  | see shees |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | shuigh $PRONOUNS | $PRONOUNS sat |  |  |  |  | hee $PRONOUNS |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh mé | I sat |  |  |  |  | hee meh |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh tú | you sat |  |  |  |  | hee too |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh sé | he sat |  |  |  |  | hee shay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh sí | she sat |  |  |  |  | hee shee |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh muid | we sat |  |  |  |  | hee mwidge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh sibh | you sat |  |  |  |  | hee shiv |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh siad | they  sat |  |  |  |  | hee Shee-id |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | shuigh $PRONOUNS síos | $PRONOUNS sat down |  |  |  |  | hee $PRONOUNS shees |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh mé síos | I sat down |  |  |  |  | hee meh shees |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh tú síos | you sat down |  |  |  |  | hee too shees |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh sé síos | he sat down |  |  |  |  | hee shay shees |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh sí síos | she sat down |  |  |  |  | hee shee shees |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh muid síos | we sat down |  |  |  |  | hee mwidge shees |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh sibh síos | you sat down |  |  |  |  | hee shiv shees |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh siad síos | they  sat down |  |  |  |  | hee Shee-id shees |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | VERB |  | druid | close |  |  |  |  | dridge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | dhruid $PRONOUNS | $PRONOUNS closed |  |  |  |  | hridge $PRONOUNS |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid mé | I closed |  |  |  |  | hridge meh |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid tú | you closed |  |  |  |  | hridge too |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid sé | he closed |  |  |  |  | hridge shay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid sí | she closed |  |  |  |  | hridge shee |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid muid | we closed |  |  |  |  | hridge mwidge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid sibh | you closed |  |  |  |  | hridge shiv |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid siad | they  closed |  |  |  |  | hridge Shee-id |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | dhruid $PRONOUNS an doras | $PRONOUNS closed the door |  |  |  |  | Hridge $PRONOUNS the door |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid mé an doras | I closed the door |  |  |  |  | Hridge meh the door |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid tú an doras | you closed the door |  |  |  |  | Hridge too the door |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid sé an doras | he closed the door |  |  |  |  | Hridge shay the door |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid sí an doras | she closed the door |  |  |  |  | Hridge shee the door |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid muid an doras | we closed the door |  |  |  |  | Hridge mwidge the door |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid sibh an doras | you closed the door |  |  |  |  | Hridge shiv the door |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid siad an doras | they  closed the door |  |  |  |  | Hridge Shee-id the door |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | VERB |  | fan | wait |  |  |  |  | fan |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | d'fhan $PRONOUNS | $PRONOUNS waited |  |  |  |  | Dan $PRONOUNS |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan mé | I waited |  |  |  |  | Dan meh |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan tú | you waited |  |  |  |  | Dan too |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan sé | he waited |  |  |  |  | Dan shay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan sí | she waited |  |  |  |  | Dan shee |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan muid | we waited |  |  |  |  | Dan mwidge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan sibh | you waited |  |  |  |  | Dan shiv |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan siad | they  waited |  |  |  |  | Dan Shee-id |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | bhí $PRONOUNS | $PRONOUNS was |  |  |  |  | Vee $PRONOUNS |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí mé | I was |  |  |  |  | Vee meh |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí tú | you was |  |  |  |  | Vee too |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí sé | he was |  |  |  |  | Vee shay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí sí | she was |  |  |  |  | Vee shee |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí muid | we was |  |  |  |  | Vee mwidge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí sibh | you was |  |  |  |  | Vee shiv |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí siad | they  was |  |  |  |  | Vee Shee-id |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Bhí mé ag bainis. | I was at a wedding. |  |  |  |  | vee me ag bannish |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | Bhí mé i nDoire $RECENT_PERIODS | I was in Derry $RECENT_PERIODS |  |  |  |  | vee me in nirra $RECENT_PERIODS |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire ag an deireadh seachtaine | I was in Derry at the weekend |  |  |  |  | vee me in nirra  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire inniú | I was in Derry today |  |  |  |  | vee me in nirra  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire inné | I was in Derry yesterday |  |  |  |  | vee me in nirra  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire arú inné | I was in Derry the day before yesterday |  |  |  |  | vee me in nirra aroo inyay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire aréir | I was in Derry last night |  |  |  |  | vee me in nirra a-rare |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire arú aréir | I was in Derry the night before last |  |  |  |  | vee me in nirra  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire maidin inné | I was in Derry yesterday morning |  |  |  |  | vee me in nirra  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire maidin inniú | I was in Derry this morning |  |  |  |  | vee me in nirra  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | rinne $PRONOUNS | $PRONOUNS did/made |  |  |  |  | Rinn $PRONOUNS |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne mé | I did/made |  |  |  |  | Rinn meh |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne tú | you did/made |  |  |  |  | Rinn too |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne sé | he did/made |  |  |  |  | Rinn shay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne sí | she did/made |  |  |  |  | Rinn shee |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne muid | we did/made |  |  |  |  | Rinn mwidge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne sibh | you did/made |  |  |  |  | Rinn shiv |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne siad | they  did/made |  |  |  |  | Rinn Shee-id |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | rinne $PRONOUNS an dinnéar | $PRONOUNS made the dinner |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne mé an dinnéar | I made the dinner |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne tú an dinnéar | you made the dinner |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne sé an dinnéar | he made the dinner |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne sí an dinnéar | she made the dinner |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne muid an dinnéar | we made the dinner |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne sibh an dinnéar | you made the dinner |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne siad an dinnéar | they  made the dinner |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | chuala $PRONOUNS | $PRONOUNS heard |  |  |  |  | (throaty) cwilla $PRONOUNS |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala mé | I heard |  |  |  |  | (throaty) cwilla meh |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala tú | you heard |  |  |  |  | (throaty) cwilla too |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala sé | he heard |  |  |  |  | (throaty) cwilla shay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala sí | she heard |  |  |  |  | (throaty) cwilla shee |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala muid | we heard |  |  |  |  | (throaty) cwilla mwidge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala sibh | you heard |  |  |  |  | (throaty) cwilla shiv |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala siad | they  heard |  |  |  |  | (throaty) cwilla Shee-id |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | Chuala $PRONOUNS ceol | $PRONOUNS heard music |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala mé ceol | I heard music |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala tú ceol | you heard music |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala sé ceol | he heard music |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala sí ceol | she heard music |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala muid ceol | we heard music |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala sibh ceol | you heard music |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala siad ceol | they  heard music |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | dúirt $PRONOUNS | $PRONOUNS said |  |  |  |  | doortch $PRONOUNS |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dúirt mé | I said |  |  |  |  | doortch meh |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dúirt tú | you said |  |  |  |  | doortch too |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dúirt sé | he said |  |  |  |  | doortch shay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dúirt sí | she said |  |  |  |  | doortch shee |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dúirt muid | we said |  |  |  |  | doortch mwidge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dúirt sibh | you said |  |  |  |  | doortch shiv |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dúirt siad | they  said |  |  |  |  | doortch Shee-id |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | fuair $PRONOUNS | $PRONOUNS got |  |  |  |  | foo-er $PRONOUNS |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | fuair mé | I got |  |  |  |  | foo-er meh |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | fuair tú | you got |  |  |  |  | foo-er too |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | fuair sé | he got |  |  |  |  | foo-er shay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | fuair sí | she got |  |  |  |  | foo-er shee |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | fuair muid | we got |  |  |  |  | foo-er mwidge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | fuair sibh | you got |  |  |  |  | foo-er shiv |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | fuair siad | they  got |  |  |  |  | foo-er Shee-id |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | d'ith $PRONOUNS | $PRONOUNS ate |  |  |  |  | dgee $PRONOUNS |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith mé | I ate |  |  |  |  | dgee meh |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith tú | you ate |  |  |  |  | dgee too |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith sé | he ate |  |  |  |  | dgee shay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith sí | she ate |  |  |  |  | dgee shee |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith muid | we ate |  |  |  |  | dgee mwidge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith sibh | you ate |  |  |  |  | dgee shiv |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith siad | they  ate |  |  |  |  | dgee Shee-id |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | D'ith $PRONOUNS dinnéar | $PRONOUNS ate dinner |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith mé dinnéar | I ate dinner |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith tú dinnéar | you ate dinner |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith sé dinnéar | he ate dinner |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith sí dinnéar | she ate dinner |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith muid dinnéar | we ate dinner |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith sibh dinnéar | you ate dinner |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith siad dinnéar | they  ate dinner |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | chonaic $PRONOUNS | $PRONOUNS saw |  |  |  |  | (throaty) honic $PRONOUNS |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé | I saw |  |  |  |  | (throaty) honic meh |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic tú | you saw |  |  |  |  | (throaty) honic too |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic sé | he saw |  |  |  |  | (throaty) honic shay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic sí | she saw |  |  |  |  | (throaty) honic shee |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic muid | we saw |  |  |  |  | (throaty) honic mwidge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic sibh | you saw |  |  |  |  | (throaty) honic shiv |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic siad | they  saw |  |  |  |  | (throaty) honic Shee-id |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | chonaic mé Brian inné | I saw Brian today |  |  |  |  | (throaty) honic |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | chonaic mé Síle $DAYS_OF_WEEK | I saw Sheila on $DAYS_OF_WEEK |  |  |  |  | (throaty) honic |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé Luain | I saw Sheila on Monday |  |  |  |  | (throaty) honic |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé Máirt | I saw Sheila on Tuesday |  |  |  |  | (throaty) honic |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé Céadaoin | I saw Sheila on Wednesday |  |  |  |  | (throaty) honic |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Déardaoin | I saw Sheila on Thursday |  |  |  |  | (throaty) honic |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé hAoine | I saw Sheila on Friday |  |  |  |  | (throaty) honic |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé Sathairn | I saw Sheila on Saturday |  |  |  |  | (throaty) honic |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé Domhnaigh | I saw Sheila on Sunday |  |  |  |  | (throaty) honic |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | thug $PRONOUNS | $PRONOUNS gave |  |  |  |  | hug $PRONOUNS |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | thug mé | I gave |  |  |  |  | hug meh |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | thug tú | you gave |  |  |  |  | hug too |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | thug sé | he gave |  |  |  |  | hug shay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | thug sí | she gave |  |  |  |  | hug shee |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | thug muid | we gave |  |  |  |  | hug mwidge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | thug sibh | you gave |  |  |  |  | hug shiv |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | thug siad | they  gave |  |  |  |  | hug Shee-id |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | chuaigh $PRONOUNS | $PRONOUNS went |  |  |  |  | who-e $PRONOUNS |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuaigh mé | I went |  |  |  |  | who-e meh |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuaigh tú | you went |  |  |  |  | who-e too |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuaigh sé | he went |  |  |  |  | who-e shay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuaigh sí | she went |  |  |  |  | who-e shee |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuaigh muid | we went |  |  |  |  | who-e mwidge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuaigh sibh | you went |  |  |  |  | who-e shiv |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuaigh siad | they  went |  |  |  |  | who-e Shee-id |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé ag snámh. | I went swimming. |  |  |  |  | wheh meh a sna-o |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé ag siúl. | I went walking. |  |  |  |  | wheh meh a shool |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé chuig bainis. | I went to a wedding. |  |  |  |  | wheh meh a bawnish |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh muid ag rothaíocht. | We went cycling. |  |  |  |  | wheh mwidgh ag ro-he-ocht (ro-he-art>>) |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé ag iascaireacht | I went fishing |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé féin agus Sinead ag rothaíocht. | Myself and Sinead went cycling. |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé go Béal Feirste ag siopadóireacht. | I went to Belfast shopping. |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé go dtí an siopa | I went to the shop |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé chuig cluiche peile | I went to a football match |  |  |  |  | ...clooha pella?? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé chuig an dochtúir. | I went to the doctor. |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé chuig dráma. | I went to a play. |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé go dtí an leabharlann. | I went to the library |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | chuaigh mé go dtí an t-aerfort | i went to the airport |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | rug $PRONOUNS ar | $PRONOUNS caught |  |  |  |  | rug $PRONOUNS ar |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rug mé ar | I caught |  |  |  |  | rug meh ar |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rug tú ar | you caught |  |  |  |  | rug too ar |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rug sé ar | he caught |  |  |  |  | rug shay ar |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rug sí ar | she caught |  |  |  |  | rug shee ar |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rug muid ar | we caught |  |  |  |  | rug mwidge ar |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rug sibh ar | you caught |  |  |  |  | rug shiv ar |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rug siad ar | they  caught |  |  |  |  | rug Shee-id ar |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | Rug $PRONOUNS liathróid | $PRONOUNS caught a ball |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug mé liathróid | I caught a ball |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug tú liathróid | you caught a ball |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug sé liathróid | he caught a ball |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug sí liathróid | she caught a ball |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug muid liathróid | we caught a ball |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug sibh liathróid | you caught a ball |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug siad liathróid | they  caught a ball |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | tháinig $PRONOUNS | $PRONOUNS came |  |  |  |  | hanig $PRONOUNS |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig mé | I came |  |  |  |  | hanig meh |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig tú | you came |  |  |  |  | hanig too |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig sé | he came |  |  |  |  | hanig shay |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig sí | she came |  |  |  |  | hanig shee |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig muid | we came |  |  |  |  | hanig mwidge |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig sibh | you came |  |  |  |  | hanig shiv |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig siad | they  came |  |  |  |  | hanig Shee-id |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Tháinig Máirín tráthnóna Dé Sathairn | Máirín came on Saturday evening |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | Chuir $PRONOUNS | $PRONOUNS sent |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir mé | I sent |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir tú | you sent |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir sé | he sent |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir sí | she sent |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir muid | we sent |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir sibh | you sent |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir siad | they  sent |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuir mé litir chuig Anna. | I sent a letter to Anna. |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | Chaith $PRONOUNS | $PRONOUNS threw |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith mé | I threw |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith tú | you threw |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith sé | he threw |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith sí | she threw |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith muid | we threw |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith sibh | you threw |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith siad | they  threw |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chaith sé cnámh chuig an mhadadh. | He threw a bone to the dog. |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Luain | Monday |  |  |  |  | je luan |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Máirt | Tuesday |  |  |  |  | je mwarch |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Céadaoin | Wednesday |  |  |  |  | je ceadine |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Déardaoin | Thursday |  |  |  |  | jeardine |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé hAoine | Friday |  |  |  |  | je heanya |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Sathairn | Saturday |  |  |  |  | je sahern |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Domhnaigh | Sunday |  |  |  |  | je doughny |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | maidin $DAYS_OF_WEEK | $DAYS_OF_WEEK morning |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé Luain | Monday morning |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé Máirt | Tuesday morning |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé Céadaoin | Wednesday morning |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Déardaoin | Thursday morning |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé hAoine | Friday morning |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé Sathairn | Saturday morning |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé Domhnaigh | Sunday morning |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | tráthnóna $DAYS_OF_WEEK | $DAYS_OF_WEEK evening |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé Luain | Monday evening |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé Máirt | Tuesday evening |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé Céadaoin | Wednesday evening |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Déardaoin | Thursday evening |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé hAoine | Friday evening |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé Sathairn | Saturday evening |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé Domhnaigh | Sunday evening |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | oíche Luain | Monday night |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | oíche Mháirt | Tuesday night |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | oíche Chéadaoin | Wednesday night |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | oíche Dhéardaoin | Thursday night |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | oíche Aoine | Friday night |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | oíche Shathairn | Saturday night |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | oíche Dhomhnaigh | Sunday night |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cá huair? | When? |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cá huair a chuaigh tú go Leitir Ceanainn? | When did you go to Letterkenny? |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cén lá a chuaigh tú go Leitir Ceanainn? | What/which day did you go to Letterkenny? |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cé a bhí leat? | Who was with you? |  |  |  |  | kay vee lat? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cé a chuaigh leat? | Who went with you? |  |  |  |  | Kay who-e lat? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cé a bhí ag an disco leat? | Who was with you at the disco? |  |  |  |  | kay vee ag an disco lat? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | NOUN |  | cara | friend |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | NOUN |  | cairde | friends |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Mo chara | My friend. |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Mo chara Liam | My friend Liam |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Mo chairde | My friends |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Ar bhain tú sult as? | Did you enjoy it? |  |  |  |  | Ar win tu sult ass? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Ar bhain tú sult as an dráma? | Did you enjoy the play? |  |  |  |  | Ar win tu sult ass an drama? |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Ar bhain tú sult as an deireadh seachtaine? | Did you enjoy the weekend? |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Bhain. | Yes (I did). |  |  |  |  | win |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Níor bhain. | No (I didn't). |  |  |  |  | near win |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Bhain mé sult as. | I enjoyed it. |  |  |  |  | win meh sult as |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Bhain mé an-sult as. | I really enjoyed it. |  |  |  |  | win meh an-sult as |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | go hArd Mhacha | to Armagh |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | go dtí an banc | to the bank |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | chuig dráma | to a play |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chífidh mé maidin Dé hAoine tú | I'll see you on Friday morning |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Thart fá leath i ndiaidh a hocht | Around half past 8 |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Beidh mé ag obair inniu | I will be working today |  |  |  |  | bay may ag obar nyou |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Beidh mé ag bualadh leis | I will be meeting him |  |  |  |  | bay may ag bwayla lesh |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Ba mhaith liom a bheith i mo cheoltóir | i would like to be a musician |  |  |  |  |  |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | b'fhéidir | maybe |  |  |  |  | bayjor |  |  |
-| Now You're Talking | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D’ol mé barraíocht | I drank too much |  |  |  |  |  |  |  |
-
-## Now You're Talking - Taking your leave
+## Irish on your own - SAYING WHERE YOU'RE GOING
 
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | AG FÁGÁIL COMHLUADAIR | TAKING YOUR LEAVE |  |  |  |  | Ag faygal cool-wah-der |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Caithfidh mé imeacht. | I have to go. |  |  |  | I have to leave | Ka-heh meh imackt |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Caithfidh mé imeacht arís. | I have to go again. |  |  |  | I have to leave again |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Caithfidh mé imeacht anois. | I have to go now. |  |  |  | I have to leave now |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Caithfidh tú imeacht anois? | You have to go now? |  |  |  | I have to leave now |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Éist, caithfidh mé imeacht. | Listen, I have to go. |  |  |  | Listen, I have to leave |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Caithfidh mé ag dul abhaile. | I have to go home. |  |  |  | I have to go home |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá mé ag imeacht. | I am going. |  |  |  | I am leaving |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul abhaile. | I am going home. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chun an bhaile. | I am going home. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chuig scannan | I am going to the film. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Maith go leor. | All right. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Ceart go leor. | All right. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Is mór an trua sin. | That's a pity. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Cheana féin! | Already! |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Níl sé ach luath. | It's only early. |  |  |  | it's not but early |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Cad chuige? | Why? |  |  |  | To what purpose? | cad teeya?? |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá brón orm ach ... | I am sorry but ... |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá mé buartha ach ... | I am sorry but ... |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá mé tuirseach. | I'm tired. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá mé an-tuirseach. | I'm very tired. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá sé mall. | It's late. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá sé an-mhall. | It's very late. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá mé mall. | I'm late. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá mé mall don dráma. | I'm late for the play. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá mé mall don scannan. | I'm late for the film. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá deifir orm. | I'm in a hurry. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | WORD |  | cuairteoir | visitor |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | WORD |  | cuairteoirí | visitors |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | WORD |  | cruinniú | meeting (event) |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá mé ag súil le cuairteoirí. | I'm expecting visitors. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chuig cruinniú. | I'm going to a meeting. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Fan tamall beag eile! | Stay a little while longer! |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chuig ceolchoirm ag a naoi a chlog | I’m going to a concert at nine o clock |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | TEMPLATE |  | Fan go dtí $HOUR_O_CLOCK | Stay until $HOUR_O_CLOCK |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a haon a chlog | Stay until 1 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a dó a chlog | Stay until 2 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a trí a chlog | Stay until 3 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a ceathair a chlog | Stay until 4 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a cúig a chlog | Stay until 5 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a sé a chlog | Stay until 6 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a seacht a chlog | Stay until 7 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a hocht a chlog | Stay until 8 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a naoi a chlog | Stay until 9 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a deich a chlog | Stay until 10 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a haon déag a chlog | Stay until 11 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a dó dhéag a chlog | Stay until 12 o'clock |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Fan leathuair eile. | Stay another half an hour. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Fan uair an chloig eile. | Stay another hour. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Ní thig liom. | I can't. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | WORD |  | saoire | holiday |  |  |  |  | seera |  |  |
-| Now You're Talking | 12 | Taking your leave |  | WORD |  | laethanta saoire | holiday |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | WORD |  | lá | day |  |  | m |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | WORD |  | seachtain | week |  |  | f |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | WORD |  | coicís | fortnight |  |  | f |  | Coc-ish |  |  |
-| Now You're Talking | 12 | Taking your leave |  | WORD |  | mí | month |  |  | f |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | WORD |  | bliain | year |  |  | f |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | WORD |  | an lae | the day |  |  | m |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | WORD |  | na seachtaine | The week |  |  | f |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | WORD |  | an choicís | The fortnight |  |  | f |  | Coc-ish |  |  |
-| Now You're Talking | 12 | Taking your leave |  | WORD |  | an mhí  | month |  |  | f |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | WORD |  | an bhliain | the year |  |  | f |  |  |  |  |
-| Now You're Talking | 13 | Taking your leave |  | WORD |  | ar an tseachtain seo chugainn | next week |  |  |  | this week towards us |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé tú. | I'll see you |  | s |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé sibh. | I'll see you |  | p |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé ar ball tú. | I'll see you in a while/I'll see you later. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann leathuaire tú. | I'll see you in half an hour. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann uair an chloig tú. | I'll see you in an hour. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé anocht tú. | I'll see you tonight. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé anocht tú mar sin. | I'll see you tonight then |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé amárach tú. | I'll see you tomorrow. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé tráthnóna tú. | I'll see you this evening. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé ar maidin tú. | I'll see you in the morning. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann cúpla lá tú. | I'll see you in a few days' time. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé ar an tseachtain seo chugainn tú. | I'll see you next week. |  |  |  | I will see you on the week coming towards us |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé an mhí seo chugainn tú. | I'll see you next month. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann seachtaine tú. | I'll see you in a week's time. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann coicíse tú. | I'll see you in a fortnight's time. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann míosa tú. | I'll see you in a month's time. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | TEMPLATE |  | Chífidh mé $DAYS_OF_WEEK tú. | I'll see you $DAYS_OF_WEEK. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Dé Luain tú. | I'll see you Monday. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Dé Máirt tú. | I'll see you Tuesday. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Dé Céadaoin tú. | I'll see you Wednesday. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Déardaoin tú. | I'll see you Thursday. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Dé hAoine tú. | I'll see you Friday. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Dé Sathairn tú. | I'll see you Saturday. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Dé Domhnaigh tú. | I'll see you Sunday. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | TEMPLATE |  | Chífidh mé ag $HOUR_O_CLOCK tú. | I'll see you at $HOUR_O_CLOCK. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a haon a chlog tú. | I'll see you at 1 o'clock. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a dó a chlog tú. | I'll see you at 2 o'clock. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a trí a chlog tú. | I'll see you at 3 o'clock. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a ceathair a chlog tú. | I'll see you at 4 o'clock. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a cúig a chlog tú. | I'll see you at 5 o'clock. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a sé a chlog tú. | I'll see you at 6 o'clock. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a seacht a chlog tú. | I'll see you at 7 o'clock. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a hocht a chlog tú. | I'll see you at 8 o'clock. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a naoi a chlog tú. | I'll see you at 9 o'clock. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a deich a chlog tú. | I'll see you at 10 o'clock. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a haon déag a chlog tú. | I'll see you at 11 o'clock. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a dó dhéag a chlog tú. | I'll see you at 12 o'clock. |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | I gceann míosa? | in a month? |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Go dtí an Fhrainc | to France |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | An bhfuil tú ag dul go dtí an teach tábhairne anocht? | Are you going to the pub tonight? |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | bí sa bhaile ag a haon déag | Be home at 11 |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | Beidh sí sa bhaile ag a haon déag | She will be home at 11 |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | WORD |  | árasán | flat |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | WORD |  | ag m'árasán | at my flat |  |  |  |  |  |  |  |
-| Now You're Talking | 12 | Taking your leave |  | PHRASE |  | cé hí an bhean seo mar sin? | Who is this woman then? |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | AG RÁ CÁ BHFUIL TÚ AG DUL | SAYING WHERE YOU'RE GOING |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | banc | bank |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | teach an phobail | church |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | oifig an phoist | post office |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | caife | cafe |  |  |  |  | ca-fay |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | garáiste | garage |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | teach | house |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | tithe | houses |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | teach tábhairne | pub |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | tithe tábhairne | pubs |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | bialann | restaurant |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | páirc | park |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopa | shop |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopaí | shops |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopa búistéara | butcher's shop |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopa poitigéara | chemist shop |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopa bróg | shoe shop |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | siopa éadaigh | clothes shop |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | ionad spóirt | sports centre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | ionad siopadóireachta | shopping centre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | ollmhargadh | supermarket |  |  |  |  | ollwarragoo |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | ospidéal | hospital |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | otharlann | hospital |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | pictiúrlann | cinema |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | sólann | leisure centre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | codladh | sleep |  |  |  |  | coh-loo |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | aerfort | airport |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | amharclann | theatre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | PLACES | gealach | moon |  |  |  |  | gallack |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an caife | the café |  |  | m |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an amharclann | the theatre |  |  | f |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an garáiste | the garage |  |  | m |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an teach tábhairne | the pub |  |  | m |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an pháirc | the park |  |  | f |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an phictiúrlann  | the cinema |  |  | f |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-sólann  | the leisure centre |  |  | f |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-aerfort | the airport |  |  | m |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-ionad spóirt | the sports centre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-ionad siopadóireachta | the shopping centre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-ollmhargadh | the supermarket |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an bhialann | the restaurant |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an t-ospidéal | the hospital |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | THE_PLACES | an ghealach | the moon |  |  |  |  | an yallach |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cá bhfuil tú ag dul? | Where are you going? |  | s |  |  | Ca will to a-gull |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cá bhfuil sibh ag dul? | Where are you going? |  | p |  |  | Ca will to a-gull |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cá bhfuil tusa ag dul? | Where are *you* going? |  | s |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul ... | I'm going ... |  |  |  |  | Taw may a gul |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go ... | I'm going to ... |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go Leitir Ceanainn. | I'm going to Letterkenny. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá mé ag dul go dtí $THE_PLACES. | I'm going to $THE_PLACES. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an caife. | I'm going to the café. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an amharclann. | I'm going to the theatre. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an garáiste. | I'm going to the garage. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an teach tábhairne. | I'm going to the pub. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an pháirc. | I'm going to the park. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an phictiúrlann . | I'm going to the cinema. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-sólann . | I'm going to the leisure centre. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-aerfort. | I'm going to the airport. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ionad spóirt. | I'm going to the sports centre. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ionad siopadóireachta. | I'm going to the shopping centre. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ollmhargadh. | I'm going to the supermarket. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an bhialann. | I'm going to the restaurant. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ospidéal. | I'm going to the hospital. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul go dtí an ghealach. | I'm going to the moon. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go hoifig an phoist. | I am going to the post office |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go teach an phobail. | I am going to the church |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul abhaile. | I'm going home. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul amach. | I'm going out. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul a chodladh | I am going to sleep |  |  |  |  | ...hoh-loo |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | ansin | then |  |  |  |  |  |  | as in I'm going to ... and then I'm going to... |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Go Baile Átha Cliath | To Dublin |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Go hArd Mhacha* | To Armagh |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Go Dún Pádraig | To Downpatrick |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cad é an t-am? | What time? |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cad é an t-am atá tú ag dul go Dún Geanainn? | What time are you going to Dungannon? |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cá huair? | When? |  |  |  |  | ca hoo-ar |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | QUESTION |  | Cá huair atá tú ag dul go Corcaigh? | When are you going to Cork? |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | uair | an hour |  |  |  |  |  |  | This word occurs quite frequently in everyday speech, so it is well worth learning the different forms. |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | dhá uair | two hours |  |  |  |  |  |  | The word uair is irregular when preceded by numbers: |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | trí huaire | three hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | ceathair huaire | four hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | cúig huaire | five hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | sé huaire | six hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | seacht n-uaire | seven hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | hocht n-uaire | eight hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | naoi n-uaire | nine hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | NUM_HOURS | deich n-uaire | ten hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | i gceann leathuair an chloig | in half an hour |  |  |  |  | i gen le-hoor a clig |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | i gceann tamaill | in a while |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | anois | now |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | níos moille | later |  |  |  |  | nees mullya |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | anocht | tonight |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | amárach | tomorrow |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | ar maidin | in the morning |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | meán lae | midday |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | san iarnóin | in the afternoon |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | tráthnóna | in the evening |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD | GOING_WHEN | san oíche | in the night |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | SENTENCE |  | Tá mé ag dul go Gaillimh... | I'm going to Galway... |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá mé ag dul $GOING_WHEN | I'm going $GOING_WHEN |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann leathuair an chloig | I'm going in half an hour |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann tamaill | I'm going in a while |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul anois | I'm going now |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul níos moille | I'm going later |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul anocht | I'm going tonight |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul amárach | I'm going tomorrow |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ar maidin | I'm going in the morning |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul meán lae | I'm going midday |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul san iarnóin | I'm going in the afternoon |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul tráthnóna | I'm going in the evening |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul san oíche | I'm going in the night |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá mé ag dul ag $HOUR_O_CLOCK | I'm going at $HOUR_O_CLOCK |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a haon a chlog | I'm going at 1 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a dó a chlog | I'm going at 2 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a trí a chlog | I'm going at 3 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a ceathair a chlog | I'm going at 4 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a cúig a chlog | I'm going at 5 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a sé a chlog | I'm going at 6 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a seacht a chlog | I'm going at 7 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a hocht a chlog | I'm going at 8 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a naoi a chlog | I'm going at 9 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a deich a chlog | I'm going at 10 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a haon déag a chlog | I'm going at 11 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul ag a dó dhéag a chlog | I'm going at 12 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá mé ag dul i gceann $NUM_HOURS an chloig | I'm going in $NUM_HOURS's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann uair an chloig | I'm going in an hour's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann dhá uair an chloig | I'm going in two hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire an chloig | I'm going in three hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann ceathair huaire an chloig | I'm going in four hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann cúig huaire an chloig | I'm going in five hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann sé huaire an chloig | I'm going in six hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann seacht n-uaire an chloig | I'm going in seven hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann hocht n-uaire an chloig | I'm going in eight hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann naoi n-uaire an chloig | I'm going in nine hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann deich n-uaire an chloig | I'm going in ten hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá mé ag dul i gceann $NUM_HOURS go leith | I'm going in $NUM_HOURS and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann uair go leith | I'm going in an hour and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann dhá uair go leith | I'm going in two hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire go leith | I'm going in three hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann ceathair huaire go leith | I'm going in four hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann cúig huaire go leith | I'm going in five hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann sé huaire go leith | I'm going in six hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann seacht n-uaire go leith | I'm going in seven hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann hocht n-uaire go leith | I'm going in eight hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann naoi n-uaire go leith | I'm going in nine hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá mé ag dul i gceann deich n-uaire go leith | I'm going in ten hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 8 | SAYING WHERE YOU'RE GOING |  | WORD |  | chóir a bheith | almost |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith $HOUR_O_CLOCK | It's almost $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh $HOUR_O_CLOCK |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a haon a chlog | It's almost 1 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a dó a chlog | It's almost 2 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a trí a chlog | It's almost 3 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a ceathair a chlog | It's almost 4 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a cúig a chlog | It's almost 5 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a sé a chlog | It's almost 6 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a seacht a chlog | It's almost 7 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a hocht a chlog | It's almost 8 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a naoi a chlog | It's almost 9 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a deich a chlog | It's almost 10 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a haon déag a chlog | It's almost 11 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith a dó dhéag a chlog | It's almost 12 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú i ndiaidh $HOUR_O_CLOCK | It's almost quarter past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh cahrun I nyay $HOUR_O_CLOCK |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon a chlog | It's almost quarter past 1 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó a chlog | It's almost quarter past 2 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a trí a chlog | It's almost quarter past 3 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a ceathair a chlog | It's almost quarter past 4 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a cúig a chlog | It's almost quarter past 5 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a sé a chlog | It's almost quarter past 6 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a seacht a chlog | It's almost quarter past 7 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a hocht a chlog | It's almost quarter past 8 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a naoi a chlog | It's almost quarter past 9 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a deich a chlog | It's almost quarter past 10 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon déag a chlog | It's almost quarter past 11 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó dhéag a chlog | It's almost quarter past 12 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith leath i ndiaidh $HOUR_O_CLOCK | It's almost half past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh la in nyay $HOUR_O_CLOCK |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon a chlog | It's almost half past 1 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó a chlog | It's almost half past 2 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a trí a chlog | It's almost half past 3 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a ceathair a chlog | It's almost half past 4 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a cúig a chlog | It's almost half past 5 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a sé a chlog | It's almost half past 6 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a seacht a chlog | It's almost half past 7 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a hocht a chlog | It's almost half past 8 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a naoi a chlog | It's almost half past 9 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a deich a chlog | It's almost half past 10 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon déag a chlog | It's almost half past 11 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó dhéag a chlog | It's almost half past 12 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú go dtí $HOUR_O_CLOCK | It's almost quarter to $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh cahru go gee $HOUR_O_CLOCK |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon a chlog | It's almost quarter to 1 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó a chlog | It's almost quarter to 2 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a trí a chlog | It's almost quarter to 3 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a ceathair a chlog | It's almost quarter to 4 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a cúig a chlog | It's almost quarter to 5 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a sé a chlog | It's almost quarter to 6 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a seacht a chlog | It's almost quarter to 7 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a hocht a chlog | It's almost quarter to 8 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a naoi a chlog | It's almost quarter to 9 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a deich a chlog | It's almost quarter to 10 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon déag a chlog | It's almost quarter to 11 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó dhéag a chlog | It's almost quarter to 12 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | scrúdú | exam |  |  |  |  |  |  |  |
+| Irish on your own | 7 | SAYING WHERE YOU'RE GOING |  | WORD |  | scrúdú ar maidin | exam in the morning |  |  |  |  |  |  |  |
 
-## Now You're Talking - Family2
-
-| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Now You're Talking | 13 | Family2 |  |  |  | tuismitheoirí | parents |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | deartháireacha | brothers |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | deirfiúracha | sisters |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | seanathair | grandfather |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | athair mór | grandfather |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | seanmháthair | grandmother |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | máthair mhór | grandmother |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | uncail | uncle |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | aintin | aunt |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | col ceathrair | cousin |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | col ceathracha | cousins |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | leasathair | stepfather |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | leasmháthair | stepmother |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | leasdeirfiúr | stepsister |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | leasdeartháir | stepbrother |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | neacht | niece |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | nia | nephew |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | m'athair mór | my grandfather |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | mo mháthair mhór | my grandmother |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid deartháireacha | my brothers |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid deirfiúracha | my sisters |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | m'uncail | my uncle |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | m'aintín | my aunt |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid col ceathracha | my cousins |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | m'fhear céile | my husband |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | mo bhean chéile | my wife |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid airgid | my money |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid gruaige | my hair |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid deirfiúracha | my sisters |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | TEMPLATE |  | Seo $MY_CLOSE_FAMILY1 | This is  $MY_CLOSE_FAMILY1 |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo m'athair mór | This is  my grandfather |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo mo mháthair mhór | This is  my grandmother |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo m'uncail | This is  my uncle |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo m'aintín | This is  my aunt |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo m'fhear céile | This is  my husband |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo mo bhean chéile | This is  my wife |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | TEMPLATE |  | Seo $MY_CLOSE_FAMILY2 | These are $MY_CLOSE_FAMILY2 |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid deartháireacha | These are my brothers |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid deirfiúracha | These are my sisters |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid col ceathracha | These are my cousins |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid airgid | These are my money |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid gruaige | These are my hair |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid deirfiúracha | These are my sisters |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | TEMPLATE |  | Sin $MY_CLOSE_FAMILY2 | They are $MY_CLOSE_FAMILY2 |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Sin mo chuid deartháireacha | They are my brothers |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Sin mo chuid deirfiúracha | They are my sisters |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Sin mo chuid col ceathracha | They are my cousins |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Sin mo chuid airgid | They are my money |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Sin mo chuid gruaige | They are my hair |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  | DYNAMIC |  | Sin mo chuid deirfiúracha | They are my sisters |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | Is muidne* ... | We're ... |  |  |  |  |  |  | *In Ulster Irish this word usually has three syllables in everyday speech: muid-in-ne. |
-| Now You're Talking | 13 | Family2 |  |  |  | Is muidne deirfiúracha John. | We're John's sisters. |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | Is muidne deartháireacha Laura. | We're Laura's brothers. |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | Cad é an aois atá tú? | What age are you? |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | Cen aois atá tú? | What age are you? |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | Cad é an aois atá sé? | What age is he? |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | aois | age |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | bliain (d'aois) | one year (old) |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | dhá bhliain | two years |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | trí bliana | three years |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | ceithre bliana | four years |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | cúig bliana | five years |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | sé bliana | six years |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | seacht mbliana | seven years |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | ocht mbliana | eight years |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | naoi mbliana | nine years |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | deich mbliana | ten years |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | aon bhliain (amhain) | 1 YEAR only |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | dhá bhliain | 2 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | trí bliana | 3 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | ceithre bliana | 4 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | cúig bliana | 5 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | sé bliana | 6 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | seacht mbliana | 7 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | ocht mbliana | 8 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | naoi mbliana | 9 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | deich mbliana | 10 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | aon bhliain déag | 11 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | dhá bhliain déag | 12 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | trí bliana déag | 13 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | ceithre bliana déag | 14 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | cúig bliana déag | 15 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | sé bliana déag | 16 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | seacht mbliana déag | 17 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | ocht mbliana déag | 18 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | naoi mbliana déag | 19 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | fiche bliain | 20 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | aon bliain is fiche | 21 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | dhá bhliain is fiche | 22 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | trí bliana is fiche | 23 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | ceithre bliana is fiche | 24 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | cúig bliana is fiche | 25 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | sé bliana is fiche | 26 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | seacht mbliana is fiche | 27 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | ocht mbliana is fiche | 28 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | naoi mbliana is fiche | 29 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | tríocha bliain | 30 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | daichead bliain | 40 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | caoga bliain | 50 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | seasca bliain | 60 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | seachtó bliain | 70 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | ochtó bliain | 80 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | nócha bliain | 90 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | céad bliain | 100 YEARS |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | Cá bhfuil sé ina chónaí anois? | Where does he live now? |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | Cá bhfuil sí ina cónaí anois? | Where does she live now? |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | Cá bhfuil siad ina gcónaí anois? | Where do they live now? |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | CÓNAÍ | LIVE |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | Tá mé i mo chónaí | I live |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | Tá tú i do chónaí | You live |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | Tá sé ina chónaí | He lives |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | Tá sí ina cónaí | She lives |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | Tá muid inar gcónaí | We live |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | Tá sibh in bhur gcónaí | You live |  |  |  |  |  |  |  |
-| Now You're Talking | 13 | Family2 |  |  |  | Tá siad ina gcónaí | They live |  |  |  |  |  |  |  |
-
-## Now You're Talking - Daily Routine
+## Irish on your own - DISCUSSING JOBS
 
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Now You're Talking | 14 | Daily Routine |  |  |  | Músclaím ... | I wake up ... |  |  |  |  | musclum.. |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | de ghnáth | usually |  |  |  |  | de greah |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Músclaím de ghnáth thart fá leath i ndiaidh a seacht. | I usually wake up around half past seven. |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Éirím ag a hocht. | I get up at eight. |  |  |  |  | earim.. |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Éirím ar a hocht. | I get up at eight. |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Ním mé féin. | I wash myself. |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Ithim mo bhricfeasta idir a hocht agus leath i ndiaidh a hocht. | I eat my breakfast between eight and half past eight. |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Téim ag obair thart fá cheathrú go dtí a naoi. | I go to work at around a quarter to nine. |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Téim chun na scoile ag a naoi a chlog. | I go to school at nine o'clock. |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Cad é an t-am a n-éiríonn tú achan mhaidin? | What time do you get up every morning? |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Cad é an t-am a dtéann tú ag obair achan mhaidin? | What time do you go to work every morning? |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Cad é an t-am a mbíonn do dhinnéar agat? | What time do you have your dinner? |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Bíonn mo lón agam idir a haon agus a dó. | I have my lunch between one and two. |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Bím sa bhaile de ghnáth ag a sé. | I'm usually home at six. |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Bíonn mo dhinnéar agam sa bhaile. | I have my dinner at home. |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Tá mé tuirseach. | I'm tired |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Bím tuirseach i gcónaí tráthnóna. | I am always tired in the evening |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Tá mé mall. | I'm late |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Bím mall i gcónaí maidin Dé luain. | I am always late on Monday morning. |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Cad é a dhéanann tú i rith an lae? | What do you do during the day? |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Cad é a dhéanann tú tráthnóna? | What do you do in the evening? |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Tagaim abhaile .. | I come home ... |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Éistim leis an raidió. | I listen to the radio. |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Amharcaim ar an teilifís. | I watch television. |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Téim amach. | I go out. |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Déanaim réidh béile. | I prepare a meal. |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Téim a luí luath. | I go to bed early. |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | An éisteann tú le ceol? | Do you listen to music? |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Éistim. | I do (literally, I listen). |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Ní éistim. | I don't (literally, I don't listen). |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | An dtéann tú amach go minic? | Do you go out often? |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Téim. |  |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Ní théim. |  |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | An éiríonn tú go luath? | Do you get up early? |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Éirím. |  |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Ní éirím. |  |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | An mbíonn tú gnóthach? | Are you usually busy? |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Bím. |  |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Ní bhím. |  |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | An dtagann tú abhaile luath? | Do you come home early? |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Tagaim. |  |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Ní thagaim. |  |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | An amharcann tú ar an teilifís? | Do you watch television? |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Amharcaim. |  |  |  |  |  |  |  |  |
-| Now You're Talking | 14 | Daily Routine |  |  |  | Ní amharcaim. |  |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD |  | AG PLÉ POSTANNA | DISCUSSING JOBS |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD |  | obair | work |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD |  | ag obair | working |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD |  | post | job |  |  |  |  | paw-st |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD |  | postanna | jobs |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD |  | bunscoil | primary school |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD |  | meánscoil | secondary school |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | feirmeoir | farmer |  |  |  |  | fer-mer |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | siopadóir | shopkeeper |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | búistéir | butcher |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | meicneoir | mechanic |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | múinteoir | teacher |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | rúnaí | secretary |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | oibrí monarchan | factory worker |  |  |  |  | ibri monarchan |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | banaltra | nurse |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | dochtúir | doctor |  |  |  |  | doctoor |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | tiománaí | driver |  |  |  |  | tchumani |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | bainisteoir | manager |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | freastalaí | waiter |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | tógálaí | builder |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | siúinéir | carpenter |  |  |  |  | shoonair |  | aonad 9 |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | bean tí | housewife |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | leictreoir | electrician |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | iascaire | fisherman |  |  |  |  | eesc-ar-a |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | innealtóir | engineer |  |  |  |  | inyaltar |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | innealtóir ríomhaireachta | computer engineer |  |  |  |  | inyaltar re-whar-achta |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | ríomhchláraitheoir | programmer |  |  |  |  | reo-clar-e-har |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | aisteoir | actor |  |  |  |  | asteor |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | múinteoir bunscoile | primary school teacher |  |  |  |  | asteor |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | JOB | múinteoir meánscoile | secondary school teacher |  |  |  |  | asteor |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD |  | garraí | garden |  |  |  |  | gary |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | TEMPLATE |  | Is $JOB mé. | I'm a $JOB | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is feirmeoir mé. | I'm a farmer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is siopadóir mé. | I'm a shopkeeper | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is búistéir mé. | I'm a butcher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is meicneoir mé. | I'm a mechanic | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir mé. | I'm a teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is rúnaí mé. | I'm a secretary | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is oibrí monarchan mé. | I'm a factory worker | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is banaltra mé. | I'm a nurse | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is dochtúir mé. | I'm a doctor | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is tiománaí mé. | I'm a driver | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is bainisteoir mé. | I'm a manager | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is freastalaí mé. | I'm a waiter | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is tógálaí mé. | I'm a builder | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is siúinéir mé. | I'm a carpenter | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is bean tí mé. | I'm a housewife | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is leictreoir mé. | I'm a electrician | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is iascaire mé. | I'm a fisherman | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is innealtóir mé. | I'm a engineer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is innealtóir ríomhaireachta mé. | I'm a computer engineer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is ríomhchláraitheoir mé. | I'm a programmer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is aisteoir mé. | I'm a actor | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir bunscoile mé. | I'm a primary school teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Is múinteoir meánscoile mé. | I'm a secondary school teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | TEMPLATE |  | $JOB atá ionam | I'm a $JOB |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | feirmeoir atá ionam | I'm a farmer |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | siopadóir atá ionam | I'm a shopkeeper |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | búistéir atá ionam | I'm a butcher |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | meicneoir atá ionam | I'm a mechanic |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir atá ionam | I'm a teacher |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | rúnaí atá ionam | I'm a secretary |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | oibrí monarchan atá ionam | I'm a factory worker |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | banaltra atá ionam | I'm a nurse |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | dochtúir atá ionam | I'm a doctor |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | tiománaí atá ionam | I'm a driver |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | bainisteoir atá ionam | I'm a manager |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | freastalaí atá ionam | I'm a waiter |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | tógálaí atá ionam | I'm a builder |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | siúinéir atá ionam | I'm a carpenter |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | bean tí atá ionam | I'm a housewife |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | leictreoir atá ionam | I'm a electrician |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | iascaire atá ionam | I'm a fisherman |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir atá ionam | I'm a engineer |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir ríomhaireachta atá ionam | I'm a computer engineer |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | ríomhchláraitheoir atá ionam | I'm a programmer |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | aisteoir atá ionam | I'm a actor |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir bunscoile atá ionam | I'm a primary school teacher |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir meánscoile atá ionam | I'm a secondary school teacher |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | QUESTION |  | Cad é an post atá agat? | What job do you do? |  |  |  | Where are you working? |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | QUESTION |  | Cad é an tslí bheatha atá agat? | What do you do for a living? |  |  |  | way of life | cadj ay an tshlee veha ataa agat |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | QUESTION |  | Cad é an post atá ag Michael? | What job does Michael have? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | QUESTION |  | Cá bhfuil tú ag obair? | Where do you work? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | QUESTION |  | Cá bhfuil tusa ag obair? | Where do *you* work? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i monarcha | in a factory |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | in oifig | in an office |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | in scoil | in a school |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i siopa | in a shop |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i mbunscoil | in a primary school |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i meánscoil | in a secondary school |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | in otharlann | in a hospital |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | in óstán | in a hotel |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i gcaife | in a cafe |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i mbialann | in a restaurant |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i ngaráiste | in a garage |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | in ollmhargadh | in a supermarket |  |  |  |  | ollwarragoo |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i dteach tábhairne | in a pub |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | IN_WORKPLACE | i ngarraí | in a garden |  |  |  |  | in narry |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD |  | stáisiún peitril | petrol station |  |  |  |  | stashon petrol |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | TEMPLATE |  | Tá mé ag obair $IN_WORKPLACE | I work $IN_WORKPLACE |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i monarcha | I work in a factory |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in oifig | I work in an office |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in scoil | I work in a school |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i siopa | I work in a shop |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i mbunscoil | I work in a primary school |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i meánscoil | I work in a secondary school |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in otharlann | I work in a hospital |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in óstán | I work in a hotel |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i gcaife | I work in a cafe |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i mbialann | I work in a restaurant |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i ngaráiste | I work in a garage |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in ollmhargadh | I work in a supermarket |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i dteach tábhairne | I work in a pub |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i ngarraí | I work in a garden |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | TEMPLATE |  | Bhí mé ag obair $IN_WORKPLACE | I worked $IN_WORKPLACE |  |  |  |  |  |  | Past |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i monarcha | I worked in a factory |  |  |  |  |  |  | Past |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in oifig | I worked in an office |  |  |  |  |  |  | Past |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in scoil | I worked in a school |  |  |  |  |  |  | Past |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i siopa | I worked in a shop |  |  |  |  |  |  | Past |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i mbunscoil | I worked in a primary school |  |  |  |  |  |  | Past |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i meánscoil | I worked in a secondary school |  |  |  |  |  |  | Past |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in otharlann | I worked in a hospital |  |  |  |  |  |  | Past |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in óstán | I worked in a hotel |  |  |  |  |  |  | Past |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i gcaife | I worked in a cafe |  |  |  |  |  |  | Past |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i mbialann | I worked in a restaurant |  |  |  |  |  |  | Past |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i ngaráiste | I worked in a garage |  |  |  |  |  |  | Past |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair in ollmhargadh | I worked in a supermarket |  |  |  |  |  |  | Past |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i dteach tábhairne | I worked in a pub |  |  |  |  |  |  | Past |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Bhí mé ag obair i ngarraí | I worked in a garden |  |  |  |  |  |  | Past |
+| Irish on your own | 8 | DISCUSSING JOBS |  | TEMPLATE |  | Tá mé ag obair $IN_WORKPLACE i mBeal Feirste | I work $IN_WORKPLACE in Belfast |  |  |  |  |  |  | Present |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i monarcha i mBeal Feirste | I work in a factory in Belfast |  |  |  |  |  |  | Present |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in oifig i mBeal Feirste | I work in an office in Belfast |  |  |  |  |  |  | Present |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in scoil i mBeal Feirste | I work in a school in Belfast |  |  |  |  |  |  | Present |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i siopa i mBeal Feirste | I work in a shop in Belfast |  |  |  |  |  |  | Present |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i mbunscoil i mBeal Feirste | I work in a primary school in Belfast |  |  |  |  |  |  | Present |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i meánscoil i mBeal Feirste | I work in a secondary school in Belfast |  |  |  |  |  |  | Present |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in otharlann i mBeal Feirste | I work in a hospital in Belfast |  |  |  |  |  |  | Present |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in óstán i mBeal Feirste | I work in a hotel in Belfast |  |  |  |  |  |  | Present |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i gcaife i mBeal Feirste | I work in a cafe in Belfast |  |  |  |  |  |  | Present |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i mbialann i mBeal Feirste | I work in a restaurant in Belfast |  |  |  |  |  |  | Present |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i ngaráiste i mBeal Feirste | I work in a garage in Belfast |  |  |  |  |  |  | Present |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair in ollmhargadh i mBeal Feirste | I work in a supermarket in Belfast |  |  |  |  |  |  | Present |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i dteach tábhairne i mBeal Feirste | I work in a pub in Belfast |  |  |  |  |  |  | Present |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá mé ag obair i ngarraí i mBeal Feirste | I work in a garden in Belfast |  |  |  |  |  |  | Present |
+| Irish on your own | 8 | DISCUSSING JOBS |  | TEMPLATE |  | Beidh mé ag obair $IN_WORKPLACE i mBeal Feirste | I will work $IN_WORKPLACE in Belfast |  |  |  |  |  |  | Future |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i monarcha i mBeal Feirste | I will work in a factory in Belfast |  |  |  |  |  |  | Future |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair in oifig i mBeal Feirste | I will work in an office in Belfast |  |  |  |  |  |  | Future |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair in scoil i mBeal Feirste | I will work in a school in Belfast |  |  |  |  |  |  | Future |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i siopa i mBeal Feirste | I will work in a shop in Belfast |  |  |  |  |  |  | Future |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i mbunscoil i mBeal Feirste | I will work in a primary school in Belfast |  |  |  |  |  |  | Future |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i meánscoil i mBeal Feirste | I will work in a secondary school in Belfast |  |  |  |  |  |  | Future |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair in otharlann i mBeal Feirste | I will work in a hospital in Belfast |  |  |  |  |  |  | Future |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair in óstán i mBeal Feirste | I will work in a hotel in Belfast |  |  |  |  |  |  | Future |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i gcaife i mBeal Feirste | I will work in a cafe in Belfast |  |  |  |  |  |  | Future |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i mbialann i mBeal Feirste | I will work in a restaurant in Belfast |  |  |  |  |  |  | Future |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i ngaráiste i mBeal Feirste | I will work in a garage in Belfast |  |  |  |  |  |  | Future |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair in ollmhargadh i mBeal Feirste | I will work in a supermarket in Belfast |  |  |  |  |  |  | Future |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i dteach tábhairne i mBeal Feirste | I will work in a pub in Belfast |  |  |  |  |  |  | Future |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Beidh mé ag obair i ngarraí i mBeal Feirste | I will work in a garden in Belfast |  |  |  |  |  |  | Future |
+| Irish on your own | 8 | DISCUSSING JOBS |  | SENTENCE |  | tá mé neirbhíseach | i am nervous |  |  |  |  | taa may nervishoch |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | SHOP_TYPE | siopa bróg | shoe shop |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | SHOP_TYPE | siopa leabhar | bookshop |  |  |  |  | ta shopa loar agam |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | SHOP_TYPE | bácús | bakery |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD | SHOP_TYPE | teach lóistín | guesthouse |  |  |  |  | ...lostcheen... |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | TEMPLATE |  | Tá $SHOP_TYPE agam. | I have a $SHOP_TYPE. |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá siopa bróg agam. | I have a shoe shop. |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá siopa leabhar agam. | I have a bookshop. |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá bácús agam. | I have a bakery. |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | Tá teach lóistín agam. | I have a guesthouse. |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | QUESTION |  | An maith leat do phost? | Do you like your job? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | QUESTION |  | An maith leat do chuid oibre? | Do you like your work? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | SENTENCE |  | Níl mé ag obair ... | I'm not working... |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | SENTENCE |  | Tá mé dífhostaithe... | I'm unemployed... |  |  |  |  | ..djee-ost-aha |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | WORD |  | ... faoi láthair. | ... at the moment (literal: present). |  |  |  |  | ..fee laher |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | SENTENCE |  | Tá mé éirithe as | I'm retired |  |  |  |  | ...airy-a ass |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | QUESTION |  | Cad é an post a bhí agat? | What job did you have? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | TEMPLATE |  | $JOB a bhí ionam | I was a $JOB |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | feirmeoir a bhí ionam | I was a farmer |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | siopadóir a bhí ionam | I was a shopkeeper |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | búistéir a bhí ionam | I was a butcher |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | meicneoir a bhí ionam | I was a mechanic |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir a bhí ionam | I was a teacher |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | rúnaí a bhí ionam | I was a secretary |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | oibrí monarchan a bhí ionam | I was a factory worker |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | banaltra a bhí ionam | I was a nurse |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | dochtúir a bhí ionam | I was a doctor |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | tiománaí a bhí ionam | I was a driver |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | bainisteoir a bhí ionam | I was a manager |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | freastalaí a bhí ionam | I was a waiter |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | tógálaí a bhí ionam | I was a builder |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | siúinéir a bhí ionam | I was a carpenter |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | bean tí a bhí ionam | I was a housewife |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | leictreoir a bhí ionam | I was a electrician |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | iascaire a bhí ionam | I was a fisherman |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir a bhí ionam | I was a engineer |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | innealtóir ríomhaireachta a bhí ionam | I was a computer engineer |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | ríomhchláraitheoir a bhí ionam | I was a programmer |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | aisteoir a bhí ionam | I was a actor |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir bunscoile a bhí ionam | I was a primary school teacher |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | múinteoir meánscoile a bhí ionam | I was a secondary school teacher |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | SENTENCE |  | Ba mhúinteoir mé. | I was a teacher. |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | SENTENCE |  | Ba mheicneoir mé. | I was a mechanic |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | SENTENCE |  | Ba dhochtúir mé. | I was a doctor |  |  |  |  | ba gochter ma |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | SENTENCE |  | Ba banaltra mé. | I was a nurse |  |  |  |  | ba gochter ma |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | SENTENCE |  | B'oibrí monarchan mé. | I was a factory worker |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | SENTENCE |  | B'fheirmeoir mé. | I was a farmer |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | TEMPLATE |  | An $JOB tú? | Are you a $JOB? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An feirmeoir tú? | Are you a farmer? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An siopadóir tú? | Are you a shopkeeper? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An búistéir tú? | Are you a butcher? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An meicneoir tú? | Are you a mechanic? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An múinteoir tú? | Are you a teacher? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An rúnaí tú? | Are you a secretary? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An oibrí monarchan tú? | Are you a factory worker? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An banaltra tú? | Are you a nurse? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An dochtúir tú? | Are you a doctor? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An tiománaí tú? | Are you a driver? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An bainisteoir tú? | Are you a manager? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An freastalaí tú? | Are you a waiter? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An tógálaí tú? | Are you a builder? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An siúinéir tú? | Are you a carpenter? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An bean tí tú? | Are you a housewife? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An leictreoir tú? | Are you a electrician? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An iascaire tú? | Are you a fisherman? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An innealtóir tú? | Are you a engineer? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An innealtóir ríomhaireachta tú? | Are you a computer engineer? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An ríomhchláraitheoir tú? | Are you a programmer? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An aisteoir tú? | Are you a actor? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An múinteoir bunscoile tú? | Are you a primary school teacher? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | DYNAMIC |  | An múinteoir meánscoile tú? | Are you a secondary school teacher? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | SENTENCE |  | Is ea. | Yes (I am). |  |  |  |  | sha?? or ish-aa?? |  |  |
+| Irish on your own | 8 | DISCUSSING JOBS |  | SENTENCE |  | Ní hea. | No (I'm not). |  |  |  |  | nee ha |  |  |
 
-## Now You're Talking - Location and movement 1
+## Irish on your own - GIVING ORDERS AND INSTRUCTIONS
 
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Cá bhfuil ...? | Where is/are ...? |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Cá bhfuil oifig an phoist? | Where is the post office? |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Cá bhfuil do charr? | Where is your car? |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Cá bhfuil na heochracha? | Where are the keys? |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | ... ar chlé | ... on the left |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | ... ar dheis | ... on the right |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Tá sé ansin ar chlé. | It's there on the left. |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Tá sé anseo ar dheis. | It's here on the right. |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Tá sé trasna ón siopa. | It's across from the shop. |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Tá sé in aice leis an chaife. | It's beside the cafe. |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Cá mhéad seomra atá ann? | How many rooms are in it? |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Tá trí sheomra ann. | It has three rooms. |  |  |  |  | If you are not sure why it is trí sheomra but ocht seomra, go back to Unit 6. |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Ocht seomra. | Eight rooms. |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Téigh suas an staighre. | Go up the stairs. |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Téigh síos an halla. | Go down the hall. |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Tiontaigh ... | Turn ... |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Tiontaigh ar chlé or ar dheis. | Turn left or right. |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an chéad doras ar chlé | the first door on the left |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an chéad | the first |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an dara | the second |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an tríú | the third |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an ceathrú | the fourth |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an cúigiú | the fifth |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an séú | the six |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an seachtú | the seventh |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an t-ochtú | the eighth |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an naoú | the ninth |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an deichiú | the tenth |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an tábla | the table |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an chaothaoir | the chair |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an cuisneoir | the fridge |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an sorn | the cooker |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an leaba | the bed |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an teilifíseán | the television |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an prios | the press |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an cuirtíní | the curtains |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | an brat urláir | the carpet |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Cá gcuirfidh mé é seo? | Where will I put this? |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Cá gcuirfidh mé iad seo? | Where will I put these? |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Cuir thall ansin é. | Put it over there. |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Cuir sa chistin é. | Put it in the kitchen. |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Cuir sa seomra folctha é. | Put it in the bathroom. |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Ar an tábla. | On the table. |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Tá mé i mo chónaí i mBaile Átha Cliath. | I live in Dublin. |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | sa chistin | in the kitchen |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | sa gharáiste | in the garage |  |  |  |  |  |  | Sa adds a séimhiú to words beginning with a consonant (except d, n, t, l, and s): |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | sa chuisneoir | in the fridge |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | sa phrios | in the press |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | sa siopa | in the shop |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | sa teach | in the house |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | san oifig | in the office |  |  |  |  | And san is used before words beginning with a vowel: |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | san ionad spóirt | in the sports centre |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Téigh suas ... | Go up ... |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Téigh síos ... | Go down ... |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Téigh amach ... | Go out ... |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | Téigh isteach ... | Go in ... |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | thuas | up |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | thíos ... | down |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | (taobh) amuigh | outside |  |  |  |  |  |  |  |
-| Now You're Talking | 15 | Location and movement 1 |  |  |  | (taobh) istigh ... | inside |  |  |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | AG TABHAIRT ORDUITHE AGUS TREORACHA | GIVING ORDERS AND INSTRUCTIONS |  |  |  |  | ag torch ord-iha agus troar-aha |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Tar isteach. | Come in |  | s |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Tagaigí isteach. | Come in |  | p |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Taraigí isteach. | Come in |  | p |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | síos | down |  | s |  |  | shees |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Suigh síos. | sit down |  | s |  |  | see shees |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Suígí síos. | sit down |  | p |  |  | see-gee shees |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Coimhéad! | Look out! or Be careful! |  | s |  |  | cuv-ahd |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Coimhéadaigí! | Look out! or Be careful! |  | p |  |  | cuv-ahd-igi |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Coimhéad an leoraí | mind the lorry |  |  |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Coimhéad an phéint! | Mind the paint! |  |  |  |  | cuv-ahd an faint |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Fan bomaite. | Wait a minute. |  | s |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Fanaigí bomaite. | Wait a minute. |  | p |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Stad! | Stop! |  | s |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Stadaigí! | Stop! |  | p |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Ná déan sin. | Don't do that. |  | s |  |  | na jen sin |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Ná déanaigí sin. | Don't do that. |  | p |  |  | na jenigi sin |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Ná déan seo. | Don't do this. |  |  |  |  | na jen shaw |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Ciúnas! | Quiet!/Silence |  | s |  |  | cuoonyis |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Ciúnigí! | Quiet!/Silence |  | p |  |  | cuoonigee |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Bí ciúin! | Be quiet! |  | s |  |  | be cue-in |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Bígí ciúin! | Be quiet! |  | p |  |  | bigee cue-in |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Bí suaimhneach! | Be quiet! |  | s |  |  | be swinna |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Bígí suaimhneach! | Be quiet! |  | p |  |  | bigee swinna |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | le do thoil | please |  | s |  |  | le de hull |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | le bhur dtoil | please |  | p |  |  | le wer dul |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Fan socair! | Stay quiet! |  | s |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Fanaigí socair! | Stay quiet! |  | p |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Gabh amach! | Get out! |  | s |  |  | go amak (throaty k) |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Gabhaigí amach! | Get out! |  | p |  |  | gogi amak (throaty k) |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Imigh leat! | Away you go (in nice way).  Go away! (in strong voice) |  | s |  |  | immee lat |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Imigí libh! | Away you go (in nice way).  Go away! (in strong voice) |  | p |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Lean ort. | Carry on. |  | s |  |  | lan ort |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Leanaigí oraibh. | Carry on. |  | p |  |  | lanigi oriv |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Tar anseo. | Come here. |  | s |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Tagaigí anseo. | Come here. |  | p |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Taraigí anseo. | Come here. |  | p |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Goitse. | Come here. |  | s |  |  | gutcha |  | Goitse can also be used when you are leaving and when you want someone to come with you. |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Goitsigí | Come here |  | p |  |  | gutchigi |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Goitse. | Come on. |  |  |  |  | gutcha |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Druid an doras. | Shut the door. |  | s |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Druidigí an doras. | Shut the door. |  | p |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Oscail an fhuinneog. | Open the window. |  | s |  |  |  |  | In Donegal an f is placed before oscail in everyday speech but it is generally not written. |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Osclaígí an fhuinneog. | Open the window. |  | p |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Gabh a luí. | Go to bed. |  | s |  |  | go a lee |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Gabhaigí a luí. | Go to bed. |  | p |  |  | go-gee a lee |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Gabh a chodladh. | Go to sleep. |  | s |  |  | go a haw-loo??? |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Éirigh! | Get up! |  | s |  |  | ear-ee |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Éirígí! | Get up! |  | p |  |  | ear-igi |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Déan deifir! | Hurry up! |  | s |  |  | Jen jeffer or Jen jeffra |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Déanaigí deifir! | Hurry up! |  | p |  |  | Jenigy jeffer or Jenigy jeffra |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | ní thig liom | i can't |  |  |  |  | nee hig liom |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Tá deifir orm | I am in a hurry |  |  |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | tá sibh mall | you're late |  | p |  |  |  |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | bean éigin | some woman |  |  |  |  | ban ay-gan |  |  |
+| Irish on your own | 9 | GIVING ORDERS AND INSTRUCTIONS |  | SENTENCE |  | Coimhéad tú féin | Look out yourself |  |  |  |  |  |  |  |
+
+## Irish on your own - Family1
+
+| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Irish on your own | 10 | Family1 |  | WORD |  | fear | man |  |  |  |  | faar |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | an fhear | the man |  |  |  |  | an aar |  | ??? |
+| Irish on your own | 10 | Family1 |  | WORD |  | fir | men |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | bean | woman |  |  |  |  | ban |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | an bhean | the woman |  |  |  |  | an van |  | Feminine noun needs lenited |
+| Irish on your own | 10 | Family1 |  | WORD |  | mná | women |  |  |  |  | mnaw? |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | céile | spouse |  |  |  |  | kayla |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | fear céile | husband |  |  |  | man spouse | far kayla |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | bean chéile | wife |  |  |  | woman spouse | ban hayla |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | teaghlach | family (as a whole including parents) |  |  |  |  | chay-la |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | an teaghlach | the family (as a whole including parents) |  |  |  |  | an chay-la |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | cuid | part |  |  |  |  | cudge |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | cuid a haon | part one |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá mé pósta. | I'm married. |  |  |  |  | taa meh pawsta |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Níl mé pósta. | I'm not married. |  |  |  |  | nil meh pawsta |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá mé singil. | I'm single. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá mé geallta. | I'm engaged. |  |  |  |  | ...galta |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá mé scartha | I'm separated |  |  |  |  | taa meh scarha |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá mé scartha ó mo bhean (chéile). | I'm separated from my wife. |  |  |  |  | o mo van hayla |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá mé scartha ó m'fhear (céile). | I'm separated from my husband. |  |  |  |  | o mar kayla |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Is baintreach mé. | I'm a widow/widower. |  |  |  |  | is bantrack (thoaty ck) meh |  |  |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | An bhfuil tú pósta? | Are you married? |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | An bhfuil tusa pósta? | Are *you* married? |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | An bhfuil tu féin pósta? | Are you married yourself? |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá. | Yes. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Níl. | No. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Níl go fóill. | Not yet. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | páiste | child |  |  |  |  | peh-steh |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | páistí | children |  |  |  |  | peh-stee |  |  |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | An bhfuil clann agat? | Have you children? |  | s |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | An bhfuil clann agaibh? | Have you children? |  | p |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | An bhfuil clann agat féin? | Have you children yourself? |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | An bhfuil páistí agat? | Have you children? |  | s |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | An bhfuil páistí agaibh? | Have you children? |  | p |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá. | Yes. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Níl. | No. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá clann agam. | I have children. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá clann againn. | We have children. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | mac | a son |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | iníon | a daughter |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá mac agam. | I have a son. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá iníon agam. | I have a daughter. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Níl clann ar bith agam. | I have no children at all. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Níl clann ar bith againn. | We have no children at all. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Níl páistí ar bith agam. | I have no children at all. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Níl páistí ar bith againn. | We have no children at all. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá mé ag súil le páiste. | I'm expecting a child. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá mé ag súil le leanbh. | I'm expecting a baby. |  |  |  |  | ..ag sool le lanoo |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá mé torrach. | I'm pregnant. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | ticéad (thieéad) | ticket |  |  |  |  | ticid(hicid) |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | cailín | girl |  |  |  |  | cal-een |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | cailíní | girls |  |  |  |  | cal-eeny |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | girseach | girl |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | girseachaí | girls |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | buachaill | boy |  |  |  |  | bohill or byu-kal (throaty k) |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | buachaillí | boys |  |  |  |  | bohilly or byu-kali (throaty k) |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | gasúr | boy |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | gasúraí | boys |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | Cad é mar atá do chlann? | How are your children? |  | s |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | Cad é mar atá do chuid páistí? | How are your children? |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | Cad é mar atá do chlannsa? | How are *your* children? |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | Cad é mar atá do chuid *páistíse*? | How are *your* children? |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | Tá siad go maith | They are good. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | mo | my |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | do | your |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | a | his |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | a | her |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | ár | our |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | bhur | your |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | a | their |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | mo mhac | my son |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | do mhac | your son |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | m'iníon | my daughter |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | a iníon | his/her/their daughter |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | bhur n-iníon | your daughter |  | p |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | do mháthair | your mother |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | d'athair | you father |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | a hathair | her father |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | ár n-athair | our father |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | a n-athair | their father |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | a bhean | his woman? |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | a fear | her man |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | ár bpáistí | our children |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | bhur gclann | your clan/children |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | a bpáistí | their children |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | mo chlann | my clan/children |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | do chlann | your children |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | mo mhacsa | *my* son |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | do mhacsa | *your* son |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | do mháthairse | *your* mother |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | d'iníonsa | *your* daughter |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | Cá mhéad páiste atá agat? | How many children have you? |  |  |  |  | Ca vhead pawstee ataa agat? |  | Note that the singular form of the noun is used after Cá mhéad? |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | Cá mhéad cáilín atá agat? | How many girls have you? |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | Cá mhéad duine? | How many people? |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | lón inniu | lunch today |  |  |  |  | loan in-nu |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | meánlae | midday |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | an chéad Aibreán | first of april |  |  |  |  | an chid A-ibrin |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_PEOPLE | duine amháin | one (person) |  |  |  |  | dinye awan |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_PEOPLE | beirt | two (people) |  |  |  |  | birch |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_PEOPLE | triúr | three (people) |  |  |  |  | true-er |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_PEOPLE | ceathrar | four (people) |  |  |  |  | cah-rer |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_PEOPLE | cúigear | five (people) |  |  |  |  | cooiger |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_PEOPLE | seisear | six (people) |  |  |  |  | shesher |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_PEOPLE | seachtar | seven (people) |  |  |  |  | shocktar |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_PEOPLE | ochtar | eight (people) |  |  |  |  | oktar |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_PEOPLE | naonúr | nine (people) |  |  |  |  | neenar |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_PEOPLE | deichniúr | ten (people) |  |  |  |  | djenur |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_CHILDREN | páiste amháin | one child |  |  |  |  | dinye awan |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_CHILDREN | beirt pháistí | two children |  |  |  |  | birch |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_CHILDREN | triúr páistí | three children |  |  |  |  | true-er |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_CHILDREN | ceathrar páistí | four children |  |  |  |  | cah-rer |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_CHILDREN | cúigear páistí | five children |  |  |  |  | cooiger |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_CHILDREN | seisear páistí | six children |  |  |  |  | shesher |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_CHILDREN | seachtar páistí | seven children |  |  |  |  | shocktar |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_CHILDREN | ochtar páistí | eight children |  |  |  |  | oktar |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_CHILDREN | naonúr páistí | nine children |  |  |  |  | neenar |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_CHILDREN | deichniúr páistí | ten children |  |  |  |  | djenur |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_SONS | mac amháin | one son |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_SONS | beirt mhac | two sons |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_SONS | triúr mac | three sons |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_DAUGHTERS | triúr iníonacha | three daughters |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_DAUGHTERS | seisear iníonacha | six girls |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_BOYS | ceathrar buachaillí | four boys |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_GIRLS | beirt chailíní | two girls |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_GIRLS | cúigear cailíní | five girls |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_CHILDREN agam. | I have $NUM_CHILDREN. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá páiste amháin agam. | I have one child. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá beirt pháistí agam. | I have two children. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá triúr páistí agam. | I have three children. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar páistí agam. | I have four children. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá cúigear páistí agam. | I have five children. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá seisear páistí agam. | I have six children. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá seachtar páistí agam. | I have seven children. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ochtar páistí agam. | I have eight children. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá naonúr páistí agam. | I have nine children. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá deichniúr páistí agam. | I have ten children. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_SONS agam. | I have $NUM_SONS. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá mac amháin agam. | I have one son. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá beirt mhac agam. | I have two sons. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá triúr mac agam. | I have three sons. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_DAUGHTERS agam. | I have $NUM_DAUGHTERS. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá triúr iníonacha agam. | I have three daughters. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá seisear iníonacha agam. | I have six girls. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_BOYS agam. | I have $NUM_BOYS. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar buachaillí agam. | I have four boys. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_GIRLS agam. | I have $NUM_GIRLS. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá beirt chailíní agam. | I have two girls. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá cúigear cailíní agam. | I have five girls. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | NOUN | SCHOOL_TYPE | scoil | school |  |  |  |  | skull |  |  |
+| Irish on your own | 10 | Family1 |  | NOUN | SCHOOL_TYPE | naíonra | playschool |  |  |  |  | neenra |  |  |
+| Irish on your own | 10 | Family1 |  | NOUN | SCHOOL_TYPE | naíscoil | nursery school |  |  |  |  | nee-skull |  |  |
+| Irish on your own | 10 | Family1 |  | NOUN | SCHOOL_TYPE | bunscoil | primary school |  |  |  |  | bun-skull |  |  |
+| Irish on your own | 10 | Family1 |  | NOUN | SCHOOL_TYPE | meánscoil | secondary school |  |  |  |  | man-skull |  |  |
+| Irish on your own | 10 | Family1 |  | NOUN | SCHOOL_TYPE | ollscoil | university |  |  |  |  | ol-skull |  |  |
+| Irish on your own | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu sa naíonra. | $NUM_PEOPLE of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá duine amháin acu sa naíonra. | one (person) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá beirt acu sa naíonra. | two (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá triúr acu sa naíonra. | three (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar acu sa naíonra. | four (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá cúigear acu sa naíonra. | five (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá seisear acu sa naíonra. | six (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá seachtar acu sa naíonra. | seven (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ochtar acu sa naíonra. | eight (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá naonúr acu sa naíonra. | nine (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá deichniúr acu sa naíonra. | ten (people) of them is in playschool. |  |  |  |  | .. sa neenra |  |  |
+| Irish on your own | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an scoil. | $NUM_PEOPLE of them are at school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an scoil. | one (person) of them are at school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá beirt acu ar an scoil. | two (people) of them are at school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá triúr acu ar an scoil. | three (people) of them are at school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar acu ar an scoil. | four (people) of them are at school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá cúigear acu ar an scoil. | five (people) of them are at school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá seisear acu ar an scoil. | six (people) of them are at school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá seachtar acu ar an scoil. | seven (people) of them are at school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an scoil. | eight (people) of them are at school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an scoil. | nine (people) of them are at school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an scoil. | ten (people) of them are at school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an naíscoil. | $NUM_PEOPLE of them are at nursery school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an naíscoil. | one (person) of them are at nursery school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá beirt acu ar an naíscoil. | two (people) of them are at nursery school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá triúr acu ar an naíscoil. | three (people) of them are at nursery school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar acu ar an naíscoil. | four (people) of them are at nursery school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá cúigear acu ar an naíscoil. | five (people) of them are at nursery school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá seisear acu ar an naíscoil. | six (people) of them are at nursery school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá seachtar acu ar an naíscoil. | seven (people) of them are at nursery school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an naíscoil. | eight (people) of them are at nursery school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an naíscoil. | nine (people) of them are at nursery school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an naíscoil. | ten (people) of them are at nursery school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an bhunscoil. | $NUM_PEOPLE of them are at primary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an bhunscoil. | one (person) of them are at primary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá beirt acu ar an bhunscoil. | two (people) of them are at primary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá triúr acu ar an bhunscoil. | three (people) of them are at primary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar acu ar an bhunscoil. | four (people) of them are at primary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá cúigear acu ar an bhunscoil. | five (people) of them are at primary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá seisear acu ar an bhunscoil. | six (people) of them are at primary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá seachtar acu ar an bhunscoil. | seven (people) of them are at primary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an bhunscoil. | eight (people) of them are at primary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an bhunscoil. | nine (people) of them are at primary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an bhunscoil. | ten (people) of them are at primary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an mheánscoil. | $NUM_PEOPLE of them are at secondary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an mheánscoil. | one (person) of them are at secondary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá beirt acu ar an mheánscoil. | two (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá triúr acu ar an mheánscoil. | three (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar acu ar an mheánscoil. | four (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá cúigear acu ar an mheánscoil. | five (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá seisear acu ar an mheánscoil. | six (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá seachtar acu ar an mheánscoil. | seven (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an mheánscoil. | eight (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an mheánscoil. | nine (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an mheánscoil. | ten (people) of them are at secondary school. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_PEOPLE acu ar an ollscoil. | $NUM_PEOPLE of them are at university. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá duine amháin acu ar an ollscoil. | one (person) of them are at university. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá beirt acu ar an ollscoil. | two (people) of them are at university. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá triúr acu ar an ollscoil. | three (people) of them are at university. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar acu ar an ollscoil. | four (people) of them are at university. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá cúigear acu ar an ollscoil. | five (people) of them are at university. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá seisear acu ar an ollscoil. | six (people) of them are at university. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá seachtar acu ar an ollscoil. | seven (people) of them are at university. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ochtar acu ar an ollscoil. | eight (people) of them are at university. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá naonúr acu ar an ollscoil. | nine (people) of them are at university. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá deichniúr acu ar an ollscoil. | ten (people) of them are at university. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá sé sa naíonra | He is in the playschool. |  |  |  |  | ...ar an whunskull |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá Síle ar an scoil. | Síle is at school. |  |  |  |  | ...ar an whunskull |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá Síle ar an naíscoil. | Síle is at nursery school. |  |  |  |  | ...ar an whunskull |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá Síle ar an bhunscoil. | Síle is at primary school. |  |  |  |  | ...ar an whunskull |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá Aodh ar an mheánscoil. | Aodh is at secondary school. |  |  |  |  | ...vanskull??? |  |  |
+| Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá Nóra ar an ollscoil. | Nóra is at university. |  |  |  |  | ..ol-skull |  |  |
+| Irish on your own | 10 | Family1 | Additional | WORD |  | bun | bottom |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional | WORD |  | meán | méanmide |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional | WORD |  | ard | high |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional | WORD |  | rang | class |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional | WORD |  | bunrang | bottom class |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional | WORD |  | meánrang | average class |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional | WORD |  | ardrang | high class |  |  |  |  |  |  |  |
+
+## Irish on your own - SAYING WHAT YOU DID
+
+| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | NOUN |  | seachtain | week |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | NOUN |  | deireadh | end |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD |  | an deireadh seachtaine | the weekend |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | ag an deireadh seachtaine | at the weekend |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | inniú | today |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | inné | yesterday |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | arú inné | the day before yesterday |  |  |  |  | aroo inyay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | aréir | last night |  |  |  |  | a-rare |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | arú aréir | the night before last |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | maidin inné | yesterday morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD | RECENT_PERIODS | maidin inniú | this morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | NOUN |  | bainis | wedding (ceremony) |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD |  | Ag rothaíocht | cycling |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | NOUN |  | scannán | film |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | NOUN |  | ceolchoirm | concert |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | NOUN |  | coirm cheoil | concert |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | NOUN |  | mí | month |  |  |  |  | mee (vee) |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | trí mhí | three months |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | NOUN |  | liathróid | ball |  |  |  |  | La-hridge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD |  | Ag aisteoireacht | acting |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cá háit? | Where? |  |  |  |  | Ca hatch? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cá háit a ndeachaigh* tú? | Where did you go? |  | s |  |  | Ca hatch a dja-ha too? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cá háit a ndeachaigh* sibh? | Where did you go? |  | p |  |  | Ca hatch a dja-ha shiv $RECENT_PERIODS? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | Cá háit a ndeachaigh* tú $RECENT_PERIODS? | Where did you go $RECENT_PERIODS? |  |  |  |  | Ca hatch a dja-ha too $RECENT_PERIODS? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú ag an deireadh seachtaine? | Where did you go at the weekend? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú inniú? | Where did you go today? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú inné? | Where did you go yesterday? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú arú inné? | Where did you go the day before yesterday? |  |  |  |  | Ca hatch a dja-ha too aroo inyay? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú aréir? | Where did you go last night? |  |  |  |  | Ca hatch a dja-ha too a-rare? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú arú aréir? | Where did you go the night before last? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú maidin inné? | Where did you go yesterday morning? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cá háit a ndeachaigh* tú maidin inniú? | Where did you go this morning? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | Cad é a rinne tú $RECENT_PERIODS? | What did you do $RECENT_PERIODS? |  |  |  |  | Ca jay rin too $RECENT_PERIODS? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú ag an deireadh seachtaine? | What did you do at the weekend? |  |  |  |  | Ca jay rin too ? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú inniú? | What did you do today? |  |  |  |  | Ca jay rin too ? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú inné? | What did you do yesterday? |  |  |  |  | Ca jay rin too ? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú arú inné? | What did you do the day before yesterday? |  |  |  |  | Ca jay rin too aroo inyay? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú aréir? | What did you do last night? |  |  |  |  | Ca jay rin too a-rare? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú arú aréir? | What did you do the night before last? |  |  |  |  | Ca jay rin too ? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú maidin inné? | What did you do yesterday morning? |  |  |  |  | Ca jay rin too ? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Cad é a rinne tú maidin inniú? | What did you do this morning? |  |  |  |  | Ca jay rin too ? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | VERB |  | imir | play |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | D'imir $PRONOUNS | $PRONOUNS played |  |  |  |  | Jimir $PRONOUNS |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir mé | I played |  |  |  |  | Jimir meh |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir tú | you played |  |  |  |  | Jimir too |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir sé | he played |  |  |  |  | Jimir shay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir sí | she played |  |  |  |  | Jimir shee |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir muid | we played |  |  |  |  | Jimir mwidge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir sibh | you played |  |  |  |  | Jimir shiv |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'imir siad | they  played |  |  |  |  | Jimir Shee-id |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'imir mé cispheil. | I played basketball. |  |  |  |  | Djimir meh kish-fell |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'imir mé leadóg | I played tennis. |  |  |  |  | Djimir meh la-dog |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | VERB |  | amharc | watch |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | D'amharc $PRONOUNS | $PRONOUNS watched |  |  |  |  | Dark $PRONOUNS |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc mé | I watched |  |  |  |  | Dark meh |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc tú | you watched |  |  |  |  | Dark too |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc sé | he watched |  |  |  |  | Dark shay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc sí | she watched |  |  |  |  | Dark shee |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc muid | we watched |  |  |  |  | Dark mwidge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc sibh | you watched |  |  |  |  | Dark shiv |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'amharc siad | they  watched |  |  |  |  | Dark Shee-id |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'amharc mé ar fhíseáin. | I watched videos. |  |  |  |  | dark meh ar eesh-aan |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'amharc mé an teilifís. | I watched the television. |  |  |  |  | dark meh an telefish |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'amharc mé scannán. | I watched a film. |  |  |  |  | dark meh scannan |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | VERB |  | éist | listen to |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | D'eist $PRONOUNS | $PRONOUNS listened |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist mé | I listened |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist tú | you listened |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist sé | he listened |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist sí | she listened |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist muid | we listened |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist sibh | you listened |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'eist siad | they  listened |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'éist mé le dlúthdhioscaí. | I listened to CDs. |  |  |  |  | djeest meh le dluduskee |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'éist mé le ceol. | I listened to music. |  |  |  |  | djeest meh le cyol |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | VERB |  | ól | drink |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | D'ól $PRONOUNS | $PRONOUNS drink |  |  |  |  | doll $PRONOUNS |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól mé | I drink |  |  |  |  | doll meh |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól tú | you drink |  |  |  |  | doll too |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól sé | he drink |  |  |  |  | doll shay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól sí | she drink |  |  |  |  | doll shee |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól muid | we drink |  |  |  |  | doll mwidge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól sibh | you drink |  |  |  |  | doll shiv |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ól siad | they  drink |  |  |  |  | doll Shee-id |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'ól mé cúpla deoch. | I had a few drinks. |  |  |  |  | dol meh coupla jaw |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D'ól mé cúpla pionta. | I had a few pints. |  |  |  |  | dol meh coupla pinta |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Caithfidh mé labhairt leat inniu | I need to see you today |  |  |  |  | chiffy me lorch leat innyou |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | VERB |  | suigh | sit |  |  |  |  | shees |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  |  |  | suigh síos | sit down |  |  |  |  | see shees |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | shuigh $PRONOUNS | $PRONOUNS sat |  |  |  |  | hee $PRONOUNS |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh mé | I sat |  |  |  |  | hee meh |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh tú | you sat |  |  |  |  | hee too |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh sé | he sat |  |  |  |  | hee shay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh sí | she sat |  |  |  |  | hee shee |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh muid | we sat |  |  |  |  | hee mwidge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh sibh | you sat |  |  |  |  | hee shiv |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh siad | they  sat |  |  |  |  | hee Shee-id |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | shuigh $PRONOUNS síos | $PRONOUNS sat down |  |  |  |  | hee $PRONOUNS shees |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh mé síos | I sat down |  |  |  |  | hee meh shees |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh tú síos | you sat down |  |  |  |  | hee too shees |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh sé síos | he sat down |  |  |  |  | hee shay shees |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh sí síos | she sat down |  |  |  |  | hee shee shees |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh muid síos | we sat down |  |  |  |  | hee mwidge shees |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh sibh síos | you sat down |  |  |  |  | hee shiv shees |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | shuigh siad síos | they  sat down |  |  |  |  | hee Shee-id shees |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | VERB |  | druid | close |  |  |  |  | dridge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | dhruid $PRONOUNS | $PRONOUNS closed |  |  |  |  | hridge $PRONOUNS |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid mé | I closed |  |  |  |  | hridge meh |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid tú | you closed |  |  |  |  | hridge too |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid sé | he closed |  |  |  |  | hridge shay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid sí | she closed |  |  |  |  | hridge shee |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid muid | we closed |  |  |  |  | hridge mwidge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid sibh | you closed |  |  |  |  | hridge shiv |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid siad | they  closed |  |  |  |  | hridge Shee-id |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | dhruid $PRONOUNS an doras | $PRONOUNS closed the door |  |  |  |  | Hridge $PRONOUNS the door |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid mé an doras | I closed the door |  |  |  |  | Hridge meh the door |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid tú an doras | you closed the door |  |  |  |  | Hridge too the door |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid sé an doras | he closed the door |  |  |  |  | Hridge shay the door |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid sí an doras | she closed the door |  |  |  |  | Hridge shee the door |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid muid an doras | we closed the door |  |  |  |  | Hridge mwidge the door |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid sibh an doras | you closed the door |  |  |  |  | Hridge shiv the door |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dhruid siad an doras | they  closed the door |  |  |  |  | Hridge Shee-id the door |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | VERB |  | fan | wait |  |  |  |  | fan |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | d'fhan $PRONOUNS | $PRONOUNS waited |  |  |  |  | Dan $PRONOUNS |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan mé | I waited |  |  |  |  | Dan meh |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan tú | you waited |  |  |  |  | Dan too |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan sé | he waited |  |  |  |  | Dan shay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan sí | she waited |  |  |  |  | Dan shee |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan muid | we waited |  |  |  |  | Dan mwidge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan sibh | you waited |  |  |  |  | Dan shiv |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'fhan siad | they  waited |  |  |  |  | Dan Shee-id |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | bhí $PRONOUNS | $PRONOUNS was |  |  |  |  | Vee $PRONOUNS |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí mé | I was |  |  |  |  | Vee meh |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí tú | you was |  |  |  |  | Vee too |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí sé | he was |  |  |  |  | Vee shay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí sí | she was |  |  |  |  | Vee shee |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí muid | we was |  |  |  |  | Vee mwidge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí sibh | you was |  |  |  |  | Vee shiv |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | bhí siad | they  was |  |  |  |  | Vee Shee-id |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Bhí mé ag bainis. | I was at a wedding. |  |  |  |  | vee me ag bannish |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | Bhí mé i nDoire $RECENT_PERIODS | I was in Derry $RECENT_PERIODS |  |  |  |  | vee me in nirra $RECENT_PERIODS |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire ag an deireadh seachtaine | I was in Derry at the weekend |  |  |  |  | vee me in nirra  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire inniú | I was in Derry today |  |  |  |  | vee me in nirra  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire inné | I was in Derry yesterday |  |  |  |  | vee me in nirra  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire arú inné | I was in Derry the day before yesterday |  |  |  |  | vee me in nirra aroo inyay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire aréir | I was in Derry last night |  |  |  |  | vee me in nirra a-rare |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire arú aréir | I was in Derry the night before last |  |  |  |  | vee me in nirra  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire maidin inné | I was in Derry yesterday morning |  |  |  |  | vee me in nirra  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Bhí mé i nDoire maidin inniú | I was in Derry this morning |  |  |  |  | vee me in nirra  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | rinne $PRONOUNS | $PRONOUNS did/made |  |  |  |  | Rinn $PRONOUNS |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne mé | I did/made |  |  |  |  | Rinn meh |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne tú | you did/made |  |  |  |  | Rinn too |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne sé | he did/made |  |  |  |  | Rinn shay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne sí | she did/made |  |  |  |  | Rinn shee |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne muid | we did/made |  |  |  |  | Rinn mwidge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne sibh | you did/made |  |  |  |  | Rinn shiv |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne siad | they  did/made |  |  |  |  | Rinn Shee-id |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | rinne $PRONOUNS an dinnéar | $PRONOUNS made the dinner |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne mé an dinnéar | I made the dinner |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne tú an dinnéar | you made the dinner |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne sé an dinnéar | he made the dinner |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne sí an dinnéar | she made the dinner |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne muid an dinnéar | we made the dinner |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne sibh an dinnéar | you made the dinner |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rinne siad an dinnéar | they  made the dinner |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | chuala $PRONOUNS | $PRONOUNS heard |  |  |  |  | (throaty) cwilla $PRONOUNS |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala mé | I heard |  |  |  |  | (throaty) cwilla meh |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala tú | you heard |  |  |  |  | (throaty) cwilla too |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala sé | he heard |  |  |  |  | (throaty) cwilla shay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala sí | she heard |  |  |  |  | (throaty) cwilla shee |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala muid | we heard |  |  |  |  | (throaty) cwilla mwidge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala sibh | you heard |  |  |  |  | (throaty) cwilla shiv |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuala siad | they  heard |  |  |  |  | (throaty) cwilla Shee-id |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | Chuala $PRONOUNS ceol | $PRONOUNS heard music |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala mé ceol | I heard music |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala tú ceol | you heard music |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala sé ceol | he heard music |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala sí ceol | she heard music |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala muid ceol | we heard music |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala sibh ceol | you heard music |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuala siad ceol | they  heard music |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | dúirt $PRONOUNS | $PRONOUNS said |  |  |  |  | doortch $PRONOUNS |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dúirt mé | I said |  |  |  |  | doortch meh |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dúirt tú | you said |  |  |  |  | doortch too |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dúirt sé | he said |  |  |  |  | doortch shay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dúirt sí | she said |  |  |  |  | doortch shee |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dúirt muid | we said |  |  |  |  | doortch mwidge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dúirt sibh | you said |  |  |  |  | doortch shiv |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | dúirt siad | they  said |  |  |  |  | doortch Shee-id |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | fuair $PRONOUNS | $PRONOUNS got |  |  |  |  | foo-er $PRONOUNS |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | fuair mé | I got |  |  |  |  | foo-er meh |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | fuair tú | you got |  |  |  |  | foo-er too |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | fuair sé | he got |  |  |  |  | foo-er shay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | fuair sí | she got |  |  |  |  | foo-er shee |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | fuair muid | we got |  |  |  |  | foo-er mwidge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | fuair sibh | you got |  |  |  |  | foo-er shiv |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | fuair siad | they  got |  |  |  |  | foo-er Shee-id |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | d'ith $PRONOUNS | $PRONOUNS ate |  |  |  |  | dgee $PRONOUNS |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith mé | I ate |  |  |  |  | dgee meh |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith tú | you ate |  |  |  |  | dgee too |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith sé | he ate |  |  |  |  | dgee shay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith sí | she ate |  |  |  |  | dgee shee |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith muid | we ate |  |  |  |  | dgee mwidge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith sibh | you ate |  |  |  |  | dgee shiv |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | d'ith siad | they  ate |  |  |  |  | dgee Shee-id |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | D'ith $PRONOUNS dinnéar | $PRONOUNS ate dinner |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith mé dinnéar | I ate dinner |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith tú dinnéar | you ate dinner |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith sé dinnéar | he ate dinner |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith sí dinnéar | she ate dinner |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith muid dinnéar | we ate dinner |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith sibh dinnéar | you ate dinner |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | D'ith siad dinnéar | they  ate dinner |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | chonaic $PRONOUNS | $PRONOUNS saw |  |  |  |  | (throaty) honic $PRONOUNS |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé | I saw |  |  |  |  | (throaty) honic meh |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic tú | you saw |  |  |  |  | (throaty) honic too |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic sé | he saw |  |  |  |  | (throaty) honic shay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic sí | she saw |  |  |  |  | (throaty) honic shee |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic muid | we saw |  |  |  |  | (throaty) honic mwidge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic sibh | you saw |  |  |  |  | (throaty) honic shiv |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic siad | they  saw |  |  |  |  | (throaty) honic Shee-id |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | chonaic mé Brian inné | I saw Brian today |  |  |  |  | (throaty) honic |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | chonaic mé Síle $DAYS_OF_WEEK | I saw Sheila on $DAYS_OF_WEEK |  |  |  |  | (throaty) honic |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé Luain | I saw Sheila on Monday |  |  |  |  | (throaty) honic |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé Máirt | I saw Sheila on Tuesday |  |  |  |  | (throaty) honic |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé Céadaoin | I saw Sheila on Wednesday |  |  |  |  | (throaty) honic |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Déardaoin | I saw Sheila on Thursday |  |  |  |  | (throaty) honic |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé hAoine | I saw Sheila on Friday |  |  |  |  | (throaty) honic |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé Sathairn | I saw Sheila on Saturday |  |  |  |  | (throaty) honic |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chonaic mé Síle Dé Domhnaigh | I saw Sheila on Sunday |  |  |  |  | (throaty) honic |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | thug $PRONOUNS | $PRONOUNS gave |  |  |  |  | hug $PRONOUNS |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | thug mé | I gave |  |  |  |  | hug meh |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | thug tú | you gave |  |  |  |  | hug too |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | thug sé | he gave |  |  |  |  | hug shay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | thug sí | she gave |  |  |  |  | hug shee |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | thug muid | we gave |  |  |  |  | hug mwidge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | thug sibh | you gave |  |  |  |  | hug shiv |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | thug siad | they  gave |  |  |  |  | hug Shee-id |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | chuaigh $PRONOUNS | $PRONOUNS went |  |  |  |  | who-e $PRONOUNS |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuaigh mé | I went |  |  |  |  | who-e meh |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuaigh tú | you went |  |  |  |  | who-e too |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuaigh sé | he went |  |  |  |  | who-e shay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuaigh sí | she went |  |  |  |  | who-e shee |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuaigh muid | we went |  |  |  |  | who-e mwidge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuaigh sibh | you went |  |  |  |  | who-e shiv |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | chuaigh siad | they  went |  |  |  |  | who-e Shee-id |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé ag snámh. | I went swimming. |  |  |  |  | wheh meh a sna-o |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé ag siúl. | I went walking. |  |  |  |  | wheh meh a shool |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé chuig bainis. | I went to a wedding. |  |  |  |  | wheh meh a bawnish |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh muid ag rothaíocht. | We went cycling. |  |  |  |  | wheh mwidgh ag ro-he-ocht (ro-he-art>>) |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé ag iascaireacht | I went fishing |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé féin agus Sinead ag rothaíocht. | Myself and Sinead went cycling. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé go Béal Feirste ag siopadóireacht. | I went to Belfast shopping. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé go dtí an siopa | I went to the shop |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé chuig cluiche peile | I went to a football match |  |  |  |  | ...clooha pella?? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé chuig an dochtúir. | I went to the doctor. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé chuig dráma. | I went to a play. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuaigh mé go dtí an leabharlann. | I went to the library |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | chuaigh mé go dtí an t-aerfort | i went to the airport |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | rug $PRONOUNS ar | $PRONOUNS caught |  |  |  |  | rug $PRONOUNS ar |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rug mé ar | I caught |  |  |  |  | rug meh ar |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rug tú ar | you caught |  |  |  |  | rug too ar |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rug sé ar | he caught |  |  |  |  | rug shay ar |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rug sí ar | she caught |  |  |  |  | rug shee ar |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rug muid ar | we caught |  |  |  |  | rug mwidge ar |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rug sibh ar | you caught |  |  |  |  | rug shiv ar |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | rug siad ar | they  caught |  |  |  |  | rug Shee-id ar |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | Rug $PRONOUNS liathróid | $PRONOUNS caught a ball |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug mé liathróid | I caught a ball |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug tú liathróid | you caught a ball |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug sé liathróid | he caught a ball |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug sí liathróid | she caught a ball |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug muid liathróid | we caught a ball |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug sibh liathróid | you caught a ball |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Rug siad liathróid | they  caught a ball |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | tháinig $PRONOUNS | $PRONOUNS came |  |  |  |  | hanig $PRONOUNS |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig mé | I came |  |  |  |  | hanig meh |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig tú | you came |  |  |  |  | hanig too |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig sé | he came |  |  |  |  | hanig shay |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig sí | she came |  |  |  |  | hanig shee |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig muid | we came |  |  |  |  | hanig mwidge |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig sibh | you came |  |  |  |  | hanig shiv |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tháinig siad | they  came |  |  |  |  | hanig Shee-id |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Tháinig Máirín tráthnóna Dé Sathairn | Máirín came on Saturday evening |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | Chuir $PRONOUNS | $PRONOUNS sent |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir mé | I sent |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir tú | you sent |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir sé | he sent |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir sí | she sent |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir muid | we sent |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir sibh | you sent |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chuir siad | they  sent |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chuir mé litir chuig Anna. | I sent a letter to Anna. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | Chaith $PRONOUNS | $PRONOUNS threw |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith mé | I threw |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith tú | you threw |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith sé | he threw |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith sí | she threw |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith muid | we threw |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith sibh | you threw |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | Chaith siad | they  threw |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chaith sé cnámh chuig an mhadadh. | He threw a bone to the dog. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Luain | Monday |  |  |  |  | je luan |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Máirt | Tuesday |  |  |  |  | je mwarch |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Céadaoin | Wednesday |  |  |  |  | je ceadine |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Déardaoin | Thursday |  |  |  |  | jeardine |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé hAoine | Friday |  |  |  |  | je heanya |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Sathairn | Saturday |  |  |  |  | je sahern |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | WORD | DAYS_OF_WEEK | Dé Domhnaigh | Sunday |  |  |  |  | je doughny |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | maidin $DAYS_OF_WEEK | $DAYS_OF_WEEK morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé Luain | Monday morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé Máirt | Tuesday morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé Céadaoin | Wednesday morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Déardaoin | Thursday morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé hAoine | Friday morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé Sathairn | Saturday morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | maidin Dé Domhnaigh | Sunday morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | TEMPLATE |  | tráthnóna $DAYS_OF_WEEK | $DAYS_OF_WEEK evening |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé Luain | Monday evening |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé Máirt | Tuesday evening |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé Céadaoin | Wednesday evening |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Déardaoin | Thursday evening |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé hAoine | Friday evening |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé Sathairn | Saturday evening |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | DYNAMIC |  | tráthnóna Dé Domhnaigh | Sunday evening |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | oíche Luain | Monday night |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | oíche Mháirt | Tuesday night |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | oíche Chéadaoin | Wednesday night |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | oíche Dhéardaoin | Thursday night |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | oíche Aoine | Friday night |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | oíche Shathairn | Saturday night |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | oíche Dhomhnaigh | Sunday night |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cá huair? | When? |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cá huair a chuaigh tú go Leitir Ceanainn? | When did you go to Letterkenny? |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cén lá a chuaigh tú go Leitir Ceanainn? | What/which day did you go to Letterkenny? |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cé a bhí leat? | Who was with you? |  |  |  |  | kay vee lat? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cé a chuaigh leat? | Who went with you? |  |  |  |  | Kay who-e lat? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Cé a bhí ag an disco leat? | Who was with you at the disco? |  |  |  |  | kay vee ag an disco lat? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | NOUN |  | cara | friend |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | NOUN |  | cairde | friends |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Mo chara | My friend. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Mo chara Liam | My friend Liam |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Mo chairde | My friends |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Ar bhain tú sult as? | Did you enjoy it? |  |  |  |  | Ar win tu sult ass? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Ar bhain tú sult as an dráma? | Did you enjoy the play? |  |  |  |  | Ar win tu sult ass an drama? |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Ar bhain tú sult as an deireadh seachtaine? | Did you enjoy the weekend? |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Bhain. | Yes (I did). |  |  |  |  | win |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Níor bhain. | No (I didn't). |  |  |  |  | near win |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Bhain mé sult as. | I enjoyed it. |  |  |  |  | win meh sult as |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Bhain mé an-sult as. | I really enjoyed it. |  |  |  |  | win meh an-sult as |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | go hArd Mhacha | to Armagh |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | go dtí an banc | to the bank |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | chuig dráma | to a play |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Chífidh mé maidin Dé hAoine tú | I'll see you on Friday morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Thart fá leath i ndiaidh a hocht | Around half past 8 |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Beidh mé ag obair inniu | I will be working today |  |  |  |  | bay may ag obar nyou |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Beidh mé ag bualadh leis | I will be meeting him |  |  |  |  | bay may ag bwayla lesh |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | Ba mhaith liom a bheith i mo cheoltóir | i would like to be a musician |  |  |  |  |  |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | b'fhéidir | maybe |  |  |  |  | bayjor |  |  |
+| Irish on your own | 11 | SAYING WHAT YOU DID |  | PHRASE |  | D’ol mé barraíocht | I drank too much |  |  |  |  |  |  |  |
+
+## Irish on your own - Taking your leave
+
+| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | AG FÁGÁIL COMHLUADAIR | TAKING YOUR LEAVE |  |  |  |  | Ag faygal cool-wah-der |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh mé imeacht. | I have to go. |  |  |  | I have to leave | Ka-heh meh imackt |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh mé imeacht arís. | I have to go again. |  |  |  | I have to leave again |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh mé imeacht anois. | I have to go now. |  |  |  | I have to leave now |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh tú imeacht anois? | You have to go now? |  |  |  | I have to leave now |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Éist, caithfidh mé imeacht. | Listen, I have to go. |  |  |  | Listen, I have to leave |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh mé ag dul abhaile. | I have to go home. |  |  |  | I have to go home |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag imeacht. | I am going. |  |  |  | I am leaving |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul abhaile. | I am going home. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chun an bhaile. | I am going home. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chuig scannan | I am going to the film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Maith go leor. | All right. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Ceart go leor. | All right. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Is mór an trua sin. | That's a pity. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Cheana féin! | Already! |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Níl sé ach luath. | It's only early. |  |  |  | it's not but early |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Cad chuige? | Why? |  |  |  | To what purpose? | cad teeya?? |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá brón orm ach ... | I am sorry but ... |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé buartha ach ... | I am sorry but ... |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé tuirseach. | I'm tired. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé an-tuirseach. | I'm very tired. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá sé mall. | It's late. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá sé an-mhall. | It's very late. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé mall. | I'm late. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé mall don dráma. | I'm late for the play. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé mall don scannan. | I'm late for the film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá deifir orm. | I'm in a hurry. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | cuairteoir | visitor |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | cuairteoirí | visitors |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | cruinniú | meeting (event) |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag súil le cuairteoirí. | I'm expecting visitors. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chuig cruinniú. | I'm going to a meeting. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Fan tamall beag eile! | Stay a little while longer! |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chuig ceolchoirm ag a naoi a chlog | I’m going to a concert at nine o clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | Fan go dtí $HOUR_O_CLOCK | Stay until $HOUR_O_CLOCK |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a haon a chlog | Stay until 1 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a dó a chlog | Stay until 2 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a trí a chlog | Stay until 3 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a ceathair a chlog | Stay until 4 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a cúig a chlog | Stay until 5 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a sé a chlog | Stay until 6 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a seacht a chlog | Stay until 7 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a hocht a chlog | Stay until 8 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a naoi a chlog | Stay until 9 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a deich a chlog | Stay until 10 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a haon déag a chlog | Stay until 11 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a dó dhéag a chlog | Stay until 12 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Fan leathuair eile. | Stay another half an hour. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Fan uair an chloig eile. | Stay another hour. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Ní thig liom. | I can't. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | saoire | holiday |  |  |  |  | seera |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | laethanta saoire | holiday |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | lá | day |  |  | m |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | seachtain | week |  |  | f |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | coicís | fortnight |  |  | f |  | Coc-ish |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | mí | month |  |  | f |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | bliain | year |  |  | f |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | an lae | the day |  |  | m |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | na seachtaine | The week |  |  | f |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | an choicís | The fortnight |  |  | f |  | Coc-ish |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | an mhí  | month |  |  | f |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | an bhliain | the year |  |  | f |  |  |  |  |
+| Irish on your own | 13 | Taking your leave |  | WORD |  | ar an tseachtain seo chugainn | next week |  |  |  | this week towards us |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé tú. | I'll see you |  | s |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé sibh. | I'll see you |  | p |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé ar ball tú. | I'll see you in a while/I'll see you later. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann leathuaire tú. | I'll see you in half an hour. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann uair an chloig tú. | I'll see you in an hour. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé anocht tú. | I'll see you tonight. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé anocht tú mar sin. | I'll see you tonight then |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé amárach tú. | I'll see you tomorrow. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé tráthnóna tú. | I'll see you this evening. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé ar maidin tú. | I'll see you in the morning. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann cúpla lá tú. | I'll see you in a few days' time. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé ar an tseachtain seo chugainn tú. | I'll see you next week. |  |  |  | I will see you on the week coming towards us |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé an mhí seo chugainn tú. | I'll see you next month. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann seachtaine tú. | I'll see you in a week's time. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann coicíse tú. | I'll see you in a fortnight's time. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann míosa tú. | I'll see you in a month's time. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | Chífidh mé $DAYS_OF_WEEK tú. | I'll see you $DAYS_OF_WEEK. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Dé Luain tú. | I'll see you Monday. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Dé Máirt tú. | I'll see you Tuesday. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Dé Céadaoin tú. | I'll see you Wednesday. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Déardaoin tú. | I'll see you Thursday. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Dé hAoine tú. | I'll see you Friday. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Dé Sathairn tú. | I'll see you Saturday. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Dé Domhnaigh tú. | I'll see you Sunday. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | Chífidh mé ag $HOUR_O_CLOCK tú. | I'll see you at $HOUR_O_CLOCK. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a haon a chlog tú. | I'll see you at 1 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a dó a chlog tú. | I'll see you at 2 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a trí a chlog tú. | I'll see you at 3 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a ceathair a chlog tú. | I'll see you at 4 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a cúig a chlog tú. | I'll see you at 5 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a sé a chlog tú. | I'll see you at 6 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a seacht a chlog tú. | I'll see you at 7 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a hocht a chlog tú. | I'll see you at 8 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a naoi a chlog tú. | I'll see you at 9 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a deich a chlog tú. | I'll see you at 10 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a haon déag a chlog tú. | I'll see you at 11 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé ag a dó dhéag a chlog tú. | I'll see you at 12 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | I gceann míosa? | in a month? |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Go dtí an Fhrainc | to France |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | An bhfuil tú ag dul go dtí an teach tábhairne anocht? | Are you going to the pub tonight? |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | bí sa bhaile ag a haon déag | Be home at 11 |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Beidh sí sa bhaile ag a haon déag | She will be home at 11 |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | árasán | flat |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | ag m'árasán | at my flat |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | cé hí an bhean seo mar sin? | Who is this woman then? |  |  |  |  |  |  |  |
+
+## Irish on your own - Family2
+
+| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Irish on your own | 13 | Family2 |  |  |  | tuismitheoirí | parents |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | deartháireacha | brothers |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | deirfiúracha | sisters |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | seanathair | grandfather |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | athair mór | grandfather |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | seanmháthair | grandmother |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | máthair mhór | grandmother |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | uncail | uncle |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | aintin | aunt |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | col ceathrair | cousin |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | col ceathracha | cousins |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | leasathair | stepfather |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | leasmháthair | stepmother |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | leasdeirfiúr | stepsister |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | leasdeartháir | stepbrother |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | neacht | niece |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | nia | nephew |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | m'athair mór | my grandfather |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | mo mháthair mhór | my grandmother |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid deartháireacha | my brothers |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid deirfiúracha | my sisters |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | m'uncail | my uncle |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | m'aintín | my aunt |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid col ceathracha | my cousins |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | m'fhear céile | my husband |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | mo bhean chéile | my wife |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid airgid | my money |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid gruaige | my hair |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid deirfiúracha | my sisters |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | TEMPLATE |  | Seo $MY_CLOSE_FAMILY1 | This is  $MY_CLOSE_FAMILY1 |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Seo m'athair mór | This is  my grandfather |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Seo mo mháthair mhór | This is  my grandmother |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Seo m'uncail | This is  my uncle |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Seo m'aintín | This is  my aunt |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Seo m'fhear céile | This is  my husband |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Seo mo bhean chéile | This is  my wife |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | TEMPLATE |  | Seo $MY_CLOSE_FAMILY2 | These are $MY_CLOSE_FAMILY2 |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid deartháireacha | These are my brothers |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid deirfiúracha | These are my sisters |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid col ceathracha | These are my cousins |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid airgid | These are my money |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid gruaige | These are my hair |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Seo mo chuid deirfiúracha | These are my sisters |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | TEMPLATE |  | Sin $MY_CLOSE_FAMILY2 | They are $MY_CLOSE_FAMILY2 |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Sin mo chuid deartháireacha | They are my brothers |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Sin mo chuid deirfiúracha | They are my sisters |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Sin mo chuid col ceathracha | They are my cousins |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Sin mo chuid airgid | They are my money |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Sin mo chuid gruaige | They are my hair |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Sin mo chuid deirfiúracha | They are my sisters |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | Is muidne* ... | We're ... |  |  |  |  |  |  | *In Ulster Irish this word usually has three syllables in everyday speech: muid-in-ne. |
+| Irish on your own | 13 | Family2 |  |  |  | Is muidne deirfiúracha John. | We're John's sisters. |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | Is muidne deartháireacha Laura. | We're Laura's brothers. |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | Cad é an aois atá tú? | What age are you? |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | Cen aois atá tú? | What age are you? |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | Cad é an aois atá sé? | What age is he? |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | aois | age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | bliain (d'aois) | one year (old) |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | dhá bhliain | two years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | trí bliana | three years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | ceithre bliana | four years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | cúig bliana | five years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | sé bliana | six years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | seacht mbliana | seven years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | ocht mbliana | eight years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | naoi mbliana | nine years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | deich mbliana | ten years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | aon bhliain (amhain) | 1 YEAR only |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | dhá bhliain | 2 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | trí bliana | 3 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | ceithre bliana | 4 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | cúig bliana | 5 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | sé bliana | 6 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | seacht mbliana | 7 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | ocht mbliana | 8 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | naoi mbliana | 9 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | deich mbliana | 10 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | aon bhliain déag | 11 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | dhá bhliain déag | 12 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | trí bliana déag | 13 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | ceithre bliana déag | 14 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | cúig bliana déag | 15 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | sé bliana déag | 16 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | seacht mbliana déag | 17 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | ocht mbliana déag | 18 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | naoi mbliana déag | 19 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | fiche bliain | 20 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | aon bliain is fiche | 21 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | dhá bhliain is fiche | 22 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | trí bliana is fiche | 23 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | ceithre bliana is fiche | 24 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | cúig bliana is fiche | 25 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | sé bliana is fiche | 26 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | seacht mbliana is fiche | 27 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | ocht mbliana is fiche | 28 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | naoi mbliana is fiche | 29 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | tríocha bliain | 30 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | daichead bliain | 40 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | caoga bliain | 50 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | seasca bliain | 60 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | seachtó bliain | 70 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | ochtó bliain | 80 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | nócha bliain | 90 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | céad bliain | 100 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | Cá bhfuil sé ina chónaí anois? | Where does he live now? |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | Cá bhfuil sí ina cónaí anois? | Where does she live now? |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | Cá bhfuil siad ina gcónaí anois? | Where do they live now? |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | CÓNAÍ | LIVE |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | Tá mé i mo chónaí | I live |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | Tá tú i do chónaí | You live |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | Tá sé ina chónaí | He lives |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | Tá sí ina cónaí | She lives |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | Tá muid inar gcónaí | We live |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | Tá sibh in bhur gcónaí | You live |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | Tá siad ina gcónaí | They live |  |  |  |  |  |  |  |
+
+## Irish on your own - Daily Routine
+
+| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Irish on your own | 14 | Daily Routine |  |  |  | Músclaím ... | I wake up ... |  |  |  |  | musclum.. |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | de ghnáth | usually |  |  |  |  | de greah |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Músclaím de ghnáth thart fá leath i ndiaidh a seacht. | I usually wake up around half past seven. |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Éirím ag a hocht. | I get up at eight. |  |  |  |  | earim.. |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Éirím ar a hocht. | I get up at eight. |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Ním mé féin. | I wash myself. |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Ithim mo bhricfeasta idir a hocht agus leath i ndiaidh a hocht. | I eat my breakfast between eight and half past eight. |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Téim ag obair thart fá cheathrú go dtí a naoi. | I go to work at around a quarter to nine. |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Téim chun na scoile ag a naoi a chlog. | I go to school at nine o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Cad é an t-am a n-éiríonn tú achan mhaidin? | What time do you get up every morning? |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Cad é an t-am a dtéann tú ag obair achan mhaidin? | What time do you go to work every morning? |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Cad é an t-am a mbíonn do dhinnéar agat? | What time do you have your dinner? |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Bíonn mo lón agam idir a haon agus a dó. | I have my lunch between one and two. |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Bím sa bhaile de ghnáth ag a sé. | I'm usually home at six. |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Bíonn mo dhinnéar agam sa bhaile. | I have my dinner at home. |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Tá mé tuirseach. | I'm tired |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Bím tuirseach i gcónaí tráthnóna. | I am always tired in the evening |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Tá mé mall. | I'm late |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Bím mall i gcónaí maidin Dé luain. | I am always late on Monday morning. |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Cad é a dhéanann tú i rith an lae? | What do you do during the day? |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Cad é a dhéanann tú tráthnóna? | What do you do in the evening? |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Tagaim abhaile .. | I come home ... |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Éistim leis an raidió. | I listen to the radio. |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Amharcaim ar an teilifís. | I watch television. |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Téim amach. | I go out. |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Déanaim réidh béile. | I prepare a meal. |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Téim a luí luath. | I go to bed early. |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | An éisteann tú le ceol? | Do you listen to music? |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Éistim. | I do (literally, I listen). |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Ní éistim. | I don't (literally, I don't listen). |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | An dtéann tú amach go minic? | Do you go out often? |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Téim. |  |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Ní théim. |  |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | An éiríonn tú go luath? | Do you get up early? |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Éirím. |  |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Ní éirím. |  |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | An mbíonn tú gnóthach? | Are you usually busy? |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Bím. |  |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Ní bhím. |  |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | An dtagann tú abhaile luath? | Do you come home early? |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Tagaim. |  |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Ní thagaim. |  |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | An amharcann tú ar an teilifís? | Do you watch television? |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Amharcaim. |  |  |  |  |  |  |  |  |
+| Irish on your own | 14 | Daily Routine |  |  |  | Ní amharcaim. |  |  |  |  |  |  |  |  |
+
+## Irish on your own - Location and movement 1
+
+| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Cá bhfuil ...? | Where is/are ...? |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Cá bhfuil oifig an phoist? | Where is the post office? |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Cá bhfuil do charr? | Where is your car? |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Cá bhfuil na heochracha? | Where are the keys? |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | ... ar chlé | ... on the left |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | ... ar dheis | ... on the right |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Tá sé ansin ar chlé. | It's there on the left. |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Tá sé anseo ar dheis. | It's here on the right. |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Tá sé trasna ón siopa. | It's across from the shop. |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Tá sé in aice leis an chaife. | It's beside the cafe. |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Cá mhéad seomra atá ann? | How many rooms are in it? |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Tá trí sheomra ann. | It has three rooms. |  |  |  |  | If you are not sure why it is trí sheomra but ocht seomra, go back to Unit 6. |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Ocht seomra. | Eight rooms. |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Téigh suas an staighre. | Go up the stairs. |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Téigh síos an halla. | Go down the hall. |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Tiontaigh ... | Turn ... |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Tiontaigh ar chlé or ar dheis. | Turn left or right. |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an chéad doras ar chlé | the first door on the left |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an chéad | the first |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an dara | the second |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an tríú | the third |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an ceathrú | the fourth |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an cúigiú | the fifth |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an séú | the six |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an seachtú | the seventh |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an t-ochtú | the eighth |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an naoú | the ninth |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an deichiú | the tenth |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an tábla | the table |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an chaothaoir | the chair |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an cuisneoir | the fridge |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an sorn | the cooker |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an leaba | the bed |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an teilifíseán | the television |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an prios | the press |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an cuirtíní | the curtains |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | an brat urláir | the carpet |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Cá gcuirfidh mé é seo? | Where will I put this? |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Cá gcuirfidh mé iad seo? | Where will I put these? |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Cuir thall ansin é. | Put it over there. |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Cuir sa chistin é. | Put it in the kitchen. |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Cuir sa seomra folctha é. | Put it in the bathroom. |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Ar an tábla. | On the table. |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Tá mé i mo chónaí i mBaile Átha Cliath. | I live in Dublin. |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | sa chistin | in the kitchen |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | sa gharáiste | in the garage |  |  |  |  |  |  | Sa adds a séimhiú to words beginning with a consonant (except d, n, t, l, and s): |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | sa chuisneoir | in the fridge |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | sa phrios | in the press |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | sa siopa | in the shop |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | sa teach | in the house |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | san oifig | in the office |  |  |  |  | And san is used before words beginning with a vowel: |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | san ionad spóirt | in the sports centre |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Téigh suas ... | Go up ... |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Téigh síos ... | Go down ... |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Téigh amach ... | Go out ... |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Téigh isteach ... | Go in ... |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | thuas | up |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | thíos ... | down |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | (taobh) amuigh | outside |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | (taobh) istigh ... | inside |  |  |  |  |  |  |  |
 
 ## Giota Beag 1 - How are you?
 
@@ -2833,7 +2833,7 @@
 | Giota Beag 1 | 1 | How are you? |  |  |  | Slán! | Bye! |  |  |  |  |  |  |  |
 | Giota Beag 1 | 1 | How are you? |  |  |  | Dia duit | Hello |  |  |  |  |  |  |  |
 | Giota Beag 1 | 1 | How are you? |  |  |  | > Dia is Muire duit! | Hello to you too |  |  |  |  |  |  |  |
-| Giota Beag 1 | 1 | How are you? |  |  |  | Tá fáilte romhat | you're welcome |  |  |  |  |  |  |  |
+| Giota Beag 1 | 1 | How are you? |  |  |  | Tá fáilte romhat | You're welcome |  |  |  |  |  |  |  |
 | Giota Beag 1 | 1 | How are you? |  |  |  | Fáilte go Giota Beag | Welcome to Giota Beag |  |  |  |  |  |  |  |
 
 ## Giota Beag 1 - A cup of coffee please!
@@ -3121,7 +3121,7 @@
 | Giota Beag 1 | 14 | In the pub |  |  |  | Lá Fhéile Bríde | St. Brigid's Day |  |  |  |  |  |  |  |
 | Giota Beag 1 | 14 | In the pub |  |  |  | Lúnasa | August |  |  |  |  |  |  |  |
 | Giota Beag 1 | 14 | In the pub |  |  |  | Samhain | November |  |  |  |  |  |  |  |
-| Giota Beag 1 | 14 | In the pub |  |  |  | Go ndéana a mhaith duit | you're welcome/may it do you good/don't mention it |  |  |  |  |  |  |  |
+| Giota Beag 1 | 14 | In the pub |  |  |  | Go ndéana a mhaith duit | You're welcome/may it do you good/don't mention it |  |  |  |  |  |  |  |
 
 ## Giota Beag 1 - The pub
 
@@ -4487,5 +4487,6 @@
 | Other | 1 | Places |  |  | IN_PLACE | I gCorcaigh | in Cork |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | IN_PLACE | I nDoire | in Derry |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | IN_PLACE | I nDún na nGall | in Donegal |  |  |  |  |  |  |  |
+| Other | 1 | Places |  |  | IN_PLACE | i Srón Ramhar | in Stranraer |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | COUNTRIES | an Ghearmáin | Germany |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | COUNTRIES | an Fhrainc | France |  |  |  |  |  |  |  |
