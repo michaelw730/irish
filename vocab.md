@@ -189,7 +189,20 @@
 | Irish on your own | 1 | Meeting People | Weather | PHRASE |  | Buíochas le Dia | Thank God | Said after “it's a good day” for example |  |  |  | bwayhas le djia |  | is used quite frequently in this context. |
 | Irish on your own | 1 | Meeting People | Weather | SENTENCE |  | Tá drochlá ann. | It's a bad day. |  |  |  |  | teh drock-leh ann |  |  |
 | Irish on your own | 1 | Meeting People | Weather | SENTENCE |  | Tá drochlá ann inniu. | It's a bad day today. |  |  |  |  | teh drock-leh ann inn-u |  |  |
-| Irish on your own | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán! | Goodbye. |  |  |  | Safe/Health | slawn or slen |  |  |
+| Irish on your own | 1 | Meeting People | Weather | TEMPLATE |  | An bhfuil sé $WEATHER_DESCRIBE? | Is it $WEATHER_DESCRIBE? |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | An bhfuil sé fuar? | Is it cold? |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | An bhfuil sé fliuch? | Is it wet? |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | An bhfuil sé te? | Is it hot? |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | An bhfuil sé báistí? | Is it rainy? |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | An bhfuil sé gaofar? | Is it windy? |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | An bhfuil sé tirim? | Is it dry? |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | An bhfuil sé taise? | Is it damp? |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | An bhfuil sé grianmhar? | Is it sunny? |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | An bhfuil sé scamillach? | Is it cloudy? |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | An bhfuil sé ceomhar? | Is it foggy? |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | An bhfuil sé geal? | Is it bright? |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Weather | DYNAMIC |  | An bhfuil sé dorcha? | Is it dark? |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán! | Goodbye! |  |  |  | Safe/Health | slawn or slen |  |  |
 | Irish on your own | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán go fóill | Goodbye for now |  |  |  |  | Slaawn guh foil?? |  | Only say Slán after this as response |
 | Irish on your own | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán leat | Goodbye to you |  | s |  | may safety or health be with you |  |  |  |
 | Irish on your own | 1 | Meeting People | Goodbyes | SENTENCE |  | Slán libh | Goodbye to you |  | p |  |  |  |  |  |
@@ -221,6 +234,9 @@
 | Irish on your own | 1 | Meeting People | Additional | WORD |  | breithe | birth |  |  |  |  | Eh-tch |  |  |
 | Irish on your own | 1 | Meeting People | Additional | PHRASE |  | lá breithe shona | happy birthday |  |  |  |  | laa brayha |  |  |
 | Irish on your own | 1 | Meeting People | Additional | PHRASE |  | lá breithe shona duit | happy birthday to you |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People | Additional | PHRASE |  | Éist! | Listen! |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Meeting People | Additional | PHRASE |  | giota beag | a little bit |  |  |  |  | gitta big |  |  |
+| Irish on your own | 3 | Meeting People | Additional | PHRASE |  | Fáilte go Giota Beag | Welcome to Giota Beag |  |  |  |  |  |  |  |
 
 ## Irish on your own - Introductions
 
@@ -536,23 +552,23 @@
 | Irish on your own | 4 | Discussing Languages | Languages | PHRASE |  | Ag plé teangacha | Discussing languages |  |  |  |  | tchangaha?? |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | WORD |  | teanga | a language |  |  |  |  | tchangy?? |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | WORD |  | teangacha | Languages |  |  |  |  | tchangaha?? |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Gaeilge | Irish |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Fraincis | French |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Béarla | English |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Gearmáinis | German |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Iodáilis | Italian |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Spáinnis | Spanish |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Breatnais | Welsh |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Gaeilge na hAlban | Gaelic (Scotland) |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE2 | Gaeilge | Irish |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE2 | Fraincise | French |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE2 | Gearmáinise | German |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE2 | Iodáilise | Italian |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Gaeilge | Irish |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Fhraincis | French |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Ghearmáinis | German |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Spáinnis | Spanish |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Iodáilis | Italian |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Gaeilge | Irish |  |  |  |  | Gail-ic |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Fraincis | French |  |  |  |  | Francish |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Béarla | English |  |  |  |  | Bear-la |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Gearmáinis | German |  |  |  |  | Jermanish |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Iodáilis | Italian |  |  |  |  | Id-awl-ish |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Spáinnis | Spanish |  |  |  |  | Spawn-ish |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Breatnais | Welsh |  |  |  |  | Bratnish |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE | Gaeilge na hAlban | Gaelic (Scotland) |  |  |  |  | Gail-ic na Halban? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE2 | Gaeilge | Irish |  |  |  |  | Gaelic |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE2 | Fraincise | French |  |  |  |  | Francishe |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE2 | Gearmáinise | German |  |  |  |  | Jermanish-eh |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE2 | Iodáilise | Italian |  |  |  |  | Id-awl-ish-eh |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Gaeilge | Irish |  |  |  |  | Gail-ic |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Fhraincis | French |  |  |  |  | Ranc-ish |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Ghearmáinis | German |  |  |  |  | Herman-ish |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Spáinnis | Spanish |  |  |  |  | Spawn-ish |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | WORD | LANGUAGE3 | Iodáilis | Italian |  |  |  |  | Id-awl-ish |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | An bhfuil $LANGUAGE agat? | Can you speak $LANGUAGE? |  |  |  | Have you $LANGUAGE? Is $LANGUAGE at you? |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Gaeilge agat? | Can you speak Irish? |  |  |  | Have you Irish? Is Irish at you? |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil Fraincis agat? | Can you speak French? |  |  |  | Have you French? Is French at you? |  |  |  |
@@ -618,20 +634,20 @@
 | Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl aon Ghearmáinis agam. | I don't speak German. |  |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl aon Spáinnis agam. | I don't speak Spanish. |  |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Níl aon Iodáilis agam. | I don't speak Italian. |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Tá. | Yes. |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Níl. | No. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Tá. | Yes. |  |  |  |  |  |  | To agree to speaking a language |
+| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Níl. | No. |  |  |  |  |  |  | To not agree to speaking a language |
 | Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Beagán. | A little. |  |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Tá. Tá mé líofa. | Yes. I'm fluent. |  |  |  |  | Ta. Ta may leefa |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | an bhfuil tú ag foghlaim? | Are you learning? |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | an bhfuil tú ag foghlaim $LANGUAGE? | Are you learning $LANGUAGE? |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Gaeilge? | Are you learning Irish? |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Fraincis? | Are you learning French? |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Béarla? | Are you learning English? |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Gearmáinis? | Are you learning German? |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Iodáilis? | Are you learning Italian? |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Spáinnis? | Are you learning Spanish? |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Breatnais? | Are you learning Welsh? |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | an bhfuil tú ag foghlaim Gaeilge na hAlban? | Are you learning Gaelic (Scotland)? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | An bhfuil tú ag foghlaim? | Are you learning? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | An bhfuil tú ag foghlaim $LANGUAGE? | Are you learning $LANGUAGE? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil tú ag foghlaim Gaeilge? | Are you learning Irish? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil tú ag foghlaim Fraincis? | Are you learning French? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil tú ag foghlaim Béarla? | Are you learning English? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil tú ag foghlaim Gearmáinis? | Are you learning German? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil tú ag foghlaim Iodáilis? | Are you learning Italian? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil tú ag foghlaim Spáinnis? | Are you learning Spanish? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil tú ag foghlaim Breatnais? | Are you learning Welsh? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An bhfuil tú ag foghlaim Gaeilge na hAlban? | Are you learning Gaelic (Scotland)? |  |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | QUESTION |  | Cad é na teangacha atá agat? | Which/what languages can you speak? |  |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | QUESTION |  | Cad é na teangacha eile atá agat? | Which/what other languages can you speak? |  |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Tá Fraincis agus Gearmáinis agam. | I speak French and German. | repeat for other languages |  |  |  |  |  |  |
@@ -659,14 +675,14 @@
 | Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ó físeán. | I am learning Irish from video. | repeat for other languages |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Tá mé ag foghlaim Gaeilge ó físeáin. | I am learning Irish from videos. | repeat for other languages |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | An dtuigeann tú $LANGUAGE? | Do you understand $LANGUAGE? |  |  |  |  | an diggin to $LANGUAGE? |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gaeilge? | Do you understand Irish? |  |  |  |  | an diggin to ? |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Fraincis? | Do you understand French? |  |  |  |  | an diggin to ? |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Béarla? | Do you understand English? |  |  |  |  | an diggin to ? |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gearmáinis? | Do you understand German? |  |  |  |  | an diggin to ? |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Iodáilis? | Do you understand Italian? |  |  |  |  | an diggin to ? |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Spáinnis? | Do you understand Spanish? |  |  |  |  | an diggin to ? |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Breatnais? | Do you understand Welsh? |  |  |  |  | an diggin to ? |  |  |
-| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gaeilge na hAlban? | Do you understand Gaelic (Scotland)? |  |  |  |  | an diggin to ? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gaeilge? | Do you understand Irish? |  |  |  |  | an diggin to Gail-ic? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Fraincis? | Do you understand French? |  |  |  |  | an diggin to Francish? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Béarla? | Do you understand English? |  |  |  |  | an diggin to Bear-la? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gearmáinis? | Do you understand German? |  |  |  |  | an diggin to Jermanish? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Iodáilis? | Do you understand Italian? |  |  |  |  | an diggin to Id-awl-ish? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Spáinnis? | Do you understand Spanish? |  |  |  |  | an diggin to Spawn-ish? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Breatnais? | Do you understand Welsh? |  |  |  |  | an diggin to Bratnish? |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | An dtuigeann tú Gaeilge na hAlban? | Do you understand Gaelic (Scotland)? |  |  |  |  | an diggin to Gail-ic na Halban?? |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Tuigim. | Yes (I do understand). |  |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Ní thuigim. | No (I don't understand). |  |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | TEMPLATE |  | Tuigim $LANGUAGE | I do understand $LANGUAGE |  |  |  |  |  |  |  |
@@ -687,58 +703,65 @@
 | Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Spáinnis | I don't understand Spanish |  |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Breatnais | I don't understand Welsh |  |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | DYNAMIC |  | Ní thuigim Gaeilge na hAlban | I don't understand Gaelic (Scotland) |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | teanga | a language |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | teangacha | languages |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | teanga amháin | one language |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | dhá theanga | two languages |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | trí theanga | three languages |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | ceithre theanga | four languages |  |  |  |  | kera |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | cúig theanga | five languages |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | sé theanga | six languages |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | rothar | bicycle |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | rothar amháin | one bicycle |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | dhá rothar | two bicycles |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | cathaoir | chair |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | cathaoir amháin | one chair |  |  |  |  | cih-her?? |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | dhá chathaoir | two chairs |  |  |  |  | yeh hih-her |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | pionta | pint |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | pionta amháin | one pint |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | trí phionta | three pints |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | cúig phionta | five pint |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | seacht bpionta | seven pints |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | ocht bpionta | eight pints |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | deich bpionta | ten pints |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | leabhar | book |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | trí leabhar | three books |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | doras | door |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | doras amháin | one door |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | ceithre dhoras | four doors |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | bosca | box |  |  |  |  | boxsa |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | ceithre bhosca | four boxes |  |  |  |  | kera woxsa |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | ocht mbosca | eight boxes |  |  |  |  | okt moxsa |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | buidéal | bottle |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | buidéal amháin | one bottle |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | cúig bhuidéal | five bottles |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | seacht mbuidéal | seven bottles |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | caife | coffee |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | caife amháin | one coffee |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | sé chaife | six coffees |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | oráiste | orange |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | oráistí | oranges |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | cúig oráiste | five oranges |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | seacht sú oráiste | seven orange juices |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | gloine | glass |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | gloine amháin | one glass |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | naoi ngloine | nine glasses |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | tábla | table |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | ceithre thábla | four tables |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | úll | apple |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | ceithre úll | four apples |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | cóta | coat |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | naoi gcóta | nine coats |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | geansaí | jumper |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | nine ngeansaí | nine jumpers |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Discussing Languages | Counting things |  |  | deich ngeansaí | ten jumpers |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | teanga | a language |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | teangacha | languages |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | teanga amháin | one language |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | dhá theanga | two languages |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | trí theanga | three languages |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | ceithre theanga | four languages |  |  |  |  | kera |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | cúig theanga | five languages |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | sé theanga | six languages |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | rothar | bicycle |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | rothar amháin | one bicycle |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | dhá rothar | two bicycles |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | cathaoir | chair |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | cathaoir amháin | one chair |  |  |  |  | cih-her?? |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | dhá chathaoir | two chairs |  |  |  |  | yeh hih-her |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | pionta | pint |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | pionta amháin | one pint |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | trí phionta | three pints |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | cúig phionta | five pint |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | seacht bpionta | seven pints |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | ocht bpionta | eight pints |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | deich bpionta | ten pints |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | leabhar | book |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | trí leabhar | three books |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | doras | door |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | doras amháin | one door |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | ceithre dhoras | four doors |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | bosca | box |  |  |  |  | boxsa |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | ceithre bhosca | four boxes |  |  |  |  | kera woxsa |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | ocht mbosca | eight boxes |  |  |  |  | okt moxsa |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | buidéal | bottle |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | buidéal amháin | one bottle |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | cúig bhuidéal | five bottles |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | seacht mbuidéal | seven bottles |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | caife | coffee |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | caife amháin | one coffee |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | sé chaife | six coffees |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | oráiste | orange |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | oráistí | oranges |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | cúig oráiste | five oranges |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | seacht sú oráiste | seven orange juices |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | gloine | glass |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | gloine amháin | one glass |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | naoi ngloine | nine glasses |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | tábla | table |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | ceithre thábla | four tables |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | úll | apple |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | ceithre úll | four apples |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | cóta | coat |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | naoi gcóta | nine coats |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | geansaí | jumper |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | nine ngeansaí | nine jumpers |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Counting things | PHRASE |  | deich ngeansaí | ten jumpers |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | WORD | COLOURS | ban | white |  |  |  |  | buan |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | WORD | COLOURS | buí | yellow |  |  |  |  | bwee |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | WORD | COLOURS | glas | green |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | WORD | COLOURS | gorm | blue |  |  |  |  | gorim?? |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | WORD | COLOURS | dubh | black |  |  |  |  | doo?? |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | WORD | HAIR_COLOUR | rua | red haired |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | WORD | HAIR_COLOUR | fionn | fair haired |  |  |  |  |  |  |  |
 
 ## Irish on your own - Expressing Opinions
 
@@ -749,7 +772,7 @@
 | Irish on your own | 5 | Expressing Opinions |  | WORD |  | banc | bank |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD |  | clár | programme |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD |  | cláracha | programmes |  |  |  |  |  |  |  |
-| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha faisnéise | documentaries |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha faisnéise | documentaries |  |  |  | information programmes |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha spóirt | sports programmes |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha ceoil | music programmes |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | cláracha cainte | talk shows |  |  |  |  |  |  |  |
@@ -768,16 +791,16 @@
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | imirt | play |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | leadóg a imirt | play tennis |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol | music |  |  |  |  |  |  |  |
-| Irish on your own | 5 | Expressing Opinions |  | WORD |  | Cineál | Type |  |  |  |  |  |  |  |
-| Irish on your own | 5 | Expressing Opinions |  | WORD |  | Cineálacha | Types of music |  |  |  |  |  |  |  |
-| Irish on your own | 5 | Expressing Opinions |  | WORD |  | Cineálacha ceoil | Types of music |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | cineál | type |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | cineálacha | types |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | cineálacha ceoil | types of music |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol traidisiúnta | traditional music |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | ceol clasaiceach | classical music |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | snagcheol | jazz |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | roc-cheol | rock music |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | popcheol | popular music |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | sacar | soccer |  |  |  |  |  |  |  |
-| Irish on your own | 5 | Expressing Opinions |  | WORD |  | mar shampla | for example |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | mar shampla | for example |  |  |  |  | mar hampla |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD |  | go háirithe | especially |  |  |  |  | go hairy-heh |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | TEMPLATE |  | Is maith liom $THINGS_TO_LIKE | I like $THINGS_TO_LIKE |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is maith liom cláracha faisnéise | I like documentaries |  |  |  |  |  |  |  |
@@ -1005,12 +1028,12 @@
 | Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ag iascaireacht? | Do you like fishing? |  | p |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ag léamh? | Do you like reading? |  | p |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | An maith libh ag siúl? | Do you like walking? |  | p |  |  |  |  |  |
-| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Is maith. | Yes. |  |  |  |  |  |  |  |
-| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Ní maith. | No. |  |  |  |  |  |  |  |
-| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Is breá liom é/í/iad. | I really like it. |  |  |  |  |  |  |  |
-| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Ní maith liom ar chor ar bith é. | I don't like it at all. |  |  |  |  |  |  |  |
-| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Is fuath liom é/í/iad. | I hate it. |  |  |  |  |  |  |  |
-| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé ceart go leor. | It's all right. |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Is maith | Yes |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Ní maith | No |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Is breá liom é/í/iad | I really like it |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Ní maith liom ar chor ar bith é | I don't like it at all |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Is fuath liom é/í/iad | I hate it |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé ceart go leor | It's all right |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | QUESTION |  | An maith leat é? | Do you like it? |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | QUESTION |  | An maith leatsa é? | Do *you* like it? |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | QUESTION |  | An maith leat féin é? | Do you like it yourself? |  |  |  |  |  |  |  |
@@ -1040,7 +1063,7 @@
 | Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom roc-cheol | I prefer rock music |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom popcheol | I prefer popular music |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | DYNAMIC |  | Is fearr liom sacar | I prefer soccer |  |  |  |  |  |  |  |
-| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Is maith liom snagcheoil ach is fearr liom ceol traidisiúnta. | I like jazz but I prefer traditional music. |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Is maith liom snagcheoil ach is fearr liom ceol traidisiúnta | I like jazz but I prefer traditional music |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Is maith liomsa fosta é | I like it too/as well |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Is fearr liomsa fosta é | I prefer it too/as well |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD |  | bia | food |  |  |  |  |  |  |  |
@@ -1053,11 +1076,11 @@
 | Irish on your own | 5 | Expressing Opinions |  | WORD |  | fíon bán | white wine |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD |  | fíon dearg | red wine |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD |  | bialann | restaurant |  |  |  |  | bia-lann |  |  |
-| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé maith. | It's good. |  |  |  |  |  |  |  |
-| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé an-mhaith. | It's very good. |  |  |  |  |  |  |  |
-| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé measartha maith. | It's reasonably good. |  |  |  |  |  |  |  |
-| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Níl sé rómhaith. | It's not too good. |  |  |  |  | ...roh-why |  |  |
-| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé go dona. | It's very bad. |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé maith | It's good |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé an-mhaith | It's very good |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé measartha maith | It's reasonably good |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Níl sé rómhaith | It's not too good |  |  |  |  | ...roh-why |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | SENTENCE |  | Tá sé go dona | It's very bad |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | QUESTION |  | An bhfuil ... maith? | Is ... good? |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | QUESTION |  | An bhfuil an fíon seo maith? | Is this wine good? |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | QUESTION |  | An bhfuil sé seo maith? | Is this good? |  |  |  |  |  |  |  |
@@ -1074,6 +1097,7 @@
 | Irish on your own | 6 | Ordering Drinks |  | WORD |  | ag ordú | ordering |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD |  | deochanna | drinks |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD |  | ag ordú deochanna | ordering drinks |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | WORD |  | canna | tin |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD |  | cupa | a cup |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD |  | muga | a mug |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD |  | pota | a pot |  |  |  |  |  |  |  |
@@ -1114,7 +1138,6 @@
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | úll | apple |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | cuidiú | help |  |  |  |  | coodjoo |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | siúcra | sugar |  |  |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | briosca | biscuit |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT2 | phionta | pint |  |  |  |  | pinta |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | QUESTION |  | Cad é ba mhaith leat? | What would you like? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | QUESTION |  | Cad é ba mhaith leatsa? | What would *you* like? |  | s |  |  |  |  |  |
@@ -1156,7 +1179,6 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom úll | I'd like apple |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom cuidiú | I'd like help |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom siúcra | I'd like sugar |  |  |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom briosca | I'd like biscuit |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | SENTENCE |  | Ba mhaith liom ag dul amach | I'd like to go out |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | TEMPLATE |  | $WHAT_YOU_WANT domhsa. | $WHAT_YOU_WANT for me. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | deoch domhsa. | drink for me. |  |  |  |  |  |  |  |
@@ -1193,7 +1215,6 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | úll domhsa. | apple for me. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | cuidiú domhsa. | help for me. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | siúcra domhsa. | sugar for me. |  |  |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | briosca domhsa. | biscuit for me. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | QUESTION |  | Rud ar bith eile? | Anything else? |  |  |  |  | Rud ar bee ella? |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | PHRASE |  | ... le do thoil. | ... please. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | SENTENCE |  | Go raibh maith agat. | Thank you. |  |  |  |  |  |  |  |
@@ -1239,7 +1260,6 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat úll? | Would you like apple? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat cuidiú? | Would you like help? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat siúcra? | Would you like sugar? |  | s |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat briosca? | Would you like biscuit? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | TEMPLATE |  | Ar mhaith libh $WHAT_YOU_WANT? | Would you like $WHAT_YOU_WANT? |  | p |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh deoch? | Would you like drink? |  | p |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh caife? | Would you like coffee? |  | p |  |  |  |  |  |
@@ -1275,7 +1295,6 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh úll? | Would you like apple? |  | p |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh cuidiú? | Would you like help? |  | p |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh siúcra? | Would you like sugar? |  | p |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh briosca? | Would you like biscuit? |  | p |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | SENTENCE |  | Ba mhaith. | Yes (I would). |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | SENTENCE |  | Níor mhaith. | No (I wouldn't). |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | SENTENCE |  | B'fhearr ... | I'd prefer ... |  |  |  |  | bear... |  |  |
@@ -1314,7 +1333,6 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom úll | I'd prefer apple |  |  |  |  | Bear liom glinye ish-ke |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom cuidiú | I'd prefer help |  |  |  |  | Bear liom glinye ish-ke |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom siúcra | I'd prefer sugar |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom briosca | I'd prefer biscuit |  |  |  |  | Bear liom glinye ish-ke |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | SENTENCE |  | Sláinte! | Cheers! |  |  |  | Health! |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | SENTENCE |  | Sláinte mhór | Cheers (response??) |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | TEMPLATE |  | $WHAT_YOU_WANT duitse. | $WHAT_YOU_WANT for you. |  |  |  |  |  |  |  |
@@ -1352,7 +1370,6 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | úll duitse. | apple for you. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | cuidiú duitse. | help for you. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | siúcra duitse. | sugar for you. |  |  |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | briosca duitse. | biscuit for you. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | TEMPLATE |  | Seo do $WHAT_YOU_WANT2 | Here's your $WHAT_YOU_WANT2 |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Seo do phionta | Here's your pint |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | SENTENCE |  | Sláinte mhaith agat i bhfad ó bhrón. | Good health, free from sorrow. |  |  |  |  |  |  |  |
@@ -1361,6 +1378,12 @@
 | Irish on your own | 6 | Ordering Drinks |  | QUESTION |  | An ólann tú caife? | Do you drink coffee? |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | SENTENCE |  | Ólaim. | Yes/I drink |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | SENTENCE |  | Ní ólaim | No/I don't drink |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Ordering Drinks | Additional | SENTENCE |  | bricfeasta | breakfast |  |  |  |  |  |  |  |
+| Irish on your own | 3 | Ordering Drinks | Additional | SENTENCE |  | lón | lunch |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Ordering Drinks | Additional | SENTENCE |  | dinnéar | dinner |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Ordering Drinks | Additional | SENTENCE |  | Cad ba mhaith leat don bhricfeasta? | what would you like for breakfast? |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | Cad ba mhaith leat don lón? | what would you like for lunch? |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | Cad ba mhaith leat don dinnéar? | what would you like for dinner? |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | Cad é ba mhaith leat a ól? | What would you like to drink? |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | Ar mhaith leat Coke? | Would you like coke? |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | Cad é ba mhaith leat a ól leis an dinnéar? | What would you like to drink with dinner? |  |  |  |  |  |  |  |
@@ -2098,10 +2121,12 @@
 | Irish on your own | 10 | Family1 | Additional | WORD |  | bun | bottom |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 | Additional | WORD |  | meán | méanmide |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 | Additional | WORD |  | ard | high |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 | Additional | WORD |  | rang | class |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional | WORD |  | rang | class |  |  |  |  |  |  | or primary |
 | Irish on your own | 10 | Family1 | Additional | WORD |  | bunrang | bottom class |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 | Additional | WORD |  | meánrang | average class |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 | Additional | WORD |  | ardrang | high class |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional |  |  | rang a sé | class (or primary) six/sixth class |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional |  |  | clár a sé | programme six |  |  |  |  |  |  |  |
 
 ## Irish on your own - Saying what you did
 
@@ -2496,6 +2521,9 @@
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá sé mall. | It's late. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá sé an-mhall. | It's very late. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé mall. | I'm late. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá muid mall. | We’re late. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Dean deifir | Hurry up |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Dean deifir. Tá muid mall | Hurry up. We're late |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé mall don dráma. | I'm late for the play. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé mall don scannan. | I'm late for the film. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá deifir orm. | I'm in a hurry. |  |  |  |  |  |  |  |
@@ -2580,6 +2608,11 @@
 | Irish on your own | 12 | Taking your leave |  | WORD |  | árasán | flat |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | WORD |  | ag m'árasán | at my flat |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | cé hí an bhean seo mar sin? | Who is this woman then? |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave | Additional | PHRASE |  | beidh ceilí ann | there will be a ceili |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave | Additional | PHRASE |  | beidh diosco ann Dé Máirt | there will be a disco on Tuesday |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave | Additional | PHRASE |  | beidh Blas ann | Blas will be on |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave | Additional | PHRASE |  | ar leath i ndiaidh a seacht | at half past seven |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave | Additional | PHRASE |  | ar a seacht a chlog go dtí a hocht a chlog | at 7 o'clock to 8 o'clock |  |  |  |  |  |  |  |
 
 ## Irish on your own - Family2
 
@@ -2755,16 +2788,23 @@
 
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Irish on your own | 15 | Location and movement 1 | Additional |  |  | leithreas | toilet |  |  |  |  | laychras |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | Cá bhfuil ...? | Where is/are ...? |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 | Additional |  |  | cá bhfuil an bainne? | Where is the milk? |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 | Additional |  |  | cá bhfuil an siúcra? | Where is the sugar? |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 | Additional |  |  | cá bhfuil an leithreas? | Where is the toilet? |  |  |  |  |  |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | Cá bhfuil oifig an phoist? | Where is the post office? |  |  |  |  |  |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | Cá bhfuil do charr? | Where is your car? |  |  |  |  |  |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | Cá bhfuil na heochracha? | Where are the keys? |  |  |  |  |  |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | ... ar chlé | ... on the left |  |  |  |  |  |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | ... ar dheis | ... on the right |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 | Additional |  |  | thart an coirnéal | around the corner |  |  |  |  | hort an cornyal |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | Tá sé ansin ar chlé. | It's there on the left. |  |  |  |  |  |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | Tá sé anseo ar dheis. | It's here on the right. |  |  |  |  |  |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | Tá sé trasna ón siopa. | It's across from the shop. |  |  |  |  |  |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | Tá sé in aice leis an chaife. | It's beside the cafe. |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | seomra | room |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | seomra a sé | room six |  |  |  |  |  |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | Cá mhéad seomra atá ann? | How many rooms are in it? |  |  |  |  |  |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | Tá trí sheomra ann. | It has three rooms. |  |  |  |  | If you are not sure why it is trí sheomra but ocht seomra, go back to Unit 6. |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | Ocht seomra. | Eight rooms. |  |  |  |  |  |  |  |
@@ -2797,8 +2837,12 @@
 | Irish on your own | 15 | Location and movement 1 |  |  |  | Cuir thall ansin é. | Put it over there. |  |  |  |  |  |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | Cuir sa chistin é. | Put it in the kitchen. |  |  |  |  |  |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | Cuir sa seomra folctha é. | Put it in the bathroom. |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | Ar an | On the |  |  |  |  |  |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | Ar an tábla. | On the table. |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 | Additional |  |  | tá sé ar an tábla | it is on the table |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 | Additional |  |  | An bhfuil sé ar an tábla? | Is it on the table? |  |  |  |  |  |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | Tá mé i mo chónaí i mBaile Átha Cliath. | I live in Dublin. |  |  |  |  |  |  |  |
+| Irish on your own | 15 | Location and movement 1 |  |  |  | sa | in the |  |  |  |  |  |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | sa chistin | in the kitchen |  |  |  |  |  |  |  |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | sa gharáiste | in the garage |  |  |  |  |  |  | Sa adds a séimhiú to words beginning with a consonant (except d, n, t, l, and s): |
 | Irish on your own | 15 | Location and movement 1 |  |  |  | sa chuisneoir | in the fridge |  |  |  |  |  |  |  |
@@ -2833,7 +2877,7 @@
 | Giota Beag 1 | 1 | How are you? |  |  |  | Go maith | Well |  |  |  |  |  |  |  |
 | Giota Beag 1 | 1 | How are you? |  |  |  | Slán! | Bye! |  |  |  |  |  |  |  |
 | Giota Beag 1 | 1 | How are you? |  |  |  | Dia duit | Hello |  |  |  |  |  |  |  |
-| Giota Beag 1 | 1 | How are you? |  |  |  | > Dia is Muire duit! | Hello to you too |  |  |  |  |  |  |  |
+| Giota Beag 1 | 1 | How are you? |  |  |  | Dia is Muire duit! | Hello to you too |  |  |  |  |  |  |  |
 | Giota Beag 1 | 1 | How are you? |  |  |  | Tá fáilte romhat | You're welcome |  |  |  |  |  |  |  |
 | Giota Beag 1 | 1 | How are you? |  |  |  | Fáilte go Giota Beag | Welcome to Giota Beag |  |  |  |  |  |  |  |
 
@@ -2852,7 +2896,7 @@
 | Giota Beag 1 | 2 | A cup of coffee please! |  |  |  | fuar | cold |  |  |  |  |  |  |  |
 | Giota Beag 1 | 2 | A cup of coffee please! |  |  |  | fliuch | wet |  |  |  |  |  |  |  |
 | Giota Beag 1 | 2 | A cup of coffee please! |  |  |  | te | hot |  |  |  |  | chay |  |  |
-| Giota Beag 1 | 2 | A cup of coffee please! |  |  |  | + gaofar | windy |  |  |  |  | gayfor? |  |  |
+| Giota Beag 1 | 2 | A cup of coffee please! |  |  |  | gaofar | windy |  |  |  |  | gayfor? |  |  |
 | Giota Beag 1 | 2 | A cup of coffee please! |  |  |  | iontach | extremely / very |  |  |  |  | inta? |  |  |
 | Giota Beag 1 | 2 | A cup of coffee please! |  |  |  | iontach fuar | very cold |  |  |  |  |  |  |  |
 | Giota Beag 1 | 2 | A cup of coffee please! |  |  |  | iontach fliuch | very wet |  |  |  |  | flyuach?? |  |  |
@@ -2930,8 +2974,7 @@
 
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | NUMBERS |  |  |  |  |  |  |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +Náid | zero |  |  |  |  |  |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | Náid | zero |  |  |  |  |  |  |  |
 | Giota Beag 1 | 6 | Take it easy! |  |  |  | aon | one |  |  |  |  |  |  |  |
 | Giota Beag 1 | 6 | Take it easy! |  |  |  | dó | two |  |  |  |  |  |  |  |
 | Giota Beag 1 | 6 | Take it easy! |  |  |  | trí | three |  |  |  |  |  |  |  |
@@ -2944,23 +2987,23 @@
 | Giota Beag 1 | 6 | Take it easy! |  |  |  | deich | ten |  |  |  |  |  |  |  |
 | Giota Beag 1 | 6 | Take it easy! |  |  |  | aondéag | eleven |  |  |  |  |  |  |  |
 | Giota Beag 1 | 6 | Take it easy! |  |  |  | dó dhéag | twelve |  |  |  |  | doe yeag |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +trí déag | thirteen |  |  |  |  |  |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +ceathair déag | fourteen |  |  |  |  |  |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +cúig déag | fifteen |  |  |  |  |  |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +sé déag | sixteen |  |  |  |  |  |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +seacht déag | seventeen |  |  |  |  |  |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +hocht déag | eighteen |  |  |  |  |  |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +naoi déag | nineteen |  |  |  |  |  |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +fiche | twenty |  |  |  |  | fihha |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +fiche aon? | twenty one |  |  |  |  | fihha aon |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +triocha | thirty |  |  |  |  | truck-ah |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +daichead | forty |  |  |  |  | die-hid/dah-hid |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +caoga | fifty |  |  |  |  | cway-gah |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +seasca | sixty |  |  |  |  | shahs-kah |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +seachtó | seventy |  |  |  |  | shock toe |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +ochtó | eighty |  |  |  |  | uck toe |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +nócha | ninety |  |  |  |  | noe-kah |  |  |
-| Giota Beag 1 | 6 | Take it easy! |  |  |  | +céad | hundred |  |  |  |  | cay-d |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | trí déag | thirteen |  |  |  |  |  |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | ceathair déag | fourteen |  |  |  |  |  |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | cúig déag | fifteen |  |  |  |  |  |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | sé déag | sixteen |  |  |  |  |  |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | seacht déag | seventeen |  |  |  |  |  |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | hocht déag | eighteen |  |  |  |  |  |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | naoi déag | nineteen |  |  |  |  |  |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | fiche | twenty |  |  |  |  | fihha |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | fiche aon? | twenty one |  |  |  |  | fihha aon |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | triocha | thirty |  |  |  |  | truck-ah |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | daichead | forty |  |  |  |  | die-hid/dah-hid |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | caoga | fifty |  |  |  |  | cway-gah |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | seasca | sixty |  |  |  |  | shahs-kah |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | seachtó | seventy |  |  |  |  | shock toe |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | ochtó | eighty |  |  |  |  | uck toe |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | nócha | ninety |  |  |  |  | noe-kah |  |  |
+| Giota Beag 1 | 6 | Take it easy! |  |  |  | céad | hundred |  |  |  |  | cay-d |  |  |
 | Giota Beag 1 | 6 | Take it easy! |  |  |  | rang | class (or primary) |  |  |  |  |  |  |  |
 | Giota Beag 1 | 6 | Take it easy! |  |  |  | rang a sé | class (or primary) six/sixth class |  |  |  |  |  |  |  |
 | Giota Beag 1 | 6 | Take it easy! |  |  |  | clár | programme |  |  |  |  |  |  |  |
@@ -2982,16 +3025,16 @@
 | Giota Beag 1 | 7 | Take it easy! |  |  |  | Dean deifir. Tá muid mall | Hurry up. We're late |  |  |  |  |  |  |  |
 | Giota Beag 1 | 7 | Take it easy! |  |  |  | Cén t-am é? | What time is it? |  |  |  |  |  |  |  |
 | Giota Beag 1 | 7 | Take it easy! |  |  |  | Cén t-am? | What time? |  |  |  |  |  |  |  |
-| Giota Beag 1 | 7 | Take it easy! |  |  |  | ban | white |  |  |  |  | buan |  |  |
-| Giota Beag 1 | 7 | Take it easy! |  |  |  | buí | yellow |  |  |  |  | bwee |  |  |
-| Giota Beag 1 | 7 | Take it easy! |  |  |  | glas | green |  |  |  |  |  |  |  |
-| Giota Beag 1 | 7 | Take it easy! |  |  |  | gorm | blue |  |  |  |  | gorim?? |  |  |
-| Giota Beag 1 | 7 | Take it easy! |  |  |  | dubh | black |  |  |  |  | doo?? |  |  |
 
 ## Giota Beag 1 - Days of the week
 
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Giota Beag 1 | 8 | Days of the week |  |  |  | ban | white |  |  |  |  | buan |  |  |
+| Giota Beag 1 | 8 | Days of the week |  |  |  | buí | yellow |  |  |  |  | bwee |  |  |
+| Giota Beag 1 | 8 | Days of the week |  |  |  | glas | green |  |  |  |  |  |  |  |
+| Giota Beag 1 | 8 | Days of the week |  |  |  | gorm | blue |  |  |  |  | gorim?? |  |  |
+| Giota Beag 1 | 8 | Days of the week |  |  |  | dubh | black |  |  |  |  | doo?? |  |  |
 | Giota Beag 1 | 8 | Days of the week |  |  |  | ceathrú go dtí | a quarter to |  |  |  |  | ceahroo go gee |  |  |
 | Giota Beag 1 | 8 | Days of the week |  |  |  | tá sé ceathrú go dtí | it's a quarter to |  |  |  |  |  |  |  |
 | Giota Beag 1 | 8 | Days of the week |  |  |  | ar a seacht a chlog | at 7 o'clock |  |  |  |  |  |  |  |
@@ -3008,7 +3051,7 @@
 | Giota Beag 1 | 8 | Days of the week |  |  |  | beidh diosco ann Dé Máirt | there will be a disco on Tuesday |  |  |  |  |  |  |  |
 | Giota Beag 1 | 8 | Days of the week |  |  |  | beidh Blas ann | Blas will be on |  |  |  |  |  |  |  |
 | Giota Beag 1 | 8 | Days of the week |  |  |  | ar leath i ndiaidh a seacht | at half past seven |  |  |  |  |  |  |  |
-| Giota Beag 1 | 8 | Days of the week |  |  |  | ar a seacht a chlog go dtí a hocht a chlog | at 7 o'clock to 8 o'clock |  |  |  |  | ???may not be right |  |  |
+| Giota Beag 1 | 8 | Days of the week |  |  |  | ar a seacht a chlog go dtí a hocht a chlog | at 7 o'clock to 8 o'clock |  |  |  |  |  |  |  |
 | Giota Beag 1 | 8 | Days of the week |  |  |  | rua | red haired |  |  |  |  |  |  |  |
 | Giota Beag 1 | 8 | Days of the week |  |  |  | fionn | fair haired |  |  |  |  |  |  |  |
 | Giota Beag 1 | 8 | Days of the week |  |  |  | sláinte! | cheers! |  |  |  |  |  |  |  |
@@ -4031,6 +4074,8 @@
 | BBC Bitesize KS3 | 2 | Personal Traits |  |  |  | Cén dath atá ar do chuid gruaige? | What colour is your hair? |  |  |  |  |  |  |  |
 | BBC Bitesize KS3 | 2 | Personal Traits |  |  |  | Tá mo chuid gruaige... | My hair is... |  |  |  |  | Ta mo hudge grooiga.. |  |  |
 | BBC Bitesize KS3 | 2 | Personal Traits |  | TEMPLATE |  | Tá dath $HAIR_COLOUR ar mo chuid gruaige | My hair is $HAIR_COLOUR |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | Tá dath rua ar mo chuid gruaige | My hair is red haired |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | Tá dath fionn ar mo chuid gruaige | My hair is fair haired |  |  |  |  |  |  |  |
 | BBC Bitesize KS3 | 2 | Personal Traits |  |  |  | Cén dath atá ar do shúile? | What colour are your eyes? |  |  |  |  |  |  |  |
 | BBC Bitesize KS3 | 2 | Personal Traits |  |  |  | Tá mo shúile... | My eyes are... |  |  |  |  | Ta mo hula.. |  |  |
 | BBC Bitesize KS3 | 2 | Personal Traits |  |  |  | Níl mo shúile... | My eyes are not... |  |  |  |  | Neel mo hula.. |  |  |
@@ -4319,32 +4364,32 @@
 | BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | Is madadh é. | He's a dog. |  |  |  |  |  |  |  |
 | BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | Is cat í. | She's a cat. |  |  |  |  |  |  |  |
 | BBC Bitesize KS3 | 9 | Pets and Animal |  | TEMPLATE |  | Tá $ANIMAL agam. | I have a $ANIMAL. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | madadh | dog |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | cat | cat |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | coinín | rabbit |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | hamstar | hamster |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | capall | horse |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | iasc órga | goldfish |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | nathair | snake |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | toirtís | tortoise |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | muc ghuine | guinea pig |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | pearóid | parrot |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | Ar an fheirm |  |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | muc | pig |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | bó | cow |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | cearc | hen |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | asal | donkey |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | caora | sheep |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | gabhar | goat |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | Ag an zú |  |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | tíogar | tiger |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | eilifint | elephant |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | srónbheannach | rhino |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | rón | seal |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | síota | cheetah |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | moncaí | monkey |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | piongain | penguin |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | leon | lion |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | PET_ANIMAL | madadh | dog |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | PET_ANIMAL | cat | cat |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | PET_ANIMAL | coinín | rabbit |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | PET_ANIMAL | hamstar | hamster |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | PET_ANIMAL | capall | horse |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | PET_ANIMAL | iasc órga | goldfish |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | PET_ANIMAL | nathair | snake |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | PET_ANIMAL | toirtís | tortoise |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | PET_ANIMAL | muc ghuine | guinea pig |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | PET_ANIMAL | pearóid | parrot |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | Ar an fheirm | at the farm |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | FARM_ANIMAL | muc | pig |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | FARM_ANIMAL | bó | cow |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | FARM_ANIMAL | cearc | hen |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | FARM_ANIMAL | asal | donkey |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | FARM_ANIMAL | caora | sheep |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | FARM_ANIMAL | gabhar | goat |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  |  | Ag an zú | at the zoo |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | ZOO_ANIMAL | tíogar | tiger |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | ZOO_ANIMAL | eilifint | elephant |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | ZOO_ANIMAL | srónbheannach | rhino |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | ZOO_ANIMAL | rón | seal |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | ZOO_ANIMAL | síota | cheetah |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | ZOO_ANIMAL | moncaí | monkey |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | ZOO_ANIMAL | piongain | penguin |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 9 | Pets and Animal |  |  | ZOO_ANIMAL | leon | lion |  |  |  |  |  |  |  |
 
 ## BBC Bitesize KS3 - Celebrations and Festivals
 
@@ -4478,6 +4523,7 @@
 | Other | 1 | Places |  |  | PLACE | Port an Dúnáin | Portadown |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | PLACE | Nua-Eabhrac | New York |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | PLACE | Droichead na Banna | Banbridge |  |  |  |  |  |  |  |
+| Other | 1 | Places |  |  | PLACE | Srón Ramhar | Stranraer |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | IN_PLACE | I mBéal Feirste | In Belfast |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | IN_PLACE | I nGlaschú | In Glasgow |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | IN_PLACE | i bPort Rois | In Portrush |  |  |  |  |  |  |  |
@@ -4489,6 +4535,7 @@
 | Other | 1 | Places |  |  | IN_PLACE | I gCorcaigh | in Cork |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | IN_PLACE | I nDoire | in Derry |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | IN_PLACE | I nDún na nGall | in Donegal |  |  |  |  |  |  |  |
+| Other | 1 | Places |  |  | IN_PLACE | i Srón Ramhar | in Stranraer |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | IN_PLACE | i Srón Ramhar | in Stranraer |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | COUNTRIES | an Ghearmáin | Germany |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | COUNTRIES | an Fhrainc | France |  |  |  |  |  |  |  |

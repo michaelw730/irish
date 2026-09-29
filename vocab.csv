@@ -103,7 +103,8 @@ Irish on your own	1	Meeting People	Weather	SENTENCE		Tá lá breá ann inniu.	It
 Irish on your own	1	Meeting People	Weather	PHRASE		Buíochas le Dia	Thank God	Said after “it's a good day” for example				bwayhas le djia		is used quite frequently in this context.
 Irish on your own	1	Meeting People	Weather	SENTENCE		Tá drochlá ann.	It's a bad day.					teh drock-leh ann		
 Irish on your own	1	Meeting People	Weather	SENTENCE		Tá drochlá ann inniu.	It's a bad day today.					teh drock-leh ann inn-u		
-Irish on your own	1	Meeting People	Goodbyes	SENTENCE		Slán!	Goodbye.				Safe/Health	slawn or slen		
+Irish on your own	1	Meeting People	Weather	TEMPLATE		An bhfuil sé $WEATHER_DESCRIBE?	Is it $WEATHER_DESCRIBE?							
+Irish on your own	1	Meeting People	Goodbyes	SENTENCE		Slán!	Goodbye!				Safe/Health	slawn or slen		
 Irish on your own	1	Meeting People	Goodbyes	SENTENCE		Slán go fóill	Goodbye for now					Slaawn guh foil??		Only say Slán after this as response
 Irish on your own	1	Meeting People	Goodbyes	SENTENCE		Slán leat	Goodbye to you		s		may safety or health be with you			
 Irish on your own	1	Meeting People	Goodbyes	SENTENCE		Slán libh	Goodbye to you		p					
@@ -135,6 +136,9 @@ Irish on your own	1	Meeting People	Additional	WORD		sona	happy
 Irish on your own	1	Meeting People	Additional	WORD		breithe	birth					Eh-tch		
 Irish on your own	1	Meeting People	Additional	PHRASE		lá breithe shona	happy birthday					laa brayha		
 Irish on your own	1	Meeting People	Additional	PHRASE		lá breithe shona duit	happy birthday to you							
+Irish on your own	1	Meeting People	Additional	PHRASE		Éist!	Listen!							
+Irish on your own	2	Meeting People	Additional	PHRASE		giota beag	a little bit					gitta big		
+Irish on your own	3	Meeting People	Additional	PHRASE		Fáilte go Giota Beag	Welcome to Giota Beag							
 Irish on your own	2	Introductions		PHRASE		Cur in aithne	Introductions					cur in an-yuh		
 Irish on your own	2	Introductions		WORD		ainm	Name							
 Irish on your own	2	Introductions		WORD		sloinne	surname					slin-you		
@@ -333,23 +337,23 @@ Irish on your own	3	Speaking about your background	Time			An bhfuil dráma anoch
 Irish on your own	4	Discussing Languages	Languages	PHRASE		Ag plé teangacha	Discussing languages					tchangaha??		
 Irish on your own	4	Discussing Languages	Languages	WORD		teanga	a language					tchangy??		
 Irish on your own	4	Discussing Languages	Languages	WORD		teangacha	Languages					tchangaha??		
-Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE	Gaeilge	Irish							
-Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE	Fraincis	French							
-Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE	Béarla	English							
-Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE	Gearmáinis	German							
-Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE	Iodáilis	Italian							
-Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE	Spáinnis	Spanish							
-Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE	Breatnais	Welsh							
-Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE	Gaeilge na hAlban	Gaelic (Scotland)							
-Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE2	Gaeilge	Irish							
-Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE2	Fraincise	French							
-Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE2	Gearmáinise	German							
-Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE2	Iodáilise	Italian							
-Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE3	Gaeilge	Irish							
-Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE3	Fhraincis	French							
-Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE3	Ghearmáinis	German							
-Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE3	Spáinnis	Spanish							
-Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE3	Iodáilis	Italian							
+Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE	Gaeilge	Irish					Gail-ic		
+Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE	Fraincis	French					Francish		
+Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE	Béarla	English					Bear-la		
+Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE	Gearmáinis	German					Jermanish		
+Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE	Iodáilis	Italian					Id-awl-ish		
+Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE	Spáinnis	Spanish					Spawn-ish		
+Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE	Breatnais	Welsh					Bratnish		
+Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE	Gaeilge na hAlban	Gaelic (Scotland)					Gail-ic na Halban?		
+Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE2	Gaeilge	Irish					Gaelic		
+Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE2	Fraincise	French					Francishe		
+Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE2	Gearmáinise	German					Jermanish-eh		
+Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE2	Iodáilise	Italian					Id-awl-ish-eh		
+Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE3	Gaeilge	Irish					Gail-ic		
+Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE3	Fhraincis	French					Ranc-ish		
+Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE3	Ghearmáinis	German					Herman-ish		
+Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE3	Spáinnis	Spanish					Spawn-ish		
+Irish on your own	4	Discussing Languages	Languages	WORD	LANGUAGE3	Iodáilis	Italian					Id-awl-ish		
 Irish on your own	4	Discussing Languages	Languages	TEMPLATE		An bhfuil $LANGUAGE agat?	Can you speak $LANGUAGE?				Have you $LANGUAGE? Is $LANGUAGE at you?			
 Irish on your own	4	Discussing Languages	Languages	TEMPLATE		An bhfuil $LANGUAGE ag Tony?	Can Tony speak $LANGUAGE?				Has Tony $LANGUAGE? Is $LANGUAGE at Tony?			
 Irish on your own	4	Discussing Languages	Languages	TEMPLATE		Tá $LANGUAGE agam.	I speak $LANGUAGE.							
@@ -362,12 +366,12 @@ Irish on your own	4	Discussing Languages	Languages	TEMPLATE		Tá mé ag foghlaim
 Irish on your own	4	Discussing Languages	Languages	TEMPLATE		Níl mórán $LANGUAGE2 agam.	I can't speak much $LANGUAGE2.							
 Irish on your own	4	Discussing Languages	Languages	TEMPLATE		Níl mórán $LANGUAGE2 agam ach tá mé ag foghlaim.	I can't speak much $LANGUAGE2 but I am learning.							
 Irish on your own	4	Discussing Languages	Languages	TEMPLATE		Níl aon $LANGUAGE3 agam.	I don't speak $LANGUAGE3.							
-Irish on your own	4	Discussing Languages	Languages	SENTENCE		Tá.	Yes.							
-Irish on your own	4	Discussing Languages	Languages	SENTENCE		Níl.	No.							
+Irish on your own	4	Discussing Languages	Languages	SENTENCE		Tá.	Yes.							To agree to speaking a language
+Irish on your own	4	Discussing Languages	Languages	SENTENCE		Níl.	No.							To not agree to speaking a language
 Irish on your own	4	Discussing Languages	Languages	SENTENCE		Beagán.	A little.							
 Irish on your own	4	Discussing Languages	Languages	SENTENCE		Tá. Tá mé líofa.	Yes. I'm fluent.					Ta. Ta may leefa		
-Irish on your own	4	Discussing Languages	Languages	SENTENCE		an bhfuil tú ag foghlaim?	Are you learning?							
-Irish on your own	4	Discussing Languages	Languages	TEMPLATE		an bhfuil tú ag foghlaim $LANGUAGE?	Are you learning $LANGUAGE?							
+Irish on your own	4	Discussing Languages	Languages	SENTENCE		An bhfuil tú ag foghlaim?	Are you learning?							
+Irish on your own	4	Discussing Languages	Languages	TEMPLATE		An bhfuil tú ag foghlaim $LANGUAGE?	Are you learning $LANGUAGE?							
 Irish on your own	4	Discussing Languages	Languages	QUESTION		Cad é na teangacha atá agat?	Which/what languages can you speak?							
 Irish on your own	4	Discussing Languages	Languages	QUESTION		Cad é na teangacha eile atá agat?	Which/what other languages can you speak?							
 Irish on your own	4	Discussing Languages	Languages	SENTENCE		Tá Fraincis agus Gearmáinis agam.	I speak French and German.	repeat for other languages						
@@ -388,64 +392,71 @@ Irish on your own	4	Discussing Languages	Languages	SENTENCE		Tuigim.	Yes (I do u
 Irish on your own	4	Discussing Languages	Languages	SENTENCE		Ní thuigim.	No (I don't understand).							
 Irish on your own	4	Discussing Languages	Languages	TEMPLATE		Tuigim $LANGUAGE	I do understand $LANGUAGE							
 Irish on your own	4	Discussing Languages	Languages	TEMPLATE		Ní thuigim $LANGUAGE	I don't understand $LANGUAGE							
-Irish on your own	4	Discussing Languages	Counting things			teanga	a language							
-Irish on your own	4	Discussing Languages	Counting things			teangacha	languages							
-Irish on your own	4	Discussing Languages	Counting things			teanga amháin	one language							
-Irish on your own	4	Discussing Languages	Counting things			dhá theanga	two languages							
-Irish on your own	4	Discussing Languages	Counting things			trí theanga	three languages							
-Irish on your own	4	Discussing Languages	Counting things			ceithre theanga	four languages					kera		
-Irish on your own	4	Discussing Languages	Counting things			cúig theanga	five languages							
-Irish on your own	4	Discussing Languages	Counting things			sé theanga	six languages							
-Irish on your own	4	Discussing Languages	Counting things			rothar	bicycle							
-Irish on your own	4	Discussing Languages	Counting things			rothar amháin	one bicycle							
-Irish on your own	4	Discussing Languages	Counting things			dhá rothar	two bicycles							
-Irish on your own	4	Discussing Languages	Counting things			cathaoir	chair							
-Irish on your own	4	Discussing Languages	Counting things			cathaoir amháin	one chair					cih-her??		
-Irish on your own	4	Discussing Languages	Counting things			dhá chathaoir	two chairs					yeh hih-her		
-Irish on your own	4	Discussing Languages	Counting things			pionta	pint							
-Irish on your own	4	Discussing Languages	Counting things			pionta amháin	one pint							
-Irish on your own	4	Discussing Languages	Counting things			trí phionta	three pints							
-Irish on your own	4	Discussing Languages	Counting things			cúig phionta	five pint							
-Irish on your own	4	Discussing Languages	Counting things			seacht bpionta	seven pints							
-Irish on your own	4	Discussing Languages	Counting things			ocht bpionta	eight pints							
-Irish on your own	4	Discussing Languages	Counting things			deich bpionta	ten pints							
-Irish on your own	4	Discussing Languages	Counting things			leabhar	book							
-Irish on your own	4	Discussing Languages	Counting things			trí leabhar	three books							
-Irish on your own	4	Discussing Languages	Counting things			doras	door							
-Irish on your own	4	Discussing Languages	Counting things			doras amháin	one door							
-Irish on your own	4	Discussing Languages	Counting things			ceithre dhoras	four doors							
-Irish on your own	4	Discussing Languages	Counting things			bosca	box					boxsa		
-Irish on your own	4	Discussing Languages	Counting things			ceithre bhosca	four boxes					kera woxsa		
-Irish on your own	4	Discussing Languages	Counting things			ocht mbosca	eight boxes					okt moxsa		
-Irish on your own	4	Discussing Languages	Counting things			buidéal	bottle							
-Irish on your own	4	Discussing Languages	Counting things			buidéal amháin	one bottle							
-Irish on your own	4	Discussing Languages	Counting things			cúig bhuidéal	five bottles							
-Irish on your own	4	Discussing Languages	Counting things			seacht mbuidéal	seven bottles							
-Irish on your own	4	Discussing Languages	Counting things			caife	coffee							
-Irish on your own	4	Discussing Languages	Counting things			caife amháin	one coffee							
-Irish on your own	4	Discussing Languages	Counting things			sé chaife	six coffees							
-Irish on your own	4	Discussing Languages	Counting things			oráiste	orange							
-Irish on your own	4	Discussing Languages	Counting things			oráistí	oranges							
-Irish on your own	4	Discussing Languages	Counting things			cúig oráiste	five oranges							
-Irish on your own	4	Discussing Languages	Counting things			seacht sú oráiste	seven orange juices							
-Irish on your own	4	Discussing Languages	Counting things			gloine	glass							
-Irish on your own	4	Discussing Languages	Counting things			gloine amháin	one glass							
-Irish on your own	4	Discussing Languages	Counting things			naoi ngloine	nine glasses							
-Irish on your own	4	Discussing Languages	Counting things			tábla	table							
-Irish on your own	4	Discussing Languages	Counting things			ceithre thábla	four tables							
-Irish on your own	4	Discussing Languages	Counting things			úll	apple							
-Irish on your own	4	Discussing Languages	Counting things			ceithre úll	four apples							
-Irish on your own	4	Discussing Languages	Counting things			cóta	coat							
-Irish on your own	4	Discussing Languages	Counting things			naoi gcóta	nine coats							
-Irish on your own	4	Discussing Languages	Counting things			geansaí	jumper							
-Irish on your own	4	Discussing Languages	Counting things			nine ngeansaí	nine jumpers							
-Irish on your own	4	Discussing Languages	Counting things			deich ngeansaí	ten jumpers							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		teanga	a language							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		teangacha	languages							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		teanga amháin	one language							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		dhá theanga	two languages							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		trí theanga	three languages							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		ceithre theanga	four languages					kera		
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		cúig theanga	five languages							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		sé theanga	six languages							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		rothar	bicycle							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		rothar amháin	one bicycle							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		dhá rothar	two bicycles							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		cathaoir	chair							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		cathaoir amháin	one chair					cih-her??		
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		dhá chathaoir	two chairs					yeh hih-her		
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		pionta	pint							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		pionta amháin	one pint							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		trí phionta	three pints							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		cúig phionta	five pint							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		seacht bpionta	seven pints							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		ocht bpionta	eight pints							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		deich bpionta	ten pints							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		leabhar	book							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		trí leabhar	three books							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		doras	door							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		doras amháin	one door							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		ceithre dhoras	four doors							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		bosca	box					boxsa		
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		ceithre bhosca	four boxes					kera woxsa		
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		ocht mbosca	eight boxes					okt moxsa		
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		buidéal	bottle							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		buidéal amháin	one bottle							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		cúig bhuidéal	five bottles							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		seacht mbuidéal	seven bottles							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		caife	coffee							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		caife amháin	one coffee							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		sé chaife	six coffees							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		oráiste	orange							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		oráistí	oranges							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		cúig oráiste	five oranges							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		seacht sú oráiste	seven orange juices							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		gloine	glass							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		gloine amháin	one glass							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		naoi ngloine	nine glasses							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		tábla	table							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		ceithre thábla	four tables							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		úll	apple							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		ceithre úll	four apples							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		cóta	coat							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		naoi gcóta	nine coats							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		geansaí	jumper							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		nine ngeansaí	nine jumpers							
+Irish on your own	4	Discussing Languages	Counting things	PHRASE		deich ngeansaí	ten jumpers							
+Irish on your own	4	Discussing Languages	Additional	WORD	COLOURS	ban	white					buan		
+Irish on your own	4	Discussing Languages	Additional	WORD	COLOURS	buí	yellow					bwee		
+Irish on your own	4	Discussing Languages	Additional	WORD	COLOURS	glas	green							
+Irish on your own	4	Discussing Languages	Additional	WORD	COLOURS	gorm	blue					gorim??		
+Irish on your own	4	Discussing Languages	Additional	WORD	COLOURS	dubh	black					doo??		
+Irish on your own	4	Discussing Languages	Additional	WORD	HAIR_COLOUR	rua	red haired							
+Irish on your own	4	Discussing Languages	Additional	WORD	HAIR_COLOUR	fionn	fair haired							
 Irish on your own	5	Expressing Opinions		PHRASE		AG CUR TUAIRIMÍ IN IÚL	Expressing opinions					ag cur toor-a-me in yool		
 Irish on your own	5	Expressing Opinions		PHRASE		Caithimh aimsire	Pastimes					cahiv amshira		
 Irish on your own	5	Expressing Opinions		WORD		banc	bank							
 Irish on your own	5	Expressing Opinions		WORD		clár	programme							
 Irish on your own	5	Expressing Opinions		WORD		cláracha	programmes							
-Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	cláracha faisnéise	documentaries							
+Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	cláracha faisnéise	documentaries				information programmes			
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	cláracha spóirt	sports programmes							
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	cláracha ceoil	music programmes							
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	cláracha cainte	talk shows							
@@ -464,16 +475,16 @@ Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul chuig dráma
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	imirt	play							
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	leadóg a imirt	play tennis							
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	ceol	music							
-Irish on your own	5	Expressing Opinions		WORD		Cineál	Type							
-Irish on your own	5	Expressing Opinions		WORD		Cineálacha	Types of music							
-Irish on your own	5	Expressing Opinions		WORD		Cineálacha ceoil	Types of music							
+Irish on your own	5	Expressing Opinions		WORD		cineál	type							
+Irish on your own	5	Expressing Opinions		WORD		cineálacha	types							
+Irish on your own	5	Expressing Opinions		WORD		cineálacha ceoil	types of music							
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	ceol traidisiúnta	traditional music							
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	ceol clasaiceach	classical music							
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	snagcheol	jazz							
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	roc-cheol	rock music							
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	popcheol	popular music							
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	sacar	soccer							
-Irish on your own	5	Expressing Opinions		WORD		mar shampla	for example							
+Irish on your own	5	Expressing Opinions		WORD		mar shampla	for example					mar hampla		
 Irish on your own	5	Expressing Opinions		WORD		go háirithe	especially					go hairy-heh		
 Irish on your own	5	Expressing Opinions		TEMPLATE		Is maith liom $THINGS_TO_LIKE	I like $THINGS_TO_LIKE							
 Irish on your own	5	Expressing Opinions		TEMPLATE		Is breá liom $THINGS_TO_LIKE	I really like $THINGS_TO_LIKE							
@@ -496,17 +507,17 @@ Irish on your own	5	Expressing Opinions		TEMPLATE		Ní maith liom a bheith $THIN
 Irish on your own	5	Expressing Opinions		TEMPLATE		Is fuath liom a bheith $THINGS_TO_LIKE_TO_DO	I hate $THINGS_TO_LIKE_TO_DO							
 Irish on your own	5	Expressing Opinions		TEMPLATE		An maith leat $THINGS_TO_LIKE_TO_DO?	Do you like $THINGS_TO_LIKE_TO_DO?		s					
 Irish on your own	5	Expressing Opinions		TEMPLATE		An maith libh $THINGS_TO_LIKE_TO_DO?	Do you like $THINGS_TO_LIKE_TO_DO?		p					
-Irish on your own	5	Expressing Opinions		SENTENCE		Is maith.	Yes.							
-Irish on your own	5	Expressing Opinions		SENTENCE		Ní maith.	No.							
-Irish on your own	5	Expressing Opinions		SENTENCE		Is breá liom é/í/iad.	I really like it.							
-Irish on your own	5	Expressing Opinions		SENTENCE		Ní maith liom ar chor ar bith é.	I don't like it at all.							
-Irish on your own	5	Expressing Opinions		SENTENCE		Is fuath liom é/í/iad.	I hate it.							
-Irish on your own	5	Expressing Opinions		SENTENCE		Tá sé ceart go leor.	It's all right.							
+Irish on your own	5	Expressing Opinions		SENTENCE		Is maith	Yes							
+Irish on your own	5	Expressing Opinions		SENTENCE		Ní maith	No							
+Irish on your own	5	Expressing Opinions		SENTENCE		Is breá liom é/í/iad	I really like it							
+Irish on your own	5	Expressing Opinions		SENTENCE		Ní maith liom ar chor ar bith é	I don't like it at all							
+Irish on your own	5	Expressing Opinions		SENTENCE		Is fuath liom é/í/iad	I hate it							
+Irish on your own	5	Expressing Opinions		SENTENCE		Tá sé ceart go leor	It's all right							
 Irish on your own	5	Expressing Opinions		QUESTION		An maith leat é?	Do you like it?							
 Irish on your own	5	Expressing Opinions		QUESTION		An maith leatsa é?	Do *you* like it?							
 Irish on your own	5	Expressing Opinions		QUESTION		An maith leat féin é?	Do you like it yourself?							
 Irish on your own	5	Expressing Opinions		TEMPLATE		Is fearr liom $THINGS_TO_LIKE	I prefer $THINGS_TO_LIKE							
-Irish on your own	5	Expressing Opinions		SENTENCE		Is maith liom snagcheoil ach is fearr liom ceol traidisiúnta.	I like jazz but I prefer traditional music.							
+Irish on your own	5	Expressing Opinions		SENTENCE		Is maith liom snagcheoil ach is fearr liom ceol traidisiúnta	I like jazz but I prefer traditional music							
 Irish on your own	5	Expressing Opinions		SENTENCE		Is maith liomsa fosta é	I like it too/as well							
 Irish on your own	5	Expressing Opinions		SENTENCE		Is fearr liomsa fosta é	I prefer it too/as well							
 Irish on your own	5	Expressing Opinions		WORD		bia	food							
@@ -519,11 +530,11 @@ Irish on your own	5	Expressing Opinions		WORD		sicín	chicken
 Irish on your own	5	Expressing Opinions		WORD		fíon bán	white wine							
 Irish on your own	5	Expressing Opinions		WORD		fíon dearg	red wine							
 Irish on your own	5	Expressing Opinions		WORD		bialann	restaurant					bia-lann		
-Irish on your own	5	Expressing Opinions		SENTENCE		Tá sé maith.	It's good.							
-Irish on your own	5	Expressing Opinions		SENTENCE		Tá sé an-mhaith.	It's very good.							
-Irish on your own	5	Expressing Opinions		SENTENCE		Tá sé measartha maith.	It's reasonably good.							
-Irish on your own	5	Expressing Opinions		SENTENCE		Níl sé rómhaith.	It's not too good.					...roh-why		
-Irish on your own	5	Expressing Opinions		SENTENCE		Tá sé go dona.	It's very bad.							
+Irish on your own	5	Expressing Opinions		SENTENCE		Tá sé maith	It's good							
+Irish on your own	5	Expressing Opinions		SENTENCE		Tá sé an-mhaith	It's very good							
+Irish on your own	5	Expressing Opinions		SENTENCE		Tá sé measartha maith	It's reasonably good							
+Irish on your own	5	Expressing Opinions		SENTENCE		Níl sé rómhaith	It's not too good					...roh-why		
+Irish on your own	5	Expressing Opinions		SENTENCE		Tá sé go dona	It's very bad							
 Irish on your own	5	Expressing Opinions		QUESTION		An bhfuil ... maith?	Is ... good?							
 Irish on your own	5	Expressing Opinions		QUESTION		An bhfuil an fíon seo maith?	Is this wine good?							
 Irish on your own	5	Expressing Opinions		QUESTION		An bhfuil sé seo maith?	Is this good?							
@@ -535,6 +546,7 @@ Irish on your own	6	Ordering Drinks		WORD		ordú	order
 Irish on your own	6	Ordering Drinks		WORD		ag ordú	ordering							
 Irish on your own	6	Ordering Drinks		WORD		deochanna	drinks							
 Irish on your own	6	Ordering Drinks		WORD		ag ordú deochanna	ordering drinks							
+Irish on your own	6	Ordering Drinks		WORD		canna	tin							
 Irish on your own	6	Ordering Drinks		WORD		cupa	a cup							
 Irish on your own	6	Ordering Drinks		WORD		muga	a mug							
 Irish on your own	6	Ordering Drinks		WORD		pota	a pot							
@@ -575,7 +587,6 @@ Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	milseáin	sweets
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	úll	apple							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	cuidiú	help					coodjoo		
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	siúcra	sugar							
-Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	briosca	biscuit							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT2	phionta	pint					pinta		
 Irish on your own	6	Ordering Drinks		QUESTION		Cad é ba mhaith leat?	What would you like?		s					
 Irish on your own	6	Ordering Drinks		QUESTION		Cad é ba mhaith leatsa?	What would *you* like?		s					
@@ -611,6 +622,12 @@ Irish on your own	6	Ordering Drinks		SENTENCE		Go mba fada a mhairfidh tú.	Long
 Irish on your own	6	Ordering Drinks		QUESTION		An ólann tú caife?	Do you drink coffee?							
 Irish on your own	6	Ordering Drinks		SENTENCE		Ólaim.	Yes/I drink							
 Irish on your own	6	Ordering Drinks		SENTENCE		Ní ólaim	No/I don't drink							
+Irish on your own	2	Ordering Drinks	Additional	SENTENCE		bricfeasta	breakfast							
+Irish on your own	3	Ordering Drinks	Additional	SENTENCE		lón	lunch							
+Irish on your own	4	Ordering Drinks	Additional	SENTENCE		dinnéar	dinner							
+Irish on your own	5	Ordering Drinks	Additional	SENTENCE		Cad ba mhaith leat don bhricfeasta?	what would you like for breakfast?							
+Irish on your own	6	Ordering Drinks	Additional	SENTENCE		Cad ba mhaith leat don lón?	what would you like for lunch?							
+Irish on your own	6	Ordering Drinks	Additional	SENTENCE		Cad ba mhaith leat don dinnéar?	what would you like for dinner?							
 Irish on your own	6	Ordering Drinks	Additional	SENTENCE		Cad é ba mhaith leat a ól?	What would you like to drink?							
 Irish on your own	6	Ordering Drinks	Additional	SENTENCE		Ar mhaith leat Coke?	Would you like coke?							
 Irish on your own	6	Ordering Drinks	Additional	SENTENCE		Cad é ba mhaith leat a ól leis an dinnéar?	What would you like to drink with dinner?							
@@ -998,10 +1015,12 @@ Irish on your own	10	Family1		SENTENCE		Tá Nóra ar an ollscoil.	Nóra is at un
 Irish on your own	10	Family1	Additional	WORD		bun	bottom							
 Irish on your own	10	Family1	Additional	WORD		meán	méanmide							
 Irish on your own	10	Family1	Additional	WORD		ard	high							
-Irish on your own	10	Family1	Additional	WORD		rang	class							
+Irish on your own	10	Family1	Additional	WORD		rang	class							or primary
 Irish on your own	10	Family1	Additional	WORD		bunrang	bottom class							
 Irish on your own	10	Family1	Additional	WORD		meánrang	average class							
 Irish on your own	10	Family1	Additional	WORD		ardrang	high class							
+Irish on your own	10	Family1	Additional			rang a sé	class (or primary) six/sixth class							
+Irish on your own	10	Family1	Additional			clár a sé	programme six							
 Irish on your own	11	Saying what you did		NOUN		seachtain	week							
 Irish on your own	11	Saying what you did		NOUN		deireadh	end							
 Irish on your own	11	Saying what you did		WORD		an deireadh seachtaine	the weekend							
@@ -1159,6 +1178,9 @@ Irish on your own	12	Taking your leave		PHRASE		Tá mé an-tuirseach.	I'm very t
 Irish on your own	12	Taking your leave		PHRASE		Tá sé mall.	It's late.							
 Irish on your own	12	Taking your leave		PHRASE		Tá sé an-mhall.	It's very late.							
 Irish on your own	12	Taking your leave		PHRASE		Tá mé mall.	I'm late.							
+Irish on your own	12	Taking your leave		PHRASE		Tá muid mall.	We’re late.							
+Irish on your own	12	Taking your leave		PHRASE		Dean deifir	Hurry up							
+Irish on your own	12	Taking your leave		PHRASE		Dean deifir. Tá muid mall	Hurry up. We're late							
 Irish on your own	12	Taking your leave		PHRASE		Tá mé mall don dráma.	I'm late for the play.							
 Irish on your own	12	Taking your leave		PHRASE		Tá mé mall don scannan.	I'm late for the film.							
 Irish on your own	12	Taking your leave		PHRASE		Tá deifir orm.	I'm in a hurry.							
@@ -1212,6 +1234,11 @@ Irish on your own	12	Taking your leave		PHRASE		Beidh sí sa bhaile ag a haon d�
 Irish on your own	12	Taking your leave		WORD		árasán	flat							
 Irish on your own	12	Taking your leave		WORD		ag m'árasán	at my flat							
 Irish on your own	12	Taking your leave		PHRASE		cé hí an bhean seo mar sin?	Who is this woman then?							
+Irish on your own	12	Taking your leave	Additional	PHRASE		beidh ceilí ann	there will be a ceili							
+Irish on your own	12	Taking your leave	Additional	PHRASE		beidh diosco ann Dé Máirt	there will be a disco on Tuesday							
+Irish on your own	12	Taking your leave	Additional	PHRASE		beidh Blas ann	Blas will be on							
+Irish on your own	12	Taking your leave	Additional	PHRASE		ar leath i ndiaidh a seacht	at half past seven							
+Irish on your own	12	Taking your leave	Additional	PHRASE		ar a seacht a chlog go dtí a hocht a chlog	at 7 o'clock to 8 o'clock							
 Irish on your own	13	Family2				tuismitheoirí	parents							
 Irish on your own	13	Family2				deartháireacha	brothers							
 Irish on your own	13	Family2				deirfiúracha	sisters							
@@ -1354,16 +1381,23 @@ Irish on your own	14	Daily Routine				Ní thagaim.
 Irish on your own	14	Daily Routine				An amharcann tú ar an teilifís?	Do you watch television?							
 Irish on your own	14	Daily Routine				Amharcaim.								
 Irish on your own	14	Daily Routine				Ní amharcaim.								
+Irish on your own	15	Location and movement 1	Additional			leithreas	toilet					laychras		
 Irish on your own	15	Location and movement 1				Cá bhfuil ...?	Where is/are ...?							
+Irish on your own	15	Location and movement 1	Additional			cá bhfuil an bainne?	Where is the milk?							
+Irish on your own	15	Location and movement 1	Additional			cá bhfuil an siúcra?	Where is the sugar?							
+Irish on your own	15	Location and movement 1	Additional			cá bhfuil an leithreas?	Where is the toilet?							
 Irish on your own	15	Location and movement 1				Cá bhfuil oifig an phoist?	Where is the post office?							
 Irish on your own	15	Location and movement 1				Cá bhfuil do charr?	Where is your car?							
 Irish on your own	15	Location and movement 1				Cá bhfuil na heochracha?	Where are the keys?							
 Irish on your own	15	Location and movement 1				... ar chlé	... on the left							
 Irish on your own	15	Location and movement 1				... ar dheis	... on the right							
+Irish on your own	15	Location and movement 1	Additional			thart an coirnéal	around the corner					hort an cornyal		
 Irish on your own	15	Location and movement 1				Tá sé ansin ar chlé.	It's there on the left.							
 Irish on your own	15	Location and movement 1				Tá sé anseo ar dheis.	It's here on the right.							
 Irish on your own	15	Location and movement 1				Tá sé trasna ón siopa.	It's across from the shop.							
 Irish on your own	15	Location and movement 1				Tá sé in aice leis an chaife.	It's beside the cafe.							
+Irish on your own	15	Location and movement 1				seomra	room							
+Irish on your own	15	Location and movement 1				seomra a sé	room six							
 Irish on your own	15	Location and movement 1				Cá mhéad seomra atá ann?	How many rooms are in it?							
 Irish on your own	15	Location and movement 1				Tá trí sheomra ann.	It has three rooms.					If you are not sure why it is trí sheomra but ocht seomra, go back to Unit 6.		
 Irish on your own	15	Location and movement 1				Ocht seomra.	Eight rooms.							
@@ -1396,8 +1430,12 @@ Irish on your own	15	Location and movement 1				Cá gcuirfidh mé iad seo?	Where
 Irish on your own	15	Location and movement 1				Cuir thall ansin é.	Put it over there.							
 Irish on your own	15	Location and movement 1				Cuir sa chistin é.	Put it in the kitchen.							
 Irish on your own	15	Location and movement 1				Cuir sa seomra folctha é.	Put it in the bathroom.							
+Irish on your own	15	Location and movement 1				Ar an	On the							
 Irish on your own	15	Location and movement 1				Ar an tábla.	On the table.							
+Irish on your own	15	Location and movement 1	Additional			tá sé ar an tábla	it is on the table							
+Irish on your own	15	Location and movement 1	Additional			An bhfuil sé ar an tábla?	Is it on the table?							
 Irish on your own	15	Location and movement 1				Tá mé i mo chónaí i mBaile Átha Cliath.	I live in Dublin.							
+Irish on your own	15	Location and movement 1				sa	in the							
 Irish on your own	15	Location and movement 1				sa chistin	in the kitchen							
 Irish on your own	15	Location and movement 1				sa gharáiste	in the garage							Sa adds a séimhiú to words beginning with a consonant (except d, n, t, l, and s):
 Irish on your own	15	Location and movement 1				sa chuisneoir	in the fridge							
@@ -1427,7 +1465,7 @@ Giota Beag 1	1	How are you?				Agus tú féin?	And yourself?					Agus tu hain?
 Giota Beag 1	1	How are you?				Go maith	Well							
 Giota Beag 1	1	How are you?				Slán!	Bye!							
 Giota Beag 1	1	How are you?				Dia duit	Hello							
-Giota Beag 1	1	How are you?				> Dia is Muire duit!	Hello to you too							
+Giota Beag 1	1	How are you?				Dia is Muire duit!	Hello to you too							
 Giota Beag 1	1	How are you?				Tá fáilte romhat	You're welcome							
 Giota Beag 1	1	How are you?				Fáilte go Giota Beag	Welcome to Giota Beag							
 Giota Beag 1	2	A cup of coffee please!				go raibh maith agat	Thank you/thanks							
@@ -1441,7 +1479,7 @@ Giota Beag 1	2	A cup of coffee please!				Tá sé...	it is...					taa shay
 Giota Beag 1	2	A cup of coffee please!				fuar	cold							
 Giota Beag 1	2	A cup of coffee please!				fliuch	wet							
 Giota Beag 1	2	A cup of coffee please!				te	hot					chay		
-Giota Beag 1	2	A cup of coffee please!				+ gaofar	windy					gayfor?		
+Giota Beag 1	2	A cup of coffee please!				gaofar	windy					gayfor?		
 Giota Beag 1	2	A cup of coffee please!				iontach	extremely / very					inta?		
 Giota Beag 1	2	A cup of coffee please!				iontach fuar	very cold							
 Giota Beag 1	2	A cup of coffee please!				iontach fliuch	very wet					flyuach??		
@@ -1499,8 +1537,7 @@ Giota Beag 1	5	Wait a minute				bomaite	a minute
 Giota Beag 1	5	Wait a minute				fan bomaite	wait a minute							
 Giota Beag 1	5	Wait a minute				tá sé ar an tábla	it is on the table							
 Giota Beag 1	5	Wait a minute				An bhfuil sé ar an tábla?	Is it on the table?							
-Giota Beag 1	6	Take it easy!				NUMBERS								
-Giota Beag 1	6	Take it easy!				+Náid	zero							
+Giota Beag 1	6	Take it easy!				Náid	zero							
 Giota Beag 1	6	Take it easy!				aon	one							
 Giota Beag 1	6	Take it easy!				dó	two							
 Giota Beag 1	6	Take it easy!				trí	three							
@@ -1513,23 +1550,23 @@ Giota Beag 1	6	Take it easy!				naoi	nine
 Giota Beag 1	6	Take it easy!				deich	ten							
 Giota Beag 1	6	Take it easy!				aondéag	eleven							
 Giota Beag 1	6	Take it easy!				dó dhéag	twelve					doe yeag		
-Giota Beag 1	6	Take it easy!				+trí déag	thirteen							
-Giota Beag 1	6	Take it easy!				+ceathair déag	fourteen							
-Giota Beag 1	6	Take it easy!				+cúig déag	fifteen							
-Giota Beag 1	6	Take it easy!				+sé déag	sixteen							
-Giota Beag 1	6	Take it easy!				+seacht déag	seventeen							
-Giota Beag 1	6	Take it easy!				+hocht déag	eighteen							
-Giota Beag 1	6	Take it easy!				+naoi déag	nineteen							
-Giota Beag 1	6	Take it easy!				+fiche	twenty					fihha		
-Giota Beag 1	6	Take it easy!				+fiche aon?	twenty one					fihha aon		
-Giota Beag 1	6	Take it easy!				+triocha	thirty					truck-ah		
-Giota Beag 1	6	Take it easy!				+daichead	forty					die-hid/dah-hid		
-Giota Beag 1	6	Take it easy!				+caoga	fifty					cway-gah		
-Giota Beag 1	6	Take it easy!				+seasca	sixty					shahs-kah		
-Giota Beag 1	6	Take it easy!				+seachtó	seventy					shock toe		
-Giota Beag 1	6	Take it easy!				+ochtó	eighty					uck toe		
-Giota Beag 1	6	Take it easy!				+nócha	ninety					noe-kah		
-Giota Beag 1	6	Take it easy!				+céad	hundred					cay-d		
+Giota Beag 1	6	Take it easy!				trí déag	thirteen							
+Giota Beag 1	6	Take it easy!				ceathair déag	fourteen							
+Giota Beag 1	6	Take it easy!				cúig déag	fifteen							
+Giota Beag 1	6	Take it easy!				sé déag	sixteen							
+Giota Beag 1	6	Take it easy!				seacht déag	seventeen							
+Giota Beag 1	6	Take it easy!				hocht déag	eighteen							
+Giota Beag 1	6	Take it easy!				naoi déag	nineteen							
+Giota Beag 1	6	Take it easy!				fiche	twenty					fihha		
+Giota Beag 1	6	Take it easy!				fiche aon?	twenty one					fihha aon		
+Giota Beag 1	6	Take it easy!				triocha	thirty					truck-ah		
+Giota Beag 1	6	Take it easy!				daichead	forty					die-hid/dah-hid		
+Giota Beag 1	6	Take it easy!				caoga	fifty					cway-gah		
+Giota Beag 1	6	Take it easy!				seasca	sixty					shahs-kah		
+Giota Beag 1	6	Take it easy!				seachtó	seventy					shock toe		
+Giota Beag 1	6	Take it easy!				ochtó	eighty					uck toe		
+Giota Beag 1	6	Take it easy!				nócha	ninety					noe-kah		
+Giota Beag 1	6	Take it easy!				céad	hundred					cay-d		
 Giota Beag 1	6	Take it easy!				rang	class (or primary)							
 Giota Beag 1	6	Take it easy!				rang a sé	class (or primary) six/sixth class							
 Giota Beag 1	6	Take it easy!				clár	programme							
@@ -1551,11 +1588,11 @@ Giota Beag 1	7	Take it easy!				Tá muid mall	We're late
 Giota Beag 1	7	Take it easy!				Dean deifir. Tá muid mall	Hurry up. We're late							
 Giota Beag 1	7	Take it easy!				Cén t-am é?	What time is it?							
 Giota Beag 1	7	Take it easy!				Cén t-am?	What time?							
-Giota Beag 1	7	Take it easy!				ban	white					buan		
-Giota Beag 1	7	Take it easy!				buí	yellow					bwee		
-Giota Beag 1	7	Take it easy!				glas	green							
-Giota Beag 1	7	Take it easy!				gorm	blue					gorim??		
-Giota Beag 1	7	Take it easy!				dubh	black					doo??		
+Giota Beag 1	8	Days of the week				ban	white					buan		
+Giota Beag 1	8	Days of the week				buí	yellow					bwee		
+Giota Beag 1	8	Days of the week				glas	green							
+Giota Beag 1	8	Days of the week				gorm	blue					gorim??		
+Giota Beag 1	8	Days of the week				dubh	black					doo??		
 Giota Beag 1	8	Days of the week				ceathrú go dtí	a quarter to					ceahroo go gee		
 Giota Beag 1	8	Days of the week				tá sé ceathrú go dtí	it's a quarter to							
 Giota Beag 1	8	Days of the week				ar a seacht a chlog	at 7 o'clock							
@@ -1572,7 +1609,7 @@ Giota Beag 1	8	Days of the week				beidh ceilí ann	there will be a ceili
 Giota Beag 1	8	Days of the week				beidh diosco ann Dé Máirt	there will be a disco on Tuesday							
 Giota Beag 1	8	Days of the week				beidh Blas ann	Blas will be on							
 Giota Beag 1	8	Days of the week				ar leath i ndiaidh a seacht	at half past seven							
-Giota Beag 1	8	Days of the week				ar a seacht a chlog go dtí a hocht a chlog	at 7 o'clock to 8 o'clock					???may not be right		
+Giota Beag 1	8	Days of the week				ar a seacht a chlog go dtí a hocht a chlog	at 7 o'clock to 8 o'clock							
 Giota Beag 1	8	Days of the week				rua	red haired							
 Giota Beag 1	8	Days of the week				fionn	fair haired							
 Giota Beag 1	8	Days of the week				sláinte!	cheers!							
@@ -2653,32 +2690,32 @@ BBC Bitesize KS3	9	Pets and Animal				Is … é/í.	He/she's a …
 BBC Bitesize KS3	9	Pets and Animal				Is madadh é.	He's a dog.							
 BBC Bitesize KS3	9	Pets and Animal				Is cat í.	She's a cat.							
 BBC Bitesize KS3	9	Pets and Animal		TEMPLATE		Tá $ANIMAL agam.	I have a $ANIMAL.							
-BBC Bitesize KS3	9	Pets and Animal				madadh	dog							
-BBC Bitesize KS3	9	Pets and Animal				cat	cat							
-BBC Bitesize KS3	9	Pets and Animal				coinín	rabbit							
-BBC Bitesize KS3	9	Pets and Animal				hamstar	hamster							
-BBC Bitesize KS3	9	Pets and Animal				capall	horse							
-BBC Bitesize KS3	9	Pets and Animal				iasc órga	goldfish							
-BBC Bitesize KS3	9	Pets and Animal				nathair	snake							
-BBC Bitesize KS3	9	Pets and Animal				toirtís	tortoise							
-BBC Bitesize KS3	9	Pets and Animal				muc ghuine	guinea pig							
-BBC Bitesize KS3	9	Pets and Animal				pearóid	parrot							
-BBC Bitesize KS3	9	Pets and Animal				Ar an fheirm								
-BBC Bitesize KS3	9	Pets and Animal				muc	pig							
-BBC Bitesize KS3	9	Pets and Animal				bó	cow							
-BBC Bitesize KS3	9	Pets and Animal				cearc	hen							
-BBC Bitesize KS3	9	Pets and Animal				asal	donkey							
-BBC Bitesize KS3	9	Pets and Animal				caora	sheep							
-BBC Bitesize KS3	9	Pets and Animal				gabhar	goat							
-BBC Bitesize KS3	9	Pets and Animal				Ag an zú								
-BBC Bitesize KS3	9	Pets and Animal				tíogar	tiger							
-BBC Bitesize KS3	9	Pets and Animal				eilifint	elephant							
-BBC Bitesize KS3	9	Pets and Animal				srónbheannach	rhino							
-BBC Bitesize KS3	9	Pets and Animal				rón	seal							
-BBC Bitesize KS3	9	Pets and Animal				síota	cheetah							
-BBC Bitesize KS3	9	Pets and Animal				moncaí	monkey							
-BBC Bitesize KS3	9	Pets and Animal				piongain	penguin							
-BBC Bitesize KS3	9	Pets and Animal				leon	lion							
+BBC Bitesize KS3	9	Pets and Animal			PET_ANIMAL	madadh	dog							
+BBC Bitesize KS3	9	Pets and Animal			PET_ANIMAL	cat	cat							
+BBC Bitesize KS3	9	Pets and Animal			PET_ANIMAL	coinín	rabbit							
+BBC Bitesize KS3	9	Pets and Animal			PET_ANIMAL	hamstar	hamster							
+BBC Bitesize KS3	9	Pets and Animal			PET_ANIMAL	capall	horse							
+BBC Bitesize KS3	9	Pets and Animal			PET_ANIMAL	iasc órga	goldfish							
+BBC Bitesize KS3	9	Pets and Animal			PET_ANIMAL	nathair	snake							
+BBC Bitesize KS3	9	Pets and Animal			PET_ANIMAL	toirtís	tortoise							
+BBC Bitesize KS3	9	Pets and Animal			PET_ANIMAL	muc ghuine	guinea pig							
+BBC Bitesize KS3	9	Pets and Animal			PET_ANIMAL	pearóid	parrot							
+BBC Bitesize KS3	9	Pets and Animal				Ar an fheirm	at the farm							
+BBC Bitesize KS3	9	Pets and Animal			FARM_ANIMAL	muc	pig							
+BBC Bitesize KS3	9	Pets and Animal			FARM_ANIMAL	bó	cow							
+BBC Bitesize KS3	9	Pets and Animal			FARM_ANIMAL	cearc	hen							
+BBC Bitesize KS3	9	Pets and Animal			FARM_ANIMAL	asal	donkey							
+BBC Bitesize KS3	9	Pets and Animal			FARM_ANIMAL	caora	sheep							
+BBC Bitesize KS3	9	Pets and Animal			FARM_ANIMAL	gabhar	goat							
+BBC Bitesize KS3	9	Pets and Animal				Ag an zú	at the zoo							
+BBC Bitesize KS3	9	Pets and Animal			ZOO_ANIMAL	tíogar	tiger							
+BBC Bitesize KS3	9	Pets and Animal			ZOO_ANIMAL	eilifint	elephant							
+BBC Bitesize KS3	9	Pets and Animal			ZOO_ANIMAL	srónbheannach	rhino							
+BBC Bitesize KS3	9	Pets and Animal			ZOO_ANIMAL	rón	seal							
+BBC Bitesize KS3	9	Pets and Animal			ZOO_ANIMAL	síota	cheetah							
+BBC Bitesize KS3	9	Pets and Animal			ZOO_ANIMAL	moncaí	monkey							
+BBC Bitesize KS3	9	Pets and Animal			ZOO_ANIMAL	piongain	penguin							
+BBC Bitesize KS3	9	Pets and Animal			ZOO_ANIMAL	leon	lion							
 BBC Bitesize KS3	10	Celebrations and Festivals				Lá na Bliana Úire	New Year's Day (1st January)							
 BBC Bitesize KS3	10	Celebrations and Festivals				Lá Fhéile Bríde	St. Brigid's Day (1st February)							
 BBC Bitesize KS3	10	Celebrations and Festivals				Máirt Inide	Shrove Tuesday							
@@ -2802,6 +2839,7 @@ Other	1	Places			PLACE	Léim an Mhadaidh	Limavady
 Other	1	Places			PLACE	Port an Dúnáin	Portadown							
 Other	1	Places			PLACE	Nua-Eabhrac	New York							
 Other	1	Places			PLACE	Droichead na Banna	Banbridge							
+Other	1	Places			PLACE	Srón Ramhar	Stranraer							
 Other	1	Places			IN_PLACE	I mBéal Feirste	In Belfast							
 Other	1	Places			IN_PLACE	I nGlaschú	In Glasgow							
 Other	1	Places			IN_PLACE	i bPort Rois	In Portrush							
@@ -2813,6 +2851,7 @@ Other	1	Places			IN_PLACE	I mBaile Átha Cliath	in Dublin
 Other	1	Places			IN_PLACE	I gCorcaigh	in Cork							
 Other	1	Places			IN_PLACE	I nDoire	in Derry							
 Other	1	Places			IN_PLACE	I nDún na nGall	in Donegal							
+Other	1	Places			IN_PLACE	i Srón Ramhar	in Stranraer							
 Other	1	Places			IN_PLACE	i Srón Ramhar	in Stranraer							
 Other	1	Places			COUNTRIES	an Ghearmáin	Germany							
 Other	1	Places			COUNTRIES	an Fhrainc	France							
