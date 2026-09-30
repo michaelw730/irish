@@ -396,6 +396,20 @@ Irish on your own	3	Speaking about your background	Numbers			míle	thousand					
 Irish on your own	3	Speaking about your background	Numbers			milliún	million					millyun		
 Irish on your own	3	Speaking about your background	Phone			Cad é d'uimhir fóin?	What's your phone number?							
 Irish on your own	3	Speaking about your background	Phone			D'uimhir fóin?	Your phone number?							
+Irish on your own	3	Speaking about your background	Phone	WORD		fóin	phone							
+Irish on your own	3	Speaking about your background	Phone	WORD		guthán	phone					guhan		
+Irish on your own	3	Speaking about your background	Phone	WORD		uimhir	number					ever		
+Irish on your own	3	Speaking about your background	Phone	SENTENCE		uimhir ghutháin	phone number					ever goohan??		
+Irish on your own	3	Speaking about your background	Phone	SENTENCE		Cad é an uimhir ghutháin atá agat?	what's your phone number?							
+Irish on your own	3	Speaking about your background	Phone	SENTENCE		scairt ghutháin	phone call							
+Irish on your own	3	Speaking about your background	Phone	SENTENCE		cuir scairt ghutháin orm	phone me					koor scart..		
+Irish on your own	3	Speaking about your background	Phone	SENTENCE		ba mhaith liom labhairt le ...	I'd like to speak to ...					ba why lum lortch le		
+Irish on your own	3	Speaking about your background	Phone	SENTENCE		Cé atá ag caint?	who's speaking?							
+Irish on your own	3	Speaking about your background	Music	WORD	MUSICAL_INSTRUMENTS	bodhrán	bodhran					boaran		
+Irish on your own	3	Speaking about your background	Music	WORD	MUSICAL_INSTRUMENTS	píb uillinn	uillean pipes					peeb illan		
+Irish on your own	3	Speaking about your background	Music	WORD	MUSICAL_INSTRUMENTS	bosca ceoil	squeeze box					boxa ceoil		
+Irish on your own	3	Speaking about your background	Music	WORD	MUSICAL_INSTRUMENTS	feadóg	whistle					faadag		
+Irish on your own	3	Speaking about your background	Music	WORD	MUSICAL_INSTRUMENTS	feadóg mhór	flute					faadag wore (big whistle)		
 Irish on your own	3	Speaking about your background	Time			am	time					am		
 Irish on your own	3	Speaking about your background	Time			Cad é an t-am atá sé?	What time is it?							
 Irish on your own	3	Speaking about your background	Time			Cad é an t-am atá sé, le do thoil?	What time is it, please?							
@@ -1109,6 +1123,14 @@ Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	milseáin	sweets
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	úll	apple							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	cuidiú	help					coodjoo		
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	siúcra	sugar							
+Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	Builín	a loaf					boolyeen		
+Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	Builín arán	a loaf of bread					boolyeen aran		
+Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	Stampa	a stamp							
+Irish on your own	6	Ordering Drinks		WORD		Punt	a pound							
+Irish on your own	6	Ordering Drinks		WORD		pingin	pence							
+Irish on your own	6	Ordering Drinks		WORD		Fiche pingin	twenty pence					ping		
+Irish on your own	6	Ordering Drinks		WORD		Caoga pingin	fifty pence					ping		
+Irish on your own	6	Ordering Drinks		QUESTION		Cá mhéad atá ar sin?	How much is that?							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT2	phionta	pint					pinta		
 Irish on your own	6	Ordering Drinks		QUESTION		Cad é ba mhaith leat?	What would you like?		s					
 Irish on your own	6	Ordering Drinks		QUESTION		Cad é ba mhaith leatsa?	What would *you* like?		s					
@@ -1150,6 +1172,9 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom milseáin	I'd like 
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom úll	I'd like apple							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom cuidiú	I'd like help							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom siúcra	I'd like sugar							
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom Builín	I'd like a loaf							
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom Builín arán	I'd like a loaf of bread							
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom Stampa	I'd like a stamp							
 Irish on your own	6	Ordering Drinks		SENTENCE		Ba mhaith liom ag dul amach	I'd like to go out							
 Irish on your own	6	Ordering Drinks		TEMPLATE		$WHAT_YOU_WANT domhsa.	$WHAT_YOU_WANT for me.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		deoch domhsa.	drink for me.							
@@ -1186,6 +1211,9 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		milseáin domhsa.	sweets for me.
 Irish on your own	6	Ordering Drinks		DYNAMIC		úll domhsa.	apple for me.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		cuidiú domhsa.	help for me.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		siúcra domhsa.	sugar for me.							
+Irish on your own	6	Ordering Drinks		DYNAMIC		Builín domhsa.	a loaf for me.							
+Irish on your own	6	Ordering Drinks		DYNAMIC		Builín arán domhsa.	a loaf of bread for me.							
+Irish on your own	6	Ordering Drinks		DYNAMIC		Stampa domhsa.	a stamp for me.							
 Irish on your own	6	Ordering Drinks		QUESTION		Rud ar bith eile?	Anything else?					Rud ar bee ella?		
 Irish on your own	6	Ordering Drinks		PHRASE		... le do thoil.	... please.							
 Irish on your own	6	Ordering Drinks		SENTENCE		Go raibh maith agat.	Thank you.							
@@ -1231,6 +1259,9 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat milseáin?	Would yo
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat úll?	Would you like apple?		s					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat cuidiú?	Would you like help?		s					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat siúcra?	Would you like sugar?		s					
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat Builín?	Would you like a loaf?		s					
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat Builín arán?	Would you like a loaf of bread?		s					
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat Stampa?	Would you like a stamp?		s					
 Irish on your own	6	Ordering Drinks		TEMPLATE		Ar mhaith libh $WHAT_YOU_WANT?	Would you like $WHAT_YOU_WANT?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh deoch?	Would you like drink?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh caife?	Would you like coffee?		p					
@@ -1266,6 +1297,9 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh milseáin?	Would yo
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh úll?	Would you like apple?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh cuidiú?	Would you like help?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh siúcra?	Would you like sugar?		p					
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh Builín?	Would you like a loaf?		p					
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh Builín arán?	Would you like a loaf of bread?		p					
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh Stampa?	Would you like a stamp?		p					
 Irish on your own	6	Ordering Drinks		SENTENCE		Ba mhaith.	Yes (I would).							
 Irish on your own	6	Ordering Drinks		SENTENCE		Níor mhaith.	No (I wouldn't).							
 Irish on your own	6	Ordering Drinks		SENTENCE		B'fhearr ...	I'd prefer ...					bear...		
@@ -1304,6 +1338,9 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom milseáin	I'd prefer
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom úll	I'd prefer apple					Bear liom glinye ish-ke		
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom cuidiú	I'd prefer help					Bear liom glinye ish-ke		
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom siúcra	I'd prefer sugar					Bear liom glinye ish-ke		
+Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom Builín	I'd prefer a loaf					Bear liom glinye ish-ke		
+Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom Builín arán	I'd prefer a loaf of bread					Bear liom glinye ish-ke		
+Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom Stampa	I'd prefer a stamp					Bear liom glinye ish-ke		
 Irish on your own	6	Ordering Drinks		SENTENCE		Sláinte!	Cheers!				Health!			
 Irish on your own	6	Ordering Drinks		SENTENCE		Sláinte mhór	Cheers (response??)							
 Irish on your own	6	Ordering Drinks		TEMPLATE		$WHAT_YOU_WANT duitse.	$WHAT_YOU_WANT for you.							
@@ -1341,6 +1378,9 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		milseáin duitse.	sweets for you.
 Irish on your own	6	Ordering Drinks		DYNAMIC		úll duitse.	apple for you.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		cuidiú duitse.	help for you.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		siúcra duitse.	sugar for you.							
+Irish on your own	6	Ordering Drinks		DYNAMIC		Builín duitse.	a loaf for you.							
+Irish on your own	6	Ordering Drinks		DYNAMIC		Builín arán duitse.	a loaf of bread for you.							
+Irish on your own	6	Ordering Drinks		DYNAMIC		Stampa duitse.	a stamp for you.							
 Irish on your own	6	Ordering Drinks		TEMPLATE		Seo do $WHAT_YOU_WANT2	Here's your $WHAT_YOU_WANT2							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Seo do phionta	Here's your pint							
 Irish on your own	6	Ordering Drinks		SENTENCE		Sláinte mhaith agat i bhfad ó bhrón.	Good health, free from sorrow.							
@@ -1388,6 +1428,8 @@ Irish on your own	7	Ordering Drinks		WORD	PLACES	codladh	sleep					coh-loo
 Irish on your own	7	Ordering Drinks		WORD	PLACES	aerfort	airport							
 Irish on your own	7	Ordering Drinks		WORD	PLACES	amharclann	theatre							
 Irish on your own	7	Ordering Drinks		WORD	PLACES	gealach	moon					gallack		
+Irish on your own	7	Ordering Drinks		WORD	THE_PLACES	an linn snámha	the swimming pool							
+Irish on your own	7	Ordering Drinks		WORD	THE_PLACES	an cluiche peile	the football match							
 Irish on your own	7	Ordering Drinks		WORD	THE_PLACES	an caife	the café			m				
 Irish on your own	7	Ordering Drinks		WORD	THE_PLACES	an amharclann	the theatre			f				
 Irish on your own	7	Ordering Drinks		WORD	THE_PLACES	an garáiste	the garage			m				
@@ -1409,6 +1451,8 @@ Irish on your own	7	Ordering Drinks		SENTENCE		Tá mé ag dul ...	I'm going ...	
 Irish on your own	7	Ordering Drinks		SENTENCE		Tá mé ag dul go ...	I'm going to ...							
 Irish on your own	7	Ordering Drinks		SENTENCE		Tá mé ag dul go Leitir Ceanainn.	I'm going to Letterkenny.							
 Irish on your own	7	Ordering Drinks		TEMPLATE		Tá mé ag dul go dtí $THE_PLACES.	I'm going to $THE_PLACES.							
+Irish on your own	7	Ordering Drinks		DYNAMIC		Tá mé ag dul go dtí an linn snámha.	I'm going to the swimming pool.							
+Irish on your own	7	Ordering Drinks		DYNAMIC		Tá mé ag dul go dtí an cluiche peile.	I'm going to the football match.							
 Irish on your own	7	Ordering Drinks		DYNAMIC		Tá mé ag dul go dtí an caife.	I'm going to the café.							
 Irish on your own	7	Ordering Drinks		DYNAMIC		Tá mé ag dul go dtí an amharclann.	I'm going to the theatre.							
 Irish on your own	7	Ordering Drinks		DYNAMIC		Tá mé ag dul go dtí an garáiste.	I'm going to the garage.							
@@ -1793,6 +1837,7 @@ Irish on your own	8	Discussing Jobs		DYNAMIC		An múinteoir meánscoile tú?	Are
 Irish on your own	8	Discussing Jobs		SENTENCE		Is ea.	Yes (I am).					sha?? or ish-aa??		
 Irish on your own	8	Discussing Jobs		SENTENCE		Ní hea.	No (I'm not).					nee ha		
 Irish on your own	9	Giving orders and instructions		SENTENCE		AG TABHAIRT ORDUITHE AGUS TREORACHA	GIVING ORDERS AND INSTRUCTIONS					ag torch ord-iha agus troar-aha		
+Irish on your own	9	Giving orders and instructions	Additional			fuinneog	window					fuinyug??		
 Irish on your own	9	Giving orders and instructions		SENTENCE		Tar isteach.	Come in		s					
 Irish on your own	9	Giving orders and instructions		SENTENCE		Tagaigí isteach.	Come in		p					
 Irish on your own	9	Giving orders and instructions		SENTENCE		Taraigí isteach.	Come in		p					
@@ -1848,6 +1893,14 @@ Irish on your own	9	Giving orders and instructions		SENTENCE		Tá deifir orm	I a
 Irish on your own	9	Giving orders and instructions		SENTENCE		tá sibh mall	you're late		p					
 Irish on your own	9	Giving orders and instructions		SENTENCE		bean éigin	some woman					ban ay-gan		
 Irish on your own	9	Giving orders and instructions		SENTENCE		Coimhéad tú féin	Look out yourself							
+Irish on your own	9	Giving orders and instructions	Additional	SENTENCE		Oscail an doras	open the door							
+Irish on your own	9	Giving orders and instructions	Additional	SENTENCE		Druid an fhuinneog	close the window					inyug??		
+Irish on your own	9	Giving orders and instructions	Additional	SENTENCE		Oscail an fhuinneog	open the window							
+Irish on your own	9	Giving orders and instructions	Additional	SENTENCE		Bí maith	be good							
+Irish on your own	9	Giving orders and instructions	Additional	SENTENCE		Bí cúramach	be careful							
+Irish on your own	9	Giving orders and instructions	Additional	SENTENCE		Ná tar isteach	don't come in							
+Irish on your own	9	Giving orders and instructions	Additional	SENTENCE		Ná druid an doras	don't close the door							
+Irish on your own	9	Giving orders and instructions	Additional	SENTENCE		Ná habair sin	don't say that							
 Irish on your own	10	Family1		WORD		fear	man					faar		
 Irish on your own	10	Family1		WORD		an fhear	the man					an aar		???
 Irish on your own	10	Family1		WORD		fir	men							
@@ -2443,6 +2496,9 @@ Irish on your own	11	Saying what you did		PHRASE		Beidh mé ag bualadh leis	I wi
 Irish on your own	11	Saying what you did		PHRASE		Ba mhaith liom a bheith i mo cheoltóir	i would like to be a musician							
 Irish on your own	11	Saying what you did		PHRASE		b'fhéidir	maybe					bayjor		
 Irish on your own	11	Saying what you did		PHRASE		D’ol mé barraíocht	I drank too much							
+Irish on your own	11	Saying what you did	Additional	PHRASE		Tá Blas ann	Blas is on 							at this minute
+Irish on your own	11	Saying what you did	Additional	PHRASE		bhí Blas ann inné	Blas was on yesterday					vee Blas on innyeah		
+Irish on your own	11	Saying what you did	Additional	PHRASE		beidh Blas ann amarach	Blas will be on toorrow					bay Blas on amara		
 Irish on your own	12	Taking your leave		PHRASE		AG FÁGÁIL COMHLUADAIR	TAKING YOUR LEAVE					Ag faygal cool-wah-der		
 Irish on your own	12	Taking your leave		PHRASE		Caithfidh mé imeacht.	I have to go.				I have to leave	Ka-heh meh imackt		
 Irish on your own	12	Taking your leave		PHRASE		Caithfidh mé imeacht arís.	I have to go again.				I have to leave again			
@@ -2969,12 +3025,11 @@ Giota Beag 1	10	Phone calls				scairt ghutháin	phone call
 Giota Beag 1	10	Phone calls				cuir scairt ghutháin orm	phone me					koor scart..		
 Giota Beag 1	10	Phone calls				ba mhaith liom labhairt le ...	I'd like to speak to ...					ba why lum lortch le		
 Giota Beag 1	10	Phone calls				Cé atá ag caint?	who's speaking?							
-Giota Beag 1	10	Phone calls				MUSICAL INSTRUMENTS								
-Giota Beag 1	10	Phone calls				bodhrán	bodhran					boaran		
-Giota Beag 1	10	Phone calls				píb uillinn	uillean pipes					peeb illan		
-Giota Beag 1	10	Phone calls				bosca ceoil	squeeze box					boxa ceoil		
-Giota Beag 1	10	Phone calls				feadóg	whistle					faadag		
-Giota Beag 1	10	Phone calls				feadóg mhór	flute					faadag wore (big whistle)		
+Giota Beag 1	10	Phone calls			MUSICAL_INSTRUMENTS	bodhrán	bodhran					boaran		
+Giota Beag 1	10	Phone calls			MUSICAL_INSTRUMENTS	píb uillinn	uillean pipes					peeb illan		
+Giota Beag 1	10	Phone calls			MUSICAL_INSTRUMENTS	bosca ceoil	squeeze box					boxa ceoil		
+Giota Beag 1	10	Phone calls			MUSICAL_INSTRUMENTS	feadóg	whistle					faadag		
+Giota Beag 1	10	Phone calls			MUSICAL_INSTRUMENTS	feadóg mhór	flute					faadag wore (big whistle)		
 Giota Beag 1	10	Phone calls				maith thú	good on you/well done							
 Giota Beag 1	11	Orders				Tar isteach	come in							
 Giota Beag 1	11	Orders				doras	door							
