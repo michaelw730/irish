@@ -1139,7 +1139,7 @@
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | bágún | bacon |  |  |  |  | baa-gun |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | pota tae | a pot of tea |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | gloine uisce | a glass of water |  |  |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | gloine fíon | a glass of wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | gloine fíona | a glass of wine |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | gloine gin | a glass of gin |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | pionta beorach | a pint of beer |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | cupa tae | cup of tea |  |  |  |  |  |  |  |
@@ -1188,7 +1188,7 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom bágún | I'd like bacon |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom pota tae | I'd like a pot of tea |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom gloine uisce | I'd like a glass of water |  |  |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom gloine fíon | I'd like a glass of wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom gloine fíona | I'd like a glass of wine |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom gloine gin | I'd like a glass of gin |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom pionta beorach | I'd like a pint of beer |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom cupa tae | I'd like cup of tea |  |  |  |  |  |  |  |
@@ -1227,7 +1227,7 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | bágún domhsa. | bacon for me. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | pota tae domhsa. | a pot of tea for me. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | gloine uisce domhsa. | a glass of water for me. |  |  |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | gloine fíon domhsa. | a glass of wine for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | gloine fíona domhsa. | a glass of wine for me. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | gloine gin domhsa. | a glass of gin for me. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | pionta beorach domhsa. | a pint of beer for me. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | cupa tae domhsa. | cup of tea for me. |  |  |  |  |  |  |  |
@@ -1275,7 +1275,7 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat bágún? | Would you like bacon? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat pota tae? | Would you like a pot of tea? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat gloine uisce? | Would you like a glass of water? |  | s |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat gloine fíon? | Would you like a glass of wine? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat gloine fíona? | Would you like a glass of wine? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat gloine gin? | Would you like a glass of gin? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat pionta beorach? | Would you like a pint of beer? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat cupa tae? | Would you like cup of tea? |  | s |  |  |  |  |  |
@@ -1313,7 +1313,7 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh bágún? | Would you like bacon? |  | p |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh pota tae? | Would you like a pot of tea? |  | p |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh gloine uisce? | Would you like a glass of water? |  | p |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh gloine fíon? | Would you like a glass of wine? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh gloine fíona? | Would you like a glass of wine? |  | p |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh gloine gin? | Would you like a glass of gin? |  | p |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh pionta beorach? | Would you like a pint of beer? |  | p |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh cupa tae? | Would you like cup of tea? |  | p |  |  |  |  |  |
@@ -1354,7 +1354,7 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom bágún | I'd prefer bacon |  |  |  |  | Bear liom glinye ish-ke |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom pota tae | I'd prefer a pot of tea |  |  |  |  | Bear liom glinye ish-ke |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom gloine uisce | I'd prefer a glass of water |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom gloine fíon | I'd prefer a glass of wine |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom gloine fíona | I'd prefer a glass of wine |  |  |  |  | Bear liom glinye ish-ke |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom gloine gin | I'd prefer a glass of gin |  |  |  |  | Bear liom glinye ish-ke |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom pionta beorach | I'd prefer a pint of beer |  |  |  |  | Bear liom glinye ish-ke |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom cupa tae | I'd prefer cup of tea |  |  |  |  | Bear liom glinye ish-ke |  |  |
@@ -1394,7 +1394,7 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | bágún duitse. | bacon for you. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | pota tae duitse. | a pot of tea for you. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | gloine uisce duitse. | a glass of water for you. |  |  |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | gloine fíon duitse. | a glass of wine for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | gloine fíona duitse. | a glass of wine for you. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | gloine gin duitse. | a glass of gin for you. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | pionta beorach duitse. | a pint of beer for you. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | cupa tae duitse. | cup of tea for you. |  |  |  |  |  |  |  |
@@ -1418,221 +1418,230 @@
 | Irish on your own | 6 | Ordering Drinks |  | QUESTION |  | An ólann tú caife? | Do you drink coffee? |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | SENTENCE |  | Ólaim. | Yes/I drink |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | SENTENCE |  | Ní ólaim | No/I don't drink |  |  |  |  |  |  |  |
-| Irish on your own | 2 | Ordering Drinks | Additional | SENTENCE |  | bricfeasta | breakfast |  |  |  |  |  |  |  |
-| Irish on your own | 3 | Ordering Drinks | Additional | SENTENCE |  | lón | lunch |  |  |  |  |  |  |  |
-| Irish on your own | 4 | Ordering Drinks | Additional | SENTENCE |  | dinnéar | dinner |  |  |  |  |  |  |  |
-| Irish on your own | 5 | Ordering Drinks | Additional | SENTENCE |  | Cad ba mhaith leat don bhricfeasta? | what would you like for breakfast? |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | bricfeasta | breakfast |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | lón | lunch |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | dinnéar | dinner |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | Cad ba mhaith leat don bhricfeasta? | what would you like for breakfast? |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | Cad ba mhaith leat don lón? | what would you like for lunch? |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | Cad ba mhaith leat don dinnéar? | what would you like for dinner? |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | Cad é ba mhaith leat a ól? | What would you like to drink? |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | Ar mhaith leat Coke? | Would you like coke? |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | Cad é ba mhaith leat a ól leis an dinnéar? | What would you like to drink with dinner? |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | Cad é ba mhaith leat a ól leis do dhinnéar? | What would you like to drink with your dinner? |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | SENTENCE |  | AG RÁ CÁ BHFUIL TÚ AG DUL | SAYING WHERE YOU'RE GOING |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | banc | bank |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | teach an phobail | church |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | oifig an phoist | post office |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | caife | cafe |  |  |  |  | ca-fay |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | garáiste | garage |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | teach | house |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | tithe | houses |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | teach tábhairne | pub |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | tithe tábhairne | pubs |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | bialann | restaurant |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | páirc | park |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | siopa | shop |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | siopaí | shops |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | siopa búistéara | butcher's shop |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | siopa poitigéara | chemist shop |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | siopa bróg | shoe shop |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | siopa éadaigh | clothes shop |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | ionad spóirt | sports centre |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | ionad siopadóireachta | shopping centre |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | ollmhargadh | supermarket |  |  |  |  | ollwarragoo |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | ospidéal | hospital |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | otharlann | hospital |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | pictiúrlann | cinema |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | sólann | leisure centre |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | codladh | sleep |  |  |  |  | coh-loo |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | aerfort | airport |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | amharclann | theatre |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | PLACES | gealach | moon |  |  |  |  | gallack |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | THE_PLACES | an linn snámha | the swimming pool |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | THE_PLACES | an cluiche peile | the football match |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | THE_PLACES | an caife | the café |  |  | m |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | THE_PLACES | an amharclann | the theatre |  |  | f |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | THE_PLACES | an garáiste | the garage |  |  | m |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | THE_PLACES | an teach tábhairne | the pub |  |  | m |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | THE_PLACES | an pháirc | the park |  |  | f |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | THE_PLACES | an phictiúrlann  | the cinema |  |  | f |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | THE_PLACES | an t-sólann  | the leisure centre |  |  | f |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | THE_PLACES | an t-aerfort | the airport |  |  | m |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | THE_PLACES | an t-ionad spóirt | the sports centre |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | THE_PLACES | an t-ionad siopadóireachta | the shopping centre |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | THE_PLACES | an t-ollmhargadh | the supermarket |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | THE_PLACES | an bhialann | the restaurant |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | THE_PLACES | an t-ospidéal | the hospital |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | THE_PLACES | an ghealach | the moon |  |  |  |  | an yallach |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | QUESTION |  | Cá bhfuil tú ag dul? | Where are you going? |  | s |  |  | Ca will to a-gull |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | QUESTION |  | Cá bhfuil sibh ag dul? | Where are you going? |  | p |  |  | Ca will to a-gull |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | QUESTION |  | Cá bhfuil tusa ag dul? | Where are *you* going? |  | s |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | SENTENCE |  | Tá mé ag dul ... | I'm going ... |  |  |  |  | Taw may a gul |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | SENTENCE |  | Tá mé ag dul go ... | I'm going to ... |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | SENTENCE |  | Tá mé ag dul go Leitir Ceanainn. | I'm going to Letterkenny. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | TEMPLATE |  | Tá mé ag dul go dtí $THE_PLACES. | I'm going to $THE_PLACES. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul go dtí an linn snámha. | I'm going to the swimming pool. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul go dtí an cluiche peile. | I'm going to the football match. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul go dtí an caife. | I'm going to the café. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul go dtí an amharclann. | I'm going to the theatre. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul go dtí an garáiste. | I'm going to the garage. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul go dtí an teach tábhairne. | I'm going to the pub. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul go dtí an pháirc. | I'm going to the park. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul go dtí an phictiúrlann . | I'm going to the cinema. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul go dtí an t-sólann . | I'm going to the leisure centre. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul go dtí an t-aerfort. | I'm going to the airport. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ionad spóirt. | I'm going to the sports centre. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ionad siopadóireachta. | I'm going to the shopping centre. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ollmhargadh. | I'm going to the supermarket. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul go dtí an bhialann. | I'm going to the restaurant. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ospidéal. | I'm going to the hospital. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul go dtí an ghealach. | I'm going to the moon. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | SENTENCE |  | Tá mé ag dul go hoifig an phoist. | I am going to the post office |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | SENTENCE |  | Tá mé ag dul go teach an phobail. | I am going to the church |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | SENTENCE |  | Tá mé ag dul abhaile. | I'm going home. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | SENTENCE |  | Tá mé ag dul amach. | I'm going out. |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | SENTENCE |  | Tá mé ag dul a chodladh | I am going to sleep |  |  |  |  | ...hoh-loo |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD |  | ansin | then |  |  |  |  |  |  | as in I'm going to ... and then I'm going to... |
-| Irish on your own | 7 | Ordering Drinks |  | SENTENCE |  | Go Baile Átha Cliath | To Dublin |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | SENTENCE |  | Go hArd Mhacha* | To Armagh |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | SENTENCE |  | Go Dún Pádraig | To Downpatrick |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | QUESTION |  | Cad é an t-am? | What time? |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | QUESTION |  | Cad é an t-am atá tú ag dul go Dún Geanainn? | What time are you going to Dungannon? |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | QUESTION |  | Cá huair? | When? |  |  |  |  | ca hoo-ar |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | QUESTION |  | Cá huair atá tú ag dul go Corcaigh? | When are you going to Cork? |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | NUM_HOURS | uair | an hour |  |  |  |  |  |  | This word occurs quite frequently in everyday speech, so it is well worth learning the different forms. |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | NUM_HOURS | dhá uair | two hours |  |  |  |  |  |  | The word uair is irregular when preceded by numbers: |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | NUM_HOURS | trí huaire | three hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | NUM_HOURS | ceathair huaire | four hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | NUM_HOURS | cúig huaire | five hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | NUM_HOURS | sé huaire | six hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | NUM_HOURS | seacht n-uaire | seven hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | NUM_HOURS | hocht n-uaire | eight hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | NUM_HOURS | naoi n-uaire | nine hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | NUM_HOURS | deich n-uaire | ten hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | GOING_WHEN | i gceann leathuair an chloig | in half an hour |  |  |  |  | i gen le-hoor a clig |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | GOING_WHEN | i gceann tamaill | in a while |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | GOING_WHEN | anois | now |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | GOING_WHEN | níos moille | later |  |  |  |  | nees mullya |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | GOING_WHEN | anocht | tonight |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | GOING_WHEN | amárach | tomorrow |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | GOING_WHEN | ar maidin | in the morning |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | GOING_WHEN | meán lae | midday |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | GOING_WHEN | san iarnóin | in the afternoon |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | GOING_WHEN | tráthnóna | in the evening |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD | GOING_WHEN | san oíche | in the night |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | SENTENCE |  | Tá mé ag dul go Gaillimh... | I'm going to Galway... |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | TEMPLATE |  | Tá mé ag dul $GOING_WHEN | I'm going $GOING_WHEN |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann leathuair an chloig | I'm going in half an hour |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann tamaill | I'm going in a while |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul anois | I'm going now |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul níos moille | I'm going later |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul anocht | I'm going tonight |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul amárach | I'm going tomorrow |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul ar maidin | I'm going in the morning |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul meán lae | I'm going midday |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul san iarnóin | I'm going in the afternoon |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul tráthnóna | I'm going in the evening |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul san oíche | I'm going in the night |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | TEMPLATE |  | Tá mé ag dul ag $HOUR_O_CLOCK | I'm going at $HOUR_O_CLOCK |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul ag a haon a chlog | I'm going at 1 o'clock |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul ag a dó a chlog | I'm going at 2 o'clock |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul ag a trí a chlog | I'm going at 3 o'clock |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul ag a ceathair a chlog | I'm going at 4 o'clock |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul ag a cúig a chlog | I'm going at 5 o'clock |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul ag a sé a chlog | I'm going at 6 o'clock |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul ag a seacht a chlog | I'm going at 7 o'clock |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul ag a hocht a chlog | I'm going at 8 o'clock |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul ag a naoi a chlog | I'm going at 9 o'clock |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul ag a deich a chlog | I'm going at 10 o'clock |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul ag a haon déag a chlog | I'm going at 11 o'clock |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul ag a dó dhéag a chlog | I'm going at 12 o'clock |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | TEMPLATE |  | Tá mé ag dul i gceann $NUM_HOURS an chloig | I'm going in $NUM_HOURS's time |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann uair an chloig | I'm going in an hour's time |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann dhá uair an chloig | I'm going in two hours's time |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire an chloig | I'm going in three hours's time |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann ceathair huaire an chloig | I'm going in four hours's time |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann cúig huaire an chloig | I'm going in five hours's time |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann sé huaire an chloig | I'm going in six hours's time |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann seacht n-uaire an chloig | I'm going in seven hours's time |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann hocht n-uaire an chloig | I'm going in eight hours's time |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann naoi n-uaire an chloig | I'm going in nine hours's time |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann deich n-uaire an chloig | I'm going in ten hours's time |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | TEMPLATE |  | Tá mé ag dul i gceann $NUM_HOURS go leith | I'm going in $NUM_HOURS and a half hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann uair go leith | I'm going in an hour and a half hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann dhá uair go leith | I'm going in two hours and a half hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire go leith | I'm going in three hours and a half hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann ceathair huaire go leith | I'm going in four hours and a half hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann cúig huaire go leith | I'm going in five hours and a half hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann sé huaire go leith | I'm going in six hours and a half hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann seacht n-uaire go leith | I'm going in seven hours and a half hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann hocht n-uaire go leith | I'm going in eight hours and a half hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann naoi n-uaire go leith | I'm going in nine hours and a half hours |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá mé ag dul i gceann deich n-uaire go leith | I'm going in ten hours and a half hours |  |  |  |  |  |  |  |
-| Irish on your own | 8 | Ordering Drinks |  | WORD |  | chóir a bheith | almost |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | TEMPLATE |  | Tá sé chóir a bheith $HOUR_O_CLOCK | It's almost $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh $HOUR_O_CLOCK |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith a haon a chlog | It's almost 1 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith a dó a chlog | It's almost 2 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith a trí a chlog | It's almost 3 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith a ceathair a chlog | It's almost 4 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith a cúig a chlog | It's almost 5 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith a sé a chlog | It's almost 6 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith a seacht a chlog | It's almost 7 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith a hocht a chlog | It's almost 8 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith a naoi a chlog | It's almost 9 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith a deich a chlog | It's almost 10 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith a haon déag a chlog | It's almost 11 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith a dó dhéag a chlog | It's almost 12 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú i ndiaidh $HOUR_O_CLOCK | It's almost quarter past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh cahrun I nyay $HOUR_O_CLOCK |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon a chlog | It's almost quarter past 1 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó a chlog | It's almost quarter past 2 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a trí a chlog | It's almost quarter past 3 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a ceathair a chlog | It's almost quarter past 4 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a cúig a chlog | It's almost quarter past 5 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a sé a chlog | It's almost quarter past 6 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a seacht a chlog | It's almost quarter past 7 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a hocht a chlog | It's almost quarter past 8 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a naoi a chlog | It's almost quarter past 9 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a deich a chlog | It's almost quarter past 10 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon déag a chlog | It's almost quarter past 11 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó dhéag a chlog | It's almost quarter past 12 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | TEMPLATE |  | Tá sé chóir a bheith leath i ndiaidh $HOUR_O_CLOCK | It's almost half past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh la in nyay $HOUR_O_CLOCK |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon a chlog | It's almost half past 1 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó a chlog | It's almost half past 2 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a trí a chlog | It's almost half past 3 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a ceathair a chlog | It's almost half past 4 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a cúig a chlog | It's almost half past 5 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a sé a chlog | It's almost half past 6 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a seacht a chlog | It's almost half past 7 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a hocht a chlog | It's almost half past 8 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a naoi a chlog | It's almost half past 9 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a deich a chlog | It's almost half past 10 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon déag a chlog | It's almost half past 11 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó dhéag a chlog | It's almost half past 12 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú go dtí $HOUR_O_CLOCK | It's almost quarter to $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh cahru go gee $HOUR_O_CLOCK |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon a chlog | It's almost quarter to 1 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó a chlog | It's almost quarter to 2 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a trí a chlog | It's almost quarter to 3 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a ceathair a chlog | It's almost quarter to 4 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a cúig a chlog | It's almost quarter to 5 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a sé a chlog | It's almost quarter to 6 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a seacht a chlog | It's almost quarter to 7 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a hocht a chlog | It's almost quarter to 8 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a naoi a chlog | It's almost quarter to 9 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a deich a chlog | It's almost quarter to 10 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon déag a chlog | It's almost quarter to 11 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó dhéag a chlog | It's almost quarter to 12 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD |  | scrúdú | exam |  |  |  |  |  |  |  |
-| Irish on your own | 7 | Ordering Drinks |  | WORD |  | scrúdú ar maidin | exam in the morning |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | cad é ba mhaith leat le hól? | What would you like to drink? |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE | EVENT | Lá Fhéile Bríde | St. Brigid's Day |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | WORD | MONTHS | Lúnasa | August |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | WORD | MONTHS | Samhain | November |  |  |  |  |  |  |  |
+
+## Irish on your own - Saying where you are going
+
+| program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Irish on your own | 7 | Saying where you are going |  | SENTENCE |  | AG RÁ CÁ BHFUIL TÚ AG DUL | SAYING WHERE YOU'RE GOING |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | banc | bank |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | teach an phobail | church |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | oifig an phoist | post office |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | caife | cafe |  |  |  |  | ca-fay |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | garáiste | garage |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | teach | house |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | tithe | houses |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | teach tábhairne | pub |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | tithe tábhairne | pubs |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | bialann | restaurant |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | páirc | park |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | siopa | shop |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | siopaí | shops |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | siopa búistéara | butcher's shop |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | siopa poitigéara | chemist shop |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | siopa bróg | shoe shop |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | siopa éadaigh | clothes shop |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | ionad spóirt | sports centre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | ionad siopadóireachta | shopping centre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | ollmhargadh | supermarket |  |  |  |  | ollwarragoo |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | ospidéal | hospital |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | otharlann | hospital |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | pictiúrlann | cinema |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | sólann | leisure centre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | codladh | sleep |  |  |  |  | coh-loo |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | aerfort | airport |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | amharclann | theatre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | PLACES | gealach | moon |  |  |  |  | gallack |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | THE_PLACES | an linn snámha | the swimming pool |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | THE_PLACES | an cluiche peile | the football match |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | THE_PLACES | an caife | the café |  |  | m |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | THE_PLACES | an amharclann | the theatre |  |  | f |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | THE_PLACES | an garáiste | the garage |  |  | m |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | THE_PLACES | an teach tábhairne | the pub |  |  | m |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | THE_PLACES | an pháirc | the park |  |  | f |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | THE_PLACES | an phictiúrlann  | the cinema |  |  | f |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | THE_PLACES | an t-sólann  | the leisure centre |  |  | f |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | THE_PLACES | an t-aerfort | the airport |  |  | m |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | THE_PLACES | an t-ionad spóirt | the sports centre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | THE_PLACES | an t-ionad siopadóireachta | the shopping centre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | THE_PLACES | an t-ollmhargadh | the supermarket |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | THE_PLACES | an bhialann | the restaurant |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | THE_PLACES | an t-ospidéal | the hospital |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | THE_PLACES | an ghealach | the moon |  |  |  |  | an yallach |  |  |
+| Irish on your own | 7 | Saying where you are going |  | QUESTION |  | Cá bhfuil tú ag dul? | Where are you going? | Add days to end of question | s |  |  | Ca will to a-gull |  |  |
+| Irish on your own | 7 | Saying where you are going |  | QUESTION |  | Cá bhfuil sibh ag dul? | Where are you going? | Add days to end of question | p |  |  | Ca will to a-gull |  |  |
+| Irish on your own | 7 | Saying where you are going |  | QUESTION |  | Cá bhfuil tusa ag dul? | Where are *you* going? |  | s |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | SENTENCE |  | Tá mé ag dul ... | I'm going ... |  |  |  |  | Taw may a gul |  |  |
+| Irish on your own | 7 | Saying where you are going |  | SENTENCE |  | Tá mé ag dul go ... | I'm going to ... |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | SENTENCE |  | Tá mé ag dul go Leitir Ceanainn. | I'm going to Letterkenny. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | TEMPLATE |  | Tá mé ag dul go dtí $THE_PLACES. | I'm going to $THE_PLACES. | other pronouns |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul go dtí an linn snámha. | I'm going to the swimming pool. | other pronouns |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul go dtí an cluiche peile. | I'm going to the football match. | other pronouns |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul go dtí an caife. | I'm going to the café. | other pronouns |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul go dtí an amharclann. | I'm going to the theatre. | other pronouns |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul go dtí an garáiste. | I'm going to the garage. | other pronouns |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul go dtí an teach tábhairne. | I'm going to the pub. | other pronouns |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul go dtí an pháirc. | I'm going to the park. | other pronouns |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul go dtí an phictiúrlann . | I'm going to the cinema. | other pronouns |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul go dtí an t-sólann . | I'm going to the leisure centre. | other pronouns |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul go dtí an t-aerfort. | I'm going to the airport. | other pronouns |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ionad spóirt. | I'm going to the sports centre. | other pronouns |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ionad siopadóireachta. | I'm going to the shopping centre. | other pronouns |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ollmhargadh. | I'm going to the supermarket. | other pronouns |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul go dtí an bhialann. | I'm going to the restaurant. | other pronouns |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul go dtí an t-ospidéal. | I'm going to the hospital. | other pronouns |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul go dtí an ghealach. | I'm going to the moon. | other pronouns |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | SENTENCE |  | Tá mé ag dul go hoifig an phoist. | I am going to the post office |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | SENTENCE |  | Tá mé ag dul go teach an phobail. | I am going to the church |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | SENTENCE |  | Tá mé ag dul abhaile. | I'm going home. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | SENTENCE |  | Tá mé ag dul amach. | I'm going out. |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | SENTENCE |  | Tá mé ag dul a chodladh | I am going to sleep |  |  |  |  | ...hoh-loo |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD |  | ansin | then |  |  |  |  |  |  | as in I'm going to ... and then I'm going to... |
+| Irish on your own | 7 | Saying where you are going |  | SENTENCE |  | Go Baile Átha Cliath | To Dublin |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | SENTENCE |  | Go hArd Mhacha* | To Armagh |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | SENTENCE |  | Go Dún Pádraig | To Downpatrick |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | QUESTION |  | Cad é an t-am? | What time? |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | QUESTION |  | Cad é an t-am atá tú ag dul go Dún Geanainn? | What time are you going to Dungannon? |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | QUESTION |  | Cá huair? | When? |  |  |  |  | ca hoo-ar |  |  |
+| Irish on your own | 7 | Saying where you are going |  | QUESTION |  | Cá huair atá tú ag dul go Corcaigh? | When are you going to Cork? |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | NUM_HOURS | uair | an hour |  |  |  |  |  |  | This word occurs quite frequently in everyday speech, so it is well worth learning the different forms. |
+| Irish on your own | 7 | Saying where you are going |  | WORD | NUM_HOURS | dhá uair | two hours |  |  |  |  |  |  | The word uair is irregular when preceded by numbers: |
+| Irish on your own | 7 | Saying where you are going |  | WORD | NUM_HOURS | trí huaire | three hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | NUM_HOURS | ceathair huaire | four hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | NUM_HOURS | cúig huaire | five hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | NUM_HOURS | sé huaire | six hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | NUM_HOURS | seacht n-uaire | seven hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | NUM_HOURS | hocht n-uaire | eight hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | NUM_HOURS | naoi n-uaire | nine hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | NUM_HOURS | deich n-uaire | ten hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | GOING_WHEN | i gceann leathuair an chloig | in half an hour |  |  |  |  | i gen le-hoor a clig |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | GOING_WHEN | i gceann tamaill | in a while |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | GOING_WHEN | anois | now |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | GOING_WHEN | níos moille | later |  |  |  |  | nees mullya |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | GOING_WHEN | anocht | tonight |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | GOING_WHEN | amárach | tomorrow |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | GOING_WHEN | ar maidin | in the morning |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | GOING_WHEN | meán lae | midday |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | GOING_WHEN | san iarnóin | in the afternoon |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | GOING_WHEN | tráthnóna | in the evening |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD | GOING_WHEN | san oíche | in the night |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | SENTENCE |  | Tá mé ag dul go Gaillimh... | I'm going to Galway... |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | TEMPLATE |  | Tá mé ag dul $GOING_WHEN | I'm going $GOING_WHEN |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann leathuair an chloig | I'm going in half an hour |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann tamaill | I'm going in a while |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul anois | I'm going now |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul níos moille | I'm going later |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul anocht | I'm going tonight |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul amárach | I'm going tomorrow |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul ar maidin | I'm going in the morning |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul meán lae | I'm going midday |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul san iarnóin | I'm going in the afternoon |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul tráthnóna | I'm going in the evening |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul san oíche | I'm going in the night |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | TEMPLATE |  | Tá mé ag dul ag $HOUR_O_CLOCK | I'm going at $HOUR_O_CLOCK |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul ag a haon a chlog | I'm going at 1 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul ag a dó a chlog | I'm going at 2 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul ag a trí a chlog | I'm going at 3 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul ag a ceathair a chlog | I'm going at 4 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul ag a cúig a chlog | I'm going at 5 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul ag a sé a chlog | I'm going at 6 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul ag a seacht a chlog | I'm going at 7 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul ag a hocht a chlog | I'm going at 8 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul ag a naoi a chlog | I'm going at 9 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul ag a deich a chlog | I'm going at 10 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul ag a haon déag a chlog | I'm going at 11 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul ag a dó dhéag a chlog | I'm going at 12 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | TEMPLATE |  | Tá mé ag dul i gceann $NUM_HOURS an chloig | I'm going in $NUM_HOURS's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann uair an chloig | I'm going in an hour's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann dhá uair an chloig | I'm going in two hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire an chloig | I'm going in three hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann ceathair huaire an chloig | I'm going in four hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann cúig huaire an chloig | I'm going in five hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann sé huaire an chloig | I'm going in six hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann seacht n-uaire an chloig | I'm going in seven hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann hocht n-uaire an chloig | I'm going in eight hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann naoi n-uaire an chloig | I'm going in nine hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann deich n-uaire an chloig | I'm going in ten hours's time |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | TEMPLATE |  | Tá mé ag dul i gceann $NUM_HOURS go leith | I'm going in $NUM_HOURS and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann uair go leith | I'm going in an hour and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann dhá uair go leith | I'm going in two hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann trí huaire go leith | I'm going in three hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann ceathair huaire go leith | I'm going in four hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann cúig huaire go leith | I'm going in five hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann sé huaire go leith | I'm going in six hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann seacht n-uaire go leith | I'm going in seven hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann hocht n-uaire go leith | I'm going in eight hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann naoi n-uaire go leith | I'm going in nine hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá mé ag dul i gceann deich n-uaire go leith | I'm going in ten hours and a half hours |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD |  | chóir a bheith | almost |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | TEMPLATE |  | Tá sé chóir a bheith $HOUR_O_CLOCK | It's almost $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh $HOUR_O_CLOCK |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith a haon a chlog | It's almost 1 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith a dó a chlog | It's almost 2 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith a trí a chlog | It's almost 3 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith a ceathair a chlog | It's almost 4 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith a cúig a chlog | It's almost 5 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith a sé a chlog | It's almost 6 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith a seacht a chlog | It's almost 7 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith a hocht a chlog | It's almost 8 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith a naoi a chlog | It's almost 9 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith a deich a chlog | It's almost 10 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith a haon déag a chlog | It's almost 11 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith a dó dhéag a chlog | It's almost 12 o'clock |  |  |  |  | Taw shay hor a veh  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú i ndiaidh $HOUR_O_CLOCK | It's almost quarter past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh cahrun I nyay $HOUR_O_CLOCK |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon a chlog | It's almost quarter past 1 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó a chlog | It's almost quarter past 2 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a trí a chlog | It's almost quarter past 3 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a ceathair a chlog | It's almost quarter past 4 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a cúig a chlog | It's almost quarter past 5 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a sé a chlog | It's almost quarter past 6 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a seacht a chlog | It's almost quarter past 7 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a hocht a chlog | It's almost quarter past 8 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a naoi a chlog | It's almost quarter past 9 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a deich a chlog | It's almost quarter past 10 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a haon déag a chlog | It's almost quarter past 11 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú i ndiaidh a dó dhéag a chlog | It's almost quarter past 12 o'clock |  |  |  |  | Taw shay hor a veh cahrun I nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | TEMPLATE |  | Tá sé chóir a bheith leath i ndiaidh $HOUR_O_CLOCK | It's almost half past $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh la in nyay $HOUR_O_CLOCK |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon a chlog | It's almost half past 1 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó a chlog | It's almost half past 2 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a trí a chlog | It's almost half past 3 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a ceathair a chlog | It's almost half past 4 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a cúig a chlog | It's almost half past 5 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a sé a chlog | It's almost half past 6 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a seacht a chlog | It's almost half past 7 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a hocht a chlog | It's almost half past 8 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a naoi a chlog | It's almost half past 9 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a deich a chlog | It's almost half past 10 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a haon déag a chlog | It's almost half past 11 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith leath i ndiaidh a dó dhéag a chlog | It's almost half past 12 o'clock |  |  |  |  | Taw shay hor a veh la in nyay  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | TEMPLATE |  | Tá sé chóir a bheith ceathrú go dtí $HOUR_O_CLOCK | It's almost quarter to $HOUR_O_CLOCK |  |  |  |  | Taw shay hor a veh cahru go gee $HOUR_O_CLOCK |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon a chlog | It's almost quarter to 1 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó a chlog | It's almost quarter to 2 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a trí a chlog | It's almost quarter to 3 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a ceathair a chlog | It's almost quarter to 4 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a cúig a chlog | It's almost quarter to 5 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a sé a chlog | It's almost quarter to 6 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a seacht a chlog | It's almost quarter to 7 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a hocht a chlog | It's almost quarter to 8 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a naoi a chlog | It's almost quarter to 9 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a deich a chlog | It's almost quarter to 10 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a haon déag a chlog | It's almost quarter to 11 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó dhéag a chlog | It's almost quarter to 12 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD |  | scrúdú | exam |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going |  | WORD |  | scrúdú ar maidin | exam in the morning |  |  |  |  |  |  |  |
 
 ## Irish on your own - Discussing Jobs
 
