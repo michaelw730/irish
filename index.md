@@ -58,19 +58,19 @@ a ceathair
 most important to learn first:
 * broad s = normal s
     * ssss
-* slender s Síle, mise, anois 
+* slender s Síle, mise, anois
     * sounds like sh e.g. show, fish
 * broad t = normal t
-* slender t te, leite, Cait 
+* slender t te, leite, Cait
     * sounds like ch e.g. chin, rich
 * broad d = normal d
-* slender d Dia, cuidiú, leid 
+* slender d Dia, cuidiú, leid
     * sounds like j e.g. j Joe, vigil, ledge
 * broad l = normal l
-* slender l Liam, baile, peil 
+* slender l Liam, baile, peil
     * sounds like lj e.g. million, will you
 * broad n = normal n
-* slender n níl, slionne 
+* slender n níl, slionne
     * sounds like nj e.g. sinew minion
 
 vowel combinations
@@ -163,7 +163,7 @@ io, oi, ui sounds like fit (usually) - gliondar, glione, duine
 patterns:
 * only at beginning of word
 * eclipses first letter of a word
-* voiceless stops getting voiced - c=>g, p=>b, t=>d 
+* voiceless stops getting voiced - c=>g, p=>b, t=>d
 * also called nasalisation - b=>m, d=>n, g=>ng
 * can't apply to h/l/m/n/r
 
@@ -463,49 +463,34 @@ If mo precedes a word beginning with a vowel or f, the o in mo is dropped:
 ### Unit 3
 #### Person Background
 
-ASKING SOMEONE WHERE THEY ARE FROM
-
-This is generally used as a statement or as a response to a general question such as 'Tell me a little about yourself.' However, when answering a more specific question, such as Cá as tú? people tend to say As and the name of the place.
-
 ASKING SOMEONE WHERE THEY LIVE
 
-If you are responding to the question Cá bhfuil tú i do chónaí? you can just say, I(n) and the name of the place.
+If you are responding to the question `Cá bhfuil tú i do chónaí?` you can just say, `I(n)` and the name of the place.
 
-The following sentence will prove useful to you if you don't live in the place you are originally from.
-* The Irish for 'in' is i or in.
-* I is used before words beginning with a consonant, and causes an urú:
-    * i dTír Eoghain
-    * i nDún Dealgan
+* The Irish for 'in' is `i` or `in`.
+* `I` is used before words beginning with a consonant, and causes an urú:
+    * `i dTír Eoghain`
+    * `i nDún Dealgan`
 * If the word begins with a vowel, in is used instead:
-    * in Achadh na Chloiche
-    * in Ard Mhacha
-
-TALKING ABOUT LOCATION
-
-You can use the following if you wish to be more precise about where you live:
+    * `in Achadh na Chloiche`
+    * `in Ard Mhacha`
 
 [vocab.csv](vocab.csv#Person+Background)
 
 #### Numbers
 
-The basic cardinal numbers in Irish, from 0 to 10 are:
-
-Counting numbers you need the a...
-
-In everyday speech the a preceding the numbers is often not pronounced. It is always used, however, after the word uimhir, (number): uimhir a cúig == number five
-
-##### Ordinal numbers = first, second
+In everyday speech the a preceding the numbers is often not pronounced. It is always used, however, after the word `uimhir`, (number): `uimhir a cúig` == number five
 
 ##### Counting things
 
 * numbers 2-6 cause séimhiú on words beginning with a consonant
-    * except l/n/r 
+    * except l/n/r
 * Words beginning with a vowel remain unchanged
 * The numbers a haon, a dó, and a ceathair change when counting things.
 * Note how the singular form is used after numbers in Irish
 * The numbers 7-10 cause an urú in words beginning with a consonant
     * except: l/m/n/r/s
-        * and in all words beginning with a vowel:
+        * and in all words beginning with a vowel
 
 [vocab.csv](vocab.csv#Numbers)
 
@@ -515,9 +500,9 @@ In everyday speech the a preceding the numbers is often not pronounced. It is al
 
 #### Time
 
-If you're asking a stranger you should use the phrase, Gabh mo leithscéal (Excuse me) first in order to attract their attention. If you're already talking to someone you can use the second phrase:
+If you're asking a stranger you should use the phrase, `Gabh mo leithscéal` (Excuse me) first in order to attract their attention. If you're already talking to someone you can use the second phrase:
 
-When you're responding to the question Cad é an t-am atá sé? you can leave out Tá sé ... if you wish and simply say the time.
+When you're responding to the question `Cad é an t-am atá sé?` you can leave out Tá sé ... if you wish and simply say the time.
 
 Note: times seem similar in Irish as English (twenty past 8 etc)
 
@@ -535,17 +520,17 @@ ASKING SOMEONE IF THEY SPEAK A LANGUAGE
 
 ##### Grammar
 
-A question is formed in the present tense by placing An before the verb. This causes an urú in verbs beginning with a consonant:
+A question is formed in the present tense by placing `An` before the verb. This causes an urú in verbs beginning with a consonant:
 * except: l/m/n/r/s
-* An dtuigeann tú? Do you understand?
-(This An tends not to be pronounced in everyday speech.)
+* `An dtuigeann tú?` Do you understand?
+(This `An` tends not to be pronounced in everyday speech.)
 
-As you've probably noticed, there's no equivalent of the words 'yes' or 'no' in Irish. You must listen to the question and use the same verb in your answer:
+As you've probably noticed, there's no equivalent of the words 'yes' or 'no' in Irish. You must listen to the question and use the same verb in your answer.
 
 When Ní precedes a verb beginning with a consonant it causes a séimhiú:
 * except: l/n/r
 
-Only a handful of irish verbs (eleven, to be precise) are irregular, but they occur quite frequently. You've already come across one of the most widely used: Tá.
+Only a handful of irish verbs (eleven, to be precise) are irregular, but they occur quite frequently. You've already come across one of the most widely used: `Tá`.
 
 [vocab.csv](vocab.csv#Languages)
 
@@ -566,16 +551,16 @@ Only a handful of irish verbs (eleven, to be precise) are irregular, but they oc
 
 ASKING SOMEONE WHAT THEY WANT
 
-When responding to the question Cad é ba mhaith leat? you can drop Ba mhaith liom and simply say the name of the thing you want.
+When responding to the question `Cad é ba mhaith leat?` you can drop Ba mhaith liom and simply say the name of the thing you want.
 
-If you're in company and the question Cad é ba mhaith libh? is being addressed to the group as a whole, than you can use domhsa and liomsa to answer specifically for yourself:
+If you're in company and the question `Cad é ba mhaith libh?` is being addressed to the group as a whole, than you can use `domhsa` and `liomsa` to answer specifically for yourself:
 
 [vocab.csv](vocab.csv#What+you+want)
 
-The word duitse means 'for you' or 'to you' and is made up of the following:
+The word `duitse` means 'for you' or 'to you' and is made up of the following:
 do (for / to) + tú (you) + se (which is used to add emphasis to tú).
 
-Earlier we saw the word domhsa, which means 'for me' or 'to me' and is a combination of the following elements:
+Earlier we saw the word `domhsa`, which means 'for me' or 'to me' and is a combination of the following elements:
 do (for / to) + mé (me) + sa (which is used to add emphasis to mé).
 
 ### Unit 7
@@ -628,8 +613,8 @@ You use Is to refer to the job you have at the moment but Ba when you are talkin
 | --------------- | ---------------- |
 | Is dochtúir mé. | Ba dhochtúir mé. |
 
-Ba causes a séimhiú in words beginning with a consonant (). 
-* except: l/n/r    
+Ba causes a séimhiú in words beginning with a consonant ().
+* except: l/n/r
 It is shortened to B' before a vowel or fh + vowel.
 
 [vocab.csv](vocab.csv#What+job+you+do)
@@ -688,7 +673,7 @@ SAYING WHAT YOUR CHILDREN ARE DOING
 
 [vocab.csv](vocab.csv#Family1)
 
-| Irish | English | eg mac  | eg iníon     | mathair     | athair      | bean    | fear   | páistí      | clann     |
+| Irish | English | e.g. mac  | e.g. iníon     | e.g. mathair     | e.g. athair      | e.g. bean    | e.g. fear   | e.g. páistí      | e.g. clann     |
 | ----- | ------- | ------- | ------------ | ----------- | ----------- | ------- | ------ | ----------- | --------- |
 | mo    | my      | mo mhac | m'iníon      |             |             |         |        |             | mo chlann |
 | do    | your    | do mhac |              | do mháthair | d'athair    |         |        |             | do chlann |
@@ -923,5 +908,3 @@ document https://www.bbc.co.uk/bitesize/topics/zw36qfr/articles/z62tqfr for coun
 * [Hobbies and interests](hobbies_and_interests.md)
 * [Pets and Animals](pets_and_animals.md)
 * [Celebrations and Festivals](celebrations_and_festivals.md)
-
-

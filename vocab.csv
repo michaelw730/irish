@@ -606,8 +606,8 @@ Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	Builín arán	a loaf of 
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	Stampa	a stamp							
 Irish on your own	6	Ordering Drinks		WORD		Punt	a pound							
 Irish on your own	6	Ordering Drinks		WORD		pingin	pence							
-Irish on your own	6	Ordering Drinks		WORD		Fiche pingin	twenty pence					ping		
-Irish on your own	6	Ordering Drinks		WORD		Caoga pingin	fifty pence					ping		
+Irish on your own	6	Ordering Drinks		WORD		Fiche pingin	twenty pence					feeha ping		
+Irish on your own	6	Ordering Drinks		WORD		Caoga pingin	fifty pence					Cuayga ping		
 Irish on your own	6	Ordering Drinks		QUESTION		Cá mhéad atá ar sin?	How much is that?							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT2	phionta	pint					pinta		
 Irish on your own	6	Ordering Drinks		QUESTION		Cad é ba mhaith leat?	What would you like?		s					
@@ -630,6 +630,7 @@ Irish on your own	6	Ordering Drinks		SENTENCE		Tógaim.	I do.
 Irish on your own	6	Ordering Drinks		SENTENCE		Ní thógaim.	I don't.							
 Irish on your own	6	Ordering Drinks		TEMPLATE		Ar mhaith leat $WHAT_YOU_WANT?	Would you like $WHAT_YOU_WANT?		s					
 Irish on your own	6	Ordering Drinks		TEMPLATE		Ar mhaith libh $WHAT_YOU_WANT?	Would you like $WHAT_YOU_WANT?		p					
+Irish on your own	6	Ordering Drinks	Additional	TEMPLATE		Ar mhaith leat $WHAT_YOU_WANT eile?	Would you like another $WHAT_YOU_WANT?		s					
 Irish on your own	6	Ordering Drinks		SENTENCE		Ba mhaith.	Yes (I would).							
 Irish on your own	6	Ordering Drinks		SENTENCE		Níor mhaith.	No (I wouldn't).							
 Irish on your own	6	Ordering Drinks		SENTENCE		B'fhearr ...	I'd prefer ...					bear...		
@@ -658,6 +659,10 @@ Irish on your own	6	Ordering Drinks	Additional	SENTENCE		cad é ba mhaith leat l
 Irish on your own	6	Ordering Drinks	Additional	SENTENCE	EVENT	Lá Fhéile Bríde	St. Brigid's Day							
 Irish on your own	6	Ordering Drinks	Additional	WORD	MONTHS	Lúnasa	August							
 Irish on your own	6	Ordering Drinks	Additional	WORD	MONTHS	Samhain	November							
+Irish on your own	6	Ordering Drinks	Additional	SENTENCE		Giota beag eile	Another little bit							
+Irish on your own	6	Ordering Drinks	Additional	SENTENCE		Cupán eile	Another cup							
+Irish on your own	6	Ordering Drinks	Additional	TEMPLATE		$WHAT_YOU_WANT eile	Another $WHAT_YOU_WANT							
+Irish on your own	6	Ordering Drinks	Additional	SENTENCE		Ar mhaith leat rud ar bith eile?	Would you like anything else?							
 Irish on your own	7	Saying where you are going		SENTENCE		AG RÁ CÁ BHFUIL TÚ AG DUL	SAYING WHERE YOU'RE GOING							
 Irish on your own	7	Saying where you are going		WORD	PLACES	banc	bank							
 Irish on your own	7	Saying where you are going		WORD	PLACES	teach an phobail	church							
@@ -756,6 +761,8 @@ Irish on your own	7	Saying where you are going		TEMPLATE		Tá sé chóir a bheit
 Irish on your own	7	Saying where you are going		TEMPLATE		Tá sé chóir a bheith ceathrú go dtí $HOUR_O_CLOCK	It's almost quarter to $HOUR_O_CLOCK					Taw shay hor a veh cahru go gee $HOUR_O_CLOCK		
 Irish on your own	7	Saying where you are going		WORD		scrúdú	exam							
 Irish on your own	7	Saying where you are going		WORD		scrúdú ar maidin	exam in the morning							
+Irish on your own	7	Saying where you are going	Additional	TEMPLATE		Ba mhaith liom dul go dtí $THE_PLACES	I would like to go to $THE_PLACES							
+Irish on your own	7	Saying where you are going	Additional	TEMPLATE		Níor mhaith liom dul go dtí $THE_PLACES	I would like to go to $THE_PLACES							
 Irish on your own	8	Discussing Jobs		WORD		AG PLÉ POSTANNA	DISCUSSING JOBS							
 Irish on your own	8	Discussing Jobs		WORD		obair	work							
 Irish on your own	8	Discussing Jobs		WORD		ag obair	working							

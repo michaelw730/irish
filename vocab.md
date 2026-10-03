@@ -1157,8 +1157,8 @@
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | Stampa | a stamp |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD |  | Punt | a pound |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD |  | pingin | pence |  |  |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | WORD |  | Fiche pingin | twenty pence |  |  |  |  | ping |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | WORD |  | Caoga pingin | fifty pence |  |  |  |  | ping |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | WORD |  | Fiche pingin | twenty pence |  |  |  |  | feeha ping |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | WORD |  | Caoga pingin | fifty pence |  |  |  |  | Cuayga ping |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | QUESTION |  | Cá mhéad atá ar sin? | How much is that? |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT2 | phionta | pint |  |  |  |  | pinta |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | QUESTION |  | Cad é ba mhaith leat? | What would you like? |  | s |  |  |  |  |  |
@@ -1329,6 +1329,44 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh Builín? | Would you like a loaf? |  | p |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh Builín arán? | Would you like a loaf of bread? |  | p |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh Stampa? | Would you like a stamp? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | TEMPLATE |  | Ar mhaith leat $WHAT_YOU_WANT eile? | Would you like another $WHAT_YOU_WANT? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat deoch eile? | Would you like another drink? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat caife eile? | Would you like another coffee? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat caife dubh eile? | Would you like another black coffee? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat caife bán eile? | Would you like another white coffee? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat tae eile? | Would you like another tea? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat tae láidir eile? | Would you like another strong tea? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat tae lag eile? | Would you like another weak tea? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat sú oráiste eile? | Would you like another orange juice? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat uisce eile? | Would you like another water? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat beoir eile? | Would you like another beer? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat fíon bán eile? | Would you like another white wine? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat fíon dearg eile? | Would you like another red wine? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat fíon súilíneach eile? | Would you like another sparkling wine? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat fíon géal eile? | Would you like another bright (white) wine? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat fíon bandearg eile? | Would you like another pink (rosé) wine? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat uisce beatha eile? | Would you like another whiskey? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat sceallógaí eile? | Would you like another chips? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat briosca eile? | Would you like another a biscuit? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat bágún eile? | Would you like another bacon? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat pota tae eile? | Would you like another a pot of tea? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat gloine uisce eile? | Would you like another a glass of water? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat gloine fíona eile? | Would you like another a glass of wine? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat gloine gin eile? | Would you like another a glass of gin? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat pionta beorach eile? | Would you like another a pint of beer? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat cupa tae eile? | Would you like another cup of tea? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat bainne eile? | Would you like another milk? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat tae le bainne eile? | Would you like another tea with milk? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat leac oighir eile? | Would you like another ice? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat uachtar reoite eile? | Would you like another ice cream? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat ceapaire eile? | Would you like another sandwich? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat milseáin eile? | Would you like another sweets? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat úll eile? | Would you like another apple? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat cuidiú eile? | Would you like another help? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat siúcra eile? | Would you like another sugar? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat Builín eile? | Would you like another a loaf? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat Builín arán eile? | Would you like another a loaf of bread? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat Stampa eile? | Would you like another a stamp? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | SENTENCE |  | Ba mhaith. | Yes (I would). |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | SENTENCE |  | Níor mhaith. | No (I wouldn't). |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | SENTENCE |  | B'fhearr ... | I'd prefer ... |  |  |  |  | bear... |  |  |
@@ -1432,6 +1470,47 @@
 | Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE | EVENT | Lá Fhéile Bríde | St. Brigid's Day |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | WORD | MONTHS | Lúnasa | August |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | WORD | MONTHS | Samhain | November |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | Giota beag eile | Another little bit |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | Cupán eile | Another cup |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | TEMPLATE |  | $WHAT_YOU_WANT eile | Another $WHAT_YOU_WANT |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | deoch eile | Another drink |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | caife eile | Another coffee |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | caife dubh eile | Another black coffee |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | caife bán eile | Another white coffee |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | tae eile | Another tea |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | tae láidir eile | Another strong tea |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | tae lag eile | Another weak tea |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | sú oráiste eile | Another orange juice |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | uisce eile | Another water |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | beoir eile | Another beer |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | fíon bán eile | Another white wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | fíon dearg eile | Another red wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | fíon súilíneach eile | Another sparkling wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | fíon géal eile | Another bright (white) wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | fíon bandearg eile | Another pink (rosé) wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | uisce beatha eile | Another whiskey |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | sceallógaí eile | Another chips |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | briosca eile | Another a biscuit |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | bágún eile | Another bacon |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | pota tae eile | Another a pot of tea |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | gloine uisce eile | Another a glass of water |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | gloine fíona eile | Another a glass of wine |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | gloine gin eile | Another a glass of gin |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | pionta beorach eile | Another a pint of beer |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | cupa tae eile | Another cup of tea |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | bainne eile | Another milk |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | tae le bainne eile | Another tea with milk |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | leac oighir eile | Another ice |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | uachtar reoite eile | Another ice cream |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | ceapaire eile | Another sandwich |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | milseáin eile | Another sweets |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | úll eile | Another apple |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | cuidiú eile | Another help |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | siúcra eile | Another sugar |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Builín eile | Another a loaf |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Builín arán eile | Another a loaf of bread |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Stampa eile | Another a stamp |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | SENTENCE |  | Ar mhaith leat rud ar bith eile? | Would you like anything else? |  |  |  |  |  |  |  |
 
 ## Irish on your own - Saying where you are going
 
@@ -1642,6 +1721,40 @@
 | Irish on your own | 7 | Saying where you are going |  | DYNAMIC |  | Tá sé chóir a bheith ceathrú go dtí a dó dhéag a chlog | It's almost quarter to 12 o'clock |  |  |  |  | Taw shay hor a veh cahru go gee  |  |  |
 | Irish on your own | 7 | Saying where you are going |  | WORD |  | scrúdú | exam |  |  |  |  |  |  |  |
 | Irish on your own | 7 | Saying where you are going |  | WORD |  | scrúdú ar maidin | exam in the morning |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | TEMPLATE |  | Ba mhaith liom dul go dtí $THE_PLACES | I would like to go to $THE_PLACES |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Ba mhaith liom dul go dtí an linn snámha | I would like to go to the swimming pool |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Ba mhaith liom dul go dtí an cluiche peile | I would like to go to the football match |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Ba mhaith liom dul go dtí an caife | I would like to go to the café |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Ba mhaith liom dul go dtí an amharclann | I would like to go to the theatre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Ba mhaith liom dul go dtí an garáiste | I would like to go to the garage |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Ba mhaith liom dul go dtí an teach tábhairne | I would like to go to the pub |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Ba mhaith liom dul go dtí an pháirc | I would like to go to the park |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Ba mhaith liom dul go dtí an phictiúrlann  | I would like to go to the cinema |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Ba mhaith liom dul go dtí an t-sólann  | I would like to go to the leisure centre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Ba mhaith liom dul go dtí an t-aerfort | I would like to go to the airport |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Ba mhaith liom dul go dtí an t-ionad spóirt | I would like to go to the sports centre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Ba mhaith liom dul go dtí an t-ionad siopadóireachta | I would like to go to the shopping centre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Ba mhaith liom dul go dtí an t-ollmhargadh | I would like to go to the supermarket |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Ba mhaith liom dul go dtí an bhialann | I would like to go to the restaurant |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Ba mhaith liom dul go dtí an t-ospidéal | I would like to go to the hospital |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Ba mhaith liom dul go dtí an ghealach | I would like to go to the moon |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | TEMPLATE |  | Níor mhaith liom dul go dtí $THE_PLACES | I would like to go to $THE_PLACES |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Níor mhaith liom dul go dtí an linn snámha | I would like to go to the swimming pool |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Níor mhaith liom dul go dtí an cluiche peile | I would like to go to the football match |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Níor mhaith liom dul go dtí an caife | I would like to go to the café |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Níor mhaith liom dul go dtí an amharclann | I would like to go to the theatre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Níor mhaith liom dul go dtí an garáiste | I would like to go to the garage |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Níor mhaith liom dul go dtí an teach tábhairne | I would like to go to the pub |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Níor mhaith liom dul go dtí an pháirc | I would like to go to the park |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Níor mhaith liom dul go dtí an phictiúrlann  | I would like to go to the cinema |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Níor mhaith liom dul go dtí an t-sólann  | I would like to go to the leisure centre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Níor mhaith liom dul go dtí an t-aerfort | I would like to go to the airport |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Níor mhaith liom dul go dtí an t-ionad spóirt | I would like to go to the sports centre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Níor mhaith liom dul go dtí an t-ionad siopadóireachta | I would like to go to the shopping centre |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Níor mhaith liom dul go dtí an t-ollmhargadh | I would like to go to the supermarket |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Níor mhaith liom dul go dtí an bhialann | I would like to go to the restaurant |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Níor mhaith liom dul go dtí an t-ospidéal | I would like to go to the hospital |  |  |  |  |  |  |  |
+| Irish on your own | 7 | Saying where you are going | Additional | DYNAMIC |  | Níor mhaith liom dul go dtí an ghealach | I would like to go to the moon |  |  |  |  |  |  |  |
 
 ## Irish on your own - Discussing Jobs
 
