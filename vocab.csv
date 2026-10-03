@@ -823,14 +823,14 @@ Irish on your own	8	Discussing Jobs		QUESTION		An maith leat do phost?	Do you li
 Irish on your own	8	Discussing Jobs		QUESTION		An maith leat do chuid oibre?	Do you like your work?							
 Irish on your own	8	Discussing Jobs		SENTENCE		Níl mé ag obair ...	I'm not working...							
 Irish on your own	8	Discussing Jobs		SENTENCE		Tá mé dífhostaithe...	I'm unemployed...					..djee-ost-aha		
-Irish on your own	8	Discussing Jobs		WORD		... faoi láthair.	... at the moment (literal: present).					..fee laher		
+Irish on your own	8	Discussing Jobs		WORD		... faoi láthair	... at the moment				present	..fee laher		
 Irish on your own	8	Discussing Jobs		SENTENCE		Tá mé éirithe as	I'm retired					...airy-a ass		
 Irish on your own	8	Discussing Jobs		QUESTION		Cad é an post a bhí agat?	What job did you have?							
 Irish on your own	8	Discussing Jobs		TEMPLATE		$JOB a bhí ionam	I was a $JOB							
 Irish on your own	8	Discussing Jobs		SENTENCE		Ba mhúinteoir mé.	I was a teacher.							
 Irish on your own	8	Discussing Jobs		SENTENCE		Ba mheicneoir mé.	I was a mechanic							
 Irish on your own	8	Discussing Jobs		SENTENCE		Ba dhochtúir mé.	I was a doctor					ba gochter ma		
-Irish on your own	8	Discussing Jobs		SENTENCE		Ba banaltra mé.	I was a nurse					ba gochter ma		
+Irish on your own	8	Discussing Jobs		SENTENCE		Ba bhanaltra mé.	I was a nurse					ba wan-al-tra ma		
 Irish on your own	8	Discussing Jobs		SENTENCE		B'oibrí monarchan mé.	I was a factory worker							
 Irish on your own	8	Discussing Jobs		SENTENCE		B'fheirmeoir mé.	I was a farmer							
 Irish on your own	8	Discussing Jobs		TEMPLATE		An $JOB tú?	Are you a $JOB?							
@@ -841,7 +841,7 @@ Irish on your own	9	Giving orders and instructions	Additional			fuinneog	window	
 Irish on your own	9	Giving orders and instructions		SENTENCE		Tar isteach.	Come in		s					
 Irish on your own	9	Giving orders and instructions		SENTENCE		Tagaigí isteach.	Come in		p					
 Irish on your own	9	Giving orders and instructions		SENTENCE		Taraigí isteach.	Come in		p					
-Irish on your own	9	Giving orders and instructions		SENTENCE		síos	down		s			shees		
+Irish on your own	9	Giving orders and instructions		WORD		síos	down		s			shees		
 Irish on your own	9	Giving orders and instructions		SENTENCE		Suigh síos.	sit down		s			see shees		
 Irish on your own	9	Giving orders and instructions		SENTENCE		Suígí síos.	sit down		p			see-gee shees		
 Irish on your own	9	Giving orders and instructions		SENTENCE		Coimhéad!	Look out! or Be careful!		s			cuv-ahd		
@@ -867,8 +867,8 @@ Irish on your own	9	Giving orders and instructions		SENTENCE		Fan socair!	Stay q
 Irish on your own	9	Giving orders and instructions		SENTENCE		Fanaigí socair!	Stay quiet!		p					
 Irish on your own	9	Giving orders and instructions		SENTENCE		Gabh amach!	Get out!		s			go amak (throaty k)		
 Irish on your own	9	Giving orders and instructions		SENTENCE		Gabhaigí amach!	Get out!		p			gogi amak (throaty k)		
-Irish on your own	9	Giving orders and instructions		SENTENCE		Imigh leat!	Away you go (in nice way).  Go away! (in strong voice)		s			immee lat		
-Irish on your own	9	Giving orders and instructions		SENTENCE		Imigí libh!	Away you go (in nice way).  Go away! (in strong voice)		p					
+Irish on your own	9	Giving orders and instructions		SENTENCE		Imigh leat!	Away you go		s			immee lat		 (in nice way).  Go away! (in strong voice)
+Irish on your own	9	Giving orders and instructions		SENTENCE		Imigí libh!	Away you go		p					 (in nice way).  Go away! (in strong voice)
 Irish on your own	9	Giving orders and instructions		SENTENCE		Lean ort.	Carry on.		s			lan ort		
 Irish on your own	9	Giving orders and instructions		SENTENCE		Leanaigí oraibh.	Carry on.		p			lanigi oriv		
 Irish on your own	9	Giving orders and instructions		SENTENCE		Tar anseo.	Come here.		s					
