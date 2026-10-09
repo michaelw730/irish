@@ -1263,6 +1263,7 @@ Irish on your own	12	Taking your leave		PHRASE		Fan uair an chloig eile.	Stay an
 Irish on your own	12	Taking your leave		PHRASE		Ní thig liom.	I can't.							
 Irish on your own	12	Taking your leave		WORD		saoire	holiday					seera		
 Irish on your own	12	Taking your leave		WORD		laethanta saoire	holiday							
+Irish on your own	12	Taking your leave		PHRASE		Tá mé ag súil ar saoire.	I'm going on holiday							
 Irish on your own	12	Taking your leave		WORD		lá	day			m				
 Irish on your own	12	Taking your leave		WORD		seachtain	week			f				
 Irish on your own	12	Taking your leave		WORD		coicís	fortnight			f		Coc-ish		
@@ -1270,13 +1271,13 @@ Irish on your own	12	Taking your leave		WORD		mí	month			f
 Irish on your own	12	Taking your leave		WORD		bliain	year			f				
 Irish on your own	12	Taking your leave		WORD		an lae	the day			m				
 Irish on your own	12	Taking your leave		WORD		na seachtaine	The week			f				
-Irish on your own	12	Taking your leave		WORD		an choicís	The fortnight			f		Coc-ish		
+Irish on your own	12	Taking your leave		WORD		an choicís	The fortnight			f		An choc-ish (throaty ch)		
 Irish on your own	12	Taking your leave		WORD		an mhí 	month			f				
 Irish on your own	12	Taking your leave		WORD		an bhliain	the year			f				
 Irish on your own	13	Taking your leave		WORD		ar an tseachtain seo chugainn	next week				this week towards us			
 Irish on your own	12	Taking your leave		PHRASE		Chífidh mé tú.	I'll see you		s					
 Irish on your own	12	Taking your leave		PHRASE		Chífidh mé sibh.	I'll see you		p					
-Irish on your own	12	Taking your leave		PHRASE		Chífidh mé ar ball tú.	I'll see you in a while/I'll see you later.							
+Irish on your own	12	Taking your leave		PHRASE		Chífidh mé ar ball tú.	I'll see you in a while/I'll see you later.					Chiffy meh ar bwel to		
 Irish on your own	12	Taking your leave		PHRASE		Chífidh mé i gceann leathuaire tú.	I'll see you in half an hour.							
 Irish on your own	12	Taking your leave		PHRASE		Chífidh mé i gceann uair an chloig tú.	I'll see you in an hour.							
 Irish on your own	12	Taking your leave		PHRASE		Chífidh mé anocht tú.	I'll see you tonight.							
