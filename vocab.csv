@@ -389,6 +389,7 @@ Irish on your own	4	Discussing Languages	Languages	TEMPLATE		An bhfuil tú ag fo
 Irish on your own	4	Discussing Languages	Languages	QUESTION		Cad é na teangacha atá agat?	Which/what languages can you speak?							
 Irish on your own	4	Discussing Languages	Languages	QUESTION		Cad é na teangacha eile atá agat?	Which/what other languages can you speak?							
 Irish on your own	4	Discussing Languages	Languages	SENTENCE		Tá Fraincis agus Gearmáinis agam.	I speak French and German.	repeat for other languages						
+Irish on your own	4	Discussing Languages	Languages	SENTENCE		Tá Fraincis agus Gearmáinis aige.	He speaks French and German.	repeat for other languages						
 Irish on your own	4	Discussing Languages	Languages	SENTENCE		Tá Iodáilis agam ach níl aon Spáinnis agam.	I speak Italian but I can't speak Spanish.	repeat for other languages						
 Irish on your own	4	Discussing Languages	Languages	SENTENCE		Níl aon Fhraincis nó Spáinnis agam.	I speak neither French nor Spanish.	repeat for other languages						
 Irish on your own	4	Discussing Languages	Languages	QUESTION		Cá háit?	Where?					Ca hatch?		If you tell someone that you are learning a language, you might be asked where:
@@ -465,6 +466,19 @@ Irish on your own	4	Discussing Languages	Additional	WORD	COLOURS	gorm	blue					g
 Irish on your own	4	Discussing Languages	Additional	WORD	COLOURS	dubh	black					doo??		
 Irish on your own	4	Discussing Languages	Additional	WORD	HAIR_COLOUR	rua	red haired							
 Irish on your own	4	Discussing Languages	Additional	WORD	HAIR_COLOUR	fionn	fair haired							
+Irish on your own	4	Discussing Languages	Additional	SENTENCE		An bhfuil carr agat?	Do you have a car?							
+Irish on your own	4	Discussing Languages	Additional	SENTENCE		Tá carr agam	I have a car							
+Irish on your own	4	Discussing Languages	Additional	SENTENCE		Níl carr agam	I don’t have a car							
+Irish on your own	4	Discussing Languages	Additional	SENTENCE		An bhfuil carr nua agat?	Do you have a new car?							
+Irish on your own	4	Discussing Languages	Additional	SENTENCE		Tá carr nua agam	I have a new car							
+Irish on your own	4	Discussing Languages	Additional	SENTENCE		An bhfuil carr dearg agat?	Do you have a red car?							
+Irish on your own	4	Discussing Languages	Additional	SENTENCE		Tá carr dearg agam	I have a red car							
+Irish on your own	4	Discussing Languages	Additional	SENTENCE		An bhfuil bomaite agat?	Have you got a minute?							
+Irish on your own	4	Discussing Languages	Additional	WORD		coinne	appointment					Coin-ya		
+Irish on your own	4	Discussing Languages	Additional	SENTENCE		Tá coinne agam.	I have an appointment.							
+Irish on your own	4	Discussing Languages	Additional	SENTENCE		Tús maith leath na hoibre.	A good start is half the work.							
+Irish on your own	4	Discussing Languages	Additional	SENTENCE		Cúpla focal	a couple of words							When responding to have “can you speak language?”
+Irish on your own	4	Discussing Languages	Additional	SENTENCE		Cur béarla air	put into English					cur bear-la air		
 Irish on your own	5	Expressing Opinions		PHRASE		AG CUR TUAIRIMÍ IN IÚL	Expressing opinions					ag cur toor-a-me in yool		
 Irish on your own	5	Expressing Opinions		PHRASE		Caithimh aimsire	Pastimes					cahiv amshira		
 Irish on your own	5	Expressing Opinions		WORD		banc	bank							
@@ -1086,10 +1100,12 @@ Irish on your own	11	Saying what you did		PHRASE		trí mhí	three months
 Irish on your own	11	Saying what you did		NOUN		liathróid	ball					La-hridge		
 Irish on your own	11	Saying what you did		WORD		Ag aisteoireacht	acting							
 Irish on your own	11	Saying what you did		PHRASE		Cá háit?	Where?					Ca hatch?		
-Irish on your own	11	Saying what you did		PHRASE		Cá háit a ndeachaigh* tú?	Where did you go?		s			Ca hatch a dja-ha too?		
-Irish on your own	11	Saying what you did		PHRASE		Cá háit a ndeachaigh* sibh?	Where did you go?		p			Ca hatch a dja-ha shiv $RECENT_PERIODS?		
-Irish on your own	11	Saying what you did		TEMPLATE		Cá háit a ndeachaigh* tú $RECENT_PERIODS?	Where did you go $RECENT_PERIODS?					Ca hatch a dja-ha too $RECENT_PERIODS?		* The n at the beginning of this word is not pronounced in the Ulster dialect.
+Irish on your own	11	Saying what you did		PHRASE		Cá háit a ndeachaigh tú?	Where did you go?		s			Ca hatch a dja-ha too?		* The n at the beginning of this word is not pronounced in the Ulster dialect.
+Irish on your own	11	Saying what you did		PHRASE		Cá háit a ndeachaigh sibh?	Where did you go?		p			Ca hatch a dja-ha shiv $RECENT_PERIODS?		* The n at the beginning of this word is not pronounced in the Ulster dialect.
+Irish on your own	11	Saying what you did		TEMPLATE		Cá háit a ndeachaigh tú $RECENT_PERIODS?	Where did you go $RECENT_PERIODS?					Ca hatch a dja-ha too $RECENT_PERIODS?		* The n at the beginning of this word is not pronounced in the Ulster dialect.
+Irish on your own	11	Saying what you did		TEMPLATE		Cá háit a ndeachaigh tú féin $RECENT_PERIODS?	Where did you go yourself $RECENT_PERIODS?					Ca hatch a dja-ha too hain $RECENT_PERIODS?		* The n at the beginning of this word is not pronounced in the Ulster dialect.
 Irish on your own	11	Saying what you did		TEMPLATE		Cad é a rinne tú $RECENT_PERIODS?	What did you do $RECENT_PERIODS?					Ca jay rin too $RECENT_PERIODS?		
+Irish on your own	11	Saying what you did		TEMPLATE		Cad é a rinne tú féin $RECENT_PERIODS?	What did you do yourself $RECENT_PERIODS?					Ca jay rin too hain $RECENT_PERIODS?		
 Irish on your own	11	Saying what you did		VERB		imir	play							
 Irish on your own	11	Saying what you did		TEMPLATE		D'imir $PRONOUNS	$PRONOUNS played					Jimir $PRONOUNS		
 Irish on your own	11	Saying what you did		PHRASE		D'imir mé cispheil.	I played basketball.					Djimir meh kish-fell		
@@ -1109,7 +1125,7 @@ Irish on your own	11	Saying what you did		PHRASE		D'ól mé cúpla deoch.	I had 
 Irish on your own	11	Saying what you did		PHRASE		D'ól mé cúpla pionta.	I had a few pints.					dol meh coupla pinta		
 Irish on your own	11	Saying what you did		PHRASE		Caithfidh mé labhairt leat inniu	I need to see you today					chiffy me lorch leat innyou		
 Irish on your own	11	Saying what you did		VERB		suigh	sit					shees		
-Irish on your own	11	Saying what you did				suigh síos	sit down					see shees		
+Irish on your own	11	Saying what you did		PHRASE		suigh síos	sit down					see shees		
 Irish on your own	11	Saying what you did		TEMPLATE		shuigh $PRONOUNS	$PRONOUNS sat					hee $PRONOUNS		
 Irish on your own	11	Saying what you did		TEMPLATE		shuigh $PRONOUNS síos	$PRONOUNS sat down					hee $PRONOUNS shees		
 Irish on your own	11	Saying what you did		VERB		druid	close					dridge		
@@ -1173,6 +1189,7 @@ Irish on your own	11	Saying what you did		PHRASE		oíche Dhomhnaigh	Sunday night
 Irish on your own	11	Saying what you did		PHRASE		Cá huair?	When?							
 Irish on your own	11	Saying what you did		PHRASE		Cá huair a chuaigh tú go Leitir Ceanainn?	When did you go to Letterkenny?							
 Irish on your own	11	Saying what you did		PHRASE		Cén lá a chuaigh tú go Leitir Ceanainn?	What/which day did you go to Letterkenny?							
+Irish on your own	11	Saying what you did		PHRASE		Cén lá a chuaigh tú go dtí an otharlann?	What/which day did you go to the hospital?							
 Irish on your own	11	Saying what you did		PHRASE		Cé a bhí leat?	Who was with you?					kay vee lat?		
 Irish on your own	11	Saying what you did		PHRASE		Cé a chuaigh leat?	Who went with you?					Kay who-e lat?		
 Irish on your own	11	Saying what you did		PHRASE		Cé a bhí ag an disco leat?	Who was with you at the disco?					kay vee ag an disco lat?		
@@ -1188,6 +1205,7 @@ Irish on your own	11	Saying what you did		PHRASE		Bhain.	Yes (I did).					win
 Irish on your own	11	Saying what you did		PHRASE		Níor bhain.	No (I didn't).					near win		
 Irish on your own	11	Saying what you did		PHRASE		Bhain mé sult as.	I enjoyed it.					win meh sult as		
 Irish on your own	11	Saying what you did		PHRASE		Bhain mé an-sult as.	I really enjoyed it.					win meh an-sult as		
+Irish on your own	11	Saying what you did		PHRASE		Bhain mé an-sult as an scannán.	I really enjoyed the film.					win meh an-sult as an scan-aan		
 Irish on your own	11	Saying what you did		PHRASE		go hArd Mhacha	to Armagh							
 Irish on your own	11	Saying what you did		PHRASE		go dtí an banc	to the bank							
 Irish on your own	11	Saying what you did		PHRASE		chuig dráma	to a play							
@@ -1199,8 +1217,8 @@ Irish on your own	11	Saying what you did		PHRASE		Ba mhaith liom a bheith i mo c
 Irish on your own	11	Saying what you did		PHRASE		b'fhéidir	maybe					bayjor		
 Irish on your own	11	Saying what you did		PHRASE		D’ol mé barraíocht	I drank too much							
 Irish on your own	11	Saying what you did	Additional	PHRASE		Tá Blas ann	Blas is on 							at this minute
-Irish on your own	11	Saying what you did	Additional	PHRASE		bhí Blas ann inné	Blas was on yesterday					vee Blas on innyeah		
-Irish on your own	11	Saying what you did	Additional	PHRASE		beidh Blas ann amarach	Blas will be on toorrow					bay Blas on amara		
+Irish on your own	11	Saying what you did	Additional	PHRASE		Bhí Blas ann inné	Blas was on yesterday					vee Blas on innyeah		
+Irish on your own	11	Saying what you did	Additional	PHRASE		Beidh Blas ann amarach	Blas will be on tomorrow					bay Blas on amara		
 Irish on your own	12	Taking your leave		PHRASE		AG FÁGÁIL COMHLUADAIR	TAKING YOUR LEAVE					Ag faygal cool-wah-der		
 Irish on your own	12	Taking your leave		PHRASE		Caithfidh mé imeacht.	I have to go.				I have to leave	Ka-heh meh imackt		
 Irish on your own	12	Taking your leave		PHRASE		Caithfidh mé imeacht arís.	I have to go again.				I have to leave again			
@@ -1211,11 +1229,11 @@ Irish on your own	12	Taking your leave		PHRASE		Caithfidh mé ag dul abhaile.	I 
 Irish on your own	12	Taking your leave		PHRASE		Tá mé ag imeacht.	I am going.				I am leaving			
 Irish on your own	12	Taking your leave		PHRASE		Tá mé ag dul abhaile.	I am going home.							
 Irish on your own	12	Taking your leave		PHRASE		Tá mé ag dul chun an bhaile.	I am going home.							
-Irish on your own	12	Taking your leave		PHRASE		Tá mé ag dul chuig scannan	I am going to the film.							
+Irish on your own	12	Taking your leave		PHRASE		Tá mé ag dul chuig scannán	I am going to the film.							
 Irish on your own	12	Taking your leave		PHRASE		Maith go leor.	All right.							
 Irish on your own	12	Taking your leave		PHRASE		Ceart go leor.	All right.							
 Irish on your own	12	Taking your leave		PHRASE		Is mór an trua sin.	That's a pity.							
-Irish on your own	12	Taking your leave		PHRASE		Cheana féin!	Already!							
+Irish on your own	12	Taking your leave		PHRASE		Cheana féin!	Already!					hana fin		
 Irish on your own	12	Taking your leave		PHRASE		Níl sé ach luath.	It's only early.				it's not but early			
 Irish on your own	12	Taking your leave		PHRASE		Cad chuige?	Why?				To what purpose?	cad teeya??		
 Irish on your own	12	Taking your leave		PHRASE		Tá brón orm ach ...	I am sorry but ...							
@@ -1229,15 +1247,16 @@ Irish on your own	12	Taking your leave		PHRASE		Tá muid mall.	We’re late.
 Irish on your own	12	Taking your leave		PHRASE		Dean deifir	Hurry up							
 Irish on your own	12	Taking your leave		PHRASE		Dean deifir. Tá muid mall	Hurry up. We're late							
 Irish on your own	12	Taking your leave		PHRASE		Tá mé mall don dráma.	I'm late for the play.							
-Irish on your own	12	Taking your leave		PHRASE		Tá mé mall don scannan.	I'm late for the film.							
+Irish on your own	12	Taking your leave		PHRASE		Tá mé mall don scannán.	I'm late for the film.							
 Irish on your own	12	Taking your leave		PHRASE		Tá deifir orm.	I'm in a hurry.							
 Irish on your own	12	Taking your leave		WORD		cuairteoir	visitor							
 Irish on your own	12	Taking your leave		WORD		cuairteoirí	visitors							
 Irish on your own	12	Taking your leave		WORD		cruinniú	meeting (event)							
 Irish on your own	12	Taking your leave		PHRASE		Tá mé ag súil le cuairteoirí.	I'm expecting visitors.							
 Irish on your own	12	Taking your leave		PHRASE		Tá mé ag dul chuig cruinniú.	I'm going to a meeting.							
+Irish on your own	12	Taking your leave		TEMPLATE		Tá mé ag dul chuig cruinniú leath i ndiaidh $HOUR_O_CLOCK.	I'm going to a meeting at half $HOUR_O_CLOCK.							
 Irish on your own	12	Taking your leave		PHRASE		Fan tamall beag eile!	Stay a little while longer!							
-Irish on your own	12	Taking your leave		PHRASE		Tá mé ag dul chuig ceolchoirm ag a naoi a chlog	I’m going to a concert at nine o clock							
+Irish on your own	12	Taking your leave		TEMPLATE		Tá mé ag dul chuig ceolchoirm ag $HOUR_O_CLOCK	I’m going to a concert at $HOUR_O_CLOCK							
 Irish on your own	12	Taking your leave		TEMPLATE		Fan go dtí $HOUR_O_CLOCK	Stay until $HOUR_O_CLOCK							
 Irish on your own	12	Taking your leave		PHRASE		Fan leathuair eile.	Stay another half an hour.							
 Irish on your own	12	Taking your leave		PHRASE		Fan uair an chloig eile.	Stay another hour.							

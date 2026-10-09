@@ -665,6 +665,7 @@
 | Irish on your own | 4 | Discussing Languages | Languages | QUESTION |  | Cad é na teangacha atá agat? | Which/what languages can you speak? |  |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | QUESTION |  | Cad é na teangacha eile atá agat? | Which/what other languages can you speak? |  |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Tá Fraincis agus Gearmáinis agam. | I speak French and German. | repeat for other languages |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Tá Fraincis agus Gearmáinis aige. | He speaks French and German. | repeat for other languages |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Tá Iodáilis agam ach níl aon Spáinnis agam. | I speak Italian but I can't speak Spanish. | repeat for other languages |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | SENTENCE |  | Níl aon Fhraincis nó Spáinnis agam. | I speak neither French nor Spanish. | repeat for other languages |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Languages | QUESTION |  | Cá háit? | Where? |  |  |  |  | Ca hatch? |  | If you tell someone that you are learning a language, you might be asked where: |
@@ -776,6 +777,19 @@
 | Irish on your own | 4 | Discussing Languages | Additional | WORD | COLOURS | dubh | black |  |  |  |  | doo?? |  |  |
 | Irish on your own | 4 | Discussing Languages | Additional | WORD | HAIR_COLOUR | rua | red haired |  |  |  |  |  |  |  |
 | Irish on your own | 4 | Discussing Languages | Additional | WORD | HAIR_COLOUR | fionn | fair haired |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | SENTENCE |  | An bhfuil carr agat? | Do you have a car? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | SENTENCE |  | Tá carr agam | I have a car |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | SENTENCE |  | Níl carr agam | I don’t have a car |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | SENTENCE |  | An bhfuil carr nua agat? | Do you have a new car? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | SENTENCE |  | Tá carr nua agam | I have a new car |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | SENTENCE |  | An bhfuil carr dearg agat? | Do you have a red car? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | SENTENCE |  | Tá carr dearg agam | I have a red car |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | SENTENCE |  | An bhfuil bomaite agat? | Have you got a minute? |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | WORD |  | coinne | appointment |  |  |  |  | Coin-ya |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | SENTENCE |  | Tá coinne agam. | I have an appointment. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | SENTENCE |  | Tús maith leath na hoibre. | A good start is half the work. |  |  |  |  |  |  |  |
+| Irish on your own | 4 | Discussing Languages | Additional | SENTENCE |  | Cúpla focal | a couple of words |  |  |  |  |  |  | When responding to have “can you speak language?” |
+| Irish on your own | 4 | Discussing Languages | Additional | SENTENCE |  | Cur béarla air | put into English |  |  |  |  | cur bear-la air |  |  |
 
 ## Irish on your own - Expressing Opinions
 
@@ -2328,17 +2342,26 @@
 | Irish on your own | 11 | Saying what you did |  | NOUN |  | liathróid | ball |  |  |  |  | La-hridge |  |  |
 | Irish on your own | 11 | Saying what you did |  | WORD |  | Ag aisteoireacht | acting |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cá háit? | Where? |  |  |  |  | Ca hatch? |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cá háit a ndeachaigh* tú? | Where did you go? |  | s |  |  | Ca hatch a dja-ha too? |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cá háit a ndeachaigh* sibh? | Where did you go? |  | p |  |  | Ca hatch a dja-ha shiv $RECENT_PERIODS? |  |  |
-| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Cá háit a ndeachaigh* tú $RECENT_PERIODS? | Where did you go $RECENT_PERIODS? |  |  |  |  | Ca hatch a dja-ha too $RECENT_PERIODS? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh* tú ag an deireadh seachtaine? | Where did you go at the weekend? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh* tú inniú? | Where did you go today? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh* tú inné? | Where did you go yesterday? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh* tú arú inné? | Where did you go the day before yesterday? |  |  |  |  | Ca hatch a dja-ha too aroo inyay? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh* tú aréir? | Where did you go last night? |  |  |  |  | Ca hatch a dja-ha too a-rare? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh* tú arú aréir? | Where did you go the night before last? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh* tú maidin inné? | Where did you go yesterday morning? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh* tú maidin inniú? | Where did you go this morning? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cá háit a ndeachaigh tú? | Where did you go? |  | s |  |  | Ca hatch a dja-ha too? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cá háit a ndeachaigh sibh? | Where did you go? |  | p |  |  | Ca hatch a dja-ha shiv $RECENT_PERIODS? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Cá háit a ndeachaigh tú $RECENT_PERIODS? | Where did you go $RECENT_PERIODS? |  |  |  |  | Ca hatch a dja-ha too $RECENT_PERIODS? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh tú ag an deireadh seachtaine? | Where did you go at the weekend? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh tú inniú? | Where did you go today? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh tú inné? | Where did you go yesterday? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh tú arú inné? | Where did you go the day before yesterday? |  |  |  |  | Ca hatch a dja-ha too aroo inyay? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh tú aréir? | Where did you go last night? |  |  |  |  | Ca hatch a dja-ha too a-rare? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh tú arú aréir? | Where did you go the night before last? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh tú maidin inné? | Where did you go yesterday morning? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh tú maidin inniú? | Where did you go this morning? |  |  |  |  | Ca hatch a dja-ha too ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Cá háit a ndeachaigh tú féin $RECENT_PERIODS? | Where did you go yourself $RECENT_PERIODS? |  |  |  |  | Ca hatch a dja-ha too hain $RECENT_PERIODS? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh tú féin ag an deireadh seachtaine? | Where did you go yourself at the weekend? |  |  |  |  | Ca hatch a dja-ha too hain ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh tú féin inniú? | Where did you go yourself today? |  |  |  |  | Ca hatch a dja-ha too hain ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh tú féin inné? | Where did you go yourself yesterday? |  |  |  |  | Ca hatch a dja-ha too hain ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh tú féin arú inné? | Where did you go yourself the day before yesterday? |  |  |  |  | Ca hatch a dja-ha too hain aroo inyay? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh tú féin aréir? | Where did you go yourself last night? |  |  |  |  | Ca hatch a dja-ha too hain a-rare? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh tú féin arú aréir? | Where did you go yourself the night before last? |  |  |  |  | Ca hatch a dja-ha too hain ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh tú féin maidin inné? | Where did you go yourself yesterday morning? |  |  |  |  | Ca hatch a dja-ha too hain ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cá háit a ndeachaigh tú féin maidin inniú? | Where did you go yourself this morning? |  |  |  |  | Ca hatch a dja-ha too hain ? |  | * The n at the beginning of this word is not pronounced in the Ulster dialect. |
 | Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Cad é a rinne tú $RECENT_PERIODS? | What did you do $RECENT_PERIODS? |  |  |  |  | Ca jay rin too $RECENT_PERIODS? |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cad é a rinne tú ag an deireadh seachtaine? | What did you do at the weekend? |  |  |  |  | Ca jay rin too ? |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cad é a rinne tú inniú? | What did you do today? |  |  |  |  | Ca jay rin too ? |  |  |
@@ -2348,6 +2371,15 @@
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cad é a rinne tú arú aréir? | What did you do the night before last? |  |  |  |  | Ca jay rin too ? |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cad é a rinne tú maidin inné? | What did you do yesterday morning? |  |  |  |  | Ca jay rin too ? |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cad é a rinne tú maidin inniú? | What did you do this morning? |  |  |  |  | Ca jay rin too ? |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Cad é a rinne tú féin $RECENT_PERIODS? | What did you do yourself $RECENT_PERIODS? |  |  |  |  | Ca jay rin too hain $RECENT_PERIODS? |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cad é a rinne tú féin ag an deireadh seachtaine? | What did you do yourself at the weekend? |  |  |  |  | Ca jay rin too hain ? |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cad é a rinne tú féin inniú? | What did you do yourself today? |  |  |  |  | Ca jay rin too hain ? |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cad é a rinne tú féin inné? | What did you do yourself yesterday? |  |  |  |  | Ca jay rin too hain ? |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cad é a rinne tú féin arú inné? | What did you do yourself the day before yesterday? |  |  |  |  | Ca jay rin too hain aroo inyay? |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cad é a rinne tú féin aréir? | What did you do yourself last night? |  |  |  |  | Ca jay rin too hain a-rare? |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cad é a rinne tú féin arú aréir? | What did you do yourself the night before last? |  |  |  |  | Ca jay rin too hain ? |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cad é a rinne tú féin maidin inné? | What did you do yourself yesterday morning? |  |  |  |  | Ca jay rin too hain ? |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Cad é a rinne tú féin maidin inniú? | What did you do yourself this morning? |  |  |  |  | Ca jay rin too hain ? |  |  |
 | Irish on your own | 11 | Saying what you did |  | VERB |  | imir | play |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | D'imir $PRONOUNS | $PRONOUNS played |  |  |  |  | Jimir $PRONOUNS |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir mé | I played |  |  |  |  | Jimir meh |  |  |
@@ -2395,7 +2427,7 @@
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | D'ól mé cúpla pionta. | I had a few pints. |  |  |  |  | dol meh coupla pinta |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Caithfidh mé labhairt leat inniu | I need to see you today |  |  |  |  | chiffy me lorch leat innyou |  |  |
 | Irish on your own | 11 | Saying what you did |  | VERB |  | suigh | sit |  |  |  |  | shees |  |  |
-| Irish on your own | 11 | Saying what you did |  |  |  | suigh síos | sit down |  |  |  |  | see shees |  |  |
+| Irish on your own | 11 | Saying what you did |  | PHRASE |  | suigh síos | sit down |  |  |  |  | see shees |  |  |
 | Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | shuigh $PRONOUNS | $PRONOUNS sat |  |  |  |  | hee $PRONOUNS |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | shuigh mé | I sat |  |  |  |  | hee meh |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | shuigh tú | you sat |  |  |  |  | hee too |  |  |
@@ -2642,6 +2674,7 @@
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cá huair? | When? |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cá huair a chuaigh tú go Leitir Ceanainn? | When did you go to Letterkenny? |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cén lá a chuaigh tú go Leitir Ceanainn? | What/which day did you go to Letterkenny? |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cén lá a chuaigh tú go dtí an otharlann? | What/which day did you go to the hospital? |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cé a bhí leat? | Who was with you? |  |  |  |  | kay vee lat? |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cé a chuaigh leat? | Who went with you? |  |  |  |  | Kay who-e lat? |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cé a bhí ag an disco leat? | Who was with you at the disco? |  |  |  |  | kay vee ag an disco lat? |  |  |
@@ -2657,6 +2690,7 @@
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Níor bhain. | No (I didn't). |  |  |  |  | near win |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Bhain mé sult as. | I enjoyed it. |  |  |  |  | win meh sult as |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Bhain mé an-sult as. | I really enjoyed it. |  |  |  |  | win meh an-sult as |  |  |
+| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Bhain mé an-sult as an scannán. | I really enjoyed the film. |  |  |  |  | win meh an-sult as an scan-aan |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | go hArd Mhacha | to Armagh |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | go dtí an banc | to the bank |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | chuig dráma | to a play |  |  |  |  |  |  |  |
@@ -2668,8 +2702,8 @@
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | b'fhéidir | maybe |  |  |  |  | bayjor |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | D’ol mé barraíocht | I drank too much |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did | Additional | PHRASE |  | Tá Blas ann | Blas is on  |  |  |  |  |  |  | at this minute |
-| Irish on your own | 11 | Saying what you did | Additional | PHRASE |  | bhí Blas ann inné | Blas was on yesterday |  |  |  |  | vee Blas on innyeah |  |  |
-| Irish on your own | 11 | Saying what you did | Additional | PHRASE |  | beidh Blas ann amarach | Blas will be on toorrow |  |  |  |  | bay Blas on amara |  |  |
+| Irish on your own | 11 | Saying what you did | Additional | PHRASE |  | Bhí Blas ann inné | Blas was on yesterday |  |  |  |  | vee Blas on innyeah |  |  |
+| Irish on your own | 11 | Saying what you did | Additional | PHRASE |  | Beidh Blas ann amarach | Blas will be on tomorrow |  |  |  |  | bay Blas on amara |  |  |
 
 ## Irish on your own - Taking your leave
 
@@ -2685,11 +2719,11 @@
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag imeacht. | I am going. |  |  |  | I am leaving |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul abhaile. | I am going home. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chun an bhaile. | I am going home. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chuig scannan | I am going to the film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chuig scannán | I am going to the film. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Maith go leor. | All right. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Ceart go leor. | All right. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Is mór an trua sin. | That's a pity. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Cheana féin! | Already! |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Cheana féin! | Already! |  |  |  |  | hana fin |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Níl sé ach luath. | It's only early. |  |  |  | it's not but early |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Cad chuige? | Why? |  |  |  | To what purpose? | cad teeya?? |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá brón orm ach ... | I am sorry but ... |  |  |  |  |  |  |  |
@@ -2703,15 +2737,40 @@
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Dean deifir | Hurry up |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Dean deifir. Tá muid mall | Hurry up. We're late |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé mall don dráma. | I'm late for the play. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé mall don scannan. | I'm late for the film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé mall don scannán. | I'm late for the film. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá deifir orm. | I'm in a hurry. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | WORD |  | cuairteoir | visitor |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | WORD |  | cuairteoirí | visitors |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | WORD |  | cruinniú | meeting (event) |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag súil le cuairteoirí. | I'm expecting visitors. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chuig cruinniú. | I'm going to a meeting. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | Tá mé ag dul chuig cruinniú leath i ndiaidh $HOUR_O_CLOCK. | I'm going to a meeting at half $HOUR_O_CLOCK. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig cruinniú leath i ndiaidh a haon a chlog. | I'm going to a meeting at half 1 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig cruinniú leath i ndiaidh a dó a chlog. | I'm going to a meeting at half 2 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig cruinniú leath i ndiaidh a trí a chlog. | I'm going to a meeting at half 3 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig cruinniú leath i ndiaidh a ceathair a chlog. | I'm going to a meeting at half 4 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig cruinniú leath i ndiaidh a cúig a chlog. | I'm going to a meeting at half 5 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig cruinniú leath i ndiaidh a sé a chlog. | I'm going to a meeting at half 6 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig cruinniú leath i ndiaidh a seacht a chlog. | I'm going to a meeting at half 7 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig cruinniú leath i ndiaidh a hocht a chlog. | I'm going to a meeting at half 8 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig cruinniú leath i ndiaidh a naoi a chlog. | I'm going to a meeting at half 9 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig cruinniú leath i ndiaidh a deich a chlog. | I'm going to a meeting at half 10 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig cruinniú leath i ndiaidh a haon déag a chlog. | I'm going to a meeting at half 11 o'clock. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig cruinniú leath i ndiaidh a dó dhéag a chlog. | I'm going to a meeting at half 12 o'clock. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Fan tamall beag eile! | Stay a little while longer! |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chuig ceolchoirm ag a naoi a chlog | I’m going to a concert at nine o clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | Tá mé ag dul chuig ceolchoirm ag $HOUR_O_CLOCK | I’m going to a concert at $HOUR_O_CLOCK |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig ceolchoirm ag a haon a chlog | I’m going to a concert at 1 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig ceolchoirm ag a dó a chlog | I’m going to a concert at 2 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig ceolchoirm ag a trí a chlog | I’m going to a concert at 3 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig ceolchoirm ag a ceathair a chlog | I’m going to a concert at 4 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig ceolchoirm ag a cúig a chlog | I’m going to a concert at 5 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig ceolchoirm ag a sé a chlog | I’m going to a concert at 6 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig ceolchoirm ag a seacht a chlog | I’m going to a concert at 7 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig ceolchoirm ag a hocht a chlog | I’m going to a concert at 8 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig ceolchoirm ag a naoi a chlog | I’m going to a concert at 9 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig ceolchoirm ag a deich a chlog | I’m going to a concert at 10 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig ceolchoirm ag a haon déag a chlog | I’m going to a concert at 11 o'clock |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig ceolchoirm ag a dó dhéag a chlog | I’m going to a concert at 12 o'clock |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | Fan go dtí $HOUR_O_CLOCK | Stay until $HOUR_O_CLOCK |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a haon a chlog | Stay until 1 o'clock |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Fan go dtí a dó a chlog | Stay until 2 o'clock |  |  |  |  |  |  |  |
