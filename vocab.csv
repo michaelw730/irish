@@ -1138,15 +1138,15 @@ Irish on your own	11	Saying what you did		PHRASE		Bhí mé ag bainis.	I was at a
 Irish on your own	11	Saying what you did		TEMPLATE		Bhí mé i nDoire $RECENT_PERIODS	I was in Derry $RECENT_PERIODS					vee me in nirra $RECENT_PERIODS		
 Irish on your own	11	Saying what you did		TEMPLATE		rinne $PRONOUNS	$PRONOUNS did/made					Rinn $PRONOUNS		
 Irish on your own	11	Saying what you did		TEMPLATE		rinne $PRONOUNS an dinnéar	$PRONOUNS made the dinner							
-Irish on your own	11	Saying what you did		TEMPLATE		chuala $PRONOUNS	$PRONOUNS heard					(throaty) cwilla $PRONOUNS		
+Irish on your own	11	Saying what you did		TEMPLATE		chuala $PRONOUNS	$PRONOUNS heard					cwilla $PRONOUNS		(throaty)
 Irish on your own	11	Saying what you did		TEMPLATE		Chuala $PRONOUNS ceol	$PRONOUNS heard music							
 Irish on your own	11	Saying what you did		TEMPLATE		dúirt $PRONOUNS	$PRONOUNS said					doortch $PRONOUNS		
 Irish on your own	11	Saying what you did		TEMPLATE		fuair $PRONOUNS	$PRONOUNS got					foo-er $PRONOUNS		
 Irish on your own	11	Saying what you did		TEMPLATE		d'ith $PRONOUNS	$PRONOUNS ate					dgee $PRONOUNS		
 Irish on your own	11	Saying what you did		TEMPLATE		D'ith $PRONOUNS dinnéar	$PRONOUNS ate dinner							
-Irish on your own	11	Saying what you did		TEMPLATE		chonaic $PRONOUNS	$PRONOUNS saw					(throaty) honic $PRONOUNS		
-Irish on your own	11	Saying what you did		TEMPLATE		chonaic mé Brian inné	I saw Brian today					(throaty) honic		
-Irish on your own	11	Saying what you did		TEMPLATE		chonaic mé Síle $DAYS_OF_WEEK	I saw Sheila on $DAYS_OF_WEEK					(throaty) honic		
+Irish on your own	11	Saying what you did		TEMPLATE		chonaic $PRONOUNS	$PRONOUNS saw					honic $PRONOUNS		(throaty)
+Irish on your own	11	Saying what you did		TEMPLATE		chonaic mé Brian inné	I saw Brian today					honic mé Brian in-you		(throaty)
+Irish on your own	11	Saying what you did		TEMPLATE		chonaic mé Síle $DAYS_OF_WEEK	I saw Sheila on $DAYS_OF_WEEK					honic mé Sheila $DAYS_OF_WEEK		(throaty)
 Irish on your own	11	Saying what you did		TEMPLATE		thug $PRONOUNS	$PRONOUNS gave					hug $PRONOUNS		
 Irish on your own	11	Saying what you did		TEMPLATE		chuaigh $PRONOUNS	$PRONOUNS went					who-e $PRONOUNS		
 Irish on your own	11	Saying what you did		PHRASE		Chuaigh mé ag snámh.	I went swimming.					wheh meh a sna-o		
@@ -1220,7 +1220,7 @@ Irish on your own	11	Saying what you did	Additional	PHRASE		Tá Blas ann	Blas is
 Irish on your own	11	Saying what you did	Additional	PHRASE		Bhí Blas ann inné	Blas was on yesterday					vee Blas on innyeah		
 Irish on your own	11	Saying what you did	Additional	PHRASE		Beidh Blas ann amarach	Blas will be on tomorrow					bay Blas on amara		
 Irish on your own	12	Taking your leave		PHRASE		AG FÁGÁIL COMHLUADAIR	TAKING YOUR LEAVE					Ag faygal cool-wah-der		
-Irish on your own	12	Taking your leave		PHRASE		Caithfidh mé imeacht.	I have to go.				I have to leave	Ka-heh meh imackt		
+Irish on your own	12	Taking your leave		PHRASE		Caithfidh mé imeacht.	I have to go.				I have to leave	Ka-heh meh imackt/imart		
 Irish on your own	12	Taking your leave		PHRASE		Caithfidh mé imeacht arís.	I have to go again.				I have to leave again			
 Irish on your own	12	Taking your leave		PHRASE		Caithfidh mé imeacht anois.	I have to go now.				I have to leave now			
 Irish on your own	12	Taking your leave		PHRASE		Caithfidh tú imeacht anois?	You have to go now?				I have to leave now			
@@ -1270,7 +1270,7 @@ Irish on your own	12	Taking your leave		WORD		coicís	fortnight			f		Coc-ish
 Irish on your own	12	Taking your leave		WORD		mí	month			f				
 Irish on your own	12	Taking your leave		WORD		bliain	year			f				
 Irish on your own	12	Taking your leave		WORD		an lae	the day			m				
-Irish on your own	12	Taking your leave		WORD		na seachtaine	The week			f				
+Irish on your own	12	Taking your leave		WORD		an tseachtain	The week			f				
 Irish on your own	12	Taking your leave		WORD		an choicís	The fortnight			f		An choc-ish (throaty ch)		
 Irish on your own	12	Taking your leave		WORD		an mhí 	month			f				
 Irish on your own	12	Taking your leave		WORD		an bhliain	the year			f				
@@ -1286,7 +1286,7 @@ Irish on your own	12	Taking your leave		PHRASE		Chífidh mé amárach tú.	I'll 
 Irish on your own	12	Taking your leave		PHRASE		Chífidh mé tráthnóna tú.	I'll see you this evening.							
 Irish on your own	12	Taking your leave		PHRASE		Chífidh mé ar maidin tú.	I'll see you in the morning.							
 Irish on your own	12	Taking your leave		PHRASE		Chífidh mé i gceann cúpla lá tú.	I'll see you in a few days' time.							
-Irish on your own	12	Taking your leave		PHRASE		Chífidh mé ar an tseachtain seo chugainn tú.	I'll see you next week.				I will see you on the week coming towards us			
+Irish on your own	12	Taking your leave		PHRASE		Chífidh mé ar an tseachtain seo chugainn tú.	I'll see you next week.				I will see you on this week coming towards us			
 Irish on your own	12	Taking your leave		PHRASE		Chífidh mé an mhí seo chugainn tú.	I'll see you next month.							
 Irish on your own	12	Taking your leave		PHRASE		Chífidh mé i gceann seachtaine tú.	I'll see you in a week's time.							
 Irish on your own	12	Taking your leave		PHRASE		Chífidh mé i gceann coicíse tú.	I'll see you in a fortnight's time.							

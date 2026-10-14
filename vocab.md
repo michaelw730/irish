@@ -2504,14 +2504,14 @@
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | rinne muid an dinnéar | we made the dinner |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | rinne sibh an dinnéar | you made the dinner |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | rinne siad an dinnéar | they  made the dinner |  |  |  |  |  |  |  |
-| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | chuala $PRONOUNS | $PRONOUNS heard |  |  |  |  | (throaty) cwilla $PRONOUNS |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chuala mé | I heard |  |  |  |  | (throaty) cwilla meh |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chuala tú | you heard |  |  |  |  | (throaty) cwilla too |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chuala sé | he heard |  |  |  |  | (throaty) cwilla shay |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chuala sí | she heard |  |  |  |  | (throaty) cwilla shee |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chuala muid | we heard |  |  |  |  | (throaty) cwilla mwidge |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chuala sibh | you heard |  |  |  |  | (throaty) cwilla shiv |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chuala siad | they  heard |  |  |  |  | (throaty) cwilla Shee-id |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | chuala $PRONOUNS | $PRONOUNS heard |  |  |  |  | cwilla $PRONOUNS |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chuala mé | I heard |  |  |  |  | cwilla meh |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chuala tú | you heard |  |  |  |  | cwilla too |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chuala sé | he heard |  |  |  |  | cwilla shay |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chuala sí | she heard |  |  |  |  | cwilla shee |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chuala muid | we heard |  |  |  |  | cwilla mwidge |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chuala sibh | you heard |  |  |  |  | cwilla shiv |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chuala siad | they  heard |  |  |  |  | cwilla Shee-id |  | (throaty) |
 | Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Chuala $PRONOUNS ceol | $PRONOUNS heard music |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuala mé ceol | I heard music |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuala tú ceol | you heard music |  |  |  |  |  |  |  |
@@ -2552,23 +2552,23 @@
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'ith muid dinnéar | we ate dinner |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'ith sibh dinnéar | you ate dinner |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'ith siad dinnéar | they  ate dinner |  |  |  |  |  |  |  |
-| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | chonaic $PRONOUNS | $PRONOUNS saw |  |  |  |  | (throaty) honic $PRONOUNS |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic mé | I saw |  |  |  |  | (throaty) honic meh |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic tú | you saw |  |  |  |  | (throaty) honic too |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic sé | he saw |  |  |  |  | (throaty) honic shay |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic sí | she saw |  |  |  |  | (throaty) honic shee |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic muid | we saw |  |  |  |  | (throaty) honic mwidge |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic sibh | you saw |  |  |  |  | (throaty) honic shiv |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic siad | they  saw |  |  |  |  | (throaty) honic Shee-id |  |  |
-| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | chonaic mé Brian inné | I saw Brian today |  |  |  |  | (throaty) honic |  |  |
-| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | chonaic mé Síle $DAYS_OF_WEEK | I saw Sheila on $DAYS_OF_WEEK |  |  |  |  | (throaty) honic |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic mé Síle Dé Luain | I saw Sheila on Monday |  |  |  |  | (throaty) honic |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic mé Síle Dé Máirt | I saw Sheila on Tuesday |  |  |  |  | (throaty) honic |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic mé Síle Dé Céadaoin | I saw Sheila on Wednesday |  |  |  |  | (throaty) honic |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic mé Síle Déardaoin | I saw Sheila on Thursday |  |  |  |  | (throaty) honic |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic mé Síle Dé hAoine | I saw Sheila on Friday |  |  |  |  | (throaty) honic |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic mé Síle Dé Sathairn | I saw Sheila on Saturday |  |  |  |  | (throaty) honic |  |  |
-| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic mé Síle Dé Domhnaigh | I saw Sheila on Sunday |  |  |  |  | (throaty) honic |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | chonaic $PRONOUNS | $PRONOUNS saw |  |  |  |  | honic $PRONOUNS |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic mé | I saw |  |  |  |  | honic meh |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic tú | you saw |  |  |  |  | honic too |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic sé | he saw |  |  |  |  | honic shay |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic sí | she saw |  |  |  |  | honic shee |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic muid | we saw |  |  |  |  | honic mwidge |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic sibh | you saw |  |  |  |  | honic shiv |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic siad | they  saw |  |  |  |  | honic Shee-id |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | chonaic mé Brian inné | I saw Brian today |  |  |  |  | honic mé Brian in-you |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | chonaic mé Síle $DAYS_OF_WEEK | I saw Sheila on $DAYS_OF_WEEK |  |  |  |  | honic mé Sheila $DAYS_OF_WEEK |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic mé Síle Dé Luain | I saw Sheila on Monday |  |  |  |  | honic mé Sheila je luan |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic mé Síle Dé Máirt | I saw Sheila on Tuesday |  |  |  |  | honic mé Sheila je mwarch |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic mé Síle Dé Céadaoin | I saw Sheila on Wednesday |  |  |  |  | honic mé Sheila je ceadine |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic mé Síle Déardaoin | I saw Sheila on Thursday |  |  |  |  | honic mé Sheila jeardine |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic mé Síle Dé hAoine | I saw Sheila on Friday |  |  |  |  | honic mé Sheila je heanya |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic mé Síle Dé Sathairn | I saw Sheila on Saturday |  |  |  |  | honic mé Sheila je sahern |  | (throaty) |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chonaic mé Síle Dé Domhnaigh | I saw Sheila on Sunday |  |  |  |  | honic mé Sheila je doughny |  | (throaty) |
 | Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | thug $PRONOUNS | $PRONOUNS gave |  |  |  |  | hug $PRONOUNS |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | thug mé | I gave |  |  |  |  | hug meh |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | thug tú | you gave |  |  |  |  | hug too |  |  |
@@ -2710,7 +2710,7 @@
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | AG FÁGÁIL COMHLUADAIR | TAKING YOUR LEAVE |  |  |  |  | Ag faygal cool-wah-der |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh mé imeacht. | I have to go. |  |  |  | I have to leave | Ka-heh meh imackt |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh mé imeacht. | I have to go. |  |  |  | I have to leave | Ka-heh meh imackt/imart |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh mé imeacht arís. | I have to go again. |  |  |  | I have to leave again |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh mé imeacht anois. | I have to go now. |  |  |  | I have to leave now |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh tú imeacht anois? | You have to go now? |  |  |  | I have to leave now |  |  |  |
@@ -2796,7 +2796,7 @@
 | Irish on your own | 12 | Taking your leave |  | WORD |  | mí | month |  |  | f |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | WORD |  | bliain | year |  |  | f |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | WORD |  | an lae | the day |  |  | m |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | WORD |  | na seachtaine | The week |  |  | f |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | an tseachtain | The week |  |  | f |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | WORD |  | an choicís | The fortnight |  |  | f |  | An choc-ish (throaty ch) |  |  |
 | Irish on your own | 12 | Taking your leave |  | WORD |  | an mhí  | month |  |  | f |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | WORD |  | an bhliain | the year |  |  | f |  |  |  |  |
@@ -2812,7 +2812,7 @@
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé tráthnóna tú. | I'll see you this evening. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé ar maidin tú. | I'll see you in the morning. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann cúpla lá tú. | I'll see you in a few days' time. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé ar an tseachtain seo chugainn tú. | I'll see you next week. |  |  |  | I will see you on the week coming towards us |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé ar an tseachtain seo chugainn tú. | I'll see you next week. |  |  |  | I will see you on this week coming towards us |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé an mhí seo chugainn tú. | I'll see you next month. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann seachtaine tú. | I'll see you in a week's time. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann coicíse tú. | I'll see you in a fortnight's time. |  |  |  |  |  |  |  |
