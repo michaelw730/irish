@@ -2596,6 +2596,7 @@
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh mé chuig cluiche peile | I went to a football match |  |  |  |  | ...clooha pella?? |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh mé chuig an dochtúir. | I went to the doctor. |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh mé chuig dráma. | I went to a play. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh sí chuig scannán. | She went to a film. |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh mé go dtí an leabharlann. | I went to the library |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | chuaigh mé go dtí an t-aerfort | i went to the airport |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | rug $PRONOUNS ar | $PRONOUNS caught |  |  |  |  | rug $PRONOUNS ar |  |  |
@@ -2673,6 +2674,7 @@
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | oíche Dhomhnaigh | Sunday night |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cá huair? | When? |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cá huair a chuaigh tú go Leitir Ceanainn? | When did you go to Letterkenny? |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cá huair a chuaigh tú chuig an dráma? | When did you go to the play? |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cén lá a chuaigh tú go Leitir Ceanainn? | What/which day did you go to Letterkenny? |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cén lá a chuaigh tú go dtí an otharlann? | What/which day did you go to the hospital? |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Cé a bhí leat? | Who was with you? |  |  |  |  | kay vee lat? |  |  |
@@ -2720,8 +2722,9 @@
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul abhaile. | I am going home. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chun an bhaile. | I am going home. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chuig scannán | I am going to the film. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Maith go leor. | All right. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Ceart go leor. | All right. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | go leor | enough |  |  |  | enough |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Maith go leor. | All right. |  |  |  | good enough |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Ceart go leor. | All right. |  |  |  | right enough |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Is mór an trua sin. | That's a pity. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Cheana féin! | Already! |  |  |  |  | hana fin |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Níl sé ach luath. | It's only early. |  |  |  | it's not but early |  |  |  |
@@ -2846,6 +2849,7 @@
 | Irish on your own | 12 | Taking your leave |  | WORD |  | árasán | flat |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | WORD |  | ag m'árasán | at my flat |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | cé hí an bhean seo mar sin? | Who is this woman then? |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Is maith léi a bheith ag obair leis | she likes working with him |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave | Additional | PHRASE |  | beidh ceilí ann | there will be a ceili |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave | Additional | PHRASE |  | beidh diosco ann Dé Máirt | there will be a disco on Tuesday |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave | Additional | PHRASE |  | beidh Blas ann | Blas will be on |  |  |  |  |  |  |  |
