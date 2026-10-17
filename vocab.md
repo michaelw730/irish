@@ -9,8 +9,8 @@
 | Irish on your own | 1 | Meeting People |  | PHRASE |  | Fáilte romhat go Aonad 1 | Welcome to unit 1 |  |  |  | There is a welcome for / before you |  |  |  |
 | Irish on your own | 1 | Meeting People |  | WORD |  | duine | person |  |  |  |  | dinye |  |  |
 | Irish on your own | 1 | Meeting People |  | WORD |  | daoine | people |  |  |  |  | deeny |  |  |
-| Irish on your own | 1 | Meeting People |  | PHRASE |  | Ag bualadh le daoine | Meeting people |  |  |  | meeting with people?? | Ag Bwayla le deeny |  |  |
-| Irish on your own | 1 | Meeting People |  | PHRASE |  | Dia duit! | Hello! (God to you) |  | s |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Ag bualadh le daoine | Meeting people |  |  |  | meeting with people?? | Ag Bwayl-oh le deeny |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Dia duit! | Hello! (God to you) |  | s |  |  | s |  |  |
 | Irish on your own | 1 | Meeting People |  | PHRASE |  | Dia is Muire duit. | Hello. (in response) |  | s |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | PHRASE |  | Dia daoibh! | Hello! (God to you) |  | p |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | WORD |  | Dia is Muire daoibh | Hello. (in response) |  | p |  |  |  |  |  |
@@ -26,6 +26,7 @@
 | Irish on your own | 1 | Meeting People |  | QUESTION |  | Cad é mar atá tú inniu? | How are you today? |  | s |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | PHRASE |  | Á, go maith | Ah, well |  |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | go maith | well |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | go maith, go raibh maith agat | well, thank you |  |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | go breá | fine |  |  |  |  | go brea |  |  |
 | Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | maith go leor | very good |  |  |  |  | my go lyor |  |  |
 | Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | ceart go leor | alright |  |  |  |  |  |  |  |
@@ -49,6 +50,7 @@
 | Irish on your own | 1 | Meeting People |  | PHRASE |  | Tá siad | They are |  |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | TEMPLATE |  | Tá mé $HOW_I_AM. | I am $HOW_I_AM | Repeat for other pronouns/person's name |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | DYNAMIC |  | Tá mé go maith. | I am well | Repeat for other pronouns/person's name |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | DYNAMIC |  | Tá mé go maith, go raibh maith agat. | I am well, thank you | Repeat for other pronouns/person's name |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | DYNAMIC |  | Tá mé go breá. | I am fine | Repeat for other pronouns/person's name |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | DYNAMIC |  | Tá mé maith go leor. | I am very good | Repeat for other pronouns/person's name |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | DYNAMIC |  | Tá mé ceart go leor. | I am alright | Repeat for other pronouns/person's name |  |  |  |  |  |  |
