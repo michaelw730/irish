@@ -28,8 +28,8 @@
 | Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | go maith | well |  |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | go maith, go raibh maith agat | well, thank you |  |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | go breá | fine |  |  |  |  | go brea |  |  |
-| Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | maith go leor | very good |  |  |  |  | my go lyor |  |  |
-| Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | ceart go leor | alright |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | maith go leor | very good |  |  |  | good enough | my go lyor |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | ceart go leor | alright |  |  |  | right enough |  |  |  |
 | Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | go holc | awful |  |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | go measaratha | reasonable/middling |  |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | PHRASE | HOW_I_AM | go measaratha maith | reasonable/middling good |  |  |  |  |  |  |  |
@@ -229,6 +229,8 @@
 | Irish on your own | 1 | Meeting People | Additional | PHRASE |  | póg mo thóin | kiss my ass |  |  |  |  | powg moh hoe-n |  |  |
 | Irish on your own | 1 | Meeting People | Additional | PHRASE |  | Comhghairdeas | Congratulations |  |  |  |  | co-hard-yes |  | Not Ulster dialect?? |
 | Irish on your own | 1 | Meeting People | Additional | PHRASE |  | Comhghairdeachas | Congratulations |  |  |  |  | co-hard-ye-has |  | Ulster dialect?? |
+| Irish on your own | 1 | Meeting People | Additional | WORD |  | fios | knowledge |  |  |  |  | fiss?? |  | knowledge like a fact/news |
+| Irish on your own | 1 | Meeting People | Additional | PHRASE |  | An bhfuil a fhios agat? | Do you know? |  |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People | Additional | PHRASE |  | Níl a fhios agam | I don't know |  |  |  |  | neil us agam |  |  |
 | Irish on your own | 1 | Meeting People | Additional | PHRASE |  | Tá a fhios agam | I know |  |  |  |  | Ta us agam |  |  |
 | Irish on your own | 1 | Meeting People | Additional | PHRASE |  | cur Gaeilge air? | What's Irish for? |  |  |  |  | Son-eh |  |  |
@@ -237,6 +239,8 @@
 | Irish on your own | 1 | Meeting People | Additional | PHRASE |  | lá breithe shona | happy birthday |  |  |  |  | laa brayha |  |  |
 | Irish on your own | 1 | Meeting People | Additional | PHRASE |  | lá breithe shona duit | happy birthday to you |  |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People | Additional | PHRASE |  | Éist! | Listen! |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Meeting People | Additional | WORD |  | giota | bit |  |  |  |  | gitta |  |  |
+| Irish on your own | 2 | Meeting People | Additional | WORD |  | beag | little |  |  |  |  | big |  |  |
 | Irish on your own | 2 | Meeting People | Additional | PHRASE |  | giota beag | a little bit |  |  |  |  | gitta big |  |  |
 | Irish on your own | 3 | Meeting People | Additional | PHRASE |  | Fáilte go Giota Beag | Welcome to Giota Beag |  |  |  |  |  |  |  |
 
