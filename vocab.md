@@ -5,8 +5,8 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Irish on your own | 1 | Meeting People |  | WORD |  | Fáilte | Welcome |  |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | PHRASE |  | Tá fáilte romhat | You're welcome |  |  |  | There is a welcome for / before you |  |  |  |
-| Irish on your own | 1 | Meeting People |  | WORD |  | Aonad 1 | Unit 1 |  |  |  |  | Ay-nid a hein |  |  |
-| Irish on your own | 1 | Meeting People |  | PHRASE |  | Fáilte romhat go Aonad 1 | Welcome to unit 1 |  |  |  | There is a welcome for / before you |  |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | Aonad a haon | Unit one |  |  |  |  | Ay-nid a hein |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE |  | Fáilte romhat go Aonad a haon | Welcome to unit one |  |  |  | There is a welcome for / before you |  |  |  |
 | Irish on your own | 1 | Meeting People |  | WORD |  | duine | person |  |  |  |  | dinye |  |  |
 | Irish on your own | 1 | Meeting People |  | WORD |  | daoine | people |  |  |  |  | deeny |  |  |
 | Irish on your own | 1 | Meeting People |  | PHRASE |  | Ag bualadh le daoine | Meeting people |  |  |  | meeting with people?? | Ag Bwayl-oh le deeny |  |  |
@@ -16,7 +16,7 @@
 | Irish on your own | 1 | Meeting People |  | WORD |  | Dia is Muire daoibh | Hello. (in response) |  | p |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | WORD |  | beannachtaí | Greetings |  |  |  |  | baan-ak-tee |  |  |
 | Irish on your own | 1 | Meeting People |  | WORD |  | Haló | Hello (less formal) |  |  |  |  |  |  |  |
-| Irish on your own | 1 | Meeting People |  | WORD |  | Maidin mhaith. | Good morning. |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | WORD |  | Maidin maith. | Good morning. |  |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | WORD |  | Tráthnóna maith. | Good afternoon. |  |  |  |  | tranoana my |  |  |
 | Irish on your own | 1 | Meeting People |  | WORD |  | Oíche mhaith. | Good evening/night. |  |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | PHRASE |  | gabh mo leithscéal | Excuse me |  |  |  |  |  |  |  |
@@ -233,7 +233,7 @@
 | Irish on your own | 1 | Meeting People | Additional | PHRASE |  | Tá a fhios agam | I know |  |  |  |  | Ta us agam |  |  |
 | Irish on your own | 1 | Meeting People | Additional | PHRASE |  | cur Gaeilge air? | What's Irish for? |  |  |  |  | Son-eh |  |  |
 | Irish on your own | 1 | Meeting People | Additional | WORD |  | sona | happy  |  |  |  |  |  |  |  |
-| Irish on your own | 1 | Meeting People | Additional | WORD |  | breithe | birth |  |  |  |  | Eh-tch |  |  |
+| Irish on your own | 1 | Meeting People | Additional | WORD |  | breithe | birth |  |  |  |  | brayha |  |  |
 | Irish on your own | 1 | Meeting People | Additional | PHRASE |  | lá breithe shona | happy birthday |  |  |  |  | laa brayha |  |  |
 | Irish on your own | 1 | Meeting People | Additional | PHRASE |  | lá breithe shona duit | happy birthday to you |  |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People | Additional | PHRASE |  | Éist! | Listen! |  |  |  |  |  |  |  |
