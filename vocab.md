@@ -312,6 +312,7 @@
 | Irish on your own | 2 | Introductions |  | WORD | ANIMALS | torc | boar |  |  |  |  |  |  |  |
 | Irish on your own | 2 | Introductions |  | WORD | ANIMALS | gabhar | goat |  |  |  |  |  |  |  |
 | Irish on your own | 2 | Introductions |  | SENTENCE |  | go dtí sin | until then |  |  |  |  |  |  |  |
+| Irish on your own | 2 | Introductions |  | SENTENCE |  | Sin an méid do Aonad 2. | That's all for Unit 2. |  |  |  |  | Shin a mage a aon-id a daw |  |  |
 
 ## Irish on your own - Speaking about your background
 
