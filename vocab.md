@@ -2034,8 +2034,11 @@
 
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | AG TABHAIRT ORDUITHE AGUS TREORACHA | GIVING ORDERS AND INSTRUCTIONS |  |  |  |  | ag torch ord-iha agus troar-aha |  |  |
-| Irish on your own | 9 | Giving orders and instructions | Additional |  |  | fuinneog | window |  |  |  |  | fuinyug?? |  |  |
+| Irish on your own | 9 | Giving orders and instructions |  | WORD |  | Ag Tabhairt | Giving |  |  |  |  |  |  |  |
+| Irish on your own | 9 | Giving orders and instructions |  | WORD |  | Orduithe | orders |  |  |  |  |  |  |  |
+| Irish on your own | 9 | Giving orders and instructions |  | WORD |  | Treoracha | instructions |  |  |  |  |  |  |  |
+| Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Ag Tabhairt Orduithe agus Treoracha | Giving Orders and Instructions |  |  |  |  | ag torch ord-iha agus troar-aha |  |  |
+| Irish on your own | 9 | Giving orders and instructions | Additional | WORD |  | fuinneog | window |  |  |  |  | fuinyug?? |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Tar isteach. | Come in |  | s |  |  |  |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Tagaigí isteach. | Come in |  | p |  |  |  |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Taraigí isteach. | Come in |  | p |  |  |  |  |  |
@@ -2044,6 +2047,7 @@
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Suígí síos. | sit down |  | p |  |  | see-gee shees |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Coimhéad! | Look out! or Be careful! |  | s |  |  | cuv-ahd |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Coimhéadaigí! | Look out! or Be careful! |  | p |  |  | cuv-ahd-igi |  |  |
+| Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Coimhéad an carr | mind the car |  |  |  |  |  |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Coimhéad an leoraí | mind the lorry |  |  |  |  |  |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Coimhéad an phéint! | Mind the paint! |  |  |  |  | cuv-ahd an faint |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Fan bomaite. | Wait a minute. |  | s |  |  |  |  |  |
@@ -2065,8 +2069,8 @@
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Fanaigí socair! | Stay quiet! |  | p |  |  |  |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Gabh amach! | Get out! |  | s |  |  | go amak (throaty k) |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Gabhaigí amach! | Get out! |  | p |  |  | gogi amak (throaty k) |  |  |
-| Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Imigh leat! | Away you go |  | s |  |  | immee lat |  |  (in nice way).  Go away! (in strong voice) |
-| Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Imigí libh! | Away you go |  | p |  |  |  |  |  (in nice way).  Go away! (in strong voice) |
+| Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Imigh leat! | Away you go |  | s |  | Go with you | immee lat |  |  (in nice way).  Go away! (in strong voice) |
+| Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Imigí libh! | Away you go |  | p |  | Go with you |  |  |  (in nice way).  Go away! (in strong voice) |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Lean ort. | Carry on. |  | s |  |  | lan ort |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Leanaigí oraibh. | Carry on. |  | p |  |  | lanigi oriv |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Tar anseo. | Come here. |  | s |  |  |  |  |  |
@@ -2084,8 +2088,9 @@
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Gabh a chodladh. | Go to sleep. |  | s |  |  | go a haw-loo??? |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Éirigh! | Get up! |  | s |  |  | ear-ee |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Éirígí! | Get up! |  | p |  |  | ear-igi |  |  |
-| Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Déan deifir! | Hurry up! |  | s |  |  | Jen jeffer or Jen jeffra |  |  |
-| Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Déanaigí deifir! | Hurry up! |  | p |  |  | Jenigy jeffer or Jenigy jeffra |  |  |
+| Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Éirígí, a pháistí | Get up, children! |  |  |  |  |  |  |  |
+| Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Déan deifir! | Hurry up! |  | s |  | Do/make hurry, make haste | Jen jeffer or Jen jeffra |  |  |
+| Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Déanaigí deifir! | Hurry up! |  | p |  | Do/make hurry, make haste | Jenigy jeffer or Jenigy jeffra |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | ní thig liom | i can't |  |  |  |  | nee hig liom |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Tá deifir orm | I am in a hurry |  |  |  |  |  |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | tá sibh mall | you're late |  | p |  |  |  |  |  |
