@@ -2140,7 +2140,7 @@
 | Irish on your own | 10 | Family1 |  | WORD |  | páistí | children |  |  |  |  | peh-stee |  |  |
 | Irish on your own | 10 | Family1 |  | QUESTION |  | An bhfuil clann agat? | Have you children? |  | s |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | QUESTION |  | An bhfuil clann agaibh? | Have you children? |  | p |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | QUESTION |  | An bhfuil clann agat féin? | Have you children yourself? |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | An bhfuil clann agat féin? | Have you children yourself? |  | s |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | QUESTION |  | An bhfuil páistí agat? | Have you children? |  | s |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | QUESTION |  | An bhfuil páistí agaibh? | Have you children? |  | p |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá. | Yes. |  |  |  |  |  |  |  |
@@ -2202,6 +2202,7 @@
 | Irish on your own | 10 | Family1 |  | WORD |  | d'iníonsa | *your* daughter |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | QUESTION |  | Cá mhéad páiste atá agat? | How many children have you? |  |  |  |  | Ca vhead pawstee ataa agat? |  | Note that the singular form of the noun is used after Cá mhéad? |
 | Irish on your own | 10 | Family1 |  | QUESTION |  | Cá mhéad cáilín atá agat? | How many girls have you? |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | QUESTION |  | Cá mhéad buachaill atá agat? | How many boys have you? |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | QUESTION |  | Cá mhéad duine? | How many people? |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | lón inniu | lunch today |  |  |  |  | loan in-nu |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | meánlae | midday |  |  |  |  |  |  |  |
