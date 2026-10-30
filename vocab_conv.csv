@@ -1150,6 +1150,7 @@ Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	fíon súilíneach	spark
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	fíon géal	bright (white) wine							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	fíon bandearg	pink (rosé) wine							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	uisce beatha	whiskey					ishka beh-ha		
+Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	burger	borger					burger (same as English)		
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	sceallógaí	chips							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	briosca	a biscuit					briska		
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	bágún	bacon					baa-gun		
@@ -1158,6 +1159,7 @@ Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	gloine uisce	a glass of 
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	gloine fíona	a glass of wine							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	gloine gin	a glass of gin							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	pionta beorach	a pint of beer							
+Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	gloine beorach	a glass of beer							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	cupa tae	cup of tea							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	bainne	milk							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	tae le bainne	tea with milk							
@@ -1171,6 +1173,8 @@ Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	siúcra	sugar
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	Builín	a loaf					boolyeen		
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	Builín arán	a loaf of bread					boolyeen aran		
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	Stampa	a stamp							
+Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	carr úr	a new car				new/novel/recent			
+Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	carr nua	a new car				fresh/newly made			
 Irish on your own	6	Ordering Drinks		WORD		Punt	a pound							
 Irish on your own	6	Ordering Drinks		WORD		pingin	pence							
 Irish on your own	6	Ordering Drinks		WORD		Fiche pingin	twenty pence					feeha ping		
@@ -1199,6 +1203,7 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom fíon súilíneach	
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom fíon géal	I'd like bright (white) wine							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom fíon bandearg	I'd like pink (rosé) wine							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom uisce beatha	I'd like whiskey							
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom burger	I'd like borger							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom sceallógaí	I'd like chips							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom briosca	I'd like a biscuit							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom bágún	I'd like bacon							
@@ -1207,6 +1212,7 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom gloine uisce	I'd li
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom gloine fíona	I'd like a glass of wine							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom gloine gin	I'd like a glass of gin							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom pionta beorach	I'd like a pint of beer							
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom gloine beorach	I'd like a glass of beer							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom cupa tae	I'd like cup of tea							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom bainne	I'd like milk							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom tae le bainne	I'd like tea with milk							
@@ -1220,6 +1226,8 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom siúcra	I'd like su
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom Builín	I'd like a loaf							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom Builín arán	I'd like a loaf of bread							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom Stampa	I'd like a stamp							
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom carr úr	I'd like a new car							
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liom carr nua	I'd like a new car							
 Irish on your own	6	Ordering Drinks		SENTENCE		Ba mhaith liom ag dul amach	I'd like to go out							
 Irish on your own	6	Ordering Drinks		TEMPLATE		$WHAT_YOU_WANT domhsa.	$WHAT_YOU_WANT for me.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		deoch domhsa.	drink for me.							
@@ -1238,6 +1246,7 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		fíon súilíneach domhsa.	sparkli
 Irish on your own	6	Ordering Drinks		DYNAMIC		fíon géal domhsa.	bright (white) wine for me.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		fíon bandearg domhsa.	pink (rosé) wine for me.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		uisce beatha domhsa.	whiskey for me.							
+Irish on your own	6	Ordering Drinks		DYNAMIC		burger domhsa.	borger for me.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		sceallógaí domhsa.	chips for me.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		briosca domhsa.	a biscuit for me.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		bágún domhsa.	bacon for me.							
@@ -1246,6 +1255,7 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		gloine uisce domhsa.	a glass of wa
 Irish on your own	6	Ordering Drinks		DYNAMIC		gloine fíona domhsa.	a glass of wine for me.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		gloine gin domhsa.	a glass of gin for me.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		pionta beorach domhsa.	a pint of beer for me.							
+Irish on your own	6	Ordering Drinks		DYNAMIC		gloine beorach domhsa.	a glass of beer for me.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		cupa tae domhsa.	cup of tea for me.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		bainne domhsa.	milk for me.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		tae le bainne domhsa.	tea with milk for me.							
@@ -1259,6 +1269,8 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		siúcra domhsa.	sugar for me.
 Irish on your own	6	Ordering Drinks		DYNAMIC		Builín domhsa.	a loaf for me.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Builín arán domhsa.	a loaf of bread for me.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Stampa domhsa.	a stamp for me.							
+Irish on your own	6	Ordering Drinks		DYNAMIC		carr úr domhsa.	a new car for me.							
+Irish on your own	6	Ordering Drinks		DYNAMIC		carr nua domhsa.	a new car for me.							
 Irish on your own	6	Ordering Drinks		TEMPLATE		Ba mhaith liomsa $WHAT_YOU_WANT	*I'd* like $WHAT_YOU_WANT							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa deoch	*I'd* like drink							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa caife	*I'd* like coffee							
@@ -1276,6 +1288,7 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa fíon súilíneac
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa fíon géal	*I'd* like bright (white) wine							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa fíon bandearg	*I'd* like pink (rosé) wine							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa uisce beatha	*I'd* like whiskey							
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa burger	*I'd* like borger							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa sceallógaí	*I'd* like chips							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa briosca	*I'd* like a biscuit							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa bágún	*I'd* like bacon							
@@ -1284,6 +1297,7 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa gloine uisce	*I'd
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa gloine fíona	*I'd* like a glass of wine							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa gloine gin	*I'd* like a glass of gin							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa pionta beorach	*I'd* like a pint of beer							
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa gloine beorach	*I'd* like a glass of beer							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa cupa tae	*I'd* like cup of tea							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa bainne	*I'd* like milk							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa tae le bainne	*I'd* like tea with milk							
@@ -1297,7 +1311,11 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa siúcra	*I'd* lik
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa Builín	*I'd* like a loaf							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa Builín arán	*I'd* like a loaf of bread							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa Stampa	*I'd* like a stamp							
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa carr úr	*I'd* like a new car							
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ba mhaith liomsa carr nua	*I'd* like a new car							
 Irish on your own	6	Ordering Drinks		QUESTION		Rud ar bith eile?	Anything else?					Rud ar bee ella?		
+Irish on your own	6	Ordering Drinks		QUESTION		Aon rud eile?	Anything else?					Rud ar bee ella?		
+Irish on your own	6	Ordering Drinks		PHRASE		níl rud ar bith ann	There is nothing there							
 Irish on your own	6	Ordering Drinks		PHRASE		... le do thoil.	... please.							
 Irish on your own	6	Ordering Drinks		SENTENCE		Go raibh maith agat.	Thank you.							
 Irish on your own	6	Ordering Drinks		SENTENCE		Maith thú.	good on you/well done							
@@ -1324,6 +1342,7 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat fíon súilíneach?
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat fíon géal?	Would you like bright (white) wine?		s					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat fíon bandearg?	Would you like pink (rosé) wine?		s					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat uisce beatha?	Would you like whiskey?		s					
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat burger?	Would you like borger?		s					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat sceallógaí?	Would you like chips?		s					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat briosca?	Would you like a biscuit?		s					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat bágún?	Would you like bacon?		s					
@@ -1332,6 +1351,7 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat gloine uisce?	Would
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat gloine fíona?	Would you like a glass of wine?		s					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat gloine gin?	Would you like a glass of gin?		s					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat pionta beorach?	Would you like a pint of beer?		s					
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat gloine beorach?	Would you like a glass of beer?		s					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat cupa tae?	Would you like cup of tea?		s					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat bainne?	Would you like milk?		s					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat tae le bainne?	Would you like tea with milk?		s					
@@ -1345,6 +1365,8 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat siúcra?	Would you 
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat Builín?	Would you like a loaf?		s					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat Builín arán?	Would you like a loaf of bread?		s					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat Stampa?	Would you like a stamp?		s					
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat carr úr?	Would you like a new car?		s					
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith leat carr nua?	Would you like a new car?		s					
 Irish on your own	6	Ordering Drinks		TEMPLATE		Ar mhaith libh $WHAT_YOU_WANT?	Would you like $WHAT_YOU_WANT?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh deoch?	Would you like drink?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh caife?	Would you like coffee?		p					
@@ -1362,6 +1384,7 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh fíon súilíneach?
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh fíon géal?	Would you like bright (white) wine?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh fíon bandearg?	Would you like pink (rosé) wine?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh uisce beatha?	Would you like whiskey?		p					
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh burger?	Would you like borger?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh sceallógaí?	Would you like chips?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh briosca?	Would you like a biscuit?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh bágún?	Would you like bacon?		p					
@@ -1370,6 +1393,7 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh gloine uisce?	Would
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh gloine fíona?	Would you like a glass of wine?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh gloine gin?	Would you like a glass of gin?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh pionta beorach?	Would you like a pint of beer?		p					
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh gloine beorach?	Would you like a glass of beer?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh cupa tae?	Would you like cup of tea?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh bainne?	Would you like milk?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh tae le bainne?	Would you like tea with milk?		p					
@@ -1383,6 +1407,8 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh siúcra?	Would you 
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh Builín?	Would you like a loaf?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh Builín arán?	Would you like a loaf of bread?		p					
 Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh Stampa?	Would you like a stamp?		p					
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh carr úr?	Would you like a new car?		p					
+Irish on your own	6	Ordering Drinks		DYNAMIC		Ar mhaith libh carr nua?	Would you like a new car?		p					
 Irish on your own	6	Ordering Drinks	Additional	TEMPLATE		Ar mhaith leat $WHAT_YOU_WANT eile?	Would you like another $WHAT_YOU_WANT?		s					
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat deoch eile?	Would you like another drink?		s					
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat caife eile?	Would you like another coffee?		s					
@@ -1400,6 +1426,7 @@ Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat fíon sú
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat fíon géal eile?	Would you like another bright (white) wine?		s					
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat fíon bandearg eile?	Would you like another pink (rosé) wine?		s					
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat uisce beatha eile?	Would you like another whiskey?		s					
+Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat burger eile?	Would you like another borger?		s					
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat sceallógaí eile?	Would you like another chips?		s					
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat briosca eile?	Would you like another a biscuit?		s					
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat bágún eile?	Would you like another bacon?		s					
@@ -1408,6 +1435,7 @@ Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat gloine ui
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat gloine fíona eile?	Would you like another a glass of wine?		s					
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat gloine gin eile?	Would you like another a glass of gin?		s					
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat pionta beorach eile?	Would you like another a pint of beer?		s					
+Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat gloine beorach eile?	Would you like another a glass of beer?		s					
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat cupa tae eile?	Would you like another cup of tea?		s					
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat bainne eile?	Would you like another milk?		s					
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat tae le bainne eile?	Would you like another tea with milk?		s					
@@ -1421,6 +1449,10 @@ Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat siúcra e
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat Builín eile?	Would you like another a loaf?		s					
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat Builín arán eile?	Would you like another a loaf of bread?		s					
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat Stampa eile?	Would you like another a stamp?		s					
+Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat carr úr eile?	Would you like another a new car?		s					
+Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Ar mhaith leat carr nua eile?	Would you like another a new car?		s					
+Irish on your own	6	Ordering Drinks	Additional	TEMPLATE		Ar mhaith leat aon rud eile?	Would you like anything else?		s					
+Irish on your own	6	Ordering Drinks	Additional	TEMPLATE		Ar mhaith libh aon rud eile?	Would you like anything else?		p					
 Irish on your own	6	Ordering Drinks		SENTENCE		Ba mhaith.	Yes (I would).							
 Irish on your own	6	Ordering Drinks		SENTENCE		Níor mhaith.	No (I wouldn't).							
 Irish on your own	6	Ordering Drinks		SENTENCE		B'fhearr ...	I'd prefer ...					bear...		
@@ -1441,6 +1473,7 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom fíon súilíneach	I
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom fíon géal	I'd prefer bright (white) wine					Bear liom glinye ish-ke		
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom fíon bandearg	I'd prefer pink (rosé) wine					Bear liom glinye ish-ke		
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom uisce beatha	I'd prefer whiskey					Bear liom glinye ish-ke		
+Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom burger	I'd prefer borger					Bear liom glinye ish-ke		
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom sceallógaí	I'd prefer chips					Bear liom glinye ish-ke		
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom briosca	I'd prefer a biscuit					Bear liom glinye ish-ke		
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom bágún	I'd prefer bacon					Bear liom glinye ish-ke		
@@ -1449,6 +1482,7 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom gloine uisce	I'd pre
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom gloine fíona	I'd prefer a glass of wine					Bear liom glinye ish-ke		
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom gloine gin	I'd prefer a glass of gin					Bear liom glinye ish-ke		
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom pionta beorach	I'd prefer a pint of beer					Bear liom glinye ish-ke		
+Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom gloine beorach	I'd prefer a glass of beer					Bear liom glinye ish-ke		
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom cupa tae	I'd prefer cup of tea					Bear liom glinye ish-ke		
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom bainne	I'd prefer milk					Bear liom glinye ish-ke		
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom tae le bainne	I'd prefer tea with milk					Bear liom glinye ish-ke		
@@ -1462,6 +1496,8 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom siúcra	I'd prefer s
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom Builín	I'd prefer a loaf					Bear liom glinye ish-ke		
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom Builín arán	I'd prefer a loaf of bread					Bear liom glinye ish-ke		
 Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom Stampa	I'd prefer a stamp					Bear liom glinye ish-ke		
+Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom carr úr	I'd prefer a new car					Bear liom glinye ish-ke		
+Irish on your own	6	Ordering Drinks		DYNAMIC		B'fhearr liom carr nua	I'd prefer a new car					Bear liom glinye ish-ke		
 Irish on your own	6	Ordering Drinks		SENTENCE		Sláinte!	Cheers!				Health!			
 Irish on your own	6	Ordering Drinks		SENTENCE		Sláinte mhór	Cheers (response??)							
 Irish on your own	6	Ordering Drinks		TEMPLATE		$WHAT_YOU_WANT duitse.	$WHAT_YOU_WANT for you.							
@@ -1481,6 +1517,7 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		fíon súilíneach duitse.	sparkli
 Irish on your own	6	Ordering Drinks		DYNAMIC		fíon géal duitse.	bright (white) wine for you.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		fíon bandearg duitse.	pink (rosé) wine for you.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		uisce beatha duitse.	whiskey for you.							
+Irish on your own	6	Ordering Drinks		DYNAMIC		burger duitse.	borger for you.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		sceallógaí duitse.	chips for you.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		briosca duitse.	a biscuit for you.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		bágún duitse.	bacon for you.							
@@ -1489,6 +1526,7 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		gloine uisce duitse.	a glass of wa
 Irish on your own	6	Ordering Drinks		DYNAMIC		gloine fíona duitse.	a glass of wine for you.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		gloine gin duitse.	a glass of gin for you.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		pionta beorach duitse.	a pint of beer for you.							
+Irish on your own	6	Ordering Drinks		DYNAMIC		gloine beorach duitse.	a glass of beer for you.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		cupa tae duitse.	cup of tea for you.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		bainne duitse.	milk for you.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		tae le bainne duitse.	tea with milk for you.							
@@ -1502,6 +1540,8 @@ Irish on your own	6	Ordering Drinks		DYNAMIC		siúcra duitse.	sugar for you.
 Irish on your own	6	Ordering Drinks		DYNAMIC		Builín duitse.	a loaf for you.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Builín arán duitse.	a loaf of bread for you.							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Stampa duitse.	a stamp for you.							
+Irish on your own	6	Ordering Drinks		DYNAMIC		carr úr duitse.	a new car for you.							
+Irish on your own	6	Ordering Drinks		DYNAMIC		carr nua duitse.	a new car for you.							
 Irish on your own	6	Ordering Drinks		TEMPLATE		Seo do $WHAT_YOU_WANT2	Here's your $WHAT_YOU_WANT2							
 Irish on your own	6	Ordering Drinks		DYNAMIC		Seo do phionta	Here's your pint							
 Irish on your own	6	Ordering Drinks		SENTENCE		Sláinte mhaith agat i bhfad ó bhrón.	Good health, free from sorrow.							
@@ -1543,6 +1583,7 @@ Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		fíon súilíneach eile	
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		fíon géal eile	Another bright (white) wine							
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		fíon bandearg eile	Another pink (rosé) wine							
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		uisce beatha eile	Another whiskey							
+Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		burger eile	Another borger							
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		sceallógaí eile	Another chips							
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		briosca eile	Another a biscuit							
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		bágún eile	Another bacon							
@@ -1551,6 +1592,7 @@ Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		gloine uisce eile	Anothe
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		gloine fíona eile	Another a glass of wine							
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		gloine gin eile	Another a glass of gin							
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		pionta beorach eile	Another a pint of beer							
+Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		gloine beorach eile	Another a glass of beer							
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		cupa tae eile	Another cup of tea							
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		bainne eile	Another milk							
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		tae le bainne eile	Another tea with milk							
@@ -1564,6 +1606,8 @@ Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		siúcra eile	Another sug
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Builín eile	Another a loaf							
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Builín arán eile	Another a loaf of bread							
 Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		Stampa eile	Another a stamp							
+Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		carr úr eile	Another a new car							
+Irish on your own	6	Ordering Drinks	Additional	DYNAMIC		carr nua eile	Another a new car							
 Irish on your own	6	Ordering Drinks	Additional	SENTENCE		Ar mhaith leat rud ar bith eile?	Would you like anything else?							
 Irish on your own	7	Saying where you are going		SENTENCE		AG RÁ CÁ BHFUIL TÚ AG DUL	SAYING WHERE YOU'RE GOING							
 Irish on your own	7	Saying where you are going		WORD	PLACES	banc	bank							

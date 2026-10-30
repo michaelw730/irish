@@ -623,6 +623,7 @@ Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	fíon súilíneach	spark
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	fíon géal	bright (white) wine							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	fíon bandearg	pink (rosé) wine							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	uisce beatha	whiskey					ishka beh-ha		
+Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	burger	borger					burger (same as English)		
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	sceallógaí	chips							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	briosca	a biscuit					briska		
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	bágún	bacon					baa-gun		
@@ -631,6 +632,7 @@ Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	gloine uisce	a glass of 
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	gloine fíona	a glass of wine							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	gloine gin	a glass of gin							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	pionta beorach	a pint of beer							
+Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	gloine beorach	a glass of beer							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	cupa tae	cup of tea							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	bainne	milk							
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	tae le bainne	tea with milk							
@@ -644,6 +646,8 @@ Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	siúcra	sugar
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	Builín	a loaf					boolyeen		
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	Builín arán	a loaf of bread					boolyeen aran		
 Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	Stampa	a stamp							
+Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	carr úr	a new car				new/novel/recent			
+Irish on your own	6	Ordering Drinks		WORD	WHAT_YOU_WANT	carr nua	a new car				fresh/newly made			
 Irish on your own	6	Ordering Drinks		WORD		Punt	a pound							
 Irish on your own	6	Ordering Drinks		WORD		pingin	pence							
 Irish on your own	6	Ordering Drinks		WORD		Fiche pingin	twenty pence					feeha ping		
@@ -660,6 +664,8 @@ Irish on your own	6	Ordering Drinks		SENTENCE		Ba mhaith liom ag dul amach	I'd l
 Irish on your own	6	Ordering Drinks		TEMPLATE		$WHAT_YOU_WANT domhsa.	$WHAT_YOU_WANT for me.							
 Irish on your own	6	Ordering Drinks		TEMPLATE		Ba mhaith liomsa $WHAT_YOU_WANT	*I'd* like $WHAT_YOU_WANT							
 Irish on your own	6	Ordering Drinks		QUESTION		Rud ar bith eile?	Anything else?					Rud ar bee ella?		
+Irish on your own	6	Ordering Drinks		QUESTION		Aon rud eile?	Anything else?					Rud ar bee ella?		
+Irish on your own	6	Ordering Drinks		PHRASE		níl rud ar bith ann	There is nothing there							
 Irish on your own	6	Ordering Drinks		PHRASE		... le do thoil.	... please.							
 Irish on your own	6	Ordering Drinks		SENTENCE		Go raibh maith agat.	Thank you.							
 Irish on your own	6	Ordering Drinks		SENTENCE		Maith thú.	good on you/well done							
@@ -672,6 +678,8 @@ Irish on your own	6	Ordering Drinks		SENTENCE		Ní thógaim.	I don't.
 Irish on your own	6	Ordering Drinks		TEMPLATE		Ar mhaith leat $WHAT_YOU_WANT?	Would you like $WHAT_YOU_WANT?		s					
 Irish on your own	6	Ordering Drinks		TEMPLATE		Ar mhaith libh $WHAT_YOU_WANT?	Would you like $WHAT_YOU_WANT?		p					
 Irish on your own	6	Ordering Drinks	Additional	TEMPLATE		Ar mhaith leat $WHAT_YOU_WANT eile?	Would you like another $WHAT_YOU_WANT?		s					
+Irish on your own	6	Ordering Drinks	Additional	TEMPLATE		Ar mhaith leat aon rud eile?	Would you like anything else?		s					
+Irish on your own	6	Ordering Drinks	Additional	TEMPLATE		Ar mhaith libh aon rud eile?	Would you like anything else?		p					
 Irish on your own	6	Ordering Drinks		SENTENCE		Ba mhaith.	Yes (I would).							
 Irish on your own	6	Ordering Drinks		SENTENCE		Níor mhaith.	No (I wouldn't).							
 Irish on your own	6	Ordering Drinks		SENTENCE		B'fhearr ...	I'd prefer ...					bear...		
