@@ -801,7 +801,7 @@ Irish on your own	7	Saying where you are going		WORD	GOING_WHEN	san oíche	in th
 Irish on your own	7	Saying where you are going		SENTENCE		Tá mé ag dul go Gaillimh...	I'm going to Galway...							
 Irish on your own	7	Saying where you are going		TEMPLATE		Tá mé ag dul $GOING_WHEN	I'm going $GOING_WHEN							
 Irish on your own	7	Saying where you are going		TEMPLATE		Tá mé ag dul ag $HOUR_O_CLOCK	I'm going at $HOUR_O_CLOCK							
-Irish on your own	7	Saying where you are going		TEMPLATE		Tá mé ag dul i gceann $NUM_HOURS an chloig	I'm going in $NUM_HOURS's time							
+Irish on your own	7	Saying where you are going		TEMPLATE		Tá mé ag dul i gceann $NUM_HOURS an chloig	I'm going in $NUM_HOURS 's time							
 Irish on your own	7	Saying where you are going		TEMPLATE		Tá mé ag dul i gceann $NUM_HOURS go leith	I'm going in $NUM_HOURS and a half hours							
 Irish on your own	7	Saying where you are going		WORD		chóir a bheith	almost							
 Irish on your own	7	Saying where you are going		TEMPLATE		Tá sé chóir a bheith $HOUR_O_CLOCK	It's almost $HOUR_O_CLOCK					Taw shay hor a veh $HOUR_O_CLOCK		
@@ -810,8 +810,13 @@ Irish on your own	7	Saying where you are going		TEMPLATE		Tá sé chóir a bheit
 Irish on your own	7	Saying where you are going		TEMPLATE		Tá sé chóir a bheith ceathrú go dtí $HOUR_O_CLOCK	It's almost quarter to $HOUR_O_CLOCK					Taw shay hor a veh cahru go gee $HOUR_O_CLOCK		
 Irish on your own	7	Saying where you are going		WORD		scrúdú	exam							
 Irish on your own	7	Saying where you are going		WORD		scrúdú ar maidin	exam in the morning							
+Irish on your own	7	Saying where you are going		WORD		logainm	placename							
+Irish on your own	7	Saying where you are going		WORD		logainmneacha	placenames							
+Irish on your own	7	Saying where you are going		PHRASE		An bhfuil tusa ag dul abhaile?	Are you going home?							
+Irish on your own	7	Saying where you are going		PHRASE		Beidh Sean anseo ag leath i ndiaidh a haon déag	Sean will be here at half eleven							
+Irish on your own	7	Saying where you are going		PHRASE		Beidh mé ar ais ag leath i ndiaidh a haon déag	I will be back at half eleven							
 Irish on your own	7	Saying where you are going	Additional	TEMPLATE		Ba mhaith liom dul go dtí $THE_PLACES	I would like to go to $THE_PLACES							
-Irish on your own	7	Saying where you are going	Additional	TEMPLATE		Níor mhaith liom dul go dtí $THE_PLACES	I would like to go to $THE_PLACES							
+Irish on your own	7	Saying where you are going	Additional	TEMPLATE		Níor mhaith liom dul go dtí $THE_PLACES	I would not like to go to $THE_PLACES							
 Irish on your own	8	Discussing Jobs		WORD		AG PLÉ POSTANNA	DISCUSSING JOBS							
 Irish on your own	8	Discussing Jobs		WORD		obair	work							
 Irish on your own	8	Discussing Jobs		WORD		ag obair	working							

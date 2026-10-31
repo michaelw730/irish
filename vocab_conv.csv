@@ -1737,17 +1737,17 @@ Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul ag a nao
 Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul ag a deich a chlog	I'm going at 10 o'clock							
 Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul ag a haon déag a chlog	I'm going at 11 o'clock							
 Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul ag a dó dhéag a chlog	I'm going at 12 o'clock							
-Irish on your own	7	Saying where you are going		TEMPLATE		Tá mé ag dul i gceann $NUM_HOURS an chloig	I'm going in $NUM_HOURS's time							
-Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann uair an chloig	I'm going in an hour's time							
-Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann dhá uair an chloig	I'm going in two hours's time							
-Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann trí huaire an chloig	I'm going in three hours's time							
-Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann ceathair huaire an chloig	I'm going in four hours's time							
-Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann cúig huaire an chloig	I'm going in five hours's time							
-Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann sé huaire an chloig	I'm going in six hours's time							
-Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann seacht n-uaire an chloig	I'm going in seven hours's time							
-Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann hocht n-uaire an chloig	I'm going in eight hours's time							
-Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann naoi n-uaire an chloig	I'm going in nine hours's time							
-Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann deich n-uaire an chloig	I'm going in ten hours's time							
+Irish on your own	7	Saying where you are going		TEMPLATE		Tá mé ag dul i gceann $NUM_HOURS an chloig	I'm going in $NUM_HOURS 's time							
+Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann uair an chloig	I'm going in an hour 's time							
+Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann dhá uair an chloig	I'm going in two hours 's time							
+Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann trí huaire an chloig	I'm going in three hours 's time							
+Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann ceathair huaire an chloig	I'm going in four hours 's time							
+Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann cúig huaire an chloig	I'm going in five hours 's time							
+Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann sé huaire an chloig	I'm going in six hours 's time							
+Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann seacht n-uaire an chloig	I'm going in seven hours 's time							
+Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann hocht n-uaire an chloig	I'm going in eight hours 's time							
+Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann naoi n-uaire an chloig	I'm going in nine hours 's time							
+Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann deich n-uaire an chloig	I'm going in ten hours 's time							
 Irish on your own	7	Saying where you are going		TEMPLATE		Tá mé ag dul i gceann $NUM_HOURS go leith	I'm going in $NUM_HOURS and a half hours							
 Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann uair go leith	I'm going in an hour and a half hours							
 Irish on your own	7	Saying where you are going		DYNAMIC		Tá mé ag dul i gceann dhá uair go leith	I'm going in two hours and a half hours							
@@ -1814,6 +1814,11 @@ Irish on your own	7	Saying where you are going		DYNAMIC		Tá sé chóir a bheith
 Irish on your own	7	Saying where you are going		DYNAMIC		Tá sé chóir a bheith ceathrú go dtí a dó dhéag a chlog	It's almost quarter to 12 o'clock					Taw shay hor a veh cahru go gee 		
 Irish on your own	7	Saying where you are going		WORD		scrúdú	exam							
 Irish on your own	7	Saying where you are going		WORD		scrúdú ar maidin	exam in the morning							
+Irish on your own	7	Saying where you are going		WORD		logainm	placename							
+Irish on your own	7	Saying where you are going		WORD		logainmneacha	placenames							
+Irish on your own	7	Saying where you are going		PHRASE		An bhfuil tusa ag dul abhaile?	Are you going home?							
+Irish on your own	7	Saying where you are going		PHRASE		Beidh Sean anseo ag leath i ndiaidh a haon déag	Sean will be here at half eleven							
+Irish on your own	7	Saying where you are going		PHRASE		Beidh mé ar ais ag leath i ndiaidh a haon déag	I will be back at half eleven							
 Irish on your own	7	Saying where you are going	Additional	TEMPLATE		Ba mhaith liom dul go dtí $THE_PLACES	I would like to go to $THE_PLACES							
 Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Ba mhaith liom dul go dtí an linn snámha	I would like to go to the swimming pool							
 Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Ba mhaith liom dul go dtí an cluiche peile	I would like to go to the football match							
@@ -1831,23 +1836,23 @@ Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Ba mhaith lio
 Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Ba mhaith liom dul go dtí an bhialann	I would like to go to the restaurant							
 Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Ba mhaith liom dul go dtí an t-ospidéal	I would like to go to the hospital							
 Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Ba mhaith liom dul go dtí an ghealach	I would like to go to the moon							
-Irish on your own	7	Saying where you are going	Additional	TEMPLATE		Níor mhaith liom dul go dtí $THE_PLACES	I would like to go to $THE_PLACES							
-Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an linn snámha	I would like to go to the swimming pool							
-Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an cluiche peile	I would like to go to the football match							
-Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an caife	I would like to go to the café							
-Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an amharclann	I would like to go to the theatre							
-Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an garáiste	I would like to go to the garage							
-Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an teach tábhairne	I would like to go to the pub							
-Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an pháirc	I would like to go to the park							
-Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an phictiúrlann 	I would like to go to the cinema							
-Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an tsólann 	I would like to go to the leisure centre							
-Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an t-aerfort	I would like to go to the airport							
-Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an t-ionad spóirt	I would like to go to the sports centre							
-Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an t-ionad siopadóireachta	I would like to go to the shopping centre							
-Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an t-ollmhargadh	I would like to go to the supermarket							
-Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an bhialann	I would like to go to the restaurant							
-Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an t-ospidéal	I would like to go to the hospital							
-Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an ghealach	I would like to go to the moon							
+Irish on your own	7	Saying where you are going	Additional	TEMPLATE		Níor mhaith liom dul go dtí $THE_PLACES	I would not like to go to $THE_PLACES							
+Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an linn snámha	I would not like to go to the swimming pool							
+Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an cluiche peile	I would not like to go to the football match							
+Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an caife	I would not like to go to the café							
+Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an amharclann	I would not like to go to the theatre							
+Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an garáiste	I would not like to go to the garage							
+Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an teach tábhairne	I would not like to go to the pub							
+Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an pháirc	I would not like to go to the park							
+Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an phictiúrlann 	I would not like to go to the cinema							
+Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an tsólann 	I would not like to go to the leisure centre							
+Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an t-aerfort	I would not like to go to the airport							
+Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an t-ionad spóirt	I would not like to go to the sports centre							
+Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an t-ionad siopadóireachta	I would not like to go to the shopping centre							
+Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an t-ollmhargadh	I would not like to go to the supermarket							
+Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an bhialann	I would not like to go to the restaurant							
+Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an t-ospidéal	I would not like to go to the hospital							
+Irish on your own	7	Saying where you are going	Additional	DYNAMIC		Níor mhaith liom dul go dtí an ghealach	I would not like to go to the moon							
 Irish on your own	8	Discussing Jobs		WORD		AG PLÉ POSTANNA	DISCUSSING JOBS							
 Irish on your own	8	Discussing Jobs		WORD		obair	work							
 Irish on your own	8	Discussing Jobs		WORD		ag obair	working							
