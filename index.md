@@ -733,7 +733,7 @@ There's no need to place anything before the days of the week in Irish if you wa
 
 The days of the week aren't affected if they're preceded by the words `maidin` and `tráthnóna`:
 
-After `oíche`, however, `Dé` is dropped and a séimhiú is added, Luain`, remains the same, and `Dé hAoine` loses its h:
+After `oíche`, however, `Dé` is dropped and a séimhiú is added, `Luain`, remains the same, and `Dé hAoine` loses its h:
 
 ASKING SOMEONE WHEN THEY WENT SOMEWHERE
 
