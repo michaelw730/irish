@@ -1922,6 +1922,7 @@
 | Irish on your own | 8 | Discussing Jobs |  | WORD | JOB | aisteoir | actor |  |  |  |  | asteor |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | WORD | JOB | múinteoir bunscoile | primary school teacher |  |  |  |  | asteor |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | WORD | JOB | múinteoir meánscoile | secondary school teacher |  |  |  |  | asteor |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | WORD | JOB | teicneoir | technician |  |  |  |  | technor |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | WORD |  | garraí | garden |  |  |  |  | gary |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | TEMPLATE |  | Is $JOB mé. | I'm a $JOB | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is feirmeoir mé. | I'm a farmer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
@@ -1947,6 +1948,57 @@
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is aisteoir mé. | I'm a actor | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is múinteoir bunscoile mé. | I'm a primary school teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is múinteoir meánscoile mé. | I'm a secondary school teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is teicneoir mé. | I'm a technician | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | TEMPLATE |  | Is $JOB é. | He is a $JOB | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is feirmeoir é. | He is a farmer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is siopadóir é. | He is a shopkeeper | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is búistéir é. | He is a butcher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is meicneoir é. | He is a mechanic | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is múinteoir é. | He is a teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is rúnaí é. | He is a secretary | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is oibrí monarchan é. | He is a factory worker | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is banaltra é. | He is a nurse | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is dochtúir é. | He is a doctor | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is tiománaí é. | He is a driver | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is bainisteoir é. | He is a manager | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is freastalaí é. | He is a waiter | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is tógálaí é. | He is a builder | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is siúinéir é. | He is a carpenter | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is bean tí é. | He is a housewife | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is leictreoir é. | He is a electrician | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is iascaire é. | He is a fisherman | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is innealtóir é. | He is a engineer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is innealtóir ríomhaireachta é. | He is a computer engineer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is ríomhchláraitheoir é. | He is a programmer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is aisteoir é. | He is a actor | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is múinteoir bunscoile é. | He is a primary school teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is múinteoir meánscoile é. | He is a secondary school teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is teicneoir é. | He is a technician | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | TEMPLATE |  | Is $JOB í. | She is a $JOB | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is feirmeoir í. | She is a farmer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is siopadóir í. | She is a shopkeeper | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is búistéir í. | She is a butcher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is meicneoir í. | She is a mechanic | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is múinteoir í. | She is a teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is rúnaí í. | She is a secretary | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is oibrí monarchan í. | She is a factory worker | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is banaltra í. | She is a nurse | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is dochtúir í. | She is a doctor | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is tiománaí í. | She is a driver | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is bainisteoir í. | She is a manager | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is freastalaí í. | She is a waiter | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is tógálaí í. | She is a builder | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is siúinéir í. | She is a carpenter | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is bean tí í. | She is a housewife | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is leictreoir í. | She is a electrician | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is iascaire í. | She is a fisherman | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is innealtóir í. | She is a engineer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is innealtóir ríomhaireachta í. | She is a computer engineer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is ríomhchláraitheoir í. | She is a programmer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is aisteoir í. | She is a actor | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is múinteoir bunscoile í. | She is a primary school teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is múinteoir meánscoile í. | She is a secondary school teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Is teicneoir í. | She is a technician | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | TEMPLATE |  | $JOB atá ionam | I'm a $JOB |  |  |  |  | .. atá unam |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | feirmeoir atá ionam | I'm a farmer |  |  |  |  | .. atá unam |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | siopadóir atá ionam | I'm a shopkeeper |  |  |  |  | .. atá unam |  |  |
@@ -1971,6 +2023,7 @@
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | aisteoir atá ionam | I'm a actor |  |  |  |  | .. atá unam |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | múinteoir bunscoile atá ionam | I'm a primary school teacher |  |  |  |  | .. atá unam |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | múinteoir meánscoile atá ionam | I'm a secondary school teacher |  |  |  |  | .. atá unam |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | teicneoir atá ionam | I'm a technician |  |  |  |  | .. atá unam |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | QUESTION |  | Cad é an post atá agat? | What job do you do? |  |  |  | Where are you working? |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | QUESTION |  | Cad é an tslí bheatha atá agat? | What do you do for a living? |  |  |  | way of life | cadj ay an tshlee veha ataa agat |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | QUESTION |  | Cad é an post atá ag Michael? | What job does Michael have? |  |  |  |  |  |  |  |
@@ -1991,6 +2044,7 @@
 | Irish on your own | 8 | Discussing Jobs |  | WORD | IN_WORKPLACE | i dteach tábhairne | in a pub |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | WORD | IN_WORKPLACE | i ngarraí | in a garden |  |  |  |  | in narry |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | WORD |  | stáisiún peitril | petrol station |  |  |  |  | stashon petrol |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | WORD | IN_WORKPLACE | i stáisiún peitril | In petrol station |  |  |  |  | I stashon petrol |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | TEMPLATE |  | Tá mé ag obair $IN_WORKPLACE | I work $IN_WORKPLACE |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Tá mé ag obair i monarcha | I work in a factory |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Tá mé ag obair in oifig | I work in an office |  |  |  |  |  |  |  |
@@ -2006,6 +2060,7 @@
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Tá mé ag obair in ollmhargadh | I work in a supermarket |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Tá mé ag obair i dteach tábhairne | I work in a pub |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Tá mé ag obair i ngarraí | I work in a garden |  |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Tá mé ag obair i stáisiún peitril | I work In petrol station |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | TEMPLATE |  | Bhí mé ag obair $IN_WORKPLACE | I worked $IN_WORKPLACE |  |  |  |  |  |  | Past |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Bhí mé ag obair i monarcha | I worked in a factory |  |  |  |  |  |  | Past |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Bhí mé ag obair in oifig | I worked in an office |  |  |  |  |  |  | Past |
@@ -2021,6 +2076,7 @@
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Bhí mé ag obair in ollmhargadh | I worked in a supermarket |  |  |  |  |  |  | Past |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Bhí mé ag obair i dteach tábhairne | I worked in a pub |  |  |  |  |  |  | Past |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Bhí mé ag obair i ngarraí | I worked in a garden |  |  |  |  |  |  | Past |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Bhí mé ag obair i stáisiún peitril | I worked In petrol station |  |  |  |  |  |  | Past |
 | Irish on your own | 8 | Discussing Jobs |  | TEMPLATE |  | Tá mé ag obair $IN_WORKPLACE i mBeal Feirste | I work $IN_WORKPLACE in Belfast |  |  |  |  |  |  | Present |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Tá mé ag obair i monarcha i mBeal Feirste | I work in a factory in Belfast |  |  |  |  |  |  | Present |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Tá mé ag obair in oifig i mBeal Feirste | I work in an office in Belfast |  |  |  |  |  |  | Present |
@@ -2036,6 +2092,7 @@
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Tá mé ag obair in ollmhargadh i mBeal Feirste | I work in a supermarket in Belfast |  |  |  |  |  |  | Present |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Tá mé ag obair i dteach tábhairne i mBeal Feirste | I work in a pub in Belfast |  |  |  |  |  |  | Present |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Tá mé ag obair i ngarraí i mBeal Feirste | I work in a garden in Belfast |  |  |  |  |  |  | Present |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Tá mé ag obair i stáisiún peitril i mBeal Feirste | I work In petrol station in Belfast |  |  |  |  |  |  | Present |
 | Irish on your own | 8 | Discussing Jobs |  | TEMPLATE |  | Beidh mé ag obair $IN_WORKPLACE i mBeal Feirste | I will work $IN_WORKPLACE in Belfast |  |  |  |  |  |  | Future |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Beidh mé ag obair i monarcha i mBeal Feirste | I will work in a factory in Belfast |  |  |  |  |  |  | Future |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Beidh mé ag obair in oifig i mBeal Feirste | I will work in an office in Belfast |  |  |  |  |  |  | Future |
@@ -2051,6 +2108,7 @@
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Beidh mé ag obair in ollmhargadh i mBeal Feirste | I will work in a supermarket in Belfast |  |  |  |  |  |  | Future |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Beidh mé ag obair i dteach tábhairne i mBeal Feirste | I will work in a pub in Belfast |  |  |  |  |  |  | Future |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Beidh mé ag obair i ngarraí i mBeal Feirste | I will work in a garden in Belfast |  |  |  |  |  |  | Future |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Beidh mé ag obair i stáisiún peitril i mBeal Feirste | I will work In petrol station in Belfast |  |  |  |  |  |  | Future |
 | Irish on your own | 8 | Discussing Jobs |  | SENTENCE |  | tá mé neirbhíseach | i am nervous |  |  |  |  | taa may nervishoch |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | WORD | SHOP_TYPE | siopa bróg | shoe shop |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | WORD | SHOP_TYPE | siopa leabhar | bookshop |  |  |  |  | ta shopa loar agam |  |  |
@@ -2068,6 +2126,7 @@
 | Irish on your own | 8 | Discussing Jobs |  | SENTENCE |  | Níl mé ag obair | I'm not working |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | SENTENCE |  | Níl mé ag obair faoi láthair | I'm not working at the moment |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | SENTENCE |  | Tá mé dífhostaithe | I'm unemployed |  |  |  |  | ..djee-ost-aha |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | SENTENCE |  | Tá sé dífhostaithe | He’s unemployed |  |  |  |  | ..djee-ost-aha |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | SENTENCE |  | Tá mé éirithe as | I'm retired |  |  |  |  | ...airy-a ass |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | QUESTION |  | Cad é an post a bhí agat? | What job did you have? |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | TEMPLATE |  | $JOB a bhí ionam | I was a $JOB |  |  |  |  |  |  |  |
@@ -2094,6 +2153,7 @@
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | aisteoir a bhí ionam | I was a actor |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | múinteoir bunscoile a bhí ionam | I was a primary school teacher |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | múinteoir meánscoile a bhí ionam | I was a secondary school teacher |  |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | teicneoir a bhí ionam | I was a technician |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | SENTENCE |  | Ba mhúinteoir mé. | I was a teacher. |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | SENTENCE |  | Ba mheicneoir mé. | I was a mechanic |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | SENTENCE |  | Ba dhochtúir mé. | I was a doctor |  |  |  |  | ba gochter ma |  |  |
@@ -2124,8 +2184,19 @@
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | An aisteoir tú? | Are you a actor? |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | An múinteoir bunscoile tú? | Are you a primary school teacher? |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | An múinteoir meánscoile tú? | Are you a secondary school teacher? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | An teicneoir tú? | Are you a technician? |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | SENTENCE |  | Is ea. | Yes (I am). |  |  |  |  | sha?? or ish-aa?? |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | SENTENCE |  | Ní hea. | No (I'm not). |  |  |  |  | nee ha |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | SENTENCE |  | Tá mise ag dul ag obair | I’m going to work |  |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | QUESTION |  | Ar mhaith leat a bheith aisteoir? | Would you like to be an actor? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | QUESTION |  | Ar mhaith liomsa a bheith aisteoir? | Would I like to be an actor? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | SENTENCE |  | an bhfuil tusa ag caint liomsa? | Are you talking to me? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | SENTENCE |  | An bhfuil an fear sin ceart? | Is that man alright? |  |  |  | Is that man rightly? |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | PHRASE |  | chuig agallamh | to an interview |  |  |  |  | chwig agaloo |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | WORD |  | triail | trial |  |  |  |  |  |  | also audition |
+| Irish on your own | 8 | Discussing Jobs |  | WORD |  | trialacha | trials |  |  |  |  |  |  | also auditions |
+| Irish on your own | 8 | Discussing Jobs |  | WORD |  | fógra | advert |  |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | WORD |  | Beidh mé ag obair i siopa sa tráthnóna. | I will be working in a shop in the evening |  |  |  |  |  |  |  |
 
 ## Irish on your own - Giving orders and instructions
 

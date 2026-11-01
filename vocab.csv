@@ -847,8 +847,11 @@ Irish on your own	8	Discussing Jobs		WORD	JOB	ríomhchláraitheoir	programmer			
 Irish on your own	8	Discussing Jobs		WORD	JOB	aisteoir	actor					asteor		
 Irish on your own	8	Discussing Jobs		WORD	JOB	múinteoir bunscoile	primary school teacher					asteor		
 Irish on your own	8	Discussing Jobs		WORD	JOB	múinteoir meánscoile	secondary school teacher					asteor		
+Irish on your own	8	Discussing Jobs		WORD	JOB	teicneoir	technician					technor		
 Irish on your own	8	Discussing Jobs		WORD		garraí	garden					gary		
 Irish on your own	8	Discussing Jobs		TEMPLATE		Is $JOB mé.	I'm a $JOB	Repeat for other pronouns é/í and person's name						
+Irish on your own	8	Discussing Jobs		TEMPLATE		Is $JOB é.	He is a $JOB	Repeat for other pronouns é/í and person's name						
+Irish on your own	8	Discussing Jobs		TEMPLATE		Is $JOB í.	She is a $JOB	Repeat for other pronouns é/í and person's name						
 Irish on your own	8	Discussing Jobs		TEMPLATE		$JOB atá ionam	I'm a $JOB					.. atá unam		
 Irish on your own	8	Discussing Jobs		QUESTION		Cad é an post atá agat?	What job do you do?				Where are you working?			
 Irish on your own	8	Discussing Jobs		QUESTION		Cad é an tslí bheatha atá agat?	What do you do for a living?				way of life	cadj ay an tshlee veha ataa agat		
@@ -870,6 +873,7 @@ Irish on your own	8	Discussing Jobs		WORD	IN_WORKPLACE	in ollmhargadh	in a super
 Irish on your own	8	Discussing Jobs		WORD	IN_WORKPLACE	i dteach tábhairne	in a pub							
 Irish on your own	8	Discussing Jobs		WORD	IN_WORKPLACE	i ngarraí	in a garden					in narry		
 Irish on your own	8	Discussing Jobs		WORD		stáisiún peitril	petrol station					stashon petrol		
+Irish on your own	8	Discussing Jobs		WORD	IN_WORKPLACE	i stáisiún peitril	In petrol station					I stashon petrol		
 Irish on your own	8	Discussing Jobs		TEMPLATE		Tá mé ag obair $IN_WORKPLACE	I work $IN_WORKPLACE							
 Irish on your own	8	Discussing Jobs		TEMPLATE		Bhí mé ag obair $IN_WORKPLACE	I worked $IN_WORKPLACE							Past
 Irish on your own	8	Discussing Jobs		TEMPLATE		Tá mé ag obair $IN_WORKPLACE i mBeal Feirste	I work $IN_WORKPLACE in Belfast							Present
@@ -887,6 +891,7 @@ Irish on your own	8	Discussing Jobs		WORD		faoi láthair	at the moment				presen
 Irish on your own	8	Discussing Jobs		SENTENCE		Níl mé ag obair	I'm not working							
 Irish on your own	8	Discussing Jobs		SENTENCE		Níl mé ag obair faoi láthair	I'm not working at the moment							
 Irish on your own	8	Discussing Jobs		SENTENCE		Tá mé dífhostaithe	I'm unemployed					..djee-ost-aha		
+Irish on your own	8	Discussing Jobs		SENTENCE		Tá sé dífhostaithe	He’s unemployed					..djee-ost-aha		
 Irish on your own	8	Discussing Jobs		SENTENCE		Tá mé éirithe as	I'm retired					...airy-a ass		
 Irish on your own	8	Discussing Jobs		QUESTION		Cad é an post a bhí agat?	What job did you have?							
 Irish on your own	8	Discussing Jobs		TEMPLATE		$JOB a bhí ionam	I was a $JOB							
@@ -899,6 +904,16 @@ Irish on your own	8	Discussing Jobs		SENTENCE		B'fheirmeoir mé.	I was a farmer
 Irish on your own	8	Discussing Jobs		TEMPLATE		An $JOB tú?	Are you a $JOB?							
 Irish on your own	8	Discussing Jobs		SENTENCE		Is ea.	Yes (I am).					sha?? or ish-aa??		
 Irish on your own	8	Discussing Jobs		SENTENCE		Ní hea.	No (I'm not).					nee ha		
+Irish on your own	8	Discussing Jobs		SENTENCE		Tá mise ag dul ag obair	I’m going to work							
+Irish on your own	8	Discussing Jobs		QUESTION		Ar mhaith leat a bheith aisteoir?	Would you like to be an actor?							
+Irish on your own	8	Discussing Jobs		QUESTION		Ar mhaith liomsa a bheith aisteoir?	Would I like to be an actor?							
+Irish on your own	8	Discussing Jobs		SENTENCE		an bhfuil tusa ag caint liomsa?	Are you talking to me?							
+Irish on your own	8	Discussing Jobs		SENTENCE		An bhfuil an fear sin ceart?	Is that man alright?				Is that man rightly?			
+Irish on your own	8	Discussing Jobs		PHRASE		chuig agallamh	to an interview					chwig agaloo		
+Irish on your own	8	Discussing Jobs		WORD		triail	trial							also audition
+Irish on your own	8	Discussing Jobs		WORD		trialacha	trials							also auditions
+Irish on your own	8	Discussing Jobs		WORD		fógra	advert							
+Irish on your own	8	Discussing Jobs		WORD		Beidh mé ag obair i siopa sa tráthnóna.	I will be working in a shop in the evening							
 Irish on your own	9	Giving orders and instructions		WORD		Ag Tabhairt	Giving							
 Irish on your own	9	Giving orders and instructions		WORD		Orduithe	orders							
 Irish on your own	9	Giving orders and instructions		WORD		Treoracha	instructions							
