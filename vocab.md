@@ -2551,8 +2551,8 @@
 | Irish on your own | 10 | Family1 | Additional | WORD |  | bunrang | bottom class |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 | Additional | WORD |  | meánrang | average class |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 | Additional | WORD |  | ardrang | high class |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 | Additional |  |  | rang a sé | class (or primary) six/sixth class |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 | Additional |  |  | clár a sé | programme six |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional | PHRASE |  | rang a sé | class (or primary) six/sixth class |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional | PHRASE |  | clár a sé | programme six |  |  |  |  |  |  |  |
 
 ## Irish on your own - Saying what you did
 
