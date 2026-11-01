@@ -4982,6 +4982,5 @@
 | Other | 1 | Places |  |  | IN_PLACE | I nDoire | in Derry |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | IN_PLACE | I nDún na nGall | in Donegal |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | IN_PLACE | i Srón Ramhar | in Stranraer |  |  |  |  |  |  |  |
-| Other | 1 | Places |  |  | IN_PLACE | i Srón Ramhar | in Stranraer |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | COUNTRIES | an Ghearmáin | Germany |  |  |  |  |  |  |  |
 | Other | 1 | Places |  |  | COUNTRIES | an Fhrainc | France |  |  |  |  |  |  |  |
