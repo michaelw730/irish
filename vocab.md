@@ -2028,6 +2028,31 @@
 | Irish on your own | 8 | Discussing Jobs |  | QUESTION |  | Cad é an tslí bheatha atá agat? | What do you do for a living? |  |  |  | way of life | cadj ay an tshlee veha ataa agat |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | QUESTION |  | Cad é an post atá ag Michael? | What job does Michael have? |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | QUESTION |  | Cá bhfuil tú ag obair? | Where do you work? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | TEMPLATE |  | Ní $JOB mé. | I'm not a $JOB | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní feirmeoir mé. | I'm not a farmer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní siopadóir mé. | I'm not a shopkeeper | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní búistéir mé. | I'm not a butcher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní meicneoir mé. | I'm not a mechanic | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní múinteoir mé. | I'm not a teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní rúnaí mé. | I'm not a secretary | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní oibrí monarchan mé. | I'm not a factory worker | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní banaltra mé. | I'm not a nurse | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní dochtúir mé. | I'm not a doctor | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní tiománaí mé. | I'm not a driver | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní bainisteoir mé. | I'm not a manager | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní freastalaí mé. | I'm not a waiter | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní tógálaí mé. | I'm not a builder | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní siúinéir mé. | I'm not a carpenter | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní bean tí mé. | I'm not a housewife | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní leictreoir mé. | I'm not a electrician | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní iascaire mé. | I'm not a fisherman | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní innealtóir mé. | I'm not a engineer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní innealtóir ríomhaireachta mé. | I'm not a computer engineer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní ríomhchláraitheoir mé. | I'm not a programmer | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní aisteoir mé. | I'm not a actor | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní múinteoir bunscoile mé. | I'm not a primary school teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní múinteoir meánscoile mé. | I'm not a secondary school teacher | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | DYNAMIC |  | Ní teicneoir mé. | I'm not a technician | Repeat for other pronouns é/í and person's name |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | QUESTION |  | Cá bhfuil tusa ag obair? | Where do *you* work? |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | WORD | IN_WORKPLACE | i monarcha | in a factory |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | WORD | IN_WORKPLACE | in oifig | in an office |  |  |  |  |  |  |  |
@@ -2196,7 +2221,10 @@
 | Irish on your own | 8 | Discussing Jobs |  | WORD |  | triail | trial |  |  |  |  |  |  | also audition |
 | Irish on your own | 8 | Discussing Jobs |  | WORD |  | trialacha | trials |  |  |  |  |  |  | also auditions |
 | Irish on your own | 8 | Discussing Jobs |  | WORD |  | fógra | advert |  |  |  |  |  |  |  |
-| Irish on your own | 8 | Discussing Jobs |  | WORD |  | Beidh mé ag obair i siopa sa tráthnóna. | I will be working in a shop in the evening |  |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | SENTENCE |  | Beidh mé ag obair i siopa sa tráthnóna. | I will be working in a shop in the evening |  |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | QUESTION |  | An bhfuil post agat? | Do you have a job? |  |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | SENTENCE |  | Tá post agam | I have a job |  |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | SENTENCE |  | Tá post agat | You have a job |  |  |  |  |  |  |  |
 
 ## Irish on your own - Giving orders and instructions
 
@@ -2264,6 +2292,8 @@
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | tá sibh mall | you're late |  | p |  |  |  |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | bean éigin | some woman |  |  |  |  | ban ay-gan |  |  |
 | Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Coimhéad tú féin | Look out yourself |  |  |  |  |  |  |  |
+| Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Tá m’athair ag coinneáil súil ortsa | My father is keeping his eyes on you |  |  |  |  |  |  |  |
+| Irish on your own | 9 | Giving orders and instructions |  | SENTENCE |  | Tá mise ag coinneáil súil d’athair | I’m keeping my eyes on your father |  |  |  |  |  |  |  |
 | Irish on your own | 9 | Giving orders and instructions | Additional | SENTENCE |  | Oscail an doras | open the door |  |  |  |  |  |  |  |
 | Irish on your own | 9 | Giving orders and instructions | Additional | SENTENCE |  | Druid an fhuinneog | close the window |  |  |  |  | inyug?? |  |  |
 | Irish on your own | 9 | Giving orders and instructions | Additional | SENTENCE |  | Oscail an fhuinneog | open the window |  |  |  |  |  |  |  |
@@ -2272,6 +2302,8 @@
 | Irish on your own | 9 | Giving orders and instructions | Additional | SENTENCE |  | Ná tar isteach | don't come in |  |  |  |  |  |  |  |
 | Irish on your own | 9 | Giving orders and instructions | Additional | SENTENCE |  | Ná druid an doras | don't close the door |  |  |  |  |  |  |  |
 | Irish on your own | 9 | Giving orders and instructions | Additional | SENTENCE |  | Ná habair sin | don't say that |  |  |  |  |  |  |  |
+| Irish on your own | 9 | Giving orders and instructions | Additional | SENTENCE |  | Seo Conal an siúinéir | This is Conal the carpenter. |  |  |  |  |  |  |  |
+| Irish on your own | 9 | Giving orders and instructions | Additional | SENTENCE |  | Is aisteoir maith tú | you are a good actor |  |  |  |  |  |  |  |
 
 ## Irish on your own - Family1
 
