@@ -2309,6 +2309,7 @@
 
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Irish on your own | 10 | Family1 |  | PHRASE |  | sa chlár seo | in this programme |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | fear | man |  |  |  |  | faar |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | an fhear | the man |  |  |  |  | an aar |  | ??? |
 | Irish on your own | 10 | Family1 |  | WORD |  | fir | men |  |  |  |  |  |  |  |
@@ -2408,7 +2409,10 @@
 | Irish on your own | 10 | Family1 |  | QUESTION |  | Cá mhéad duine? | How many people? |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | lón inniu | lunch today |  |  |  |  | loan in-nu |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | meánlae | midday |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | WORD |  | an chéad Aibreán | first of april |  |  |  |  | an chid A-ibrin |  |  |
+| Irish on your own | 10 | Family1 |  | PHRASE |  | an chéad Aibreán | The first of april |  |  |  |  | an chid A-ibrin |  |  |
+| Irish on your own | 10 | Family1 |  | PHRASE |  | An chéad lá d'Aibreán | the first day of april |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | PHRASE |  | in áit ar bith | nowhere |  |  |  |  |  |  | in reply to where are you going |
+| Irish on your own | 10 | Family1 |  | PHRASE |  | Amadán Aibreáin | April fool |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD | NUM_PEOPLE | duine amháin | one (person) |  |  |  |  | dinye awan |  |  |
 | Irish on your own | 10 | Family1 |  | WORD | NUM_PEOPLE | beirt | two (people) |  |  |  |  | birch |  |  |
 | Irish on your own | 10 | Family1 |  | WORD | NUM_PEOPLE | triúr | three (people) |  |  |  |  | true-er |  |  |
@@ -2436,9 +2440,10 @@
 | Irish on your own | 10 | Family1 |  | WORD | NUM_DAUGHTERS | beirt iníonacha | two daughters |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD | NUM_DAUGHTERS | triúr iníonacha | three daughters |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD | NUM_DAUGHTERS | seisear iníonacha | six girls |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_BOYS | beirth bhuachaillí | two boys |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD | NUM_BOYS | ceathrar buachaillí | four boys |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD | NUM_GIRLS | beirt chailíní | two girls |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | WORD | NUM_GIRLS | ceathrar chailíní | four girls |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_GIRLS | ceathrar cailíní | four girls |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD | NUM_GIRLS | cúigear cailíní | five girls |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_CHILDREN agam. | I have $NUM_CHILDREN. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá páiste amháin agam. | I have one child. |  |  |  |  |  |  |  |
@@ -2461,10 +2466,11 @@
 | Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá triúr iníonacha agam. | I have three daughters. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá seisear iníonacha agam. | I have six girls. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_BOYS agam. | I have $NUM_BOYS. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá beirth bhuachaillí agam. | I have two boys. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar buachaillí agam. | I have four boys. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_GIRLS agam. | I have $NUM_GIRLS. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá beirt chailíní agam. | I have two girls. |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar chailíní agam. | I have four girls. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar cailíní agam. | I have four girls. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá cúigear cailíní agam. | I have five girls. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | NOUN | SCHOOL_TYPE | scoil | school |  |  |  |  | skull |  |  |
 | Irish on your own | 10 | Family1 |  | NOUN | SCHOOL_TYPE | naíonra | playschool |  |  |  |  | neenra |  |  |
@@ -2553,6 +2559,8 @@
 | Irish on your own | 10 | Family1 | Additional | WORD |  | ardrang | high class |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 | Additional | PHRASE |  | rang a sé | class (or primary) six/sixth class |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 | Additional | PHRASE |  | clár a sé | programme six |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional | PHRASE |  | Is scéal fada é | it's a long story |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional | PHRASE |  | Tá an t-am agam | I have the time |  |  |  |  |  |  |  |
 
 ## Irish on your own - Saying what you did
 
