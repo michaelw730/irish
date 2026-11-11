@@ -1179,7 +1179,7 @@
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | fíon géal | bright (white) wine |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | fíon bandearg | pink (rosé) wine |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | uisce beatha | whiskey |  |  |  |  | ishka beh-ha |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | burger | borger |  |  |  |  | burger (same as English) |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | borger | burger |  |  |  |  | burger (same as English) |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | sceallógaí | chips |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | briosca | a biscuit |  |  |  |  | briska |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | WORD | WHAT_YOU_WANT | bágún | bacon |  |  |  |  | baa-gun |  |  |
@@ -1232,7 +1232,7 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom fíon géal | I'd like bright (white) wine |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom fíon bandearg | I'd like pink (rosé) wine |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom uisce beatha | I'd like whiskey |  |  |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom burger | I'd like borger |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom borger | I'd like burger |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom sceallógaí | I'd like chips |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom briosca | I'd like a biscuit |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liom bágún | I'd like bacon |  |  |  |  |  |  |  |
@@ -1275,7 +1275,7 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | fíon géal domhsa. | bright (white) wine for me. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | fíon bandearg domhsa. | pink (rosé) wine for me. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | uisce beatha domhsa. | whiskey for me. |  |  |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | burger domhsa. | borger for me. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | borger domhsa. | burger for me. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | sceallógaí domhsa. | chips for me. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | briosca domhsa. | a biscuit for me. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | bágún domhsa. | bacon for me. |  |  |  |  |  |  |  |
@@ -1317,7 +1317,7 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liomsa fíon géal | *I'd* like bright (white) wine |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liomsa fíon bandearg | *I'd* like pink (rosé) wine |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liomsa uisce beatha | *I'd* like whiskey |  |  |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liomsa burger | *I'd* like borger |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liomsa borger | *I'd* like burger |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liomsa sceallógaí | *I'd* like chips |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liomsa briosca | *I'd* like a biscuit |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ba mhaith liomsa bágún | *I'd* like bacon |  |  |  |  |  |  |  |
@@ -1371,7 +1371,7 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat fíon géal? | Would you like bright (white) wine? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat fíon bandearg? | Would you like pink (rosé) wine? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat uisce beatha? | Would you like whiskey? |  | s |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat burger? | Would you like borger? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat borger? | Would you like burger? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat sceallógaí? | Would you like chips? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat briosca? | Would you like a biscuit? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith leat bágún? | Would you like bacon? |  | s |  |  |  |  |  |
@@ -1413,7 +1413,7 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh fíon géal? | Would you like bright (white) wine? |  | p |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh fíon bandearg? | Would you like pink (rosé) wine? |  | p |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh uisce beatha? | Would you like whiskey? |  | p |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh burger? | Would you like borger? |  | p |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh borger? | Would you like burger? |  | p |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh sceallógaí? | Would you like chips? |  | p |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh briosca? | Would you like a biscuit? |  | p |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | Ar mhaith libh bágún? | Would you like bacon? |  | p |  |  |  |  |  |
@@ -1455,7 +1455,7 @@
 | Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat fíon géal eile? | Would you like another bright (white) wine? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat fíon bandearg eile? | Would you like another pink (rosé) wine? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat uisce beatha eile? | Would you like another whiskey? |  | s |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat burger eile? | Would you like another borger? |  | s |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat borger eile? | Would you like another burger? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat sceallógaí eile? | Would you like another chips? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat briosca eile? | Would you like another a biscuit? |  | s |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | Ar mhaith leat bágún eile? | Would you like another bacon? |  | s |  |  |  |  |  |
@@ -1502,7 +1502,7 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom fíon géal | I'd prefer bright (white) wine |  |  |  |  | Bear liom glinye ish-ke |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom fíon bandearg | I'd prefer pink (rosé) wine |  |  |  |  | Bear liom glinye ish-ke |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom uisce beatha | I'd prefer whiskey |  |  |  |  | Bear liom glinye ish-ke |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom burger | I'd prefer borger |  |  |  |  | Bear liom glinye ish-ke |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom borger | I'd prefer burger |  |  |  |  | Bear liom glinye ish-ke |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom sceallógaí | I'd prefer chips |  |  |  |  | Bear liom glinye ish-ke |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom briosca | I'd prefer a biscuit |  |  |  |  | Bear liom glinye ish-ke |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | B'fhearr liom bágún | I'd prefer bacon |  |  |  |  | Bear liom glinye ish-ke |  |  |
@@ -1546,7 +1546,7 @@
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | fíon géal duitse. | bright (white) wine for you. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | fíon bandearg duitse. | pink (rosé) wine for you. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | uisce beatha duitse. | whiskey for you. |  |  |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | burger duitse. | borger for you. |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | borger duitse. | burger for you. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | sceallógaí duitse. | chips for you. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | briosca duitse. | a biscuit for you. |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks |  | DYNAMIC |  | bágún duitse. | bacon for you. |  |  |  |  |  |  |  |
@@ -1612,7 +1612,7 @@
 | Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | fíon géal eile | Another bright (white) wine |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | fíon bandearg eile | Another pink (rosé) wine |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | uisce beatha eile | Another whiskey |  |  |  |  |  |  |  |
-| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | burger eile | Another borger |  |  |  |  |  |  |  |
+| Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | borger eile | Another burger |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | sceallógaí eile | Another chips |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | briosca eile | Another a biscuit |  |  |  |  |  |  |  |
 | Irish on your own | 6 | Ordering Drinks | Additional | DYNAMIC |  | bágún eile | Another bacon |  |  |  |  |  |  |  |
