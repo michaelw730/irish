@@ -1881,8 +1881,8 @@ Irish on your own	8	Discussing Jobs		WORD	JOB	innealtóir	engineer					inyaltar
 Irish on your own	8	Discussing Jobs		WORD	JOB	innealtóir ríomhaireachta	computer engineer					inyaltar re-whar-achta		
 Irish on your own	8	Discussing Jobs		WORD	JOB	ríomhchláraitheoir	programmer					reo-clar-e-har		
 Irish on your own	8	Discussing Jobs		WORD	JOB	aisteoir	actor					asteor		
-Irish on your own	8	Discussing Jobs		WORD	JOB	múinteoir bunscoile	primary school teacher					asteor		
-Irish on your own	8	Discussing Jobs		WORD	JOB	múinteoir meánscoile	secondary school teacher					asteor		
+Irish on your own	8	Discussing Jobs		WORD	JOB	múinteoir bunscoile	primary school teacher							
+Irish on your own	8	Discussing Jobs		WORD	JOB	múinteoir meánscoile	secondary school teacher							
 Irish on your own	8	Discussing Jobs		WORD	JOB	teicneoir	technician					technor		
 Irish on your own	8	Discussing Jobs		WORD		garraí	garden					gary		
 Irish on your own	8	Discussing Jobs		TEMPLATE		Is $JOB mé.	I'm a $JOB	Repeat for other pronouns é/í and person's name						
@@ -2020,7 +2020,7 @@ Irish on your own	8	Discussing Jobs		WORD	IN_WORKPLACE	in oifig	in an office
 Irish on your own	8	Discussing Jobs		WORD	IN_WORKPLACE	in scoil	in a school							
 Irish on your own	8	Discussing Jobs		WORD	IN_WORKPLACE	i siopa	in a shop							
 Irish on your own	8	Discussing Jobs		WORD	IN_WORKPLACE	i mbunscoil	in a primary school							
-Irish on your own	8	Discussing Jobs		WORD	IN_WORKPLACE	i meánscoil	in a secondary school							
+Irish on your own	8	Discussing Jobs		WORD	IN_WORKPLACE	i meánscoil	in a secondary school	Not sure if this should be mheánscoil??						
 Irish on your own	8	Discussing Jobs		WORD	IN_WORKPLACE	in otharlann	in a hospital							
 Irish on your own	8	Discussing Jobs		WORD	IN_WORKPLACE	in óstán	in a hotel							
 Irish on your own	8	Discussing Jobs		WORD	IN_WORKPLACE	i gcaife	in a cafe							
