@@ -2690,9 +2690,30 @@ Irish on your own	11	Saying what you did		DYNAMIC		D'ól sí	she drink					doll 
 Irish on your own	11	Saying what you did		DYNAMIC		D'ól muid	we drink					doll mwidge		
 Irish on your own	11	Saying what you did		DYNAMIC		D'ól sibh	you drink					doll shiv		
 Irish on your own	11	Saying what you did		DYNAMIC		D'ól siad	they  drink					doll Shee-id		
-Irish on your own	11	Saying what you did		PHRASE		D'ól mé cúpla deoch.	I had a few drinks.					dol meh coupla jaw		
-Irish on your own	11	Saying what you did		PHRASE		D'ól mé cúpla pionta.	I had a few pints.					dol meh coupla pinta		
-Irish on your own	11	Saying what you did		PHRASE		D’ól mé dhá phionta aréir	I drank two pints last night.							
+Irish on your own	11	Saying what you did		TEMPLATE		D'ól $PRONOUNS cúpla deoch.	$PRONOUNS had a few drinks.					dol $PRONOUNS coupla jaw		
+Irish on your own	11	Saying what you did		DYNAMIC		D'ól mé cúpla deoch.	I had a few drinks.					dol meh coupla jaw		
+Irish on your own	11	Saying what you did		DYNAMIC		D'ól tú cúpla deoch.	you had a few drinks.					dol too coupla jaw		
+Irish on your own	11	Saying what you did		DYNAMIC		D'ól sé cúpla deoch.	he had a few drinks.					dol shay coupla jaw		
+Irish on your own	11	Saying what you did		DYNAMIC		D'ól sí cúpla deoch.	she had a few drinks.					dol shee coupla jaw		
+Irish on your own	11	Saying what you did		DYNAMIC		D'ól muid cúpla deoch.	we had a few drinks.					dol mwidge coupla jaw		
+Irish on your own	11	Saying what you did		DYNAMIC		D'ól sibh cúpla deoch.	you had a few drinks.					dol shiv coupla jaw		
+Irish on your own	11	Saying what you did		DYNAMIC		D'ól siad cúpla deoch.	they  had a few drinks.					dol Shee-id coupla jaw		
+Irish on your own	11	Saying what you did		TEMPLATE		D'ól $PRONOUNS cúpla pionta.	$PRONOUNS had a few pints.					dol $PRONOUNS coupla pinta		
+Irish on your own	11	Saying what you did		DYNAMIC		D'ól mé cúpla pionta.	I had a few pints.					dol meh coupla pinta		
+Irish on your own	11	Saying what you did		DYNAMIC		D'ól tú cúpla pionta.	you had a few pints.					dol too coupla pinta		
+Irish on your own	11	Saying what you did		DYNAMIC		D'ól sé cúpla pionta.	he had a few pints.					dol shay coupla pinta		
+Irish on your own	11	Saying what you did		DYNAMIC		D'ól sí cúpla pionta.	she had a few pints.					dol shee coupla pinta		
+Irish on your own	11	Saying what you did		DYNAMIC		D'ól muid cúpla pionta.	we had a few pints.					dol mwidge coupla pinta		
+Irish on your own	11	Saying what you did		DYNAMIC		D'ól sibh cúpla pionta.	you had a few pints.					dol shiv coupla pinta		
+Irish on your own	11	Saying what you did		DYNAMIC		D'ól siad cúpla pionta.	they  had a few pints.					dol Shee-id coupla pinta		
+Irish on your own	11	Saying what you did		TEMPLATE		D’ól $PRONOUNS dhá phionta aréir	$PRONOUNS drank two pints last night.							
+Irish on your own	11	Saying what you did		DYNAMIC		D’ól mé dhá phionta aréir	I drank two pints last night.							
+Irish on your own	11	Saying what you did		DYNAMIC		D’ól tú dhá phionta aréir	you drank two pints last night.							
+Irish on your own	11	Saying what you did		DYNAMIC		D’ól sé dhá phionta aréir	he drank two pints last night.							
+Irish on your own	11	Saying what you did		DYNAMIC		D’ól sí dhá phionta aréir	she drank two pints last night.							
+Irish on your own	11	Saying what you did		DYNAMIC		D’ól muid dhá phionta aréir	we drank two pints last night.							
+Irish on your own	11	Saying what you did		DYNAMIC		D’ól sibh dhá phionta aréir	you drank two pints last night.							
+Irish on your own	11	Saying what you did		DYNAMIC		D’ól siad dhá phionta aréir	they  drank two pints last night.							
 Irish on your own	11	Saying what you did		PHRASE		Caithfidh mé labhairt leat inniu	I need to see you today					chiffy me lorch leat innyou		
 Irish on your own	11	Saying what you did		VERB		suigh	sit					shees		
 Irish on your own	11	Saying what you did		PHRASE		suigh síos	sit down					see shees		
@@ -2746,7 +2767,14 @@ Irish on your own	11	Saying what you did		DYNAMIC		bhí sí	she was					Vee shee
 Irish on your own	11	Saying what you did		DYNAMIC		bhí muid	we was					Vee mwidge		
 Irish on your own	11	Saying what you did		DYNAMIC		bhí sibh	you was					Vee shiv		
 Irish on your own	11	Saying what you did		DYNAMIC		bhí siad	they  was					Vee Shee-id		
-Irish on your own	11	Saying what you did		PHRASE		Bhí mé ag bainis.	I was at a wedding.					vee me ag bannish		
+Irish on your own	11	Saying what you did		TEMPLATE		Bhí $PRONOUNS ag bainis.	I was at a wedding.					vee $PRONOUNS ag bannish		
+Irish on your own	11	Saying what you did		DYNAMIC		Bhí mé ag bainis.	I was at a wedding.					vee meh ag bannish		
+Irish on your own	11	Saying what you did		DYNAMIC		Bhí tú ag bainis.	I was at a wedding.					vee too ag bannish		
+Irish on your own	11	Saying what you did		DYNAMIC		Bhí sé ag bainis.	I was at a wedding.					vee shay ag bannish		
+Irish on your own	11	Saying what you did		DYNAMIC		Bhí sí ag bainis.	I was at a wedding.					vee shee ag bannish		
+Irish on your own	11	Saying what you did		DYNAMIC		Bhí muid ag bainis.	I was at a wedding.					vee mwidge ag bannish		
+Irish on your own	11	Saying what you did		DYNAMIC		Bhí sibh ag bainis.	I was at a wedding.					vee shiv ag bannish		
+Irish on your own	11	Saying what you did		DYNAMIC		Bhí siad ag bainis.	I was at a wedding.					vee Shee-id ag bannish		
 Irish on your own	11	Saying what you did		TEMPLATE		Bhí mé i nDoire $RECENT_PERIODS	I was in Derry $RECENT_PERIODS					vee me in nirra $RECENT_PERIODS		
 Irish on your own	11	Saying what you did		DYNAMIC		Bhí mé i nDoire ag an deireadh seachtaine	I was in Derry at the weekend					vee me in nirra 		
 Irish on your own	11	Saying what you did		DYNAMIC		Bhí mé i nDoire inniú	I was in Derry today					vee me in nirra 		

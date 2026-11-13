@@ -1215,9 +1215,9 @@ Irish on your own	11	Saying what you did		TEMPLATE		D'éist $PRONOUNS le dlúthd
 Irish on your own	11	Saying what you did		TEMPLATE		D'éist $PRONOUNS le ceol.	$PRONOUNS listened to music.					djeest $PRONOUNS le cyol		
 Irish on your own	11	Saying what you did		VERB		ól	drink							
 Irish on your own	11	Saying what you did		TEMPLATE		D'ól $PRONOUNS	$PRONOUNS drink					doll $PRONOUNS		
-Irish on your own	11	Saying what you did		PHRASE		D'ól mé cúpla deoch.	I had a few drinks.					dol meh coupla jaw		
-Irish on your own	11	Saying what you did		PHRASE		D'ól mé cúpla pionta.	I had a few pints.					dol meh coupla pinta		
-Irish on your own	11	Saying what you did		PHRASE		D’ól mé dhá phionta aréir	I drank two pints last night.							
+Irish on your own	11	Saying what you did		TEMPLATE		D'ól $PRONOUNS cúpla deoch.	$PRONOUNS had a few drinks.					dol $PRONOUNS coupla jaw		
+Irish on your own	11	Saying what you did		TEMPLATE		D'ól $PRONOUNS cúpla pionta.	$PRONOUNS had a few pints.					dol $PRONOUNS coupla pinta		
+Irish on your own	11	Saying what you did		TEMPLATE		D’ól $PRONOUNS dhá phionta aréir	$PRONOUNS drank two pints last night.							
 Irish on your own	11	Saying what you did		PHRASE		Caithfidh mé labhairt leat inniu	I need to see you today					chiffy me lorch leat innyou		
 Irish on your own	11	Saying what you did		VERB		suigh	sit					shees		
 Irish on your own	11	Saying what you did		PHRASE		suigh síos	sit down					see shees		
@@ -1229,7 +1229,7 @@ Irish on your own	11	Saying what you did		TEMPLATE		dhruid $PRONOUNS an doras	$P
 Irish on your own	11	Saying what you did		VERB		fan	wait					fan		
 Irish on your own	11	Saying what you did		TEMPLATE		d'fhan $PRONOUNS	$PRONOUNS waited					Dan $PRONOUNS		
 Irish on your own	11	Saying what you did		TEMPLATE		bhí $PRONOUNS	$PRONOUNS was					Vee $PRONOUNS		
-Irish on your own	11	Saying what you did		PHRASE		Bhí mé ag bainis.	I was at a wedding.					vee me ag bannish		
+Irish on your own	11	Saying what you did		TEMPLATE		Bhí $PRONOUNS ag bainis.	I was at a wedding.					vee $PRONOUNS ag bannish		
 Irish on your own	11	Saying what you did		TEMPLATE		Bhí mé i nDoire $RECENT_PERIODS	I was in Derry $RECENT_PERIODS					vee me in nirra $RECENT_PERIODS		
 Irish on your own	11	Saying what you did		TEMPLATE		rinne $PRONOUNS	$PRONOUNS did/made					Rinn $PRONOUNS		
 Irish on your own	11	Saying what you did		TEMPLATE		rinne $PRONOUNS an dinnéar	$PRONOUNS made the dinner							
