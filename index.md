@@ -156,7 +156,7 @@ io, oi, ui sounds like fit (usually) - gliondar, glione, duine
 | f                | bh       | bhf        | w/v in woo/vein             | an bhfuil tú/i bhFear Manach  |
 | g                | n        | ng         | ng in wing                  | i nGaillimh                   |
 | h,l,m,n          |          |            |                             |                               |
-| p                | bp       | boy        |                             | i bPáras                      |
+| p                | b        | boy        |                             | i bPáras                      |
 | r                |          |            |                             |                               |
 | t                | d        | dt         | d/j in do/jet               | i dTrá Lí/ár dteach           |
 

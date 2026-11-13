@@ -2059,7 +2059,7 @@
 | Irish on your own | 8 | Discussing Jobs |  | WORD | IN_WORKPLACE | in scoil | in a school |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | WORD | IN_WORKPLACE | i siopa | in a shop |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | WORD | IN_WORKPLACE | i mbunscoil | in a primary school |  |  |  |  |  |  |  |
-| Irish on your own | 8 | Discussing Jobs |  | WORD | IN_WORKPLACE | i meánscoil | in a secondary school | Not sure if this should be mheánscoil?? |  |  |  |  |  |  |
+| Irish on your own | 8 | Discussing Jobs |  | WORD | IN_WORKPLACE | i meánscoil | in a secondary school |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | WORD | IN_WORKPLACE | in otharlann | in a hospital |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | WORD | IN_WORKPLACE | in óstán | in a hotel |  |  |  |  |  |  |  |
 | Irish on your own | 8 | Discussing Jobs |  | WORD | IN_WORKPLACE | i gcaife | in a cafe |  |  |  |  |  |  |  |
@@ -2323,6 +2323,7 @@
 | Irish on your own | 10 | Family1 |  | WORD |  | an teaghlach | the family (as a whole including parents) |  |  |  |  | an chay-la |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | cuid | part |  |  |  |  | cudge |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | cuid a haon | part one |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional | WORD |  | páirtí | partner |  |  |  |  | Part-chee |  |  |
 | Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá mé pósta. | I'm married. |  |  |  |  | taa meh pawsta |  |  |
 | Irish on your own | 10 | Family1 |  | SENTENCE |  | Níl mé pósta. | I'm not married. |  |  |  |  | nil meh pawsta |  |  |
 | Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá mé singil. | I'm single. |  |  |  |  |  |  |  |
@@ -2331,6 +2332,9 @@
 | Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá mé scartha ó mo bhean (chéile). | I'm separated from my wife. |  |  |  |  | o mo van hayla |  |  |
 | Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá mé scartha ó m'fhear (céile). | I'm separated from my husband. |  |  |  |  | o mar kayla |  |  |
 | Irish on your own | 10 | Family1 |  | SENTENCE |  | Is baintreach mé. | I'm a widow/widower. |  |  |  |  | is bantrack (thoaty ck) meh |  |  |
+| Irish on your own | 10 | Family1 | Additional | SENTENCE |  | Tá páirtí agam | I have a partner |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional | SENTENCE |  | Níl mé pósta, ach tá páirtí agam | I am not married, but I have a partner |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional | SENTENCE |  | Seo mo pháirtí | This is my partner |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | QUESTION |  | An bhfuil tú pósta? | Are you married? |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | QUESTION |  | An bhfuil tusa pósta? | Are *you* married? |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | QUESTION |  | An bhfuil tu féin pósta? | Are you married yourself? |  |  |  |  |  |  |  |
@@ -2359,7 +2363,7 @@
 | Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá mé ag súil le páiste. | I'm expecting a child. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá mé ag súil le leanbh. | I'm expecting a baby. |  |  |  |  | ..ag sool le lanoo |  |  |
 | Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá mé torrach. | I'm pregnant. |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | WORD |  | ticéad (thieéad) | ticket |  |  |  |  | ticid(hicid) |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | ticéad | ticket |  |  |  |  | ticid(hicid) |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | cailín | girl |  |  |  |  | cal-een |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | cailíní | girls |  |  |  |  | cal-eeny |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | girseach | girl |  |  |  |  |  |  |  |
@@ -2374,19 +2378,19 @@
 | Irish on your own | 10 | Family1 |  | QUESTION |  | Cad é mar atá do chuid *páistíse*? | How are *your* children? |  | s |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | QUESTION |  | Tá siad go maith | They are good. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | mo | my |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | WORD |  | do | your |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | do | your |  | s |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | a | his |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | a | her |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | ár | our |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | WORD |  | bhur | your |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | bhur | your |  | p |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | a | their |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | mo mhac | my son |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | WORD |  | do mhac | your son |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | do mhac | your son |  | s |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | m'iníon | my daughter |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | a iníon | his daughter |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | bhur n-iníon | your daughter |  | p |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | WORD |  | do mháthair | your mother |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | WORD |  | d'athair | your father |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | do mháthair | your mother |  | s |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | d'athair | your father |  | s |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | a hathair | her father |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | ár n-athair | our father |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | a n-athair | their father |  |  |  |  |  |  |  |
@@ -2395,12 +2399,12 @@
 | Irish on your own | 10 | Family1 |  | WORD |  | ár bpáistí | our children |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | a bpáistí | their children |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | mo chlann | my clan/children |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | WORD |  | do chlann | your children |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | WORD |  | bhur gclann | your clan/children |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | do chlann | your children |  | s |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | bhur gclann | your clan/children |  | p |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD |  | mo mhacsa | *my* son |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | WORD |  | do mhacsa | *your* son |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | WORD |  | do mháthairse | *your* mother |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | WORD |  | d'iníonsa | *your* daughter |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | do mhacsa | *your* son |  | s |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | do mháthairse | *your* mother |  | s |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD |  | d'iníonsa | *your* daughter |  | s |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | QUESTION |  | Cad é mar atá bhur gclann? | How are your children? |  | p |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | QUESTION |  | Cad é mar atá a hathair? | How is her father? |  | p |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | QUESTION |  | Cá mhéad páiste atá agat? | How many children have you? |  |  |  |  | Ca vhead pawstee ataa agat? |  | Note that the singular form of the noun is used after Cá mhéad? |
@@ -2436,11 +2440,11 @@
 | Irish on your own | 10 | Family1 |  | WORD | NUM_SONS | mac amháin | one son |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD | NUM_SONS | beirt mhac | two sons |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD | NUM_SONS | triúr mac | three sons |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | WORD | NUM_SONS | iníon amháin | one daughter |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_DAUGHTERS | iníon amháin | one daughter |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD | NUM_DAUGHTERS | beirt iníonacha | two daughters |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD | NUM_DAUGHTERS | triúr iníonacha | three daughters |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD | NUM_DAUGHTERS | seisear iníonacha | six girls |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | WORD | NUM_BOYS | beirth bhuachaillí | two boys |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | WORD | NUM_BOYS | beirt bhuachaillí | two boys |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD | NUM_BOYS | ceathrar buachaillí | four boys |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD | NUM_GIRLS | beirt chailíní | two girls |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | WORD | NUM_GIRLS | ceathrar cailíní | four girls |  |  |  |  |  |  |  |
@@ -2460,13 +2464,13 @@
 | Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá mac amháin agam. | I have one son. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá beirt mhac agam. | I have two sons. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá triúr mac agam. | I have three sons. |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá iníon amháin agam. | I have one daughter. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_DAUGHTERS agam. | I have $NUM_DAUGHTERS. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá iníon amháin agam. | I have one daughter. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá beirt iníonacha agam. | I have two daughters. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá triúr iníonacha agam. | I have three daughters. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá seisear iníonacha agam. | I have six girls. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_BOYS agam. | I have $NUM_BOYS. |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá beirth bhuachaillí agam. | I have two boys. |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá beirt bhuachaillí agam. | I have two boys. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá ceathrar buachaillí agam. | I have four boys. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | TEMPLATE |  | Tá $NUM_GIRLS agam. | I have $NUM_GIRLS. |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 |  | DYNAMIC |  | Tá beirt chailíní agam. | I have two girls. |  |  |  |  |  |  |  |
