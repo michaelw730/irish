@@ -524,6 +524,8 @@ Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul ag rith	go r
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	amharc ar an teilifís	watch television							
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	éisteacht le ceol	listen to music							
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul ag snámh	go swimming							
+Irish on your own	5	Expressing Opinions		WORD		scannán	film							
+Irish on your own	5	Expressing Opinions		WORD		scannáin	films							
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul chuig scannáin	go to films							
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	a dhul chuig drámaí	go to plays							
 Irish on your own	5	Expressing Opinions		WORD	THINGS_TO_LIKE	imirt	play							
@@ -1200,17 +1202,17 @@ Irish on your own	11	Saying what you did		TEMPLATE		Cad é a rinne tú féin $RE
 Irish on your own	11	Saying what you did		TEMPLATE		Cad é a rinne sibh $RECENT_PERIODS?	What did you do $RECENT_PERIODS?		p			Ca jay rin too $RECENT_PERIODS?		
 Irish on your own	11	Saying what you did		VERB		imir	play							
 Irish on your own	11	Saying what you did		TEMPLATE		D'imir $PRONOUNS	$PRONOUNS played					Jimir $PRONOUNS		
-Irish on your own	11	Saying what you did		PHRASE		D'imir mé cispheil.	I played basketball.					Djimir meh kish-fell		
-Irish on your own	11	Saying what you did		PHRASE		D'imir mé leadóg	I played tennis.					Djimir meh la-dog		
+Irish on your own	11	Saying what you did		TEMPLATE		D'imir $PRONOUNS cispheil.	$PRONOUNS played basketball.					Djimir $PRONOUNS kish-fell		
+Irish on your own	11	Saying what you did		TEMPLATE		D'imir $PRONOUNS leadóg	$PRONOUNS played tennis.					Djimir $PRONOUNS la-dog		
 Irish on your own	11	Saying what you did		VERB		amharc	watch							
 Irish on your own	11	Saying what you did		TEMPLATE		D'amharc $PRONOUNS	$PRONOUNS watched					Dark $PRONOUNS		
-Irish on your own	11	Saying what you did		PHRASE		D'amharc mé ar fhíseáin.	I watched videos.					dark meh ar eesh-aan		
-Irish on your own	11	Saying what you did		PHRASE		D'amharc mé an teilifís.	I watched the television.					dark meh an telefish		
-Irish on your own	11	Saying what you did		PHRASE		D'amharc mé scannán.	I watched a film.					dark meh scannan		
+Irish on your own	11	Saying what you did		TEMPLATE		D'amharc $PRONOUNS ar fhíseáin.	$PRONOUNS watched videos.					dark $PRONOUNS ar eesh-aan		
+Irish on your own	11	Saying what you did		TEMPLATE		D'amharc $PRONOUNS an teilifís.	$PRONOUNS watched the television.					dark $PRONOUNS an telefish		
+Irish on your own	11	Saying what you did		TEMPLATE		D'amharc $PRONOUNS scannán.	$PRONOUNS watched a film.					dark $PRONOUNS scannan		
 Irish on your own	11	Saying what you did		VERB		éist	listen to							
 Irish on your own	11	Saying what you did		TEMPLATE		D'eist $PRONOUNS	$PRONOUNS listened							
-Irish on your own	11	Saying what you did		PHRASE		D'éist mé le dlúthdhioscaí.	I listened to CDs.					djeest meh le dluduskee		
-Irish on your own	11	Saying what you did		PHRASE		D'éist mé le ceol.	I listened to music.					djeest meh le cyol		
+Irish on your own	11	Saying what you did		TEMPLATE		D'éist $PRONOUNS le dlúthdhioscaí.	$PRONOUNS listened to CDs.					djeest $PRONOUNS le dluduskee		
+Irish on your own	11	Saying what you did		TEMPLATE		D'éist $PRONOUNS le ceol.	$PRONOUNS listened to music.					djeest $PRONOUNS le cyol		
 Irish on your own	11	Saying what you did		VERB		ól	drink							
 Irish on your own	11	Saying what you did		TEMPLATE		D'ól $PRONOUNS	$PRONOUNS drink					doll $PRONOUNS		
 Irish on your own	11	Saying what you did		PHRASE		D'ól mé cúpla deoch.	I had a few drinks.					dol meh coupla jaw		

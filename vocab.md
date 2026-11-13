@@ -845,6 +845,8 @@
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | amharc ar an teilifís | watch television |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | éisteacht le ceol | listen to music |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul ag snámh | go swimming |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | scannán | film |  |  |  |  |  |  |  |
+| Irish on your own | 5 | Expressing Opinions |  | WORD |  | scannáin | films |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul chuig scannáin | go to films |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | a dhul chuig drámaí | go to plays |  |  |  |  |  |  |  |
 | Irish on your own | 5 | Expressing Opinions |  | WORD | THINGS_TO_LIKE | imirt | play |  |  |  |  |  |  |  |
@@ -2659,8 +2661,22 @@
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir muid | we played |  |  |  |  | Jimir mwidge |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir sibh | you played |  |  |  |  | Jimir shiv |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir siad | they  played |  |  |  |  | Jimir Shee-id |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | D'imir mé cispheil. | I played basketball. |  |  |  |  | Djimir meh kish-fell |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | D'imir mé leadóg | I played tennis. |  |  |  |  | Djimir meh la-dog |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | D'imir $PRONOUNS cispheil. | $PRONOUNS played basketball. |  |  |  |  | Djimir $PRONOUNS kish-fell |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir mé cispheil. | I played basketball. |  |  |  |  | Djimir meh kish-fell |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir tú cispheil. | you played basketball. |  |  |  |  | Djimir too kish-fell |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir sé cispheil. | he played basketball. |  |  |  |  | Djimir shay kish-fell |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir sí cispheil. | she played basketball. |  |  |  |  | Djimir shee kish-fell |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir muid cispheil. | we played basketball. |  |  |  |  | Djimir mwidge kish-fell |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir sibh cispheil. | you played basketball. |  |  |  |  | Djimir shiv kish-fell |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir siad cispheil. | they  played basketball. |  |  |  |  | Djimir Shee-id kish-fell |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | D'imir $PRONOUNS leadóg | $PRONOUNS played tennis. |  |  |  |  | Djimir $PRONOUNS la-dog |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir mé leadóg | I played tennis. |  |  |  |  | Djimir meh la-dog |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir tú leadóg | you played tennis. |  |  |  |  | Djimir too la-dog |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir sé leadóg | he played tennis. |  |  |  |  | Djimir shay la-dog |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir sí leadóg | she played tennis. |  |  |  |  | Djimir shee la-dog |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir muid leadóg | we played tennis. |  |  |  |  | Djimir mwidge la-dog |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir sibh leadóg | you played tennis. |  |  |  |  | Djimir shiv la-dog |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'imir siad leadóg | they  played tennis. |  |  |  |  | Djimir Shee-id la-dog |  |  |
 | Irish on your own | 11 | Saying what you did |  | VERB |  | amharc | watch |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | D'amharc $PRONOUNS | $PRONOUNS watched |  |  |  |  | Dark $PRONOUNS |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc mé | I watched |  |  |  |  | Dark meh |  |  |
@@ -2670,9 +2686,30 @@
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc muid | we watched |  |  |  |  | Dark mwidge |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc sibh | you watched |  |  |  |  | Dark shiv |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc siad | they  watched |  |  |  |  | Dark Shee-id |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | D'amharc mé ar fhíseáin. | I watched videos. |  |  |  |  | dark meh ar eesh-aan |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | D'amharc mé an teilifís. | I watched the television. |  |  |  |  | dark meh an telefish |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | D'amharc mé scannán. | I watched a film. |  |  |  |  | dark meh scannan |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | D'amharc $PRONOUNS ar fhíseáin. | $PRONOUNS watched videos. |  |  |  |  | dark $PRONOUNS ar eesh-aan |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc mé ar fhíseáin. | I watched videos. |  |  |  |  | dark meh ar eesh-aan |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc tú ar fhíseáin. | you watched videos. |  |  |  |  | dark too ar eesh-aan |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc sé ar fhíseáin. | he watched videos. |  |  |  |  | dark shay ar eesh-aan |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc sí ar fhíseáin. | she watched videos. |  |  |  |  | dark shee ar eesh-aan |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc muid ar fhíseáin. | we watched videos. |  |  |  |  | dark mwidge ar eesh-aan |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc sibh ar fhíseáin. | you watched videos. |  |  |  |  | dark shiv ar eesh-aan |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc siad ar fhíseáin. | they  watched videos. |  |  |  |  | dark Shee-id ar eesh-aan |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | D'amharc $PRONOUNS an teilifís. | $PRONOUNS watched the television. |  |  |  |  | dark $PRONOUNS an telefish |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc mé an teilifís. | I watched the television. |  |  |  |  | dark meh an telefish |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc tú an teilifís. | you watched the television. |  |  |  |  | dark too an telefish |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc sé an teilifís. | he watched the television. |  |  |  |  | dark shay an telefish |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc sí an teilifís. | she watched the television. |  |  |  |  | dark shee an telefish |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc muid an teilifís. | we watched the television. |  |  |  |  | dark mwidge an telefish |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc sibh an teilifís. | you watched the television. |  |  |  |  | dark shiv an telefish |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc siad an teilifís. | they  watched the television. |  |  |  |  | dark Shee-id an telefish |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | D'amharc $PRONOUNS scannán. | $PRONOUNS watched a film. |  |  |  |  | dark $PRONOUNS scannan |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc mé scannán. | I watched a film. |  |  |  |  | dark meh scannan |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc tú scannán. | you watched a film. |  |  |  |  | dark too scannan |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc sé scannán. | he watched a film. |  |  |  |  | dark shay scannan |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc sí scannán. | she watched a film. |  |  |  |  | dark shee scannan |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc muid scannán. | we watched a film. |  |  |  |  | dark mwidge scannan |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc sibh scannán. | you watched a film. |  |  |  |  | dark shiv scannan |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'amharc siad scannán. | they  watched a film. |  |  |  |  | dark Shee-id scannan |  |  |
 | Irish on your own | 11 | Saying what you did |  | VERB |  | éist | listen to |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | D'eist $PRONOUNS | $PRONOUNS listened |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'eist mé | I listened |  |  |  |  |  |  |  |
@@ -2682,8 +2719,22 @@
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'eist muid | we listened |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'eist sibh | you listened |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'eist siad | they  listened |  |  |  |  |  |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | D'éist mé le dlúthdhioscaí. | I listened to CDs. |  |  |  |  | djeest meh le dluduskee |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | D'éist mé le ceol. | I listened to music. |  |  |  |  | djeest meh le cyol |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | D'éist $PRONOUNS le dlúthdhioscaí. | $PRONOUNS listened to CDs. |  |  |  |  | djeest $PRONOUNS le dluduskee |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'éist mé le dlúthdhioscaí. | I listened to CDs. |  |  |  |  | djeest meh le dluduskee |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'éist tú le dlúthdhioscaí. | you listened to CDs. |  |  |  |  | djeest too le dluduskee |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'éist sé le dlúthdhioscaí. | he listened to CDs. |  |  |  |  | djeest shay le dluduskee |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'éist sí le dlúthdhioscaí. | she listened to CDs. |  |  |  |  | djeest shee le dluduskee |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'éist muid le dlúthdhioscaí. | we listened to CDs. |  |  |  |  | djeest mwidge le dluduskee |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'éist sibh le dlúthdhioscaí. | you listened to CDs. |  |  |  |  | djeest shiv le dluduskee |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'éist siad le dlúthdhioscaí. | they  listened to CDs. |  |  |  |  | djeest Shee-id le dluduskee |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | D'éist $PRONOUNS le ceol. | $PRONOUNS listened to music. |  |  |  |  | djeest $PRONOUNS le cyol |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'éist mé le ceol. | I listened to music. |  |  |  |  | djeest meh le cyol |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'éist tú le ceol. | you listened to music. |  |  |  |  | djeest too le cyol |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'éist sé le ceol. | he listened to music. |  |  |  |  | djeest shay le cyol |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'éist sí le ceol. | she listened to music. |  |  |  |  | djeest shee le cyol |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'éist muid le ceol. | we listened to music. |  |  |  |  | djeest mwidge le cyol |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'éist sibh le ceol. | you listened to music. |  |  |  |  | djeest shiv le cyol |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'éist siad le ceol. | they  listened to music. |  |  |  |  | djeest Shee-id le cyol |  |  |
 | Irish on your own | 11 | Saying what you did |  | VERB |  | ól | drink |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | D'ól $PRONOUNS | $PRONOUNS drink |  |  |  |  | doll $PRONOUNS |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D'ól mé | I drink |  |  |  |  | doll meh |  |  |
