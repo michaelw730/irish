@@ -2555,7 +2555,7 @@
 | Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá Aodh ar an mheánscoil. | Aodh is at secondary school. |  |  |  |  | ...vanskull??? |  |  |
 | Irish on your own | 10 | Family1 |  | SENTENCE |  | Tá Nóra ar an ollscoil. | Nóra is at university. |  |  |  |  | ..ol-skull |  |  |
 | Irish on your own | 10 | Family1 | Additional | WORD |  | bun | bottom |  |  |  |  |  |  |  |
-| Irish on your own | 10 | Family1 | Additional | WORD |  | meán | méanmide |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional | WORD |  | meán | medium |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 | Additional | WORD |  | ard | high |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 | Additional | WORD |  | rang | class |  |  |  |  |  |  | or primary |
 | Irish on your own | 10 | Family1 | Additional | WORD |  | bunrang | bottom class |  |  |  |  |  |  |  |
@@ -2563,6 +2563,7 @@
 | Irish on your own | 10 | Family1 | Additional | WORD |  | ardrang | high class |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 | Additional | PHRASE |  | rang a sé | class (or primary) six/sixth class |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 | Additional | PHRASE |  | clár a sé | programme six |  |  |  |  |  |  |  |
+| Irish on your own | 10 | Family1 | Additional | WORD |  | scéal | story |  |  |  |  | Skee-al |  |  |
 | Irish on your own | 10 | Family1 | Additional | PHRASE |  | Is scéal fada é | it's a long story |  |  |  |  |  |  |  |
 | Irish on your own | 10 | Family1 | Additional | PHRASE |  | Tá an t-am agam | I have the time |  |  |  |  |  |  |  |
 
