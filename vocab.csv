@@ -1219,7 +1219,7 @@ Irish on your own	11	Saying what you did		TEMPLATE		D'ól $PRONOUNS cúpla deoch
 Irish on your own	11	Saying what you did		TEMPLATE		D'ól $PRONOUNS cúpla pionta.	$PRONOUNS had a few pints.					dol $PRONOUNS coupla pinta		
 Irish on your own	11	Saying what you did		TEMPLATE		D’ól $PRONOUNS dhá phionta aréir	$PRONOUNS drank two pints last night.							
 Irish on your own	11	Saying what you did		PHRASE		Caithfidh mé labhairt leat inniu	I need to see you today					chiffy me lorch leat innyou		
-Irish on your own	11	Saying what you did		VERB		suigh	sit					shees		
+Irish on your own	11	Saying what you did		VERB		suigh	sit					see		
 Irish on your own	11	Saying what you did		PHRASE		suigh síos	sit down					see shees		
 Irish on your own	11	Saying what you did		TEMPLATE		shuigh $PRONOUNS	$PRONOUNS sat					hee $PRONOUNS		
 Irish on your own	11	Saying what you did		TEMPLATE		shuigh $PRONOUNS síos	$PRONOUNS sat down					hee $PRONOUNS shees		
@@ -1244,21 +1244,21 @@ Irish on your own	11	Saying what you did		TEMPLATE		chonaic mé Brian inné	I sa
 Irish on your own	11	Saying what you did		TEMPLATE		chonaic mé Síle $DAYS_OF_WEEK	I saw Sheila on $DAYS_OF_WEEK					honic mé Sheila $DAYS_OF_WEEK		(throaty)
 Irish on your own	11	Saying what you did		TEMPLATE		thug $PRONOUNS	$PRONOUNS gave					hug $PRONOUNS		
 Irish on your own	11	Saying what you did		TEMPLATE		chuaigh $PRONOUNS	$PRONOUNS went					who-e $PRONOUNS		
-Irish on your own	11	Saying what you did		PHRASE		Chuaigh mé ag snámh.	I went swimming.					wheh meh a sna-o		
-Irish on your own	11	Saying what you did		PHRASE		Chuaigh mé ag siúl.	I went walking.					wheh meh a shool		
-Irish on your own	11	Saying what you did		PHRASE		Chuaigh mé chuig bainis.	I went to a wedding.					wheh meh a bawnish		
-Irish on your own	11	Saying what you did		PHRASE		Chuaigh muid ag rothaíocht.	We went cycling.					wheh mwidgh ag ro-he-ocht (ro-he-art>>)		
-Irish on your own	11	Saying what you did		PHRASE		Chuaigh mé ag iascaireacht	I went fishing							
+Irish on your own	11	Saying what you did		TEMPLATE		Chuaigh $PRONOUNS ag snámh.	$PRONOUNS went swimming.					wheh $PRONOUNS a sna-o		
+Irish on your own	11	Saying what you did		TEMPLATE		Chuaigh $PRONOUNS ag siúl.	$PRONOUNS went walking.					wheh $PRONOUNS a shool		
+Irish on your own	11	Saying what you did		TEMPLATE		Chuaigh $PRONOUNS chuig bainis.	$PRONOUNS went to a wedding.					wheh $PRONOUNS a bawnish		
+Irish on your own	11	Saying what you did		TEMPLATE		Chuaigh $PRONOUNS ag rothaíocht.	$PRONOUNS went cycling.					wheh $PRONOUNS ag ro-he-ocht (ro-he-art)		
+Irish on your own	11	Saying what you did		TEMPLATE		Chuaigh $PRONOUNS ag iascaireacht	$PRONOUNS went fishing							
 Irish on your own	11	Saying what you did		PHRASE		Chuaigh mé féin agus Sinead ag rothaíocht.	Myself and Sinead went cycling.							
-Irish on your own	11	Saying what you did		PHRASE		Chuaigh mé go Béal Feirste ag siopadóireacht.	I went to Belfast shopping.							
-Irish on your own	11	Saying what you did		PHRASE		Chuaigh mé go dtí an siopa	I went to the shop							
-Irish on your own	11	Saying what you did		PHRASE		Chuaigh mé chuig cluiche peile	I went to a football match					...clooha pella??		
-Irish on your own	11	Saying what you did		PHRASE		Chuaigh mé chuig an dochtúir.	I went to the doctor.							
-Irish on your own	11	Saying what you did		PHRASE		Chuaigh mé chuig dráma.	I went to a play.							
-Irish on your own	11	Saying what you did		PHRASE		Chuaigh sí chuig scannán.	She went to a film.							
-Irish on your own	11	Saying what you did		PHRASE		Chuaigh mé go dtí an leabharlann.	I went to the library							
-Irish on your own	11	Saying what you did		PHRASE		chuaigh mé go dtí an t-aerfort	i went to the airport							
-Irish on your own	11	Saying what you did		PHRASE		Chuaigh mé ag siopadóireacht ar maidin inné.	I went shopping yesterday morning							
+Irish on your own	11	Saying what you did		TEMPLATE		Chuaigh $PRONOUNS go Béal Feirste ag siopadóireacht.	$PRONOUNS went to Belfast shopping.							
+Irish on your own	11	Saying what you did		TEMPLATE		Chuaigh $PRONOUNS go dtí an siopa	$PRONOUNSwent to the shop							
+Irish on your own	11	Saying what you did		TEMPLATE		Chuaigh $PRONOUNS chuig cluiche peile	$PRONOUNS went to a football match					...clooha pella??		
+Irish on your own	11	Saying what you did		TEMPLATE		Chuaigh $PRONOUNS chuig an dochtúir.	$PRONOUNS went to the doctor.							
+Irish on your own	11	Saying what you did		TEMPLATE		Chuaigh $PRONOUNS chuig dráma.	$PRONOUNS went to a play.							
+Irish on your own	11	Saying what you did		TEMPLATE		Chuaigh $PRONOUNS chuig scannán.	$PRONOUNS went to a film.							
+Irish on your own	11	Saying what you did		TEMPLATE		Chuaigh $PRONOUNS go dtí an leabharlann.	$PRONOUNS went to the library							
+Irish on your own	11	Saying what you did		TEMPLATE		Chuaigh $PRONOUNS go dtí an t-aerfort	$PRONOUNS went to the airport							
+Irish on your own	11	Saying what you did		TEMPLATE		Chuaigh $PRONOUNS ag siopadóireacht ar maidin inné.	$PRONOUNS went shopping yesterday morning							
 Irish on your own	11	Saying what you did		TEMPLATE		rug $PRONOUNS ar	$PRONOUNS caught					rug $PRONOUNS ar		
 Irish on your own	11	Saying what you did		TEMPLATE		Rug $PRONOUNS liathróid	$PRONOUNS caught a ball							
 Irish on your own	11	Saying what you did		TEMPLATE		tháinig $PRONOUNS	$PRONOUNS came					hanig $PRONOUNS		

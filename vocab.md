@@ -2769,7 +2769,7 @@
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D’ól sibh dhá phionta aréir | you drank two pints last night. |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | D’ól siad dhá phionta aréir | they  drank two pints last night. |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Caithfidh mé labhairt leat inniu | I need to see you today |  |  |  |  | chiffy me lorch leat innyou |  |  |
-| Irish on your own | 11 | Saying what you did |  | VERB |  | suigh | sit |  |  |  |  | shees |  |  |
+| Irish on your own | 11 | Saying what you did |  | VERB |  | suigh | sit |  |  |  |  | see |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | suigh síos | sit down |  |  |  |  | see shees |  |  |
 | Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | shuigh $PRONOUNS | $PRONOUNS sat |  |  |  |  | hee $PRONOUNS |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | shuigh mé | I sat |  |  |  |  | hee meh |  |  |
@@ -2935,21 +2935,119 @@
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chuaigh muid | we went |  |  |  |  | who-e mwidge |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chuaigh sibh | you went |  |  |  |  | who-e shiv |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | chuaigh siad | they  went |  |  |  |  | who-e Shee-id |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh mé ag snámh. | I went swimming. |  |  |  |  | wheh meh a sna-o |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh mé ag siúl. | I went walking. |  |  |  |  | wheh meh a shool |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh mé chuig bainis. | I went to a wedding. |  |  |  |  | wheh meh a bawnish |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh muid ag rothaíocht. | We went cycling. |  |  |  |  | wheh mwidgh ag ro-he-ocht (ro-he-art>>) |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh mé ag iascaireacht | I went fishing |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Chuaigh $PRONOUNS ag snámh. | $PRONOUNS went swimming. |  |  |  |  | wheh $PRONOUNS a sna-o |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh mé ag snámh. | I went swimming. |  |  |  |  | wheh meh a sna-o |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh tú ag snámh. | you went swimming. |  |  |  |  | wheh too a sna-o |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sé ag snámh. | he went swimming. |  |  |  |  | wheh shay a sna-o |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sí ag snámh. | she went swimming. |  |  |  |  | wheh shee a sna-o |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh muid ag snámh. | we went swimming. |  |  |  |  | wheh mwidge a sna-o |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sibh ag snámh. | you went swimming. |  |  |  |  | wheh shiv a sna-o |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh siad ag snámh. | they  went swimming. |  |  |  |  | wheh Shee-id a sna-o |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Chuaigh $PRONOUNS ag siúl. | $PRONOUNS went walking. |  |  |  |  | wheh $PRONOUNS a shool |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh mé ag siúl. | I went walking. |  |  |  |  | wheh meh a shool |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh tú ag siúl. | you went walking. |  |  |  |  | wheh too a shool |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sé ag siúl. | he went walking. |  |  |  |  | wheh shay a shool |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sí ag siúl. | she went walking. |  |  |  |  | wheh shee a shool |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh muid ag siúl. | we went walking. |  |  |  |  | wheh mwidge a shool |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sibh ag siúl. | you went walking. |  |  |  |  | wheh shiv a shool |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh siad ag siúl. | they  went walking. |  |  |  |  | wheh Shee-id a shool |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Chuaigh $PRONOUNS chuig bainis. | $PRONOUNS went to a wedding. |  |  |  |  | wheh $PRONOUNS a bawnish |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh mé chuig bainis. | I went to a wedding. |  |  |  |  | wheh meh a bawnish |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh tú chuig bainis. | you went to a wedding. |  |  |  |  | wheh too a bawnish |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sé chuig bainis. | he went to a wedding. |  |  |  |  | wheh shay a bawnish |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sí chuig bainis. | she went to a wedding. |  |  |  |  | wheh shee a bawnish |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh muid chuig bainis. | we went to a wedding. |  |  |  |  | wheh mwidge a bawnish |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sibh chuig bainis. | you went to a wedding. |  |  |  |  | wheh shiv a bawnish |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh siad chuig bainis. | they  went to a wedding. |  |  |  |  | wheh Shee-id a bawnish |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Chuaigh $PRONOUNS ag rothaíocht. | $PRONOUNS went cycling. |  |  |  |  | wheh $PRONOUNS ag ro-he-ocht (ro-he-art) |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh mé ag rothaíocht. | I went cycling. |  |  |  |  | wheh meh ag ro-he-ocht (ro-he-art) |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh tú ag rothaíocht. | you went cycling. |  |  |  |  | wheh too ag ro-he-ocht (ro-he-art) |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sé ag rothaíocht. | he went cycling. |  |  |  |  | wheh shay ag ro-he-ocht (ro-he-art) |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sí ag rothaíocht. | she went cycling. |  |  |  |  | wheh shee ag ro-he-ocht (ro-he-art) |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh muid ag rothaíocht. | we went cycling. |  |  |  |  | wheh mwidge ag ro-he-ocht (ro-he-art) |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sibh ag rothaíocht. | you went cycling. |  |  |  |  | wheh shiv ag ro-he-ocht (ro-he-art) |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh siad ag rothaíocht. | they  went cycling. |  |  |  |  | wheh Shee-id ag ro-he-ocht (ro-he-art) |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Chuaigh $PRONOUNS ag iascaireacht | $PRONOUNS went fishing |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh mé ag iascaireacht | I went fishing |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh tú ag iascaireacht | you went fishing |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sé ag iascaireacht | he went fishing |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sí ag iascaireacht | she went fishing |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh muid ag iascaireacht | we went fishing |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sibh ag iascaireacht | you went fishing |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh siad ag iascaireacht | they  went fishing |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh mé féin agus Sinead ag rothaíocht. | Myself and Sinead went cycling. |  |  |  |  |  |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh mé go Béal Feirste ag siopadóireacht. | I went to Belfast shopping. |  |  |  |  |  |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh mé go dtí an siopa | I went to the shop |  |  |  |  |  |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh mé chuig cluiche peile | I went to a football match |  |  |  |  | ...clooha pella?? |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh mé chuig an dochtúir. | I went to the doctor. |  |  |  |  |  |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh mé chuig dráma. | I went to a play. |  |  |  |  |  |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh sí chuig scannán. | She went to a film. |  |  |  |  |  |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh mé go dtí an leabharlann. | I went to the library |  |  |  |  |  |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | chuaigh mé go dtí an t-aerfort | i went to the airport |  |  |  |  |  |  |  |
-| Irish on your own | 11 | Saying what you did |  | PHRASE |  | Chuaigh mé ag siopadóireacht ar maidin inné. | I went shopping yesterday morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Chuaigh $PRONOUNS go Béal Feirste ag siopadóireacht. | $PRONOUNS went to Belfast shopping. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh mé go Béal Feirste ag siopadóireacht. | I went to Belfast shopping. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh tú go Béal Feirste ag siopadóireacht. | you went to Belfast shopping. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sé go Béal Feirste ag siopadóireacht. | he went to Belfast shopping. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sí go Béal Feirste ag siopadóireacht. | she went to Belfast shopping. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh muid go Béal Feirste ag siopadóireacht. | we went to Belfast shopping. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sibh go Béal Feirste ag siopadóireacht. | you went to Belfast shopping. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh siad go Béal Feirste ag siopadóireacht. | they  went to Belfast shopping. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Chuaigh $PRONOUNS go dtí an siopa | $PRONOUNSwent to the shop |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh mé go dtí an siopa | Iwent to the shop |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh tú go dtí an siopa | youwent to the shop |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sé go dtí an siopa | hewent to the shop |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sí go dtí an siopa | shewent to the shop |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh muid go dtí an siopa | wewent to the shop |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sibh go dtí an siopa | youwent to the shop |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh siad go dtí an siopa | they went to the shop |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Chuaigh $PRONOUNS chuig cluiche peile | $PRONOUNS went to a football match |  |  |  |  | ...clooha pella?? |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh mé chuig cluiche peile | I went to a football match |  |  |  |  | ...clooha pella?? |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh tú chuig cluiche peile | you went to a football match |  |  |  |  | ...clooha pella?? |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sé chuig cluiche peile | he went to a football match |  |  |  |  | ...clooha pella?? |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sí chuig cluiche peile | she went to a football match |  |  |  |  | ...clooha pella?? |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh muid chuig cluiche peile | we went to a football match |  |  |  |  | ...clooha pella?? |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sibh chuig cluiche peile | you went to a football match |  |  |  |  | ...clooha pella?? |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh siad chuig cluiche peile | they  went to a football match |  |  |  |  | ...clooha pella?? |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Chuaigh $PRONOUNS chuig an dochtúir. | $PRONOUNS went to the doctor. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh mé chuig an dochtúir. | I went to the doctor. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh tú chuig an dochtúir. | you went to the doctor. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sé chuig an dochtúir. | he went to the doctor. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sí chuig an dochtúir. | she went to the doctor. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh muid chuig an dochtúir. | we went to the doctor. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sibh chuig an dochtúir. | you went to the doctor. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh siad chuig an dochtúir. | they  went to the doctor. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Chuaigh $PRONOUNS chuig dráma. | $PRONOUNS went to a play. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh mé chuig dráma. | I went to a play. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh tú chuig dráma. | you went to a play. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sé chuig dráma. | he went to a play. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sí chuig dráma. | she went to a play. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh muid chuig dráma. | we went to a play. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sibh chuig dráma. | you went to a play. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh siad chuig dráma. | they  went to a play. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Chuaigh $PRONOUNS chuig scannán. | $PRONOUNS went to a film. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh mé chuig scannán. | I went to a film. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh tú chuig scannán. | you went to a film. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sé chuig scannán. | he went to a film. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sí chuig scannán. | she went to a film. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh muid chuig scannán. | we went to a film. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sibh chuig scannán. | you went to a film. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh siad chuig scannán. | they  went to a film. |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Chuaigh $PRONOUNS go dtí an leabharlann. | $PRONOUNS went to the library |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh mé go dtí an leabharlann. | I went to the library |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh tú go dtí an leabharlann. | you went to the library |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sé go dtí an leabharlann. | he went to the library |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sí go dtí an leabharlann. | she went to the library |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh muid go dtí an leabharlann. | we went to the library |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sibh go dtí an leabharlann. | you went to the library |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh siad go dtí an leabharlann. | they  went to the library |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Chuaigh $PRONOUNS go dtí an t-aerfort | $PRONOUNS went to the airport |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh mé go dtí an t-aerfort | I went to the airport |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh tú go dtí an t-aerfort | you went to the airport |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sé go dtí an t-aerfort | he went to the airport |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sí go dtí an t-aerfort | she went to the airport |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh muid go dtí an t-aerfort | we went to the airport |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sibh go dtí an t-aerfort | you went to the airport |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh siad go dtí an t-aerfort | they  went to the airport |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | Chuaigh $PRONOUNS ag siopadóireacht ar maidin inné. | $PRONOUNS went shopping yesterday morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh mé ag siopadóireacht ar maidin inné. | I went shopping yesterday morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh tú ag siopadóireacht ar maidin inné. | you went shopping yesterday morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sé ag siopadóireacht ar maidin inné. | he went shopping yesterday morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sí ag siopadóireacht ar maidin inné. | she went shopping yesterday morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh muid ag siopadóireacht ar maidin inné. | we went shopping yesterday morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh sibh ag siopadóireacht ar maidin inné. | you went shopping yesterday morning |  |  |  |  |  |  |  |
+| Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | Chuaigh siad ag siopadóireacht ar maidin inné. | they  went shopping yesterday morning |  |  |  |  |  |  |  |
 | Irish on your own | 11 | Saying what you did |  | TEMPLATE |  | rug $PRONOUNS ar | $PRONOUNS caught |  |  |  |  | rug $PRONOUNS ar |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | rug mé ar | I caught |  |  |  |  | rug meh ar |  |  |
 | Irish on your own | 11 | Saying what you did |  | DYNAMIC |  | rug tú ar | you caught |  |  |  |  | rug too ar |  |  |
