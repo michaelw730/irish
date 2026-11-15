@@ -41,13 +41,13 @@
 | Irish on your own | 1 | Meeting People |  | WORD | PRONOUNS | muid | we |  |  |  |  | mwidge |  |  |
 | Irish on your own | 1 | Meeting People |  | WORD | PRONOUNS | sibh | you |  | p |  |  | shiv |  |  |
 | Irish on your own | 1 | Meeting People |  | WORD | PRONOUNS | siad | they  |  |  |  |  | Shee-id |  |  |
-| Irish on your own | 1 | Meeting People |  | PHRASE |  | Tá mé | I am |  |  |  |  |  |  |  |
-| Irish on your own | 1 | Meeting People |  | PHRASE |  | Tá tú | You are  |  | s |  |  |  |  |  |
-| Irish on your own | 1 | Meeting People |  | PHRASE |  | Tá sé | He/it is |  |  |  |  |  |  |  |
-| Irish on your own | 1 | Meeting People |  | PHRASE |  | Tá sí | she is |  |  |  |  |  |  |  |
-| Irish on your own | 1 | Meeting People |  | PHRASE |  | Tá muid | We are |  |  |  |  |  |  |  |
-| Irish on your own | 1 | Meeting People |  | PHRASE |  | Tá sibh | You are  |  | p |  |  |  |  |  |
-| Irish on your own | 1 | Meeting People |  | PHRASE |  | Tá siad | They are |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | PRESENT_TO_BE | Tá mé | I am |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | PRESENT_TO_BE | Tá tú | You are  |  | s |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | PRESENT_TO_BE | Tá sé | He/it is |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | PRESENT_TO_BE | Tá sí | she is |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | PRESENT_TO_BE | Tá muid | We are |  |  |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | PRESENT_TO_BE | Tá sibh | You are  |  | p |  |  |  |  |  |
+| Irish on your own | 1 | Meeting People |  | PHRASE | PRESENT_TO_BE | Tá siad | They are |  |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | TEMPLATE |  | Tá mé $HOW_I_AM. | I am $HOW_I_AM | Repeat for other pronouns/person's name |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | DYNAMIC |  | Tá mé go maith. | I am well | Repeat for other pronouns/person's name |  |  |  |  |  |  |
 | Irish on your own | 1 | Meeting People |  | DYNAMIC |  | Tá mé go maith, go raibh maith agat. | I am well, thank you | Repeat for other pronouns/person's name |  |  |  |  |  |  |
@@ -3172,15 +3172,45 @@
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh tú imeacht anois? | You have to go now? |  |  |  | I have to leave now |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Éist, caithfidh mé imeacht. | Listen, I have to go. |  |  |  | Listen, I have to leave |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh mé ag dul abhaile. | I have to go home. |  |  |  | I have to go home |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag imeacht. | I am going. |  |  |  | I am leaving |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul abhaile. | I am going home. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chun an bhaile. | I am going home. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chuig scannán | I am going to the film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | $PRESENT_TO_BE ag imeacht. | $PRESENT_TO_BE going. |  |  |  | I am leaving |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag imeacht. | I am going. |  |  |  | I am leaving |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá tú ag imeacht. | You are  going. |  |  |  | I am leaving |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sé ag imeacht. | He/it is going. |  |  |  | I am leaving |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sí ag imeacht. | she is going. |  |  |  | I am leaving |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá muid ag imeacht. | We are going. |  |  |  | I am leaving |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sibh ag imeacht. | You are  going. |  |  |  | I am leaving |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá siad ag imeacht. | They are going. |  |  |  | I am leaving |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | $PRESENT_TO_BE ag dul abhaile. | $PRESENT_TO_BE going home. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul abhaile. | I am going home. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá tú ag dul abhaile. | You are  going home. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sé ag dul abhaile. | He/it is going home. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sí ag dul abhaile. | she is going home. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá muid ag dul abhaile. | We are going home. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sibh ag dul abhaile. | You are  going home. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá siad ag dul abhaile. | They are going home. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | $PRESENT_TO_BE ag dul abhaile anois. | $PRESENT_TO_BE going home now. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul abhaile anois. | I am going home now. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá tú ag dul abhaile anois. | You are  going home now. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sé ag dul abhaile anois. | He/it is going home now. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sí ag dul abhaile anois. | she is going home now. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá muid ag dul abhaile anois. | We are going home now. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sibh ag dul abhaile anois. | You are  going home now. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá siad ag dul abhaile anois. | They are going home now. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chun an bhaile. | $PRESENT_TO_BE going home. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | $PRESENT_TO_BE ag dul chuig an scannán | $PRESENT_TO_BE going to the film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig an scannán | I am going to the film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá tú ag dul chuig an scannán | You are  going to the film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sé ag dul chuig an scannán | He/it is going to the film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sí ag dul chuig an scannán | she is going to the film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá muid ag dul chuig an scannán | We are going to the film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sibh ag dul chuig an scannán | You are  going to the film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá siad ag dul chuig an scannán | They are going to the film. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | go leor | enough |  |  |  | enough |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Maith go leor. | All right. |  |  |  | good enough |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Ceart go leor. | All right. |  |  |  | right enough |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Is mór an trua sin. | That's a pity. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Cheana féin! | Already! |  |  |  |  | hana fin |  |  |
+| Irish on your own | 12 | Taking your leave |  | WORD |  | luath | early |  |  |  |  | Loo-a |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Níl sé ach luath. | It's only early. |  |  |  | it's not but early |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Cad chuige? | Why? |  |  |  | To what purpose? | cad teeya?? |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá brón orm ach ... | I am sorry but ... |  |  |  |  |  |  |  |
@@ -3189,8 +3219,14 @@
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé an-tuirseach. | I'm very tired. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá sé mall. | It's late. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá sé an-mhall. | It's very late. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé mall. | I'm late. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá muid mall. | We’re late. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | $PRESENT_TO_BE mall. | $PRESENT_TO_BE late. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé mall. | I am late. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá tú mall. | You are  late. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sé mall. | He/it is late. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sí mall. | she is late. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá muid mall. | We are late. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sibh mall. | You are  late. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá siad mall. | They are late. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Dean deifir | Hurry up |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Dean deifir. Tá muid mall | Hurry up. We're late |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé mall don dráma. | I'm late for the play. |  |  |  |  |  |  |  |
@@ -3246,7 +3282,7 @@
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Ní thig liom. | I can't. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | WORD |  | saoire | holiday |  |  |  |  | seera |  |  |
 | Irish on your own | 12 | Taking your leave |  | WORD |  | laethanta saoire | holiday |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag súil ar saoire. | I'm going on holiday |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul ar saoire. | I'm going on holiday |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | WORD |  | lá | day |  |  | m |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | WORD |  | seachtain | week |  |  | f |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | WORD |  | coicís | fortnight |  |  | f |  | Coc-ish |  |  |
@@ -3258,6 +3294,7 @@
 | Irish on your own | 12 | Taking your leave |  | WORD |  | an mhí  | month |  |  | f |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | WORD |  | an bhliain | the year |  |  | f |  |  |  |  |
 | Irish on your own | 13 | Taking your leave |  | WORD |  | ar an tseachtain seo chugainn | next week |  |  |  | this week towards us |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul ar saoire ar an tseachtain seo chugainn | I'm going on holiday next week |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé tú. | I'll see you |  | s |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé sibh. | I'll see you |  | p |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé ar ball tú. | I'll see you in a while/I'll see you later. |  |  |  |  | Chiffy meh ar bwel to |  |  |
@@ -3270,9 +3307,9 @@
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé ar maidin tú. | I'll see you in the morning. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann cúpla lá tú. | I'll see you in a few days' time. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé ar an tseachtain seo chugainn tú. | I'll see you next week. |  |  |  | I will see you on this week coming towards us |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé an mhí seo chugainn tú. | I'll see you next month. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann seachtaine tú. | I'll see you in a week's time. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann coicíse tú. | I'll see you in a fortnight's time. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé an mhí seo chugainn tú. | I'll see you next month. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Chífidh mé i gceann míosa tú. | I'll see you in a month's time. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | Chífidh mé $DAYS_OF_WEEK tú. | I'll see you $DAYS_OF_WEEK. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Chífidh mé Dé Luain tú. | I'll see you Monday. |  |  |  |  |  |  |  |
