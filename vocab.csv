@@ -1323,13 +1323,13 @@ Irish on your own	11	Saying what you did	Additional	PHRASE		Tá Blas ann	Blas is
 Irish on your own	11	Saying what you did	Additional	PHRASE		Bhí Blas ann inné	Blas was on yesterday					vee Blas on innyeah		
 Irish on your own	11	Saying what you did	Additional	PHRASE		Beidh Blas ann amarach	Blas will be on tomorrow					bay Blas on amara		
 Irish on your own	12	Taking your leave		PHRASE		AG FÁGÁIL COMHLUADAIR	TAKING YOUR LEAVE					Ag faygal cool-wah-der		
-Irish on your own	12	Taking your leave		PHRASE		Caithfidh mé imeacht.	I have to go.				I have to leave	Ka-heh meh imackt/imart		
-Irish on your own	12	Taking your leave		PHRASE		Caithfidh mé imeacht arís.	I have to go again.				I have to leave again			
-Irish on your own	12	Taking your leave		PHRASE		Caithfidh mé imeacht anois.	I have to go now.				I have to leave now			
-Irish on your own	12	Taking your leave		PHRASE		Caithfidh tú imeacht anois?	You have to go now?				I have to leave now			
+Irish on your own	12	Taking your leave		TEMPLATE		Caithfidh $PRONOUNS imeacht.	$PRONOUNS have to go.				$PRONOUNS have to leave	Ka-heh meh imackt/imart		
+Irish on your own	12	Taking your leave		TEMPLATE		Caithfidh $PRONOUNS imeacht arís.	$PRONOUNS have to go again.				$PRONOUNS have to leave again			
+Irish on your own	12	Taking your leave		TEMPLATE		Caithfidh $PRONOUNS imeacht anois.	$PRONOUNS have to go now.				$PRONOUNS have to leave now			
+Irish on your own	12	Taking your leave		PHRASE		Caithfidh tú imeacht anois?	You have to go now?				$PRONOUNS have to leave now			
 Irish on your own	12	Taking your leave		PHRASE		Éist, caithfidh mé imeacht.	Listen, I have to go.				Listen, I have to leave			
-Irish on your own	12	Taking your leave		PHRASE		Caithfidh mé ag dul abhaile.	I have to go home.				I have to go home			
-Irish on your own	12	Taking your leave		TEMPLATE		$PRESENT_TO_BE ag imeacht.	$PRESENT_TO_BE going.				I am leaving			
+Irish on your own	12	Taking your leave		TEMPLATE		Caithfidh $PRONOUNS ag dul abhaile.	$PRONOUNS have to go home.				$PRONOUNS have to go home			
+Irish on your own	12	Taking your leave		TEMPLATE		$PRESENT_TO_BE ag imeacht.	$PRESENT_TO_BE going.				$PRESENT_TO_BE leaving			
 Irish on your own	12	Taking your leave		TEMPLATE		$PRESENT_TO_BE ag dul abhaile.	$PRESENT_TO_BE going home.							
 Irish on your own	12	Taking your leave		TEMPLATE		$PRESENT_TO_BE ag dul abhaile anois.	$PRESENT_TO_BE going home now.							
 Irish on your own	12	Taking your leave		PHRASE		Tá mé ag dul chun an bhaile.	$PRESENT_TO_BE going home.							

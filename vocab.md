@@ -3166,20 +3166,48 @@
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | AG FÁGÁIL COMHLUADAIR | TAKING YOUR LEAVE |  |  |  |  | Ag faygal cool-wah-der |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh mé imeacht. | I have to go. |  |  |  | I have to leave | Ka-heh meh imackt/imart |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh mé imeacht arís. | I have to go again. |  |  |  | I have to leave again |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh mé imeacht anois. | I have to go now. |  |  |  | I have to leave now |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh tú imeacht anois? | You have to go now? |  |  |  | I have to leave now |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | Caithfidh $PRONOUNS imeacht. | $PRONOUNS have to go. |  |  |  | $PRONOUNS have to leave | Ka-heh meh imackt/imart |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh mé imeacht. | I have to go. |  |  |  | I have to leave | Ka-heh meh imackt/imart |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh tú imeacht. | you have to go. |  |  |  | you have to leave | Ka-heh meh imackt/imart |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh sé imeacht. | he have to go. |  |  |  | he have to leave | Ka-heh meh imackt/imart |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh sí imeacht. | she have to go. |  |  |  | she have to leave | Ka-heh meh imackt/imart |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh muid imeacht. | we have to go. |  |  |  | we have to leave | Ka-heh meh imackt/imart |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh sibh imeacht. | you have to go. |  |  |  | you have to leave | Ka-heh meh imackt/imart |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh siad imeacht. | they  have to go. |  |  |  | they  have to leave | Ka-heh meh imackt/imart |  |  |
+| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | Caithfidh $PRONOUNS imeacht arís. | $PRONOUNS have to go again. |  |  |  | $PRONOUNS have to leave again |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh mé imeacht arís. | I have to go again. |  |  |  | I have to leave again |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh tú imeacht arís. | you have to go again. |  |  |  | you have to leave again |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh sé imeacht arís. | he have to go again. |  |  |  | he have to leave again |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh sí imeacht arís. | she have to go again. |  |  |  | she have to leave again |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh muid imeacht arís. | we have to go again. |  |  |  | we have to leave again |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh sibh imeacht arís. | you have to go again. |  |  |  | you have to leave again |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh siad imeacht arís. | they  have to go again. |  |  |  | they  have to leave again |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | Caithfidh $PRONOUNS imeacht anois. | $PRONOUNS have to go now. |  |  |  | $PRONOUNS have to leave now |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh mé imeacht anois. | I have to go now. |  |  |  | I have to leave now |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh tú imeacht anois. | you have to go now. |  |  |  | you have to leave now |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh sé imeacht anois. | he have to go now. |  |  |  | he have to leave now |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh sí imeacht anois. | she have to go now. |  |  |  | she have to leave now |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh muid imeacht anois. | we have to go now. |  |  |  | we have to leave now |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh sibh imeacht anois. | you have to go now. |  |  |  | you have to leave now |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh siad imeacht anois. | they  have to go now. |  |  |  | they  have to leave now |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh tú imeacht anois? | You have to go now? |  |  |  | $PRONOUNS have to leave now |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Éist, caithfidh mé imeacht. | Listen, I have to go. |  |  |  | Listen, I have to leave |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Caithfidh mé ag dul abhaile. | I have to go home. |  |  |  | I have to go home |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | $PRESENT_TO_BE ag imeacht. | $PRESENT_TO_BE going. |  |  |  | I am leaving |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | Caithfidh $PRONOUNS ag dul abhaile. | $PRONOUNS have to go home. |  |  |  | $PRONOUNS have to go home |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh mé ag dul abhaile. | I have to go home. |  |  |  | I have to go home |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh tú ag dul abhaile. | you have to go home. |  |  |  | you have to go home |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh sé ag dul abhaile. | he have to go home. |  |  |  | he have to go home |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh sí ag dul abhaile. | she have to go home. |  |  |  | she have to go home |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh muid ag dul abhaile. | we have to go home. |  |  |  | we have to go home |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh sibh ag dul abhaile. | you have to go home. |  |  |  | you have to go home |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Caithfidh siad ag dul abhaile. | they  have to go home. |  |  |  | they  have to go home |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | $PRESENT_TO_BE ag imeacht. | $PRESENT_TO_BE going. |  |  |  | $PRESENT_TO_BE leaving |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag imeacht. | I am going. |  |  |  | I am leaving |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá tú ag imeacht. | You are  going. |  |  |  | I am leaving |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sé ag imeacht. | He/it is going. |  |  |  | I am leaving |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sí ag imeacht. | she is going. |  |  |  | I am leaving |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá muid ag imeacht. | We are going. |  |  |  | I am leaving |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sibh ag imeacht. | You are  going. |  |  |  | I am leaving |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá siad ag imeacht. | They are going. |  |  |  | I am leaving |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá tú ag imeacht. | You are  going. |  |  |  | You are  leaving |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sé ag imeacht. | He/it is going. |  |  |  | He/it is leaving |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sí ag imeacht. | she is going. |  |  |  | she is leaving |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá muid ag imeacht. | We are going. |  |  |  | We are leaving |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sibh ag imeacht. | You are  going. |  |  |  | You are  leaving |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá siad ag imeacht. | They are going. |  |  |  | They are leaving |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | $PRESENT_TO_BE ag dul abhaile. | $PRESENT_TO_BE going home. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul abhaile. | I am going home. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá tú ag dul abhaile. | You are  going home. |  |  |  |  |  |  |  |
