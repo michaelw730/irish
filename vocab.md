@@ -3224,7 +3224,7 @@
 | Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá muid ag dul abhaile anois. | We are going home now. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sibh ag dul abhaile anois. | You are  going home now. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá siad ag dul abhaile anois. | They are going home now. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chun an bhaile. | $PRESENT_TO_BE going home. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chun an bhaile. | I am going home. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | $PRESENT_TO_BE ag dul chuig an scannán | $PRESENT_TO_BE going to the film. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig an scannán | I am going to the film. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá tú ag dul chuig an scannán | You are  going to the film. |  |  |  |  |  |  |  |
