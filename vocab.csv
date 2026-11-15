@@ -1360,6 +1360,7 @@ Irish on your own	12	Taking your leave		WORD		cruinniú	meeting (event)
 Irish on your own	12	Taking your leave		PHRASE		Tá mé ag súil le cuairteoirí.	I'm expecting visitors.							
 Irish on your own	12	Taking your leave		PHRASE		Tá mé ag dul chuig cruinniú.	I'm going to a meeting.							
 Irish on your own	12	Taking your leave		TEMPLATE		Tá mé ag dul chuig cruinniú leath i ndiaidh $HOUR_O_CLOCK.	I'm going to a meeting at half $HOUR_O_CLOCK.							
+Irish on your own	12	Taking your leave		TEMPLATE		Tá cruinniú agam $HOUR_O_CLOCK	I have a meeting $HOUR_O_CLOCK							
 Irish on your own	12	Taking your leave		PHRASE		Fan tamall beag eile!	Stay a little while longer!							
 Irish on your own	12	Taking your leave		TEMPLATE		Tá mé ag dul chuig ceolchoirm ag $HOUR_O_CLOCK	I’m going to a concert at $HOUR_O_CLOCK							
 Irish on your own	12	Taking your leave		TEMPLATE		Fan go dtí $HOUR_O_CLOCK	Stay until $HOUR_O_CLOCK							
@@ -1404,11 +1405,14 @@ Irish on your own	12	Taking your leave		PHRASE		I gceann míosa?	in a month?
 Irish on your own	12	Taking your leave		PHRASE		Go dtí an Fhrainc	to France							
 Irish on your own	12	Taking your leave		PHRASE		An bhfuil tú ag dul go dtí an teach tábhairne anocht?	Are you going to the pub tonight?							
 Irish on your own	12	Taking your leave		PHRASE		bí sa bhaile ag a haon déag	Be home at 11							
+Irish on your own	12	Taking your leave		PHRASE		Tá mé ag dul chuig scannán	I'm going to a film							
+Irish on your own	12	Taking your leave		PHRASE		Chuaigh sí chuig scannán	She went to a film							
 Irish on your own	12	Taking your leave		PHRASE		Beidh sí sa bhaile ag a haon déag	She will be home at 11							
 Irish on your own	12	Taking your leave		WORD		árasán	flat							
 Irish on your own	12	Taking your leave		WORD		ag m'árasán	at my flat							
 Irish on your own	12	Taking your leave		PHRASE		cé hí an bhean seo mar sin?	Who is this woman then?							
 Irish on your own	12	Taking your leave		PHRASE		Is maith léi a bheith ag obair leis	she likes working with him							
+Irish on your own	12	Taking your leave		PHRASE		Ba mhaith liom síob	I would like a lift							
 Irish on your own	12	Taking your leave	Additional	PHRASE		beidh ceilí ann	there will be a ceili							
 Irish on your own	12	Taking your leave	Additional	PHRASE		beidh diosco ann Dé Máirt	there will be a disco on Tuesday							
 Irish on your own	12	Taking your leave	Additional	PHRASE		beidh Blas ann	Blas will be on							

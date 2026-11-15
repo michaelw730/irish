@@ -3219,6 +3219,19 @@ Irish on your own	12	Taking your leave		DYNAMIC		Tá mé ag dul chuig cruinniú 
 Irish on your own	12	Taking your leave		DYNAMIC		Tá mé ag dul chuig cruinniú leath i ndiaidh a deich a chlog.	I'm going to a meeting at half 10 o'clock.							
 Irish on your own	12	Taking your leave		DYNAMIC		Tá mé ag dul chuig cruinniú leath i ndiaidh a haon déag a chlog.	I'm going to a meeting at half 11 o'clock.							
 Irish on your own	12	Taking your leave		DYNAMIC		Tá mé ag dul chuig cruinniú leath i ndiaidh a dó dhéag a chlog.	I'm going to a meeting at half 12 o'clock.							
+Irish on your own	12	Taking your leave		TEMPLATE		Tá cruinniú agam $HOUR_O_CLOCK	I have a meeting $HOUR_O_CLOCK							
+Irish on your own	12	Taking your leave		DYNAMIC		Tá cruinniú agam a haon a chlog	I have a meeting 1 o'clock							
+Irish on your own	12	Taking your leave		DYNAMIC		Tá cruinniú agam a dó a chlog	I have a meeting 2 o'clock							
+Irish on your own	12	Taking your leave		DYNAMIC		Tá cruinniú agam a trí a chlog	I have a meeting 3 o'clock							
+Irish on your own	12	Taking your leave		DYNAMIC		Tá cruinniú agam a ceathair a chlog	I have a meeting 4 o'clock							
+Irish on your own	12	Taking your leave		DYNAMIC		Tá cruinniú agam a cúig a chlog	I have a meeting 5 o'clock							
+Irish on your own	12	Taking your leave		DYNAMIC		Tá cruinniú agam a sé a chlog	I have a meeting 6 o'clock							
+Irish on your own	12	Taking your leave		DYNAMIC		Tá cruinniú agam a seacht a chlog	I have a meeting 7 o'clock							
+Irish on your own	12	Taking your leave		DYNAMIC		Tá cruinniú agam a hocht a chlog	I have a meeting 8 o'clock							
+Irish on your own	12	Taking your leave		DYNAMIC		Tá cruinniú agam a naoi a chlog	I have a meeting 9 o'clock							
+Irish on your own	12	Taking your leave		DYNAMIC		Tá cruinniú agam a deich a chlog	I have a meeting 10 o'clock							
+Irish on your own	12	Taking your leave		DYNAMIC		Tá cruinniú agam a haon déag a chlog	I have a meeting 11 o'clock							
+Irish on your own	12	Taking your leave		DYNAMIC		Tá cruinniú agam a dó dhéag a chlog	I have a meeting 12 o'clock							
 Irish on your own	12	Taking your leave		PHRASE		Fan tamall beag eile!	Stay a little while longer!							
 Irish on your own	12	Taking your leave		TEMPLATE		Tá mé ag dul chuig ceolchoirm ag $HOUR_O_CLOCK	I’m going to a concert at $HOUR_O_CLOCK							
 Irish on your own	12	Taking your leave		DYNAMIC		Tá mé ag dul chuig ceolchoirm ag a haon a chlog	I’m going to a concert at 1 o'clock							
@@ -3320,11 +3333,14 @@ Irish on your own	12	Taking your leave		PHRASE		I gceann míosa?	in a month?
 Irish on your own	12	Taking your leave		PHRASE		Go dtí an Fhrainc	to France							
 Irish on your own	12	Taking your leave		PHRASE		An bhfuil tú ag dul go dtí an teach tábhairne anocht?	Are you going to the pub tonight?							
 Irish on your own	12	Taking your leave		PHRASE		bí sa bhaile ag a haon déag	Be home at 11							
+Irish on your own	12	Taking your leave		PHRASE		Tá mé ag dul chuig scannán	I'm going to a film							
+Irish on your own	12	Taking your leave		PHRASE		Chuaigh sí chuig scannán	She went to a film							
 Irish on your own	12	Taking your leave		PHRASE		Beidh sí sa bhaile ag a haon déag	She will be home at 11							
 Irish on your own	12	Taking your leave		WORD		árasán	flat							
 Irish on your own	12	Taking your leave		WORD		ag m'árasán	at my flat							
 Irish on your own	12	Taking your leave		PHRASE		cé hí an bhean seo mar sin?	Who is this woman then?							
 Irish on your own	12	Taking your leave		PHRASE		Is maith léi a bheith ag obair leis	she likes working with him							
+Irish on your own	12	Taking your leave		PHRASE		Ba mhaith liom síob	I would like a lift							
 Irish on your own	12	Taking your leave	Additional	PHRASE		beidh ceilí ann	there will be a ceili							
 Irish on your own	12	Taking your leave	Additional	PHRASE		beidh diosco ann Dé Máirt	there will be a disco on Tuesday							
 Irish on your own	12	Taking your leave	Additional	PHRASE		beidh Blas ann	Blas will be on							
