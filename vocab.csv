@@ -1405,9 +1405,8 @@ Irish on your own	12	Taking your leave		PHRASE		I gceann míosa?	in a month?
 Irish on your own	12	Taking your leave		PHRASE		Go dtí an Fhrainc	to France							
 Irish on your own	12	Taking your leave		PHRASE		An bhfuil tú ag dul go dtí an teach tábhairne anocht?	Are you going to the pub tonight?							
 Irish on your own	12	Taking your leave		PHRASE		bí sa bhaile ag a haon déag	Be home at 11							
-Irish on your own	12	Taking your leave		PHRASE		Tá mé ag dul chuig scannán	I'm going to a film							
-Irish on your own	12	Taking your leave		PHRASE		Chuaigh sí chuig scannán	She went to a film							
-Irish on your own	12	Taking your leave		PHRASE		Beidh sí sa bhaile ag a haon déag	She will be home at 11							
+Irish on your own	12	Taking your leave		TEMPLATE		Chuaigh $PRONOUNS chuig scannán	$PRONOUNS went to a film							
+Irish on your own	12	Taking your leave		TEMPLATE		Beidh $PRONOUNS sa bhaile ag a haon déag	$PRONOUNS will be home at 11							
 Irish on your own	12	Taking your leave		WORD		árasán	flat							
 Irish on your own	12	Taking your leave		WORD		ag m'árasán	at my flat							
 Irish on your own	12	Taking your leave		PHRASE		cé hí an bhean seo mar sin?	Who is this woman then?							
