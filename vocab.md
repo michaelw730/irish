@@ -3225,14 +3225,14 @@
 | Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sibh ag dul abhaile anois. | You are  going home now. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá siad ag dul abhaile anois. | They are going home now. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Tá mé ag dul chun an bhaile. | I am going home. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | $PRESENT_TO_BE ag dul chuig an scannán | $PRESENT_TO_BE going to the film. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig an scannán | I am going to the film. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá tú ag dul chuig an scannán | You are  going to the film. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sé ag dul chuig an scannán | He/it is going to the film. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sí ag dul chuig an scannán | she is going to the film. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá muid ag dul chuig an scannán | We are going to the film. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sibh ag dul chuig an scannán | You are  going to the film. |  |  |  |  |  |  |  |
-| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá siad ag dul chuig an scannán | They are going to the film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | TEMPLATE |  | $PRESENT_TO_BE ag dul chuig scannán | $PRESENT_TO_BE going to a film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá mé ag dul chuig scannán | I am going to a film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá tú ag dul chuig scannán | You are  going to a film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sé ag dul chuig scannán | He/it is going to a film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sí ag dul chuig scannán | she is going to a film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá muid ag dul chuig scannán | We are going to a film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá sibh ag dul chuig scannán | You are  going to a film. |  |  |  |  |  |  |  |
+| Irish on your own | 12 | Taking your leave |  | DYNAMIC |  | Tá siad ag dul chuig scannán | They are going to a film. |  |  |  |  |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | go leor | enough |  |  |  | enough |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Maith go leor. | All right. |  |  |  | good enough |  |  |  |
 | Irish on your own | 12 | Taking your leave |  | PHRASE |  | Ceart go leor. | All right. |  |  |  | right enough |  |  |  |
