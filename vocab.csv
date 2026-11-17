@@ -1434,6 +1434,7 @@ Irish on your own	13	Family2				leasdeirfiúr	stepsister
 Irish on your own	13	Family2				leasdeartháir	stepbrother							
 Irish on your own	13	Family2				neacht	niece							
 Irish on your own	13	Family2				nia	nephew							
+Irish on your own	13	Family2				airgead	money		s			A-rig-id		
 Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY1	m'athair mór	my grandfather							
 Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY1	mo mháthair mhór	my grandmother							
 Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid deartháireacha	my brothers							
@@ -1443,70 +1444,70 @@ Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY1	m'aintín	my aunt
 Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid col ceathracha	my cousins							
 Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY1	m'fhear céile	my husband							
 Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY1	mo bhean chéile	my wife							
-Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid airgid	my money							
-Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid gruaige	my hair							
-Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid deirfiúracha	my sisters							
+Irish on your own	13	Family2		PHRASE	MY_INDEFINITE_MASS	mo chuid airgid	my money							
+Irish on your own	13	Family2		PHRASE	MY_INDEFINITE_MASS	mo chuid gruaige	my hair							
 Irish on your own	13	Family2		TEMPLATE		Seo $MY_CLOSE_FAMILY1	This is  $MY_CLOSE_FAMILY1							
 Irish on your own	13	Family2		TEMPLATE		Seo $MY_CLOSE_FAMILY2	These are $MY_CLOSE_FAMILY2							
 Irish on your own	13	Family2		TEMPLATE		Sin $MY_CLOSE_FAMILY2	They are $MY_CLOSE_FAMILY2							
-Irish on your own	13	Family2				Is muidne* ...	We're ...							*In Ulster Irish this word usually has three syllables in everyday speech: muid-in-ne.
-Irish on your own	13	Family2				Is muidne deirfiúracha John.	We're John's sisters.							
+Irish on your own	13	Family2		TEMPLATE		Seo $MY_INDEFINITE_MASS	These are $MY_INDEFINITE_MASS							
+Irish on your own	13	Family2				Is muidne deirfiúracha John.	We're John's sisters.							*In Ulster Irish this word usually has three syllables in everyday speech: muid-in-ne.
 Irish on your own	13	Family2				Is muidne deartháireacha Laura.	We're Laura's brothers.							
+Irish on your own	13	Family2				aois	age							
 Irish on your own	13	Family2				Cad é an aois atá tú?	What age are you?							
 Irish on your own	13	Family2				Cen aois atá tú?	What age are you?							
 Irish on your own	13	Family2				Cad é an aois atá sé?	What age is he?							
-Irish on your own	13	Family2				aois	age							
-Irish on your own	13	Family2				bliain (d'aois)	one year (old)							
-Irish on your own	13	Family2				dhá bhliain	two years							
-Irish on your own	13	Family2				trí bliana	three years							
-Irish on your own	13	Family2				ceithre bliana	four years							
-Irish on your own	13	Family2				cúig bliana	five years							
-Irish on your own	13	Family2				sé bliana	six years							
-Irish on your own	13	Family2				seacht mbliana	seven years							
-Irish on your own	13	Family2				ocht mbliana	eight years							
-Irish on your own	13	Family2				naoi mbliana	nine years							
-Irish on your own	13	Family2				deich mbliana	ten years							
-Irish on your own	13	Family2				aon bhliain (amhain)	1 YEAR only							
-Irish on your own	13	Family2				dhá bhliain	2 YEARS							
-Irish on your own	13	Family2				trí bliana	3 YEARS							
-Irish on your own	13	Family2				ceithre bliana	4 YEARS							
-Irish on your own	13	Family2				cúig bliana	5 YEARS							
-Irish on your own	13	Family2				sé bliana	6 YEARS							
-Irish on your own	13	Family2				seacht mbliana	7 YEARS							
-Irish on your own	13	Family2				ocht mbliana	8 YEARS							
-Irish on your own	13	Family2				naoi mbliana	9 YEARS							
-Irish on your own	13	Family2				deich mbliana	10 YEARS							
-Irish on your own	13	Family2				aon bhliain déag	11 YEARS							
-Irish on your own	13	Family2				dhá bhliain déag	12 YEARS							
-Irish on your own	13	Family2				trí bliana déag	13 YEARS							
-Irish on your own	13	Family2				ceithre bliana déag	14 YEARS							
-Irish on your own	13	Family2				cúig bliana déag	15 YEARS							
-Irish on your own	13	Family2				sé bliana déag	16 YEARS							
-Irish on your own	13	Family2				seacht mbliana déag	17 YEARS							
-Irish on your own	13	Family2				ocht mbliana déag	18 YEARS							
-Irish on your own	13	Family2				naoi mbliana déag	19 YEARS							
-Irish on your own	13	Family2				fiche bliain	20 YEARS							
-Irish on your own	13	Family2				aon bliain is fiche	21 YEARS							
-Irish on your own	13	Family2				dhá bhliain is fiche	22 YEARS							
-Irish on your own	13	Family2				trí bliana is fiche	23 YEARS							
-Irish on your own	13	Family2				ceithre bliana is fiche	24 YEARS							
-Irish on your own	13	Family2				cúig bliana is fiche	25 YEARS							
-Irish on your own	13	Family2				sé bliana is fiche	26 YEARS							
-Irish on your own	13	Family2				seacht mbliana is fiche	27 YEARS							
-Irish on your own	13	Family2				ocht mbliana is fiche	28 YEARS							
-Irish on your own	13	Family2				naoi mbliana is fiche	29 YEARS							
-Irish on your own	13	Family2				tríocha bliain	30 YEARS							
-Irish on your own	13	Family2				daichead bliain	40 YEARS							
-Irish on your own	13	Family2				caoga bliain	50 YEARS							
-Irish on your own	13	Family2				seasca bliain	60 YEARS							
-Irish on your own	13	Family2				seachtó bliain	70 YEARS							
-Irish on your own	13	Family2				ochtó bliain	80 YEARS							
-Irish on your own	13	Family2				nócha bliain	90 YEARS							
-Irish on your own	13	Family2				céad bliain	100 YEARS							
+Irish on your own	13	Family2				Cad é an aois atá sí?	What age is she?							
+Irish on your own	13	Family2				Cad é an aois atá do dheartháir?	What age is your brother?							
+Irish on your own	13	Family2				Cén aois atá na páistí?	What are are the children?							
+Irish on your own	13	Family2				Cad é an aois atá do mhac?	What age is your son?							
+Irish on your own	13	Family2			AGE	bliain	one year							
+Irish on your own	13	Family2			AGE	aon bhliain	one year							
+Irish on your own	13	Family2			AGE	aon bhliain amhain	one year only							
+Irish on your own	13	Family2			AGE	dhá bhliain	two years							
+Irish on your own	13	Family2			AGE	trí bliana	three years							
+Irish on your own	13	Family2			AGE	ceithre bliana	four years							
+Irish on your own	13	Family2			AGE	cúig bliana	five years							
+Irish on your own	13	Family2			AGE	sé bliana	six years							
+Irish on your own	13	Family2			AGE	seacht mbliana	seven years							
+Irish on your own	13	Family2			AGE	ocht mbliana	eight years							
+Irish on your own	13	Family2			AGE	naoi mbliana	nine years							
+Irish on your own	13	Family2			AGE	deich mbliana	ten years							
+Irish on your own	13	Family2			AGE	aon bhliain déag	11 YEARS							
+Irish on your own	13	Family2			AGE	dhá bhliain déag	12 YEARS							
+Irish on your own	13	Family2			AGE	trí bliana déag	13 YEARS							
+Irish on your own	13	Family2			AGE	ceithre bliana déag	14 YEARS							
+Irish on your own	13	Family2			AGE	cúig bliana déag	15 YEARS							
+Irish on your own	13	Family2			AGE	sé bliana déag	16 YEARS							
+Irish on your own	13	Family2			AGE	seacht mbliana déag	17 YEARS							
+Irish on your own	13	Family2			AGE	ocht mbliana déag	18 YEARS							
+Irish on your own	13	Family2			AGE	naoi mbliana déag	19 YEARS							
+Irish on your own	13	Family2			AGE	fiche bliain	20 YEARS							
+Irish on your own	13	Family2			AGE	aon bliain is fiche	21 YEARS							
+Irish on your own	13	Family2			AGE	dhá bhliain is fiche	22 YEARS							
+Irish on your own	13	Family2			AGE	trí bliana is fiche	23 YEARS							
+Irish on your own	13	Family2			AGE	ceithre bliana is fiche	24 YEARS							
+Irish on your own	13	Family2			AGE	cúig bliana is fiche	25 YEARS							
+Irish on your own	13	Family2			AGE	sé bliana is fiche	26 YEARS							
+Irish on your own	13	Family2			AGE	seacht mbliana is fiche	27 YEARS							
+Irish on your own	13	Family2			AGE	ocht mbliana is fiche	28 YEARS							
+Irish on your own	13	Family2			AGE	naoi mbliana is fiche	29 YEARS							
+Irish on your own	13	Family2			AGE	tríocha bliain	30 YEARS							
+Irish on your own	13	Family2			AGE	daichead bliain	40 YEARS							
+Irish on your own	13	Family2			AGE	caoga bliain	50 YEARS							
+Irish on your own	13	Family2			AGE	seasca bliain	60 YEARS							
+Irish on your own	13	Family2			AGE	seachtó bliain	70 YEARS							
+Irish on your own	13	Family2			AGE	ochtó bliain	80 YEARS							
+Irish on your own	13	Family2			AGE	nócha bliain	90 YEARS							
+Irish on your own	13	Family2			AGE	céad bliain	100 YEARS							
+Irish on your own	13	Family2		TEMPLATE		$AGE d'aois	$AGE of age							
+Irish on your own	13	Family2				chóir a bheith	almost							
+Irish on your own	13	Family2				go leith	and a half							
+Irish on your own	13	Family2		TEMPLATE		chóir a bheith $AGE	almost $AGE							
+Irish on your own	13	Family2		TEMPLATE		$AGE go leith	$age and a half							
 Irish on your own	13	Family2				Cá bhfuil sé ina chónaí anois?	Where does he live now?							
 Irish on your own	13	Family2				Cá bhfuil sí ina cónaí anois?	Where does she live now?							
 Irish on your own	13	Family2				Cá bhfuil siad ina gcónaí anois?	Where do they live now?							
-Irish on your own	13	Family2				CÓNAÍ	LIVE							
+Irish on your own	13	Family2				cónaí	live							
 Irish on your own	13	Family2				Tá mé i mo chónaí	I live							
 Irish on your own	13	Family2				Tá tú i do chónaí	You live							
 Irish on your own	13	Family2				Tá sé ina chónaí	He lives							
@@ -1514,6 +1515,7 @@ Irish on your own	13	Family2				Tá sí ina cónaí	She lives
 Irish on your own	13	Family2				Tá muid inar gcónaí	We live							
 Irish on your own	13	Family2				Tá sibh in bhur gcónaí	You live							
 Irish on your own	13	Family2				Tá siad ina gcónaí	They live							
+Irish on your own	13	Family2				Cá bhfuil Marion agus John anois?	Where are Marion and John now?							
 Irish on your own	14	Daily Routine				Músclaím ...	I wake up ...					musclum..		
 Irish on your own	14	Daily Routine				de ghnáth	usually					de greah		
 Irish on your own	14	Daily Routine				Músclaím de ghnáth thart fá leath i ndiaidh a seacht.	I usually wake up around half past seven.							
