@@ -3492,33 +3492,33 @@
 | Irish on your own | 13 | Family2 |  |  | AGE | ocht mbliana | eight years |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  |  | AGE | naoi mbliana | nine years |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  |  | AGE | deich mbliana | ten years |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | aon bhliain déag | 11 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | dhá bhliain déag | 12 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | trí bliana déag | 13 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | ceithre bliana déag | 14 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | cúig bliana déag | 15 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | sé bliana déag | 16 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | seacht mbliana déag | 17 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | ocht mbliana déag | 18 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | naoi mbliana déag | 19 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | fiche bliain | 20 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | aon bliain is fiche | 21 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | dhá bhliain is fiche | 22 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | trí bliana is fiche | 23 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | ceithre bliana is fiche | 24 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | cúig bliana is fiche | 25 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | sé bliana is fiche | 26 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | seacht mbliana is fiche | 27 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | ocht mbliana is fiche | 28 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | naoi mbliana is fiche | 29 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | tríocha bliain | 30 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | daichead bliain | 40 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | caoga bliain | 50 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | seasca bliain | 60 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | seachtó bliain | 70 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | ochtó bliain | 80 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | nócha bliain | 90 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  | AGE | céad bliain | 100 YEARS |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | aon bhliain déag | 11 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | dhá bhliain déag | 12 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | trí bliana déag | 13 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | ceithre bliana déag | 14 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | cúig bliana déag | 15 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | sé bliana déag | 16 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | seacht mbliana déag | 17 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | ocht mbliana déag | 18 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | naoi mbliana déag | 19 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | fiche bliain | 20 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | aon bliain is fiche | 21 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | dhá bhliain is fiche | 22 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | trí bliana is fiche | 23 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | ceithre bliana is fiche | 24 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | cúig bliana is fiche | 25 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | sé bliana is fiche | 26 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | seacht mbliana is fiche | 27 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | ocht mbliana is fiche | 28 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | naoi mbliana is fiche | 29 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | tríocha bliain | 30 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | daichead bliain | 40 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | caoga bliain | 50 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | seasca bliain | 60 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | seachtó bliain | 70 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | ochtó bliain | 80 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | nócha bliain | 90 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  | AGE | céad bliain | 100 years |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  | TEMPLATE |  | $AGE d'aois | $AGE of age |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  | DYNAMIC |  | bliain d'aois | one year of age |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  | DYNAMIC |  | aon bhliain d'aois | one year of age |  |  |  |  |  |  |  |
@@ -3532,33 +3532,73 @@
 | Irish on your own | 13 | Family2 |  | DYNAMIC |  | ocht mbliana d'aois | eight years of age |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  | DYNAMIC |  | naoi mbliana d'aois | nine years of age |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  | DYNAMIC |  | deich mbliana d'aois | ten years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | aon bhliain déag d'aois | 11 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | dhá bhliain déag d'aois | 12 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | trí bliana déag d'aois | 13 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ceithre bliana déag d'aois | 14 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | cúig bliana déag d'aois | 15 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | sé bliana déag d'aois | 16 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seacht mbliana déag d'aois | 17 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ocht mbliana déag d'aois | 18 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | naoi mbliana déag d'aois | 19 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | fiche bliain d'aois | 20 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | aon bliain is fiche d'aois | 21 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | dhá bhliain is fiche d'aois | 22 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | trí bliana is fiche d'aois | 23 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ceithre bliana is fiche d'aois | 24 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | cúig bliana is fiche d'aois | 25 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | sé bliana is fiche d'aois | 26 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seacht mbliana is fiche d'aois | 27 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ocht mbliana is fiche d'aois | 28 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | naoi mbliana is fiche d'aois | 29 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | tríocha bliain d'aois | 30 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | daichead bliain d'aois | 40 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | caoga bliain d'aois | 50 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seasca bliain d'aois | 60 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seachtó bliain d'aois | 70 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ochtó bliain d'aois | 80 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | nócha bliain d'aois | 90 YEARS of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | céad bliain d'aois | 100 YEARS of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | aon bhliain déag d'aois | 11 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | dhá bhliain déag d'aois | 12 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | trí bliana déag d'aois | 13 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ceithre bliana déag d'aois | 14 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | cúig bliana déag d'aois | 15 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | sé bliana déag d'aois | 16 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seacht mbliana déag d'aois | 17 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ocht mbliana déag d'aois | 18 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | naoi mbliana déag d'aois | 19 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | fiche bliain d'aois | 20 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | aon bliain is fiche d'aois | 21 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | dhá bhliain is fiche d'aois | 22 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | trí bliana is fiche d'aois | 23 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ceithre bliana is fiche d'aois | 24 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | cúig bliana is fiche d'aois | 25 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | sé bliana is fiche d'aois | 26 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seacht mbliana is fiche d'aois | 27 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ocht mbliana is fiche d'aois | 28 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | naoi mbliana is fiche d'aois | 29 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | tríocha bliain d'aois | 30 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | daichead bliain d'aois | 40 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | caoga bliain d'aois | 50 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seasca bliain d'aois | 60 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seachtó bliain d'aois | 70 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ochtó bliain d'aois | 80 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | nócha bliain d'aois | 90 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | céad bliain d'aois | 100 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | TEMPLATE |  | Tá mé $AGE d'aois | Tá mé $AGE of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé bliain d'aois | Tá mé one year of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé aon bhliain d'aois | Tá mé one year of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé aon bhliain amhain d'aois | Tá mé one year only of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé dhá bhliain d'aois | Tá mé two years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé trí bliana d'aois | Tá mé three years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé ceithre bliana d'aois | Tá mé four years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé cúig bliana d'aois | Tá mé five years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé sé bliana d'aois | Tá mé six years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé seacht mbliana d'aois | Tá mé seven years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé ocht mbliana d'aois | Tá mé eight years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé naoi mbliana d'aois | Tá mé nine years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé deich mbliana d'aois | Tá mé ten years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé aon bhliain déag d'aois | Tá mé 11 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé dhá bhliain déag d'aois | Tá mé 12 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé trí bliana déag d'aois | Tá mé 13 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé ceithre bliana déag d'aois | Tá mé 14 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé cúig bliana déag d'aois | Tá mé 15 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé sé bliana déag d'aois | Tá mé 16 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé seacht mbliana déag d'aois | Tá mé 17 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé ocht mbliana déag d'aois | Tá mé 18 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé naoi mbliana déag d'aois | Tá mé 19 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé fiche bliain d'aois | Tá mé 20 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé aon bliain is fiche d'aois | Tá mé 21 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé dhá bhliain is fiche d'aois | Tá mé 22 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé trí bliana is fiche d'aois | Tá mé 23 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé ceithre bliana is fiche d'aois | Tá mé 24 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé cúig bliana is fiche d'aois | Tá mé 25 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé sé bliana is fiche d'aois | Tá mé 26 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé seacht mbliana is fiche d'aois | Tá mé 27 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé ocht mbliana is fiche d'aois | Tá mé 28 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé naoi mbliana is fiche d'aois | Tá mé 29 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé tríocha bliain d'aois | Tá mé 30 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé daichead bliain d'aois | Tá mé 40 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé caoga bliain d'aois | Tá mé 50 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé seasca bliain d'aois | Tá mé 60 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé seachtó bliain d'aois | Tá mé 70 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé ochtó bliain d'aois | Tá mé 80 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé nócha bliain d'aois | Tá mé 90 years of age |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé céad bliain d'aois | Tá mé 100 years of age |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  |  |  | chóir a bheith | almost |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  |  |  | go leith | and a half |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  | TEMPLATE |  | chóir a bheith $AGE | almost $AGE |  |  |  |  |  |  |  |
@@ -3574,73 +3614,73 @@
 | Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith ocht mbliana | almost eight years |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith naoi mbliana | almost nine years |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith deich mbliana | almost ten years |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith aon bhliain déag | almost 11 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith dhá bhliain déag | almost 12 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith trí bliana déag | almost 13 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith ceithre bliana déag | almost 14 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith cúig bliana déag | almost 15 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith sé bliana déag | almost 16 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith seacht mbliana déag | almost 17 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith ocht mbliana déag | almost 18 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith naoi mbliana déag | almost 19 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith fiche bliain | almost 20 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith aon bliain is fiche | almost 21 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith dhá bhliain is fiche | almost 22 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith trí bliana is fiche | almost 23 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith ceithre bliana is fiche | almost 24 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith cúig bliana is fiche | almost 25 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith sé bliana is fiche | almost 26 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith seacht mbliana is fiche | almost 27 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith ocht mbliana is fiche | almost 28 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith naoi mbliana is fiche | almost 29 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith tríocha bliain | almost 30 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith daichead bliain | almost 40 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith caoga bliain | almost 50 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith seasca bliain | almost 60 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith seachtó bliain | almost 70 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith ochtó bliain | almost 80 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith nócha bliain | almost 90 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith céad bliain | almost 100 YEARS |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | TEMPLATE |  | $AGE go leith | $age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | bliain go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | aon bhliain go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | aon bhliain amhain go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | dhá bhliain go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | trí bliana go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ceithre bliana go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | cúig bliana go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | sé bliana go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seacht mbliana go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ocht mbliana go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | naoi mbliana go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | deich mbliana go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | aon bhliain déag go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | dhá bhliain déag go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | trí bliana déag go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ceithre bliana déag go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | cúig bliana déag go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | sé bliana déag go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seacht mbliana déag go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ocht mbliana déag go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | naoi mbliana déag go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | fiche bliain go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | aon bliain is fiche go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | dhá bhliain is fiche go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | trí bliana is fiche go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ceithre bliana is fiche go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | cúig bliana is fiche go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | sé bliana is fiche go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seacht mbliana is fiche go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ocht mbliana is fiche go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | naoi mbliana is fiche go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | tríocha bliain go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | daichead bliain go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | caoga bliain go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seasca bliain go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seachtó bliain go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ochtó bliain go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | nócha bliain go leith | age and a half |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | céad bliain go leith | age and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith aon bhliain déag | almost 11 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith dhá bhliain déag | almost 12 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith trí bliana déag | almost 13 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith ceithre bliana déag | almost 14 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith cúig bliana déag | almost 15 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith sé bliana déag | almost 16 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith seacht mbliana déag | almost 17 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith ocht mbliana déag | almost 18 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith naoi mbliana déag | almost 19 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith fiche bliain | almost 20 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith aon bliain is fiche | almost 21 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith dhá bhliain is fiche | almost 22 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith trí bliana is fiche | almost 23 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith ceithre bliana is fiche | almost 24 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith cúig bliana is fiche | almost 25 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith sé bliana is fiche | almost 26 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith seacht mbliana is fiche | almost 27 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith ocht mbliana is fiche | almost 28 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith naoi mbliana is fiche | almost 29 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith tríocha bliain | almost 30 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith daichead bliain | almost 40 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith caoga bliain | almost 50 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith seasca bliain | almost 60 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith seachtó bliain | almost 70 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith ochtó bliain | almost 80 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith nócha bliain | almost 90 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | chóir a bheith céad bliain | almost 100 years |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | TEMPLATE |  | $AGE go leith | $AGE and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | bliain go leith | one year and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | aon bhliain go leith | one year and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | aon bhliain amhain go leith | one year only and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | dhá bhliain go leith | two years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | trí bliana go leith | three years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ceithre bliana go leith | four years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | cúig bliana go leith | five years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | sé bliana go leith | six years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seacht mbliana go leith | seven years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ocht mbliana go leith | eight years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | naoi mbliana go leith | nine years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | deich mbliana go leith | ten years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | aon bhliain déag go leith | 11 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | dhá bhliain déag go leith | 12 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | trí bliana déag go leith | 13 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ceithre bliana déag go leith | 14 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | cúig bliana déag go leith | 15 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | sé bliana déag go leith | 16 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seacht mbliana déag go leith | 17 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ocht mbliana déag go leith | 18 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | naoi mbliana déag go leith | 19 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | fiche bliain go leith | 20 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | aon bliain is fiche go leith | 21 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | dhá bhliain is fiche go leith | 22 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | trí bliana is fiche go leith | 23 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ceithre bliana is fiche go leith | 24 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | cúig bliana is fiche go leith | 25 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | sé bliana is fiche go leith | 26 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seacht mbliana is fiche go leith | 27 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ocht mbliana is fiche go leith | 28 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | naoi mbliana is fiche go leith | 29 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | tríocha bliain go leith | 30 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | daichead bliain go leith | 40 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | caoga bliain go leith | 50 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seasca bliain go leith | 60 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | seachtó bliain go leith | 70 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | ochtó bliain go leith | 80 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | nócha bliain go leith | 90 years and a half |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | DYNAMIC |  | céad bliain go leith | 100 years and a half |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  |  |  | Cá bhfuil sé ina chónaí anois? | Where does he live now? |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  |  |  | Cá bhfuil sí ina cónaí anois? | Where does she live now? |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  |  |  | Cá bhfuil siad ina gcónaí anois? | Where do they live now? |  |  |  |  |  |  |  |
@@ -5000,33 +5040,33 @@
 | BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé ocht mbliana d'aois. | I am eight years of age. |  |  |  |  |  |  |  |
 | BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé naoi mbliana d'aois. | I am nine years of age. |  |  |  |  |  |  |  |
 | BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé deich mbliana d'aois. | I am ten years of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé aon bhliain déag d'aois. | I am 11 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé dhá bhliain déag d'aois. | I am 12 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé trí bliana déag d'aois. | I am 13 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé ceithre bliana déag d'aois. | I am 14 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé cúig bliana déag d'aois. | I am 15 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé sé bliana déag d'aois. | I am 16 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé seacht mbliana déag d'aois. | I am 17 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé ocht mbliana déag d'aois. | I am 18 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé naoi mbliana déag d'aois. | I am 19 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé fiche bliain d'aois. | I am 20 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé aon bliain is fiche d'aois. | I am 21 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé dhá bhliain is fiche d'aois. | I am 22 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé trí bliana is fiche d'aois. | I am 23 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé ceithre bliana is fiche d'aois. | I am 24 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé cúig bliana is fiche d'aois. | I am 25 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé sé bliana is fiche d'aois. | I am 26 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé seacht mbliana is fiche d'aois. | I am 27 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé ocht mbliana is fiche d'aois. | I am 28 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé naoi mbliana is fiche d'aois. | I am 29 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé tríocha bliain d'aois. | I am 30 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé daichead bliain d'aois. | I am 40 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé caoga bliain d'aois. | I am 50 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé seasca bliain d'aois. | I am 60 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé seachtó bliain d'aois. | I am 70 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé ochtó bliain d'aois. | I am 80 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé nócha bliain d'aois. | I am 90 YEARS of age. |  |  |  |  |  |  |  |
-| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé céad bliain d'aois. | I am 100 YEARS of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé aon bhliain déag d'aois. | I am 11 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé dhá bhliain déag d'aois. | I am 12 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé trí bliana déag d'aois. | I am 13 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé ceithre bliana déag d'aois. | I am 14 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé cúig bliana déag d'aois. | I am 15 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé sé bliana déag d'aois. | I am 16 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé seacht mbliana déag d'aois. | I am 17 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé ocht mbliana déag d'aois. | I am 18 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé naoi mbliana déag d'aois. | I am 19 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé fiche bliain d'aois. | I am 20 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé aon bliain is fiche d'aois. | I am 21 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé dhá bhliain is fiche d'aois. | I am 22 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé trí bliana is fiche d'aois. | I am 23 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé ceithre bliana is fiche d'aois. | I am 24 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé cúig bliana is fiche d'aois. | I am 25 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé sé bliana is fiche d'aois. | I am 26 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé seacht mbliana is fiche d'aois. | I am 27 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé ocht mbliana is fiche d'aois. | I am 28 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé naoi mbliana is fiche d'aois. | I am 29 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé tríocha bliain d'aois. | I am 30 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé daichead bliain d'aois. | I am 40 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé caoga bliain d'aois. | I am 50 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé seasca bliain d'aois. | I am 60 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé seachtó bliain d'aois. | I am 70 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé ochtó bliain d'aois. | I am 80 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé nócha bliain d'aois. | I am 90 years of age. |  |  |  |  |  |  |  |
+| BBC Bitesize KS3 | 2 | Personal Traits |  | DYNAMIC |  | >Tá mé céad bliain d'aois. | I am 100 years of age. |  |  |  |  |  |  |  |
 | BBC Bitesize KS3 | 2 | Personal Traits |  |  |  | Tá cuma óg orm do m'aois | I appear young for my age |  |  |  |  |  |  |  |
 | BBC Bitesize KS3 | 2 | Personal Traits |  |  |  | Tá cuma shean orm do m'aois | I appear old for my age |  |  |  |  |  |  |  |
 | BBC Bitesize KS3 | 2 | Personal Traits |  |  |  | Cén dath atá ar do chuid gruaige? | What colour is your hair? |  |  |  |  |  |  |  |
