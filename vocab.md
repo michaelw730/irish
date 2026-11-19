@@ -3423,35 +3423,35 @@
 
 | program | episode | topic | topic2 | type | group | irish | meaning | practice_ideas | s_p | m_f | literal_meaning | phonetic | sound | info |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Irish on your own | 13 | Family2 |  |  |  | tuismitheoirí | parents |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  |  | deartháireacha | brothers |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  |  | deirfiúracha | sisters |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  |  | seanathair | grandfather |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  |  | athair mór | grandfather |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  |  | seanmháthair | grandmother |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  |  | máthair mhór | grandmother |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  |  | uncail | uncle |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  |  | aintin | aunt |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  |  | col ceathrair | cousin |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  |  | col ceathracha | cousins |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  |  | leasathair | stepfather |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  |  | leasmháthair | stepmother |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  |  | leasdeirfiúr | stepsister |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  |  | leasdeartháir | stepbrother |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  |  | neacht | niece |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  |  |  | nia | nephew |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | tuismitheoirí | parents |  | p |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | deartháireacha | brothers |  | p |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | deirfiúracha | sisters |  | p |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | seanathair | grandfather |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | athair mór | grandfather |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | seanmháthair | grandmother |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | máthair mhór | grandmother |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | uncail | uncle |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | aintin | aunt |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | col ceathrair | cousin |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | col ceathracha | cousins |  | p |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | leasathair | stepfather |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | leasmháthair | stepmother |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | leasdeirfiúr | stepsister |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | leasdeartháir | stepbrother |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | neacht | niece |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  |  |  | nia | nephew |  | s |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  |  |  | airgead | money |  | s |  |  | A-rig-id |  |  |
-| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | m'athair mór | my grandfather |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | mo mháthair mhór | my grandmother |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid deartháireacha | my brothers |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid deirfiúracha | my sisters |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | m'uncail | my uncle |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | m'aintín | my aunt |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid col ceathracha | my cousins |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | m'fhear céile | my husband |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | mo bhean chéile | my wife |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | PHRASE | MY_INDEFINITE_MASS | mo chuid airgid | my money |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | PHRASE | MY_INDEFINITE_MASS | mo chuid gruaige | my hair |  |  |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | m'athair mór | my grandfather |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | mo mháthair mhór | my grandmother |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | m'uncail | my uncle |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | m'aintín | my aunt |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | m'fhear céile | my husband |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY1 | mo bhean chéile | my wife |  | s |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid deartháireacha | my brothers |  | p |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid deirfiúracha | my sisters |  | p |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_CLOSE_FAMILY2 | mo chuid col ceathracha | my cousins |  | p |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_INDEFINITE_MASS | mo chuid airgid | my money |  | p |  |  |  |  |  |
+| Irish on your own | 13 | Family2 |  | PHRASE | MY_INDEFINITE_MASS | mo chuid gruaige | my hair |  | p |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  | TEMPLATE |  | Seo $MY_CLOSE_FAMILY1 | This is  $MY_CLOSE_FAMILY1 |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  | DYNAMIC |  | Seo m'athair mór | This is  my grandfather |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  | DYNAMIC |  | Seo mo mháthair mhór | This is  my grandmother |  |  |  |  |  |  |  |
@@ -3559,46 +3559,6 @@
 | Irish on your own | 13 | Family2 |  | DYNAMIC |  | ochtó bliain d'aois | 80 years of age |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  | DYNAMIC |  | nócha bliain d'aois | 90 years of age |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  | DYNAMIC |  | céad bliain d'aois | 100 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | TEMPLATE |  | Tá mé $AGE d'aois | Tá mé $AGE of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé bliain d'aois | Tá mé one year of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé aon bhliain d'aois | Tá mé one year of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé aon bhliain amhain d'aois | Tá mé one year only of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé dhá bhliain d'aois | Tá mé two years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé trí bliana d'aois | Tá mé three years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé ceithre bliana d'aois | Tá mé four years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé cúig bliana d'aois | Tá mé five years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé sé bliana d'aois | Tá mé six years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé seacht mbliana d'aois | Tá mé seven years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé ocht mbliana d'aois | Tá mé eight years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé naoi mbliana d'aois | Tá mé nine years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé deich mbliana d'aois | Tá mé ten years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé aon bhliain déag d'aois | Tá mé 11 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé dhá bhliain déag d'aois | Tá mé 12 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé trí bliana déag d'aois | Tá mé 13 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé ceithre bliana déag d'aois | Tá mé 14 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé cúig bliana déag d'aois | Tá mé 15 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé sé bliana déag d'aois | Tá mé 16 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé seacht mbliana déag d'aois | Tá mé 17 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé ocht mbliana déag d'aois | Tá mé 18 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé naoi mbliana déag d'aois | Tá mé 19 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé fiche bliain d'aois | Tá mé 20 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé aon bliain is fiche d'aois | Tá mé 21 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé dhá bhliain is fiche d'aois | Tá mé 22 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé trí bliana is fiche d'aois | Tá mé 23 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé ceithre bliana is fiche d'aois | Tá mé 24 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé cúig bliana is fiche d'aois | Tá mé 25 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé sé bliana is fiche d'aois | Tá mé 26 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé seacht mbliana is fiche d'aois | Tá mé 27 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé ocht mbliana is fiche d'aois | Tá mé 28 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé naoi mbliana is fiche d'aois | Tá mé 29 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé tríocha bliain d'aois | Tá mé 30 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé daichead bliain d'aois | Tá mé 40 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé caoga bliain d'aois | Tá mé 50 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé seasca bliain d'aois | Tá mé 60 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé seachtó bliain d'aois | Tá mé 70 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé ochtó bliain d'aois | Tá mé 80 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé nócha bliain d'aois | Tá mé 90 years of age |  |  |  |  |  |  |  |
-| Irish on your own | 13 | Family2 |  | DYNAMIC |  | Tá mé céad bliain d'aois | Tá mé 100 years of age |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  |  |  | chóir a bheith | almost |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  |  |  | go leith | and a half |  |  |  |  |  |  |  |
 | Irish on your own | 13 | Family2 |  | TEMPLATE |  | chóir a bheith $AGE | almost $AGE |  |  |  |  |  |  |  |

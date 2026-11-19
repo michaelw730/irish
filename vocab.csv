@@ -1417,35 +1417,35 @@ Irish on your own	12	Taking your leave	Additional	PHRASE		beidh diosco ann Dé M
 Irish on your own	12	Taking your leave	Additional	PHRASE		beidh Blas ann	Blas will be on							
 Irish on your own	12	Taking your leave	Additional	PHRASE		ar leath i ndiaidh a seacht	at half past seven							
 Irish on your own	12	Taking your leave	Additional	PHRASE		ar a seacht a chlog go dtí a hocht a chlog	at 7 o'clock to 8 o'clock							
-Irish on your own	13	Family2				tuismitheoirí	parents							
-Irish on your own	13	Family2				deartháireacha	brothers							
-Irish on your own	13	Family2				deirfiúracha	sisters							
-Irish on your own	13	Family2				seanathair	grandfather							
-Irish on your own	13	Family2				athair mór	grandfather							
-Irish on your own	13	Family2				seanmháthair	grandmother							
-Irish on your own	13	Family2				máthair mhór	grandmother							
-Irish on your own	13	Family2				uncail	uncle							
-Irish on your own	13	Family2				aintin	aunt							
-Irish on your own	13	Family2				col ceathrair	cousin							
-Irish on your own	13	Family2				col ceathracha	cousins							
-Irish on your own	13	Family2				leasathair	stepfather							
-Irish on your own	13	Family2				leasmháthair	stepmother							
-Irish on your own	13	Family2				leasdeirfiúr	stepsister							
-Irish on your own	13	Family2				leasdeartháir	stepbrother							
-Irish on your own	13	Family2				neacht	niece							
-Irish on your own	13	Family2				nia	nephew							
+Irish on your own	13	Family2				tuismitheoirí	parents		p					
+Irish on your own	13	Family2				deartháireacha	brothers		p					
+Irish on your own	13	Family2				deirfiúracha	sisters		p					
+Irish on your own	13	Family2				seanathair	grandfather		s					
+Irish on your own	13	Family2				athair mór	grandfather		s					
+Irish on your own	13	Family2				seanmháthair	grandmother		s					
+Irish on your own	13	Family2				máthair mhór	grandmother		s					
+Irish on your own	13	Family2				uncail	uncle		s					
+Irish on your own	13	Family2				aintin	aunt		s					
+Irish on your own	13	Family2				col ceathrair	cousin		s					
+Irish on your own	13	Family2				col ceathracha	cousins		p					
+Irish on your own	13	Family2				leasathair	stepfather		s					
+Irish on your own	13	Family2				leasmháthair	stepmother		s					
+Irish on your own	13	Family2				leasdeirfiúr	stepsister		s					
+Irish on your own	13	Family2				leasdeartháir	stepbrother		s					
+Irish on your own	13	Family2				neacht	niece		s					
+Irish on your own	13	Family2				nia	nephew		s					
 Irish on your own	13	Family2				airgead	money		s			A-rig-id		
-Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY1	m'athair mór	my grandfather							
-Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY1	mo mháthair mhór	my grandmother							
-Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid deartháireacha	my brothers							
-Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid deirfiúracha	my sisters							
-Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY1	m'uncail	my uncle							
-Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY1	m'aintín	my aunt							
-Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid col ceathracha	my cousins							
-Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY1	m'fhear céile	my husband							
-Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY1	mo bhean chéile	my wife							
-Irish on your own	13	Family2		PHRASE	MY_INDEFINITE_MASS	mo chuid airgid	my money							
-Irish on your own	13	Family2		PHRASE	MY_INDEFINITE_MASS	mo chuid gruaige	my hair							
+Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY1	m'athair mór	my grandfather		s					
+Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY1	mo mháthair mhór	my grandmother		s					
+Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY1	m'uncail	my uncle		s					
+Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY1	m'aintín	my aunt		s					
+Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY1	m'fhear céile	my husband		s					
+Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY1	mo bhean chéile	my wife		s					
+Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid deartháireacha	my brothers		p					
+Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid deirfiúracha	my sisters		p					
+Irish on your own	13	Family2		PHRASE	MY_CLOSE_FAMILY2	mo chuid col ceathracha	my cousins		p					
+Irish on your own	13	Family2		PHRASE	MY_INDEFINITE_MASS	mo chuid airgid	my money		p					
+Irish on your own	13	Family2		PHRASE	MY_INDEFINITE_MASS	mo chuid gruaige	my hair		p					
 Irish on your own	13	Family2		TEMPLATE		Seo $MY_CLOSE_FAMILY1	This is  $MY_CLOSE_FAMILY1							
 Irish on your own	13	Family2		TEMPLATE		Seo $MY_CLOSE_FAMILY2	These are $MY_CLOSE_FAMILY2							
 Irish on your own	13	Family2		TEMPLATE		Sin $MY_CLOSE_FAMILY2	They are $MY_CLOSE_FAMILY2							
@@ -1500,7 +1500,6 @@ Irish on your own	13	Family2			AGE	ochtó bliain	80 years
 Irish on your own	13	Family2			AGE	nócha bliain	90 years							
 Irish on your own	13	Family2			AGE	céad bliain	100 years							
 Irish on your own	13	Family2		TEMPLATE		$AGE d'aois	$AGE of age							
-Irish on your own	13	Family2		TEMPLATE		Tá mé $AGE d'aois	Tá mé $AGE of age							
 Irish on your own	13	Family2				chóir a bheith	almost							
 Irish on your own	13	Family2				go leith	and a half							
 Irish on your own	13	Family2		TEMPLATE		chóir a bheith $AGE	almost $AGE							
